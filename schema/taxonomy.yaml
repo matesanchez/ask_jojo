@@ -1,0 +1,131 @@
+# taxonomy.yaml
+#
+# First-draft directory taxonomy for ask_jojo_wiki/.
+# The taxonomy is intentionally small at the start of the Protein Sciences
+# phase — new directories emerge from content, not from preemptive planning.
+# Every ad-hoc directory created during absorb is reviewed at the next
+# checkpoint (see schema/CLAUDE.md §3) and either added here or renamed.
+#
+# Conventions:
+#   - Directory names are plural, kebab-case, lowercase.
+#   - Page filenames are kebab-case, stem-form: `tyk2.md`, not `the-tyk2-target.md`.
+#   - Each directory has a purpose statement; pages that do not fit the
+#     purpose belong elsewhere.
+#
+# Format: each entry describes one top-level wiki directory.
+#   - key: directory name (relative to ask_jojo_wiki/)
+#   - purpose: one-sentence description of what belongs here
+#   - page_types: which SCHEMA.md page types are expected
+#   - examples: a few hypothetical page names (for guidance, not normative)
+#   - min_length_for_promotion: words below this live as a section on a
+#       larger page, not as their own file
+#
+# Schema version: 0.1.0
+# Last updated: 2026-04-22
+
+version: 0.1.0
+updated: 2026-04-22
+corpus_scope: protein-sciences
+
+directories:
+
+  programs:
+    purpose: "Named Nurix drug-discovery programs — one page per program, covering strategy, history, key decisions, and current state."
+    page_types: [program]
+    examples:
+      - programs/tyk2-program.md
+      - programs/ar-v7-program.md
+    min_length_for_promotion: 400
+
+  targets:
+    purpose: "Biological targets (proteins, pathways) that Nurix programs act on — one page per target, agnostic of program."
+    page_types: [target]
+    examples:
+      - targets/tyk2.md
+      - targets/crbn.md
+      - targets/ar.md
+    min_length_for_promotion: 200
+
+  platforms:
+    purpose: "Nurix proprietary technology platforms (DELs, degrader libraries, screening platforms)."
+    page_types: [platform]
+    examples:
+      - platforms/del-library.md
+      - platforms/degrader-platform.md
+    min_length_for_promotion: 300
+
+  methods:
+    purpose: "Experimental methods and protocols used across the org — one page per method, not per execution."
+    page_types: [method, protocol]
+    examples:
+      - methods/akta-protein-purification.md
+      - methods/sec-hplc.md
+      - methods/cetsa.md
+    min_length_for_promotion: 200
+
+  equipment:
+    purpose: "Instruments and major equipment — model numbers, operational notes, calibration history links, known gotchas."
+    page_types: [equipment]
+    examples:
+      - equipment/akta-avant.md
+      - equipment/tecan-fluent.md
+    min_length_for_promotion: 150
+
+  people:
+    purpose: "Nurix scientists and external collaborators whose work is cited in the wiki. Short, factual, role-focused. No performance commentary."
+    page_types: [person]
+    examples:
+      - people/jane-doe.md
+    min_length_for_promotion: 80
+
+  concepts:
+    purpose: "General scientific concepts that the wiki references repeatedly and wants to define in one place."
+    page_types: [concept]
+    examples:
+      - concepts/targeted-protein-degradation.md
+      - concepts/molecular-glue.md
+      - concepts/ternary-complex.md
+    min_length_for_promotion: 200
+
+  decisions:
+    purpose: "Program- and org-level decisions that future readers will want to trace — why-this-over-that, as captured in source documents."
+    page_types: [decision]
+    examples:
+      - decisions/tyk2-warhead-selection-2024.md
+    min_length_for_promotion: 150
+
+  outputs:
+    purpose: "Artifacts produced by the chat interface — summaries, comparisons, generated decks, charts. Candidates for promotion into the main wiki at the next lint pass."
+    page_types: [output]
+    examples:
+      - outputs/2026-04-22_tyk2-vs-ar-degraders_comparison.md
+    min_length_for_promotion: 0  # outputs are promoted, not demoted
+
+  derived:
+    purpose: "Alias for outputs/ during migration. Will be merged into outputs/ once the lint pipeline handles promotion. Do not create new pages here."
+    page_types: [output]
+    examples: []
+    min_length_for_promotion: 0
+    deprecated: true
+
+# Reserved top-level files (not directories) at the wiki root:
+reserved_files:
+  - _index.md         # catalog of every page, one-line summaries
+  - _backlinks.json   # reverse-link index, rebuilt every checkpoint
+  - SCHEMA.md         # the wiki's operating manual
+  - README.md         # repo-level orientation
+  - .graphify/        # graphify's output (Phase 7a), excluded via .jojoignore
+
+# Directories that are NEVER created at the wiki root:
+forbidden:
+  - drafts/           # use the stub lifecycle in frontmatter, not a drafts dir
+  - archive/          # use status: archived in frontmatter
+  - tmp/              # ad-hoc junk is someone else's problem — do not create
+  - notes/            # notes are either outputs/ or decisions/ or concepts/
+
+# Phases beyond Protein Sciences will add:
+#   - functions/      (Nurix org functions: IT, Legal, HR, Clinical, etc.)
+#   - policies/       (internal policies, SOPs framed as org-level)
+#   - vendors/        (external vendors, CROs, service providers)
+# These are NOT created until their corpus (Early Discovery, Nurix-wide)
+# is brought into scope. See PLAN.md §4 D12.

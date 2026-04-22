@@ -54,13 +54,13 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 - [x] `.gitignore` committed to each repo (templates from `sample_git_ignore_*`)
 - [x] `SCHEMA.md` v0.1.0 committed to `ask_jojo_wiki/`
 - [x] `README.md` for `ask_jojo_wiki/` and `ask_jojo_raw/` committed to their respective repos
-- [ ] `ask_jojo/README.md` drafted (app-repo-specific entry point)
-- [ ] `ask_jojo/schema/CLAUDE.md` v0 drafted (constitution + absorb loop + writing rules)
-- [ ] `ask_jojo/schema/taxonomy.yaml` first-draft directory taxonomy (§4 D4 starter list)
-- [ ] ADR 0001-wiki-over-rag.md
-- [ ] ADR 0002-three-repo-split.md
-- [ ] ADR 0003-packages-layout.md
-- [ ] ADR 0004-local-first-deployment.md
+- [x] `ask_jojo/README.md` drafted (app-repo-specific entry point)
+- [x] `ask_jojo/schema/CLAUDE.md` v0 drafted (constitution + absorb loop + writing rules)
+- [x] `ask_jojo/schema/taxonomy.yaml` first-draft directory taxonomy (§4 D4 starter list)
+- [x] ADR 0001-wiki-over-rag.md
+- [x] ADR 0002-three-repo-split.md
+- [x] ADR 0003-packages-layout.md
+- [x] ADR 0004-local-first-deployment.md
 - [ ] `jojo-bot[bot]` GitHub service account provisioned (for automated commits in Phases 1, 2, 6)
 - [ ] Legal / MSA review kicked off (confirm Nurix↔Anthropic MSA covers Protein Sciences data classes)
 - [ ] Anthropic API keys provisioned; Claude Haiku 4.5 / Sonnet 4.6 / Opus 4.6 routing verified
@@ -261,3 +261,4 @@ Non-trivial edits to this file. The frozen ADR (`docs/ADR/0000-v2-roadmap.md`) i
 | --- | --- | --- |
 | 2026-04-22 | Initial creation of status tracker | Mateo + Claude |
 | 2026-04-22 | Three GitHub repos created and pushed; PLAN.md relocated to `ask_jojo/`; workspace duplicates cleaned; paths updated to `C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\` (ADR 0000 left untouched) | Mateo + Claude |
+| 2026-04-22 | Phase 0 deep-work push: `ask_jojo/README.md`, `schema/CLAUDE.md` v0.1.0, `schema/taxonomy.yaml` v0.1.0, ADRs 0001–0004 all drafted. Remaining Phase 0 items are the human-only ones (service account, legal/MSA review, API key verification). | Mateo + Claude |
