@@ -1,0 +1,78 @@
+# ────────────────────────────────────────────────────────────────
+# ask_jojo — Application repo .gitignore
+# ────────────────────────────────────────────────────────────────
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.hypothesis/
+
+# Node / Next.js
+node_modules/
+.next/
+.turbo/
+out/
+dist/
+build/
+*.tsbuildinfo
+.pnpm-store/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+.env.production
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# Application databases (created at runtime)
+*.sqlite
+*.sqlite3
+*.db
+chroma_db/
+.chroma/
+
+# Logs and runtime
+*.log
+logs/
+runtime/
+tmp/
+*.pid
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OS artifacts
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Local Claude Code / agent files
+.claude/local/
+.claude/cache/
+
+# Optional: keep project-wide .claude settings tracked, but not personal overrides
+.claude/settings.local.json
