@@ -13,7 +13,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | Field | Value |
 | --- | --- |
 | Last updated | 2026-04-22 |
-| Current phase | Phase 0 — Preparation and Scaffolding |
+| Current phase | Phase 1 — Source Ingestion (local tier complete; cloud tier awaiting IT creds) |
 | Overall status | 🟡 In progress |
 | MVP target | Phases 0–6 (linting + rich outputs in scope) |
 | Blocking risks | None yet |
@@ -25,8 +25,8 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 
 | # | Phase | Status | Estimate | Started | Exit-criterion met |
 | - | --- | --- | --- | --- | --- |
-| 0 | Preparation and Scaffolding | 🟡 | 1–2 wk | 2026-04-22 | — |
-| 1 | Source Ingestion (`ask_jojo_raw/`) | ⚪ | 3–5 wk | — | — |
+| 0 | Preparation and Scaffolding | 🟢 | 1–2 wk | 2026-04-22 | 2026-04-22 |
+| 1 | Source Ingestion (`ask_jojo_raw/`) | 🟡 | 3–5 wk | 2026-04-22 | — |
 | 2 | Wiki Compile (raw → `ask_jojo_wiki/`) | ⚪ | 6–8 wk | — | — |
 | 3 | JoJo Bot IDE Tabs (Wiki / Raw / Ops) | ⚪ | 4–6 wk (parallel w/ 2) | — | — |
 | 4 | Q&A over the Wiki + query router | ⚪ | 3–4 wk | — | — |
@@ -38,7 +38,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 
 ---
 
-## Phase 0 — Preparation and Scaffolding · 🟡
+## Phase 0 — Preparation and Scaffolding · 🟢
 
 **Goal.** Stand up the skeletal structure of v2.0 without changing any v1.0 behavior.
 
@@ -66,6 +66,12 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 - [x] `jojo-bot` service identity provisioned via git-identity overlay (ADR 0005 + `ops/service-account/`). Full GitHub App deferred to Phase 7b (`PHASE_7B_APP_SETUP.md`).
 - [x] Legal / MSA review complete — cleared 2026-04-22 conditional on `ask_jojo_raw` remaining private. Invariant captured in ADR 0006; visible notice added to `ask_jojo_raw/README.md`.
 - [~] Anthropic API keys — model access confirmed for all three tiers (Haiku 4.5 / Sonnet 4.6 / Opus 4.6); keys not yet provisioned. **Not blocking Phase 1** (ingest makes no Claude calls). Must be wired before Phase 2 absorb. Tracked as a Phase 2 prerequisite rather than a Phase 0 blocker.
+- [x] `packages/` skeleton — 7 packages (`jojo_core`, `jojo_ingest`, `jojo_compile`, `jojo_qa`, `jojo_output`, `jojo_lint`, `jojo_graph`) each with `__init__.py`, `cli.py` stub returning exit code 1, `README.md`, and a smoke test. `pyproject.toml` wires hatchling + 7 console entry points + dev/backend extras + ruff + pytest config.
+- [x] `.github/workflows/ci.yml` — ruff + pytest CI on push/PR (Python 3.11).
+- [x] `src/backend/` — FastAPI app with `/health` plus 5 routers (`wiki`, `raw`, `viz`, `ops`, `ingest`), all endpoints returning HTTP 501 with phase-pointing messages. Smoke tests (health + parametrized 501 coverage across 12 endpoints) passing.
+- [x] `src/frontend/` — Next.js 14 App Router scaffold with persistent header/nav and `(tabs)` route group for `/wiki`, `/raw`, `/viz`, `/ops` placeholder pages. `next.config.js` proxies `/api/*` → backend.
+- [x] Redis + RQ infrastructure — `docker-compose.yml` for dev (redis:7-alpine, AOF + snapshot persistence), `docs/ops/redis-setup.md` documenting both dev (Docker) and prod (Memurai on Windows) paths per ADR 0004.
+- [x] `docs/budget-model.xlsx` — 3-sheet Claude API budget model (Overview / Assumptions / Weekly_Spend) at three corpus scales (100 / 500 / 2000 docs). Zero formula errors across 36 formulas. Caveats: pricing is placeholder until API keys issued; nightly Sonnet lint dominates at Nurix-wide scale (~$113/wk of $155/wk total).
 
 ### Notes
 
@@ -75,26 +81,34 @@ _Add dated entries below as work progresses._
 
 ---
 
-## Phase 1 — Source Ingestion · ⚪
+## Phase 1 — Source Ingestion · 🟡
 
 **Exit criterion.** `jojo_ingest sync-all` pulls ≥100 files from ≥2 Protein Sciences connectors into `ask_jojo_raw/` in under an hour with correct `access_level` metadata; daily incremental sync runs unattended for a week without crashes.
 
+**Phase 1a (local tier) — shipped 2026-04-22.** Drive (local filesystem) + upload endpoint, shared driver/converter/manifest machinery, backend wired, exit-criterion smoke test green on 105 files in under a second. Enough to start filing Protein Sciences SOPs manually today. Cloud tier (SharePoint / OneDrive / NurixNet) waits on IT for MS Graph app registration + VPN access. The ≥100-files-in-under-an-hour exit criterion is satisfied for the local tier; the "≥2 connectors" half of the criterion stays open until one cloud tier lands.
+
 ### Deliverables checklist
 
-- [ ] `packages/jojo_connectors_common/` — base connector interface
-- [ ] `packages/jojo_ingest/sharepoint.py` — MS Graph SDK, `Files.Read.All` + `Sites.Read.All`
-- [ ] `packages/jojo_ingest/onedrive.py`
-- [ ] `packages/jojo_ingest/drive.py` — SMB + local path fallback
-- [ ] `packages/jojo_ingest/nurixnet.py` — Playwright, selectors quarantined
-- [ ] `packages/jojo_ingest/upload.py` — local-upload endpoint
-- [ ] `ask_jojo_raw/manifest.json` schema locked + seeded
-- [ ] YAML frontmatter spec for raw files (`id`, `source_type`, `source_url`, `sha256`, `access_level`, …)
-- [ ] Windows Task Scheduler integration (SharePoint 4h · OneDrive 24h · NurixNet weekly · Drive 24h)
-- [ ] Secrets at `%APPDATA%\JojoBot\config.json` (DPAPI-encrypted)
+- [x] `packages/jojo_connectors_common/` — base connector interface (`Connector` ABC, `SourceEntry` dataclass, `ConnectorResult`, `IngestError`), YAML frontmatter spec + parser, canonical SHA256, PII redaction pass (ssn / credit card / email / phone / patient-id / DOB), `.jojoignore` gitignore-style filter, `Manifest` with idempotent upsert + supersedence tracking. 18 unit tests green.
+- [x] `packages/jojo_ingest/drive.py` — local filesystem / SMB connector. Walks directory trees, respects `.jojoignore`, filters unsupported types, honors `since` via mtime for incremental sync. 5 integration tests.
+- [x] `packages/jojo_ingest/upload.py` — single-file connector for the UI upload endpoint. Rejects unsupported extensions upfront with an actionable error. 3 tests.
+- [x] File-type converters under `packages/jojo_ingest/converters/` — `.docx` via mammoth, `.xlsx` via openpyxl (one `## <sheet>` per worksheet, markdown tables), `.pptx` via python-pptx (bullets + speaker notes), `.pdf` via PyMuPDF (`## Page N` sections, flags image-only pages), text with encoding fallback chain. 7 tests covering real generated files.
+- [x] `packages/jojo_ingest/driver.py` — `IngestDriver` shared pipeline: redact → hash → manifest check → write raw `.md` with frontmatter → update manifest → append change record. Idempotent re-runs produce zero work; content changes produce updates; source renames produce supersedence chains.
+- [x] `packages/jojo_ingest/{sharepoint,onedrive,nurixnet}.py` — stubs that implement the `Connector` interface but raise `NotImplementedError` with actionable messages (MS Graph app ID / VPN access / Playwright + IT ticket). Parametrized interface-conformance test ensures all three fail loudly and point at the right remediation.
+- [x] `jojo-ingest` CLI — argparse subcommands `sync-all`, `sync <connector>`, `upload <file>`, `resync <connector>`, `status`. Drive/upload tiers run inline; stubbed connectors surface a friendly "needs creds" message.
+- [x] Backend `/api/ingest/*` wired up — `GET /connectors` (readiness), `POST /sync/{connector}` (RQ-enqueue with inproc fallback), `POST /resync/{connector}`, `POST /upload` (multipart), `GET /jobs`, `GET /jobs/{id}`, `GET /status`. 8 endpoint tests green. `/schedule` still 501, deferred to local-mode packaging pass.
+- [x] `ask_jojo_raw/manifest.json` schema locked at `0.1.0` + seeded. `.jojoignore`, `_changes/` directory, and `DIRECTORY.md` (mechanical companion to the narrative README) added to the raw repo.
+- [x] YAML frontmatter spec for raw files — see `packages/jojo_connectors_common/frontmatter.py` `RawFrontmatter` + `FRONTMATTER_FIELDS`. All required PLAN.md §6 Phase 1 fields covered.
+- [x] End-to-end exit-criterion smoke test — `test_phase1_exit_criterion` seeds 120 files across 8 subdirectories, runs drive ingest, verifies 105 files land (15 `drafts/` ignored), checks frontmatter well-formedness on a random sample, verifies second run is zero-work, verifies a 5-file edit produces exactly 5 updates.
+- [ ] `packages/jojo_ingest/sharepoint.py` — full MS Graph SDK implementation (`Files.Read.All` + `Sites.Read.All`). **Blocked on IT.** Stub is in place.
+- [ ] `packages/jojo_ingest/onedrive.py` — full MS Graph SDK implementation. **Blocked on IT.** Stub is in place.
+- [ ] `packages/jojo_ingest/nurixnet.py` — Playwright crawler, selectors quarantined under `packages/jojo_ingest/nurixnet/selectors.py`. **Blocked on VPN access + IT ticket for jojo-bot service account.** Stub is in place.
+- [ ] Windows Task Scheduler integration (SharePoint 4h · OneDrive 24h · NurixNet weekly · Drive 24h) — deferred to local-mode packaging pass at end of Phase 1 (Windows-only, best done alongside the installer).
+- [ ] Secrets at `%APPDATA%\JojoBot\config.json` (DPAPI-encrypted) — deferred to local-mode packaging pass. Current env-var reads (`JOJO_RAW_ROOT`, `JOJO_UPLOAD_DIR`, `JOJO_REDIS_URL`) are sufficient for dev + the local tier.
 
 ### Notes
 
-_None yet._
+- **2026-04-22** — Phase 1a (local tier, fully wired) complete. New `jojo_connectors_common` package ships the shared primitives; `jojo_ingest` has a real `IngestDriver` + drive + upload + stubs. Backend router is no longer a bag of 501s — drive + upload endpoints execute against an in-process fallback when Redis isn't reachable (so CI doesn't need a live broker). 83 tests green, ruff clean. `ask_jojo_raw/` seeded with `.jojoignore`, `_changes/`, `DIRECTORY.md`, and a fresh schema-0.1.0 manifest. Cloud tier (SharePoint/OneDrive/NurixNet) deliberately scoped out of this push — IT hasn't issued MS Graph app registration or VPN-scoped credentials for `jojo-bot[bot]`, and stubs return actionable `NotImplementedError` messages rather than rotting into silent no-ops.
 
 ---
 
@@ -267,3 +281,5 @@ Non-trivial edits to this file. The frozen ADR (`docs/ADR/0000-v2-roadmap.md`) i
 | 2026-04-22 | Phase 0 deep-work push: `ask_jojo/README.md`, `schema/CLAUDE.md` v0.1.0, `schema/taxonomy.yaml` v0.1.0, ADRs 0001–0004 all drafted. Remaining Phase 0 items are the human-only ones (service account, legal/MSA review, API key verification). | Mateo + Claude |
 | 2026-04-22 | Service-account scaffolding: ADR 0005 ratified with two-phase strategy (git-identity overlay now, GitHub App in Phase 7b). `ops/service-account/` directory created with `bot-identity.ps1`, `bot-commit.ps1`, `test-bot-identity.ps1`, operational README, and `PHASE_7B_APP_SETUP.md` runbook. Phase 0 checkbox checked off; full GitHub App provisioning tracked for Phase 7b. | Mateo + Claude |
 | 2026-04-22 | Legal/MSA review cleared for ingest, conditional on `ask_jojo_raw` remaining a private repo. ADR 0006 ratified as the privacy invariant. Visible banner added to `ask_jojo_raw/README.md`. Open Question #3 closed. Anthropic API keys still to be provisioned, but reclassified from Phase 0 blocker to Phase 2 prerequisite (Phase 1 ingest makes no Claude calls). | Mateo + Claude |
+| 2026-04-22 | Phase 0 scaffolding push: 7-package Python skeleton under `packages/` (all with CLI stub + smoke tests), `pyproject.toml` with hatchling + dev/backend extras, CI workflow (ruff + pytest), FastAPI backend under `src/backend/` with 5 routers returning 501 placeholders, Next.js 14 frontend under `src/frontend/` with `(tabs)` route group, Redis dev compose + Memurai-on-Windows runbook, and `docs/budget-model.xlsx` (3 sheets, 36 formulas, 0 errors). Full test suite green; ready for Phase 1 ingest work. | Mateo + Claude |
+| 2026-04-22 | Phase 1a (local tier) complete. Phase 0 marked 🟢; Phase 1 marked 🟡. Shipped: `jojo_connectors_common` (frontmatter / redaction / ignore / manifest / connector-base — 18 tests), `jojo_ingest` drive + upload connectors with shared `IngestDriver` (10 tests), file-type converters for docx/xlsx/pptx/pdf/text (7 tests), sharepoint/onedrive/nurixnet stubs (parametrized interface test), argparse-based `jojo-ingest` CLI, backend `/api/ingest/*` fully wired (RQ with inproc fallback, 8 endpoint tests), `ask_jojo_raw/` scaffolding (`.jojoignore`, `_changes/`, `DIRECTORY.md`, schema-0.1.0 manifest), Phase 1 dependency groups in `pyproject.toml` (`ingest`, `cloud`, `web`), and the `test_phase1_exit_criterion` end-to-end smoke test (120 files → 105 ingested, re-run zero-work, 5-edit → 5 updated). 83 tests green, ruff clean. Cloud tier deliberately deferred pending IT issuing MS Graph creds + VPN access; stubs raise actionable `NotImplementedError` with remediation pointers. | Mateo + Claude |
