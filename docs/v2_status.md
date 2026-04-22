@@ -61,7 +61,8 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 - [x] ADR 0002-three-repo-split.md
 - [x] ADR 0003-packages-layout.md
 - [x] ADR 0004-local-first-deployment.md
-- [ ] `jojo-bot[bot]` GitHub service account provisioned (for automated commits in Phases 1, 2, 6)
+- [x] ADR 0005-jojo-bot-service-account.md
+- [x] `jojo-bot` service identity provisioned via git-identity overlay (ADR 0005 + `ops/service-account/`). Full GitHub App deferred to Phase 7b (`PHASE_7B_APP_SETUP.md`).
 - [ ] Legal / MSA review kicked off (confirm Nurix↔Anthropic MSA covers Protein Sciences data classes)
 - [ ] Anthropic API keys provisioned; Claude Haiku 4.5 / Sonnet 4.6 / Opus 4.6 routing verified
 
@@ -233,7 +234,7 @@ Carried forward from `PLAN.md` §13. Update as answers land.
 | # | Question | Owner | Decision | Decided |
 | - | --- | --- | --- | --- |
 | 1 | GitHub org: `matesanchez` personal account vs. a Nurix org? | Mateo | — | — |
-| 2 | `jojo-bot[bot]` service account provisioning path | Mateo + IT | — | — |
+| 2 | `jojo-bot[bot]` service account provisioning path | Mateo + IT | Two-phase: git-identity overlay locally (Phases 0–6); GitHub App in Phase 7b | 2026-04-22 |
 | 3 | Legal / MSA confirmation on Protein Sciences data classes | Legal | — | — |
 | 4 | Should the query router live in `ask_jojo/` or split into its own package? | Mateo | — | — |
 | 5 | Wiki locale rules (Nurix-wide SOPs sometimes mix US / UK spellings) | Domain reviewer | — | — |
@@ -262,3 +263,4 @@ Non-trivial edits to this file. The frozen ADR (`docs/ADR/0000-v2-roadmap.md`) i
 | 2026-04-22 | Initial creation of status tracker | Mateo + Claude |
 | 2026-04-22 | Three GitHub repos created and pushed; PLAN.md relocated to `ask_jojo/`; workspace duplicates cleaned; paths updated to `C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\` (ADR 0000 left untouched) | Mateo + Claude |
 | 2026-04-22 | Phase 0 deep-work push: `ask_jojo/README.md`, `schema/CLAUDE.md` v0.1.0, `schema/taxonomy.yaml` v0.1.0, ADRs 0001–0004 all drafted. Remaining Phase 0 items are the human-only ones (service account, legal/MSA review, API key verification). | Mateo + Claude |
+| 2026-04-22 | Service-account scaffolding: ADR 0005 ratified with two-phase strategy (git-identity overlay now, GitHub App in Phase 7b). `ops/service-account/` directory created with `bot-identity.ps1`, `bot-commit.ps1`, `test-bot-identity.ps1`, operational README, and `PHASE_7B_APP_SETUP.md` runbook. Phase 0 checkbox checked off; full GitHub App provisioning tracked for Phase 7b. | Mateo + Claude |
