@@ -42,18 +42,19 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 
 **Goal.** Stand up the skeletal structure of v2.0 without changing any v1.0 behavior.
 
-**Exit criterion.** All three repos exist on GitHub under the Nurix org (or Mateo's personal account, TBD), are cloned locally on disk (not in any synced folder), `SCHEMA.md` v0.1.0 is committed to `ask_jojo_wiki/`, ADRs 0000–0004 are committed to `ask_jojo/docs/ADR/`, and `jojo-workspace/README.md` explains the layout.
+**Exit criterion.** All three repos exist on GitHub under the Nurix org (or Mateo's personal account, TBD), are cloned locally on disk at `C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\` (not in any synced folder), `SCHEMA.md` v0.1.0 is committed to `ask_jojo_wiki/`, ADRs 0000–0004 are committed to `ask_jojo/docs/ADR/`, and the workspace `README.md` explains the layout.
 
 ### Deliverables checklist
 
-- [x] `PLAN.md` merged from plans A + B and committed at workspace root
+- [x] `PLAN.md` merged from plans A + B and committed to `ask_jojo/`
 - [x] `docs/ADR/0000-v2-roadmap.md` — frozen ratification copy of PLAN.md (2026-04-22)
 - [x] `docs/v2_status.md` — living status doc (this file)
-- [ ] Three GitHub repos created: `ask_jojo`, `ask_jojo_wiki`, `ask_jojo_raw`
-- [ ] Local clones placed on local disk (`C:\dev\jojo-workspace\`) — **not** in OneDrive/Dropbox/iCloud
-- [ ] `.gitignore` committed to each repo (templates in workspace: `sample_git_ignore_ask_jojo*`)
-- [ ] `SCHEMA.md` v0.1.0 committed to `ask_jojo_wiki/`
-- [ ] `README.md`, `README_ask_jojo_wiki.md`, `README_ask_jojo_raw.md` moved into their respective repos
+- [x] Three GitHub repos created: `ask_jojo`, `ask_jojo_wiki`, `ask_jojo_raw`
+- [x] Local clones placed on local disk (`C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\`) — **not** in OneDrive/Dropbox/iCloud
+- [x] `.gitignore` committed to each repo (templates from `sample_git_ignore_*`)
+- [x] `SCHEMA.md` v0.1.0 committed to `ask_jojo_wiki/`
+- [x] `README.md` for `ask_jojo_wiki/` and `ask_jojo_raw/` committed to their respective repos
+- [ ] `ask_jojo/README.md` drafted (app-repo-specific entry point)
 - [ ] `ask_jojo/schema/CLAUDE.md` v0 drafted (constitution + absorb loop + writing rules)
 - [ ] `ask_jojo/schema/taxonomy.yaml` first-draft directory taxonomy (§4 D4 starter list)
 - [ ] ADR 0001-wiki-over-rag.md
@@ -68,7 +69,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 
 _Add dated entries below as work progresses._
 
-- **2026-04-22** — PLAN.md ratified. Frozen ADR-0000 and this status doc created. Next: create the three GitHub repos and verify clone path is on local disk.
+- **2026-04-22** — PLAN.md ratified. Frozen ADR-0000 and this status doc created. Three GitHub repos (`ask_jojo`, `ask_jojo_wiki`, `ask_jojo_raw`) created and pushed. `PLAN.md` moved from workspace root into `ask_jojo/`. Duplicate source files (`README_ask_jojo_*.md`, `SCHEMA.md`) removed from workspace root. Path references updated from `C:\dev\jojo-workspace\` to `C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\` throughout PLAN.md, v2_status.md, and the workspace README (ADR 0000 intentionally left unchanged as a historical snapshot).
 
 ---
 
@@ -259,3 +260,4 @@ Non-trivial edits to this file. The frozen ADR (`docs/ADR/0000-v2-roadmap.md`) i
 | Date | Change | By |
 | --- | --- | --- |
 | 2026-04-22 | Initial creation of status tracker | Mateo + Claude |
+| 2026-04-22 | Three GitHub repos created and pushed; PLAN.md relocated to `ask_jojo/`; workspace duplicates cleaned; paths updated to `C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\` (ADR 0000 left untouched) | Mateo + Claude |

@@ -1,0 +1,873 @@
+# JoJo Bot v2.0 — The Nurix Knowledge Hub
+
+**Status:** Planning document, pre-implementation. Ratify, then archive a frozen copy as `docs/ADR/0000-v2-roadmap.md` and switch to a living `docs/V2_STATUS.md` that tracks progress against the phases below.
+**Author:** Mateo de los Rios, with AI co-drafting. Merged from two earlier drafts (`jojo_bot_v2_plan_A.md`, `jojo_bot_v2_plan_B.md`) on 2026-04-22.
+**Supersedes:** v1.0 scope (the Cytiva ÄKTA / Protein Purification Expert), which is in production and remains the authoritative assistant for chromatography questions until Phase 4 of this plan lands.
+**Companion documents:** `README.md` (three-repo workspace orientation), `README_ask_jojo_wiki.md`, `README_ask_jojo_raw.md`, `SCHEMA.md` (the wiki's operating manual, already at v0.1.0).
+
+---
+
+## 1. Orientation: What v2.0 Actually Is
+
+It's worth stating what we're building in one paragraph before any of the details, because the whole plan sits on top of a single conceptual move and everything downstream traces back to it.
+
+JoJo Bot v1.0 is a retrieval-augmented question-answering assistant over 232 Cytiva ÄKTA/UNICORN manuals and a handful of Nurix SOPs. PDFs are chunked, embedded with OpenAI `text-embedding-3-small`, stored in ChromaDB, and queried by a FastAPI backend that assembles retrieved chunks into a prompt for Claude or GPT-4o. A Next.js frontend handles the chat UI, citations, and session history. The whole thing is packaged as a self-contained Windows .exe. This architecture is well-matched to its job, which is *"answer a protein-purification question using the manuals."* What v2.0 needs to do is fundamentally different: it needs to be a true Nurix knowledge hub, covering programs, targets, platforms, methods, people, decisions, and whatever else matters — data that is currently pigeonholed across SharePoint, OneDrive, the shared Public Drive, and NurixNet. RAG over that sprawling corpus will not get us there.
+
+The v2.0 vision is not "expand the RAG index." It's to flip the architecture. Instead of the assistant re-deriving knowledge from raw documents on every query (which is what RAG does), the assistant incrementally compiles a persistent wiki — a structured, interlinked collection of markdown files that sits between the raw sources and the user. Every new document, every query, every insight updates this wiki. The wiki becomes the compounding artifact. RAG, if it exists at all, is relegated to a helper role during ingestion or to an escalation layer for very large corpora, not the primary retrieval mechanism at query time.
+
+Karpathy's `llm-wiki` gist is the north star here, and it's the most important conceptual shift in the entire v2.0 project. Pure RAG has no memory across queries, no opinion about what matters, and no way to represent relationships between documents. Ask JoJo *"what's the relationship between our TYK2 program and the PROTAC work?"* and a pure RAG system retrieves some chunks about each and lets Claude stitch them together from scratch every single time. A wiki-backed system already has a `TYK2 Program.md` page, a `PROTAC Platform.md` page, and, if the synthesis was valuable, a linked `TYK2 × PROTAC Crossover.md` page that was written once and updated as new material arrived. The second system gets smarter over time. The first doesn't.
+
+Four open-source projects inform the design without any one of them being an off-the-shelf answer. Karpathy's gist gives us the **conceptual architecture** (raw / wiki / schema layers; Ingest / Query / Lint operations; `_index.md` + `_log.md` as primary navigation). Farzaa's `personal_wiki_skill` gives us a **concrete implementation pattern** (command surface, directory taxonomy philosophy, anti-cramming / anti-thinning rules, the 15-entry checkpoint, Wikipedia-flat tone). Arscontexta gives us **production-grade discipline** (fresh-context-per-phase via subagents, the Record → Reduce → Reflect → Reweave → Verify pipeline, hook-driven schema enforcement, versioned kernel primitives). Graphify gives us the **graph visualization and provenance layer** (knowledge-graph construction, community detection, confidence-tagged EXTRACTED/INFERRED edges, interactive HTML output, MCP server for programmatic queries). We borrow selectively from each and write the Nurix-specific glue ourselves.
+
+Obsidian is explicitly *not* a dependency. The wiki is plain markdown in a git repo, so Obsidian can read it (and we'll keep that as an escape hatch for sanity-checking), but every interaction a user needs — browse, edit via request, graph view, Marp preview, backlinks — must work inside the JoJo Bot frontend so a scientist never has to install or learn a second tool.
+
+---
+
+## 2. Design Principles (Non-Negotiable)
+
+These are the invariants we'll protect across every phase. When trade-offs come up later, re-read this section first.
+
+1. **The wiki is plain Markdown.** No database, no proprietary format, no vendor lock-in. A scientist with VS Code and `git` can read and edit the wiki forever, even if JoJo Bot disappears tomorrow.
+2. **The LLM owns the wiki.** Humans curate sources and ask questions; Claude reads, synthesizes, writes, and maintains the pages. Manual edits are rare, logged, and reconciled by the next lint pass. This discipline is what makes cross-page consistency possible.
+3. **Every claim traces to a source.** Every wiki page's YAML frontmatter lists its `sources:` with raw-entry paths and SHA256 hashes. No untraceable claims. Inline footnote citations for direct quotes and specific numbers.
+4. **EXTRACTED vs INFERRED is always labeled** (graphify's convention). A claim or graph edge is either drawn directly from a source (`extracted`) or a reasoned inference (`inferred` with a confidence score). Users always know what JoJo *read* versus what it *guessed*.
+5. **Raw is immutable.** Once pulled from SharePoint / OneDrive / NurixNet into `ask_jojo_raw/`, the snapshot is read-only. Re-syncs create new versioned snapshots; they never overwrite history. The immutability guarantee is what makes wiki citations meaningful.
+6. **Fresh context per phase.** Following arscontexta's `/ralph` pattern, each pipeline phase (ingest, compile, lint, Q&A synthesis) runs in its own subagent with a clean context window. Long-running maintenance never gets starved by history or by attention decay over a bloated conversation.
+7. **Outputs file back into the wiki.** A presentation, an analysis, a comparison table — if you asked for it, it's probably valuable. The output is written as a new wiki page (or as a new section of an existing page) unless you opt out. This is the mechanism by which exploration compounds.
+8. **Security before scale.** The initial corpus (Protein Sciences) is scoped to documents every full-time Nurix employee is entitled to read. Regulated data (GxP, CTA, clinical, HIPAA) never leaves the Nurix network in the first release. Access tiers beyond "all-FTE" come later, after IT and Legal review.
+9. **Small is beautiful.** Until the wiki exceeds ~200 articles or `_index.md` strains the context window, we do *not* reach for vector RAG over the wiki. We rely on index-first navigation (Karpathy's approach). RAG over the wiki is added only when measured necessary, against the thresholds in Phase 4's escalation rule.
+10. **JoJo Bot is one app.** The user chats, browses the wiki, reviews raw sources, views the graph, and renders slides all inside the JoJo Bot window. Obsidian / VS Code / PowerPoint remain allowed escape hatches but are never required.
+11. **Cost is a first-class constraint.** Claude API spend scales with wiki size × update frequency × query volume. We tier models (Haiku for triage and ingest extraction, Sonnet for the compile path, Opus for lint and cross-page reasoning), cache aggressively by SHA256, and enforce hard per-job budget caps from day one.
+
+---
+
+## 3. Reference Architecture
+
+### 3.1 Three Logical Layers (from Karpathy, adapted)
+
+The v2.0 system keeps everything valuable from v1.0 — the chat UI, session store, citation layer, FastAPI skeleton, Claude API interface, the .exe distribution model — and adds three major subsystems on top.
+
+```
+                           ┌─────────────────────────────────────────────┐
+                           │             JoJo Bot Frontend (Next.js)     │
+                           │  ┌────────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌───┐│
+                           │  │ Chat   │ │ Wiki │ │ Raw  │ │Graph │ │Ops││
+                           │  │ (v1)   │ │ IDE  │ │ tree │ │ tab  │ │tab││
+                           │  └────────┘ └──────┘ └──────┘ └──────┘ └───┘│
+                           └──────────────────────┬──────────────────────┘
+                                                  │ REST + SSE
+                           ┌──────────────────────▼──────────────────────┐
+                           │             FastAPI Backend                 │
+                           │                                             │
+                           │  Orchestrator over the packages/ below      │
+                           │  ┌──────┐┌───────┐┌──────┐┌──────┐┌───────┐ │
+                           │  │ Chat ││ Wiki  ││ Raw  ││ Viz  ││  Ops  │ │
+                           │  │ API  ││ API   ││ API  ││ API  ││  API  │ │
+                           │  └──────┘└───────┘└──────┘└──────┘└───────┘ │
+                           └─┬──────────┬───────────┬───────────┬────────┘
+                             │          │           │           │
+          ┌──────────────────┘          │           │           └──────────────┐
+          ▼                             ▼           ▼                          ▼
+  ┌─────────────────┐       ┌──────────────────────────┐       ┌────────────────┐
+  │  Source         │       │  Wiki Compiler Engine    │       │ Job Queue      │
+  │  Connectors     │─write▶│  (Claude API workers)    │◀─jobs─│ (Redis + RQ or │
+  │  ──────────     │       │  ingest/absorb/lint      │       │  Celery)       │
+  │  SharePoint     │       │  Subagent orchestrator   │       └────────────────┘
+  │  OneDrive       │       │  + prompt library        │
+  │  NurixNet       │       │                          │
+  │  (Playwright)   │       │  Reads raw/, writes      │◀────Schema layer──────┐
+  │  Local uploads  │       │  wiki/ via Claude calls  │     schema/CLAUDE.md  │
+  └────────┬────────┘       └──────┬───────────────────┘     SCHEMA.md        │
+           │                       │                          taxonomy.yaml    │
+           ▼                       ▼                                           │
+   ┌───────────────┐        ┌─────────────┐     ┌─────────────────────┐        │
+   │ ask_jojo_raw/ │        │ask_jojo_wiki│     │  Graphify output    │        │
+   │ (git, immut) │        │ (git, LLM)  │     │  graph.html         │        │
+   │  + manifest   │        │  + SCHEMA   │     │  graph.json         │        │
+   │    .json      │        │  + _index   │     │  GRAPH_REPORT.md    │        │
+   └───────────────┘        └──────┬──────┘     └─────────────────────┘        │
+                                   │                                           │
+                                   │  retrieval                                │
+                                   ▼                                           │
+                        ┌──────────────────────────┐                           │
+                        │  Hybrid retriever        │◀──(activated at >200 pg)──┘
+                        │  (_index.md first;       │
+                        │  qmd BM25+vector later)  │
+                        └──────────────────────────┘
+```
+
+The key invariants to internalize from this diagram: raw sources are *immutable* once ingested (the wiki compiler reads but never modifies them), the wiki is owned *entirely* by Claude API workers (humans never edit it directly except in emergencies), and every artifact is a plain markdown file in a git repo, so version history, diffs, and rollback come for free. These are the ground rules. Violating them is how distrust and drift accumulate.
+
+### 3.2 Three Sibling Repositories (settled)
+
+The workspace is already scaffolded around three sibling repositories, and the existing `README.md` codifies the split. We keep that structure:
+
+```
+jojo_bot_v2.0/                      ← workspace parent folder (not a git repo itself)
+                                    ← active path: C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\
+├── ask_jojo/                       ← THE APP (code lives here)
+├── ask_jojo_wiki/                  ← THE COMPILED WIKI (LLM-authored markdown)
+└── ask_jojo_raw/                   ← THE RAW SOURCES (immutable snapshots)
+```
+
+The three repos change at very different rates — the app changes on human time, the wiki changes on Claude time (dozens of commits per absorb run), the raw layer changes on ingest cadence. Mixing them would make `git log` unreadable and complicate access control. See `README.md` for the full rationale.
+
+### 3.3 Modular Package Layout Inside `ask_jojo/`
+
+Within the app repo, we borrow tig-monorepo's discipline of splitting one codebase into a handful of small, swappable packages. Each package has its own tests, its own README, its own public API, and each is runnable as a CLI (`python -m jojo_ingest sharepoint --site …`). This prevents a 50-file `main.py` and keeps the codebase hackable for a team of one-to-three developers.
+
+```
+ask_jojo/
+├── CHANGELOG.md
+├── README.md
+├── docs/
+│   ├── V2_PLAN.md                  ← this document lives here after ratification
+│   ├── v2_status.md                ← living tracker (replaces frozen plan once phase 0 starts)
+│   ├── ADR/                        ← architecture decision records
+│   │   ├── 0000-v2-roadmap.md      ← frozen copy of this plan at ratification
+│   │   ├── 0001-wiki-over-rag.md
+│   │   ├── 0002-three-repo-split.md
+│   │   ├── 0003-packages-layout.md
+│   │   └── …
+│   └── runbooks/                   ← operational procedures (re-sync, lint, etc.)
+├── prompts/                        ← versioned Claude prompts, one role per file
+│   ├── ingest/
+│   ├── absorb/
+│   ├── lint/
+│   ├── query/
+│   └── README.md
+├── packages/
+│   ├── jojo_core/                  ← Claude client, token accounting, types, DPAPI secrets
+│   ├── jojo_ingest/                ← connectors (SharePoint, OneDrive, drive, NurixNet, upload)
+│   ├── jojo_compile/               ← raw → wiki absorb loop + checkpoint orchestrator
+│   ├── jojo_qa/                    ← index-first query, graph-assisted, RAG escalation
+│   ├── jojo_output/                ← Marp, matplotlib, docx, pptx, pdf renderers + sandbox
+│   ├── jojo_lint/                  ← schema, contradictions, staleness, orphans, etc.
+│   ├── jojo_graph/                 ← thin wrapper around graphify CLI + graph.json helpers
+│   └── jojo_connectors_common/     ← shared auth, retry, manifest helpers
+├── src/
+│   ├── backend/                    ← FastAPI orchestrator over the packages above
+│   │   ├── routers/
+│   │   │   ├── chat_router.py
+│   │   │   ├── wiki_router.py
+│   │   │   ├── raw_router.py
+│   │   │   ├── viz_router.py
+│   │   │   ├── ops_router.py
+│   │   │   └── ingest_router.py
+│   │   └── main.py
+│   └── frontend/                   ← Next.js app router
+│       └── app/(tabs)/…
+├── tests/
+├── dist_scripts/                   ← kept from v1.0: build-package.bat, etc.
+├── Install Auto-Startup.bat        ← kept from v1.0
+├── Start Jojo Bot.bat              ← kept from v1.0
+└── Stop Jojo Bot.bat               ← kept from v1.0
+```
+
+The `packages/` split is how we stay swappable. If the SharePoint connector ever needs to be replaced with a Box connector, `packages/jojo_ingest/box.py` drops in next to `packages/jojo_ingest/sharepoint.py` with the same public interface. If graphify is ever replaced, `packages/jojo_graph/` is the only place that cares.
+
+### 3.4 The Schema Layer (the "constitution")
+
+Taken straight from Karpathy and arscontexta: there is a top-level schema layer that every LLM call reads first. It has three files:
+
+- **`schema/CLAUDE.md`** — the top-level instructions for every Claude call. Tone, writing rules, absorption loop, citation discipline, anti-cramming / anti-thinning, the checkpoint cadence. This is the single most important file in the repo. If you change nothing else, changing `CLAUDE.md` changes how the whole system behaves.
+- **`schema/wiki_schema.md`** (already drafted as `SCHEMA.md` at the root of `ask_jojo_wiki/`, v0.1.0) — page taxonomy, frontmatter format, body structure by type, length targets, lifecycle stages, contradiction policy.
+- **`schema/taxonomy.yaml`** — the directory taxonomy (programs, targets, platforms, methods, proteins, people, decisions, outputs, archive, etc.). Directories *emerge* from the data; this file is a seed, not a decree.
+
+These three files are versioned with semver. When `wiki_schema.md` bumps minor or major, a migration pass runs against existing pages and tags their frontmatter with the new schema version. This is tedious but essential — schema drift is how architectures silently die.
+
+---
+
+## 4. Cross-Cutting Design Decisions (Read Before the Phases)
+
+Decisions that affect every phase. If we don't settle them up front we'll make inconsistent choices downstream.
+
+**D1 — Workspace location (local disk, not cloud-synced).** The workspace parent folder lives on local disk. Never in OneDrive, Dropbox, iCloud, or any sync-enabled folder. Git performs thousands of small-file operations per absorb run and cloud sync clients interfere with them in ways that range from "slow" to "corrupt your repo." The same rule applies to `node_modules/`, Python venvs, and ChromaDB `.sqlite3` files. The active workspace for this project is `C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\`.
+
+**D2 — Wiki ownership (the LLM, full stop).** Farzaa's framing: the LLM is the writer, the human is the curator. You should almost never touch wiki files by hand. If you want to add information, you add a raw source (drop a file into `ask_jojo_raw/local_uploads/…` via the "Upload to raw" button, or wait for a connector sync), or you tell JoJo via chat *"please note that X is now deprecated and move it to the historical section."* The backend converts that to an absorb job. A manual-override escape hatch exists (see D3) but is rare by design. Without this discipline, cross-reference integrity collapses.
+
+**D3 — Manual-edit escape hatch.** Every wiki page's view in the Wiki IDE tab has a "Request edit from JoJo" flow (the primary path: type a natural-language instruction, JoJo drafts a diff, you accept/reject). There is also a "Manual override" mode behind a confirmation dialog that opens the file in a monaco editor for direct editing. Manual overrides are committed with a `[manual]` commit prefix, logged in `_log.md`, and flagged for the next lint pass to reconcile.
+
+**D4 — Directory structure emerges from content.** Starter taxonomy in `schema/taxonomy.yaml` seeds the wiki with `programs/`, `targets/`, `platforms/`, `methods/`, `techniques/`, `protocols/`, `assays/`, `equipment/akta/`, `equipment/unicorn/`, `reagents/`, `people/`, `projects/`, `decisions/`, `meetings/`, `papers/`, `concepts/`, `derived/`, `archive/`. Absorb may propose new directories (surfaced for review in the orchestrator) but shouldn't pre-create any that have no content.
+
+**D5 — Page format and schema.** Already defined in `ask_jojo_wiki/SCHEMA.md` v0.1.0 (YAML frontmatter with `title`, `type`, `slug`, `created`, `last_updated`, `last_reviewed`, `schema_version`, `confidence`, `corpus`, `related`, `sources`, `tags`, `aliases`). The `sources` array is the primary defense against hallucination. `confidence`, `last_updated`, and `last_reviewed` are the hooks that make the lint phase possible. Do not deviate from the schema without bumping the version and running a migration.
+
+**D6 — Contradiction policy.** Already defined in `SCHEMA.md` §8. Four rules, in order: (1) if current page confidence is not high, a newer source wins and the old claim moves to `## Historical Context`; (2) if current confidence is high, both claims go to the page (one stays in place, the new one goes to `## Alternate Views`) and the page is flagged for human review; (3) same-date sources resolve by authority ordering (SOPs > published papers > NurixNet > meeting notes > email); (4) if none of the above resolves it, both claims go side by side, the page's confidence drops, and a reviewer flag goes up. This must be deterministic and auditable.
+
+**D7 — Security and access control (start narrow, expand carefully).** The initial corpus (Protein Sciences) is scoped to documents every full-time Nurix employee is entitled to read. This is already codified in `README_ask_jojo_raw.md`. We propagate SharePoint ACLs into each raw file's manifest entry, and each derived wiki page's frontmatter carries the most restrictive access level of any source that contributed to it. At query time, the backend knows who the user is (SSO once Phase 7 lands; local user only before that) and filters accordingly. For v1 of v2, we do not mix access tiers — if a document isn't FTE-readable, it isn't ingested. Expanding to fine-grained per-program or clinical-regulated access is a later sub-phase, gated on IT/Legal review. Defense in depth: source-level ACL at ingest PLUS query-time filter. If in doubt, omit.
+
+**D8 — Model routing and cost tiering.** Default routing, codified in `jojo_core/claude_client.py`:
+
+| Operation | Default model | Rationale |
+| --- | --- | --- |
+| Source classification, format detection, triage | Claude Haiku 4.5 | Cheap, fast, accuracy sufficient |
+| Raw entry extraction + one-paragraph summary | Claude Haiku 4.5 | ~80% of ingest work |
+| PDF vision pass (when OCR errors > 5%) | Claude Sonnet 4.6 vision | Expensive, reserved for the 10% that need it |
+| Per-page absorb (create/update a single page) | Claude Sonnet 4.6 | Primary workhorse |
+| Cross-page integration / reorganize | Claude Opus 4.6 | Needs deeper reasoning |
+| Weekly lint pass (contradictions, stale claims) | Claude Opus 4.6 | High-stakes, low-frequency |
+| Nightly lint (schema, orphans, bloat) | Claude Sonnet 4.6 | High-frequency, lower-stakes |
+| Query-time synthesis | Claude Sonnet 4.6 | Latency- and cost-sensitive |
+| Hard, multi-hop synthesis (user-opt-in) | Claude Opus 4.6 | "Deep mode" toggle in chat |
+
+Three practices keep cost manageable regardless of model: cache aggressively by SHA256 (skip re-processing if source hasn't changed; graphify does exactly this), per-job hard budget caps with kill-switches, and a live cost meter in the Ops tab. The operational target: a full ingest of the v1.0 corpus (232 PDFs) should cost under $50 in Claude fees on Haiku-led extraction with Sonnet-level absorb.
+
+**D9 — Fresh context per phase.** Arscontexta's pattern of spawning a subagent per pipeline phase is worth adopting. Even with Claude 4.6's large context windows, attention degrades as context fills. For an absorb run touching 15 wiki pages, running all 15 updates in one long conversation is worse than spawning 15 small subagents, each with a clean context containing only the source, the target page, and relevant neighbors. The orchestrator manages the queue and handoffs; each subagent returns a structured handoff note when done. More calls and more total tokens, yes, but better accuracy and more parallelism.
+
+**D10 — Git hygiene.** Every wiki commit is authored by a dedicated service account (`jojo-bot[bot]`), so `git log --author` cleanly separates automated writes from human overrides. Commit messages follow the structured format in `README_ask_jojo_wiki.md` (`absorb(protein-sciences): 8 pages touched, 2 created` + page list + source citation). Pre-commit hooks in `ask_jojo_wiki/` run `jojo_lint schema`. Post-commit hooks (optional for local mode, required in Phase 7 server mode) push to origin.
+
+**D11 — Deployment model: local-first, server later (settled per user decision).** Phases 0–6 ship as a standalone Windows .exe (the same distribution model as v1.0), with `ask_jojo_wiki/` and `ask_jojo_raw/` optionally synced to a shared OneDrive/SharePoint location so a small team can work off one vault without a backend server. Phase 7 promotes ingest / compile / lint to a Nurix-hosted VM and the .exe becomes a thin client. This keeps the initial IT lift small and lets us prove value before asking for infrastructure. See D7 and Phase 7 for the access-control upgrade that server mode requires.
+
+**D12 — Corpus rollout (settled in README_ask_jojo_raw.md).** The wiki is built up one corpus at a time. **Phase A: Protein Sciences** (initial scope). **Phase B: Early Discovery** (expansion once Protein Sciences passes expert review). **Phase C: Nurix-wide** (expansion once Early Discovery passes review). Each expansion is a connector configuration change plus a re-run of the absorb pipeline against the expanded raw layer. This is separate from the engineering phases below, though Protein Sciences alignment starts during engineering Phase 2.
+
+---
+
+## 5. The v1.0 → v2.0 Delta
+
+| Concern | v1.0 | v2.0 |
+| --- | --- | --- |
+| Sources | 232 Cytiva PDFs + Nurix SOPs, hand-uploaded | SharePoint + OneDrive + Public Drive + NurixNet, auto-synced |
+| Storage | ChromaDB vector store, opaque | `ask_jojo_raw/` + `ask_jojo_wiki/` plain markdown, human-readable |
+| Retrieval | Vector search + web fallback | Index-first (Karpathy); RAG as escalation above ~200 pages |
+| Grounding | Per-query retrieval from chunks | Pre-compiled, cross-referenced wiki pages |
+| Outputs | Chat text + protocol .docx | Markdown, Marp, matplotlib, docx, pptx, PDF, filed back into wiki |
+| Maintenance | Manual doc upload | Scheduled connectors, nightly lint, weekly Opus pass |
+| Scope | Protein purification only | Any Protein Sciences topic (phase A); expands to Early Discovery (B) then Nurix-wide (C) |
+| App surface | Chat only | Chat + Wiki IDE + Raw browser + Graph + Ops tabs |
+| Distribution | Standalone .exe, per-user ChromaDB | Standalone .exe (unchanged) + per-user local clone of the three git repos on local disk (never in OneDrive / Dropbox / iCloud); shared Nurix-internal server promoted in Phase 7 |
+| v1 path | N/A | Preserved as the ÄKTA specialist; query router sends chromatography questions there |
+
+Nothing valuable from v1.0 is thrown away. The existing chat UI, session store, citation layer, FastAPI skeleton, and Claude API interface carry forward unchanged into v2.0's `ask_jojo/` repo. The existing ChromaDB instance keeps running as scaffolding for the v2.0 ingest pipeline's pre-retrieval step on long source documents (see Phase 2). The legacy RAG path remains wired to the ÄKTA/UNICORN subset of raw sources even after Phase 4, routed via the query router.
+
+---
+
+## 6. The Phased Plan
+
+Each phase below lists: goal, deliverables, architectural detail, cross-walk to the reference projects, risks, time estimate (solo developer + Claude Code), and an explicit exit criterion. **MVP target = Phases 0–6.** Phase 7 (shared server) and Phase 8 (synthetic data / fine-tune) are post-MVP.
+
+### Phase 0 — Preparation and Scaffolding (1–2 weeks)
+
+**Goal.** Stand up the skeletal structure of v2.0 without changing any v1.0 behavior, so that there's a working baseline to build on.
+
+**Deliverables.**
+- The three sibling repos (`ask_jojo`, `ask_jojo_wiki`, `ask_jojo_raw`) created on GitHub and cloned as siblings inside `C:\Users\mdelosrios\Claude_Local\jojo_bot_v2.0\` on local disk.
+- `ask_jojo_wiki/SCHEMA.md` v0.1.0 already exists — review it, iterate once with a domain reviewer, commit.
+- `ask_jojo/schema/CLAUDE.md` v0: first pass at the constitution, writing rules, tone guide, absorption loop summary (adapted from farzaa and arscontexta).
+- `ask_jojo/schema/taxonomy.yaml`: first-draft directory taxonomy (the starter list from §4 D4).
+- `ask_jojo/docs/ADR/0000-v2-roadmap.md`: frozen copy of this plan at ratification.
+- `ask_jojo/docs/ADR/0001-wiki-over-rag.md`: the design decision record explaining why we're choosing LLM-compiled wiki over pure RAG. Cites Karpathy.
+- `ask_jojo/docs/ADR/0002-three-repo-split.md`, `0003-packages-layout.md`, `0004-local-first-deployment.md`: the other cross-cutting decisions as ADRs.
+- `packages/` skeleton: empty `jojo_core`, `jojo_ingest`, `jojo_compile`, `jojo_qa`, `jojo_output`, `jojo_lint`, `jojo_graph`, each with `__init__.py`, `README.md`, and a stub `cli.py`. CI (GitHub Actions) running `ruff` + `pytest` on each.
+- `src/backend/routers/` stubbed: `wiki_router.py`, `raw_router.py`, `viz_router.py`, `ops_router.py`, `ingest_router.py` — all returning 501 with helpful messages. Wired into `main.py`.
+- `src/frontend/app/(tabs)/wiki/page.tsx` placeholder showing "Phase 1 coming soon." This creates the navigation anchor so later phases fill it in without touching the header.
+- Redis + RQ set up as the job queue (docker-compose for local dev, documented install for production .exe).
+- Budget model spreadsheet: estimated Claude API spend per week for ingest + compile + Q&A + lint at three corpus sizes (100, 500, 2000 raw docs).
+- IT ticket filed for Microsoft Graph app registration (scopes: `Files.Read.All`, `Sites.Read.All`), with a fallback plan using OneDrive Files-on-Demand if IT blocks app registration.
+- Legal / MSA review kicked off: confirm Nurix/Anthropic enterprise MSA covers the data classes we plan to send (non-regulated Protein Sciences first).
+
+**Risks and mitigations.**
+- *IT blocks Graph API access.* Ship the OneDrive Files-on-Demand fallback first (read from `%OneDrive%\…` on disk instead of the Graph API). Slower, misses non-synced SharePoint sites, but unblocks development.
+- *Legal flags a data class we planned to ingest.* Scope the initial ingest to confirmed-safe sources only (all-FTE readable, non-GxP, non-CTA, non-clinical). Escalate anything ambiguous.
+
+**Exit criterion.** All three repos exist and are reachable. Existing v1.0 chat interface still works unchanged. New `/wiki` tab is visible in the nav (empty). `main.py` stubbed endpoints return 501. CI passes. IT ticket acknowledged. Schema and CLAUDE.md reviewed by Mateo and at least one domain scientist.
+
+---
+
+### Phase 1 — Source Ingestion: Building `ask_jojo_raw/` (3–5 weeks)
+
+**Goal.** For every source system, produce a connector that writes idempotent, versioned markdown snapshots into `ask_jojo_raw/<source>/…`. No LLM work yet beyond one-paragraph summaries; ingest is mostly mechanical.
+
+**Connectors.**
+
+| Connector | Auth | What it does | Key libraries |
+| --- | --- | --- | --- |
+| `jojo_ingest sharepoint` | MS Graph OAuth (app-only or device-code) | Walks site → document libraries → files; converts .docx/.xlsx/.pptx/.pdf → markdown; records ACL, URL, hash; one .md per file | `msgraph-core`, `mammoth`, `openpyxl`, `python-pptx`, `PyMuPDF` |
+| `jojo_ingest onedrive` | MS Graph OAuth (user scope) | Personal-folder equivalent of SharePoint connector | same as above |
+| `jojo_ingest drive` | SMB + local path fallback | Walks the Public Drive, handles Office lock files (`~$*.docx`), skips unreadable, `watchdog` for change detection | `smbprotocol`, `watchdog` |
+| `jojo_ingest nurixnet` | SSO cookie via Playwright persistent context | Crawls navigation tree, extracts main content, converts HTML → markdown, downloads images locally, respects robots.txt, throttles (~2–3 sec/page) | `httpx`, `trafilatura`, `html2text`, `playwright` |
+| `jojo_ingest upload` | Local endpoint | "Upload to raw" button in the UI; user drops a file, pipeline processes it same as connector output | n/a |
+| `jojo_ingest teams` *(stretch)* | MS Graph | Channel messages and meeting transcripts (ACL-filtered) | `msgraph` |
+| `jojo_ingest benchling` *(stretch)* | Benchling API | Notebook entries, protocols, assay results | `benchling-sdk` |
+| `jojo_ingest asana` *(stretch)* | Asana API | Project and task descriptions | `asana` |
+
+Stretch connectors defer to post-MVP.
+
+**Core ingest invariants.**
+
+- **One raw file = one logical source entry.** A 30-page PDF is one raw file. A SharePoint .xlsx with ten sheets is one raw file (ten sections). A NurixNet article with linked PDFs is one main file plus one per linked attachment.
+- **Idempotency.** Running ingest twice produces identical `ask_jojo_raw/`. Each file hashes to a stable SHA256 of canonicalized content. If re-sync finds an unchanged hash, no new file is written.
+- **Versioning without overwrite.** When content changes, a new versioned file is written next to the old; the manifest records the supersedence chain. This preserves the immutability guarantee that the wiki's citations depend on.
+- **Mandatory YAML frontmatter on every raw file.** `id`, `source_type`, `source_url`, `source_id`, `title`, `author`, `created`, `modified`, `fetched`, `sha256`, `language`, `access_level`, `tags`, `redacted_fields`.
+- **Redaction at ingest.** A pre-LLM regex pass flags PII/PHI patterns (SSNs, DOBs, patient IDs) and replaces them with `[REDACTED:pii]` plus a pointer. Keeps us safe before Legal's full review. A second LLM-assisted classification pass runs during compile (Phase 2) for anything regex missed.
+- **`ask_jojo_raw/manifest.json`** is the mechanical source of truth. Every raw file listed with hash, source URL, permissions, ingest date, supersedence links. The compile phase reads this file; the Raw tab renders it; filesystem walks never bypass it.
+
+**NurixNet specifics** (the hardest connector). First pass: `trafilatura` + `html2text` on each article URL — works on ~80% of static pages. Second pass for JS-heavy pages: Playwright with network-idle wait, then extract. Images download to `ask_jojo_raw/nurixnet/<article-id>/assets/` and `<img src="...">` is rewritten to relative paths (Karpathy's "download images locally" tip, implemented automatically). Crawl discipline: seed list + robots.txt; `nurixnet_seen.json` tracks last-fetch timestamps for incremental runs. HTML selectors are quarantined in one module with tests and a fallback to raw-HTML mode.
+
+**Incremental sync.** A scheduled task (Windows Task Scheduler in local mode, cron in server mode) runs `jojo_ingest --incremental` on a cadence: SharePoint every 4 hours, OneDrive every 24 hours, NurixNet weekly, Public Drive every 24 hours. Each connector takes a `--since <iso-date>` flag. Each run emits a change manifest (`ask_jojo_raw/_changes/<yyyy-mm-dd>.json`) — new files, updated files, deleted files — that feeds Phase 2's incremental absorb loop.
+
+**Raw tab in the JoJo Bot frontend.** Tree view of `ask_jojo_raw/` with a search box. Click a file → rendered markdown preview on the right (text for .md, `react-pdf` for PDFs, Office via thumbnail-only fallback with "download to view"). Shows source URL, fetch date, SHA256, permission level, "open original" link. "Re-sync this folder" button → `POST /api/ingest/resync`. Status bar: last sync time per connector, failure counts, pending items.
+
+**Cross-walk to references.**
+- Farzaa's `/wiki ingest` output format — one .md per entry with YAML frontmatter — adopted verbatim.
+- Karpathy's "download images locally" — implemented automatically in the connector rather than left as a user chore.
+- Graphify's `.graphifyignore` — our analogous `.jojoignore` excludes noisy folders (build artifacts, drafts) from both ingest and compile.
+
+**Risks.**
+- *Graph API rate limits.* Exponential backoff, delta queries, ETag caching, stagger sites.
+- *PII leakage through a missed regex.* Two-layer defense: ingest regex + compile LLM classification; human-review queue for flags.
+- *NurixNet HTML changes breaking selectors.* Selectors in one quarantined module with tests; fallback to raw-HTML mode so we never silently lose content.
+
+**Effort.** 3 weeks for SharePoint + OneDrive + Public Drive + NurixNet with a functional Raw tab. +1–2 weeks for each stretch connector.
+
+**Exit criterion.** Click "Sync all" in the UI; the system pulls a meaningful slice of Protein Sciences data into `ask_jojo_raw/` in under an hour. ≥100 files from ≥2 connectors. Access-level metadata correct. No crashes. Manifest shows what got ingested. Daily incremental sync runs unattended for a week. No wiki work yet — just the raw layer.
+
+---
+
+### Phase 2 — Wiki Compilation Engine: The Absorb Loop (6–8 weeks)
+
+The biggest, most interesting, and most technically ambitious phase. This is where v2.0 either succeeds or falls flat. The absorb pipeline turns the raw layer into a wiki that reads as if a smart junior researcher sat down, read everything, and organized it by topic.
+
+**The absorb loop** (adapted from farzaa's skill and Karpathy's gist).
+
+```
+for each unabsorbed raw file, chronologically (or by user priority):
+  1. read the file + its frontmatter (a subagent with fresh context)
+  2. read _index.md and _backlinks.json for current wiki state
+  3. match the entry against existing articles (keyword + alias overlap)
+  4. emit a structured absorb-plan JSON: which pages to create, which
+     to update, what sections to add. If the plan touches more than
+     10 pages at once, pause for human review — usually signals drift.
+  5. executor applies the plan, each page-write in its own subagent
+     (fresh context: source + target page + immediate neighbors)
+  6. link step: scan touched pages for concept mentions matching
+     other wiki pages; add [[wikilinks]]; rebuild _backlinks.json
+  7. verify step: frontmatter well-formed, all wikilinks resolve,
+     paragraph-level citations match sources field, confidence is set
+  8. update _absorb_log.json; append to _log.md; commit
+  9. every 15 entries: run a full checkpoint (see below)
+```
+
+**Four-step pipeline per entry** (renaming arscontexta's 6-Rs to farzaa's more natural names, and keeping the stage boundaries crisp because each stage runs in its own subagent):
+
+1. **Ingest → normalized entry** (already done in Phase 1; the absorb pipeline consumes entries). For entries extracted from long PDFs or NurixNet articles too large for Sonnet's context in one shot, a pre-retrieval step using v1.0's ChromaDB chunks the entry and the absorb subagent fetches relevant chunks on demand. This is the ironic concession: RAG as scaffolding during ingest, even though we're building away from RAG at query time.
+2. **Absorb → absorb-plan JSON**. Sonnet reads the entry, the full `_index.md`, `SCHEMA.md`, and a short list of closely-related pages. Outputs: list of pages to touch with per-page instructions. No page is written here — the plan is purely structured JSON.
+3. **Write → individual page updates**. For each page in the plan, spawn a subagent with a clean context containing only: the plan instruction for this page, the current page body, the relevant portion of the source entry, and up to three neighbor pages. The subagent writes the new page body, updates frontmatter, adds inline citations. Parallel batch size: 5. Commit per batch with a structured message.
+4. **Verify → pass/fail per page**. A cheaper subagent checks the written page: frontmatter valid, wikilinks resolve, paragraphs cite at least one source in `sources:`, confidence field reasonable. Failures requeue to step 3 (up to 2 retries) or go to a "needs attention" pane in the UI.
+
+**Anti-patterns designed-against in the prompts.** Farzaa's two failure modes need to be explicit in `schema/CLAUDE.md` and in every absorb prompt:
+
+- **Anti-cramming.** Claude strongly prefers appending a paragraph to an existing big page over creating a new page, because creating a new page requires deciding on directory, title, and structure. Prompt explicitly: *"If you are about to add a third paragraph on a sub-topic to an existing article, that sub-topic almost certainly deserves its own page. Create it, link from the original, and move the accumulated material over."*
+- **Anti-thinning.** Claude will sometimes create a 3-sentence stub and consider the work done. Prompt explicitly: *"Every time you touch a page, it should get meaningfully richer. A stub with three vague sentences when four other entries also mentioned the topic is a failure. Pull material from every source in the absorb-plan that mentioned this topic, not just the one source that triggered creation."*
+
+**Scale control.**
+- At <200 raw files: full compile runs end-to-end overnight.
+- At 200–2000: incremental compile is the default — only files in the latest change manifest are absorbed; affected pages are re-read and updated.
+- At >2000: a Haiku triage pre-pass classifies each new raw file as a / b / c priority; only a/b enter the absorb loop. c files are indexed in `manifest.json` (searchable via Q&A escalation) but not compiled.
+
+**Checkpoint discipline (every 15 entries, non-optional).** Already spec'd in `SCHEMA.md` §11:
+
+1. Rebuild `_index.md` with every article, one-line summary, type, corpus, confidence, aliases.
+2. Rebuild `_backlinks.json` (a pure Python scan — no LLM).
+3. **New-article audit.** Count new pages in the last 15 entries. Zero means the pipeline is cramming; flag for review.
+4. **Quality audit.** Pick the 3 most-recently-touched pages, Opus re-reads each end-to-end, asks: does it read like a coherent article or a chronological dump? Rewrite any that fail.
+5. **Bloat check.** Any page past the "consider splitting" threshold in §9 of SCHEMA.md goes to the next breakdown pass.
+6. **Tombstone sweep.** Superseded articles move to `archive/` with a `redirect_to:` field.
+
+**Schema-version migration.** When `SCHEMA.md` bumps minor or major, the compile pipeline runs a reconciliation pass over every page whose frontmatter is tagged with an older schema version, tagging them forward. Tedious but necessary — schema drift is how the system silently dies.
+
+**Cross-walk.**
+- Farzaa's `/wiki absorb` loop + checkpoints + anti-patterns + Wikipedia-flat tone — adopted wholesale.
+- Karpathy's observation that "a single source touches 10–15 wiki pages" — our per-file plan budget defaults to ~12 page touches; prompt enforces.
+- Arscontexta's Record → Reduce → Reflect → Reweave → Verify → Rethink — renamed to Ingest → Absorb → Write → Verify, but the intent matches.
+- Arscontexta's fresh-context-per-subagent — every plan, every page-write, every verify is its own subagent with clean context.
+
+**Deliverables.**
+- `packages/jojo_compile/` with submodules: `absorb.py`, `plan.py`, `write.py`, `verify.py`, `link.py`, `checkpoint.py`, `breakdown.py`, `reorganize.py`.
+- CLI: `python -m jojo_compile absorb [--range last-30-days|all|<manifest>]`, `rebuild-index`, `reorganize`, `breakdown`.
+- REST endpoints: `POST /api/compile/absorb`, `POST /api/compile/reorganize`.
+- Backend orchestrator running the loop asynchronously, streaming progress via SSE to the frontend.
+- `prompts/absorb/` prompt library, one file per subagent role, version-controlled.
+- Golden-file tests: small synthetic "fake Nurix" corpus → expected wiki output, for regression-testing prompt changes.
+- First real compile run: absorb v1.0's 232-PDF corpus into `equipment/akta/` and `equipment/unicorn/`, validate the Wiki tab renders a browsable knowledge base.
+
+**Risks.**
+- *LLM hallucinates content not in sources.* Mandatory inline source citations; verify step re-prompts for unsourced paragraphs; nightly lint catches hallucinated claims.
+- *Token spend balloons.* Hard per-job budget caps with kill-switches; Haiku triage for c-priority files; incremental compile over rebuilds; cost dashboard alerts.
+- *Compile drifts from schema.* Lint-in-CI on every commit; ADRs updated when drift is intentional; schema version bump forces migration.
+
+**Effort.** 6–8 weeks. Loop logic is ~1 week. Making it robust, well-prompted, and quality-controlled against real Nurix documents is the other 5–7.
+
+**Exit criterion.** From a fresh `ask_jojo_raw/` of 200+ Protein Sciences docs, a full compile produces a wiki that passes: every page has sources; `_index.md` lists every page with aliases; `_backlinks.json` matches manual spot-check; ≥3 domain reviewers judge the top-10 pages "accurate and useful"; <5% of pages need immediate human intervention. The v1.0 chat path still works; query still uses v1.0 RAG (that's Phase 4). The Protein Sciences corpus scope-expansion review (§4 D12) can now begin.
+
+---
+
+### Phase 3 — Frontend IDE: Wiki, Raw, Graph, Ops Tabs (4–6 weeks, parallelizable with Phase 2)
+
+**Goal.** Re-create the essential Obsidian experience — wiki browser, backlinks, live preview, graph view, Marp rendering — entirely inside JoJo Bot so a user never needs to install or learn a second tool. Runs in parallel with Phase 2 once the wiki has any content at all.
+
+**Tab layout** (Next.js app router).
+
+| Tab | What it does |
+| --- | --- |
+| **Chat** (existing, preserved) | Ask questions, get grounded answers with citations and follow-ups. Query routing lives here (Phase 4). |
+| **Wiki** | Full IDE over `ask_jojo_wiki/`: tree view, markdown preview, frontmatter panel, wikilink auto-complete, "Request edit from JoJo" diff flow, "Manual override" behind confirmation. |
+| **Raw** | Tree view of `ask_jojo_raw/`, preview of any source, source URL, re-sync controls, change history, permission badges. |
+| **Graph** | Embedded interactive graph (graphify output, Phase 7). |
+| **Ops** | Connector health, job queue state, recent commits, cost meter, controls to trigger ingest/absorb/lint manually, lint review queue, token-reduction benchmark. |
+
+**Tech choices.**
+- Markdown rendering: `react-markdown` + `remark-gfm` + `remark-wiki-link` + `rehype-highlight` + `rehype-mathjax`. Client-side, no server roundtrip per page.
+- File trees: reusable `<FileTree>` component used by both Wiki and Raw tabs.
+- Frontmatter editor: controlled React form generated from the Pydantic schema in `jojo_core.types`.
+- Marp rendering: `@marp-team/marp-core` in a Web Worker → SVG carousel; left pane shows source markdown, right pane shows slides, arrow keys navigate.
+- matplotlib / plotly charts: backend runs LLM-generated Python in a sandboxed subprocess (resource limits, no network, allowlist imports; see Phase 5), returns PNG / HTML fragment; image written under `wiki/outputs/<query-id>/assets/` so it persists.
+- `<LintBadge>` component on every page showing confidence, freshness, outstanding issues.
+- Client state: `zustand`. Live updates: SSE. When an absorb or lint is running, the UI shows pages being touched in real time with a "live" indicator.
+- Git integration: every compile/lint/edit is a commit via the service-account identity. Pre-commit hook runs `jojo_lint schema`. Time-travel and blame for free.
+
+**The "Request edit from JoJo" flow.**
+- Wiki tab is read-only by default.
+- "Request edit" → modal → user types natural-language instruction ("The Y551 section on BTK should mention the Nurix-specific construct") → backend turns it into a targeted edit prompt → JoJo reads the article and adjacent pages → proposes a diff → UI renders side-by-side diff with accept/reject.
+- Accepted diffs are written to disk with a structured commit.
+- Rejected diffs are logged in `_log.md` as a negative signal feeding future lints.
+
+**Direct manual edits** (D3 escape hatch). If a user bypasses "Request edit" and edits a file directly in a text editor, the next lint pass reconciles: JoJo re-reads the article, confirms changes against sources, keeps/amends/flags.
+
+**Cross-walk.**
+- Karpathy's "Obsidian is the IDE, LLM is the programmer" — we rebuild that IDE inside JoJo Bot so Obsidian isn't required.
+- Arscontexta's hooks pattern — we adopt SessionStart / PostToolUse / Stop equivalents inside the backend runtime as SSE event taps.
+
+**Deliverables.** Four new tabs with full functionality. Diff review UI for JoJo-proposed edits. Marp preview pane. Updated `build-package.bat` so the .exe bundles everything. SSE endpoints for live job status. Backend file-serving endpoints with ACL filtering (`GET /api/wiki/files`, `GET /api/wiki/file?path=…`).
+
+**Risks.**
+- *"Light Obsidian" balloons in scope.* Ship MVP per tab (read-only Wiki browser first, then Raw, then Ops, then Graph — Phase 7), feature-flag the rest.
+- *Graph tab slow at >500 nodes.* Paginate by community; render top-2 communities in detail, rest as summary nodes.
+
+**Effort.** 4–6 weeks, parallel with Phase 2.
+
+**Exit criterion.** A new user opens JoJo Bot, navigates to `/wiki`, comfortably browses both the raw and wiki layers. Clicks a wiki page, sees it rendered with working wikilinks. Triggers an absorb from the Ops tab and watches it progress live. Requests a JoJo-written edit and accepts it via the diff UI, sees the commit land in git.
+
+---
+
+### Phase 4 — Q&A Over the Wiki (3–4 weeks)
+
+**Goal.** Replace v1.0's RAG-based Q&A with a wiki-driven Q&A for everything except ÄKTA-specific questions, which stay on the v1.0 path.
+
+**Retrieval strategy, in order** (Karpathy's index-first approach with graphify-style enhancements):
+
+1. **Index-first (default).** Sonnet reads the full `_index.md`, identifies the 3–8 most relevant pages, reads them, follows wikilinks and `related:` 1–2 hops deep when useful, synthesizes a grounded answer. Surprisingly robust up to ~200 pages.
+2. **Graph-assisted navigation.** For relational questions (*"what's the connection between BTK and CK1α?"*), Sonnet reads `_graph.json` first, finds shortest paths and shared communities between the two nodes, reads only the pages on those paths. Dramatically reduces tokens vs. full index reads.
+3. **Raw fallback.** If index-first + graph pass doesn't cover the answer, JoJo reads `ask_jojo_raw/manifest.json` and pulls relevant raw files. Miss logged; next absorb picks up the gap.
+4. **Web search fallback** (preserved from v1.0). Claude's built-in web search. Results cited as `source_type: web`, optionally filed back into `derived/`.
+5. **Vector RAG escalation (deferred).** Only activated when measured thresholds cross: `_index.md` >200 pages, p95 latency >8s, or user-reported retrieval misses trend up. We install `qmd` (local BM25 + vector over markdown, Karpathy's recommendation) in Phase 4 but only activate it automatically above the threshold. Flow: `qmd` pre-filters to top ~30 candidate pages, Sonnet picks 3–8 from the shortlist. Sub-100ms local retrieval, no API cost.
+
+**Legacy ÄKTA routing.** The query router (a cheap Haiku pre-pass) classifies each question. If it matches `\bakta|unicorn|chromatograph|purif|buffer` and similar protein-purification keywords, the query goes to v1.0's RAG pipeline. Everything else goes to the new wiki pipeline. Over time, as the wiki absorbs ÄKTA content under `equipment/akta/`, we can migrate these queries too — but there's no rush, the v1.0 path works.
+
+**Synthesis prompt structure.**
+
+```
+<system>
+  [schema/CLAUDE.md]
+  [ask_jojo_wiki/SCHEMA.md]
+</system>
+
+<user>
+  Question: {user_question}
+
+  Relevant wiki pages (already filtered to 3–8 + immediate neighbors):
+  {articles}
+
+  If you need more, you may request:
+  - read_wiki(slug): read another page by slug
+  - read_raw(id): read a raw source by id (use sparingly)
+  - web_search(query): last-resort fallback
+
+  Answer in markdown. Cite sources inline as [[Page Title]] or [raw:id].
+  State confidence per claim. Separate what you *read* from what you *inferred*.
+  Propose 3 wiki-aware follow-up questions.
+  If the answer contains novel synthesis, propose a wiki page to file it under.
+</user>
+```
+
+**Write-back (the compounding loop).** If the answer contains >200 words of novel synthesis, JoJo proposes a new file in `ask_jojo_wiki/derived/<date>-<slug>.md`. User approves in the UI. Accepted outputs join the wiki and influence future answers. Over the following lint pass, `derived/` items are either promoted to the main taxonomy or merged into existing pages. This is the mechanism that makes the wiki grow from exploration, not just from document ingest. Your questions become inputs to the wiki, not one-off queries.
+
+**Follow-up questions** are wiki-aware — instead of "What's the maintenance schedule?", they suggest "Tell me more about [[TYK2 Target]]" or "How does this compare to [[IRAK4 Program]]?". This exercises the Q&A pipeline and generates more derived content.
+
+**Cross-walk.**
+- Karpathy's index-first at moderate scale — MVP stops here. No RAG until measured.
+- Graphify's `graph.json` + `query` / `path` / `explain` commands — we build equivalents (`POST /api/query`, `/api/path`, `/api/explain`) and expose them in the Chat tab (path explorer, provenance viewer).
+- Farzaa's `/wiki query` rules (read-only, never touch raw unless necessary, don't guess) — baked into the system prompt.
+
+**Benchmark harness.** A set of 50 canonical Nurix questions with expert-approved answers. The harness measures accuracy (two reviewers), token spend, latency at each corpus size. It's what triggers the RAG escalation intelligently (not speculatively) and what protects against prompt regressions in CI.
+
+**Deliverables.** `packages/jojo_qa/` with REST endpoints `/api/query`, `/api/path`, `/api/explain`, `/api/file-back`. Chat UI updated to show confidence, sources, follow-ups, "File this" button, depth-of-synthesis toggle (Sonnet vs Opus for hard questions). `prompts/query/` prompt templates. Benchmark harness + nightly CI run.
+
+**Effort.** 3–4 weeks for index-first + graph-assisted, plus ongoing prompt tuning.
+
+**Exit criterion.** 50-question benchmark ≥80% "correct and well-cited" per two reviewers. p95 latency <8s. Mean cost per question <$0.20 at the current corpus size. Legacy ÄKTA questions still work. Cross-domain Nurix questions ("compare our TYK2 and IRAK4 programs") return cited, grounded answers that read like a smart colleague wrote them.
+
+---
+
+### Phase 5 — Rich Outputs and Write-Back (3–4 weeks)
+
+**Goal.** Answers come back in whatever format the user needs — markdown, Marp, charts, Word, PowerPoint, PDF — rendered live in the app, and filed back into the wiki when they represent novel synthesis.
+
+**Output formats.**
+
+| Format | Rendering | File-back path |
+| --- | --- | --- |
+| Markdown | Native preview in Chat/Wiki | `wiki/outputs/<date>-<slug>.md` |
+| Marp slides | `@marp-team/marp-core` Web Worker → SVG carousel | `wiki/outputs/<date>-<slug>.marp.md` |
+| Comparison tables | Markdown table, toggle to CSV / download as .xlsx | inline in parent output |
+| Mermaid diagrams | Native mermaid rendering | inline in parent output |
+| matplotlib charts | Backend sandboxed Python subprocess returns PNG | under `wiki/outputs/<slug>/assets/` |
+| Plotly interactive | Same sandbox, returns HTML fragment | same |
+| Word (.docx) | `docx` skill | under `wiki/outputs/<slug>/` |
+| PowerPoint (.pptx) | `pptx` skill | same |
+| PDF | `pdf` skill + weasyprint | same |
+
+**Format detection.** The query-router's pre-pass classifier also picks format, with heuristics: "explain X" → markdown; "slides for X" → Marp; "plot X vs Y" → matplotlib; "compare X and Y in a table" → markdown table; "diagram the relationships" → mermaid. User overrides with explicit requests ("JoJo, give me this as slides").
+
+**matplotlib sandbox.** LLM generates a *data spec plus a plot-type choice*, and a fixed Python function actually draws the chart. We never run arbitrary LLM code. The sandboxed subprocess has resource limits (30s CPU, 512 MB RAM), no network, bind-mounted working dir erased per run, allowlist imports (`numpy`, `pandas`, `matplotlib`, `seaborn`, `plotly`). Anything else fails closed.
+
+**File-back UX.** Every output renders with a "File this" button. User confirms destination (default proposed by JoJo), types optional extra tags, saves. File lands in `wiki/outputs/`, indexed at the next checkpoint, contributes to future Q&A. On asking the same question a week later, Q&A retrieves the existing saved page rather than regenerating from scratch.
+
+**Cross-walk.** Karpathy explicitly calls out Marp + matplotlib outputs and the "file outputs back" principle — direct implementation. Existing JoJo Bot `docx`/`pptx`/`pdf`/`xlsx` skills are leveraged, not re-implemented.
+
+**Deliverables.** `packages/jojo_output/` with renderers and sandboxed executor. Chat tab: format selector, file-back confirmation modal. Wiki tab: outputs directory renders with "re-render" and "promote to main wiki" affordances.
+
+**Effort.** 3–4 weeks, mostly frontend polish and sandbox hardening.
+
+**Exit criterion.** "Make me slides comparing NX-1607 and NX-5948" returns a viewable Marp deck; clicking "File this" creates `wiki/outputs/2026-XX-XX-nx1607-vs-nx5948.marp.md`; asking the same question a week later cites the saved page.
+
+---
+
+### Phase 6 — Linting and Health Checks (3–4 weeks)
+
+**Goal.** The JoJo Bot health-checks pass — scheduled automated maintenance that keeps the wiki compounding rather than decaying as it grows.
+
+Each check is implemented as its own subagent with a specific prompt and expected output schema. The key ones, adapted from Karpathy's "Lint" operation and farzaa's `/wiki cleanup` + `/wiki breakdown`:
+
+| Check | Implementation | Action when triggered |
+| --- | --- | --- |
+| **Schema validation** | Pydantic over frontmatter; `jojo_lint schema` | Violations written to `_schema_violations.md`; CI gate |
+| **Contradictions** | Opus pass over pairs of pages sharing a subject | `decisions/` stub with both positions + reviewer flag |
+| **Staleness** | Pages whose `last_updated` exceeds type-specific threshold (programs/people 90d, methods 365d, concepts rarely) | Confidence decay (high → medium → low); re-verification prompt |
+| **Orphans** | Pages with 0 inbound links | Flag; suggest merge in next reorganize |
+| **Stubs** | Pages <15 lines older than 30 days | `/wiki breakdown` pass to enrich or consolidate |
+| **Broken wikilinks** | `[[…]]` → nonexistent file | Auto-fix by closest-alias match; else convert to stub |
+| **Missing article candidates** | Concrete-noun scan across pages (farzaa's test) | Rank by reference count; propose top-N for creation |
+| **Bloat** | Pages >150 lines | Propose split along natural thematic seam |
+| **Quote budget** | >2 direct quotes on one page | Re-write to paraphrase with citations |
+| **Imputation via web search** | Low-confidence pages with data gaps | Web search via Claude tool; imputed content marked `[web]` inline |
+| **God-node suggested questions** | Pages with highest cross-page connectivity | Propose 5–10 questions the wiki is uniquely positioned to answer; surface in UI as clickable prompts |
+| **Cost anomalies** | Unusually expensive compile/lint runs | Slack / email alert |
+
+**Cadence.**
+- Nightly (Sonnet, parallel subagents in batches of 5): schema, orphans, stubs, broken wikilinks, bloat, quote budget.
+- Weekly (Opus): contradictions, staleness, missing articles, suggested questions.
+- On-demand from Ops tab.
+
+**Human-in-the-loop gates** (non-negotiable):
+- Any *deletion* requires human approval.
+- Any change to a `decisions/` article requires approval.
+- Any contradiction resolution requires approval.
+- Wikilink fixes, formatting, re-citations, confidence decay — auto-applied.
+
+**Deliverables.** `packages/jojo_lint/` with pluggable check registry. Scheduled-task integration (Windows Task Scheduler in local mode). Ops tab: lint history, failures, pending approvals. Metrics chart: orphan count, avg confidence, staleness distribution, contradiction density trending over time.
+
+**Effort.** 3–4 weeks.
+
+**Exit criterion.** Nightly lints run unattended for 2 weeks with <5% false-positive rate on a reviewed sample. Weekly Opus pass produces actionable contradiction/gap reports. Wiki health metrics trending in the right direction or flat, not degrading. **This is the MVP ship gate.**
+
+---
+
+### Phase 7 — Graph Visualization Layer and Shared Server Mode (3–5 weeks each; can be sequenced)
+
+This phase has two sub-parts that are related but can ship independently. I recommend shipping the graph layer first (it's a 1–2 week integration rather than a full build) and server mode as a separate later release.
+
+#### 7a — Graph Tab (1–2 weeks, mostly integration)
+
+**Goal.** An interactive knowledge graph visualizing the wiki, fully inside JoJo Bot, reusing graphify wholesale (settled in clarification).
+
+**Integration.** Install graphify as a CLI dependency. Point it at `ask_jojo_wiki/` (not raw — we graph the curated wiki). Schedule rebuilds nightly, or incrementally on commit via graphify's `--watch`. Output goes to `ask_jojo_wiki/.graphify/` (excluded from the wiki's own indexing via `.jojoignore`). The Graph tab embeds `graph.html` in an iframe. The Ops tab surfaces `GRAPH_REPORT.md` as a digestible summary.
+
+**Two enhancements on top of vanilla graphify.**
+1. **Graph-assisted retrieval in Q&A.** For relational questions, the Q&A pipeline uses graphify's node neighborhoods (top 2–3 hops of the relevant nodes) as the page-selection candidate set. Beats `_index.md` alone for "how does X connect to Y?" questions.
+2. **Provenance visualization.** Clicking "Show sources" on a chat answer opens the Graph tab with cited pages highlighted and their cluster emphasized. Users can see at a glance which communities the answer drew from.
+
+**Exit criterion.** Graph tab renders. Nodes are clickable → navigates to wiki page. Q&A pipeline uses graph neighborhoods for relational questions. Token-reduction benchmark (graphify style) shows ≥10× reduction on a 500-article wiki vs. raw-file baseline.
+
+#### 7b — Shared Server Mode (3–5 weeks, optional post-MVP)
+
+**Goal.** Promote the single-user local model to a Nurix-hosted server so multiple teams query one authoritative wiki, while keeping the simple .exe experience for individual users.
+
+**Architecture change.**
+- New backend service `jojo_server` on a Nurix-internal VM holds the authoritative `ask_jojo_raw/` + `ask_jojo_wiki/`, runs ingest / compile / lint schedules centrally, exposes the same REST API as the local backend.
+- The .exe becomes a thin client: same Next.js frontend, `API_BASE_URL` points at the server. Offline mode falls back to a local cached copy.
+- Auth: Azure AD / Nurix SSO. Every API call carries a user token; ingest scopes checked per-user (no one sees SharePoint content they don't already have access to). This is the moment the simple "all-FTE" access tier from D7 can upgrade to finer-grained per-program ACLs, gated on IT/Legal review.
+- Wiki is served read-mostly; compile/lint run centrally.
+
+**New concerns.** Per-article ACLs inherited from source permissions. Concurrent edit conflicts (the job queue serializes writes — simple and effective — but the UX around "another user's question informed this answer" needs a "pending changes" pattern). Multi-tenant model routing if we outgrow a single MSA. DR / backup of shared `raw/` + `wiki/`.
+
+**Exit criterion.** Three Nurix teams in active daily use. Server uptime ≥99%. p95 query latency <4s. Access-control audit passes.
+
+---
+
+### Phase 8 — Future Explorations (backlog)
+
+Hold these in the backlog rather than plan in detail. A few affect earlier architectural decisions, so they deserve mention.
+
+**Synthetic data generation and fine-tuning.** Use the compiled wiki as ground truth. Generate 5–10 Q&A pairs per article + 2–3 "synthesize" tasks + chain-of-thought explanations with inline `[[wikilink]]` citations + adversarial/counterfactual variants. Filter through a verifier model; reject anything that doesn't round-trip against its source article. Three fine-tune options in increasing cost: (a) aggressive prompt caching + system-prompt injection of `_index.md` and hub articles (cheapest, no training); (b) LoRA / QLoRA fine-tune of an open-weight model (Llama 3.3 70B, Qwen) on the synthetic dataset — local, fast, cheap inference; (c) Claude custom fine-tune if Anthropic opens that program. **Status: research-only until Phases 1–6 are stable and corpus is large enough to justify the engineering.**
+
+**Multi-tenant / per-team wikis.** Different Nurix teams (chem, bio, clinical, business) may want their own views with different visibility. Architecture already supports this if D7's access-level frontmatter is correctly propagated. UI work for team switching is bounded.
+
+**Voice and mobile.** Labs have full hands. Whisper + Claude for transcription and intent parsing. Mobile-responsive layout for the Chat tab (Wiki / Graph tabs remain desktop-only).
+
+**External MCP endpoint.** Expose wiki + graph via MCP so other Anthropic tools (Claude Code, Claude in Chrome) can query Nurix knowledge directly. Graphify already ships an MCP server — extend it.
+
+**Integration with ELN and inventory systems.** If Nurix adopts Benchling, LabArchives, or similar, they become Phase 1 stretch connectors. Same pattern — read via API, normalize to raw entries, absorb into the wiki.
+
+**Collaboration primitives.** Comments on wiki pages (stored alongside the markdown, not in the markdown), team @-mentions in chat, shared derived outputs.
+
+---
+
+## 7. Cross-Cutting Concerns
+
+### 7.1 Security and Compliance
+
+- **Data classification at ingest.** Every raw file tagged `public | internal | confidential | regulated`. Regulated data (GxP, CTA, clinical, HIPAA) never leaves the Nurix network — for those sources, compile and Q&A run against local wiki only; Claude calls are made only with redacted content. Redaction rules live in `schema/ingest_rules.md`.
+- **PII/PHI redaction.** Two-layer defense: regex at ingest + LLM classification during compile, with audit log and human-review queue for anything flagged.
+- **MSA coverage.** Confirm Nurix/Anthropic enterprise MSA covers the data classes we send. Any gap → Legal escalation in Phase 0.
+- **Secrets.** No hard-coded keys. `%APPDATA%\JojoBot\config.json` encrypted with Windows DPAPI (same pattern as v1.0).
+- **Audit log.** Every LLM call, every wiki write, every source fetch logged with user, timestamp, token count, cost. Exportable for compliance.
+- **Access control.** Phases 1–6 (local mode): the user's wiki only contains content their account was permitted to read via Graph API. Phase 7 (server mode): per-article ACLs inherited from source-system permissions. Do not mix access tiers in Phase 6 — only ingest all-FTE content until the infrastructure exists to enforce finer-grained tiers.
+
+### 7.2 Governance and Human-in-the-Loop
+
+- The wiki is LLM-owned, human-reviewed. Every new article created during absorb is flagged `review_pending: true` in frontmatter. Scientists (via Wiki tab) mark it `approved: true` or request a rewrite. Approved pages drop out of review queues but remain subject to lints.
+- Contradictions always require human arbitration.
+- A `review` queue in the Ops tab lists pending articles, sorted by hub-centrality so high-traffic pages get reviewed first.
+- An owner is assigned per directory (e.g., `targets/` owner = Discovery lead). Owners get a weekly digest of changes.
+
+### 7.3 Observability, Cost, and Telemetry
+
+- Per-run token counts streamed into `_log.md` and a SQLite metrics DB (`jojobot.db`, reused from v1.0).
+- Ops tab cost dashboard: today / week / month spend, broken down by operation (ingest, compile, lint, Q&A).
+- Alerts (Slack / email) when spend exceeds per-user or per-day caps.
+- Token-reduction benchmark, graphify style: "tokens to answer a canonical question, wiki-path vs raw-path," published quarterly.
+- SSE event stream from every long-running job, consumed by the Ops tab for live progress.
+
+### 7.4 Testing Strategy
+
+- `jojo_core`: unit tests for types, schema validation, Claude client retries.
+- `jojo_ingest`: golden-file tests for each connector (fixture HTML / docx → expected markdown).
+- `jojo_compile`: snapshot tests on the absorb loop (small raw corpus → expected wiki pages, manual diff review).
+- `jojo_qa`: the 50-question benchmark runs nightly in CI; regressions fail the build.
+- `jojo_lint`: property-based tests ("after lint, every wikilink resolves").
+- `jojo_output`: rendering tests (`.marp.md` renders to expected slide count; sandboxed matplotlib produces a valid PNG).
+- End-to-end smoke test: fixture `raw/` → ingest → compile → lint → Q&A → output; assert output matches golden file.
+
+### 7.5 Documentation and Onboarding
+
+- `docs/V2_PLAN.md` — this file (after ratification, frozen as `docs/ADR/0000-v2-roadmap.md`).
+- `docs/v2_status.md` — living tracker against the phases.
+- `docs/ADR/` — one file per decision.
+- `docs/runbooks/` — operational procedures (re-sync SharePoint, run manual compile, resolve contradiction, bump schema version).
+- `docs/ONBOARDING.md` — 15-minute "how to run JoJo Bot v2.0 for the first time" for a new scientist.
+
+---
+
+## 8. How v1.0 Fits In
+
+A fair concern is whether any of this disrupts v1.0. It doesn't. v1.0 keeps running throughout.
+
+The v1.0 chat interface, citations, and session store are *preserved unchanged* through Phase 4. The v1.0 RAG pipeline over the 232 ÄKTA manuals is *still the backend* for chromatography questions even after Phase 4, via the query router. The existing ChromaDB keeps running as scaffolding for Phase 2's pre-retrieval step on long source documents (the ironic concession: RAG as ingest scaffolding, even though we're building away from RAG at query time). Nothing gets thrown away — v1.0 becomes a specialized subsystem of v2.0, still doing what it does best, while the wiki-based system handles everything else.
+
+The existing document set (232 PDFs) is one of the first things absorbed into the v2.0 wiki during Phase 2. `equipment/akta/` and `equipment/unicorn/` get populated with maybe 40–80 wiki pages covering systems, methods, troubleshooting, maintenance, cross-linked and cross-referenced in ways the manuals weren't originally structured to be. This is itself a valuable upgrade — users start asking questions across manuals that v1.0 struggled with because chunks from different manuals didn't retrieve together reliably.
+
+---
+
+## 9. Timeline and Milestones
+
+Assumption: one core developer (Mateo) + Claude Code + occasional domain reviewers. Adjust ×0.7 if a second developer joins.
+
+| Phase | Weeks | Parallelizable | Gate |
+| --- | --- | --- | --- |
+| 0 — Foundation & prep | 0–2 | — | Schemas reviewed; three repos exist; IT ticket filed; CI green |
+| 1 — Ingest (SharePoint + OneDrive + Drive + NurixNet) | 2–7 | — | 100+ docs in raw/, daily sync green, Raw tab live |
+| 2 — Compile (absorb loop) | 7–15 | — | v1.0 corpus compiled into wiki, checkpoint audit passes |
+| 3 — IDE tabs (Wiki + Raw + Ops) | 9–15 | ∥ Phase 2 | Tabs functional, edit-via-JoJo diff flow working |
+| 4 — Q&A (index-first + graph-assisted) | 15–19 | — | 50-Q benchmark ≥80% |
+| 5 — Rich outputs (Marp + plots + docx/pptx) | 19–23 | — | File-back loop working end-to-end |
+| 6 — Linting (nightly + weekly Opus) | 23–27 | — | 2 weeks unattended, <5% FP rate |
+| **MVP ship** | **~27 weeks (6 months)** | | **v2.0 release candidate** |
+| 7a — Graph tab | 28–30 | — | Graph tab live; ≥10× token reduction benchmark |
+| 7b — Shared server | 30–35 | — | 3 teams in daily use |
+| 8 — Synthetic data / fine-tune | 35+ | — | Go/no-go on eval numbers |
+
+**Critical path: 0 → 1 → 2 → 4 → 6.** Phase 3 runs parallel with Phase 2 once any wiki content exists. Phase 5 sequences after Phase 4. The 6-month MVP target is realistic for steady, non-heroic work.
+
+The longest and most technically ambitious phase is Phase 2. Prioritize it, allocate extra review time on the absorb prompts, and consider sequencing it slightly ahead of NurixNet's Playwright work in Phase 1, since NurixNet is mechanical and can run as a background thread.
+
+---
+
+## 10. Budget
+
+Assumptions: Claude Sonnet 4.6 ~$3/M in, $15/M out; Opus 4.6 ~$15/M in, $75/M out; Haiku 4.5 ~$0.8/M in, $4/M out. Substitute current rates at implementation time.
+
+| Activity | Estimate |
+| --- | --- |
+| One-time compile of v1.0's 232-PDF corpus into wiki | $30–$80 |
+| One-time compile of full ~2000-file Protein Sciences corpus | $150–$400 |
+| Daily incremental compile (~20 changed files/day) | $5–$15/day |
+| Weekly Opus lint pass over 500-article wiki | $20–$50/pass |
+| Q&A per question (index-first, 500-article wiki) | $0.05–$0.20 |
+| Q&A in Opus "deep mode" | $0.30–$1.00 |
+| Per-user monthly baseline (20 Q/day + daily ingest) | $50–$150/month |
+| Team of 20 users monthly (steady state) | $1,000–$3,000/month |
+
+Exact numbers depend heavily on corpus size and query complexity. Phase 0 deliverable includes a spreadsheet with three scenarios (100 / 500 / 2000 raw docs) so budgeting tracks reality. Build cost controls and per-user caps from day one.
+
+---
+
+## 11. Risks and Mitigations (Consolidated)
+
+| Risk | Likelihood | Impact | Mitigation |
+| --- | --- | --- | --- |
+| IT blocks Graph API access | Medium | High | OneDrive Files-on-Demand fallback ships first; Graph API is an upgrade, not a blocker |
+| Nurix/Anthropic MSA doesn't cover regulated data | Medium | High | Phase 1 scoped to non-regulated sources; Legal review kicked off in Phase 0 |
+| LLM hallucinates wiki content | High (without controls) | High | Mandatory inline source citations + verifier subagent + nightly lint + "flag this page" UI |
+| Token spend runs away | Medium | Medium | Hard budget caps per job, Haiku triage for c-priority, incremental over rebuilds, cost dashboard alerts |
+| Prompt / schema drift | Medium | Medium | SCHEMA.md semver-versioned; migration pass on every bump; ADRs for intentional drift; lint-in-CI |
+| Access-control leak | Low | Very high | Source-level ACL at ingest + query-time filter (defense in depth); single all-FTE tier in MVP; if in doubt, omit |
+| `_index.md` scaling wall | Certain at ~200 pages | Medium | `qmd` integrated in Phase 4, activated automatically above threshold |
+| "Light Obsidian" scope creep | High | Medium | Feature-flag per tab, ship MVP first per tab, polish later |
+| Users edit wiki and break schema | Medium | Medium | Pre-commit hook runs `jojo_lint schema`; lint auto-fix or flag; manual-override logs |
+| NurixNet HTML changes break selectors | Medium | Low | Selectors quarantined in one module with tests; raw-HTML fallback mode |
+| Wiki quality varies by domain | Medium | High | Per-directory reviewers; review queue; weekly Opus lint catches staleness |
+| Obsidian-replacement (IDE tab) harder than expected | Medium | Medium | Keep "open `ask_jojo_wiki/` in Obsidian" as documented escape hatch; the wiki is just files |
+| Single developer on vacation / leaves | Medium | High | Documentation discipline (ADRs + runbooks); schema + code + tests form the full design |
+| Graphify licensing or accuracy regresses | Low | Low | Swap for in-house BM25 + manual graph build; wiki is the source of truth, graph is a view |
+| Adoption fails (scientists don't use it) | Medium | High | Launch communication plan; pilot beta group during Phase 4; dogfood on real Protein Sciences questions |
+
+---
+
+## 12. Success Metrics
+
+What "v2.0 worked" looks like:
+
+- **Coverage.** ≥10 Nurix programs have compiled wiki articles; ≥1000 wiki articles at Nurix-wide scope.
+- **Freshness.** 95%+ of articles reconciled to sources modified in the last 30 days.
+- **Correctness.** 50-question benchmark ≥80% "correct and well-cited" per two reviewers.
+- **Adoption.** ≥20 Nurix scientists use JoJo Bot v2.0 at least weekly by month 6 post-launch.
+- **Compounding.** ≥30% of answered questions result in a filed-back wiki page; those pages are cited in subsequent answers (measurable via backlinks growth).
+- **Cost.** Mean cost per answered question ≤$0.20; monthly infra + API spend ≤$3,000 for a 20-user team at steady state.
+- **Token efficiency.** Quarterly token-reduction benchmark (graphify style) ≥10× reduction on 500-article corpus vs. raw-file baseline.
+- **Wiki health.** Orphan rate <5%, stub rate <10%, contradiction density stable or declining after month 3.
+
+---
+
+## 13. Open Questions / Decisions Deferred
+
+These we intentionally do *not* lock in Phase 0. They resolve during Phase 1–2 with real data.
+
+1. **Graphify-direct vs in-house graph heuristics.** Start with graphify as a CLI dependency (settled). Replace with custom code only if licensing, accuracy, or ecosystem concerns surface.
+2. **`qmd` vs homegrown BM25.** Likely `qmd` (cheap, local, MCP-ready), but only when we cross the index-first ceiling. Decision at Phase 4's measured trigger.
+3. **Multi-user editing conflicts in Phase 7.** CRDT? Git merge driver? Server-side lock? Defer to Phase 7 planning with real collaboration patterns in hand.
+4. **Phase 8 fine-tune target.** Open-weight LoRA vs Anthropic custom model vs prompt-cache only. Wait for corpus + query-volume data.
+5. **Which stretch connectors ship first — Teams, Benchling, Asana?** Defer to end of Phase 2. The absorb loop's quality on core sources tells us whether additional sources are worth the marginal effort.
+6. **Synthetic data / fine-tuning legal review.** Training data has different MSA rules than Q&A data. Fresh legal pass required before Phase 8.
+7. **How aggressively to dogfood during Phase 2.** Option A: wait until Phase 6 and present a polished system. Option B: ship a "beta users" channel during Phase 2's first real compile, accept rough edges, iterate fast. Leaning B, but confirm with pilot scientists.
+
+---
+
+## 14. What to Hand Claude Code First
+
+When ready to start, the best first prompt to Claude Code isn't "implement Phase 1." It's:
+
+> **Phase 0 kickoff.**
+> Read `docs/V2_PLAN.md` in full. Then initialize the workspace. The three sibling repos `ask_jojo`, `ask_jojo_wiki`, and `ask_jojo_raw` already exist on disk. Inside `ask_jojo/`:
+> - Scaffold the `packages/` layout (empty packages per §3.3), each with `__init__.py`, `README.md`, and a stub `cli.py` runnable as `python -m <package>`.
+> - Stub the new FastAPI routers in `src/backend/routers/` (wiki, raw, viz, ops, ingest) with 501 responses and wire them into `main.py` without touching v1.0 behavior.
+> - Add a placeholder `/wiki` route to the Next.js frontend with a "Phase 1 coming soon" page, linked from the header.
+> - Write `schema/CLAUDE.md` v0 following §4 of the plan. Write `schema/taxonomy.yaml` with the starter directories.
+> - Freeze `docs/V2_PLAN.md` as `docs/ADR/0000-v2-roadmap.md` and start a `docs/v2_status.md` living tracker.
+> - Write ADRs `0001-wiki-over-rag.md`, `0002-three-repo-split.md`, `0003-packages-layout.md`, `0004-local-first-deployment.md` following the reasoning in the plan.
+> - Set up GitHub Actions CI (ruff + pytest per package).
+> Commit each step separately with a clear message. Don't change any v1.0 behavior. Stop when Phase 0 is complete and summarize the current state for review.
+
+That scopes the first session to one clean deliverable, lets Mateo review `CLAUDE.md` (the most important artifact at this stage — everything downstream depends on it), and sets a pattern of discrete, reviewable commits. From there, each subsequent phase gets its own handoff prompt with references to the relevant section of this plan.
+
+---
+
+## 15. Appendix A — Cross-Walk to References
+
+How each reference maps into this plan, so we're not "overly relying" on any one — we borrow selectively.
+
+### Karpathy's `llm-wiki` gist
+- Three-layer architecture (raw / wiki / schema). → §3.1 and the three-repo split.
+- Operations: Ingest / Query / Lint. → Phases 1, 4, 6.
+- `_index.md` + `_log.md` as primary navigation. → §3.2, Phase 2 deliverables.
+- "LLM writes, user curates." → Principle #2.
+- "Outputs file back" loop. → Phase 4 (write-back), Phase 5 (file-back UX).
+- "Avoid RAG until necessary." → Principle #9, Phase 4 escalation rule.
+- Obsidian Web Clipper + download-images-locally tip. → Automated in the NurixNet ingest connector.
+
+### Farzaa's `personal_wiki_skill` gist
+- Command surface (`ingest | absorb | query | cleanup | breakdown | status | rebuild-index | reorganize`). → Phase 2 + Phase 6 CLIs.
+- Absorption loop with checkpoints every 15 entries. → Phase 2 checkpoint discipline.
+- Anti-cramming / anti-thinning rules. → `schema/CLAUDE.md` + absorb prompts.
+- Writing standards (Wikipedia-flat, no peacock words, quote budget, length targets). → `schema/wiki_schema.md` (already in `SCHEMA.md` v0.1.0).
+- Parallel subagents for cleanup and breakdown. → Phase 6.
+- "Directories emerge from the data." → `schema/taxonomy.yaml` philosophy.
+- Page template with YAML frontmatter. → Already implemented in `SCHEMA.md` §3.
+
+### Arscontexta (agenticnotetaking/arscontexta)
+- Three-space architecture (self / notes / ops). → Adapted as schema / wiki / raw + runtime queues.
+- 6-Rs pipeline (Record → Reduce → Reflect → Reweave → Verify → Rethink). → Renamed to Ingest → Absorb → Write → Verify; intent preserved; mapped onto checkpoint stages.
+- Fresh-context-per-phase via subagents (`/ralph`). → Phase 2 orchestrator architecture; every plan, write, verify in its own subagent.
+- Hooks (SessionStart / PostToolUse / Stop). → Git hooks + backend SSE event taps.
+- Research-backed kernel primitives as a design-rigor discipline. → ADRs.
+- "Derivation, not templating." → `schema/CLAUDE.md` is the derivation engine.
+
+### Graphify (safishamsi/graphify)
+- `graph.json` as a persistent, token-efficient navigation layer. → `ask_jojo_wiki/_graph.json` and Phase 7a.
+- EXTRACTED vs INFERRED edge tagging with confidence. → Mandatory in wiki frontmatter and graph edges (Principle #4).
+- God nodes + Leiden community detection. → Graph tab features and the "suggested questions" lint check.
+- Multimodal support (code / docs / PDFs / images / video). → Phase 1 multimodal ingest; Whisper transcription as stretch.
+- Token-reduction benchmark as KPI. → §12 Success Metrics.
+- MCP server exposure of the graph. → Phase 8 external MCP endpoint stretch.
+- Always-on hook pointing agents at the graph first. → Q&A prompt discipline; graph-assisted retrieval in Phase 4.
+- `.graphifyignore` pattern. → Our `.jojoignore`.
+- SHA256-based caching to skip re-processing unchanged files. → Ingest manifest + compile cache.
+
+### TIG monorepo (tig-foundation/tig-monorepo)
+- Domain unrelated (algorithmic proof-of-work), but monorepo discipline applies. → §3.3 `packages/` split inside `ask_jojo/` (small, swappable crates per responsibility). The split mirrors `tig-algorithms / tig-runtime / tig-verifier / tig-benchmarker` as `jojo_ingest / jojo_compile / jojo_qa / jojo_output / jojo_lint / jojo_graph / jojo_core`.
+- Benchmarker discipline (measurable performance, swappable runtime). → 50-question Q&A benchmark (Phase 4) + quarterly token-reduction benchmark (§12).
+- Clean CLI-per-crate ergonomics. → Every package runnable as `python -m jojo_* <cmd>`.
+
+The code we write ourselves, which none of the references cover: the three Nurix-specific connectors (SharePoint, OneDrive, NurixNet), the Nurix-flavored absorb prompts, the JoJo Bot frontend IDE tabs, the query router and hybrid retrieval for our taxonomy, the derived-artifact write-back pipeline, the docx/pptx/pdf output sandboxing. That's the real surface area.
+
+---
+
+## 16. Appendix B — Glossary
+
+- **Raw.** Immutable snapshot of a source document pulled into `ask_jojo_raw/<source>/…`. Never edited after creation.
+- **Wiki.** LLM-authored markdown knowledge base in `ask_jojo_wiki/`. Compiled from raw. The compounding artifact.
+- **Schema.** The constitution: `schema/CLAUDE.md`, `schema/wiki_schema.md` (a.k.a. `SCHEMA.md`), `schema/taxonomy.yaml`. What every LLM call reads first.
+- **Absorb.** Reading a raw entry and updating/creating wiki articles to reflect it.
+- **Lint.** Periodic integrity checks over the wiki (contradictions, orphans, staleness, schema).
+- **Index-first.** Retrieval strategy where the LLM reads `_index.md` first and picks 3–8 articles to read in full, rather than calling a vector DB.
+- **God node.** A highly-connected wiki article that many other articles link to — usually a target, program, or key concept.
+- **EXTRACTED / INFERRED.** Source-attribution tags. EXTRACTED = directly from a source; INFERRED = reasoned inference with a confidence score.
+- **File-back.** Saving a Q&A output into the wiki so future queries can cite it.
+- **Checkpoint.** Every 15 absorbs (or per user config), the compile loop rebuilds indices and runs a quality audit.
+- **Fresh-context-per-phase.** Each pipeline phase runs in a subagent with an empty context window; prevents context-length degradation during long runs.
+- **Corpus.** The scope of source systems currently being ingested. Phase A: Protein Sciences; Phase B: Early Discovery; Phase C: Nurix-wide.
+- **Derived.** The staging directory (`wiki/derived/`) where Q&A outputs land before being promoted or merged.
+- **Manual override.** The rare direct-edit escape hatch, logged and flagged for reconciliation.
+
+---
+
+*End of plan. Next step: review, edit in-line (this is a plain markdown file — annotate or open a PR against it), and once ratified, freeze a copy as `docs/ADR/0000-v2-roadmap.md` and switch to a living `docs/v2_status.md` that tracks progress against the phases above.*
