@@ -1,0 +1,32 @@
+# Dev-mode infrastructure for JoJo Bot v2.0.
+#
+# Production (local-first mode per ADR 0004) uses Memurai on Windows
+# instead of this compose file. See docs/ops/redis-setup.md.
+#
+# Run:
+#   docker compose up -d
+# Check:
+#   docker compose ps
+#   docker exec -it jojo_redis redis-cli ping   # -> PONG
+# Shutdown:
+#   docker compose down
+
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: jojo_redis
+    command: redis-server --appendonly yes --save 60 1
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+volumes:
+  redis_data:
+    name: jojo_redis_data
