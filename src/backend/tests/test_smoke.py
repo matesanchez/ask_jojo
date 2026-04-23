@@ -27,11 +27,10 @@ def test_health_returns_200() -> None:
 @pytest.mark.parametrize(
     "method,path",
     [
-        # Wiki + raw readers land in Phase 2 (compile) / Phase 1 end (raw tree UI).
+        # Wiki endpoints land in Phase 2 (compile). Raw endpoints are no longer
+        # stubs — see test_raw_endpoints.py for their real behavior.
         ("get",  "/api/wiki/tree"),
         ("get",  "/api/wiki/page/foo.md"),
-        ("get",  "/api/raw/tree"),
-        ("get",  "/api/raw/manifest"),
         # Viz lands in Phase 3.
         ("post", "/api/viz/marp"),
         ("post", "/api/viz/plot"),

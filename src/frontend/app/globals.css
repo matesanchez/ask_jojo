@@ -79,3 +79,367 @@ html, body {
   letter-spacing: 0.02em;
   text-transform: uppercase;
 }
+
+/* ------------------------------------------------------------------ Raw tab */
+/* The Raw tab is its own application — a three-pane file browser over
+   ask_jojo_raw/. It deliberately breaks out of the 1100px content column
+   in layout.tsx so the tree + preview + metadata all fit comfortably. */
+
+.raw-page {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  /* Burst out of the main column. The header stays fixed-width via
+     .jojo-main, but we want the Raw tab to feel like an IDE. */
+  margin: -2rem -1.5rem;
+  padding: 1rem 1.5rem;
+  min-height: calc(100vh - 60px);
+  max-width: none;
+}
+
+/* Top bar with connector badges and re-sync buttons */
+.raw-top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.5rem 0.75rem;
+  background: #fff;
+  border: 1px solid #e4e4e4;
+  border-radius: 6px;
+  flex-wrap: wrap;
+}
+
+.raw-top-totals {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.raw-top-connectors {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.raw-resync-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.15rem 0.35rem;
+  border: 1px solid #e4e4e4;
+  border-radius: 4px;
+  background: #fafafa;
+  font: inherit;
+  cursor: pointer;
+}
+
+.raw-resync-btn:hover:not(:disabled) {
+  background: #f0f0f0;
+}
+
+.raw-resync-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.raw-resync-label {
+  font-size: 0.75rem;
+  color: #777;
+}
+
+/* Error banner — renders above the three-pane when tree/resync errors out */
+.raw-error-banner {
+  padding: 0.5rem 0.75rem;
+  background: #fff3f3;
+  border: 1px solid #f0b7b7;
+  color: #8a2222;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+/* The three-pane body: tree | preview | metadata */
+.raw-three-pane {
+  display: grid;
+  grid-template-columns: 280px 1fr 300px;
+  gap: 0.75rem;
+  flex: 1 1 auto;
+  min-height: 0; /* allow panes to scroll within */
+}
+
+.raw-pane {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid #e4e4e4;
+  border-radius: 6px;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.raw-pane-header {
+  padding: 0.4rem 0.75rem;
+  border-bottom: 1px solid #eee;
+  background: #fafafa;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #666;
+}
+
+.raw-pane-body {
+  padding: 0.5rem 0.75rem;
+  overflow: auto;
+  flex: 1 1 auto;
+}
+
+/* Tree view */
+.raw-tree,
+.raw-tree ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0.75rem;
+}
+
+.raw-tree > li {
+  margin: 0.1rem 0;
+}
+
+.raw-tree-dir-toggle,
+.raw-tree-file-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  width: 100%;
+  text-align: left;
+  padding: 2px 4px;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  border-radius: 3px;
+}
+
+.raw-tree-dir-toggle:hover,
+.raw-tree-file-btn:hover {
+  background: #f2f4f8;
+}
+
+.raw-tree-file-btn.is-active {
+  background: #e8efff;
+  color: #1a3a8a;
+}
+
+.raw-tree-caret {
+  width: 0.9rem;
+  display: inline-block;
+  color: #888;
+  font-size: 0.75rem;
+}
+
+.raw-tree-icon {
+  font-size: 0.85rem;
+}
+
+.raw-tree-name {
+  flex: 1 1 auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 0.9rem;
+}
+
+.raw-empty,
+.raw-preview-hint,
+.raw-meta-hint {
+  color: #777;
+  font-size: 0.9rem;
+  margin: 0.25rem 0;
+}
+
+.raw-preview-error {
+  color: #8a2222;
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+}
+
+.raw-muted {
+  color: #888;
+}
+
+.raw-warn {
+  color: #a66500;
+}
+
+/* Badges */
+.raw-badge {
+  display: inline-block;
+  padding: 0 6px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: lowercase;
+  background: #eee;
+  color: #555;
+  line-height: 1.4;
+}
+
+.raw-badge-public {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.raw-badge-allfte {
+  background: #e3f2fd;
+  color: #1565c0;
+}
+
+.raw-badge-dept {
+  background: #fff3e0;
+  color: #b35900;
+}
+
+.raw-badge-restricted {
+  background: #fdecea;
+  color: #a31515;
+}
+
+.raw-badge-ready {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.raw-badge-warn {
+  background: #fff3cd;
+  color: #8a6d00;
+}
+
+/* Metadata list */
+.raw-meta {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  row-gap: 0.35rem;
+  column-gap: 0.75rem;
+  margin: 0;
+  font-size: 0.85rem;
+}
+
+.raw-meta dt {
+  color: #666;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.raw-meta dd {
+  margin: 0;
+  word-break: break-word;
+}
+
+.raw-meta code {
+  font-size: 0.8rem;
+  background: #f3f3f3;
+  padding: 0 4px;
+  border-radius: 3px;
+}
+
+/* Markdown preview */
+.markdown-body {
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.markdown-body h1 {
+  font-size: 1.4rem;
+  margin-top: 0;
+}
+
+.markdown-body h2 {
+  font-size: 1.15rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.2rem;
+}
+
+.markdown-body pre {
+  background: #f7f7f7;
+  padding: 0.75rem;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+
+.markdown-body code {
+  background: #f3f3f3;
+  padding: 0 4px;
+  border-radius: 3px;
+  font-size: 0.85rem;
+}
+
+.markdown-body pre code {
+  background: transparent;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  margin: 0.5rem 0;
+}
+
+.markdown-body th,
+.markdown-body td {
+  border: 1px solid #e4e4e4;
+  padding: 0.25rem 0.5rem;
+}
+
+.markdown-body a {
+  color: #1a3a8a;
+}
+
+/* Bottom bar */
+.raw-bottom-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.4rem 0.75rem;
+  background: #fff;
+  border: 1px solid #e4e4e4;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  color: #555;
+  flex-wrap: wrap;
+}
+
+.raw-bottom-sources {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.raw-bottom-source strong {
+  color: #333;
+}
+
+.raw-bottom-jobs {
+  display: flex;
+  gap: 0.75rem;
+}
+
+/* Narrow screens — collapse the right meta panel first, then the tree. */
+@media (max-width: 1100px) {
+  .raw-three-pane {
+    grid-template-columns: 240px 1fr;
+  }
+  .raw-pane-meta {
+    display: none;
+  }
+}
+
+@media (max-width: 780px) {
+  .raw-three-pane {
+    grid-template-columns: 1fr;
+  }
+  .raw-pane-tree {
+    max-height: 200px;
+  }
+}

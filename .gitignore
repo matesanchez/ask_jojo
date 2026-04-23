@@ -76,3 +76,8 @@ ehthumbs.db
 
 # Optional: keep project-wide .claude settings tracked, but not personal overrides
 .claude/settings.local.json
+
+# Validation run artifacts — may contain PS file names (ADR 0006)
+ops/validation/reports/*.md
+ops/validation/reports/*.log
+!ops/validation/reports/.gitkeep
