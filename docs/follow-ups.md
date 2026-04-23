@@ -8,6 +8,24 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ## 2026-04-23 — Phase 1
 
+### FU-7. Default `--raw` from config.json or sibling-directory convention
+
+- **Severity.** should
+- **Surfaced while.** running `python -m jojo_ingest sync publicdrive` interactively to chase down the long-walk symptom and getting `error: the following arguments are required: --raw`. Every real invocation of `sync` (scheduled tasks, validation wrappers, one-off debugging runs) targets the same `ask_jojo_raw/` sibling directory — yet the CLI insists the operator spell it out every time.
+- **Problem.** `--raw` is required on `jojo-ingest sync`, which makes sense in the abstract (the tool should not guess where to write raw ingest output) but in practice means (a) every scheduled-task registration hard-codes the path, (b) every ad-hoc operator run gets a confusing error on first try, and (c) there's nowhere to override per-machine without editing the scheduler script. Meanwhile `%APPDATA%\JojoBot\config.json` already exists and is the natural home for machine-local paths.
+- **What "done" looks like.** Three-layer resolution order for `--raw`: explicit CLI flag > `config.json` key `raw_repo_path` > derived default `<cwd_ancestor_containing_ask_jojo>/ask_jojo_raw`. CLI help text spells out the resolution order. `jojo-core config set raw_repo_path <path>` is the supported way to pin a machine-wide default. Scheduled-task registration stops hard-coding the path.
+- **Where to start.** `packages/jojo_ingest/cli.py` — the argparse subparser for `sync`. `packages/jojo_core/config.py` already has the DPAPI-aware get/set helpers; `raw_repo_path` is not a secret so it skips the SECRET_KEYS list. One new test: config-set path wins over derived default, CLI flag wins over config-set.
+- **Why deferred.** Annoying papercut, not a correctness issue. Scheduled tasks already work; they just carry a hard-coded path that a future machine migration will have to retrace.
+
+### FU-6. Venv preflight in `jojo_ingest.cli.main()`
+
+- **Severity.** should
+- **Surfaced while.** debugging `ModuleNotFoundError: No module named 'httpx'` from a bare `python -m jojo_ingest sync` on Mateo's laptop. Root cause: the active shell Python was the Microsoft Store launcher stub, not `ask_jojo\.venv\Scripts\python.exe`. Fix on the call site was a fully-qualified venv Python path — but the error surface was a 12-line traceback ending in a library import, which reads like a code bug rather than an environment bug.
+- **Problem.** First-time operator runs (or runs from a new terminal where the venv wasn't activated) fail with cryptic import errors instead of a clear "you're not in the venv" message. Even experienced users waste a minute diagnosing. And scheduled tasks, which always invoke via absolute venv Python paths, don't exercise this path at all — so a regression here wouldn't be caught until an interactive run.
+- **What "done" looks like.** `jojo_ingest.cli.main()` (and peer CLIs — `jojo_core`, `jojo_compile`, etc. once they exist) starts with a three-line preflight: `import sys; if "ask_jojo" not in sys.executable and not os.environ.get("JOJO_SKIP_VENV_CHECK"): print_friendly_error_and_exit()`. Friendly error shows the expected venv path and the activation command. Escape hatch env var is documented for CI (GitHub Actions ships its own Python; no venv in the ask_jojo sense).
+- **Where to start.** `packages/jojo_ingest/cli.py` top of `main()`. New module `packages/jojo_core/_venv_check.py` so every CLI shares the same check. One new test per CLI that sets `JOJO_SKIP_VENV_CHECK` to confirm the escape hatch works and another that spawns a subprocess from a tempdir with a non-venv Python shim to confirm the friendly error path.
+- **Why deferred.** Not a correctness bug; scheduled tasks and CI both skip this path entirely (they use venv-qualified or CI-environment Pythons). Worth doing before onboarding a second operator.
+
 ### FU-5. Verify sibling-repo remote before declaring "pushed"
 
 - **Severity.** should
