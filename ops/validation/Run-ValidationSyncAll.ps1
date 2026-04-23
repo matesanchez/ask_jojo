@@ -74,6 +74,25 @@ $timestamp = Get-Date -Format "yyyyMMdd_HHmmss"
 
 # Resolve the project root from this script's location.
 $ProjectRoot = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
+
+# Preflight: jojo-ingest must be on PATH. This is the most common cause of a
+# failed validation run (fresh venv, editable install not done, wrong shell).
+if (-not (Get-Command jojo-ingest -ErrorAction SilentlyContinue)) {
+    Write-Host ""
+    Write-Host "[preflight] 'jojo-ingest' is not on PATH in this shell." -ForegroundColor Red
+    Write-Host ""
+    Write-Host "Fix: from the project root, install the package in editable mode:" -ForegroundColor Yellow
+    Write-Host ""
+    Write-Host "    cd $ProjectRoot" -ForegroundColor Cyan
+    Write-Host "    pip install -e .[ingest,backend,dev]" -ForegroundColor Cyan
+    Write-Host ""
+    Write-Host "If you use a venv, activate it first:" -ForegroundColor Yellow
+    Write-Host "    .\.venv\Scripts\Activate.ps1" -ForegroundColor Cyan
+    Write-Host ""
+    Write-Host "Then re-run this script. The install registers the jojo-ingest"
+    Write-Host "console entry point (see pyproject.toml [project.scripts])."
+    exit 1
+}
 $ReportDir = Join-Path $ProjectRoot "ops\validation\reports"
 New-Item -ItemType Directory -Force -Path $ReportDir | Out-Null
 $ReportPath = Join-Path $ReportDir "sync-all_$timestamp.md"
@@ -92,7 +111,7 @@ function Append-Report([string]$line) {
     Add-Content -Path $ReportPath -Value $line -Encoding UTF8
 }
 
-function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$Args) {
+function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$CliArgs) {
     if ($skip -contains $Name.ToLower()) {
         Write-Host "[skip] $Name (per -SkipConnector)" -ForegroundColor Yellow
         Append-Report "### $Name -- skipped"
@@ -114,17 +133,17 @@ function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$Args) 
     }
 
     if ($DryRun) {
-        Write-Host "[dry-run] would execute: jojo-ingest $($Args -join ' ')" -ForegroundColor Yellow
+        Write-Host "[dry-run] would execute: jojo-ingest $($CliArgs -join ' ')" -ForegroundColor Yellow
         Append-Report "### $Name -- dry-run"
         Append-Report ""
-        Append-Report "Would run: ``jojo-ingest $($Args -join ' ')``"
+        Append-Report "Would run: ``jojo-ingest $($CliArgs -join ' ')``"
         Append-Report ""
         return
     }
 
     $start = Get-Date
-    Write-Host "[run] jojo-ingest $($Args -join ' ')"
-    $stdout = & jojo-ingest @Args 2>&1 | Tee-Object -FilePath $LogPath -Append
+    Write-Host "[run] jojo-ingest $($CliArgs -join ' ')"
+    $stdout = & jojo-ingest @CliArgs 2>&1 | Tee-Object -FilePath $LogPath -Append
     $exit = $LASTEXITCODE
     $end = Get-Date
     $duration = [int]($end - $start).TotalSeconds
@@ -133,7 +152,7 @@ function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$Args) 
     Append-Report ""
     Append-Report "- Duration: ${duration}s"
     Append-Report "- Exit code: $exit"
-    Append-Report "- Command: ``jojo-ingest $($Args -join ' ')``"
+    Append-Report "- Command: ``jojo-ingest $($CliArgs -join ' ')``"
     Append-Report ""
     Append-Report '```json'
     # jojo-ingest prints a JSON blob at the end; find and pull the last JSON object.
@@ -196,23 +215,23 @@ $env:JOJO_PUBLIC_DRIVE_PATH = $PublicDrivePath
 "@ | Set-Content -Path $ReportPath -Encoding UTF8
 
 # ------------------------------------------------------------------ connectors
-Run-Connector -Name "drive" -Args @("sync", "drive", "--raw", $RawRoot, "--source", $DrivePath) -Preflight {
+Run-Connector -Name "drive" -CliArgs @("sync", "drive", "--raw", $RawRoot, "--source", $DrivePath) -Preflight {
     if (-not $DrivePath) { return "No -DrivePath passed. Drive connector is optional; pass -DrivePath <folder> to include." }
     if (-not (Test-Path $DrivePath)) { return "-DrivePath '$DrivePath' does not exist." }
     return $null
 }
 
-Run-Connector -Name "sharepoint" -Args @("sync", "sharepoint", "--raw", $RawRoot) -Preflight {
+Run-Connector -Name "sharepoint" -CliArgs @("sync", "sharepoint", "--raw", $RawRoot) -Preflight {
     if (-not $GraphToken) { return "No Graph token provided; skipping SharePoint." }
     return $null
 }
 
-Run-Connector -Name "onedrive" -Args @("sync", "onedrive", "--raw", $RawRoot) -Preflight {
+Run-Connector -Name "onedrive" -CliArgs @("sync", "onedrive", "--raw", $RawRoot) -Preflight {
     if (-not (Test-Path $OneDrivePath)) { return "OneDrive path '$OneDrivePath' does not exist. Is OneDrive signed in?" }
     return $null
 }
 
-Run-Connector -Name "publicdrive" -Args @("sync", "publicdrive", "--raw", $RawRoot) -Preflight {
+Run-Connector -Name "publicdrive" -CliArgs @("sync", "publicdrive", "--raw", $RawRoot) -Preflight {
     if (-not (Test-Path $PublicDrivePath)) { return "Public drive path '$PublicDrivePath' does not exist. Is the SMB mount connected?" }
     return $null
 }
