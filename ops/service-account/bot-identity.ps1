@@ -29,8 +29,8 @@ function Invoke-BotCommit {
     Absolute or relative path to the git repository working directory.
 
     .PARAMETER Message
-    The commit message. Should follow schema/CLAUDE.md §9 prefixes
-    (absorb:, lint:, checkpoint:). NEVER use [manual] here — that is
+    The commit message. Should follow schema/CLAUDE.md section 9 prefixes
+    (absorb:, lint:, checkpoint:). NEVER use [manual] here -- that is
     reserved for human emergency overrides and must not come from a
     scheduled task.
 
