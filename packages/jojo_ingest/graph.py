@@ -58,20 +58,31 @@ MAX_RETRIES = 3
 
 
 def env_token_provider(var: str = "JOJO_GRAPH_ACCESS_TOKEN") -> TokenProvider:
-    """Path A auth: read a Graph Explorer-issued bearer token from an env var.
+    """Path A auth: read a Graph Explorer-issued bearer token.
 
-    Token is re-read on every call so rotating the env var (or `export`ing a
-    fresh token mid-run when the old one expires) takes effect immediately
-    without restarting the process.
+    Token is re-read on every call so rotating the source (env var or
+    config.json) takes effect immediately without restarting the process.
+
+    When ``var`` is the default "JOJO_GRAPH_ACCESS_TOKEN", we read via
+    ``jojo_core.config.get(KEY_GRAPH_ACCESS_TOKEN)``, which checks
+    config.json first and falls back to the env var. Scheduled runs pick
+    up tokens rotated via ``jojo-core config set graph_access_token ...``
+    without needing a shell env export. Non-default ``var`` names keep
+    the legacy env-only behavior (useful in tests).
     """
+    from jojo_core import config
 
     def _get() -> str:
-        tok = os.environ.get(var, "").strip()
+        if var == "JOJO_GRAPH_ACCESS_TOKEN":
+            tok = (config.get(config.KEY_GRAPH_ACCESS_TOKEN, "") or "").strip()
+        else:
+            tok = os.environ.get(var, "").strip()
         if not tok:
             raise IngestError(
-                f"{var} is not set. Paste a token from Graph Explorer "
-                "(developer.microsoft.com/graph/graph-explorer → Access token tab) "
-                "or switch to MSAL device-code auth."
+                f"Graph access token is not configured. Either run "
+                f'`jojo-core config set graph_access_token "eyJ..."`, '
+                f"set ${var} in the shell (paste from Graph Explorer's "
+                "Access token tab), or switch to MSAL device-code auth."
             )
         return tok
 

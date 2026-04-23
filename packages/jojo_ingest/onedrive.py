@@ -27,14 +27,15 @@ ingest pipeline wouldn't notice.
 
 from __future__ import annotations
 
-import os
-
 from jojo_connectors_common import IngestError
+from jojo_core import config
 from jojo_ingest.drive import DriveConnector
 
 # Env var — point at the root of your synced OneDrive folder. On Windows this
 # is typically under `C:\Users\<user>\OneDrive - Nurix Therapeutics`; on
 # macOS under `~/Library/CloudStorage/OneDrive-NurixTherapeutics`.
+# Note: `config.get(KEY_ONEDRIVE_PATH)` reads config.json first and falls
+# back to this env var. Both paths work; the env var is the legacy surface.
 ENV_PATH = "JOJO_ONEDRIVE_PATH"
 
 
@@ -62,13 +63,12 @@ def build_onedrive_connector_from_env(
     `path_override` (or `--source` on the CLI) wins over the env var; useful
     for one-off invocations that shouldn't pollute the shell environment.
     """
-    path = (path_override or os.environ.get(ENV_PATH, "")).strip()
+    path = (path_override or config.get(config.KEY_ONEDRIVE_PATH, "") or "").strip()
     if not path:
         raise OneDriveEnvError(
-            f"{ENV_PATH} is not set. Point it at the local OneDrive sync "
-            "folder, e.g. "
-            'JOJO_ONEDRIVE_PATH="C:\\Users\\mdelosrios\\OneDrive - Nurix Therapeutics". '
-            "You can also pass --source on the CLI to override."
+            "onedrive path is not configured. Either run "
+            '`jojo-core config set onedrive_path "C:\\Users\\<user>\\OneDrive - Nurix Therapeutics, Inc"`, '
+            f"set ${ENV_PATH} in the shell, or pass --source on the CLI."
         )
     try:
         return OneDriveConnector(path, access_level=access_level)

@@ -37,7 +37,6 @@ a per-item ACL readout via the item's `permissions` relationship.
 from __future__ import annotations
 
 import logging
-import os
 import tempfile
 from collections.abc import Iterable, Iterator
 from datetime import datetime
@@ -45,6 +44,7 @@ from pathlib import Path
 from typing import Any
 
 from jojo_connectors_common import Connector, IngestError, SourceEntry
+from jojo_core import config
 from jojo_ingest.converters import ConverterNotFound, convert, is_supported
 from jojo_ingest.graph import GraphClient, SiteRef, env_token_provider, normalize_site_url
 
@@ -331,22 +331,26 @@ def build_sharepoint_connector_from_env(
     for that piece — useful for one-off CLI invocations that don't want to
     pollute the shell.
     """
-    # Resolve site list.
+    # Resolve site list. Reads config.json (`sharepoint_sites`) first and
+    # falls back to $JOJO_SHAREPOINT_SITES; either is accepted.
     if site_urls_override:
         site_urls = list(site_urls_override)
     else:
-        raw = os.environ.get(ENV_SITES, "").strip()
+        raw = (config.get(config.KEY_SHAREPOINT_SITES, "") or "").strip()
         if not raw:
             raise SharePointEnvError(
-                f"{ENV_SITES} is not set. Example: "
-                f'{ENV_SITES}="https://nurix.sharepoint.com/sites/ProteinScience,'
-                'https://nurix.sharepoint.com/sites/NurixNet"'
+                "SharePoint site list is not configured. Run "
+                '`jojo-core config set sharepoint_sites "https://nurix.sharepoint.com/sites/ProteinScience,'
+                'https://nurix.sharepoint.com/sites/NurixNet"` '
+                f"or set ${ENV_SITES} in the shell."
             )
         site_urls = [s.strip() for s in raw.split(",") if s.strip()]
     if not site_urls:
         raise SharePointEnvError(f"{ENV_SITES} was set but parsed to an empty list")
 
-    # Resolve token.
+    # Resolve token. env_token_provider reads config.json first (via
+    # config.get) and falls back to the env var, so scheduled runs pick up
+    # tokens rotated via `jojo-core config set graph_access_token ...`.
     if token_override:
         token_provider = lambda: token_override   # noqa: E731 — trivial closure
     else:

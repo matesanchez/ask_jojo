@@ -29,7 +29,6 @@ Implementation notes:
 
 from __future__ import annotations
 
-import os
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
@@ -44,8 +43,10 @@ router = APIRouter()
 # -------------------------------------------------------------------- config
 def _raw_root() -> Path:
     """Resolve the raw root each call so tests (and the local-mode runtime)
-    can move it by setting JOJO_RAW_ROOT without restarting the process."""
-    return Path(os.environ.get("JOJO_RAW_ROOT", "./ask_jojo_raw")).resolve()
+    can relocate it without restarting the process. Reads config.json first
+    and falls back to ``$JOJO_RAW_ROOT`` via ``jojo_core.config.get``."""
+    from jojo_core import config
+    return Path(config.get(config.KEY_RAW_ROOT, "./ask_jojo_raw")).resolve()
 
 
 def _load_manifest() -> Manifest:

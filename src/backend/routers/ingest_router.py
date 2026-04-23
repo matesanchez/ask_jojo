@@ -11,16 +11,16 @@ Design notes:
   immediately and the UI can poll via GET /jobs.
 - In dev / tests, we fall back to running inline when Redis isn't reachable
   — prevents the tests from needing a live broker just to hit the endpoint.
-- Raw root, staging dir, and Redis URL come from the backend config. For
-  now we read them from env vars (JOJO_RAW_ROOT, JOJO_UPLOAD_DIR,
-  JOJO_REDIS_URL). DPAPI-backed config.json loading lands in local-mode
-  packaging.
+- Raw root, staging dir, and Redis URL are read via ``jojo_core.config.get``
+  which consults ``%APPDATA%\\JojoBot\\config.json`` first and falls back to
+  the legacy env vars (JOJO_RAW_ROOT, JOJO_UPLOAD_DIR, JOJO_REDIS_URL). This
+  lets scheduled unattended runs pick up DPAPI-stored values without a shell
+  env export.
 """
 
 from __future__ import annotations
 
 import logging
-import os
 import shutil
 import uuid
 from pathlib import Path
@@ -28,16 +28,22 @@ from pathlib import Path
 from fastapi import APIRouter, File, Form, HTTPException, UploadFile
 from pydantic import BaseModel, Field
 
+from jojo_core import config
+
 log = logging.getLogger("jojo.ingest_router")
 
 router = APIRouter()
 
 # -------------------------------------------------------------------- config
-_DEFAULT_RAW = Path(os.environ.get("JOJO_RAW_ROOT", "./ask_jojo_raw")).resolve()
+# Module-load-time reads are intentional: the router is imported once per
+# process and these values rarely change mid-run. If an operator rewrites
+# config.json, they restart the backend; Phase 2's ops UI will add a
+# hot-reload endpoint if demand warrants.
+_DEFAULT_RAW = Path(config.get(config.KEY_RAW_ROOT, "./ask_jojo_raw")).resolve()
 _DEFAULT_UPLOAD_DIR = Path(
-    os.environ.get("JOJO_UPLOAD_DIR", "./ask_jojo_raw/_staging")
+    config.get(config.KEY_UPLOAD_DIR, "./ask_jojo_raw/_staging")
 ).resolve()
-_REDIS_URL = os.environ.get("JOJO_REDIS_URL", "redis://localhost:6379/0")
+_REDIS_URL = config.get(config.KEY_REDIS_URL, "redis://localhost:6379/0")
 
 # In-process job registry for dev mode. Real deployments use RQ; the shape of
 # the dict mirrors what rq.Job would return so the UI doesn't care which
@@ -68,21 +74,22 @@ class JobHandle(BaseModel):
 def _known_connectors() -> dict[str, str]:
     """Name → readiness-status so the UI can disable unready buttons.
 
-    SharePoint is env-driven: "ready" when both JOJO_GRAPH_ACCESS_TOKEN and
-    JOJO_SHAREPOINT_SITES are set, otherwise "needs-token". OneDrive + public
-    drive come out of local mounts (ADR 0008) — they flip to "ready" as soon
-    as JOJO_ONEDRIVE_PATH / JOJO_PUBLIC_DRIVE_PATH point at the sync folder
-    / mount point. NurixNet isn't listed — it's a SharePoint site and rides
+    SharePoint is auth-driven: "ready" when both a Graph access token and a
+    site list are configured (via config.json or the legacy JOJO_* env
+    vars), otherwise "needs-token". OneDrive + public drive come out of
+    local mounts (ADR 0008) — they flip to "ready" as soon as their path is
+    configured. NurixNet isn't listed — it's a SharePoint site and rides
     along with the sharepoint connector's site list.
     """
     sharepoint_status = (
         "ready"
-        if os.environ.get("JOJO_GRAPH_ACCESS_TOKEN") and os.environ.get("JOJO_SHAREPOINT_SITES")
+        if config.get(config.KEY_GRAPH_ACCESS_TOKEN)
+        and config.get(config.KEY_SHAREPOINT_SITES)
         else "needs-token"
     )
-    onedrive_status = "ready" if os.environ.get("JOJO_ONEDRIVE_PATH") else "needs-path"
+    onedrive_status = "ready" if config.get(config.KEY_ONEDRIVE_PATH) else "needs-path"
     publicdrive_status = (
-        "ready" if os.environ.get("JOJO_PUBLIC_DRIVE_PATH") else "needs-path"
+        "ready" if config.get(config.KEY_PUBLIC_DRIVE_PATH) else "needs-path"
     )
     return {
         "drive": "ready",

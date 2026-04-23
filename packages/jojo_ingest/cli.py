@@ -32,11 +32,11 @@ from __future__ import annotations
 import argparse
 import json
 import logging
-import os
 import sys
 from datetime import datetime
 from pathlib import Path
 
+from jojo_core import config
 from jojo_ingest.driver import IngestDriver
 
 log = logging.getLogger("jojo_ingest")
@@ -53,16 +53,20 @@ def _connector_factories() -> dict:
     from jojo_ingest.sharepoint import SharePointConnector
     from jojo_ingest.upload import UploadConnector
 
+    # config.get() consults config.json first, then the env var, so the
+    # status matches whichever surface the operator is using.
     sharepoint_status = (
         "ready"
-        if os.environ.get("JOJO_GRAPH_ACCESS_TOKEN") and os.environ.get("JOJO_SHAREPOINT_SITES")
+        if config.get(config.KEY_GRAPH_ACCESS_TOKEN)
+        and config.get(config.KEY_SHAREPOINT_SITES)
         else "needs-token"
     )
     # OneDrive + public drive come out of local mounts (ADR 0008) — they're
-    # "ready" as soon as the operator points the env var at their synced folder.
-    onedrive_status = "ready" if os.environ.get("JOJO_ONEDRIVE_PATH") else "needs-path"
+    # "ready" as soon as the operator points either the env var or config.json
+    # at their synced folder.
+    onedrive_status = "ready" if config.get(config.KEY_ONEDRIVE_PATH) else "needs-path"
     publicdrive_status = (
-        "ready" if os.environ.get("JOJO_PUBLIC_DRIVE_PATH") else "needs-path"
+        "ready" if config.get(config.KEY_PUBLIC_DRIVE_PATH) else "needs-path"
     )
 
     return {
@@ -199,10 +203,11 @@ def _cmd_sync_all(args: argparse.Namespace) -> int:
             )
     if not connectors:
         print(
-            "no ready connectors matched. Pass --source for drive, or set "
-            "env vars for sharepoint / onedrive / publicdrive "
-            "(JOJO_GRAPH_ACCESS_TOKEN, JOJO_SHAREPOINT_SITES, "
-            "JOJO_ONEDRIVE_PATH, JOJO_PUBLIC_DRIVE_PATH).",
+            "no ready connectors matched. Pass --source for drive, or "
+            "configure sharepoint / onedrive / publicdrive via "
+            "`jojo-core config set ...` (graph_access_token, sharepoint_sites, "
+            "onedrive_path, public_drive_path) or their JOJO_* env-var "
+            "equivalents.",
             file=sys.stderr,
         )
         return 2
