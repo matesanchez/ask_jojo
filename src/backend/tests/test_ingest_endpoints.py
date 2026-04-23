@@ -38,16 +38,45 @@ def client_with_raw_root(tmp_path: Path, monkeypatch):
     return TestClient(main.app), raw
 
 
-def test_connectors_endpoint_lists_known_connectors(client_with_raw_root):
+def test_connectors_endpoint_lists_known_connectors(client_with_raw_root, monkeypatch):
+    """The registry reports the five real connectors with env-driven status.
+
+    NurixNet isn't a separate connector — it's one of the SharePoint sites
+    the sharepoint connector already walks (see ADR 0008).
+    """
+    # Make sure no env-driven status leaks from the dev shell.
+    monkeypatch.delenv("JOJO_GRAPH_ACCESS_TOKEN", raising=False)
+    monkeypatch.delenv("JOJO_SHAREPOINT_SITES", raising=False)
+    monkeypatch.delenv("JOJO_ONEDRIVE_PATH", raising=False)
+    monkeypatch.delenv("JOJO_PUBLIC_DRIVE_PATH", raising=False)
+
     client, _ = client_with_raw_root
     r = client.get("/api/ingest/connectors")
     assert r.status_code == 200
     names = {c["name"] for c in r.json()["connectors"]}
-    assert {"drive", "upload", "sharepoint", "onedrive", "nurixnet"} <= names
+    assert names == {"drive", "upload", "sharepoint", "onedrive", "publicdrive"}
     by_name = {c["name"]: c["status"] for c in r.json()["connectors"]}
     assert by_name["drive"] == "ready"
     assert by_name["upload"] == "ready"
-    assert by_name["sharepoint"] == "needs-creds"
+    # SharePoint uses delegated tokens (ADR 0007) — "needs-token" until env is set.
+    assert by_name["sharepoint"] == "needs-token"
+    # OneDrive + public drive come out of local mounts (ADR 0008) —
+    # "needs-path" until the operator sets the env var.
+    assert by_name["onedrive"] == "needs-path"
+    assert by_name["publicdrive"] == "needs-path"
+
+
+def test_connectors_endpoint_reports_onedrive_ready_when_env_set(
+    client_with_raw_root, monkeypatch, tmp_path: Path
+):
+    """When JOJO_ONEDRIVE_PATH is set, the registry flips onedrive to ready."""
+    onedrive = tmp_path / "OneDrive - Nurix"
+    onedrive.mkdir()
+    monkeypatch.setenv("JOJO_ONEDRIVE_PATH", str(onedrive))
+    client, _ = client_with_raw_root
+    r = client.get("/api/ingest/connectors")
+    by_name = {c["name"]: c["status"] for c in r.json()["connectors"]}
+    assert by_name["onedrive"] == "ready"
 
 
 def test_status_endpoint_on_empty_raw_root(client_with_raw_root):
@@ -97,13 +126,62 @@ def test_sync_unknown_connector_returns_404(client_with_raw_root):
     assert r.status_code == 404
 
 
-def test_sync_stubbed_connector_returns_501(client_with_raw_root):
+def test_sync_sharepoint_without_env_returns_400(client_with_raw_root, monkeypatch):
+    """Missing SharePoint env vars → 400 with actionable detail.
+
+    400 (not 501) because this is a configuration issue the caller can fix
+    without new code.
+    """
+    monkeypatch.delenv("JOJO_GRAPH_ACCESS_TOKEN", raising=False)
+    monkeypatch.delenv("JOJO_SHAREPOINT_SITES", raising=False)
     client, _ = client_with_raw_root
-    # sharepoint is known but stubbed — the inproc fallback should translate
-    # that into a 501 with an actionable message.
     r = client.post("/api/ingest/sync/sharepoint", json={})
-    assert r.status_code == 501
-    assert "stubbed" in r.json()["detail"].lower()
+    assert r.status_code == 400
+    detail = r.json()["detail"]
+    assert "JOJO_SHAREPOINT_SITES" in detail or "JOJO_GRAPH_ACCESS_TOKEN" in detail
+
+
+def test_sync_onedrive_without_env_returns_400(client_with_raw_root, monkeypatch):
+    """Missing JOJO_ONEDRIVE_PATH → 400 naming the env var (not 501)."""
+    monkeypatch.delenv("JOJO_ONEDRIVE_PATH", raising=False)
+    client, _ = client_with_raw_root
+    r = client.post("/api/ingest/sync/onedrive", json={})
+    assert r.status_code == 400
+    assert "JOJO_ONEDRIVE_PATH" in r.json()["detail"]
+
+
+def test_sync_onedrive_end_to_end(client_with_raw_root, tmp_path: Path, monkeypatch):
+    """With JOJO_ONEDRIVE_PATH pointed at a tmp folder, ingest runs end-to-end.
+
+    Manifest source_type is "onedrive", proving the subclass correctly stamps
+    provenance (so later phases can tell OneDrive content apart from arbitrary
+    drive paths).
+    """
+    onedrive = tmp_path / "OneDrive - Nurix"
+    (onedrive / "notes").mkdir(parents=True)
+    (onedrive / "notes" / "plan.md").write_text("# Plan\n\nShip it.\n", encoding="utf-8")
+    monkeypatch.setenv("JOJO_ONEDRIVE_PATH", str(onedrive))
+    client, _ = client_with_raw_root
+    r = client.post("/api/ingest/sync/onedrive", json={})
+    assert r.status_code == 200, r.text
+    body = r.json()
+    assert body["connector"] == "onedrive"
+    assert body["status"] == "finished"
+
+    status = client.get("/api/ingest/status").json()
+    assert status["total_entries"] == 1
+    assert status["by_source"] == {"onedrive": 1}
+
+
+def test_sync_publicdrive_without_env_returns_400(client_with_raw_root, monkeypatch):
+    monkeypatch.delenv("JOJO_PUBLIC_DRIVE_PATH", raising=False)
+    # Force the platform check to miss the Windows default so non-Windows CI
+    # boxes (and macOS dev machines) exercise the "no env var" branch.
+    monkeypatch.setattr("sys.platform", "linux")
+    client, _ = client_with_raw_root
+    r = client.post("/api/ingest/sync/publicdrive", json={})
+    assert r.status_code == 400
+    assert "JOJO_PUBLIC_DRIVE_PATH" in r.json()["detail"]
 
 
 def test_upload_end_to_end(client_with_raw_root, tmp_path: Path):

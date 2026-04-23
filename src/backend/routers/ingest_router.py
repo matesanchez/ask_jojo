@@ -66,13 +66,30 @@ class JobHandle(BaseModel):
 
 # -------------------------------------------------------------------- helpers
 def _known_connectors() -> dict[str, str]:
-    """Name → readiness-status so the UI can disable unready buttons."""
+    """Name → readiness-status so the UI can disable unready buttons.
+
+    SharePoint is env-driven: "ready" when both JOJO_GRAPH_ACCESS_TOKEN and
+    JOJO_SHAREPOINT_SITES are set, otherwise "needs-token". OneDrive + public
+    drive come out of local mounts (ADR 0008) — they flip to "ready" as soon
+    as JOJO_ONEDRIVE_PATH / JOJO_PUBLIC_DRIVE_PATH point at the sync folder
+    / mount point. NurixNet isn't listed — it's a SharePoint site and rides
+    along with the sharepoint connector's site list.
+    """
+    sharepoint_status = (
+        "ready"
+        if os.environ.get("JOJO_GRAPH_ACCESS_TOKEN") and os.environ.get("JOJO_SHAREPOINT_SITES")
+        else "needs-token"
+    )
+    onedrive_status = "ready" if os.environ.get("JOJO_ONEDRIVE_PATH") else "needs-path"
+    publicdrive_status = (
+        "ready" if os.environ.get("JOJO_PUBLIC_DRIVE_PATH") else "needs-path"
+    )
     return {
         "drive": "ready",
         "upload": "ready",
-        "sharepoint": "needs-creds",
-        "onedrive": "needs-creds",
-        "nurixnet": "needs-creds",
+        "sharepoint": sharepoint_status,
+        "onedrive": onedrive_status,
+        "publicdrive": publicdrive_status,
     }
 
 
@@ -80,31 +97,76 @@ def _run_sync_inproc(connector_name: str, raw_root: Path, request: SyncRequest) 
     """Synchronous fallback. Returns the result payload the UI expects."""
     from datetime import datetime
 
-    from jojo_ingest.drive import DriveConnector
     from jojo_ingest.driver import IngestDriver
 
-    if connector_name != "drive":
-        raise HTTPException(
-            status_code=501,
-            detail=(
-                f"connector '{connector_name}' is stubbed — see "
-                "packages/jojo_ingest for the implementation plan."
-            ),
-        )
-    if not request.source:
-        raise HTTPException(status_code=400, detail="drive connector requires `source`")
-    source = Path(request.source).expanduser().resolve()
-    if not source.exists():
-        raise HTTPException(status_code=400, detail=f"source path does not exist: {source}")
     since = None
     if request.since:
         try:
             since = datetime.fromisoformat(request.since)
         except ValueError as exc:
             raise HTTPException(status_code=400, detail=str(exc)) from exc
+
+    if connector_name == "drive":
+        from jojo_ingest.drive import DriveConnector
+
+        if not request.source:
+            raise HTTPException(status_code=400, detail="drive connector requires `source`")
+        source = Path(request.source).expanduser().resolve()
+        if not source.exists():
+            raise HTTPException(status_code=400, detail=f"source path does not exist: {source}")
+        connector = DriveConnector(source, access_level=request.access_level)
+    elif connector_name == "sharepoint":
+        from jojo_ingest.sharepoint import (
+            SharePointEnvError,
+            build_sharepoint_connector_from_env,
+        )
+
+        try:
+            connector = build_sharepoint_connector_from_env(access_level=request.access_level)
+        except SharePointEnvError as exc:
+            # 400: the caller can fix this by setting an env var / pasting a
+            # fresh token. Not 500 (server broken) or 501 (feature missing).
+            raise HTTPException(status_code=400, detail=str(exc)) from exc
+    elif connector_name == "onedrive":
+        from jojo_ingest.onedrive import (
+            OneDriveEnvError,
+            build_onedrive_connector_from_env,
+        )
+
+        try:
+            connector = build_onedrive_connector_from_env(
+                access_level=request.access_level,
+                path_override=request.source,
+            )
+        except OneDriveEnvError as exc:
+            raise HTTPException(status_code=400, detail=str(exc)) from exc
+    elif connector_name == "publicdrive":
+        from jojo_ingest.publicdrive import (
+            PublicDriveEnvError,
+            build_publicdrive_connector_from_env,
+        )
+
+        try:
+            connector = build_publicdrive_connector_from_env(
+                access_level=request.access_level,
+                path_override=request.source,
+            )
+        except PublicDriveEnvError as exc:
+            raise HTTPException(status_code=400, detail=str(exc)) from exc
+    else:
+        # Nothing should land here any more — all known connectors are wired.
+        # Keep the 501 for defense-in-depth so a future stub addition that
+        # misses a branch still fails loudly.
+        raise HTTPException(
+            status_code=501,
+            detail=(
+                f"connector '{connector_name}' is not wired into the router "
+                "yet — see packages/jojo_ingest for the implementation plan."
+            ),
+        )
+
     driver = IngestDriver(raw_root)
-    conn = DriveConnector(source, access_level=request.access_level)
-    result = driver.run([conn], since=since)
+    result = driver.run([connector], since=since)
     return _serialize_result(result)
 
 

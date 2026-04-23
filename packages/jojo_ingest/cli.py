@@ -32,6 +32,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -42,20 +43,34 @@ log = logging.getLogger("jojo_ingest")
 
 
 # Connector factories — lookup by name. Map to (factory, status) where status
-# is "ready" / "stub" / "needs-creds" so `status` can report honestly.
+# is "ready" / "needs-token" / "needs-path" so `status` can report honestly.
+# Note: NurixNet intentionally not listed — it's a SharePoint site (part of
+# the SharePoint connector's site list), not a separate connector.
 def _connector_factories() -> dict:
     from jojo_ingest.drive import DriveConnector
-    from jojo_ingest.nurixnet import NurixNetConnector
     from jojo_ingest.onedrive import OneDriveConnector
+    from jojo_ingest.publicdrive import PublicDriveConnector
     from jojo_ingest.sharepoint import SharePointConnector
     from jojo_ingest.upload import UploadConnector
+
+    sharepoint_status = (
+        "ready"
+        if os.environ.get("JOJO_GRAPH_ACCESS_TOKEN") and os.environ.get("JOJO_SHAREPOINT_SITES")
+        else "needs-token"
+    )
+    # OneDrive + public drive come out of local mounts (ADR 0008) — they're
+    # "ready" as soon as the operator points the env var at their synced folder.
+    onedrive_status = "ready" if os.environ.get("JOJO_ONEDRIVE_PATH") else "needs-path"
+    publicdrive_status = (
+        "ready" if os.environ.get("JOJO_PUBLIC_DRIVE_PATH") else "needs-path"
+    )
 
     return {
         "drive": {"cls": DriveConnector, "status": "ready"},
         "upload": {"cls": UploadConnector, "status": "ready"},
-        "sharepoint": {"cls": SharePointConnector, "status": "needs-creds"},
-        "onedrive": {"cls": OneDriveConnector, "status": "needs-creds"},
-        "nurixnet": {"cls": NurixNetConnector, "status": "needs-creds"},
+        "sharepoint": {"cls": SharePointConnector, "status": sharepoint_status},
+        "onedrive": {"cls": OneDriveConnector, "status": onedrive_status},
+        "publicdrive": {"cls": PublicDriveConnector, "status": publicdrive_status},
     }
 
 
@@ -76,12 +91,21 @@ def _cmd_sync(args: argparse.Namespace) -> int:
         return 2
     spec = factories[args.connector]
     if spec["status"] != "ready":
-        print(
-            f"connector '{args.connector}' is not ready yet "
-            f"(status={spec['status']}). See packages/jojo_ingest/{args.connector}.py.",
-            file=sys.stderr,
+        # Don't block env-driven connectors on the env-var check if the user
+        # passed the equivalent CLI override — `--sites` substitutes for
+        # JOJO_SHAREPOINT_SITES, `--source` substitutes for JOJO_ONEDRIVE_PATH
+        # / JOJO_PUBLIC_DRIVE_PATH.
+        overrides_present = (
+            (args.connector == "sharepoint" and args.sites)
+            or (args.connector in ("onedrive", "publicdrive") and args.source)
         )
-        return 3
+        if not overrides_present:
+            print(
+                f"connector '{args.connector}' is not ready yet "
+                f"(status={spec['status']}). See packages/jojo_ingest/{args.connector}.py.",
+                file=sys.stderr,
+            )
+            return 3
     since = _parse_since(args.since)
     cls = spec["cls"]
     if args.connector == "drive":
@@ -89,6 +113,50 @@ def _cmd_sync(args: argparse.Namespace) -> int:
             print("drive connector requires --source <path>", file=sys.stderr)
             return 2
         connector = cls(args.source, access_level=args.access_level)
+    elif args.connector == "sharepoint":
+        from jojo_ingest.sharepoint import (
+            SharePointEnvError,
+            build_sharepoint_connector_from_env,
+        )
+
+        sites = args.sites.split(",") if args.sites else None
+        try:
+            connector = build_sharepoint_connector_from_env(
+                access_level=args.access_level,
+                site_urls_override=sites,
+                token_override=args.access_token,
+            )
+        except SharePointEnvError as exc:
+            print(f"sharepoint connector cannot start: {exc}", file=sys.stderr)
+            return 3
+    elif args.connector == "onedrive":
+        from jojo_ingest.onedrive import (
+            OneDriveEnvError,
+            build_onedrive_connector_from_env,
+        )
+
+        try:
+            connector = build_onedrive_connector_from_env(
+                access_level=args.access_level,
+                path_override=args.source,
+            )
+        except OneDriveEnvError as exc:
+            print(f"onedrive connector cannot start: {exc}", file=sys.stderr)
+            return 3
+    elif args.connector == "publicdrive":
+        from jojo_ingest.publicdrive import (
+            PublicDriveEnvError,
+            build_publicdrive_connector_from_env,
+        )
+
+        try:
+            connector = build_publicdrive_connector_from_env(
+                access_level=args.access_level,
+                path_override=args.source,
+            )
+        except PublicDriveEnvError as exc:
+            print(f"publicdrive connector cannot start: {exc}", file=sys.stderr)
+            return 3
     else:
         connector = cls()
     driver = IngestDriver(args.raw)
@@ -111,10 +179,30 @@ def _cmd_sync_all(args: argparse.Namespace) -> int:
         elif name == "upload":
             # upload is not a batch connector; skip in sync-all
             continue
+        elif name == "sharepoint":
+            from jojo_ingest.sharepoint import build_sharepoint_connector_from_env
+
+            connectors.append(
+                build_sharepoint_connector_from_env(access_level=args.access_level)
+            )
+        elif name == "onedrive":
+            from jojo_ingest.onedrive import build_onedrive_connector_from_env
+
+            connectors.append(
+                build_onedrive_connector_from_env(access_level=args.access_level)
+            )
+        elif name == "publicdrive":
+            from jojo_ingest.publicdrive import build_publicdrive_connector_from_env
+
+            connectors.append(
+                build_publicdrive_connector_from_env(access_level=args.access_level)
+            )
     if not connectors:
         print(
-            "no ready connectors matched. Pass --source for drive, or wait for "
-            "cloud connectors to come online.",
+            "no ready connectors matched. Pass --source for drive, or set "
+            "env vars for sharepoint / onedrive / publicdrive "
+            "(JOJO_GRAPH_ACCESS_TOKEN, JOJO_SHAREPOINT_SITES, "
+            "JOJO_ONEDRIVE_PATH, JOJO_PUBLIC_DRIVE_PATH).",
             file=sys.stderr,
         )
         return 2
@@ -196,9 +284,30 @@ def _build_parser() -> argparse.ArgumentParser:
     s = sub.add_parser("sync", help="Run one connector")
     s.add_argument("connector")
     s.add_argument("--raw", required=True)
-    s.add_argument("--source", help="drive root (for drive connector)")
+    s.add_argument(
+        "--source",
+        help=(
+            "Filesystem root. Required for 'drive'; optional override for "
+            "'onedrive' (default: $JOJO_ONEDRIVE_PATH) and 'publicdrive' "
+            "(default: $JOJO_PUBLIC_DRIVE_PATH, or 'P:\\' on Windows)."
+        ),
+    )
     s.add_argument("--access-level", default="all_fte")
     s.add_argument("--since")
+    s.add_argument(
+        "--sites",
+        help=(
+            "Comma-separated SharePoint site URLs (for sharepoint connector). "
+            "Overrides JOJO_SHAREPOINT_SITES env var."
+        ),
+    )
+    s.add_argument(
+        "--access-token",
+        help=(
+            "Bearer token for the sharepoint connector (Path A). Overrides "
+            "JOJO_GRAPH_ACCESS_TOKEN. Prefer the env var for non-one-shot runs."
+        ),
+    )
     s.set_defaults(func=_cmd_sync)
 
     u = sub.add_parser("upload", help="Ingest a single user-supplied file")
