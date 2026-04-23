@@ -75,22 +75,40 @@ $timestamp = Get-Date -Format "yyyyMMdd_HHmmss"
 # Resolve the project root from this script's location.
 $ProjectRoot = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 
-# Preflight: jojo-ingest must be on PATH. This is the most common cause of a
-# failed validation run (fresh venv, editable install not done, wrong shell).
-if (-not (Get-Command jojo-ingest -ErrorAction SilentlyContinue)) {
+# Resolve the Python interpreter. We prefer `python`; fall back to `py` on
+# systems where only the Windows Python launcher is on PATH.
+$PythonExe = $null
+foreach ($candidate in @("python", "py")) {
+    if (Get-Command $candidate -ErrorAction SilentlyContinue) {
+        $PythonExe = $candidate
+        break
+    }
+}
+if (-not $PythonExe) {
+    Write-Host "[preflight] Neither 'python' nor 'py' is on PATH." -ForegroundColor Red
+    Write-Host "Install Python 3.11+ from python.org or the Microsoft Store and re-run."
+    exit 1
+}
+
+# Preflight: the jojo_ingest package must be importable. We invoke the CLI via
+# `python -m jojo_ingest` rather than the `jojo-ingest` console entry point
+# because the entry-point shim lives in Python's Scripts directory, which is
+# often missing from Windows PATH when not inside a venv. `python -m` only
+# needs `python` itself on PATH and the package importable -- more robust.
+& $PythonExe -c "import jojo_ingest" 2>$null
+if ($LASTEXITCODE -ne 0) {
     Write-Host ""
-    Write-Host "[preflight] 'jojo-ingest' is not on PATH in this shell." -ForegroundColor Red
+    Write-Host "[preflight] Can't import jojo_ingest with '$PythonExe'." -ForegroundColor Red
     Write-Host ""
     Write-Host "Fix: from the project root, install the package in editable mode:" -ForegroundColor Yellow
     Write-Host ""
     Write-Host "    cd $ProjectRoot" -ForegroundColor Cyan
-    Write-Host "    pip install -e .[ingest,backend,dev]" -ForegroundColor Cyan
+    Write-Host "    $PythonExe -m pip install -e `".[ingest,backend,cloud,dev]`"" -ForegroundColor Cyan
     Write-Host ""
     Write-Host "If you use a venv, activate it first:" -ForegroundColor Yellow
     Write-Host "    .\.venv\Scripts\Activate.ps1" -ForegroundColor Cyan
     Write-Host ""
-    Write-Host "Then re-run this script. The install registers the jojo-ingest"
-    Write-Host "console entry point (see pyproject.toml [project.scripts])."
+    Write-Host "Then re-run this script."
     exit 1
 }
 $ReportDir = Join-Path $ProjectRoot "ops\validation\reports"
@@ -133,17 +151,17 @@ function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$CliArg
     }
 
     if ($DryRun) {
-        Write-Host "[dry-run] would execute: jojo-ingest $($CliArgs -join ' ')" -ForegroundColor Yellow
+        Write-Host "[dry-run] would execute: $PythonExe -m jojo_ingest $($CliArgs -join ' ')" -ForegroundColor Yellow
         Append-Report "### $Name -- dry-run"
         Append-Report ""
-        Append-Report "Would run: ``jojo-ingest $($CliArgs -join ' ')``"
+        Append-Report "Would run: ``$PythonExe -m jojo_ingest $($CliArgs -join ' ')``"
         Append-Report ""
         return
     }
 
     $start = Get-Date
-    Write-Host "[run] jojo-ingest $($CliArgs -join ' ')"
-    $stdout = & jojo-ingest @CliArgs 2>&1 | Tee-Object -FilePath $LogPath -Append
+    Write-Host "[run] $PythonExe -m jojo_ingest $($CliArgs -join ' ')"
+    $stdout = & $PythonExe -m jojo_ingest @CliArgs 2>&1 | Tee-Object -FilePath $LogPath -Append
     $exit = $LASTEXITCODE
     $end = Get-Date
     $duration = [int]($end - $start).TotalSeconds
@@ -152,7 +170,7 @@ function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$CliArg
     Append-Report ""
     Append-Report "- Duration: ${duration}s"
     Append-Report "- Exit code: $exit"
-    Append-Report "- Command: ``jojo-ingest $($CliArgs -join ' ')``"
+    Append-Report "- Command: ``$PythonExe -m jojo_ingest $($CliArgs -join ' ')``"
     Append-Report ""
     Append-Report '```json'
     # jojo-ingest prints a JSON blob at the end; find and pull the last JSON object.
@@ -239,7 +257,7 @@ Run-Connector -Name "publicdrive" -CliArgs @("sync", "publicdrive", "--raw", $Ra
 # ------------------------------------------------------------------ final status
 Write-Section "Manifest summary"
 if (-not $DryRun) {
-    $status = & jojo-ingest status --raw $RawRoot 2>&1 | Out-String
+    $status = & $PythonExe -m jojo_ingest status --raw $RawRoot 2>&1 | Out-String
     Write-Host $status
     Append-Report "## Final manifest state"
     Append-Report ""
