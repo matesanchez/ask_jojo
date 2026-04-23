@@ -58,7 +58,7 @@ param(
 
     [string]$SharePointSites = "https://nurix.sharepoint.com/sites/ProteinScience,https://nurix.sharepoint.com/sites/NurixNet,https://nurix.sharepoint.com/sites/DELTriage,https://nurix.sharepoint.com/sites/ScreenTeam,https://nurix.sharepoint.com/sites/CRUKGrant,https://nurix.sharepoint.com/sites/Biortus",
 
-    [string]$OneDrivePath = "$env:USERPROFILE\OneDrive - Nurix Therapeutics",
+    [string]$OneDrivePath = "$env:USERPROFILE\OneDrive - Nurix Therapeutics, Inc",
 
     [string]$PublicDrivePath = "P:\",
 
