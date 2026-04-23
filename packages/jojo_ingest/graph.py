@@ -183,16 +183,36 @@ class GraphClient:
         for attempt in range(MAX_RETRIES + 1):
             token = self._token()
             headers = {"Authorization": f"Bearer {token}", "Accept": "application/json"}
-            if stream:
-                # Graph returns a 302 to a pre-signed CDN URL for content
-                # downloads. httpx's follow_redirects=True handles the
-                # redirect; Authorization is stripped on redirect per
-                # httpx's default, which is actually what we want (the
-                # CDN URL is already signed).
-                req = self._client.build_request(method, url, params=params, headers=headers)
-                resp = self._client.send(req)
-            else:
-                resp = self._client.request(method, url, params=params, headers=headers)
+            try:
+                if stream:
+                    # Graph returns a 302 to a pre-signed CDN URL for content
+                    # downloads. httpx's follow_redirects=True handles the
+                    # redirect; Authorization is stripped on redirect per
+                    # httpx's default, which is actually what we want (the
+                    # CDN URL is already signed).
+                    req = self._client.build_request(method, url, params=params, headers=headers)
+                    resp = self._client.send(req)
+                else:
+                    resp = self._client.request(method, url, params=params, headers=headers)
+            except httpx.TransportError as exc:
+                # Transport-level failure before we got any HTTP response back.
+                # Covers httpx.ConnectError (e.g. WinError 10054 "connection
+                # forcibly closed"), ReadTimeout, RemoteProtocolError, etc.
+                # The corporate network + Graph's pre-signed CDN URLs seem to
+                # drop idle TLS connections occasionally; a short backoff and
+                # retry almost always succeeds.
+                if attempt >= MAX_RETRIES:
+                    raise GraphError(
+                        f"Graph transport error after {MAX_RETRIES + 1} attempts for "
+                        f"{method} {url}: {exc.__class__.__name__}: {exc}"
+                    ) from exc
+                delay = min(2.0**attempt, 30.0)
+                log.warning(
+                    "Graph transport error (%s: %s). Sleeping %.1fs then retrying (attempt %d/%d).",
+                    exc.__class__.__name__, exc, delay, attempt + 1, MAX_RETRIES,
+                )
+                time.sleep(delay)
+                continue
             if resp.status_code == 429 or resp.status_code == 503:
                 if attempt >= MAX_RETRIES:
                     break
@@ -201,10 +221,23 @@ class GraphClient:
                 time.sleep(delay)
                 continue
             if resp.status_code == 401:
+                # 401 on Graph has two common causes and the remediation differs:
+                #   (a) token lifetime exceeded (~60 min) -- rotate the token
+                #   (b) token lacks the scope the endpoint requires -- e.g.
+                #       SharePoint site resolution needs Sites.Read.All, which
+                #       Graph Explorer does NOT consent to by default. A fresh
+                #       token that still 401s on every site is almost always
+                #       this case. Fix: Graph Explorer -> Modify permissions ->
+                #       consent to Sites.Read.All, sign out + back in, re-mint.
+                # We don't parse WWW-Authenticate here (Graph's format is
+                # inconsistent across endpoints); caller gets both hypotheses.
                 raise GraphError(
-                    "Graph returned 401 Unauthorized. Token likely expired — "
-                    "paste a fresh one from Graph Explorer into "
-                    "JOJO_GRAPH_ACCESS_TOKEN (tokens are ~60-min lifetime)."
+                    f"Graph returned 401 Unauthorized for {method} {url}. "
+                    "Either the token has expired (~60-min lifetime -- paste "
+                    "a fresh one) OR it lacks the scope this endpoint requires "
+                    "(e.g. Sites.Read.All for SharePoint sites). Decode the "
+                    "token at https://jwt.ms and inspect the 'scp' claim to "
+                    "tell the two apart."
                 )
             if resp.status_code == 403:
                 raise GraphError(

@@ -75,40 +75,89 @@ $timestamp = Get-Date -Format "yyyyMMdd_HHmmss"
 # Resolve the project root from this script's location.
 $ProjectRoot = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 
-# Resolve the Python interpreter. We prefer `python`; fall back to `py` on
-# systems where only the Windows Python launcher is on PATH.
+# Resolve the Python interpreter. Order:
+#   1. <repo>\.venv\Scripts\python.exe  -- pinned to this repo's install
+#   2. `python` on PATH
+#   3. `py` (the Windows Python launcher) on PATH
+# The venv takes precedence so we never accidentally run against a system
+# python that happens to be on PATH but doesn't have the [ingest,backend,
+# cloud] extras installed (that's how we hit the httpx ModuleNotFoundError
+# on 2026-04-22).
 $PythonExe = $null
-foreach ($candidate in @("python", "py")) {
-    if (Get-Command $candidate -ErrorAction SilentlyContinue) {
-        $PythonExe = $candidate
-        break
+$VenvPython = Join-Path $ProjectRoot ".venv\Scripts\python.exe"
+if (Test-Path $VenvPython) {
+    $PythonExe = $VenvPython
+    Write-Host "[preflight] using project venv: $VenvPython"
+} else {
+    foreach ($candidate in @("python", "py")) {
+        if (Get-Command $candidate -ErrorAction SilentlyContinue) {
+            $PythonExe = $candidate
+            break
+        }
     }
 }
 if (-not $PythonExe) {
-    Write-Host "[preflight] Neither 'python' nor 'py' is on PATH." -ForegroundColor Red
-    Write-Host "Install Python 3.11+ from python.org or the Microsoft Store and re-run."
+    Write-Host "[preflight] Neither a project venv nor 'python'/'py' on PATH was found." -ForegroundColor Red
+    Write-Host "Install Python 3.11+ from python.org or the Microsoft Store, or run"
+    Write-Host "ops\installer\Install-JojoBot.ps1 -UseVenv from the project root, and try again."
     exit 1
 }
 
-# Preflight: the jojo_ingest package must be importable. We invoke the CLI via
-# `python -m jojo_ingest` rather than the `jojo-ingest` console entry point
-# because the entry-point shim lives in Python's Scripts directory, which is
-# often missing from Windows PATH when not inside a venv. `python -m` only
-# needs `python` itself on PATH and the package importable -- more robust.
-& $PythonExe -c "import jojo_ingest" 2>$null
-if ($LASTEXITCODE -ne 0) {
+# Preflight: the jojo_ingest package AND every connector module must import
+# cleanly. A bare ``import jojo_ingest`` only exercises __init__.py, which is
+# trivial -- it misses third-party deps like ``httpx`` (pulled in by
+# jojo_ingest.graph -> jojo_ingest.sharepoint). We instead import every
+# connector module directly so a missing extra fails here, not 15 minutes
+# into the run when the first ``sync`` call crashes at import time.
+#
+# We capture stderr and print it on failure so the operator sees the actual
+# ModuleNotFoundError instead of a generic "preflight failed". Note the
+# EAP="Continue" wrapper: PS 5.1 under EAP=Stop treats each stderr line from
+# a 2>&1 merge as a terminating error, swallowing everything after line 1
+# (see long comment near the per-connector run call below for full context).
+$preflightProbe = @"
+import jojo_core, jojo_core.config
+import jojo_ingest
+import jojo_ingest.drive
+import jojo_ingest.onedrive
+import jojo_ingest.publicdrive
+import jojo_ingest.graph
+import jojo_ingest.sharepoint
+import jojo_ingest.upload
+"@
+$prevEAP = $ErrorActionPreference
+$ErrorActionPreference = "Continue"
+try {
+    $preflightOut = & $PythonExe -c $preflightProbe 2>&1 | Out-String
+    $preflightExit = $LASTEXITCODE
+} finally {
+    $ErrorActionPreference = $prevEAP
+}
+if ($preflightExit -ne 0) {
     Write-Host ""
-    Write-Host "[preflight] Can't import jojo_ingest with '$PythonExe'." -ForegroundColor Red
+    Write-Host "[preflight] Connector modules cannot import under '$PythonExe'." -ForegroundColor Red
+    Write-Host ""
+    Write-Host "Python reported:" -ForegroundColor Yellow
+    Write-Host $preflightOut.Trim()
+    Write-Host ""
+    Write-Host "Most likely cause: the [ingest], [backend], or [cloud] extras haven't been" -ForegroundColor Yellow
+    Write-Host "installed in this Python. httpx in particular is pulled in by the [cloud]" -ForegroundColor Yellow
+    Write-Host "extra and is imported at module load time by jojo_ingest.graph." -ForegroundColor Yellow
     Write-Host ""
     Write-Host "Fix: from the project root, install the package in editable mode:" -ForegroundColor Yellow
     Write-Host ""
     Write-Host "    cd $ProjectRoot" -ForegroundColor Cyan
     Write-Host "    $PythonExe -m pip install -e `".[ingest,backend,cloud,dev]`"" -ForegroundColor Cyan
     Write-Host ""
-    Write-Host "If you use a venv, activate it first:" -ForegroundColor Yellow
+    Write-Host "If the install succeeded but preflight still fails, you may be running a" -ForegroundColor Yellow
+    Write-Host "different Python than the one pip installed into. Check which Python pip" -ForegroundColor Yellow
+    Write-Host "is bound to:" -ForegroundColor Yellow
+    Write-Host ""
+    Write-Host "    $PythonExe -m pip --version" -ForegroundColor Cyan
+    Write-Host ""
+    Write-Host "If you use a venv, activate it before running this script:" -ForegroundColor Yellow
     Write-Host "    .\.venv\Scripts\Activate.ps1" -ForegroundColor Cyan
     Write-Host ""
-    Write-Host "Then re-run this script."
     exit 1
 }
 $ReportDir = Join-Path $ProjectRoot "ops\validation\reports"
@@ -161,8 +210,31 @@ function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$CliArg
 
     $start = Get-Date
     Write-Host "[run] $PythonExe -m jojo_ingest $($CliArgs -join ' ')"
-    $stdout = & $PythonExe -m jojo_ingest @CliArgs 2>&1 | Tee-Object -FilePath $LogPath -Append
-    $exit = $LASTEXITCODE
+    # PS 5.1 under $ErrorActionPreference = "Stop" treats each native-command
+    # stderr line (merged by 2>&1) as a terminating ErrorRecord, which hides the
+    # real Python traceback behind a single "NativeCommandError" -- we only ever
+    # see the first line. Relax the preference *locally* so stderr flows through
+    # the pipeline as plain text and the full traceback lands in the log.
+    $prevEAP = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    try {
+        # Write the log via Add-Content -Encoding UTF8 instead of Tee-Object,
+        # which in PS 5.1 defaults to UTF-16 LE and produces logs that look
+        # spaced-out ("p y t h o n") and don't grep cleanly. Same pattern as
+        # Run-ScheduledSync.ps1. Collect lines into $stdout for the JSON-blob
+        # scraper below.
+        $collected = New-Object System.Collections.Generic.List[string]
+        & $PythonExe -m jojo_ingest @CliArgs 2>&1 | ForEach-Object {
+            $line = $_.ToString()
+            Add-Content -Path $LogPath -Value $line -Encoding UTF8
+            Write-Host $line
+            $collected.Add($line)
+        }
+        $exit = $LASTEXITCODE
+        $stdout = $collected.ToArray()
+    } finally {
+        $ErrorActionPreference = $prevEAP
+    }
     $end = Get-Date
     $duration = [int]($end - $start).TotalSeconds
 
@@ -257,7 +329,16 @@ Run-Connector -Name "publicdrive" -CliArgs @("sync", "publicdrive", "--raw", $Ra
 # ------------------------------------------------------------------ final status
 Write-Section "Manifest summary"
 if (-not $DryRun) {
-    $status = & $PythonExe -m jojo_ingest status --raw $RawRoot 2>&1 | Out-String
+    # Same stderr-as-ErrorRecord trap as the per-connector runs above; if
+    # `status` traces back, we want the full message in $status, not a PS
+    # NativeCommandError that hides line 2+ of the traceback.
+    $prevEAP = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    try {
+        $status = & $PythonExe -m jojo_ingest status --raw $RawRoot 2>&1 | Out-String
+    } finally {
+        $ErrorActionPreference = $prevEAP
+    }
     Write-Host $status
     Append-Report "## Final manifest state"
     Append-Report ""

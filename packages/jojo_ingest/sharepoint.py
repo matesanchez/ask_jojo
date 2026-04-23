@@ -46,7 +46,13 @@ from typing import Any
 from jojo_connectors_common import Connector, IngestError, SourceEntry
 from jojo_core import config
 from jojo_ingest.converters import ConverterNotFound, convert, is_supported
-from jojo_ingest.graph import GraphClient, SiteRef, env_token_provider, normalize_site_url
+from jojo_ingest.graph import (
+    GraphClient,
+    GraphError,
+    SiteRef,
+    env_token_provider,
+    normalize_site_url,
+)
 
 log = logging.getLogger(__name__)
 
@@ -195,11 +201,21 @@ class SharePointConnector(Connector):
 
         # Prefer the pre-signed downloadUrl when Graph gives us one (avoids a
         # second auth round-trip); otherwise fall back to the /content endpoint.
+        #
+        # A single file's download can fail for plenty of legitimate reasons
+        # that should NOT abort the whole site walk: a transient 10054 after
+        # the Graph client has already exhausted its transport retries, a 404
+        # because the item moved between listing and download, a 403 on a
+        # per-item permission we can't see, or a size/encoding surprise at
+        # the CDN. Log the name and keep walking; the driver will report a
+        # failure count in the manifest.
         download_url = item.get("@microsoft.graph.downloadUrl")
-        if download_url:
-            blob = self.client.download_bytes(download_url)
-        else:
-            blob = self.client.download_bytes(f"/drives/{drive_id}/items/{item['id']}/content")
+        target = download_url or f"/drives/{drive_id}/items/{item['id']}/content"
+        try:
+            blob = self.client.download_bytes(target)
+        except GraphError as exc:
+            log.warning("download failed for %s/%s: %s", path_prefix, name, exc)
+            return None
 
         # Converters take a Path, so we materialize bytes to a NamedTemp with
         # the real extension preserved. The converter dispatches on suffix.

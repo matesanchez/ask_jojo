@@ -58,6 +58,17 @@ class DriveConnector(Connector):
         except PermissionError:
             log.warning("permission denied, skipping: %s", directory)
             return
+        except OSError as exc:
+            # Broader I/O failure at the directory level -- most commonly a
+            # transient SMB blip on the public P: drive. Typical errnos:
+            #   WinError 59 ("unexpected network error")
+            #   WinError 64 ("network name no longer available")
+            #   WinError 67 ("network name cannot be found")
+            #   WinError 1231 ("network location cannot be reached")
+            # Log loudly but keep walking -- one bad subtree is never worth
+            # losing the entire run's worth of already-yielded entries.
+            log.warning("I/O error listing %s, skipping subtree: %s", directory, exc)
+            return
         for entry in children:
             rel = entry.relative_to(self.root).as_posix()
             if entry.is_dir():
