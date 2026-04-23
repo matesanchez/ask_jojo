@@ -20,6 +20,7 @@ dev = [
     "ruff>=0.4.0",
     "pytest>=8.0",
     "pytest-cov>=5.0",
+    "pytest-httpx>=0.30",      # httpx transport mock for GraphClient / SharePointConnector tests
 ]
 # Backend runtime — grown in Phase 3 when routers get their first real logic.
 backend = [

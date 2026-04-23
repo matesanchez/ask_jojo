@@ -21,11 +21,20 @@ jobs:
           python-version: "3.11"
           cache: pip
 
-      - name: Install dev + backend deps
+      - name: Install dev + runtime deps
+        # All extras that the test suite touches at import or collection time.
+        # - dev     : pytest, ruff, pytest-httpx
+        # - backend : fastapi + uvicorn (FastAPI TestClient needs these)
+        # - ingest  : pyyaml, mammoth, python-pptx, openpyxl, pymupdf, watchdog
+        #             (converters/dispatch.py eagerly imports all four at
+        #              module load time, so any test that touches
+        #              jojo_ingest.drive / .sharepoint / .upload fails
+        #              pytest collection without these)
+        # - cloud   : httpx, msgraph-core, azure-identity (graph.py imports)
+        # [web] (playwright) is intentionally excluded — no test touches it.
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -e ".[dev,backend]"
-          python -m pip install httpx  # for FastAPI TestClient
+          python -m pip install -e ".[dev,backend,ingest,cloud]"
 
       - name: Ruff (lint)
         run: ruff check packages/ src/backend/
