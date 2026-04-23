@@ -31,9 +31,9 @@ These are the six gates decomposed in `docs/phase-1-exit-evidence.md`. Reproduce
 - [x] **M5.** All new or modified `.ps1` files in this phase are pure-ASCII (CP1252-safe per feedback memory + ADR 0009).
 - [x] **M6.** `pytest -q` green on the tip. 129 tests minimum (108 from Phase 1b + 21 post-1b hardening + DPAPI). **Verify immediately before staging the final commit.**
 - [x] **M7.** `ruff check` clean on `packages/` and `src/backend/`.
-- [x] **M8.** `ask_jojo_raw/` remains a **private** GitHub repo (ADR 0006 invariant). Spot check with `gh repo view Nurix/ask_jojo_raw --json visibility`.
+- [x] **M8.** `ask_jojo_raw/` remains a **private** GitHub repo (ADR 0006 invariant). Spot check with `gh repo view matesanchez/ask_jojo_raw --json visibility`. Verified 2026-04-23 after push: visibility=PRIVATE. Sibling-repo remote verification filed as FU-5 so this gap catches itself in future phases.
 - [x] **M9.** Staging plan in `docs/ops/phase-1-staging-plan.md` lists every uncommitted file and explains which commit each belongs to. Nothing uncommitted that isn't accounted for.
-- [ ] **M10.** Three commits pushed to `origin/main` in order per staging plan: Track 2 pt. 2 → resilience tidy-up → docs wrap-up. **Execute at end of wrap-up session; leave the check box blank until `git push` succeeds.**
+- [x] **M10.** Three commits pushed to `origin/main` in order per staging plan: Track 2 pt. 2 → resilience tidy-up → docs wrap-up. Pushed 2026-04-23 as `bc563ed` → `19082b7` → `13ce982`.
 - [ ] **M11.** Seven-day unattended-sync soak kicked off (G6). Leave unchecked until 2026-04-30 when the window closes cleanly. If a crash lands inside the window, record the incident + reset the window.
 
 ---

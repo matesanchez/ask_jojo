@@ -1,0 +1,3 @@
+# Scheduled-task output is local telemetry, not source.
+# Purge with `.\Unregister-JojoBotTasks.ps1 -PurgeLogs`.
+logs/
