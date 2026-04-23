@@ -102,12 +102,51 @@ function Invoke-Graph([string]$Method, [string]$Url, $Body) {
     }
 }
 
-# ---- 0. preflight: check who I am ---------------------------------------
+# ---- 0. preflight: check who I am + verify token scopes -----------------
 Write-Section "Preflight: confirming token identity"
 $me = Invoke-Graph -Method GET -Url "https://graph.microsoft.com/v1.0/me"
 Write-Host "Signed in as: $($me.userPrincipalName) ($($me.displayName))" -ForegroundColor Green
 Write-Host "User object id: $($me.id)"
 $UserId = $me.id
+
+# Decode the JWT payload locally (no network call) and confirm the scp
+# claim includes every scope the script will need. Failing here with a
+# clear message is much nicer than a 403 five API calls deep.
+function Get-TokenScopes([string]$Jwt) {
+    $payload = $Jwt.Split(".")[1]
+    # JWT uses base64url; pad to a multiple of 4 so [Convert] accepts it.
+    switch ($payload.Length % 4) {
+        2 { $payload += "==" }
+        3 { $payload += "="  }
+    }
+    $payload = $payload.Replace("-", "+").Replace("_", "/")
+    $json = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String($payload))
+    $claims = $json | ConvertFrom-Json
+    if ($claims.scp) { return $claims.scp.Split(" ") }
+    return @()
+}
+
+$requiredScopes = @(
+    "Application.ReadWrite.All",
+    "Directory.ReadWrite.All",
+    "DelegatedPermissionGrant.ReadWrite.All"
+)
+$tokenScopes = Get-TokenScopes $Token
+$missing = $requiredScopes | Where-Object { $_ -notin $tokenScopes }
+if ($missing.Count -gt 0) {
+    Write-Host ""
+    Write-Host "[preflight] Your token is missing these delegated scopes:" -ForegroundColor Red
+    foreach ($s in $missing) { Write-Host "  - $s" -ForegroundColor Red }
+    Write-Host ""
+    Write-Host "Fix: in Graph Explorer, open 'Consent to permissions'" -ForegroundColor Yellow
+    Write-Host "(profile icon, top-right), consent to each missing scope," -ForegroundColor Yellow
+    Write-Host "then grab a FRESH token from the 'Access token' tab and re-run." -ForegroundColor Yellow
+    Write-Host ""
+    Write-Host "If a scope pops 'Need admin approval' instead of consenting," -ForegroundColor Yellow
+    Write-Host "the tenant requires a Global Admin to run this script." -ForegroundColor Yellow
+    throw "Token is missing required scopes: $($missing -join ', ')"
+}
+Write-Host "[ok] Token carries all required scopes." -ForegroundColor Green
 
 # ---- 1. create the application ------------------------------------------
 Write-Section "Creating application '$DisplayName'"

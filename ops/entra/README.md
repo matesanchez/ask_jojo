@@ -109,12 +109,31 @@ the application.
 
 ## Troubleshooting
 
+### Preflight fails with "Token is missing required scopes"
+
+The script decodes your token's `scp` claim before making any writes
+and bails early if a required scope isn't present. The fix is always
+the same: in Graph Explorer, click your profile → **Consent to
+permissions**, consent to the missing scope, and grab a **fresh**
+token (existing tokens don't pick up newly-consented scopes).
+
+The three scopes the script needs are:
+- `Application.ReadWrite.All`
+- `Directory.ReadWrite.All`
+- `DelegatedPermissionGrant.ReadWrite.All`
+
+If clicking "Consent" pops a "Need admin approval" dialog instead of
+granting, the tenant has a policy that restricts this scope to Global
+Administrators. In that case a Global Admin has to run the script (or
+register the app in the Entra admin portal at entra.microsoft.com).
+
 ### "Insufficient privileges to complete the operation" on application create
 
-Your token doesn't have `Application.ReadWrite.All`. Go back to Graph
-Explorer and **Modify permissions** (top-right gear) to consent. You
-should see Application.ReadWrite.All in the list of scopes you can
-self-consent to because you hold the **Application Developer** role.
+You somehow got past the preflight but still got a 403. This usually
+means the Application Developer role was revoked between when you
+consented to the scope and when the POST actually hit the server,
+or the tenant has an additional authorization policy layered on top.
+Contact a Global Admin.
 
 ### "Insufficient privileges" on the oauth2PermissionGrants POST
 
