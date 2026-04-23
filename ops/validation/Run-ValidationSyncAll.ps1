@@ -8,7 +8,7 @@
     per-source breakdown, duration, and failures into a timestamped report.
 
     This is the thing the Phase 1 exit criterion asks for:
-      "≥100 files from ≥2 Protein Sciences connectors into ask_jojo_raw/
+      ">=100 files from >=2 Protein Sciences connectors into ask_jojo_raw/
        in under an hour with correct access_level metadata"
 
 .PARAMETER RawRoot
@@ -42,12 +42,12 @@
     .\Run-ValidationSyncAll.ps1 -GraphToken "eyJ0eXAi..."
 
 .EXAMPLE
-    # Dry preview — shows which connectors would run, doesn't hit the network
+    # Dry preview -- shows which connectors would run, doesn't hit the network
     .\Run-ValidationSyncAll.ps1 -DryRun
 
 .NOTES
     This script is deliberately noisy. It's a validation run, not a silent
-    scheduled task — you want to see every step so surprises don't hide.
+    scheduled task -- you want to see every step so surprises don't hide.
 #>
 
 [CmdletBinding()]
@@ -95,7 +95,7 @@ function Append-Report([string]$line) {
 function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$Args) {
     if ($skip -contains $Name.ToLower()) {
         Write-Host "[skip] $Name (per -SkipConnector)" -ForegroundColor Yellow
-        Append-Report "### $Name — skipped"
+        Append-Report "### $Name -- skipped"
         Append-Report ""
         Append-Report "Skipped via ``-SkipConnector``. Re-run without the skip to include."
         Append-Report ""
@@ -106,7 +106,7 @@ function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$Args) 
     $preflightMsg = & $Preflight
     if ($preflightMsg) {
         Write-Host "[preflight] $preflightMsg" -ForegroundColor Yellow
-        Append-Report "### $Name — preflight failed"
+        Append-Report "### $Name -- preflight failed"
         Append-Report ""
         Append-Report "$preflightMsg"
         Append-Report ""
@@ -115,7 +115,7 @@ function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$Args) 
 
     if ($DryRun) {
         Write-Host "[dry-run] would execute: jojo-ingest $($Args -join ' ')" -ForegroundColor Yellow
-        Append-Report "### $Name — dry-run"
+        Append-Report "### $Name -- dry-run"
         Append-Report ""
         Append-Report "Would run: ``jojo-ingest $($Args -join ' ')``"
         Append-Report ""
@@ -143,13 +143,13 @@ function Run-Connector([string]$Name, [scriptblock]$Preflight, [string[]]$Args) 
     if ($lastBrace -ge 0 -and $lastClose -gt $lastBrace) {
         Append-Report $joined.Substring($lastBrace, $lastClose - $lastBrace + 1)
     } else {
-        Append-Report "(no JSON block found in output — see the .log file)"
+        Append-Report "(no JSON block found in output -- see the .log file)"
     }
     Append-Report '```'
     Append-Report ""
 
     if ($exit -ne 0) {
-        Write-Host "[fail] $Name exited $exit — see $LogPath" -ForegroundColor Red
+        Write-Host "[fail] $Name exited $exit -- see $LogPath" -ForegroundColor Red
     } else {
         Write-Host "[ok]   $Name finished in ${duration}s" -ForegroundColor Green
     }
@@ -173,7 +173,7 @@ $env:JOJO_PUBLIC_DRIVE_PATH = $PublicDrivePath
 
 # ------------------------------------------------------------------ report header
 @"
-# Phase 1 Exit-Criterion Validation — sync-all
+# Phase 1 Exit-Criterion Validation -- sync-all
 
 **Run:** $timestamp
 **Raw root:** $RawRoot
@@ -184,7 +184,7 @@ $env:JOJO_PUBLIC_DRIVE_PATH = $PublicDrivePath
 
 | Connector | Target | Status |
 | --- | --- | --- |
-| drive | $(if ($DrivePath) { $DrivePath } else { '_(not configured — optional)_' }) | $(if ($skip -contains 'drive' -or -not $DrivePath) { 'skipped' } else { 'will run' }) |
+| drive | $(if ($DrivePath) { $DrivePath } else { '_(not configured -- optional)_' }) | $(if ($skip -contains 'drive' -or -not $DrivePath) { 'skipped' } else { 'will run' }) |
 | sharepoint | $SharePointSites | $(if ($skip -contains 'sharepoint' -or -not $GraphToken) { 'skipped' } else { 'will run' }) |
 | onedrive | $OneDrivePath | $(if ($skip -contains 'onedrive') { 'skipped' } else { 'will run' }) |
 | publicdrive | $PublicDrivePath | $(if ($skip -contains 'publicdrive') { 'skipped' } else { 'will run' }) |
@@ -239,18 +239,18 @@ if (-not $DryRun) {
         Append-Report ""
         Append-Report "| Criterion | Target | Actual | Pass |"
         Append-Report "| --- | --- | --- | --- |"
-        Append-Report "| Total files ingested | ≥100 | $total | $(if ($total -ge 100) {'YES'} else {'NO'}) |"
-        Append-Report "| Connectors represented | ≥2 | $sourceCount | $(if ($sourceCount -ge 2) {'YES'} else {'NO'}) |"
+        Append-Report "| Total files ingested | >=100 | $total | $(if ($total -ge 100) {'YES'} else {'NO'}) |"
+        Append-Report "| Connectors represented | >=2 | $sourceCount | $(if ($sourceCount -ge 2) {'YES'} else {'NO'}) |"
         Append-Report ""
         Append-Report "Run duration depended on file volume; see per-connector durations above."
         Append-Report ""
 
         Write-Host ""
         Write-Host "Exit-criterion check:" -ForegroundColor Cyan
-        Write-Host "  total_entries = $total  (target ≥100)  $(if ($total -ge 100) {'PASS'} else {'FAIL'})" -ForegroundColor $(if ($total -ge 100) {'Green'} else {'Red'})
-        Write-Host "  by_source.Count = $sourceCount  (target ≥2)  $(if ($sourceCount -ge 2) {'PASS'} else {'FAIL'})" -ForegroundColor $(if ($sourceCount -ge 2) {'Green'} else {'Red'})
+        Write-Host "  total_entries = $total  (target >=100)  $(if ($total -ge 100) {'PASS'} else {'FAIL'})" -ForegroundColor $(if ($total -ge 100) {'Green'} else {'Red'})
+        Write-Host "  by_source.Count = $sourceCount  (target >=2)  $(if ($sourceCount -ge 2) {'PASS'} else {'FAIL'})" -ForegroundColor $(if ($sourceCount -ge 2) {'Green'} else {'Red'})
     } catch {
-        Write-Host "(couldn't parse jojo-ingest status JSON — exit-criterion check skipped)" -ForegroundColor Yellow
+        Write-Host "(couldn't parse jojo-ingest status JSON -- exit-criterion check skipped)" -ForegroundColor Yellow
     }
 }
 

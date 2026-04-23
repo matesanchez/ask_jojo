@@ -10,7 +10,7 @@
     Microsoft Graph directly with a pasted Graph Explorer token.
 
     Creates:
-      1. An Application object (public client — for MSAL device-code).
+      1. An Application object (public client -- for MSAL device-code).
       2. Its Service Principal in the tenant.
       3. A delegated oauth2PermissionGrant to yourself for Sites.Read.All
          + offline_access + User.Read, so Path B can sign in silently
@@ -38,7 +38,7 @@
     - The token expires ~60 minutes after it was issued; run the whole
       script within that window or re-paste.
     - If you've already created the app and just need the IDs, grep the
-      previous run's output — the script doesn't deduplicate on display
+      previous run's output -- the script doesn't deduplicate on display
       name by design (it fails loudly if you re-run, so you don't end up
       with two apps named the same thing silently).
 #>
@@ -56,7 +56,7 @@ param(
 $ErrorActionPreference = "Stop"
 
 # ---- constants -----------------------------------------------------------
-# Microsoft Graph service principal — the well-known appId every tenant
+# Microsoft Graph service principal -- the well-known appId every tenant
 # has for Graph. Delegated permission grants need both the client SP
 # (our new app) and the resource SP (Graph).
 $GraphAppId = "00000003-0000-0000-c000-000000000000"
@@ -198,7 +198,7 @@ Write-Host "[ok] Microsoft Graph SP id: $ResourceId"
 # Writing an oauth2PermissionGrant with consentType='Principal' + our own
 # principalId is the mechanical equivalent of clicking "Grant consent" in
 # the portal for just ourselves. It does NOT grant on behalf of the whole
-# tenant — other users would still see a consent prompt on first sign-in.
+# tenant -- other users would still see a consent prompt on first sign-in.
 # That's deliberate: we only need it working for Mateo's scheduled runs.
 Write-Section "Granting delegated consent to self"
 $grantBody = @{
