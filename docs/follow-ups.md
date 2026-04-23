@@ -8,6 +8,18 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ## 2026-04-23 — Phase 1
 
+### FU-8. Six SharePoint sites 401 under delegated Mateo-identity token
+
+- **Severity.** should
+- **Surfaced while.** reviewing the 11:07 and 15:00 sync-sharepoint runs on 2026-04-23. The 11:07 run used a fresh Graph Explorer token and successfully absorbed 313 files across the rest of SharePoint, but six sites 401'd anyway — meaning this isn't the "token expired" failure mode (which the 15:00 run cleanly demonstrated). It's an access-control failure that a fresh token will not fix.
+- **Problem.** Two distinct sub-cases, both worth capturing because the fix differs:
+    - **Site-level 401 (5 sites).** `NurixNet`, `DELTriageSeedProjects`, `DELScreenTeam`, `CRUKGrant`, `BiortusDiscoveryCo.Ltd` all 401 on the initial `GET /sites/nurix.sharepoint.com:/sites/<site>` discovery call. Mateo's user identity is not a member of these sites.
+    - **Item-level 401 (1 site).** `ProteinScience` resolves at the site level but 401s on a specific `/items/013A66TNQTEULTEZ4ABBB2LAMWRYJT7IFB/children` call — i.e. a restricted subfolder inside an otherwise-accessible site.
+  Neither case is token-related. Because Path B (MSAL device-code) also runs as the signed-in user, upgrading auth paths will not change the outcome — Path B gets the same `401` from the same permission check. The only fixes are (a) per-site access grants from SharePoint admins (solves the 5-site case site-by-site and the 1-site subfolder case), or (b) Path C client-credentials with tenant-wide `Sites.Read.All` / `Sites.FullControl.All` app permission (solves all six in one shot but is explicitly out of scope per ADR 0007 and requires IT sign-off).
+- **What "done" looks like.** A short written decision per site: either "request access from <owner>, track grant, re-enable sync" or "accept as out-of-scope, drop from `ingest_config.sites`." For ProteinScience specifically, narrow the `items/.../children` call so the restricted subfolder is excluded rather than repeatedly triggering a 401 every run. If more than ~half of requested sites fall into category (b), that's the forcing function to revisit Path C with IT.
+- **Where to start.** Confirm the owners list in SharePoint admin UI for each of the five site-level-denied sites (fastest: email the site's displayed "Owner" contact). `packages/jojo_ingest/sharepoint.py` already logs-and-skips cleanly, so nothing is broken — this is a coverage/scope decision, not a code bug. If we go the exclusion route for the ProteinScience subfolder, the `config.json` schema already supports `exclude_item_ids` (check against current shape).
+- **Why deferred.** Not in Phase 1 exit criterion. The connector degrades gracefully (401 → warning → exit 0, no crash, no scheduler noise). 313 files/run from the accessible sites is enough to satisfy Gate 2 (≥2 connectors contributing). Resolution requires cross-org coordination that doesn't block Phase 2 compile work.
+
 ### FU-7. Default `--raw` from config.json or sibling-directory convention
 
 - **Severity.** should
