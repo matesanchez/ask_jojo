@@ -393,6 +393,267 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 
 ---
 
+## Batch 20 — Delphi ACS2025.2 second-wave UAT testing
+
+**Theme:** The second wave of ACS2025.2 UAT testing that landed after the release-notes deck (already in Batch 5). Batch 5 anchored the release with one representative DS-1392/1423 testing pair; this batch covers the rest of the ticket-level UAT trail — DS-1393, DS-1394, DS-1396, the three DS-1423 iterations (April 17, 22, plus the DS-1423 EmptyMWPicklist error log that bracketed them), DS-1439, and the three DS-1476 large-scale-expression task-list cases. Cohesive ACS2025.2 long-tail story; same `decisions/acs2025-2-release.md` page produced by Batch 5 should absorb this batch's findings rather than producing a parallel page. Closes the SharePoint coverage gap from the manifest survey done 2026-04-24.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1393-docx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1394-docx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1396-docx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250417-ds-1423-docx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250418-ds-1423-emptymwpicklist-error-txt
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250418-ds-1439-docx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250422-ds-1423-docx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case1-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case2-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case3-xlsx
+
+---
+
+## Batch 21 — Phase 6 prune coverage (truthful-index dump)
+
+**Theme:** Not an absorb batch — a coverage-only batch that enumerates every SharePoint manifest entry the human-readable Backlog already classified as Phase 6 prune-pool, so the queue index is mechanically complete. Each line is pre-ticked with `<!-- skip: <reason> -->`. The compile worker should treat these as already-handled (do not absorb); Phase 6 lint pulls any cross-snapshot signal back into the canonical Batch 3-19 pages. Generated 2026-04-24 from `manifest.json` minus `queue.md` strict-batched IDs (118 entries across 27 clusters).
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+### 'Copy of' working-file variants — one-off scratch  (3)
+
+- [x] sharepoint_protein-science-documents-delphi-20240419-copy-of-jiraissues-testing-el-hb-xlsx  <!-- skip: copy_of_variants -->
+- [x] sharepoint_protein-science-documents-delphi-20241021-copy-of-invalidaa-xlsx  <!-- skip: copy_of_variants -->
+- [x] sharepoint_protein-science-documents-delphi-20250129-copy-of-pathdifs-xlsx  <!-- skip: copy_of_variants -->
+
+### Informal Delphi review docs — undated scope; Phase 6 prune  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-20250812-delphi-review-docx  <!-- skip: delphi_review -->
+- [x] sharepoint_protein-science-documents-delphi-20250820-delphi-review-docx  <!-- skip: delphi_review -->
+
+### Delphi error-log dumps — bug-report evidence, not knowledge; Phase 6 pattern-analysis only  (14)
+
+- [x] sharepoint_protein-science-documents-delphi-20240314-el-delphi-error-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20240314-kl-delphi-error-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20240529-el-delphi-biomass-reg-error-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20240607-biomass-dotmatics-error-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20240614-clone-persistenceerror-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20240909-ssept-5moiconditions-error-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20241009-ds1252error-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20250528-lset4595-error-javax-persistence-persistenceexcept-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20250613-qcreportexporterror-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20260112-lset-console-error-1-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20260112-lset-error-stack-trace-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20260324-delphi-del-screening-error-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20260325-delphi-pp-error-lspt-table-txt  <!-- skip: error_txt -->
+- [x] sharepoint_protein-science-documents-delphi-20260403-uat-cloneregerror-txt  <!-- skip: error_txt -->
+
+### Single-ticket evidence dumps — Phase 6 prune unless a pattern emerges  (4)
+
+- [x] sharepoint_protein-science-documents-delphi-20231107-ds882-necc-n21333-001a-xlsx  <!-- skip: evidence_dump -->
+- [x] sharepoint_protein-science-documents-delphi-20250403-blankfields-docx  <!-- skip: evidence_dump -->
+- [x] sharepoint_protein-science-documents-delphi-20260211-differences-target-forms-not-correctly-assigned-to-project-txt  <!-- skip: evidence_dump -->
+- [x] sharepoint_protein-science-documents-delphi-20260211-differences-target-forms-not-correctly-assigned-to-project-xlsx  <!-- skip: evidence_dump -->
+
+### Herman/John protein-id match snapshots — two iterations of the same artifact  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-20260225-herman-john-protein-id-his-avi-matches-xlsx  <!-- skip: herman_john -->
+- [x] sharepoint_protein-science-documents-delphi-20260410-herman-john-protein-id-his-avi-matches-copy-xlsx  <!-- skip: herman_john -->
+
+### 2024-01-29 meeting-with-Rob scratch — no standalone wiki signal  (3)
+
+- [x] sharepoint_protein-science-documents-delphi-20240129-meetingwithrob-copy-of-testresultsallenv-xlsx  <!-- skip: meetingwithrob -->
+- [x] sharepoint_protein-science-documents-delphi-20240129-meetingwithrob-copy-of-updatedsamples-xlsx  <!-- skip: meetingwithrob -->
+- [x] sharepoint_protein-science-documents-delphi-20240129-meetingwithrob-ppmeeting26jan2024-pptx  <!-- skip: meetingwithrob -->
+
+### Standalone non-Delphi singletons — Coupa, Cyrus, laptop-copy of DSA project list  (4)
+
+- [x] sharepoint_protein-science-documents-coupa-coupa-project-coding-updates-pptx  <!-- skip: non_delphi_singletons -->
+- [x] sharepoint_protein-science-documents-coupa-split-billing-functionality-in-coupa-docx  <!-- skip: non_delphi_singletons -->
+- [x] sharepoint_protein-science-documents-cyrus-hm-and-cad-training-pptx  <!-- skip: non_delphi_singletons -->
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-projects-jsantos04-t480-xlsx  <!-- skip: non_delphi_singletons -->
+
+### Performance benchmarks — revisit at Phase 6 (may deserve `decisions/delphi-performance-characterization.md`)  (1)
+
+- [x] sharepoint_protein-science-documents-delphi-20251118-performance-benchmarks-xlsx  <!-- skip: perf_bench -->
+
+### Picklist-bug investigation snapshots — promote when a fix lands  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-20260309-picklist-bug-pptx  <!-- skip: picklist_bug -->
+- [x] sharepoint_protein-science-documents-delphi-20260325-picklist-bug-pptx  <!-- skip: picklist_bug -->
+
+### PP-INFO6484 export iterations — same artifact evolving June 2025; collapse at Phase 6  (4)
+
+- [x] sharepoint_protein-science-documents-delphi-20250603-elresponse-copy-of-pp-info6484-lsptmay27-xlsx  <!-- skip: pp_info6484 -->
+- [x] sharepoint_protein-science-documents-delphi-20250605-pp-info6484-lspt-04jun-prod-elcomments-xlsx  <!-- skip: pp_info6484 -->
+- [x] sharepoint_protein-science-documents-delphi-20250606-pp-info6484-lspt-05jun-prod-exportfromrob-xlsx  <!-- skip: pp_info6484 -->
+- [x] sharepoint_protein-science-documents-delphi-20250613-pp-info6484-lspt-12jun-prod-proteinsequenceexport-final-xlsx  <!-- skip: pp_info6484 -->
+
+### Test-environment scratch exports — PPTestsProd  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-20230914-pptestsprod-el-edits-xlsx  <!-- skip: pptestsprod -->
+- [x] sharepoint_protein-science-documents-delphi-20230928-pptestsprod3-xlsx  <!-- skip: pptestsprod -->
+
+### Loose QC report export PPTX — one-off, not part of redesign cluster  (1)
+
+- [x] sharepoint_protein-science-documents-delphi-20231011-qcreportexport-qc-report-pptx-2023-10-11-17-18-59-191389-pptx  <!-- skip: qcreportexport_loose -->
+
+### One-off reconcile/audit artifacts  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-03052023-protein-production-missing-antibiotic-resistance-for-existing-clones-xlsx  <!-- skip: reconcile -->
+- [x] sharepoint_protein-science-documents-delphi-20221111-protein-production-reconcile-clone-dna-sequence-xlsx  <!-- skip: reconcile -->
+
+### 2021-05-27 ACS UAT reviewer variants — masters in Batch 3; reviewer commentary folded in at Phase 6 lint  (13)
+
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-campaign-planning-milestone-2-changes-eledits-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-campaign-planning-milestone-2-changes-jose-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-campaign-planning-milestone-2-changes-kl-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-protein-production-requests-eledits-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-protein-production-requests-jose-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-protein-production-requests-kl-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-clone-tasks-eledits-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-clone-tasks-jose-docx-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-clone-tasks-kl-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-target-form-eledits-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-target-form-kl-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-03-advanced-construct-support-uat-plan-sequence-and-structure-eledits-pdf  <!-- skip: review_2021_05_27 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-03-advanced-construct-support-uat-plan-sequence-and-structure-kl-pdf  <!-- skip: review_2021_05_27 -->
+
+### 2021-08-29 UAT reviewer copies — same Batch 3 lineage  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-08-29-2021-uat-reviews-copy-of-0-2-advanced-construct-support-uat-plan-protein-production---jose-pdf  <!-- skip: review_2021_08_29 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-08-29-2021-uat-reviews-copy-of-04-advanced-construct-support-uat-plan--jose-pdf  <!-- skip: review_2021_08_29 -->
+
+### 2024-05-28 SSEPT UAT testing artifacts — collapse into Batch 7 SSEPT page  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-28-2024-uat-reviews-delphi-ssept-testing-checklist-xlsx  <!-- skip: review_2024_05_28 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-28-2024-uat-reviews-test-case-1-pptx  <!-- skip: review_2024_05_28 -->
+
+### ACS2024.1 extended UAT tickets — Batch 4 has six representatives; this is the long tail  (6)
+
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-1362-docx  <!-- skip: review_acs2024_1 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20250102-ds-1124-docx  <!-- skip: review_acs2024_1 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20250102-ds-725-docx  <!-- skip: review_acs2024_1 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20250103-ds-1284-testing-results-xlsx  <!-- skip: review_acs2024_1 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20250214-ds-1283-docx  <!-- skip: review_acs2024_1 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-ds-1284-docx  <!-- skip: review_acs2024_1 -->
+
+### ACS2025.1 extended UAT tickets — Batch 5 covers the release; this is the long tail  (4)
+
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1298-20250219-ds-1298-uat-testing-docx  <!-- skip: review_acs2025_1 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1300-02192025-irf5-emilylow-1-picklist-xlsx  <!-- skip: review_acs2025_1 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1300-02272024-irf5-emilylow-1-picklist-xlsx  <!-- skip: review_acs2025_1 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1300-20250219-uat-testing-picklist-export-error-docx  <!-- skip: review_acs2025_1 -->
+
+### Annotation/Q&A scratch — Phase 6 prune  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-06072023-df-selections-domains-jose-xlsx  <!-- skip: scratch -->
+- [x] sharepoint_protein-science-documents-delphi-20250527-delphi-clone-task-cp-and-pp-questions-pptx  <!-- skip: scratch -->
+
+### One-off sequence-exports xlsx — Phase 6  (1)
+
+- [x] sharepoint_protein-science-documents-delphi-20250922-sequence-exports-xlsx  <!-- skip: sequence_exports -->
+
+### DDT clone-database snapshots — Batch 16 sampled 3; rest pruned at Phase 6 (Principle 3)  (15)
+
+- [x] sharepoint_protein-science-documents-delphi-03-01-2022-ddt-protein-clone-database-for-lf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-03-26-2021-ddt-protein-clone-database-amy-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-05-10-2022-ddt-protein-clone-database-for-fl-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-05-11-2022-ddt-protein-clone-database-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-05-12-2022-ddt-protein-clone-database-forlf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-06-13-2021-ddt-protein-clone-database-forlf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-07-07-2021-ddt-protein-clone-database-for-lf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-07-20-2021-ddt-protein-clone-database-for-lf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-07-22-2021-ddt-protein-clone-database-for-lf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-07-23-2021-ddt-protein-clone-database-for-lf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-08-02-2021-ddt-protein-clone-database-for-lf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-09-10-2021-ddt-protein-clone-database-forlf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-10-27-2021-ddt-protein-clone-database-for-lf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-11-14-2021-ddt-protein-clone-database-forlf-xlsx  <!-- skip: snap_ddt -->
+- [x] sharepoint_protein-science-documents-delphi-11-8-2021-ddt-protein-clone-database-for-john-lin-xlsx  <!-- skip: snap_ddt -->
+
+### QC reports redesign variants — Batch 16 sampled 3; rest pruned at Phase 6  (8)
+
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-04-27-19-38-56-832661-option2-pptx  <!-- skip: snap_qc_redesign -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-04-27-19-38-56-832661-option3-pptx  <!-- skip: snap_qc_redesign -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-04-27-19-38-56-832661-original-pptx  <!-- skip: snap_qc_redesign -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-10-26-17-03-23-124907-pptx  <!-- skip: snap_qc_redesign -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-10-27-16-15-17-91159-pptx  <!-- skip: snap_qc_redesign -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-10-27-16-16-42-201345-pptx  <!-- skip: snap_qc_redesign -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-10-27-16-20-18-159905-pptx  <!-- skip: snap_qc_redesign -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-11-07-19-44-27-341239-1a-pptx  <!-- skip: snap_qc_redesign -->
+
+### Delphi User Roles snapshots — Batch 16 sampled 3; rest pruned at Phase 6  (12)
+
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20220725-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20220831-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20221010-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20221018-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20221021-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20230105-minimal-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20230105-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20230316-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20230502-jose-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20230502-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20231103-xlsx  <!-- skip: snap_user_roles -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20231108-xlsx  <!-- skip: snap_user_roles -->
+
+### Delphi roles-definition extras (cp-pp AD roles, investigators table, alternate-path cp-ds map)  (4)
+
+- [x] sharepoint_protein-science-documents-delphi-delphi-cp-ds-old-roles-to-new-roles-map-wks-xlsx  <!-- skip: snap_user_roles_extra -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-20220927-delphi-investigators-xlsx  <!-- skip: snap_user_roles_extra -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-20230112-delph-cp-pp-ad-roles-xlsx  <!-- skip: snap_user_roles_extra -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-20230205-delphi-cp-pp-ad-roles-xlsx  <!-- skip: snap_user_roles_extra -->
+
+### Search-result exports — textsearchcIAP2/12; Phase 6 prune  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-20250812-textsearchciap2-xlsx  <!-- skip: textsearch -->
+- [x] sharepoint_protein-science-documents-delphi-20250814-textsearchciap12-xlsx  <!-- skip: textsearch -->
+
+### Orphan timeline deck — one-off meeting visualization  (1)
+
+- [x] sharepoint_protein-science-documents-delphi-timeline-04192024-pptx  <!-- skip: timeline_orphan -->
+
+### Delphi vendor-info proposal snapshots — promote when a decision lands  (2)
+
+- [x] sharepoint_protein-science-documents-delphi-20260226-delphi-vendorinfo-proposal-pptx  <!-- skip: vendor_info -->
+- [x] sharepoint_protein-science-documents-delphi-20260311-delphi-vendorinfo-proposal-v2-pptx  <!-- skip: vendor_info -->
+
+---
+
+## OneDrive — pending laptop-side triage
+
+**Why this section exists.** The Cowork session that maintains this queue lives on a Linux container that cannot see Mateo's local OneDrive sync — the OneDrive manifest entries land in `ask_jojo_raw/manifest.json` on the laptop, not in this checked-in copy. Until OneDrive entries either (a) get committed back to the repo or (b) get surveyed and pasted into this file, the OneDrive section is structural placeholder, not real batches.
+
+**One-time triage one-liner (run on the laptop, repo root, venv active):**
+
+```powershell
+python -c "import json, collections, pathlib; m=json.loads(pathlib.Path('ask_jojo_raw/manifest.json').read_text()); od=[e for e in m['entries'].values() if e['source_type']=='onedrive']; tops=collections.Counter(e['source_id'].split('/',1)[0] for e in od); print(f'OneDrive entries: {len(od)}'); [print(f'  {n:>5}  {top}') for top, n in tops.most_common()]"
+```
+
+That prints `<count> <top-folder-name>` lines sorted by document count. Decide which top-folders are wiki-worthy; surface those folders' files into Batches 22+ (one batch per coherent topic, ~10 entries each). Folders that are clearly ephemeral (Downloads, Pictures, Personal-anything) can go straight to Batch N+1 below as `[x]` with a `<!-- skip: ephemeral_onedrive -->` note.
+
+### Batch 22 — OneDrive top-folder coverage  *(placeholder)*
+
+**Theme:** TBD after the triage one-liner runs. Plan: one ~10-entry batch per most-active OneDrive top-folder (project-coded folders, role-coded folders, etc.). Aim for the same topical-cohesion bar Batches 1-19 use — files within a batch should converge on a few strong wiki pages, not sprawl.
+
+**Connector:** onedrive
+**Access level:** owner_only  *(default for OneDrive — adjust per file at absorb time)*
+
+- [ ] *(populate after running the survey one-liner above)*
+
+### Batch 23 — OneDrive misc / small-folder cleanup  *(placeholder)*
+
+**Theme:** OneDrive entries that don't slot cleanly into a Batch 22 top-folder cluster — single-file folders, root-level loose files, cross-folder one-offs. Treat the same way Batch 21 treats SharePoint long-tail — enumerate, skip-tag, surface only what has wiki signal.
+
+**Connector:** onedrive
+**Access level:** owner_only
+
+- [ ] *(populate after running the survey one-liner above; expected: ~10-30 entries with mixed `[x]`/`[ ]` ticks)*
+
+
+---
+
 ## Backlog — not yet batched
 
 Loose pool of entries the absorb prompt has flagged but that haven't been grouped into a batch. When writing a new batch heading above, pull from this list and delete the lines you pull. Not every raw entry belongs here — low-signal files (outdated drafts, copy-of-copy variants, meeting no-shows) are absorbed by the lint pipeline's retention pass in Phase 6, not by hand now.
