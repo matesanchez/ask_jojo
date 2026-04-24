@@ -301,16 +301,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-2023-07-14-delphi-small-scale-task-proposal-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20240201-delphi-ssepttable-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250224-delphi-sseptimporttable-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250730-delphi-sseptimporttable-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-copy-of-ssept-tickets---april-2024-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-ssept-import-documents-am-complete-expression-task-list-wed-sep-03-2025-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-ssept-import-documents-am-expression-task-list-wed-sep-03-2025-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250519-proteinsequenceexport-pp-info6484-ssept-example-from-rob-20250519-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250916-pp-info6484-onetimesseptexport-proteinseq-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20251001-proteinexportsforboltz-ssept-xlsx
+- [x] sharepoint_protein-science-documents-delphi-2023-07-14-delphi-small-scale-task-proposal-pptx
+- [x] sharepoint_protein-science-documents-delphi-20240201-delphi-ssepttable-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250224-delphi-sseptimporttable-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250730-delphi-sseptimporttable-xlsx
+- [x] sharepoint_protein-science-documents-delphi-copy-of-ssept-tickets---april-2024-xlsx
+- [x] sharepoint_protein-science-documents-delphi-ssept-import-documents-am-complete-expression-task-list-wed-sep-03-2025-xlsx
+- [x] sharepoint_protein-science-documents-delphi-ssept-import-documents-am-expression-task-list-wed-sep-03-2025-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250519-proteinsequenceexport-pp-info6484-ssept-example-from-rob-20250519-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250916-pp-info6484-onetimesseptexport-proteinseq-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20251001-proteinexportsforboltz-ssept-xlsx
 
 ---
 
