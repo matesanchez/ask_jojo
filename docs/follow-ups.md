@@ -1,8 +1,23 @@
 # Follow-ups
 
-**Purpose.** Running list of non-blocking items we've explicitly chosen to defer, with enough context that picking one up later doesn't require re-deriving the decision. Anything blocking is in `docs/v2_status.md` under "Risk Watchlist" instead.
+**Purpose.** Running list of non-blocking items we've explicitly chosen to defer, with enough context that picking one up later doesn't require re-deriving the decision. Anything blocking is in `docs/v2_status.md` under "Risk Watchlist" instead. Items are named `FU-N` ("Follow-Up N") so they can be referenced in commit messages, ADRs, and cross-links without re-describing the whole thing.
 
 Sorted newest-first. Each entry includes a severity hint (`must` = must ship before the phase that references it; `should` = quality-of-life; `nice` = worth doing if a future pass is nearby), the phase under which it was surfaced, and a clear exit condition.
+
+---
+
+## 2026-04-24 — Phase 1
+
+### FU-9. `DriveConnector._walk` hangs indefinitely on torn-down SMB sessions
+
+- **Severity.** must (before any unattended first-walk of publicdrive can complete)
+- **Surfaced while.** running an overnight manual publicdrive ingest from 2026-04-23 15:52 through 2026-04-24 ~09:00. Process alive at 17h wall-clock but with **0.03 seconds of CPU time**, 12 MB working set, and the log's `LastWriteTime` frozen at 15:55:18 (3 minutes after launch). Zero `.md` files written, zero manifest entries added. The python handle was blocked inside a single `os.scandir`/`os.stat` syscall for the entire night. `P:\` itself was reachable in the morning — the handle was orphaned, not the drive.
+- **Problem.** `packages/jojo_ingest/drive.py:_walk` issues blocking `os.scandir`/`os.stat` calls against SMB with no per-call timeout. The Track 2 `OSError` catch (task #51) rescues the walker when the syscall *returns* an error (WinError 59, etc.) — it does nothing for syscalls that never return at all, which is the common failure mode when the NIC goes to selective suspend and the SMB session is torn down silently. Scheduled tasks have an `ExecutionTimeLimit=2h` in `Register-JojoBotTasks.ps1`, which kills these hangs at the 2h boundary; manual runs have no such safety net. Either way, the 2h budget is almost certainly not enough for a first-walk of publicdrive, so the scheduled task will also never succeed at an initial walk until the underlying hang is fixed.
+- **What "done" looks like.** Two layers, both needed.
+    - **(a) Code.** Wrap every `os.scandir`/`os.stat` call in `_walk` in a watchdog thread with a ~30s timeout. On timeout, log a WARNING and skip the subtree — treat it the same as any other `OSError`. The watchdog does not have to be cross-platform elegant; Python stdlib `threading.Thread` + `Event` is fine. One new test: seed a mock `os.scandir` that sleeps longer than the watchdog's budget, assert the walker emits a timeout warning and continues.
+    - **(b) Operational doc.** Add a "first-walk prerequisites" section to `ops/scheduler/README.md`: disable "Allow the computer to turn off this device to save power" on the active ethernet adapter before any overnight publicdrive run, and prefer kicking off the first walk on a desktop rather than a laptop. Cheap edits, expensive omissions.
+- **Where to start.** `packages/jojo_ingest/drive.py` — `_walk` is the only caller that hits SMB; upload/onedrive (local mount) don't need it. `packages/jojo_ingest/test_drive.py` already has an `OSError`-path test from Track 2; the new hang test slots in next to it.
+- **Why deferred.** Three of four connectors already soak cleanly; publicdrive is the one laggard. Phase 2's compile pipeline doesn't touch publicdrive yet (compile consumes from `ask_jojo_raw/` via the manifest, and it's still >19k files from the other three connectors). First walk can be manually kicked off chunk-by-chunk (narrow `--source` to one top-level folder at a time) as a workaround until (a) ships.
 
 ---
 
