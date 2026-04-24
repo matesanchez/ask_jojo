@@ -237,29 +237,213 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 
 ---
 
+## Batch 12 — Protein request / checkout UX redesign
+
+**Theme:** The protein-request and checkout form has been redesigned at least three times over four years — 2022's detail-page redesign and checkout deck, 2024's homepage redesign, 2025's inventory check-out proposal and purification export request, plus the figma reviews and workflow checklist that fed into them. Cohesive "how the request UX evolved" story. Expected outputs: a `decisions/protein-request-ux-redesign.md` page synthesizing the arc (what changed, why, from / to), possibly a `protocols/protein-request-submission.md` page if the sources together give a clean picture of the current submission flow.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-20220905-protein-request-detail-page-redesign-pptx
+- [ ] sharepoint_protein-science-documents-delphi-20221123-protein-request-checkout-pptx
+- [ ] sharepoint_protein-science-documents-delphi-20240308-delphi-proteinproductionrequests-homepage-redesign-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20250312-proposed-changes-to-delphi-inventory-check-out-ppt-pptx
+- [ ] sharepoint_protein-science-documents-delphi-20250513-protein-purification-export-request-pptx
+- [ ] sharepoint_protein-science-documents-delphi-revised-protein-request-workflow--jose-comments-pptx
+- [ ] sharepoint_protein-science-documents-delphi-revised-protein-request-workflow-1-pptx
+- [ ] sharepoint_protein-science-documents-delphi-figma-review-01052023-pptx
+- [ ] sharepoint_protein-science-documents-delphi-figma-review-112022-pptx
+- [ ] sharepoint_protein-science-documents-delphi-work-flow-check-list-pptx
+
+---
+
+## Batch 13 — DS399 QA testing saga
+
+**Theme:** DS399 was one Delphi ticket that took six rounds of QA testing to close out between September and December 2024. A single `decisions/ds399-qa-testing.md` page captures what DS399 changed and why it needed six review passes; the DS725 test doc from December is a close cousin (another long-tail QA case from the same era) and fits the same narrative. Trailing batch — seven entries is the right size given how focused the cluster is.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-20240919-ds399-qa-testing-docx
+- [ ] sharepoint_protein-science-documents-delphi-20241023-ds399-qa-testing-docx
+- [ ] sharepoint_protein-science-documents-delphi-20241114-delphi-ds399-testing-docx
+- [ ] sharepoint_protein-science-documents-delphi-20241127-qatesting-ds399-docx
+- [ ] sharepoint_protein-science-documents-delphi-20241205-delphi-ds399-testing-docx
+- [ ] sharepoint_protein-science-documents-delphi-20241212-delphi-ds399-testing-docx
+- [ ] sharepoint_protein-science-documents-delphi-20241218-delphi-ds725testing-derek-docx
+
+---
+
+## Batch 14 — Delphi triage / QA reviews / Jira workflow
+
+**Theme:** How bugs and issues get filed, triaged, and resolved in Delphi — the 2022 Delphi-cases status deck, QA review sessions (2022 ACS issues triage, the Feb 2024 SSEPT QA check), the 2023 Delphi-challenges issue log, jira ticket filing guidelines, and the automatic-status-changes rollout that replaced manual triage in late 2024. Expected outputs: a `runbooks/delphi-bug-triage.md` page on the bug-filing and triage process, a `decisions/delphi-automatic-status-changes.md` page on the 2024 rollout.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-20221101-proteinsciences-delphi-cases-pptx
+- [ ] sharepoint_protein-science-documents-delphi-20230821-delphi-challenges-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-20220810-delphi-qa-review-jose-emily-hugo-docx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-09022022-delphi-acs-issues-august-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-09022022-delphi-acs-issues-august-sent-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-test-ssept-020924-docx
+- [ ] sharepoint_protein-science-documents-delphi-20241015-jira-ticket-filing-guidelines-pptx
+- [ ] sharepoint_protein-science-documents-delphi-20241021-automatic-status-changes-pptx
+- [ ] sharepoint_protein-science-documents-delphi-automatic-status-changes-09-06-2024-pptx
+- [ ] sharepoint_protein-science-documents-delphi-automatic-status-changes-10-21-2024-pptx
+
+---
+
+## Batch 15 — SSEPT round 2 (import tables, tickets, small-scale task proposal)
+
+**Theme:** Second pass on SSEPT material — the original 2023 small-scale-task proposal that pitched the feature, the SSEPT tickets log from April 2024, the Feb 2024 ssepttable snapshot, the Sep 2025 import-documents exports, and the late-2025 one-off SSEPT exports feeding downstream tools (protein sequence export for Boltz, info6484 examples). Extends the methods/protocols page produced by Batch 7 with ticket-level history and downstream integration patterns; likely warrants a `protocols/ssept-export-integration.md` sub-page.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-2023-07-14-delphi-small-scale-task-proposal-pptx
+- [ ] sharepoint_protein-science-documents-delphi-20240201-delphi-ssepttable-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20250224-delphi-sseptimporttable-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20250730-delphi-sseptimporttable-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-copy-of-ssept-tickets---april-2024-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-ssept-import-documents-am-complete-expression-task-list-wed-sep-03-2025-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-ssept-import-documents-am-expression-task-list-wed-sep-03-2025-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20250519-proteinsequenceexport-pp-info6484-ssept-example-from-rob-20250519-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20250916-pp-info6484-onetimesseptexport-proteinseq-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20251001-proteinexportsforboltz-ssept-xlsx
+
+---
+
+## Batch 16 — Representative sample across snapshot clusters (DDT / roles / QC-reports)
+
+**Theme:** The three big near-duplicate snapshot clusters flagged in the earlier backlog collapse into one session: three DDT protein-clone-database snapshots (2020-11 earliest, 2021-05 middle, 2022-05 latest), three user-roles snapshots (2022-07 earliest, 2023-03 middle, 2024-08 latest), three QC-reports-redesign variants (2023-04 Option1, 2023-10 mid-iteration, 2023-11 final design), and the CP-DS old-to-new roles crosswalk that ties the role evolution together. Three output pages expected — `protocols/delphi-ddt-clone-database.md`, `decisions/delphi-user-role-model.md`, `decisions/delphi-qc-report-redesign.md` — each synthesizing what the artifact is and what changed across the snapshots. Remaining snapshots in each cluster are pruned at Phase 6 per CLAUDE.md Principle 3.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-11-09-2020-ddt-protein-clone-database-for-christophe-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-05-13-2021-ddt-protein-clone-database-for-amy-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-05-13-2022-ddt-protein-clone-database-for-lf-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-user-roles-20220725-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20230314-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20240829-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-04-27-19-38-56-832661-option1-pptx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-10-27-18-30-02-806343-pptx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-11-07-19-53-12-221873-1b-pptx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-cp-ds-old-roles-to-new-roles-map-wks-xlsx
+
+---
+
+## Batch 17 — Early Delphi history (2020-2021 + early 2022)
+
+**Theme:** The pre-ACS era — the 2020 campaign-planning project plan for 2021, the early tags-fusion-cleavage-linkers table (before Batch 8's consolidated version), 2021 inventory-pathways and PP/CP screenshot review, late-2021 project renaming changes, the ACS2022-September release notes (the `campaign-planning-release-notes-july-september-prod-v2-4-0.pdf` that pre-dates the ACS2024.1 release-notes cluster in Batch 4), the 2022-08 Delphi lascex/lascpu tutorial, the June 2022 production-release-feedback prioritization deck, and an undated "jose notes on review" doc. Expected output: a `decisions/delphi-pre-acs-timeline.md` page that establishes "where Delphi was before the ACS epic" as the baseline anchor for Batches 3-5 citations.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-12-22-2020-campaign-planning-project-plan-2021-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-11-17-2020-tags-fusion-cleavage-linkers-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-09-22-2021-inventory-pathways-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-10-08-2021-pp-and-cp-review-of-screen-shots-pptx
+- [ ] sharepoint_protein-science-documents-delphi-10-08-2021-pp-and-cp-review-of-screen-shots-kl-pptx
+- [ ] sharepoint_protein-science-documents-delphi-12-07-2021-delphi-project-renaming-changes-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2022-sept-release-campaign-planning-release-notes-july-september-prod-v2-4-0-pdf
+- [ ] sharepoint_protein-science-documents-delphi-2022-production-release-feedback-prioritization-06212022-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-tutorial-lascex-lascpu-08022222-docx
+- [ ] sharepoint_protein-science-documents-delphi-jose-notes-on-review-docx
+
+---
+
+## Batch 18 — Protein-production inventory + data-integrity events
+
+**Theme:** Inventory-side changes to Delphi — the August 2022 inventory columns schema change, the April 2023 protein-inventory updates, three Aug/Sep 2023 protein-production-inventory data samples (representative snapshots of the inventory table), the September 2023 invalid→corrected barcodes event (a discrete data-integrity fix), the October 2023 DS869 manual-updates sweep, and a November 2023 flasks snapshot tail that followed the DS841 rollout (Batch 6). Expected outputs: a `decisions/delphi-inventory-schema.md` page for the 2022-08 columns change and the downstream 2023-04 update, plus a `decisions/barcode-correction-2023-09.md` anchor for the invalid→corrected event if the sources warrant it.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-delphi-inventory-columns-changes-080922-pptx
+- [ ] sharepoint_protein-science-documents-delphi-20230418-delphi-proteininventory-updates-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20230810-protein-production-inventory-data-sample-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20230822-protein-production-inventory-data-sample-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20230907-protein-production-inventory-data-sample-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-protein-production-inventory-data-sample-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20230925-invalidbarcodes-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20230927-correctedbarcodes-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20231023-manual-updates-for-ds869-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20231109-copy-of-flasks-updated-xlsx
+
+---
+
+## Batch 19 — Delphi ACS2026.2 release cycle + ACS2025.3 testing tail
+
+**Theme:** The ACS2026.2 release-notes deck (March 2026) plus the four UAT testing snapshots that validated it (Feb through April 2026, including an early ACS2026.3 testing snapshot), plus the two orphan ACS2025.3 testing snapshots from July 2025 that never got release-notes companions, plus two September 2025 `delphi-uat` decks likely in the ACS2025.3 tail. Same pattern as Batches 4-5 — one `decisions/acs2026-2-release.md` page anchored to the Delphi platform page from Batch 2, one `decisions/acs2025-3-release.md` page (looser, given the missing release notes). If the two September 2025 decks turn out to be a different release, promote them out at Phase 6.
+
+**Connector:** sharepoint
+**Access level:** all_fte
+
+- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2026-2-20260311-delphi-2026-2-1-release-notes-pptx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260217-uat-snapshots-pptx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260305-2026-2-1-uat-testing-pptx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260320-2026-2-2-uat-snapshots-pptx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-3-uat-testing-20260406-uat-snapshots-pptx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-3-testing-20250730-delphi-sseptimporttable-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-3-testing-20250731-expression-task-list-thu-jul-31-2025-emily-export-xlsx
+- [ ] sharepoint_protein-science-documents-delphi-20250923-delphi-uat-pptx
+- [ ] sharepoint_protein-science-documents-delphi-20250925-delphi-uat-pptx
+
+---
+
 ## Backlog — not yet batched
 
-Loose pool of entries the absorb prompt has flagged as worth processing but that haven't been grouped into a batch yet. When writing a new batch heading above, pull from this list (and delete the lines you pull). Not every raw entry belongs here — low-signal files (outdated drafts, copy-of-copy variants, meeting no-shows) are absorbed by the lint pipeline's retention pass in Phase 6, not by hand now.
+Loose pool of entries the absorb prompt has flagged but that haven't been grouped into a batch. When writing a new batch heading above, pull from this list and delete the lines you pull. Not every raw entry belongs here — low-signal files (outdated drafts, copy-of-copy variants, meeting no-shows) are absorbed by the lint pipeline's retention pass in Phase 6, not by hand now.
 
 ### Scope note (as of 2026-04-24)
 
-The batches above cover sharepoint entries only. `ask_jojo_raw/` also holds ~18k onedrive entries and whatever publicdrive eventually produces, but those are on Mateo's laptop filesystem, not this session's workspace. When running absorb sessions from the laptop, the absorb pipeline can see the full corpus and the queue can point at onedrive / publicdrive entries directly — those batches should be added here as they're identified.
+The batches above cover sharepoint entries only. `ask_jojo_raw/` also holds ~18k onedrive entries and whatever publicdrive eventually produces, but those live on Mateo's laptop filesystem, not this session's workspace. When running absorb sessions from the laptop, the absorb pipeline sees the full corpus and the queue can point at onedrive / publicdrive entries directly — those batches should be appended here once identified. OneDrive at ~18k entries needs a triage pass first (walk the top-level folders, classify wiki-worthy vs. ephemeral vs. sharepoint-duplicate); only the wiki-worthy folders become batch targets. Publicdrive is likely small enough to survey-then-batch directly.
 
-### Low-signal near-duplicate clusters (absorb a representative sample only)
+### Near-duplicate snapshot clusters (representative sample in Batch 16; remainder prunes at Phase 6)
 
-These clusters are intentionally *not* fully batched because the files are evolutionary snapshots of the same underlying artifact. The CLAUDE.md rule "pages are knowledge, not records" (Principle 3) says the wiki gets one page per artifact synthesizing current state and notable evolution, not one page per snapshot. When batching, pull the earliest + latest + one representative middle snapshot (three to five files max) and let the rest be pruned by the Phase 6 retention pass.
+Batch 16 pulls three representatives from each of the three big snapshot clusters. All remaining snapshots in each cluster are pruned at Phase 6 per CLAUDE.md Principle 3 ("pages are knowledge, not records"). If a specific snapshot ever looks load-bearing for a citation, lift it out at absorb time — but don't batch the whole cluster.
 
-- **DDT protein clone database snapshots (2020-2021).** ~14 `delphi-*-ddt-protein-clone-database-*.xlsx` files from 2020-11 through 2021-11. Produces one `protocols/delphi-ddt-clone-database.md` page describing what the table is and how it's maintained, plus notable schema shifts.
-- **Delphi user-roles snapshots.** ~15 `delphi-delphi-roles-definition-delphi-user-roles-YYYYMMDD-xlsx` files from 2022-07 through 2024-08. Produces one `decisions/delphi-user-role-model.md` page describing the role model and how it shifted (CP / PP / AD / DS).
-- **Delphi QC reports redesign iterations (Apr-Nov 2023).** ~10 `delphi-delphi-qc-reports-redesign-*.pptx` files — four Option1/2/3/original variants from the 2023-04-27 session plus six follow-up redesigns. Produces one `decisions/delphi-qc-report-redesign.md` page on the final chosen design and why.
-- **ACS2025-3 / ACS2026 UAT snapshots.** ~6 `delphi-delphi-uat-reviews-acs2025-3-*` and `acs2026-*` files. Not yet matched to release notes (those release notes may not have surfaced in the corpus yet). Wait until the next sync picks up the corresponding release notes, then batch together.
+- **DDT protein clone database.** 15 additional `delphi-*-ddt-protein-clone-database-*.xlsx` snapshots beyond the three in Batch 16.
+- **Delphi user roles.** 16 additional `delphi-roles-definition-delphi-user-roles-YYYYMMDD-xlsx` snapshots beyond the three in Batch 16.
+- **Delphi QC reports redesign.** 8 additional `delphi-qc-reports-redesign-*.pptx` variants beyond the three in Batch 16 (Option2/3/original from 2023-04-27 plus five October/November iterations).
 
-### Standalone low-priority entries (single-page absorb candidates)
+### UAT reviewer variants (Phase 6 prune pool — do not batch individually)
 
-- `sharepoint_protein-science-documents-coupa-coupa-project-coding-updates-pptx` + `sharepoint_protein-science-documents-coupa-split-billing-functionality-in-coupa-docx` — Coupa (procurement software) usage notes. Unlikely to warrant wiki pages on their own; may end up as sections on a broader `platforms/coupa.md` page if more Coupa content surfaces in OneDrive / other corpora.
-- `sharepoint_protein-science-documents-cyrus-hm-and-cad-training-pptx` — Cyrus homology modeling / CAD training. Likely `equipment/cyrus-hm.md` or `methods/cyrus-homology-modeling.md`; could pair with more computational-biology training material from OneDrive when that's in scope.
-- `sharepoint_protein-science-documents-del-screen-plans-ds-projects-jss-xlsx` + `sharepoint_protein-science-documents-del-screen-plans-dsa-projects-xlsx` + `sharepoint_protein-science-documents-del-screen-plans-dsa-projects-jsantos04-t480-xlsx` — DSA project master lists. Three of the four go in Batch 1; this fourth ("jsantos04-t480") looks like an individual laptop copy — skip unless the diff against the master is meaningful.
+Each file listed here is a reviewer-specific annotated copy of a source document already absorbed in Batches 3/4/5. Principle 3 says one page per artifact, not one per reviewer; pull unique reviewer commentary into the corresponding Batch 3/4/5 pages at Phase 6 lint time, don't absorb separately.
+
+- **2021-05-27 ACS UAT reviewer variants (14 files).** The `-eledits-pdf`, `-kl-pdf`, and (additional) `-jose-pdf` copies of the four 2021-05-27 UAT plan docs whose `-jose-docx` masters are in Batch 3.
+- **2021-08-29 UAT reviewer copies (2 files).** `copy-of-0-2-advanced-construct-support-*-jose-pdf` and `copy-of-04-advanced-construct-support-*-jose-pdf`.
+- **ACS2024.1 extended UAT tickets (6 files).** `20241220-ds-1362`, `20250102-ds-1124`, `20250102-ds-725`, `20250103-ds-1284-testing-results`, `20250214-ds-1283`, `ds-1284-docx` — additional ticket-level UAT docs beyond the six in Batch 4; same release cycle.
+- **ACS2025.1 / ACS2025.2 extended UAT tickets (~11 files).** `ds-1298`, two `ds-1300-*` picklist variants, `ds-1300-20250219-uat-testing-picklist-export-error-docx`, `ds-1393`, `ds-1394`, `ds-1396`, `ds-1423`, `ds-1423-emptymwpicklist-error-txt`, `ds-1439`, `ds-1476` case1/2/3 — additional ticket-level UAT beyond Batch 5.
+- **2024-05-28 SSEPT UAT testing artifacts (2 files).** `delphi-ssept-testing-checklist-xlsx` and `test-case-1-pptx`.
+
+### Standalone low-signal entries (Phase 6 prune pool)
+
+Ephemeral working files that don't produce wiki knowledge on their own. Listed here so the queue stays truthful but skip for hand-absorb — Phase 6 lint will prune unless a pattern surfaces that the wiki otherwise captures.
+
+- **Annotation / Q&A scratch:** `06072023-df-selections-domains-jose-xlsx`, `20250527-delphi-clone-task-cp-and-pp-questions-pptx`.
+- **One-off reconcile / audit artifacts:** `20221111-protein-production-reconcile-clone-dna-sequence-xlsx`, `03052023-protein-production-missing-antibiotic-resistance-for-existing-clones-xlsx`.
+- **Test-environment / scratch exports:** `20230914-pptestsprod-el-edits-xlsx`, `20230928-pptestsprod3-xlsx`, `20231011-qcreportexport-qc-report-pptx-2023-10-11-17-18-59-191389-pptx`.
+- **Single-ticket evidence dumps:** `20231107-ds882-necc-n21333-001a-xlsx`, `20250403-blankfields-docx`, `20260211-differences-target-forms-not-correctly-assigned-to-project-xlsx` (both `-txt` and `-xlsx` variants).
+- **Meeting scratch:** `20240129-meetingwithrob-copy-of-testresultsallenv-xlsx`, `20240129-meetingwithrob-copy-of-updatedsamples-xlsx`, `20240129-meetingwithrob-ppmeeting26jan2024-pptx`.
+- **"copy-of" variants of working files:** `20240419-copy-of-jiraissues-testing-el-hb-xlsx`, `20241021-copy-of-invalidaa-xlsx`, `20250129-copy-of-pathdifs-xlsx`.
+- **PP-INFO6484 export iteration snapshots (same artifact evolving over 10 days in June 2025).** `20250603-elresponse-copy-of-pp-info6484-lsptmay27`, `20250605-pp-info6484-lspt-04jun-prod-elcomments`, `20250606-pp-info6484-lspt-05jun-prod-exportfromrob`, `20250613-pp-info6484-lspt-12jun-prod-proteinsequenceexport-final`. Collapse at Phase 6 if signal warrants.
+- **Informal review docs (undated scope):** `20250812-delphi-review-docx`, `20250820-delphi-review-docx`.
+- **Search-result / export artifacts:** `20250812-textsearchciap2-xlsx`, `20250814-textsearchciap12-xlsx`, `20250922-sequence-exports-xlsx`.
+- **Herman/John protein-id match snapshots (two snapshots of same artifact, 2026-02 + 2026-04).** `20260225-herman-john-protein-id-his-avi-matches-xlsx`, `20260410-herman-john-protein-id-his-avi-matches-copy-xlsx`.
+- **Performance benchmarks (revisit at Phase 6).** `20251118-performance-benchmarks-xlsx` — may deserve its own `decisions/delphi-performance-characterization.md` if a broader perf story exists in OneDrive.
+- **Vendor-info proposal (two snapshots).** `20260226-delphi-vendorinfo-proposal-pptx`, `20260311-delphi-vendorinfo-proposal-v2-pptx` — promote to a batch if/when a decision on vendor-info lands.
+- **Picklist bug investigation (two snapshots).** `20260309-picklist-bug-pptx`, `20260325-picklist-bug-pptx` — promote if a fix lands and produces a `decisions/` entry.
+- **Orphan timeline deck.** `timeline-04192024-pptx` — unclear scope, likely a one-off visualization for a meeting.
+
+### Standalone non-Delphi entries
+
+- `sharepoint_protein-science-documents-coupa-coupa-project-coding-updates-pptx` + `sharepoint_protein-science-documents-coupa-split-billing-functionality-in-coupa-docx` — Coupa (procurement) usage notes. Not worth a batch on their own; may merge into a broader `platforms/coupa.md` page if OneDrive surfaces more Coupa material.
+- `sharepoint_protein-science-documents-cyrus-hm-and-cad-training-pptx` — Cyrus homology modeling / CAD training. Pair with computational-biology training material from OneDrive when in scope.
+- `sharepoint_protein-science-documents-del-screen-plans-dsa-projects-jsantos04-t480-xlsx` — laptop copy of the DSA projects master list already absorbed in Batch 1; skip unless the diff against the master is meaningful.
 
 ### Delphi error-log files
 
-Dozens of `-txt` error-log dumps across 2024-03 through 2026-04 (persistence errors, biomass registration errors, import errors, picklist bugs, etc.). These are bug-report evidence, not knowledge — each one individually is low signal. If there's a systemic pattern (repeated failure mode, specific subsystem fragility), the pattern belongs on a `decisions/` or `runbooks/` page at Phase 6 lint time, not as individual absorb targets now. Skip for Phase 2 first-pass absorb.
+17 `-txt` error-log dumps across 2024-03 through 2026-04 (persistence errors, biomass registration errors, import errors, picklist bugs, etc.). These are bug-report evidence, not knowledge — each one individually is low signal. If there's a systemic pattern (repeated failure mode, specific subsystem fragility), the pattern belongs on a `decisions/` or `runbooks/` page at Phase 6 lint time, not as individual absorb targets now. Skip for Phase 2 first-pass absorb.
