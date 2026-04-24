@@ -321,16 +321,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-11-09-2020-ddt-protein-clone-database-for-christophe-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-05-13-2021-ddt-protein-clone-database-for-amy-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-05-13-2022-ddt-protein-clone-database-for-lf-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-user-roles-20220725-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20230314-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20240829-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-04-27-19-38-56-832661-option1-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-10-27-18-30-02-806343-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-11-07-19-53-12-221873-1b-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-cp-ds-old-roles-to-new-roles-map-wks-xlsx
+- [x] sharepoint_protein-science-documents-delphi-11-09-2020-ddt-protein-clone-database-for-christophe-xlsx
+- [x] sharepoint_protein-science-documents-delphi-05-13-2021-ddt-protein-clone-database-for-amy-xlsx
+- [x] sharepoint_protein-science-documents-delphi-05-13-2022-ddt-protein-clone-database-for-lf-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-user-roles-20220725-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20230314-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-user-roles-20240829-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-04-27-19-38-56-832661-option1-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-10-27-18-30-02-806343-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-qc-reports-redesign-qc-report-pptx-2023-11-07-19-53-12-221873-1b-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-roles-definition-delphi-cp-ds-old-roles-to-new-roles-map-wks-xlsx
 
 ---
 
