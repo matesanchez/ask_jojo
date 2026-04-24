@@ -17,6 +17,7 @@ connector" invariant true — connectors stay small, the policy lives here.
 from __future__ import annotations
 
 import json
+import logging
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
@@ -33,6 +34,14 @@ from jojo_connectors_common import (
     stable_id,
 )
 
+log = logging.getLogger(__name__)
+
+# Flush the manifest to disk every N absorbs so a mid-run crash doesn't
+# cost us hours of walker work. 500 is small enough that the wall-clock
+# overhead of an fsync is negligible (manifest.json is a few MB) and
+# large enough that we're not thrashing disk on normal runs.
+_DEFAULT_FLUSH_EVERY = 500
+
 
 @dataclass(slots=True)
 class DriverResult:
@@ -43,10 +52,17 @@ class DriverResult:
 class IngestDriver:
     """Runs one or more connectors against an `ask_jojo_raw/` directory."""
 
-    def __init__(self, raw_root: Path | str) -> None:
+    def __init__(
+        self,
+        raw_root: Path | str,
+        *,
+        flush_every: int = _DEFAULT_FLUSH_EVERY,
+    ) -> None:
         self.raw_root = Path(raw_root)
         self.raw_root.mkdir(parents=True, exist_ok=True)
         self.manifest = Manifest.load(self.raw_root / "manifest.json")
+        self.flush_every = max(1, int(flush_every))
+        self._since_flush = 0
 
     # ------------------------------------------------------------------ core
     def run(
@@ -57,6 +73,7 @@ class IngestDriver:
     ) -> DriverResult:
         changes: dict[str, list[str]] = {"added": [], "updated": [], "removed": [], "skipped": []}
         result = DriverResult()
+        self._since_flush = 0
         for connector in connectors:
             cr = ConnectorResult(source_type=connector.source_type)
             try:
@@ -73,10 +90,17 @@ class IngestDriver:
                     else:
                         cr.errors += 1
                         cr.failures.append(entry.source_id)
+                    # Checkpoint the manifest periodically so a walker
+                    # crash at hour N costs us at most `flush_every`
+                    # entries of rework, not the whole run.
+                    if outcome in ("added", "updated") and self._since_flush >= self.flush_every:
+                        self.manifest.save()
+                        self._since_flush = 0
             finally:
                 connector.close()
             result.results[connector.source_type] = cr
         self.manifest.save()
+        self._since_flush = 0
         if any(changes[k] for k in ("added", "updated", "removed")):
             result.change_record_path = self._write_change_record(changes)
         return result
@@ -132,11 +156,17 @@ class IngestDriver:
                 supersedes=existing.id if existing else None,
             )
             self.manifest.upsert(manifest_entry)
+            self._since_flush += 1
             return "updated" if existing else "added"
         except Exception:
-            # The caller tracks error counts; we swallow to avoid taking down
-            # the whole run because of one bad file. A production build would
-            # log the traceback to `_changes/<date>.errors.json`.
+            # The caller tracks error counts; we swallow to avoid taking
+            # down the whole run because of one bad file. We now log the
+            # traceback so post-mortems after a multi-hour run are not
+            # reduced to counting error tallies with no context.
+            log.exception(
+                "absorb failed for %s/%s (source_url=%s)",
+                entry.source_type, entry.source_id, entry.source_url,
+            )
             return "error"
 
     def _write_change_record(self, changes: dict[str, list[str]]) -> Path:

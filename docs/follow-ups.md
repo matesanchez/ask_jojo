@@ -21,7 +21,9 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ## 2026-04-24 — Phase 1
 
-### FU-9. `DriveConnector._walk` hangs indefinitely on torn-down SMB sessions
+### FU-9. `DriveConnector._walk` hangs indefinitely on torn-down SMB sessions  — **RESOLVED 2026-04-24**
+
+Resolved by the 2026-04-24 ingest-hardening pass: `packages/jojo_ingest/_watchdog.py` + call-site integration in `drive.py` (`_walk` `iterdir`, `_safe_stat`, and `_build_entry` convert hand-off all now run inside daemon threads with per-call timeouts of 30s / 10s / 120s respectively). Operational prerequisite (layer b, NIC power-management) is still on Mateo before the next overnight publicdrive run.
 
 - **Severity.** must (before any unattended first-walk of publicdrive can complete)
 - **Surfaced while.** running an overnight manual publicdrive ingest from 2026-04-23 15:52 through 2026-04-24 ~09:00. Process alive at 17h wall-clock but with **0.03 seconds of CPU time**, 12 MB working set, and the log's `LastWriteTime` frozen at 15:55:18 (3 minutes after launch). Zero `.md` files written, zero manifest entries added. The python handle was blocked inside a single `os.scandir`/`os.stat` syscall for the entire night. `P:\` itself was reachable in the morning — the handle was orphaned, not the drive.

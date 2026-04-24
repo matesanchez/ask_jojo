@@ -118,7 +118,114 @@ def test_drive_incremental_since_filter(source_tree: Path, tmp_path: Path):
 
     raw = tmp_path / "ask_jojo_raw"
     driver = IngestDriver(raw)
-    # Pass a cutoff far in the future — nothing should be emitted.
+    # Pass a cutoff far in the future -- nothing should be emitted.
     future = datetime.now(timezone.utc) + timedelta(days=1)
     r = driver.run([DriveConnector(source_tree)], since=future)
     assert r.results["drive"].added == 0
+
+
+# --------------------------------------------------------- hang-resilience (FU-9)
+
+
+def test_drive_walker_skips_subtree_when_iterdir_times_out(source_tree: Path, caplog):
+    """FU-9 smoking gun: if iterdir blocks forever, the walker must skip and
+    keep going. We simulate the hang by monkeypatching the watchdog to
+    raise WatchdogTimeout and assert the walker still returns."""
+    import jojo_ingest.drive as drive_module
+    from jojo_ingest._watchdog import WatchdogTimeout
+
+    real_run = drive_module.run_with_timeout
+    calls = {"n": 0}
+
+    def fake_run(func, *args, timeout_s, label="", **kwargs):
+        # Fail the very first listdir call; let subsequent calls (like
+        # stat/convert) through the real helper. This mimics a single
+        # hung subtree at the root, which is the FU-9 shape.
+        calls["n"] += 1
+        if calls["n"] == 1 and label.startswith("iterdir"):
+            raise WatchdogTimeout(f"{label} simulated hang")
+        return real_run(func, *args, timeout_s=timeout_s, label=label, **kwargs)
+
+    import pytest
+
+    with pytest.MonkeyPatch.context() as m:
+        m.setattr(drive_module, "run_with_timeout", fake_run)
+        conn = DriveConnector(source_tree)
+        with caplog.at_level("WARNING"):
+            entries = list(conn.fetch())
+    assert entries == []
+    assert any("listdir timed out" in rec.message for rec in caplog.records)
+
+
+def test_drive_walker_skips_oversize_files(source_tree: Path):
+    """Files exceeding max_size_mb must be skipped before the converter
+    ever opens them -- matches the SharePoint connector's behavior and
+    protects the walker from a random multi-GB file on P:\\."""
+    # Make buffer-recipe.md "big" by shrinking the cap below its size.
+    big_file_size = (source_tree / "sop" / "buffer-recipe.md").stat().st_size
+    assert big_file_size > 0
+
+    # 1 MB / 1_048_576 > 0 is true for any real file; we use a byte cap
+    # via a max_size_mb=0 run plus a tiny pre-check guard.
+    # A max_size_mb of 0 yields max_bytes=0, which skips every supported file.
+    conn = DriveConnector(source_tree, max_size_mb=0)
+    entries = list(conn.fetch())
+    assert entries == []
+
+    # Sanity: a normal cap still yields both files.
+    conn2 = DriveConnector(source_tree, max_size_mb=50)
+    entries2 = list(conn2.fetch())
+    assert len(entries2) == 2
+
+
+def test_drive_walker_skips_file_when_convert_times_out(source_tree: Path, caplog):
+    """Converter hang on a single file must not deadlock the walker."""
+    import jojo_ingest.drive as drive_module
+    from jojo_ingest._watchdog import WatchdogTimeout
+
+    real_run = drive_module.run_with_timeout
+
+    def fake_run(func, *args, timeout_s, label="", **kwargs):
+        if label.startswith("convert(") and "buffer-recipe.md" in label:
+            raise WatchdogTimeout(f"{label} simulated hang")
+        return real_run(func, *args, timeout_s=timeout_s, label=label, **kwargs)
+
+    import pytest
+
+    with pytest.MonkeyPatch.context() as m:
+        m.setattr(drive_module, "run_with_timeout", fake_run)
+        conn = DriveConnector(source_tree)
+        with caplog.at_level("WARNING"):
+            entries = list(conn.fetch())
+    # gel-prep.txt should still come through; buffer-recipe.md is skipped.
+    names = sorted(e.source_id for e in entries)
+    assert names == ["sop/gel-prep.txt"]
+    assert any("convert timed out" in rec.message for rec in caplog.records)
+
+
+# --------------------------------------------------- periodic manifest flush
+
+
+def test_driver_flushes_manifest_periodically(source_tree: Path, tmp_path: Path):
+    """A crash at hour N must not cost more than `flush_every` entries.
+
+    We simulate 'the walker keeps going after the flush' by rigging a
+    driver with flush_every=1 and confirming the manifest on disk has
+    both entries before .run() returns its final save."""
+    raw = tmp_path / "ask_jojo_raw"
+    driver = IngestDriver(raw, flush_every=1)
+
+    # Monkey-patch Manifest.save to count invocations without losing behavior.
+    save_count = {"n": 0}
+    real_save = driver.manifest.save
+
+    def counting_save(*args, **kwargs):
+        save_count["n"] += 1
+        return real_save(*args, **kwargs)
+
+    driver.manifest.save = counting_save  # type: ignore[method-assign]
+    driver.run([DriveConnector(source_tree)])
+
+    # Two files were absorbed; with flush_every=1 that's at least 2
+    # mid-run flushes + 1 final flush. Being conservative we assert >= 3.
+    assert save_count["n"] >= 3

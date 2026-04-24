@@ -52,6 +52,13 @@ TokenProvider = Callable[[], str]
 GRAPH_BASE = "https://graph.microsoft.com/v1.0"
 DEFAULT_TIMEOUT = 30.0
 MAX_RETRIES = 3
+# Cap `Retry-After` honoring so a pathological server response can't
+# stall the whole ingest. Graph normally returns small values (a few
+# seconds up to ~60s); anything past 2 min is either a bug or a hint
+# that the service is in a state we should fail fast against rather
+# than wait on. Logged at WARNING when capped so the human gets a
+# breadcrumb.
+MAX_RETRY_AFTER_S = 120.0
 
 
 # ---------------------------------------------------------------- auth providers
@@ -312,10 +319,24 @@ class GraphClient:
 
 
 def _parse_retry_after(header: str | None, attempt: int) -> float:
-    """Parse `Retry-After` (seconds or HTTP-date). Fall back to exp backoff."""
+    """Parse `Retry-After` (seconds or HTTP-date). Fall back to exp backoff.
+
+    Caps at `MAX_RETRY_AFTER_S` so a server returning a pathologically
+    large value can't pause the ingest for hours. We'd rather burn a
+    retry attempt and either succeed or fail fast than idle wait.
+    """
     if header:
         try:
-            return float(header)
+            requested = float(header)
         except ValueError:
-            pass  # HTTP-date form is rare in Graph; fall through to backoff.
+            # HTTP-date form is rare in Graph; fall through to backoff.
+            pass
+        else:
+            if requested > MAX_RETRY_AFTER_S:
+                log.warning(
+                    "Graph Retry-After=%.0fs exceeds cap %.0fs; sleeping %.0fs instead",
+                    requested, MAX_RETRY_AFTER_S, MAX_RETRY_AFTER_S,
+                )
+                return MAX_RETRY_AFTER_S
+            return max(0.0, requested)
     return min(2.0**attempt, 30.0)

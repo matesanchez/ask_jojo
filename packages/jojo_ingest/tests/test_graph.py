@@ -189,7 +189,7 @@ def test_resolve_site_builds_path_style_lookup(httpx_mock):
 
 
 def test_resolve_site_strips_sitepages_before_lookup(httpx_mock):
-    # The Biortus URL the user gave us ends in SitePages/Home.aspx — the
+    # The Biortus URL the user gave us ends in SitePages/Home.aspx -- the
     # lookup must target the site root, not the page.
     httpx_mock.add_response(
         url=f"{GRAPH_BASE}/sites/nurix.sharepoint.com:/sites/BiortusDiscoveryCo.Ltd",
@@ -201,3 +201,32 @@ def test_resolve_site_strips_sitepages_before_lookup(httpx_mock):
     )
     client.close()
     assert site["displayName"] == "Biortus"
+
+
+# ---------------------------------------------------------------- retry-after cap
+
+
+def test_parse_retry_after_caps_large_values(caplog):
+    # A misbehaving server returning Retry-After: 7200 (2 hours) must be
+    # capped so the ingest doesn't stall for hours mid-run.
+    from jojo_ingest.graph import MAX_RETRY_AFTER_S, _parse_retry_after
+
+    with caplog.at_level("WARNING"):
+        delay = _parse_retry_after("7200", attempt=0)
+    assert delay == MAX_RETRY_AFTER_S
+    assert any("exceeds cap" in rec.message for rec in caplog.records)
+
+
+def test_parse_retry_after_honors_small_values():
+    from jojo_ingest.graph import _parse_retry_after
+
+    assert _parse_retry_after("5", attempt=0) == 5.0
+    assert _parse_retry_after("60", attempt=0) == 60.0
+
+
+def test_parse_retry_after_falls_back_to_backoff_on_garbage():
+    from jojo_ingest.graph import _parse_retry_after
+
+    # Non-numeric (HTTP-date) header -> exponential backoff path.
+    delay = _parse_retry_after("Wed, 21 Oct 2026 07:28:00 GMT", attempt=2)
+    assert delay == 4.0  # 2^2
