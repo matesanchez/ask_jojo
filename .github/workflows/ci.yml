@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dev + runtime deps
         # All extras that the test suite touches at import or collection time.
-        # - dev     : pytest, ruff, pytest-httpx
+        # - dev     : pytest, ruff, pytest-httpx, python-docx (test fixture only)
         # - backend : fastapi + uvicorn (FastAPI TestClient needs these)
         # - ingest  : pyyaml, mammoth, python-pptx, openpyxl, pymupdf, watchdog
         #             (converters/dispatch.py eagerly imports all four at
