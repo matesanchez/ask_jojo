@@ -74,3 +74,29 @@ def test_env_factory_helpful_error_when_path_missing(monkeypatch, tmp_path: Path
     msg = str(excinfo.value)
     assert ENV_PATH in msg
     assert "mounted" in msg.lower() or "reachable" in msg.lower()
+
+
+def test_source_type_round_trips_through_frontmatter(pdrive_tree: Path):
+    """Regression: 2026-04-24 P-drive run blew up because the SourceType enum
+    didn't include 'publicdrive', so every absorb raised ValueError. The
+    connector-level `source_type == "publicdrive"` check above was passing,
+    but the driver's `build_frontmatter(source_type=...)` call wasn't covered.
+    Lock in the round-trip so any future connector that ships a stamp
+    string the enum doesn't know about fails loudly here, not in prod.
+    """
+    from jojo_connectors_common.frontmatter import SourceType, build_frontmatter
+
+    assert SourceType("publicdrive") is SourceType.PUBLICDRIVE
+    conn = PublicDriveConnector(pdrive_tree)
+    entries = list(conn.fetch())
+    assert entries, "fixture should yield at least one entry"
+    sample = entries[0]
+    fm = build_frontmatter(
+        entry_id="x",
+        source_type=sample.source_type,
+        source_url="file:///x",
+        source_id=sample.source_id,
+        title="x",
+        sha256="0" * 64,
+    )
+    assert fm.source_type is SourceType.PUBLICDRIVE

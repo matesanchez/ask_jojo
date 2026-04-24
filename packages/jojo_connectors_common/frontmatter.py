@@ -28,6 +28,7 @@ class SourceType(str, Enum):
 
     SHAREPOINT = "sharepoint"
     ONEDRIVE = "onedrive"
+    PUBLICDRIVE = "publicdrive"
     DRIVE = "drive"
     NURIXNET = "nurixnet"
     UPLOAD = "upload"
