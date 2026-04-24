@@ -164,16 +164,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-clone-information-to-be-uploaded-from-genscript-pptx
-- [ ] sharepoint_protein-science-documents-delphi-com-workflow-tutorial-genscript-usages-pptx
-- [ ] sharepoint_protein-science-documents-delphi-com-workflow-tutorial-genscript-usages-2-pptx
-- [ ] sharepoint_protein-science-documents-delphi-clone-order-management-clone-order-management-release-notes-v1-1-0-pdf
-- [ ] sharepoint_protein-science-documents-delphi-20231120-ds889-cloneidduplications-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20230620-dotmaticsinventory-missingdescriptions-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250408-clone-import-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250604-delphi-clone-bulk-import-example-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250604-delphi-clone-bulk-import-pptx
-- [ ] sharepoint_protein-science-documents-delphi-tags-fusion-cleavage-linkers-xlsx
+- [x] sharepoint_protein-science-documents-delphi-clone-information-to-be-uploaded-from-genscript-pptx
+- [x] sharepoint_protein-science-documents-delphi-com-workflow-tutorial-genscript-usages-pptx
+- [x] sharepoint_protein-science-documents-delphi-com-workflow-tutorial-genscript-usages-2-pptx
+- [x] sharepoint_protein-science-documents-delphi-clone-order-management-clone-order-management-release-notes-v1-1-0-pdf
+- [x] sharepoint_protein-science-documents-delphi-20231120-ds889-cloneidduplications-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20230620-dotmaticsinventory-missingdescriptions-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250408-clone-import-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250604-delphi-clone-bulk-import-example-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250604-delphi-clone-bulk-import-pptx
+- [x] sharepoint_protein-science-documents-delphi-tags-fusion-cleavage-linkers-xlsx
 
 ---
 
