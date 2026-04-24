@@ -184,16 +184,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-project-target-harmonization-09102023-chemcart-project-and-targets-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-project-target-harmonization-20220301-delphi-project-target-name-harmonization-updated-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-project-target-harmonization-20230910-delphi-project-target-name-harmonization-updated-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-project-target-harmonization-chemreg-project-target-contract-data-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-project-target-harmonization-chemreg-project-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-project-target-harmonization-delph-dnatag-project-target-list-20230511-jose-annotated09102023-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-project-target-harmonization-delph-dnatag-project-target-list-20230511-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-project-target-harmonization-delph-dnatag-project-target-list-20230912-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20240924-chad-del-protein-info-export-from-delphi-example-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-vectors-not-on-genscript-page-xlsx
+- [x] sharepoint_protein-science-documents-delphi-project-target-harmonization-09102023-chemcart-project-and-targets-xlsx
+- [x] sharepoint_protein-science-documents-delphi-project-target-harmonization-20220301-delphi-project-target-name-harmonization-updated-xlsx
+- [x] sharepoint_protein-science-documents-delphi-project-target-harmonization-20230910-delphi-project-target-name-harmonization-updated-xlsx
+- [x] sharepoint_protein-science-documents-delphi-project-target-harmonization-chemreg-project-target-contract-data-xlsx
+- [x] sharepoint_protein-science-documents-delphi-project-target-harmonization-chemreg-project-xlsx
+- [x] sharepoint_protein-science-documents-delphi-project-target-harmonization-delph-dnatag-project-target-list-20230511-jose-annotated09102023-xlsx
+- [x] sharepoint_protein-science-documents-delphi-project-target-harmonization-delph-dnatag-project-target-list-20230511-xlsx
+- [x] sharepoint_protein-science-documents-delphi-project-target-harmonization-delph-dnatag-project-target-list-20230912-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20240924-chad-del-protein-info-export-from-delphi-example-xlsx
+- [x] sharepoint_protein-science-documents-delphi-vectors-not-on-genscript-page-xlsx
 
 ---
 
