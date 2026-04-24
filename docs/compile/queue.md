@@ -276,21 +276,21 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 
 ## Batch 14 — Delphi triage / QA reviews / Jira workflow
 
-**Theme:** How bugs and issues get filed, triaged, and resolved in Delphi — the 2022 Delphi-cases status deck, QA review sessions (2022 ACS issues triage, the Feb 2024 SSEPT QA check), the 2023 Delphi-challenges issue log, jira ticket filing guidelines, and the automatic-status-changes rollout that replaced manual triage in late 2024. Expected outputs: a `runbooks/delphi-bug-triage.md` page on the bug-filing and triage process, a `decisions/delphi-automatic-status-changes.md` page on the 2024 rollout.
+**Theme:** How bugs and issues get filed, triaged, and resolved in Delphi — the 2022 Delphi-cases status deck, QA review sessions (2022 ACS issues triage, the Feb 2024 SSEPT QA check), the 2023 Delphi-challenges issue log, jira ticket filing guidelines, and the automatic-status-changes rollout that replaced manual triage in late 2024. Expected outputs: a `methods/delphi-bug-triage.md` page on the bug-filing and triage process, a `decisions/delphi-automatic-status-changes.md` page on the 2024 rollout.
 
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-20221101-proteinsciences-delphi-cases-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20230821-delphi-challenges-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-20220810-delphi-qa-review-jose-emily-hugo-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-09022022-delphi-acs-issues-august-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-09022022-delphi-acs-issues-august-sent-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-test-ssept-020924-docx
-- [ ] sharepoint_protein-science-documents-delphi-20241015-jira-ticket-filing-guidelines-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20241021-automatic-status-changes-pptx
-- [ ] sharepoint_protein-science-documents-delphi-automatic-status-changes-09-06-2024-pptx
-- [ ] sharepoint_protein-science-documents-delphi-automatic-status-changes-10-21-2024-pptx
+- [x] sharepoint_protein-science-documents-delphi-20221101-proteinsciences-delphi-cases-pptx
+- [x] sharepoint_protein-science-documents-delphi-20230821-delphi-challenges-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-20220810-delphi-qa-review-jose-emily-hugo-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-09022022-delphi-acs-issues-august-xlsx  <!-- near-duplicate: entries 4&5 both August 2022 ACS Jira filter, second marked "sent" -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-09022022-delphi-acs-issues-august-sent-xlsx  <!-- duplicate-of-entry-4 -->
+- [x] sharepoint_protein-science-documents-delphi-delphi-qa-reviews-test-ssept-020924-docx
+- [x] sharepoint_protein-science-documents-delphi-20241015-jira-ticket-filing-guidelines-pptx
+- [x] sharepoint_protein-science-documents-delphi-20241021-automatic-status-changes-pptx
+- [x] sharepoint_protein-science-documents-delphi-automatic-status-changes-09-06-2024-pptx
+- [x] sharepoint_protein-science-documents-delphi-automatic-status-changes-10-21-2024-pptx
 
 ---
 
