@@ -6,6 +6,19 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ---
 
+## 2026-04-24 — Phase 2
+
+### FU-10. Anthropic API key — unblock AWS payment leg
+
+- **Severity.** must (for automated Phase 2 absorb, lint, and Q&A; Phase 6 nightly lint is entirely gated on this)
+- **Surfaced while.** planning Phase 2 execution. AWS payment-method onboarding for Anthropic API billing has been in flight since 2026-04-22 and remains stuck. Every earlier Phase 0 plan assumed keys would land before Phase 2 started; they have not. Captured formally as a follow-up (rather than just a `[~]` on the Phase 0 checklist) so there is a single stable reference for other docs to point at.
+- **Problem.** `packages/jojo_compile/`, `packages/jojo_lint/`, and `packages/jojo_qa/` all require live Anthropic API access to reach their exit criteria. Today we have Claude model access via claude.ai and the Cowork desktop app but no programmatic key — so the autonomous pipelines can't run. ADR 0010 is the decision to run Phase 2 absorb via human-triggered Cowork sessions while this stays open; the plumbing that ADR ships (prompt + queue + constitutional commit format) is intentionally designed to collapse into `jojo_compile absorb` the moment the key lands.
+- **What "done" looks like.** (a) A working API key in `%APPDATA%\JojoBot\config.json` under `anthropic_api_key` (SECRET_KEYS), routed through `jojo_core.config.get`. (b) Smoke test: `jojo-compile ping` calls the Messages API against Sonnet 4.6 with a 10-token prompt and returns a 200. (c) Budget alerts wired up on the Anthropic console per `docs/budget-model.xlsx` caps. (d) First live absorb run replays the human-triggered queue and its output diff is reviewed — that is the natural regression baseline.
+- **Where to start.** Not a code task — a billing / procurement task. When it unblocks, `packages/jojo_core/config.py` already has the DPAPI machinery; adding `"anthropic_api_key"` to `SECRET_KEYS` is a one-line edit. `packages/jojo_compile/write.py` will host the Anthropic client.
+- **Why deferred.** External dependency. Not the team's to resolve day-to-day. Filed here so ADR 0010, v2_status.md, and future phase notes have a stable identifier.
+
+---
+
 ## 2026-04-24 — Phase 1
 
 ### FU-9. `DriveConnector._walk` hangs indefinitely on torn-down SMB sessions
@@ -89,12 +102,12 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 - **Where to start.** `docs/ops/path-b-msal-device-code-setup.md` already has the dummy's-guide walkthrough of the Entra app registration side. `packages/jojo_ingest/graph.py` is the code-side slot; net new deps: `msal`.
 - **Why deferred.** IT hasn't needed to approve the app registration yet (delegated `Sites.Read.All` consent covers Phase 1). Path A gets us through the exit criterion; Path B is the upgrade for fully unattended day-to-day.
 
-### FU-4. ADR 0010 for Path B (if needed)
+### FU-4. New ADR for Path B (if needed)
 
 - **Severity.** nice
 - **Surfaced from.** FU-3.
 - **Problem.** When Path B ships, ADR 0007 was framed as "start with Path A, track B + C as later paths." The provisioning that unblocks Path B (app registration + consented scopes) plus any operational quirks we discover while deploying are worth capturing — the question is whether that's a new ADR or a follow-up amendment to ADR 0007.
-- **What "done" looks like.** Decide at ship time. If Path B ships as drawn in ADR 0007 with no surprises, an amendment note under "Revisit triggers" is enough. If the deploy surfaces new decisions (cert vs secret storage, cache location, refresh-before-expiry window), write ADR 0010.
+- **What "done" looks like.** Decide at ship time. If Path B ships as drawn in ADR 0007 with no surprises, an amendment note under "Revisit triggers" is enough. If the deploy surfaces new decisions (cert vs secret storage, cache location, refresh-before-expiry window), write a new ADR at the next available number. (ADR 0010 was originally earmarked for this here; it has since been consumed by the compile-via-Cowork decision — the reservation is released.)
 - **Why deferred.** Premature to write the ADR before the decision exists.
 
 ---
