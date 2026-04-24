@@ -77,16 +77,20 @@ Resolved by the 2026-04-24 ingest-hardening pass: `packages/jojo_ingest/_watchdo
 - **Where to start.** `ops/scheduler/Run-ScheduledSync.ps1` already tees output and writes event-log entries — a 20-line prelude that checks `git -C $rawRepoPath remote -v` slots in cleanly. The installer side is a single new `Ensure-RawRepoRemote` function called from `Install-JojoBot.ps1` step 4-or-5.
 - **Why deferred.** Only surfaces as an incident if the laptop dies before we find out — which we just did find out, at Phase 1 exit, while the raw tree is still under 1 GB and easily recreatable. Good enough to file, act on before the 7-day soak accumulates another round of ingest that we'd hate to lose.
 
-### FU-1. Publicdrive walker — streaming writes + timeout
+### FU-1. Publicdrive walker — streaming writes + timeout  — **PARTIALLY RESOLVED 2026-04-24**
+
+Streaming writes leg resolved by d06e8a3 (`packages/jojo_ingest/driver.py` periodic `manifest.save()` every 500 absorbs). Watchdog timeout leg addressed at the wrapper level by 2026-04-24's `Run-ScheduledSync.ps1` rewrite (`-MaxRuntimeMinutes` param, defaults 1440m for publicdrive / 720m onedrive / 360m drive / 120m sharepoint, exit 124 on deadline). Still open: the connector-level `config.json` watchdog described below — an operator running `python -m jojo_ingest sync publicdrive` interactively (bypassing the wrapper) still has no per-call deadline beyond the in-process `_watchdog.py` per-syscall timeouts. Low priority once Path A scheduling is the canonical flow.
 
 - **Severity.** should
 - **Surfaced while.** running the first real `sync-all` against `P:\` on Mateo's laptop — the initial walk ran multi-hour before producing any manifest output.
 - **Problem.** `packages/jojo_ingest/drive.py`'s `_walk` yields lazily but `IngestDriver` today batches writes via a single `manifest.save()` call at end-of-run. For a ~100k file tree with per-item conversion, that's hours of "did it crash or is it still walking?" with nothing visible to an operator or to the Raw tab UI.
 - **What "done" looks like.** `IngestDriver` flushes change records + manifest updates every N successful entries (N=500 is a reasonable default) so progress is visible mid-run and a mid-walk crash costs only the last N files. Plus a watchdog timeout per-connector (say, 4 hours for publicdrive first-walk; configurable via `config.json`) that fails loud instead of hanging a scheduled task forever.
-- **Where to start.** `packages/jojo_ingest/driver.py` — there's one call site for `manifest.save`. A 30-line change plus 1 new test (seed 2000 mock entries, assert manifest.save called ≥4 times).
+- **Where to start.** `packages/jojo_ingest/driver.py` — there's one call site for `manifest.save`. A 30-line change plus 1 new test (seed 2000 mock entries, assert manifest.save called >=4 times).
 - **Why deferred.** Not in the Phase 1 exit criterion. First publicdrive walk is a one-time tax; subsequent runs already short-circuit via manifest dedup.
 
-### FU-2. Per-connector singleton lock
+### FU-2. Per-connector singleton lock  — **PARTIALLY RESOLVED 2026-04-24**
+
+Wrapper-level lock added in 2026-04-24's `Run-ScheduledSync.ps1` rewrite (PID-stamped `%TEMP%\JojoBot-<connector>.lock`, stale-lock detection, `-IgnoreLock` override). Catches the Task-Scheduler double-fire case, which is the actual incident class. Still open: a Python-layer `jojo_core/singleton.py` context manager for the case where someone runs `python -m jojo_ingest sync publicdrive` interactively while a scheduled run is also live — the wrapper-level lock can't see that. Low priority but worth doing before adding a second operator.
 
 - **Severity.** should
 - **Surfaced while.** debugging publicdrive status today — observed two `python -m jojo_ingest sync publicdrive` processes alive simultaneously. One was a Microsoft Store Python launcher stub (harmless), but the observation exposes that nothing in the code prevents a real double-invocation from racing the same manifest and change-record files.
