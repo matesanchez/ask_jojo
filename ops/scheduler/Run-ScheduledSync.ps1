@@ -276,7 +276,7 @@ try {
     function Resolve-DefaultSource([string]$Conn) {
         switch ($Conn) {
             "publicdrive" {
-                if ($env:JOJO_PUBLICDRIVE_PATH) { return $env:JOJO_PUBLICDRIVE_PATH }
+                if ($env:JOJO_PUBLIC_DRIVE_PATH) { return $env:JOJO_PUBLIC_DRIVE_PATH }
                 return "P:\"
             }
             "onedrive" {
