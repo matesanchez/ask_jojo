@@ -124,16 +124,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-20231031-ds841-changes-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231108-ds841-changes-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-copy-of-20231108-ds841-changes-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-20231117-ds841-lascexprtaskchanges-list-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-flasks-updated-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-flasks-updated-after-rollout-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-lset-clone-infections-updated-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-lset-clone-infections-updated-after-rollout-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-lset-updated-before-rollout-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-lset-updated-after-rollout-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231031-ds841-changes-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231108-ds841-changes-xlsx
+- [x] sharepoint_protein-science-documents-delphi-copy-of-20231108-ds841-changes-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-20231117-ds841-lascexprtaskchanges-list-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-flasks-updated-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-flasks-updated-after-rollout-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-lset-clone-infections-updated-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-lset-clone-infections-updated-after-rollout-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-lset-updated-before-rollout-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231117-ds841-lascexprtask-mandatory-fields-lset-updated-after-rollout-xlsx
 
 ---
 
