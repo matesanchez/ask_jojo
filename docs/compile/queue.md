@@ -244,16 +244,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-20220905-protein-request-detail-page-redesign-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20221123-protein-request-checkout-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20240308-delphi-proteinproductionrequests-homepage-redesign-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250312-proposed-changes-to-delphi-inventory-check-out-ppt-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20250513-protein-purification-export-request-pptx
-- [ ] sharepoint_protein-science-documents-delphi-revised-protein-request-workflow--jose-comments-pptx
-- [ ] sharepoint_protein-science-documents-delphi-revised-protein-request-workflow-1-pptx
-- [ ] sharepoint_protein-science-documents-delphi-figma-review-01052023-pptx
-- [ ] sharepoint_protein-science-documents-delphi-figma-review-112022-pptx
-- [ ] sharepoint_protein-science-documents-delphi-work-flow-check-list-pptx
+- [x] sharepoint_protein-science-documents-delphi-20220905-protein-request-detail-page-redesign-pptx
+- [x] sharepoint_protein-science-documents-delphi-20221123-protein-request-checkout-pptx
+- [x] sharepoint_protein-science-documents-delphi-20240308-delphi-proteinproductionrequests-homepage-redesign-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250312-proposed-changes-to-delphi-inventory-check-out-ppt-pptx
+- [x] sharepoint_protein-science-documents-delphi-20250513-protein-purification-export-request-pptx
+- [x] sharepoint_protein-science-documents-delphi-revised-protein-request-workflow--jose-comments-pptx
+- [x] sharepoint_protein-science-documents-delphi-revised-protein-request-workflow-1-pptx
+- [x] sharepoint_protein-science-documents-delphi-figma-review-01052023-pptx
+- [x] sharepoint_protein-science-documents-delphi-figma-review-112022-pptx
+- [x] sharepoint_protein-science-documents-delphi-work-flow-check-list-pptx
 
 ---
 
