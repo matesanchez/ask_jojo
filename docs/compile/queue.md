@@ -204,16 +204,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-financials-2020-10-20-advanced-construct-support-estimation-financials-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-financials-2020-11-06-advanced-construct-support-estimation-financials-prioritized-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-financials-2020-11-06-advanced-construct-support-estimation-prioritized-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-financials-campaign-planning-2021-sow---financials-jose-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-financials-campaign-planning-2021-sow---financials-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-financials-delphi-maintenance-budget-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-financials-revised-nurix-project-budgets---q4-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-financials-revised-nurix-project-budgets---q4--updated-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-campaign-planning-uat-feedback---estimation-sheet---mon-nov-23-2020-pdf
-- [ ] sharepoint_protein-science-documents-delphi-campaign-planning-uat-feedback-financial-sow-thu-feb-25-2021-pdf
+- [x] sharepoint_protein-science-documents-delphi-financials-2020-10-20-advanced-construct-support-estimation-financials-xlsx
+- [x] sharepoint_protein-science-documents-delphi-financials-2020-11-06-advanced-construct-support-estimation-financials-prioritized-xlsx
+- [x] sharepoint_protein-science-documents-delphi-financials-2020-11-06-advanced-construct-support-estimation-prioritized-xlsx
+- [x] sharepoint_protein-science-documents-delphi-financials-campaign-planning-2021-sow---financials-jose-xlsx
+- [x] sharepoint_protein-science-documents-delphi-financials-campaign-planning-2021-sow---financials-xlsx
+- [x] sharepoint_protein-science-documents-delphi-financials-delphi-maintenance-budget-xlsx
+- [x] sharepoint_protein-science-documents-delphi-financials-revised-nurix-project-budgets---q4-xlsx
+- [x] sharepoint_protein-science-documents-delphi-financials-revised-nurix-project-budgets---q4--updated-xlsx
+- [x] sharepoint_protein-science-documents-delphi-campaign-planning-uat-feedback---estimation-sheet---mon-nov-23-2020-pdf
+- [x] sharepoint_protein-science-documents-delphi-campaign-planning-uat-feedback-financial-sow-thu-feb-25-2021-pdf
 
 ---
 
