@@ -224,16 +224,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-all-del-meetings-20231113-20231113-all-del-mtg-techdev-pptx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-dsa-projects--gantt-xlsx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-dsa-projects-new-gantt-xlsx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-dsa-projects-update-early-discovery-20220818-xlsx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20220915-pptx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20220929-pptx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20221013-pptx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20221027-pptx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20221110-pptx
-- [ ] sharepoint_protein-science-documents-del-screen-plans-stat6-dsp-tables-jss-xlsx
+- [x] sharepoint_protein-science-documents-all-del-meetings-20231113-20231113-all-del-mtg-techdev-pptx
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-projects--gantt-xlsx
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-projects-new-gantt-xlsx
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-projects-update-early-discovery-20220818-xlsx
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20220915-pptx
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20220929-pptx
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20221013-pptx
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20221027-pptx
+- [x] sharepoint_protein-science-documents-del-screen-plans-dsa-update---early-discovery-group-meeting-20221110-pptx
+- [x] sharepoint_protein-science-documents-del-screen-plans-stat6-dsp-tables-jss-xlsx
 
 ---
 
