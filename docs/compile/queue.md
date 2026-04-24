@@ -104,16 +104,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2025-1-release-20250320-delphi-acs2025-1-release-notes-pptx
-- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2025-2-release-20250422-delphi-acs2025-2-release-notes-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1283-20250220-ds-1283-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1290-20250220-ds-1290-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1300-20250218-uat-testing-ds-1300-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1366-ds-1398-20250218-ds-1366-ds-1398-uat-testing-results-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1435-ds-1435-uat-testing-20250225-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1392-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1423-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250418-ds-1476-docx
+- [x] sharepoint_protein-science-documents-delphi-release-notes-acs2025-1-release-20250320-delphi-acs2025-1-release-notes-pptx
+- [x] sharepoint_protein-science-documents-delphi-release-notes-acs2025-2-release-20250422-delphi-acs2025-2-release-notes-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1283-20250220-ds-1283-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1290-20250220-ds-1290-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1300-20250218-uat-testing-ds-1300-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1366-ds-1398-20250218-ds-1366-ds-1398-uat-testing-results-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-1-uat-testing-ds-1435-ds-1435-uat-testing-20250225-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1392-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1423-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250418-ds-1476-docx
 
 ---
 
