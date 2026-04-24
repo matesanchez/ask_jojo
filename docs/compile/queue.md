@@ -341,16 +341,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-12-22-2020-campaign-planning-project-plan-2021-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-11-17-2020-tags-fusion-cleavage-linkers-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-09-22-2021-inventory-pathways-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-10-08-2021-pp-and-cp-review-of-screen-shots-pptx
-- [ ] sharepoint_protein-science-documents-delphi-10-08-2021-pp-and-cp-review-of-screen-shots-kl-pptx
-- [ ] sharepoint_protein-science-documents-delphi-12-07-2021-delphi-project-renaming-changes-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2022-sept-release-campaign-planning-release-notes-july-september-prod-v2-4-0-pdf
-- [ ] sharepoint_protein-science-documents-delphi-2022-production-release-feedback-prioritization-06212022-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-tutorial-lascex-lascpu-08022222-docx
-- [ ] sharepoint_protein-science-documents-delphi-jose-notes-on-review-docx
+- [x] sharepoint_protein-science-documents-delphi-12-22-2020-campaign-planning-project-plan-2021-xlsx
+- [x] sharepoint_protein-science-documents-delphi-11-17-2020-tags-fusion-cleavage-linkers-xlsx
+- [x] sharepoint_protein-science-documents-delphi-09-22-2021-inventory-pathways-xlsx
+- [x] sharepoint_protein-science-documents-delphi-10-08-2021-pp-and-cp-review-of-screen-shots-pptx
+- [x] sharepoint_protein-science-documents-delphi-10-08-2021-pp-and-cp-review-of-screen-shots-kl-pptx
+- [x] sharepoint_protein-science-documents-delphi-12-07-2021-delphi-project-renaming-changes-xlsx
+- [x] sharepoint_protein-science-documents-delphi-release-notes-acs2022-sept-release-campaign-planning-release-notes-july-september-prod-v2-4-0-pdf
+- [x] sharepoint_protein-science-documents-delphi-2022-production-release-feedback-prioritization-06212022-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-tutorial-lascex-lascpu-08022222-docx
+- [x] sharepoint_protein-science-documents-delphi-jose-notes-on-review-docx
 
 ---
 
