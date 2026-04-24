@@ -144,16 +144,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-20240112-ssept-moi-redesign-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20240222-ssept-moi-redesign-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20240229-ssept-moi-redesign-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20240311-moi-section-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20240702-ssept-exceltable-export-import-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20241203-delphi-sseptimporttable-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20241203-ssept-resultsimport-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20250114-delphi-sseptimporttable-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250114-ssept-resultsimport-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20250625-delphi-sseptimporttable-updated-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20240112-ssept-moi-redesign-pptx
+- [x] sharepoint_protein-science-documents-delphi-20240222-ssept-moi-redesign-pptx
+- [x] sharepoint_protein-science-documents-delphi-20240229-ssept-moi-redesign-pptx
+- [x] sharepoint_protein-science-documents-delphi-20240311-moi-section-pptx
+- [x] sharepoint_protein-science-documents-delphi-20240702-ssept-exceltable-export-import-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20241203-delphi-sseptimporttable-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20241203-ssept-resultsimport-pptx
+- [x] sharepoint_protein-science-documents-delphi-20250114-delphi-sseptimporttable-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250114-ssept-resultsimport-pptx
+- [x] sharepoint_protein-science-documents-delphi-20250625-delphi-sseptimporttable-updated-xlsx
 
 ---
 
