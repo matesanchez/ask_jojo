@@ -44,16 +44,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-campaign-planning---part-i-pdf
-- [ ] sharepoint_protein-science-documents-delphi-campaign-planning---part-ii-pdf
-- [ ] sharepoint_protein-science-documents-delphi-campaign-planning-release-notes-prod-v3-0-0-1-pdf
-- [ ] sharepoint_protein-science-documents-delphi-metadata-and-registration-of-clones-biomasses-and-proteins-pptx
-- [ ] sharepoint_protein-science-documents-delphi-metadata-and-registration-of-clones-biomasses-and-proteins-version2-pptx
-- [ ] sharepoint_protein-science-documents-delphi-nurix-metadata-sop-docx
-- [ ] sharepoint_protein-science-documents-delphi-20240202-delphi-workflow-schematic-el-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20240216-delphi-schematic-pdf
-- [ ] sharepoint_protein-science-documents-delphi-20240228-delphi-schematic-pdf
-- [ ] sharepoint_protein-science-documents-delphi-20250702-protein-science-delphi-eval-from-herman-pptx
+- [x] sharepoint_protein-science-documents-delphi-campaign-planning---part-i-pdf
+- [x] sharepoint_protein-science-documents-delphi-campaign-planning---part-ii-pdf
+- [x] sharepoint_protein-science-documents-delphi-campaign-planning-release-notes-prod-v3-0-0-1-pdf
+- [x] sharepoint_protein-science-documents-delphi-metadata-and-registration-of-clones-biomasses-and-proteins-pptx
+- [x] sharepoint_protein-science-documents-delphi-metadata-and-registration-of-clones-biomasses-and-proteins-version2-pptx
+- [x] sharepoint_protein-science-documents-delphi-nurix-metadata-sop-docx
+- [x] sharepoint_protein-science-documents-delphi-20240202-delphi-workflow-schematic-el-pptx
+- [x] sharepoint_protein-science-documents-delphi-20240216-delphi-schematic-pdf
+- [x] sharepoint_protein-science-documents-delphi-20240228-delphi-schematic-pdf
+- [x] sharepoint_protein-science-documents-delphi-20250702-protein-science-delphi-eval-from-herman-pptx
 
 ---
 
