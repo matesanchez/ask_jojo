@@ -84,16 +84,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2024-1-release-20250108-acs2024-1-cppermissions-docx
-- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2024-1-release-20250108-acs2024-1-mutationmenus-docx
-- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2024-1-release-20250108-acs2024-1-pptx
-- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2024-oct-release-20241015-new-delphi-releases-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241120-ds-1291-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-1124-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-1297-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-1361-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-725-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20250102-ds-399-docx
+- [x] sharepoint_protein-science-documents-delphi-release-notes-acs2024-1-release-20250108-acs2024-1-cppermissions-docx
+- [x] sharepoint_protein-science-documents-delphi-release-notes-acs2024-1-release-20250108-acs2024-1-mutationmenus-docx
+- [x] sharepoint_protein-science-documents-delphi-release-notes-acs2024-1-release-20250108-acs2024-1-pptx
+- [x] sharepoint_protein-science-documents-delphi-release-notes-acs2024-oct-release-20241015-new-delphi-releases-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241120-ds-1291-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-1124-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-1297-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-1361-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20241220-ds-725-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2024-1-uat-testing-20250102-ds-399-docx
 
 ---
 
