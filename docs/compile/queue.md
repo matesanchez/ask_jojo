@@ -264,13 +264,13 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-20240919-ds399-qa-testing-docx
-- [ ] sharepoint_protein-science-documents-delphi-20241023-ds399-qa-testing-docx
-- [ ] sharepoint_protein-science-documents-delphi-20241114-delphi-ds399-testing-docx
-- [ ] sharepoint_protein-science-documents-delphi-20241127-qatesting-ds399-docx
-- [ ] sharepoint_protein-science-documents-delphi-20241205-delphi-ds399-testing-docx
-- [ ] sharepoint_protein-science-documents-delphi-20241212-delphi-ds399-testing-docx
-- [ ] sharepoint_protein-science-documents-delphi-20241218-delphi-ds725testing-derek-docx
+- [x] sharepoint_protein-science-documents-delphi-20240919-ds399-qa-testing-docx
+- [x] sharepoint_protein-science-documents-delphi-20241023-ds399-qa-testing-docx
+- [x] sharepoint_protein-science-documents-delphi-20241114-delphi-ds399-testing-docx
+- [x] sharepoint_protein-science-documents-delphi-20241127-qatesting-ds399-docx
+- [x] sharepoint_protein-science-documents-delphi-20241205-delphi-ds399-testing-docx
+- [x] sharepoint_protein-science-documents-delphi-20241212-delphi-ds399-testing-docx
+- [x] sharepoint_protein-science-documents-delphi-20241218-delphi-ds725testing-derek-docx
 
 ---
 
