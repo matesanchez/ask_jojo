@@ -64,16 +64,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-10-19-2020-advanced-construct-support-presentation-pptx
-- [ ] sharepoint_protein-science-documents-delphi-02-campaign-planning-uat-plan---project-landing-target-review-jose-docx
-- [ ] sharepoint_protein-science-documents-delphi-03-campaign-planning-uat-plan---target-seq-structure-jose-review-docx
-- [ ] sharepoint_protein-science-documents-delphi-04-campaign-planning-uat-plan---target-forms-jose-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-campaign-planning-milestone-2-changes-eboni-a-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-protein-production-requests-eboni-a-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-clone-tasks-eboni-a-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-target-form-jose-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-03-advanced-construct-support-uat-plan-sequence-and-structure-jose-pdf
-- [ ] sharepoint_protein-science-documents-delphi-financials-acs-combined-proposal-presentation-pptx
+- [x] sharepoint_protein-science-documents-delphi-10-19-2020-advanced-construct-support-presentation-pptx
+- [x] sharepoint_protein-science-documents-delphi-02-campaign-planning-uat-plan---project-landing-target-review-jose-docx
+- [x] sharepoint_protein-science-documents-delphi-03-campaign-planning-uat-plan---target-seq-structure-jose-review-docx
+- [x] sharepoint_protein-science-documents-delphi-04-campaign-planning-uat-plan---target-forms-jose-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-campaign-planning-milestone-2-changes-eboni-a-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-01-advanced-construct-support-uat-plan-protein-production-requests-eboni-a-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-clone-tasks-eboni-a-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-02-advanced-construct-support-uat-plan-target-form-jose-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-05-27-2021-uat-reviews-03-advanced-construct-support-uat-plan-sequence-and-structure-jose-pdf
+- [x] sharepoint_protein-science-documents-delphi-financials-acs-combined-proposal-presentation-pptx
 
 ---
 
