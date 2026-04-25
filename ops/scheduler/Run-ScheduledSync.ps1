@@ -67,6 +67,16 @@
     Bypass the singleton lock check. For emergency manual reruns when
     you know the previous run is dead but its lock file is stale.
 
+.PARAMETER IncludeExt
+    Comma-separated extension allowlist for drive-flavored connectors
+    (drive/onedrive/publicdrive). Forwarded as --include-ext to the
+    python child. Ignored by sharepoint.
+
+    Default: "docx,pptx,pdf" for publicdrive (the P: drive is ~50 TB of
+    mostly raw instrument output; only the office-doc subset is worth
+    ingesting). No default for other connectors. Pass "" to disable
+    filtering on a publicdrive run and walk every supported extension.
+
 .EXAMPLE
     # Invoked by Task Scheduler:
     powershell -ExecutionPolicy Bypass -File Run-ScheduledSync.ps1 -Connector drive -Source "C:\Users\mdelosrios\Documents"
@@ -99,7 +109,8 @@ param(
     [string]$LogRoot,
     [int]$MaxRuntimeMinutes = -1,
     [int]$MinDiskFreeGB = 2,
-    [switch]$IgnoreLock
+    [switch]$IgnoreLock,
+    [string]$IncludeExt
 )
 
 $ErrorActionPreference = "Stop"
@@ -113,6 +124,14 @@ if ($MaxRuntimeMinutes -lt 0) {
         "sharepoint"  { 120 }
         default       { 360 }
     }
+}
+
+# Bake the publicdrive office-docs default ONLY when the operator didn't
+# pass -IncludeExt at all. Explicit "" is honored as "no filter" so an
+# operator can override the default for a one-off full walk without
+# editing the script.
+if (-not $PSBoundParameters.ContainsKey("IncludeExt") -and $Connector -eq "publicdrive") {
+    $IncludeExt = "docx,pptx,pdf"
 }
 
 # ---- resolve project root + log dir --------------------------------------
@@ -367,6 +386,10 @@ try {
     if ($Raw)    { $syncArgs += @("--raw", $Raw) }
     if ($Source) { $syncArgs += @("--source", $Source) }
     if ($Since)  { $syncArgs += @("--since", $Since) }
+    # Empty / null IncludeExt is treated as "no filter" by the python CLI;
+    # only forward when the operator (or per-connector default) actually set
+    # something. This keeps the child argv clean for drive/onedrive runs.
+    if ($IncludeExt) { $syncArgs += @("--include-ext", $IncludeExt) }
 
     Write-Log "INFO" "starting: $PythonExe $($syncArgs -join ' ') (max ${MaxRuntimeMinutes}m)"
     $start = Get-Date

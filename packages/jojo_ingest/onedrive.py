@@ -27,6 +27,8 @@ ingest pipeline wouldn't notice.
 
 from __future__ import annotations
 
+from collections.abc import Iterable
+
 from jojo_connectors_common import IngestError
 from jojo_core import config
 from jojo_ingest.drive import DriveConnector
@@ -57,11 +59,13 @@ def build_onedrive_connector_from_env(
     *,
     access_level: str = "all_fte",
     path_override: str | None = None,
+    include_extensions: Iterable[str] | None = None,
 ) -> OneDriveConnector:
     """Assemble a OneDriveConnector from env vars.
 
     `path_override` (or `--source` on the CLI) wins over the env var; useful
     for one-off invocations that shouldn't pollute the shell environment.
+    `include_extensions` is plumbed straight through to DriveConnector.
     """
     path = (path_override or config.get(config.KEY_ONEDRIVE_PATH, "") or "").strip()
     if not path:
@@ -71,7 +75,11 @@ def build_onedrive_connector_from_env(
             f"set ${ENV_PATH} in the shell, or pass --source on the CLI."
         )
     try:
-        return OneDriveConnector(path, access_level=access_level)
+        return OneDriveConnector(
+            path,
+            access_level=access_level,
+            include_extensions=include_extensions,
+        )
     except IngestError as exc:
         # DriveConnector raises when the root doesn't exist; translate so the
         # caller gets a OneDrive-flavored error message naming the env var.

@@ -87,6 +87,23 @@ def _parse_since(value: str | None) -> datetime | None:
         raise SystemExit(f"invalid --since value '{value}': {exc}") from exc
 
 
+def _parse_include_ext(value: str | None) -> frozenset[str] | None:
+    """Parse `--include-ext "docx,pptx,pdf"` into a normalized frozenset.
+
+    Returns None when the flag is absent (preserves DriveConnector's
+    "any supported extension" default). Empty string is treated like None
+    so users can clear the flag from a default-baked wrapper.
+    """
+    if not value or not value.strip():
+        return None
+    # Order matters: strip whitespace BEFORE the leading dot, otherwise
+    # " .pptx" -> "lstrip('.')" sees a space, the dot survives, and the
+    # filter never matches "pptx" out of the walker.
+    parts = [p.strip().lower().lstrip(".") for p in value.split(",")]
+    cleaned = frozenset(p for p in parts if p)
+    return cleaned or None
+
+
 def _cmd_sync(args: argparse.Namespace) -> int:
     factories = _connector_factories()
     if args.connector not in factories:
@@ -111,18 +128,32 @@ def _cmd_sync(args: argparse.Namespace) -> int:
             )
             return 3
     since = _parse_since(args.since)
+    include_ext = _parse_include_ext(getattr(args, "include_ext", None))
     cls = spec["cls"]
     if args.connector == "drive":
         if not args.source:
             print("drive connector requires --source <path>", file=sys.stderr)
             return 2
-        connector = cls(args.source, access_level=args.access_level)
+        connector = cls(
+            args.source,
+            access_level=args.access_level,
+            include_extensions=include_ext,
+        )
     elif args.connector == "sharepoint":
         from jojo_ingest.sharepoint import (
             SharePointEnvError,
             build_sharepoint_connector_from_env,
         )
 
+        if include_ext:
+            # Honest warning: --include-ext only filters drive-flavored walks.
+            # The SharePoint Graph connector has its own surfacing path that
+            # doesn't currently consult this flag.
+            print(
+                "warning: --include-ext is ignored for the sharepoint connector "
+                "(filter applies to drive/onedrive/publicdrive only).",
+                file=sys.stderr,
+            )
         sites = args.sites.split(",") if args.sites else None
         try:
             connector = build_sharepoint_connector_from_env(
@@ -143,6 +174,7 @@ def _cmd_sync(args: argparse.Namespace) -> int:
             connector = build_onedrive_connector_from_env(
                 access_level=args.access_level,
                 path_override=args.source,
+                include_extensions=include_ext,
             )
         except OneDriveEnvError as exc:
             print(f"onedrive connector cannot start: {exc}", file=sys.stderr)
@@ -157,6 +189,7 @@ def _cmd_sync(args: argparse.Namespace) -> int:
             connector = build_publicdrive_connector_from_env(
                 access_level=args.access_level,
                 path_override=args.source,
+                include_extensions=include_ext,
             )
         except PublicDriveEnvError as exc:
             print(f"publicdrive connector cannot start: {exc}", file=sys.stderr)
@@ -172,6 +205,7 @@ def _cmd_sync(args: argparse.Namespace) -> int:
 def _cmd_sync_all(args: argparse.Namespace) -> int:
     factories = _connector_factories()
     since = _parse_since(args.since)
+    include_ext = _parse_include_ext(getattr(args, "include_ext", None))
     connectors = []
     for name, spec in factories.items():
         if spec["status"] != "ready":
@@ -179,13 +213,21 @@ def _cmd_sync_all(args: argparse.Namespace) -> int:
         if name == "drive":
             if not args.source:
                 continue
-            connectors.append(spec["cls"](args.source, access_level=args.access_level))
+            connectors.append(
+                spec["cls"](
+                    args.source,
+                    access_level=args.access_level,
+                    include_extensions=include_ext,
+                )
+            )
         elif name == "upload":
             # upload is not a batch connector; skip in sync-all
             continue
         elif name == "sharepoint":
             from jojo_ingest.sharepoint import build_sharepoint_connector_from_env
 
+            # --include-ext doesn't apply to sharepoint; sync-all already
+            # mixes connectors so skipping the warning here is fine.
             connectors.append(
                 build_sharepoint_connector_from_env(access_level=args.access_level)
             )
@@ -193,13 +235,19 @@ def _cmd_sync_all(args: argparse.Namespace) -> int:
             from jojo_ingest.onedrive import build_onedrive_connector_from_env
 
             connectors.append(
-                build_onedrive_connector_from_env(access_level=args.access_level)
+                build_onedrive_connector_from_env(
+                    access_level=args.access_level,
+                    include_extensions=include_ext,
+                )
             )
         elif name == "publicdrive":
             from jojo_ingest.publicdrive import build_publicdrive_connector_from_env
 
             connectors.append(
-                build_publicdrive_connector_from_env(access_level=args.access_level)
+                build_publicdrive_connector_from_env(
+                    access_level=args.access_level,
+                    include_extensions=include_ext,
+                )
             )
     if not connectors:
         print(
@@ -284,6 +332,15 @@ def _build_parser() -> argparse.ArgumentParser:
     s_all.add_argument("--source", help="drive root (if including drive)")
     s_all.add_argument("--access-level", default="all_fte")
     s_all.add_argument("--since", help="ISO datetime for incremental sync")
+    s_all.add_argument(
+        "--include-ext",
+        dest="include_ext",
+        help=(
+            "Comma-separated extension allowlist for drive-flavored connectors "
+            "(drive/onedrive/publicdrive). Example: 'docx,pptx,pdf'. "
+            "Ignored by the sharepoint connector. Empty / unset = no filter."
+        ),
+    )
     s_all.set_defaults(func=_cmd_sync_all)
 
     s = sub.add_parser("sync", help="Run one connector")
@@ -313,6 +370,15 @@ def _build_parser() -> argparse.ArgumentParser:
             "JOJO_GRAPH_ACCESS_TOKEN. Prefer the env var for non-one-shot runs."
         ),
     )
+    s.add_argument(
+        "--include-ext",
+        dest="include_ext",
+        help=(
+            "Comma-separated extension allowlist for drive-flavored connectors "
+            "(drive/onedrive/publicdrive). Example: 'docx,pptx,pdf'. "
+            "Ignored by the sharepoint connector. Empty / unset = no filter."
+        ),
+    )
     s.set_defaults(func=_cmd_sync)
 
     u = sub.add_parser("upload", help="Ingest a single user-supplied file")
@@ -329,6 +395,14 @@ def _build_parser() -> argparse.ArgumentParser:
     r.add_argument("--raw", required=True)
     r.add_argument("--source")
     r.add_argument("--access-level", default="all_fte")
+    r.add_argument(
+        "--include-ext",
+        dest="include_ext",
+        help=(
+            "Comma-separated extension allowlist for drive-flavored connectors. "
+            "See `jojo-ingest sync --help` for details."
+        ),
+    )
     r.set_defaults(func=_cmd_resync)
 
     st = sub.add_parser("status", help="Print manifest summary")

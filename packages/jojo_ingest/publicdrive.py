@@ -26,6 +26,7 @@ re-statting the whole share.
 from __future__ import annotations
 
 import sys
+from collections.abc import Iterable
 
 from jojo_connectors_common import IngestError
 from jojo_core import config
@@ -54,6 +55,7 @@ def build_publicdrive_connector_from_env(
     *,
     access_level: str = "all_fte",
     path_override: str | None = None,
+    include_extensions: Iterable[str] | None = None,
 ) -> PublicDriveConnector:
     """Assemble a PublicDriveConnector from env vars.
 
@@ -62,6 +64,10 @@ def build_publicdrive_connector_from_env(
       2. `$JOJO_PUBLIC_DRIVE_PATH`
       3. `P:\\` (Windows only — skipped elsewhere so we don't accidentally
          walk a non-existent path)
+
+    `include_extensions` is plumbed straight through to DriveConnector. The
+    P: drive's ~50 TB is mostly raw instrument output; the typical operator
+    cut is `{"docx","pptx","pdf"}` to grab just the institutional knowledge.
     """
     path = (path_override or config.get(config.KEY_PUBLIC_DRIVE_PATH, "") or "").strip()
     if not path and sys.platform.startswith("win"):
@@ -73,7 +79,11 @@ def build_publicdrive_connector_from_env(
             f"set ${ENV_PATH} in the shell, or pass --source on the CLI."
         )
     try:
-        return PublicDriveConnector(path, access_level=access_level)
+        return PublicDriveConnector(
+            path,
+            access_level=access_level,
+            include_extensions=include_extensions,
+        )
     except IngestError as exc:
         raise PublicDriveEnvError(
             f"{ENV_PATH}={path!r}: {exc}. Is the network drive mounted and "

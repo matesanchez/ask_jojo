@@ -22,6 +22,13 @@ to the text converter. Binary files with unknown extensions are skipped and
 logged. Files larger than `max_size_mb` (default 50 MB) are skipped before
 the converter ever opens them -- this matches the SharePoint connector's
 default and keeps a random 4 GB CAD file on P:\\ from exploding the walker.
+
+`include_extensions` narrows the walker to a whitelist (lowercase, no dot)
+when set. Useful on huge shares like the public P:\\ drive where the bulk
+is raw instrument output and only docx/pptx/pdf are worth ingesting --
+passing `include_extensions={"docx","pptx","pdf"}` skips the rest at the
+walker (before stat, before convert) so the run never touches them. Default
+of None preserves the original behavior (any supported extension).
 """
 
 from __future__ import annotations
@@ -65,6 +72,7 @@ class DriveConnector(Connector):
         access_level: str = "all_fte",
         ignore: JojoIgnore | None = None,
         max_size_mb: int = 50,
+        include_extensions: Iterable[str] | None = None,
         listdir_timeout_s: float = _DEFAULT_LISTDIR_TIMEOUT_S,
         stat_timeout_s: float = _DEFAULT_STAT_TIMEOUT_S,
         convert_timeout_s: float = _DEFAULT_CONVERT_TIMEOUT_S,
@@ -75,6 +83,19 @@ class DriveConnector(Connector):
         self.access_level = access_level
         self.ignore = ignore or JojoIgnore.from_file(self.root / ".jojoignore")
         self.max_bytes = max_size_mb * 1024 * 1024
+        # Normalize: lowercase, strip leading dots, drop empties. None means
+        # "no allowlist" (current behavior); a frozenset means "only these".
+        # Order matters: strip whitespace before the leading dot, else
+        # " .pptx" lstrips on the leading space and the dot survives.
+        self.include_extensions: frozenset[str] | None = (
+            frozenset(
+                e.strip().lower().lstrip(".")
+                for e in include_extensions
+                if e and e.strip()
+            )
+            if include_extensions is not None
+            else None
+        )
         self.listdir_timeout_s = listdir_timeout_s
         self.stat_timeout_s = stat_timeout_s
         self.convert_timeout_s = convert_timeout_s
@@ -120,6 +141,14 @@ class DriveConnector(Connector):
             if not is_supported(entry):
                 log.info("unsupported extension, skipping: %s", rel)
                 continue
+            if self.include_extensions is not None:
+                # Empty extension ("" — files with no suffix) is intentionally
+                # excluded when an allowlist is set: the operator was explicit,
+                # so don't let unmarked text files sneak in.
+                ext = entry.suffix.lower().lstrip(".")
+                if ext not in self.include_extensions:
+                    log.debug("not in include_extensions, skipping: %s", rel)
+                    continue
             stat = self._safe_stat(entry)
             if stat is None:
                 continue

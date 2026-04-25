@@ -229,3 +229,76 @@ def test_driver_flushes_manifest_periodically(source_tree: Path, tmp_path: Path)
     # Two files were absorbed; with flush_every=1 that's at least 2
     # mid-run flushes + 1 final flush. Being conservative we assert >= 3.
     assert save_count["n"] >= 3
+
+
+# ---- include_extensions allowlist ----------------------------------------
+# Added 2026-04-24 alongside the publicdrive walk-scoping work. The P:\
+# drive is ~50 TB of mostly raw instrument output; without an allowlist
+# every walk paid the SMB stat cost on millions of irrelevant files.
+
+
+def test_include_extensions_filters_to_allowlist(source_tree: Path):
+    """{'md'} should drop the .txt file even though the txt converter exists."""
+    conn = DriveConnector(source_tree, include_extensions={"md"})
+    entries = list(conn.fetch())
+    names = sorted(e.source_id for e in entries)
+    assert names == ["sop/buffer-recipe.md"]
+
+
+def test_include_extensions_normalizes_case_dot_and_whitespace(source_tree: Path):
+    """Operators paste ".DOCX", "TXT", or " .pptx" -- all should match.
+
+    Whitespace order matters: lstrip('.') runs after strip() because
+    ' .txt' would otherwise lstrip the leading space, leave the dot, and
+    silently never match.
+    """
+    conn = DriveConnector(source_tree, include_extensions={"  .TXT  "})
+    entries = list(conn.fetch())
+    assert [e.source_id for e in entries] == ["sop/gel-prep.txt"]
+
+
+def test_include_extensions_none_preserves_default_behavior(source_tree: Path):
+    """Regression guard: passing None must match the no-arg behavior."""
+    baseline = DriveConnector(source_tree)
+    filtered = DriveConnector(source_tree, include_extensions=None)
+    assert sorted(e.source_id for e in baseline.fetch()) == sorted(
+        e.source_id for e in filtered.fetch()
+    )
+
+
+def test_include_extensions_empty_iterable_excludes_everything(source_tree: Path):
+    """Distinct from None: an empty allowlist means 'allow nothing'.
+
+    The CLI parser maps `--include-ext ""` to None (no filter). But if a
+    caller passes the empty frozenset directly, that's an explicit "no
+    extensions allowed" -- respect it. Documents the semantic so a future
+    caller doesn't conflate empty-set with no-filter.
+    """
+    conn = DriveConnector(source_tree, include_extensions=frozenset())
+    assert list(conn.fetch()) == []
+
+
+def test_include_extensions_drops_unmarked_text_files(tmp_path: Path):
+    """Files with no extension fall through to the text converter by default
+    but should be dropped when an allowlist is set -- the operator was
+    explicit about which extensions to admit."""
+    root = tmp_path / "src"
+    root.mkdir()
+    (root / "README").write_text("no extension", encoding="utf-8")
+    (root / "notes.md").write_text("# notes", encoding="utf-8")
+    conn = DriveConnector(root, include_extensions={"md"})
+    names = sorted(e.source_id for e in conn.fetch())
+    assert names == ["notes.md"]
+
+
+def test_cli_parse_include_ext():
+    """_parse_include_ext should normalize, dedupe, and treat empty as None."""
+    from jojo_ingest.cli import _parse_include_ext
+
+    assert _parse_include_ext(None) is None
+    assert _parse_include_ext("") is None
+    assert _parse_include_ext("   ") is None
+    assert _parse_include_ext(",,,") is None  # all-empty after split
+    assert _parse_include_ext("docx,pptx,pdf") == frozenset({"docx", "pptx", "pdf"})
+    assert _parse_include_ext(".DOCX, .PPTX") == frozenset({"docx", "pptx"})
+    assert _parse_include_ext("docx,docx,pdf") == frozenset({"docx", "pdf"})
