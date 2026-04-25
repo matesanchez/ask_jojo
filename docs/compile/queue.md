@@ -400,16 +400,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1393-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1394-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1396-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250417-ds-1423-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250418-ds-1423-emptymwpicklist-error-txt
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250418-ds-1439-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250422-ds-1423-docx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case1-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case2-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case3-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1393-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1394-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250416-ds-1396-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250417-ds-1423-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250418-ds-1423-emptymwpicklist-error-txt
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250418-ds-1439-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-20250422-ds-1423-docx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case1-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case2-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-2-uat-testing-ds-1476-large-scale-expression-task-list-fri-apr-18-2025-case3-xlsx
 
 ---
 
