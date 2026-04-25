@@ -381,15 +381,15 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-release-notes-acs2026-2-20260311-delphi-2026-2-1-release-notes-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260217-uat-snapshots-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260305-2026-2-1-uat-testing-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260320-2026-2-2-uat-snapshots-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-3-uat-testing-20260406-uat-snapshots-pptx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-3-testing-20250730-delphi-sseptimporttable-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-3-testing-20250731-expression-task-list-thu-jul-31-2025-emily-export-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20250923-delphi-uat-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20250925-delphi-uat-pptx
+- [x] sharepoint_protein-science-documents-delphi-release-notes-acs2026-2-20260311-delphi-2026-2-1-release-notes-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260217-uat-snapshots-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260305-2026-2-1-uat-testing-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-2-uat-testing-20260320-2026-2-2-uat-snapshots-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2026-3-uat-testing-20260406-uat-snapshots-pptx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-3-testing-20250730-delphi-sseptimporttable-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-uat-reviews-acs2025-3-testing-20250731-expression-task-list-thu-jul-31-2025-emily-export-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20250923-delphi-uat-pptx
+- [x] sharepoint_protein-science-documents-delphi-20250925-delphi-uat-pptx
 
 ---
 
