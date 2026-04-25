@@ -361,16 +361,16 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 **Connector:** sharepoint
 **Access level:** all_fte
 
-- [ ] sharepoint_protein-science-documents-delphi-delphi-inventory-columns-changes-080922-pptx
-- [ ] sharepoint_protein-science-documents-delphi-20230418-delphi-proteininventory-updates-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20230810-protein-production-inventory-data-sample-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20230822-protein-production-inventory-data-sample-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20230907-protein-production-inventory-data-sample-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-protein-production-inventory-data-sample-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20230925-invalidbarcodes-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20230927-correctedbarcodes-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231023-manual-updates-for-ds869-xlsx
-- [ ] sharepoint_protein-science-documents-delphi-20231109-copy-of-flasks-updated-xlsx
+- [x] sharepoint_protein-science-documents-delphi-delphi-inventory-columns-changes-080922-pptx
+- [x] sharepoint_protein-science-documents-delphi-20230418-delphi-proteininventory-updates-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20230810-protein-production-inventory-data-sample-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20230822-protein-production-inventory-data-sample-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20230907-protein-production-inventory-data-sample-xlsx
+- [x] sharepoint_protein-science-documents-delphi-protein-production-inventory-data-sample-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20230925-invalidbarcodes-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20230927-correctedbarcodes-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231023-manual-updates-for-ds869-xlsx
+- [x] sharepoint_protein-science-documents-delphi-20231109-copy-of-flasks-updated-xlsx
 
 ---
 
