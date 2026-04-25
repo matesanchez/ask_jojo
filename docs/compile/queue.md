@@ -1986,9 +1986,9 @@ A 2025 DEL-PS goals draft explicitly stamped `-old`. The current `del-ps-goals-2
 python -c "import json, collections, pathlib; m=json.loads(pathlib.Path('ask_jojo_raw/manifest.json').read_text()); od=[e for e in m['entries'].values() if e['source_type']=='onedrive']; tops=collections.Counter(e['source_id'].split('/',1)[0] for e in od); print(f'OneDrive entries: {len(od)}'); [print(f'  {n:>5}  {top}') for top, n in tops.most_common()]"
 ```
 
-That prints `<count> <top-folder-name>` lines sorted by document count. Decide which top-folders are wiki-worthy; surface those folders' files into Batches 22+ (one batch per coherent topic, ~10 entries each). Folders that are clearly ephemeral (Downloads, Pictures, Personal-anything) can go straight to Batch N+1 below as `[x]` with a `<!-- skip: ephemeral_onedrive -->` note.
+That prints `<count> <top-folder-name>` lines sorted by document count. Decide which top-folders are wiki-worthy; surface those folders' files into Batches 23+ (one batch per coherent topic, ~10 entries each). Folders that are clearly ephemeral (Downloads, Pictures, Personal-anything) can go straight to Batch N+1 below as `[x]` with a `<!-- skip: ephemeral_onedrive -->` note.
 
-### Batch 22 — OneDrive top-folder coverage  *(placeholder)*
+### Batch 23 — OneDrive top-folder coverage  *(placeholder)*
 
 **Theme:** TBD after the triage one-liner runs. Plan: one ~10-entry batch per most-active OneDrive top-folder (project-coded folders, role-coded folders, etc.). Aim for the same topical-cohesion bar Batches 1-19 use — files within a batch should converge on a few strong wiki pages, not sprawl.
 
@@ -1997,9 +1997,9 @@ That prints `<count> <top-folder-name>` lines sorted by document count. Decide w
 
 - [ ] *(populate after running the survey one-liner above)*
 
-### Batch 23 — OneDrive misc / small-folder cleanup  *(placeholder)*
+### Batch 24 — OneDrive misc / small-folder cleanup  *(placeholder)*
 
-**Theme:** OneDrive entries that don't slot cleanly into a Batch 22 top-folder cluster — single-file folders, root-level loose files, cross-folder one-offs. Treat the same way Batch 21 treats SharePoint long-tail — enumerate, skip-tag, surface only what has wiki signal.
+**Theme:** OneDrive entries that don't slot cleanly into a Batch 23 top-folder cluster — single-file folders, root-level loose files, cross-folder one-offs. Treat the same way Batch 21 treats SharePoint long-tail — enumerate, skip-tag, surface only what has wiki signal.
 
 **Connector:** onedrive
 **Access level:** owner_only
