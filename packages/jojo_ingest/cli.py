@@ -129,6 +129,13 @@ def _cmd_sync(args: argparse.Namespace) -> int:
             return 3
     since = _parse_since(args.since)
     include_ext = _parse_include_ext(getattr(args, "include_ext", None))
+    # getattr w/ default keeps this tolerant of older Namespace shapes (e.g.
+    # callers building args programmatically without going through _build_parser).
+    progress_interval = getattr(args, "progress_interval", None)
+    # Only forward when explicitly set; lets the connector default win otherwise.
+    drive_kw: dict[str, float] = (
+        {"progress_interval_s": progress_interval} if progress_interval is not None else {}
+    )
     cls = spec["cls"]
     if args.connector == "drive":
         if not args.source:
@@ -138,6 +145,7 @@ def _cmd_sync(args: argparse.Namespace) -> int:
             args.source,
             access_level=args.access_level,
             include_extensions=include_ext,
+            **drive_kw,
         )
     elif args.connector == "sharepoint":
         from jojo_ingest.sharepoint import (
@@ -175,6 +183,7 @@ def _cmd_sync(args: argparse.Namespace) -> int:
                 access_level=args.access_level,
                 path_override=args.source,
                 include_extensions=include_ext,
+                progress_interval_s=progress_interval,
             )
         except OneDriveEnvError as exc:
             print(f"onedrive connector cannot start: {exc}", file=sys.stderr)
@@ -190,6 +199,7 @@ def _cmd_sync(args: argparse.Namespace) -> int:
                 access_level=args.access_level,
                 path_override=args.source,
                 include_extensions=include_ext,
+                progress_interval_s=progress_interval,
             )
         except PublicDriveEnvError as exc:
             print(f"publicdrive connector cannot start: {exc}", file=sys.stderr)
@@ -206,6 +216,10 @@ def _cmd_sync_all(args: argparse.Namespace) -> int:
     factories = _connector_factories()
     since = _parse_since(args.since)
     include_ext = _parse_include_ext(getattr(args, "include_ext", None))
+    progress_interval = getattr(args, "progress_interval", None)
+    drive_kw: dict[str, float] = (
+        {"progress_interval_s": progress_interval} if progress_interval is not None else {}
+    )
     connectors = []
     for name, spec in factories.items():
         if spec["status"] != "ready":
@@ -218,6 +232,7 @@ def _cmd_sync_all(args: argparse.Namespace) -> int:
                     args.source,
                     access_level=args.access_level,
                     include_extensions=include_ext,
+                    **drive_kw,
                 )
             )
         elif name == "upload":
@@ -238,6 +253,7 @@ def _cmd_sync_all(args: argparse.Namespace) -> int:
                 build_onedrive_connector_from_env(
                     access_level=args.access_level,
                     include_extensions=include_ext,
+                    progress_interval_s=progress_interval,
                 )
             )
         elif name == "publicdrive":
@@ -247,6 +263,7 @@ def _cmd_sync_all(args: argparse.Namespace) -> int:
                 build_publicdrive_connector_from_env(
                     access_level=args.access_level,
                     include_extensions=include_ext,
+                    progress_interval_s=progress_interval,
                 )
             )
     if not connectors:
@@ -341,6 +358,16 @@ def _build_parser() -> argparse.ArgumentParser:
             "Ignored by the sharepoint connector. Empty / unset = no filter."
         ),
     )
+    s_all.add_argument(
+        "--progress-interval",
+        dest="progress_interval",
+        type=float,
+        help=(
+            "Seconds between walker progress heartbeats on stderr "
+            "(drive/onedrive/publicdrive). Default 60. Pass 0 to disable. "
+            "Ignored by the sharepoint connector."
+        ),
+    )
     s_all.set_defaults(func=_cmd_sync_all)
 
     s = sub.add_parser("sync", help="Run one connector")
@@ -379,6 +406,16 @@ def _build_parser() -> argparse.ArgumentParser:
             "Ignored by the sharepoint connector. Empty / unset = no filter."
         ),
     )
+    s.add_argument(
+        "--progress-interval",
+        dest="progress_interval",
+        type=float,
+        help=(
+            "Seconds between walker progress heartbeats on stderr "
+            "(drive/onedrive/publicdrive). Default 60. Pass 0 to disable. "
+            "Ignored by the sharepoint connector."
+        ),
+    )
     s.set_defaults(func=_cmd_sync)
 
     u = sub.add_parser("upload", help="Ingest a single user-supplied file")
@@ -402,6 +439,12 @@ def _build_parser() -> argparse.ArgumentParser:
             "Comma-separated extension allowlist for drive-flavored connectors. "
             "See `jojo-ingest sync --help` for details."
         ),
+    )
+    r.add_argument(
+        "--progress-interval",
+        dest="progress_interval",
+        type=float,
+        help="Seconds between walker progress heartbeats. See `jojo-ingest sync --help`.",
     )
     r.set_defaults(func=_cmd_resync)
 

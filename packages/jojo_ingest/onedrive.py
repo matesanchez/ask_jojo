@@ -60,12 +60,15 @@ def build_onedrive_connector_from_env(
     access_level: str = "all_fte",
     path_override: str | None = None,
     include_extensions: Iterable[str] | None = None,
+    progress_interval_s: float | None = None,
 ) -> OneDriveConnector:
     """Assemble a OneDriveConnector from env vars.
 
     `path_override` (or `--source` on the CLI) wins over the env var; useful
     for one-off invocations that shouldn't pollute the shell environment.
     `include_extensions` is plumbed straight through to DriveConnector.
+    `progress_interval_s` overrides the connector's heartbeat cadence; None
+    (the default) keeps DriveConnector's own default.
     """
     path = (path_override or config.get(config.KEY_ONEDRIVE_PATH, "") or "").strip()
     if not path:
@@ -74,11 +77,15 @@ def build_onedrive_connector_from_env(
             '`jojo-core config set onedrive_path "C:\\Users\\<user>\\OneDrive - Nurix Therapeutics, Inc"`, '
             f"set ${ENV_PATH} in the shell, or pass --source on the CLI."
         )
+    extra: dict[str, float] = {}
+    if progress_interval_s is not None:
+        extra["progress_interval_s"] = progress_interval_s
     try:
         return OneDriveConnector(
             path,
             access_level=access_level,
             include_extensions=include_extensions,
+            **extra,
         )
     except IngestError as exc:
         # DriveConnector raises when the root doesn't exist; translate so the

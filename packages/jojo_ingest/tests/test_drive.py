@@ -302,3 +302,134 @@ def test_cli_parse_include_ext():
     assert _parse_include_ext("docx,pptx,pdf") == frozenset({"docx", "pptx", "pdf"})
     assert _parse_include_ext(".DOCX, .PPTX") == frozenset({"docx", "pptx"})
     assert _parse_include_ext("docx,docx,pdf") == frozenset({"docx", "pdf"})
+
+
+# ---- progress heartbeat --------------------------------------------------
+# Added 2026-04-24 so an operator tailing the wrapper log can tell whether
+# a multi-day P:\ walk is making progress vs. hung on a single subtree. Gate
+# is `time.monotonic`-based; we patch monotonic to control the clock.
+
+
+def _fake_monotonic_factory(values: list[float]):
+    """Returns a callable that yields successive values from `values`, then
+    repeats the last one forever. Lets a test simulate elapsed wall time
+    without sleeping."""
+    state = {"i": 0}
+
+    def fake() -> float:
+        i = min(state["i"], len(values) - 1)
+        v = values[i]
+        state["i"] += 1
+        return v
+
+    return fake
+
+
+def test_progress_emits_to_stderr_on_first_directory(
+    source_tree: Path, capsys, monkeypatch: pytest.MonkeyPatch
+):
+    """First _walk call should always emit (last_progress_at == 0).
+
+    Note: with a constant monotonic value, only the root emit fires (later
+    directory entries are within the 60s gate). yielded=0 at the root makes
+    sense -- the count is incremented only after a yield.
+    """
+    import jojo_ingest.drive as drive_module
+
+    monkeypatch.setattr(drive_module.time, "monotonic", lambda: 100.0)
+    conn = DriveConnector(source_tree)
+    list(conn.fetch())
+    err = capsys.readouterr().err
+    # Format check + source_type + root-directory marker.
+    assert "[progress] drive: walking ." in err
+    assert "yielded 0 so far" in err
+
+
+def test_progress_gates_by_interval(
+    source_tree: Path, capsys, monkeypatch: pytest.MonkeyPatch
+):
+    """Within `progress_interval_s`, only the first emit should fire.
+
+    Walker enters root at t=100 (forced emit), then sop/ at t=130 (gated:
+    delta=30 < 60), so we expect exactly one '[progress]' line despite
+    multiple directory entries.
+    """
+    import jojo_ingest.drive as drive_module
+
+    fake = _fake_monotonic_factory([100.0, 130.0, 145.0, 150.0])
+    monkeypatch.setattr(drive_module.time, "monotonic", fake)
+    conn = DriveConnector(source_tree, progress_interval_s=60.0)
+    list(conn.fetch())
+    err = capsys.readouterr().err
+    assert err.count("[progress]") == 1, f"expected 1 emit, got {err!r}"
+
+
+def test_progress_emits_again_after_interval_elapses(
+    source_tree: Path, capsys, monkeypatch: pytest.MonkeyPatch
+):
+    """Once the interval has passed, the next directory entry should emit."""
+    import jojo_ingest.drive as drive_module
+
+    # Walker enters root at t=100 (emit), then sop/ at t=200 (delta=100 >
+    # 60 -> emit). Two directories visited that pass the gate.
+    fake = _fake_monotonic_factory([100.0, 200.0, 210.0])
+    monkeypatch.setattr(drive_module.time, "monotonic", fake)
+    conn = DriveConnector(source_tree, progress_interval_s=60.0)
+    list(conn.fetch())
+    err = capsys.readouterr().err
+    assert err.count("[progress]") >= 2, f"expected >=2 emits, got {err!r}"
+
+
+def test_progress_disabled_when_interval_non_positive(
+    source_tree: Path, capsys, monkeypatch: pytest.MonkeyPatch
+):
+    """Operators who tail their own logs may want the heartbeat off."""
+    import jojo_ingest.drive as drive_module
+
+    monkeypatch.setattr(drive_module.time, "monotonic", lambda: 100.0)
+    for interval in (0.0, -5.0):
+        conn = DriveConnector(source_tree, progress_interval_s=interval)
+        list(conn.fetch())
+        err = capsys.readouterr().err
+        assert "[progress]" not in err, f"interval={interval}: {err!r}"
+
+
+def test_progress_uses_subclass_source_type(
+    tmp_path: Path, capsys, monkeypatch: pytest.MonkeyPatch
+):
+    """The line must say 'publicdrive' (not 'drive') for a subclass — that's
+    the whole point of distinguishing source types in the manifest."""
+    import jojo_ingest.drive as drive_module
+    from jojo_ingest.publicdrive import PublicDriveConnector
+
+    root = tmp_path / "share"
+    root.mkdir()
+    (root / "note.md").write_text("# n", encoding="utf-8")
+
+    monkeypatch.setattr(drive_module.time, "monotonic", lambda: 0.0)
+    conn = PublicDriveConnector(root)
+    list(conn.fetch())
+    err = capsys.readouterr().err
+    assert "[progress] publicdrive: walking ." in err
+
+
+def test_progress_resets_state_each_fetch(
+    source_tree: Path, capsys, monkeypatch: pytest.MonkeyPatch
+):
+    """A reused connector must report fresh yields per run, not cumulative.
+
+    Without the reset in fetch(), a second call's heartbeat would say
+    'yielded 4 so far' after two two-file walks, which would mislead an
+    operator scanning for production progress vs. a stuck restart.
+    """
+    import jojo_ingest.drive as drive_module
+
+    monkeypatch.setattr(drive_module.time, "monotonic", lambda: 100.0)
+    conn = DriveConnector(source_tree)
+    list(conn.fetch())
+    capsys.readouterr()  # discard run 1 output
+    list(conn.fetch())
+    err = capsys.readouterr().err
+    # Run 2's first emit is at root before any yields, so the count must
+    # be 0 -- if the reset is missing, this would be 2 (carried from run 1).
+    assert "yielded 0 so far" in err

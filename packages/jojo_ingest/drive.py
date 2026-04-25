@@ -29,11 +29,19 @@ is raw instrument output and only docx/pptx/pdf are worth ingesting --
 passing `include_extensions={"docx","pptx","pdf"}` skips the rest at the
 walker (before stat, before convert) so the run never touches them. Default
 of None preserves the original behavior (any supported extension).
+
+`progress_interval_s` controls a periodic heartbeat printed to stderr
+naming the directory the walker is currently in plus the running yield
+count. Default 60s. The 50 TB P:\\ walk takes hours; without this an
+operator tailing the log can't tell whether the run is making progress
+or hung on a single subtree. Set <= 0 to disable.
 """
 
 from __future__ import annotations
 
 import logging
+import sys
+import time
 from collections.abc import Iterable, Iterator
 from datetime import datetime, timezone
 from pathlib import Path
@@ -61,6 +69,12 @@ _DEFAULT_LISTDIR_TIMEOUT_S = 30.0
 _DEFAULT_STAT_TIMEOUT_S = 10.0
 _DEFAULT_CONVERT_TIMEOUT_S = 120.0
 
+# Heartbeat cadence for the walker. 60s is slow enough that the log file
+# doesn't drown in updates on a fast local walk, fast enough that an
+# operator tailing the wrapper log on a multi-day P:\ run can tell which
+# subtree we're chewing on. Set <= 0 to disable.
+_DEFAULT_PROGRESS_INTERVAL_S = 60.0
+
 
 class DriveConnector(Connector):
     source_type = "drive"
@@ -76,6 +90,7 @@ class DriveConnector(Connector):
         listdir_timeout_s: float = _DEFAULT_LISTDIR_TIMEOUT_S,
         stat_timeout_s: float = _DEFAULT_STAT_TIMEOUT_S,
         convert_timeout_s: float = _DEFAULT_CONVERT_TIMEOUT_S,
+        progress_interval_s: float = _DEFAULT_PROGRESS_INTERVAL_S,
     ) -> None:
         self.root = Path(root).resolve()
         if not self.root.exists():
@@ -99,11 +114,26 @@ class DriveConnector(Connector):
         self.listdir_timeout_s = listdir_timeout_s
         self.stat_timeout_s = stat_timeout_s
         self.convert_timeout_s = convert_timeout_s
+        self.progress_interval_s = progress_interval_s
+        # Mutable per-run state. Reset in fetch() so that re-using a connector
+        # instance across runs doesn't carry stale counts or timestamps.
+        self._last_progress_at: float = 0.0
+        self._yielded: int = 0
 
     def fetch(self, *, since: datetime | None = None) -> Iterable[SourceEntry]:
+        # Reset the heartbeat state at the top of each run. Force a progress
+        # line on the first directory by leaving _last_progress_at at 0; the
+        # gate below treats an unset timestamp as "always emit".
+        self._last_progress_at = 0.0
+        self._yielded = 0
         yield from self._walk(self.root, since=since)
 
     def _walk(self, directory: Path, *, since: datetime | None) -> Iterator[SourceEntry]:
+        # Heartbeat fires on directory entry rather than per-file: per-file
+        # would spam on a fat directory, and the operator just wants to know
+        # which subtree we're in. Emitted before iterdir() so a hang shows
+        # up in the log right next to the directory we got stuck on.
+        self._emit_progress(directory)
         try:
             children = run_with_timeout(
                 lambda: sorted(directory.iterdir(), key=lambda p: p.name),
@@ -164,7 +194,37 @@ class DriveConnector(Connector):
                     continue
             se = self._build_entry(entry, rel, stat=stat)
             if se is not None:
+                self._yielded += 1
                 yield se
+
+    def _emit_progress(self, current: Path) -> None:
+        """Print a one-line walker heartbeat to stderr, gated by interval.
+
+        Stderr (not logging) so the wrapper's `2>&1` tee picks it up
+        regardless of log level, and so it stays visible even if a future
+        change quietens this module's logger. `flush=True` because the
+        wrapper writes the log file via Out-File which buffers by default.
+        """
+        if self.progress_interval_s <= 0:
+            return
+        now = time.monotonic()
+        if self._last_progress_at and (now - self._last_progress_at) < self.progress_interval_s:
+            return
+        self._last_progress_at = now
+        # Relative path is friendlier than the full SMB path; "." for the
+        # root keeps the message readable on the very first emit.
+        try:
+            rel = current.relative_to(self.root).as_posix() or "."
+        except ValueError:
+            # Walker should never leave self.root, but if it does, fall back
+            # to the absolute path rather than crashing the heartbeat.
+            rel = str(current)
+        print(
+            f"[progress] {self.source_type}: walking {rel} "
+            f"(yielded {self._yielded} so far)",
+            file=sys.stderr,
+            flush=True,
+        )
 
     def _safe_stat(self, path: Path):
         """Stat a single path with a watchdog timeout. Returns None on failure.
