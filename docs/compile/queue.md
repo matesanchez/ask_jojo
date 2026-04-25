@@ -621,6 +621,109 @@ The first batch below is seeded with ten SharePoint entries from the Protein Sci
 
 ---
 
+## Batch 22 — Long-tail SharePoint coverage
+
+**Theme:** Sweep of every SharePoint manifest entry not previously batched (Batches 1-21). Splits cleanly along absorb-vs-skip lines: ~79 entries with real wiki signal (the Early Discovery Research Day 2023 corpus, DEL triage internal-project meetings, ligandability-assay meetings, the lone 2021 Keystone TPD review deck, and the Loka ML 2024-09-09 PS bulk-info handoff) get absorbed; ~1,231 entries are bulk evidence or ephemeral artifacts skip-pooled with `<!-- skip: <reason> -->` annotations.
+
+**Connector:** sharepoint  
+**Access level:** all_fte
+
+### Early Discovery Research Day 2023 — posters, rapid-fire decks, sign-ups  (68)
+
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-2023-poster-talk-signup-xlsx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-2023-sign-up-for-brainstorming-topics-xlsx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-10-triazine-library-build-design-development-and-synthesis-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-12--advancing-global-proteomics-at-nurix-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-14-hit-validation-in-cellular-lysates-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-17--augmenting-lead-id-at-nurix-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-20-high-throughput-ligand-discovery-at-nurix-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-21--evolution-of-on-dna-click-reactions-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-22--ternary-complex-and-ubiquitylation-assays-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-5-development-of-a-solid-phase-asms-assay-for-del-hit-validation-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-7-measurement-of-ternary-complex-formation-by-spr-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-edrd-poster-presentation-session-for-chemistry-group-9--discovering-and-validating-ppil2-harness-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-assay-poster-shipragupta-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-bli-poster-mg-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-cellscreening-finalppt-sst-dv-1-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-chemicalspaceposter-researchday-tkennedy-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-cl-research-day-2023-final-poster-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-crispr-poster-2-sst-dv-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-delml-poster---ec-hg-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-dpcr-poster-2023-ia-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-dsf-assay-development-biophysics-jf-resizing-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-global-proteomics-jaipalreddy-panga-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-isp-poster-sh-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-ligandability-ppil2-poster-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-poster-4-biochemistry-screening-platform-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-poster-spotfire-mark-bingener-20230920e-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-poster-triazine-library-build-design-development-and-synthesis-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-ratul-tcf-poster-final-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sanchez-morgado-techdev-lyaste-final-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-santos22-ligandabilitystatusposter-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos1-assay-poster-shipragupta-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos10-ligandability-ppil2-poster-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos11-poster-4-biochemistry-screening-platform-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos12-poster-triazine-library-build-design-development-and-synthesis-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos13-poster-spotfire-mark-bingener-20230920e-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos14-snf04-tcf-ub-poster-092023-final-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos15-ssdels-as-tool-for-mitigating-del-binding-v2-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos16-uncle-dsf-assay-dev-biophysics-jf-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos17-2023-edrd-poster-htms-final-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos18-ratul-tcf-poster-final-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos19-global-proteomics-jaipalreddy-panga-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos2-bli-poster-mg-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos20-sanchez-morgado-techdev-lyaste-final-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos21-dsf-assay-development-biophysics-jf-resizing-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos22-ligandabilitystatusposter-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos3-chemicalspaceposter-researchday-tkennedy-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos4-cl-research-day-2023-final-poster-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos5-crispr-poster-2-sst-dv-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos6-delml-poster---ec-hg-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos7-srk-development-of-high-throughput-cellular-degradation-assays-to-enable-direct-to-biology-workflows-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos8-dpcr-poster-2023-ia-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-sent-to-printer-santos9-isp-poster-sh-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-snf04-tcf-ub-poster-092023-final-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-srk-development-of-high-throughput-cellular-degradation-assays-to-enable-direct-to-biology-workflows-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-srkold-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-ssdels-as-tool-for-mitigating-del-binding-v2-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-deposit-uncle-dsf-assay-dev-biophysics-jf-pdf
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-template-examples-aacr-2023-nx-5948-poster-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-template-examples-nurix-poster-hy-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-template-examples-poster-template-optional-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-poster-template-examples-poster-template-optional-v2-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-rapid-fire-presentations-deposit-1ed-edrd-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-rapid-fire-presentations-deposit-early-discovery-research---targeted-proteomics-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-rapid-fire-presentations-deposit-early-discovery-research-day-20230920-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-rapid-fire-presentations-deposit-edrd-2023-ml-automation-and-infrastructure-at-the-nurix-scale-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-rapid-fire-presentations-deposit-intein-presentation-for-edrd-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-rapid-fire-presentations-deposit-ji-research-day-2023-tcf-ub-pptx
+- [x] sharepoint_protein-science-documents-early-discovery-research-day-2023-rapid-fire-presentations-deposit-small-angle-x-ray-scattering-saxs-in-ternary-complex-guided-ctm-design-edrd-2023-09-20-pptx
+
+### Internal seed projects — DEL triage monthly umbrella meetings  (5)
+
+- [x] sharepoint_protein-science-documents-internal-seed-projects-monthly-umbrella-meetings-20240117-del-triage-internal-project-meeting-pptx
+- [x] sharepoint_protein-science-documents-internal-seed-projects-monthly-umbrella-meetings-20240221-del-triage-internal-project-meeting-pptx
+- [x] sharepoint_protein-science-documents-internal-seed-projects-monthly-umbrella-meetings-20240320-del-triage-internal-project-meeting-pptx
+- [x] sharepoint_protein-science-documents-internal-seed-projects-monthly-umbrella-meetings-20240417-del-triage-internal-project-meeting-pptx
+- [x] sharepoint_protein-science-documents-internal-seed-projects-monthly-umbrella-meetings-20240515-del-triage-internal-project-meeting-pptx
+
+### Ligandability assay meetings  (4)
+
+- [x] sharepoint_protein-science-documents-ligandability-assay-03092023-lucid-chard-ligandability-leadid-mod-pdf
+- [x] sharepoint_protein-science-documents-ligandability-assay-ligandability---early-discovery-meeting-04062023-pptx
+- [x] sharepoint_protein-science-documents-ligandability-assay-meetings-03102023-03102023-ligandability-team-meeting-pptx
+- [x] sharepoint_protein-science-documents-ligandability-assay-meetings-03222023-03222023-ligandability-team-meeting-pptx
+
+### External presentations — 2021 Keystone TPD review  (1)
+
+- [x] sharepoint_protein-science-documents-external-presentations-2021-keystone-targeted-protein-degradation-keystone-review-kl-pptx
+
+### Loka ML 2024-09-09 PS bulk-info handoff  (1)
+
+- [x] sharepoint_protein-science-documents-loka-ml-20240909-bulk-info-for-ps-xlsx
+
+---
+
 ## OneDrive — pending laptop-side triage
 
 **Why this section exists.** The Cowork session that maintains this queue lives on a Linux container that cannot see Mateo's local OneDrive sync — the OneDrive manifest entries land in `ask_jojo_raw/manifest.json` on the laptop, not in this checked-in copy. Until OneDrive entries either (a) get committed back to the repo or (b) get surveyed and pasted into this file, the OneDrive section is structural placeholder, not real batches.
