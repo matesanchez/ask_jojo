@@ -1991,815 +1991,815 @@ A 2025 DEL-PS goals draft explicitly stamped `-old`. The current `del-ps-goals-2
 
 Cross-team Standard Operating Procedures for protein-production workflows. High-priority absorb cluster — anchors `methods/` pages for the major SOP families (purification, expression, QC, instrumentation). Sample broadly; absorb into 5-10 method pages.
 
-- [ ] onedrive_protein-chemistry-protein-sciences-sops--exonuclease-sop-protein-purification-exo-necc-n21569-001a-20230914-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops--exonuclease-sop-protein-purification-exo-necc-n21569-001a-20230914-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-20211130-necc-n257-3b-buffer-stability-tycho-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-20211130-necc-n257-3b-buffer-stability-tycho-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1---necc-n00689-1a-20220523-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1---necc-n00689-1a-20220523-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1---necc-n00835-1a-necc-n00836-1a-20220719-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1---necc-n00835-1a-necc-n00836-1a-20220719-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-n-zalpha-zbeta-2-366-necc-n00257-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-n-zalpha-zbeta-2-366-necc-n00257-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-rbd3-708-801-necc-n00208-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-rbd3-708-801-necc-n00208-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00209-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00209-1b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00209-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00209-2a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00210-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00210-2a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00252-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00252-1b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00578-1a-n00582-1a-20211005-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00578-1a-n00582-1a-20211005-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-133-209-necc-n00210-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-133-209-necc-n00210-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-zbeta-133-366-necc-n00252-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-zbeta-133-366-necc-n00252-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-zbeta-rbd1-rbd2-rbd3-necc-n00261-6a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-zbeta-rbd1-rbd2-rbd3-necc-n00261-6a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zbeta-288-366-necc-n00209-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zbeta-288-366-necc-n00209-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zbeta-rbd1-necc-n00259-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zbeta-rbd1-necc-n00259-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar2-catalytic-nbvc-n00209-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar2-catalytic-nbvc-n00209-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar2-fl---nbvc-n00329-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar2-fl---nbvc-n00329-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-nur77-nurr1-lbd-necc-n00443-2b-n00450-2b-20210908-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-nur77-nurr1-lbd-necc-n00443-2b-n00450-2b-20210908-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00694-1a-necc-n00695-1a-necc-n00696-1a-20220405-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00694-1a-necc-n00695-1a-necc-n00696-1a-20220405-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00807-1a-20220523-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00807-1a-20220523-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00807-3a-20220615-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00807-3a-20220615-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1-n-term-z-alpha-z-beta---necc-n00257-20210927-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1-n-term-z-alpha-z-beta---necc-n00257-2a-20210927-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1-n-term-z-alpha-z-beta-c125s-c304s---necc-n00688-1a-necc-n00698-1a-20220118-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1-n-term-z-alpha-z-beta-c125s-c304s---necc-n00688-1a-necc-n00698-1a-20220118-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00257-3b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00257-3b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00257-3c-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00257-3c-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adk-sop-necc-n21605-001c-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adk-sop-protein-purification-adk-1-362-necc-n21603-001a-20231122-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-adk-sop-protein-purification-adk-1-362-necc-n21603-001a-20231122-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-pdpk1-sop-protein-purification-pdpk1-nbvc-n21092-001a-0231215-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-pdpk1-sop-protein-purification-pdpk1-nbvc-n21092-001a-0231215-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-pdpk1-sop-protein-purification-pdpk1-nbvc-n21092-002a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-pdpk1-sop-protein-purification-pdpk1-nbvc-n21092-002a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt-nbvc-n21121-001a-nbvc-n21130-001a-20240708-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt-nbvc-n21121-001a-nbvc-n21130-001a-20240708-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt-nbvc-n21160-001a-20240528-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt-nbvc-n21160-001a-20240528-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt1-nbvc-n21149-001a-20240221-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt1-nbvc-n21149-001a-20240221-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt1-necc-n21608-001a-and-necc-n21609-001a-20231127-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt1-necc-n21608-001a-and-necc-n21609-001a-20231127-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-alk-12aug2024-alk-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-alk-26jul2024-yoph-necc-n21810-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-alk-sop-protein-purification-alk-nbvc-n21201-n21202-n21204-10012024-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-alk-sop-protein-purification-alk-nbvc-n21201-n21202-n21204-10012024-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21161-001a-sop-protein-purification-arid-necc-n21161-001a-20240417-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21161-001a-sop-protein-purification-arid-necc-n21161-001a-20240417-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21162-001a-sop-protein-purification-arid1b-necc-n21162-001a-20240816-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21162-001a-sop-protein-purification-arid1b-necc-n21162-001a-20240816-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21188-001a-sop-protein-purification-arid-nbvc-n21188-001a-20240531-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21188-001a-sop-protein-purification-arid-nbvc-n21188-001a-20240531-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21195-001a-sop-protein-purification-arid1a-nbvc-n21195-001a-20250122-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21702-001a-sop-protein-purification-arid-necc-n21702-001a-20240408-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21702-001a-sop-protein-purification-arid-necc-n21702-001a-20240408-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21705-001a-sop-protein-purification-arid-necc-n21705-001a-20240329-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21705-001a-sop-protein-purification-arid-necc-n21705-001a-20240329-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21804-001a-sop-protein-purification-arid-necc-n21804-001a-20240610-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21804-001a-sop-protein-purification-arid-necc-n21804-001a-20240610-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21886-001a-sop-protein-purification-arid1b-necc-n21886-001a-necc-n21888-001a-20250130-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21886-002a-sop-protein-purification-arid1b-necc-n21886-002a-022425-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-aurora-c290ac393a--necc-n00555-1a-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-aurora-c290ac393a--necc-n00643-1a-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-aurora-c290ac393ak399c--necc-n00714-1a-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-aurora-c290ac393ak399c--necc-n00714-1b-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-nbvc-n20676-1a-aurfl-n20676-1b-anx-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-nbvc-n20676-1c-aurora-fl-anx-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-nbvc-n20844-1a-aurora-fl-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-nbvc-n20844-1b-aurora-fl-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-2b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-2b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-6a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-6a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000132-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000132-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000133-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000133-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000145-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000145-4a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000145-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000145-5a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-0-preparing-competent-dh10embacy-cells-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-0-preparing-competent-dh10embacy-cells-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-1-dh10em-bacy-transformation-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-1-dh10em-bacy-transformation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-2-bacmid-prep-qc-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-2-bacmid-prep-qc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-3a-p0-virus-generation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-3b-p0-qc-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-3b-p0-qc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-3c-p0-p1-titer-plate-volumes-calculator-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-4-p1-p2-virus-generation-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-4-p1-p2-virus-generation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-5a-baculovirus-titering-assay-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-5a-baculovirus-titering-assay-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-5b-viral-titer-calculations-template-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-6a-insect-cell-expression-48hr-72hr-harvesting-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-6a-insect-cell-expression-48hr-72hr-harvesting-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-6b-insect-cell-expression-via-tips-method-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-6b-insect-cell-expression-via-tips-method-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-7-disinfecting-and-autoclaving-flasks-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-7-disinfecting-and-autoclaving-flasks-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-additional-western-blot-protocols-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-bacloxp-baculovirus-expression-system-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-bacmidpcr-bactobac-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-bactobac-topo-exp-system-man-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-click-it-metabolic-labeling-reagents-for-proteins-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-corning-recommended-media-volumes-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-e-gel-technical-guide-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-expisfexpressionsystem-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-invitrogen-guide-to-bevs-and-insect-cell-culture-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-multibac-manual-v8-4-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-multibac-manual-v8-5-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-multibac-short-description-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-attune-attune-user-guide-03-35-21-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-bacmid-pcr-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-bacmid-pcr-protocol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-bacmidpcr-bactobac-protocol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-multibac-pcr-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-multibac-pcr-protocol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-naomi-bv-school-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-naomi-p2-titers-naomi-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-5-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-6-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-schedule-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-schedule-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-stacy-bacmid-qc-stacy-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-stacy-p2-titers-stacy-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-telma-bacmid-qc-tj-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-telma-p0-qc-tj-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-telma-p2-titers-telma-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-p0-qc-protocol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-cho-transfection-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-electroporation-btx-ecm-630-quick-start-guide-0818-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-electroporation-btx-introduction-to-electroporation-and-electrofusion-20201119-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-electroporation-electroporation-optimization-guide-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-electroporation-manual-ecm-630-exponential-decay-wave-electroporator-system-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-lysing-mammalian-cells-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-lysing-mammalian-cells-protocol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-freestyle-max-293-expsys-man-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-man0007924-freestyle-293-f-cells-ug-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-man0011378-mper-mammal-protein-extract-reag-ug-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-optimized-transfection-protocol-for-expi293f-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-purelink-hipure-plasmid-filter-purification-man-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-small-scale-purification-protocols-purespeed-10-l-bv-ni-imac-or-gst-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-small-scale-purification-protocols-purespeed-10-l-bv-ni-imac-or-gst-protocol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-small-scale-purification-protocols-smscpur-slurry-flag-tag-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-sop-beadblaster-homogenizer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-sop-example-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-supplement-recipes-50mm-d-biotin-recipe-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-supplement-recipes-50mm-d-biotin-recipe-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-supplement-recipes-coomassie-stain-recipe-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-supplement-recipes-coomassie-stain-recipe-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-tips-tips-baculovirus-storage-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-tips-tips-titerless-infected-cells-preservation-and-scale-up-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-tips-tips-wasilko-d-j-et-al-pfizer-global-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-western-blot-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-western-blot-protocol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-bcl2-for-biortus-sop-necc-n21598-001a-bcl2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-bcl2-necc-n21599-06nov2023-necc-n21599-001a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-bcl2-necc-n21599-06nov2023-necc-n21599-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-biortus-nurix-purification-protocol-for-streptactin-xt-4flow-affinity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-brca1-13mar2023-brca1-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-brca1-16mar2023-necc-n21355-n21395-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-brca1-24mar2023-necc-n21355-n21395-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-bril-sop-protein-purification-bril-necc-n21843-001a-20240926-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-bril-sop-protein-purification-bril-necc-n21843-001a-20240926-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-110722-largescalepurification-n20865-20866-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-expression-6h-tev-btk-382-658-a428d-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-expression-6h-tev-btk-382-658-a428d-elsigned-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-expression-6h-tev-btk-382-658-a428d-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-purification-6h-tev-btk-382-658-a428d-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-purification-6h-tev-btk-382-658-a428d-elsigned-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-purification-6h-tev-btk-382-658-a428d-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-nbvc-n20866-002a-sop-protein-purification-btk-nbvc-n220866-002a-20241126-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-nbvc-n20866-002a-sop-protein-purification-btk-nbvc-n220866-002a-20241126-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btk-sop-protein-purification-btk-kd-nbvc-n20865-n20866-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btrcp-skp1-sop-protein-purification-btrcp-skp1---necc-n00502-1a---20210524-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btrcp-skp1-sop-protein-purification-btrcp-skp1---necc-n00502-1a---20210524-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btrcp-sop-protein-purification-btrcp-skp1---necc-n00502-1a---20210524-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-btrcp-sop-protein-purification-btrcp-skp1--necc-n00266-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cbl-b-sop-protein-purification-cbl-b-closed-necc-n21469-005a-20230825-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cbl-b-sop-protein-purification-cbl-b-closed-necc-n21469-005a-20230825-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cbl-b-sop-protein-purification-cbl-b-open-necc-n21469-007a-20231013-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cbl-b-sop-protein-purification-cbl-b-open-necc-n21469-007a-20231013-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccbl-sop-protein-purification-ccbl-necc-n20047-001a-20230717-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccbl-sop-protein-purification-ccbl-necc-n20047-001a-20230717-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccl5-21mar2025-necc-n21850-ccl5-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccnf-27september2023-nbvc-n20920-6h-mbp-tev-avi-pre-ccnf-77-786-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccnf-6february2024-purification-of-nbvc-n20918-6h-mbp-tev-avi-pre-ccnf-77-544-tevcleavembp-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccnf-nbvc-n20918-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccnf-sop-protein-purification-ccnf-nbvc-n20918-001a-20230801-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccnf-sop-protein-purification-ccnf-nbvc-n20918-001a-20230801-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccr9-sop-expression-ha-flag-ccr9-25-340-t34e-t77a-v79a-m82a-s141c-t216a-v255a-n294a-t304a-c337a--avi-10h-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ccr9-sop-protein-purification-ha-flag-ccr9-25-340-t34e-t77a-v79a-m82a-s141c-t216a-v255a-n294a-t304a-c337a--avi-10h-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdc20-20february2024-nbvc-n21070-strepiitagpurificationprotocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-in-vitro-phosphorylation-cdk12-cyck1-ncmp-n20046-002a-20231016-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-in-vitro-phosphorylation-cdk12-cyck1-ncmp-n20046-002a-20231016-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-001a-nbvc-n20894-001a-20230320-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-001a-nbvc-n20894-001a-20230320-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-002a-20230615-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-002a-20230615-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-003a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-003a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-necc-n21258-001a-20220922-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-necc-n21258-001a-20220922-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n00585-nbvc-n00618-20220711-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n00585-nbvc-n00618-20220711-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n20725-002a-20221014-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n20725-002a-20221014-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n20725-20221214-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n20725-20221214-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20035-001a-001b-20230207-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20035-001a-001b-20230207-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20042-001a-20230425-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20042-001a-20230425-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20046-001a-20230503-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20046-001a-20230503-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20046-002a-20231030-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20046-002a-20231030-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk13-cyck1-cak1-nbvc-n20863-012a-20230214-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk13-cyck1-cak1-nbvc-n20863-012a-20230214-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk13-cyck1-nbvc-n00627-1a-20220708-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk13-cyck1-nbvc-n00627-1a-20220708-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyck1-nbvc-n00625-1b-20220713-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyck1-nbvc-n00625-1b-20220713-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyck1-ncmp-n20032-2a-20230410-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyck1-ncmp-n20032-2a-20230410-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyct1-nbvc-n00614-nbvc-n00611-20220422-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyct1-nbvc-n00614-nbvc-n00611-20220422-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyct1-ncmp-n20037-001a-cyct1-nbvc-n20858-001a-20230221-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyct1-ncmp-n20037-001a-cyct1-nbvc-n20858-001a-20230221-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-in-vitro-phosphorylation-cdk12-cyck1-ncmp-n20035-001c-20230420-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-in-vitro-phosphorylation-cdk12-cyck1-ncmp-n20035-001c-20230420-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-in-vitro-phosphorylation-cdk13-cyck1-ncmp-n20039-001b-20230503-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-in-vitro-phosphorylation-cdk13-cyck1-ncmp-n20039-001c-20230503-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk2-sop-protein-purification-cdk2-necc-n21422-001a-20230509-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk2-sop-protein-purification-cdk2-necc-n21422-001a-20230509-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk2-sop-protein-purification-cdk2-necc-n21422-002a-20230530-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cdk2-sop-protein-purification-cdk2-necc-n21422-002a-20230530-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-chromogenic-lal-endotoxin-assay-kit-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-cish---necc-n00352-20210728-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-cish---necc-n00352-20210728-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-cish---necc-n00808-1b-1c-ncmp-n20025-001a-001b-20220803-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-cish---necc-n00808-2a-20220803-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-socs2---necc-n00637-1a-20220329-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-socs2---necc-n00637-1a-20220329-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro---necc-n00493-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro---necc-n00493-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro-1-304-necc-n00291-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro-1-304-necc-n00291-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro-biotinylated---necc-n00493-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro-biotinylated---necc-n00493-2a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-127-necc-n00288-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-127-necc-n00288-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-127-necc-n00435-20210228-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-127-necc-n00435-20210228-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-180-necc-n00294-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-180-necc-n00294-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-180-necc-n00432-20210228-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-180-necc-n00432-20210228-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-1565-1878-c111s-necc-n00346-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-1565-1878-c111s-necc-n00346-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-1565-1878-necc-n00273-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-1565-1878-necc-n00273-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-4a-20210324-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-4a-20210324-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-4f-20210412-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-4f-20210412-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-5a-n00268-3a-20210421-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-5a-n00268-3a-20210421-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00346-1b-20210528-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00346-1b-20210528-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-sars-cov-nsp1-xtal-20210104-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-sars-cov-nsp1-xtal-20210104-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-20251112-raf1-nbvc-n20391-expression-sop-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-large-scale-purification-n365-1a-022321-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-2-msg-el-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-el-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-final-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-purification-sop-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-purification-sop-el-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-purification-sop-final-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-purification-sop-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-expression-gst-c-raf-kd-306-648-y340d-y341d-n365-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-14-3-3-zeta-epsilon-n338-1a-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-14-3-3-zeta-epsilon-n338-1a-2a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-14-3-3-zeta-epsilon-n343-1a-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-14-3-3-zeta-epsilon-n343-1a-2a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-b-raf-kd-432-726-n174-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-b-raf-kd-432-726-n174-1b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-b-raf-n--structural-domain-1-372-n247-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-b-raf-n--structural-domain-1-372-n247-3a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-1b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n236-n238-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n236-n238-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n365-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-raf1-protein-purification-nbvc-n20390-n20391-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-20210920-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-ikaros-necc-n21284-20221005-necc-n21284-buffer-table-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-ikaros-necc-n21284-20221005-results-necc-n21284-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-ikaros-necc-n21284-20221005-results-necc-n21284-1a-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-ikaros-necc-n21284-20221005-sop-necc-n21284-001a-ikaros-purif-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-20221219-nbvc-n00005-nbvc-n00025-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-20221219-results-nbvc-n00025-nbvc-n00005-6c-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-20221219-sop-nbvc-n00005-nbvc-n00025-purif-crbn-ddb1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-for-biortus-sop-6h-tev-crbn-1-442-ddb1-1-1140-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-for-biortus-sop-6h-tev-crbn-1-442-ddb1-1-1140-final-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-for-biortus-sop-6h-tev-crbn-1-442-ddb1-1-1140-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-for-biortus-sop-6h-tev-crbn-1-442-ddb1-1-1140-signed-el-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00349-n00351-20211101-nbvc-n00349-nbvc-n00351-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00349-n00351-20211101-results-nbvc-n00349-nbvc-n00351-3b-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00349-n00351-20211101-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00359-n00360-20210614-necc-n00359-necc-n00360-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00359-n00360-20210614-results-necc-n359-n360-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00359-n00360-20210614-sop-necc-n00359-n00360-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00556-20210803-necc-n00556-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00556-20210803-results-necc-n556-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00556-20210803-sop-necc-n00556-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-expression-6h-tev-crbn-1-442-ddb1-1-1140-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-5a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-6b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-6b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-juliesheung-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-juliesheung-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nbvc-n20909-20240325-nbvc-n20909-proteinpurification-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nbvc-n20909-20240325-nbvc-n20909-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nbvc-n20909-20240325-results-nbvc-n20909-001a-002a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nmac-n20088-n20099-20230204-nmac-n20088-n20089-dcaf1-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nmac-n20088-n20099-20230204-nmac-n20088-n20099-dcaf1-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nmac-n20088-n20099-20230206-results-nmac-n20088-n20089-dcaf1-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ddb1-18sep2023-sop-nbvc-n20810-ddb1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ddb1-nbvc-n00007-20220404-nbvc-n00007-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ddb1-nbvc-n00007-20220404-results-nbvc-n00007-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ddb1-nbvc-n00007-20220404-sop-nbvc-n00007-ddb1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21479-002c-xtal-sop-protein-purification-dnajb1-prkaca-necc-n21749-002a-20240916-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21479-002c-xtal-sop-protein-purification-dnajb1-prkaca-necc-n21749-002a-20240916-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-expression-myristoylated-prkaca-necc-n21842-20240829-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-expression-myristoylated-prkaca-necc-n21842-20240829-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-purification-dnajb1-prkaca-necc-n21837-n21838-n21839-n21840-n21841-n21842-001a-20240808-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-purification-dnajb1-prkaca-necc-n21837-n21838-n21839-n21840-n21841-n21842-001a-20240808-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-purification-dnajb1-prkaca-necc-n21837-n21842-002b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-purification-dnajb1-prkaca-necc-n21842-002b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-sop-necc-n21476-dnajb1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-sop-necc-n21477-prkaca-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-sop-necc-n21478-prkaca-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-sop-necc-n21479-dnajb1prkaca-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ephx2-sop-nbvc-n00636-n20776-6h-tev-avi-pre-ephx2-2-255-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ephx2-sop-nbvc-n20776-6h-tev-avi-pre-ephx2-2-555-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ews-fli1-20260122-necc-n21825-001a-nurix-qc-report-kl-el-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ews-fli1-ews-fli1-necc-n21825-dna-sequence-sop-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ews-fli1-ews-fli1-necc-n21825-dna-sequence-sop-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fbxo2-11july2023-necc-n21454-n21455-001a-purif-sop-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fbxo2-28mar2023-necc-n213553-n21354-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fbxo22-sop-protein-purification-fbxo22-ncmp-n210059-001a-20240304-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fbxo22-sop-protein-purification-fbxo22-ncmp-n210059-001a-20240304-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fbxo45-sop-protein-purification-fbxo45-nbvc-n21055-001a-ncmp-n20058-001a-20240301-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fbxo45-sop-protein-purification-fbxo45-nbvc-n21055-001a-ncmp-n20058-001a-20240301-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1a-sop-fem1a-1-456-and-fem1c-1-403-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1a-sop-fem1a-necc-n21457-001a-102423-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1a-sop-protein-purification-fem1a-nbvc-n20990-001a-20230915-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1a-sop-protein-purification-fem1a-nbvc-n20990-001a-20230915-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1b-necc-n00802-20220811-necc-n00802-1b-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1b-necc-n00802-20220811-results-necc-n00802-1b-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1b-necc-n00802-20220812-necc-n00802-1b-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1b-sop-necc-n00827-1a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1b-sop-necc-n21205-1b-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1b-sop-protein-purification-fem1b-and-fem1c-nbvc-n20992-001a-and-nbvc-n20991-001a-20230926-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1b-sop-protein-purification-fem1b-and-fem1c-nbvc-n20992-001a-and-nbvc-n20991-001a-20230926-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1c-sop-fem1a-1-456-and-fem1c-1-403-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1c-sop-protein-purification-fem1b-and-fem1c-nbvc-n20992-001a-and-nbvc-n20991-001a-20230926-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fem1c-sop-protein-purification-fem1b-and-fem1c-nbvc-n20992-001a-and-nbvc-n20991-001a-20230926-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fkbp12-sop-protein-purification-fkbp12-necc-n21855-001a-20250106-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fzr1-fzr1-nbvc-n21320-expression-sop-final-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fzr1-fzr1-nbvc-n21320-purification-sop-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fzr1-fzr1-nbvc-n21320-purification-sop-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fzr1-fzr1-nbvc-n21320-purification-sop-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-fzr1-sop-expression-strepii-tev-fzr1-172-474--msg-1-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gid4-20231102-sop-necc-n20578-001-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gid4-necc-n00573-n00577-20210907-necc-n00573-n000577-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gid4-necc-n00573-n00577-20210907-sop-necc-n00573-n00577-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gid4-necc-n00573-n00577-20210908-results-necc-n573-n577-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21216-002a-20241021-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21216-002a-20241021-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21218-001a-20240930-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21218-001a-20240930-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21218-003a-20241118-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21218-003a-20241118-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21221-001a-20241004-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21221-001a-20241004-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21248-001a-20250207-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21248-001a-20250207-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21251-001a-nbvc-n21253-001a-20250108-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21251-001a-nbvc-n21253-001a-20250108-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21253-002a-20250220-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21253-002a-20250220-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-grwd1-13september2023-nbvc-n20994-6h-tev-grwd1-50-446-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-grwd1-20june2022-nbvc-n00406-6h-tev-grwd1-1-446-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n000102-5b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n000102-5b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00085-2b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00085-2b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00086-5c-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00086-5c-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00092-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00092-3a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00096-4b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00096-4b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00098-3g-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00098-3g-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00163-3b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00163-3b-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00164-1c-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00164-1c-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00165-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00165-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00247-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00247-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-iap-sop-6h-tev-ciap1-260-352--avi-necc-n0006-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-iap-sop-6h-tev-ciap2-243-337--avi-necc-n00008-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-iap-sop-6h-tev-xiap-241-356--avi-necc-n00011-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-idp-purification-draft---sonication-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irak4-sop-protein-purification-irak4-kd-160-460-1-127-necc-n00037-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irak4-sop-protein-purification-irak4-kd-160-460-1-127-necc-n00037-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf3-03jun2025-necc-n21983-irf3-dbd-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf3-09jun2025-necc-n21983-irf3-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-for-genscript-sop-nbvc-n20392-irf5-fl-monomer-purification-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-for-genscript-sop-nbvc-n20392-irf5-fl-monomer-purification-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-for-genscript-sop-nbvc-n20392-irf5-fl-monomer-purification-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-for-genscript-sop-purification-of-snf05-fl-wt-protein-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20210831-nbvc-n00366-7a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20210831-nbvc-n00366-7a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20210831-results-nbvc-n00366-7a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20jun2024-irf5-fl-dimer-in-vitro-phos-nbvc-n20392-008a-008b-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20jun2024-irf5-fl-dimer-in-vitro-phos-secmals-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-for-sanofi-in-vitro-phosphorylation-sop-nurix-invitrophosphorylation-snf05-fl-dimer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-sop-nbvc-n00366-8a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00368-20210525-nbvc-n00368-2a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00368-20210525-nbvc-n00368-3a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00368-20210526-nbvc-n00368-3a-proteinpurification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00368-sop-nbvc-n00368-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00383-20220627-nbvc-n00383-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00383-20220627-nbvc-n00383-1a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00383-20220627-results-nbvc-n00383-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00384-20210719-nbvc-n00384-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00384-20210719-nbvc-n00384-1a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00384-20210719-results-nbvc-n00384-1a-purification---copy-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00384-sop-nbvc-n00384-6a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00504-28mar2022-nbvc-n00504-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00504-28mar2022-nbvc-n00504-1a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00504-28mar2022-nbvc-n00504-1a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00451-07feb2022-necc-n00451-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00451-07feb2022-necc-n00451-1a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00453-20211004-necc-n00453-5a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00453-20211004-necc-n00453-5a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00453-20211004-results-necc-n00453-5a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00687-21jan2022-necc-n00687-1a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00687-24jan2022-necc-n00687-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00687-24jan2022-necc-n00687-1a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21317-dbd-xtal-20230227-necc-n21317-002a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21317-dbd-xtal-20230227-necc-n21317-002a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21317-dbd-xtal-20230227-results-necc-n21317-002a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21647-n21648-dbd-dbd-rd-20240129-necc-n21647-n21648-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21647-n21648-dbd-dbd-rd-20240129-necc-n21647-n21648-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21647-n21648-dbd-dbd-rd-20240129-results-necc-n21647-n21648-002a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-11sep2023-sec-mals-n20106-n20107-dc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-19sep2023-nmac-n20106-n20107-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-20211130-purification-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-20231206-nmac-n20106-n20107-003a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-20231206-nmac-n20106-n20107-003a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-20231206-results-nmac-n20106-n20107-003a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n24-n25-n26-n27-20211130-nmac-n00026-1a-nmac-n00027-1a-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n24-n25-n26-n27-20211130-nmac-n00026-nmac-n00027-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n24-n25-n26-n27-20211202-results-nmac-n00026-1a-nmac-n00027-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n24-n25-n26-n27-sop-nmac-n24-n25-n26-n27-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-protein-expression-irf5-fl-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-protein-expression-irf5-tad-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-protein-purification-irf5-fl-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-protein-purification-irf5-tad-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf7-23jun2025-necc-n21987-irf7-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf7-23jun2025-necc-n21987-irf7-dbd-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf7-27jun2025-necc-n21989-irf7-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-irf7-27jun2025-necc-n21989-irf7-dbd-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-itk-sop-nbvc-n00012-8a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-itk-sop-nbvc-n00012-8a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kcmf1-sop-protein-purification-kcmf1-necc-n21531-001a-20231023-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kcmf1-sop-protein-purification-kcmf1-necc-n21531-001a-20231023-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kcmf1-sop-protein-purification-kcmf1-necc-n21531-001b-20231122-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kcmf1-sop-protein-purification-kcmf1-necc-n21531-001b-20231122-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc1-16october2023-nbvc-n21035-klhdc1-1-406--tev-avi-6h-elonbelonc-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-24may2023-nbvc-n20689-klhdc2-1-362--tev-6h-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-gst-pre-6h-klhdc2-1-406-elonb-1-118-elonc-1-112-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-klhdc2-1-362--tev-6h-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-gst-pre-6h-klhdc2-1-406-elonb-1-118-elonc-1-112-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-gst-pre-6h-klhdc2-1-406-elonb-1-118-elonc-1-112-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-gst-pre-6h-klhdc2-1-406-elonb-1-118-elonc-1-112-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-klhdc2-1-362--tev-6h-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-klhdc2-1-362--tev-6h-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-klhdc2-1-362--tev-6h-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-nbvc-n20960-ncmp-n20048-20230613-n20960-001b-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-nbvc-n20960-ncmp-n20048-20230613-nbvc-n20960-001b-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-nbvc-n20960-ncmp-n20048-20230613-ncmp-n20048-001b-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhdc3-28nov2023-nbvc-n21036andnbvc-n20699-6h-tev-klhdc3-2-371-elonb-1-104-elonc-17-112-purificationprotocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl2-19april2023-necc-n21362-n21363-klhl2-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl20-24jan2024-necc-n21495-21496-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl3-15feb2023-necc-n21373-74-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-20230410-klhl6-necc-n21378-n21381-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-20230410-klhl6-necc-n21378-n21381-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-20230410-klhl6-necc-n21378-n21381-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-nbvc-n21044-001a-sop-protein-purification-klhl6-nbvc-21044-001a-20240412-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-nbvc-n21044-001a-sop-protein-purification-klhl6-nbvc-21044-001a-20240412-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-nbvc-n21190-001a-sop-protein-purification-klhl6-nbvc-n21190-20240515-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-nbvc-n21190-001a-sop-protein-purification-klhl6-nbvc-n21190-20240515-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-necc-n21378-necc-n21381-20230410-klhl6-necc-n21378-n21381-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-necc-n21378-necc-n21381-20230410-klhl6-necc-n21378-n21381-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-klhl6-necc-n21378-necc-n21381-20230410-klhl6-necc-n21378-n21381-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12c-cys-light-necc-n00198-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12c-cys-light-necc-n00198-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12c-cys-light-necc-n00278-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12c-cys-light-necc-n00278-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12d-necc-n00050-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12d-necc-n00050-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12d-necc-n00172-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12d-necc-n00172-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-necc-n00048-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-necc-n00048-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-g12c-necc-n00302-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-g12c-necc-n00302-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-g12d-necc-n00303-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-g12d-necc-n00303-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-necc-n00279-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-necc-n00279-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-lab-services-recipes-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-lrr1-ncmp-n20049-20230710-ncmp-n20049-001a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-lrr1-ncmp-n20049-20230710-ncmp-n20049-001a-purification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-lrr1-ncmp-n20049-20230710-ncmp-n20049-001a-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-maged4-16may2023-necc-n21213-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-maged4-18may2023-necc-n21213-001a-purif-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mbp-sop-protein-purification-mbp-nbvc-n21087-001a-20240125-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mbp-sop-protein-purification-mbp-nbvc-n21087-001a-20240125-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mbp-sop-protein-purification-mbp-necc-n21863-001a-20240930-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-10july2024-necc-n21816-001-max1-1-160--6h-bavi-h28a-e32a-r33a-r35a-r36a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-20231122-n20105-dsf-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-20nov2023-necc-n20105-001-proteinpurification-results-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-20nov2023-necc-n20105-001-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-fermentation-request-necc-n20105-n21816-june-19-2025-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-necc-n20105-max-buffertable-final-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-sop-necc-n20105-001a-and-b-sop-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-signed-and-scanned-pdfs-sop-protein-expression-necc-n21962-n21964-040725-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-signed-and-scanned-pdfs-sop-protein-purification-necc-n21962-n21964-040725-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-sop-protein-expression-necc-n21962-n21964-040725-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-sop-protein-expression-necc-n21962-n21964-040725-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-sop-protein-purification-necc-n21962-n21964-040725-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-sop-protein-purification-necc-n21962-n21964-040725-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-022025-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031225-final-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031725-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031725-final-el-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031725-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031725-signed-scanned-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-022025-el-edits-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-031725-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-031725-final-el-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-031725-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-031725-signed-scanned-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-updated-march17-6-pm-sop-protein-expression-necc-n21937-n21935-031725-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-updated-march17-6-pm-sop-protein-expression-necc-n21937-n21935-031725-final-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-updated-march17-6-pm-sop-protein-purification-necc-n21937-n21935-031725-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-updated-march17-6-pm-sop-protein-purification-necc-n21937-n21935-031725-final-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-protein-purification-necc-n21473-005a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-protein-purification-necc-n21473-005a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nras-sop-protein-purification-n20456-2a-b-feb19-21-2025-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nras-sop-protein-purification-n20456-3a-april-20-2025-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nras-sop-protein-purification-n21665-andn21666-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-lbd-c551s-necc-n21219-001a-20221027-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-lbd-c551s-necc-n21219-001a-20221027-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-lbd-necc-n20464-001a-20230509-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-lbd-necc-n20464-001a-20230509-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21206-001a-20240220-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21206-001a-20240220-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21209-1a-1b-20221018-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21209-1a-1b-20221018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21211-1a-n21208-1a-20220817-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21211-1a-n21208-1a-20220817-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a3-lbd-necc-n21338-001a-20230509-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a3-lbd-necc-n21338-001a-20230509-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00442-1a-20220104-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00442-1a-20220104-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00443-1a-1b-20210228-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00443-1a-1b-20210228-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00443-2c-20211217-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00443-2c-20211217-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n20465-1a-20221201-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n20465-1a-20221201-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-necc-n21170-001a-necc-n21171-001a-20220809-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-necc-n21170-001a-necc-n21171-001a-20220809-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-nurr1-lbd-necc-n00443-2b-n00450-2b-20210908-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-nurr1-lbd-necc-n00443-2b-n00450-2b-20210908-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-1a-20210228-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-1a-20210228-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-1c-20210630-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-1c-20210630-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-3a-3b-20220104-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-3a-3b-20220104-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pde6d-sop-protein-purification-pde6d-nbvc-n21754-001a-20240315-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pde6d-sop-protein-purification-pde6d-nbvc-n21754-001a-20240315-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pja2-08may2023-necc-n21359-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pja2-10may2023-necc-n21359-002a-purif-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pja2-10may2023-pja2-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla2-1-384-nbvc-n00193-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla2-1-384-nbvc-n00193-3a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla2-nbvc-n00051-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla2-nbvc-n00051-4a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-i148m-nbvc-n00071-6a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-i148m-nbvc-n00071-6a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-nbvc-n00060-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-nbvc-n00060-5a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-necc-n00284-286-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-necc-n00284-286-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-s47a-nbvc-n00072-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-s47a-nbvc-n00072-5a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ppil2-11january2023-necc-n21328-n21329-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ppil2-13dec2022-6h-tev-avi-pre-ppil2-274-458-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-protease-inhibitor-composition-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-protocol-agilent-csv-data-export-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-psmd14-ncmp-n20060-20240423-ncmp-n20060-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-psmd14-ncmp-n20060-20240423-ncmp-n20060-proteinpurification-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-psmd14-ncmp-n20060-20240423-results-psmd14-ncmp-n20060-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-psmd14-necc-n21752-20240429-buffertable-necc-n21752-001a-purif-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-psmd14-necc-n21752-20240429-protocol-necc-n21752-001a-purif-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-psmd14-necc-n21752-20240429-results-psmd14-necc-n21752-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-psmd2-sop-protein-purification-psmd2-necc-n21523-20231019-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-psmd2-sop-protein-purification-psmd2-necc-n21523-20231019-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-rfwd2-1nov2023-nbvc-n20644-6h-rfwd2-377-731-proteinpurificationforxtal-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-rnf10-nbvc-n20904-06oct2023-rnf10-nbvc-n20903-002a-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-rnf10-nbvc-n20904-20231002-rnf10-nbvc-n20904-002a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-rnf10-nbvc-n20904-20231002-rnf10-nbvc-n20904-002a-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-rnf10-nbvc-n20904-20231002-rnf10-nbvc-n20904-002a-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-rnf10-sop-necc-n21231-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-rnf114-sop-necc-n21249-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sec-cleaning-protocol-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00620-20220127-necc-n00619-620-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00620-20220131-results-necc-n00620-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00627-20220613-necc-n00627-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00627-20220613-necc-n00627-1a-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00627-20220613-results-necc-n00627-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop--necc-n00554-2a-smarca4-for-crystallography-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-brd4-necc-n00536-1b-del-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00533-1a-smarca2a-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00533-1b-smarca2a-20230521-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00536-1a-brd4-del-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00542-1a-smarc2a-for-crystallography-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-1a-smarca2b-del-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-1b-smarca2b-crystallography-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-2a-smarca2b-biochem-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-2b-smarca2b-crystal-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-smarca2b-1c-del1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00548-1a-pbrm1-del1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00554-1a-smarca4-biochemistry-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00554-3a-smarca4-for-biochemistry-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00657-3a-smarca4-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-asec-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-biortus-qc-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-dsf-sypro-orange-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-electrocompetent-dh10embacy-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-gigaprep-qiagen-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-gstmag-kingfisher-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-multibac-cloning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-necc-n00038-tev-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-ph-meter-calibration-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-sec-mals-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-staining-of-targets-for-flow-cytometry-including-surface-cytoplasmic-and-nuclear-proteins-in-96-well-plate-format-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-tycho-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-ultracentrifuge-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sop-western-blot-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-smscexpr-smscpur-20200409-sop-protein-expression-ecoli-bl21-stat5a-stat6-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-smscexpr-smscpur-20200416-smscexpr-n212-n215-n216-n253-n254-n255-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-smscexpr-smscpur-20200422-testexpr-bl21-necc-n212-n215-n216-n253-n254-n255-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-smscexpr-smscpur-20200522-smscpur-kingfisher-prsfduet-n212-n215-n216-n255-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00131-1c-1d-1e-monomer-dimer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00131-1c-1d-1e-monomer-dimer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00132-1a-monomer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00132-1a-monomer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00133-1a-monomer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00133-1a-monomer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00139-2b-monomer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00139-2b-monomer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00210-1a-dimer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00210-1a-dimer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00212-1a-dimer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00212-1a-dimer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00214-1a-dimer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00214-1a-dimer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00225-1a-dimer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00225-1a-dimer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00225-3a-dimer-xstal-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00225-3a-dimer-xstal-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00216-2a-monomer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00216-2a-monomer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00216-3a-monomer-xstal-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00216-3a-monomer-xstal-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00255-1b-monomer-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00255-1b-monomer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-protein-expression-ecoli-bl21-stat5a-stat6-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-protein-expression-ecoli-bl21-stat5a-stat6-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-protein-purification-stat6-core-123-631-necc-n00344-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-protein-purification-stat6-core-123-631-necc-n00344-1a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sts1-sop-03092022-sop-necc-n00715-1c-6h-tev-avi-pre-sts1-369-644-for-del-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sts1-sop-20220229-sop-necc-n00716-1a-6h-tev-avi-pre-sts2-393-657-for-del-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-sts1-sop-20220330-sop-necc-n00717-1a-bpgm-1-259--pre-avi-tev-6h-for-del-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet1-sop-protein-purification-tet1-nbvc-n20975-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet1-sop-protein-purification-tet1-nbvc-n20975-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---nbvc-n00285-1a-20210831-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---nbvc-n00285-1a-20210831-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---necc-n200855-1a-20230208-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---necc-n200855-1a-20230208-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---necc-n20374-002a-20230313-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---necc-n20374-002a-20230313-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic-xtal---necc-n00348-1a-1b-20210831-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic-xtal---necc-n00348-1a-1b-20210831-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-thermal-stability-in-solution-dsf-with-sypro-orage-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-traip-23jan2024-nbvc-n20923-001b-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-traip-23jun2023-nbvc-n20923-001a-purif-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-traip-24jan2024-nbvc-n20923-001b-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim21-14feb2023-necc-n21364-001a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim21-15feb2023-necc-n21364-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-necc-n21364-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-necc-n21368-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-necc-n21369-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-protein-purification-trim21-necc-n21365-002a-20231201-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-protein-purification-trim21-necc-n21365-002a-20231201-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim25-sop-protein-purification-trim25-nbvc-n20809-001a-20230622-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim25-sop-protein-purification-trim25-nbvc-n20809-001a-20230622-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim28-sop-protein-purification-trim28-necc-n21030-31-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim32-sop-protein-purification-trim32-nhl-necc-n21575-87-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim7-sop-necc-n21368-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-trim7-sop-necc-n21369-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-uba1-sop-nbvc-n20993-001a-purif-protocol---copy-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-uba1-sop-nbvc-n20993-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-uba1-ube1-4-18-16-protocol--e1-purification-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ubch5b-prep-020315-oldprotocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ube2d2-sop-necc-n21448-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ube3a-necc-n21185-001a-20221004-sop-necc-n21185-001a-6h-tev-gst-pre-ube3a-490-875-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ube3a-necc-n21185-001a-20221004-sop-necc-n21185-001a-6h-tev-gst-pre-ube3a-490-875-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ube3a-sop-necc-n00549-1a-ube3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ubr2-22august2023-nbvc-n20988-n20989-6h-tev-ubr2-2-439-6h-tev-ubr2-2-427-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-uhrf1-sop-protein-purification-uhrf1-necc-n21012-001a-and-necc-n21012-001b-and-necc-n21212-001a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-uhrf1-sop-protein-purification-uhrf1-necc-n21012-001a-and-necc-n21012-001b-and-necc-n21212-001a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-ulp1-eileenambing-ulp1-purification-eln-entry-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-vhl-expression-sop-sop-protein-expression-vhl-ncmp-n20011-006-10222024-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-vhl-expression-sop-sop-protein-expression-vhl-ncmp-n20011-006-10222024-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-vhl-for-biortus-sop-6h-thr-vhl1-54-215-elonb-1-104-elonc-17-112-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-vhl-for-biortus-sop-expression-6h-thr-vhl-54-215-elonb-1-104-elonc-17-112-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-vhl-for-biortus-sop-expression-6h-thr-vhl-54-215-elonb-1-104-elonc-17-112-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-vhl-for-biortus-sop-expression-6h-thr-vhl-54-215-elonb-1-104-elonc-17-112-signed-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-vhl-sop-necc-n00014-n00016-vhlelonbelonc-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-vhl-sop-necc-n00015-necc-n00041-vhlelonbelonc-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-wdr5-nbvc-n21038-001a-nbvc-n21040-001a-20231008-results-nbvc-n21038-nbvc-n21040-001a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-wdr5-nbvc-n21038-001a-nbvc-n21040-001a-20231009-nbvc-n21038-001a-nbvc-n21040-001a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-wdr5-nbvc-n21038-001a-nbvc-n21040-001a-20231009-nbvc-n21038-001a-nbvc-n21040-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-wdr5-necc-n21501-001a-necc-n21501-001b-sop-protein-purification-wdr5-necc-n21449-001a-and-necc-n21501-001a-and-necc-n21501-001b-20231004-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-wdr5-necc-n21501-001a-necc-n21501-001b-sop-protein-purification-wdr5-necc-n21449-001a-and-necc-n21501-001a-and-necc-n21501-001b-20231004-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-wdr5-necc-n21501-001c-sop-protein-purification-wdr5-necc-n21501-001c-20240319-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-wdr5-necc-n21501-001c-sop-protein-purification-wdr5-necc-n21501-001c-20240319-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-1-619-d461n-y315a-y319a--avi-tev-6h-nbvc-n00126-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-fl-1-619-nbvc-n00124-10a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-fl-1-619-nbvc-n00124-10a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-kd-327-606-nbvc-n00030-6a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-kd-327-606-nbvc-n00030-6a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-kd-327-619-nbvc-n00042-10a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-kd-327-619-nbvc-n00042-10a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops--exonuclease-sop-protein-purification-exo-necc-n21569-001a-20230914-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops--exonuclease-sop-protein-purification-exo-necc-n21569-001a-20230914-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-20211130-necc-n257-3b-buffer-stability-tycho-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-20211130-necc-n257-3b-buffer-stability-tycho-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1---necc-n00689-1a-20220523-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1---necc-n00689-1a-20220523-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1---necc-n00835-1a-necc-n00836-1a-20220719-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1---necc-n00835-1a-necc-n00836-1a-20220719-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-n-zalpha-zbeta-2-366-necc-n00257-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-n-zalpha-zbeta-2-366-necc-n00257-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-rbd3-708-801-necc-n00208-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-rbd3-708-801-necc-n00208-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00209-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00209-1b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00209-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00209-2a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00210-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00210-2a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00252-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00252-1b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00578-1a-n00582-1a-20211005-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-xtal-necc-n00578-1a-n00582-1a-20211005-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-133-209-necc-n00210-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-133-209-necc-n00210-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-zbeta-133-366-necc-n00252-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-zbeta-133-366-necc-n00252-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-zbeta-rbd1-rbd2-rbd3-necc-n00261-6a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zalpha-zbeta-rbd1-rbd2-rbd3-necc-n00261-6a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zbeta-288-366-necc-n00209-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zbeta-288-366-necc-n00209-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zbeta-rbd1-necc-n00259-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar1-zbeta-rbd1-necc-n00259-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar2-catalytic-nbvc-n00209-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar2-catalytic-nbvc-n00209-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar2-fl---nbvc-n00329-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-adar2-fl---nbvc-n00329-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-nur77-nurr1-lbd-necc-n00443-2b-n00450-2b-20210908-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-nur77-nurr1-lbd-necc-n00443-2b-n00450-2b-20210908-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00694-1a-necc-n00695-1a-necc-n00696-1a-20220405-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00694-1a-necc-n00695-1a-necc-n00696-1a-20220405-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00807-1a-20220523-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00807-1a-20220523-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00807-3a-20220615-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1---necc-n00807-3a-20220615-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1-n-term-z-alpha-z-beta---necc-n00257-20210927-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1-n-term-z-alpha-z-beta---necc-n00257-2a-20210927-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1-n-term-z-alpha-z-beta-c125s-c304s---necc-n00688-1a-necc-n00698-1a-20220118-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-adar1-n-term-z-alpha-z-beta-c125s-c304s---necc-n00688-1a-necc-n00698-1a-20220118-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00257-3b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00257-3b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00257-3c-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adar1-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00257-3c-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adk-sop-necc-n21605-001c-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adk-sop-protein-purification-adk-1-362-necc-n21603-001a-20231122-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-adk-sop-protein-purification-adk-1-362-necc-n21603-001a-20231122-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-pdpk1-sop-protein-purification-pdpk1-nbvc-n21092-001a-0231215-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-pdpk1-sop-protein-purification-pdpk1-nbvc-n21092-001a-0231215-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-pdpk1-sop-protein-purification-pdpk1-nbvc-n21092-002a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-pdpk1-sop-protein-purification-pdpk1-nbvc-n21092-002a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt-nbvc-n21121-001a-nbvc-n21130-001a-20240708-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt-nbvc-n21121-001a-nbvc-n21130-001a-20240708-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt-nbvc-n21160-001a-20240528-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt-nbvc-n21160-001a-20240528-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt1-nbvc-n21149-001a-20240221-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt1-nbvc-n21149-001a-20240221-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt1-necc-n21608-001a-and-necc-n21609-001a-20231127-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-akt1-sop-protein-purification-akt1-necc-n21608-001a-and-necc-n21609-001a-20231127-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-alk-12aug2024-alk-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-alk-26jul2024-yoph-necc-n21810-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-alk-sop-protein-purification-alk-nbvc-n21201-n21202-n21204-10012024-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-alk-sop-protein-purification-alk-nbvc-n21201-n21202-n21204-10012024-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21161-001a-sop-protein-purification-arid-necc-n21161-001a-20240417-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21161-001a-sop-protein-purification-arid-necc-n21161-001a-20240417-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21162-001a-sop-protein-purification-arid1b-necc-n21162-001a-20240816-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21162-001a-sop-protein-purification-arid1b-necc-n21162-001a-20240816-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21188-001a-sop-protein-purification-arid-nbvc-n21188-001a-20240531-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21188-001a-sop-protein-purification-arid-nbvc-n21188-001a-20240531-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-nbvc-n21195-001a-sop-protein-purification-arid1a-nbvc-n21195-001a-20250122-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21702-001a-sop-protein-purification-arid-necc-n21702-001a-20240408-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21702-001a-sop-protein-purification-arid-necc-n21702-001a-20240408-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21705-001a-sop-protein-purification-arid-necc-n21705-001a-20240329-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21705-001a-sop-protein-purification-arid-necc-n21705-001a-20240329-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21804-001a-sop-protein-purification-arid-necc-n21804-001a-20240610-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21804-001a-sop-protein-purification-arid-necc-n21804-001a-20240610-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21886-001a-sop-protein-purification-arid1b-necc-n21886-001a-necc-n21888-001a-20250130-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-arid1-necc-n21886-002a-sop-protein-purification-arid1b-necc-n21886-002a-022425-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-aurora-c290ac393a--necc-n00555-1a-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-aurora-c290ac393a--necc-n00643-1a-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-aurora-c290ac393ak399c--necc-n00714-1a-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-aurora-c290ac393ak399c--necc-n00714-1b-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-nbvc-n20676-1a-aurfl-n20676-1b-anx-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-nbvc-n20676-1c-aurora-fl-anx-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-nbvc-n20844-1a-aurora-fl-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-aurora-a-sop-nbvc-n20844-1b-aurora-fl-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-2b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-2b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-6a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000115-6a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000132-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000132-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000133-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000133-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000145-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000145-4a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000145-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-b-catenin-sop-protein-purification-b-catenin-arm-domain-necc-n000145-5a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-0-preparing-competent-dh10embacy-cells-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-0-preparing-competent-dh10embacy-cells-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-1-dh10em-bacy-transformation-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-1-dh10em-bacy-transformation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-2-bacmid-prep-qc-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-2-bacmid-prep-qc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-3a-p0-virus-generation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-3b-p0-qc-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-3b-p0-qc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-3c-p0-p1-titer-plate-volumes-calculator-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-4-p1-p2-virus-generation-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-4-p1-p2-virus-generation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-5a-baculovirus-titering-assay-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-5a-baculovirus-titering-assay-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-5b-viral-titer-calculations-template-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-6a-insect-cell-expression-48hr-72hr-harvesting-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-6a-insect-cell-expression-48hr-72hr-harvesting-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-6b-insect-cell-expression-via-tips-method-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-6b-insect-cell-expression-via-tips-method-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-7-disinfecting-and-autoclaving-flasks-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-7-disinfecting-and-autoclaving-flasks-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-additional-western-blot-protocols-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-bacloxp-baculovirus-expression-system-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-bacmidpcr-bactobac-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-bactobac-topo-exp-system-man-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-click-it-metabolic-labeling-reagents-for-proteins-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-corning-recommended-media-volumes-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-e-gel-technical-guide-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-expisfexpressionsystem-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-invitrogen-guide-to-bevs-and-insect-cell-culture-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-multibac-manual-v8-4-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-multibac-manual-v8-5-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-additional-resources-multibac-short-description-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-attune-attune-user-guide-03-35-21-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-bacmid-pcr-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-bacmid-pcr-protocol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-bacmidpcr-bactobac-protocol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-multibac-pcr-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bacmid-pcr-protocols-multibac-pcr-protocol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-naomi-bv-school-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-naomi-p2-titers-naomi-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-5-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-presentation-6-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-schedule-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-schedule-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-stacy-bacmid-qc-stacy-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-stacy-p2-titers-stacy-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-telma-bacmid-qc-tj-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-telma-p0-qc-tj-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-bv-school-telma-p2-titers-telma-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-bv-school-p0-qc-protocol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-cho-transfection-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-electroporation-btx-ecm-630-quick-start-guide-0818-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-electroporation-btx-introduction-to-electroporation-and-electrofusion-20201119-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-electroporation-electroporation-optimization-guide-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-electroporation-manual-ecm-630-exponential-decay-wave-electroporator-system-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-lysing-mammalian-cells-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-lysing-mammalian-cells-protocol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-freestyle-max-293-expsys-man-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-man0007924-freestyle-293-f-cells-ug-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-man0011378-mper-mammal-protein-extract-reag-ug-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-optimized-transfection-protocol-for-expi293f-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-mammalian-expression-purelink-hipure-plasmid-filter-purification-man-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-small-scale-purification-protocols-purespeed-10-l-bv-ni-imac-or-gst-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-small-scale-purification-protocols-purespeed-10-l-bv-ni-imac-or-gst-protocol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-small-scale-purification-protocols-smscpur-slurry-flag-tag-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-sop-beadblaster-homogenizer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-sop-example-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-supplement-recipes-50mm-d-biotin-recipe-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-supplement-recipes-50mm-d-biotin-recipe-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-supplement-recipes-coomassie-stain-recipe-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-supplement-recipes-coomassie-stain-recipe-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-tips-tips-baculovirus-storage-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-tips-tips-titerless-infected-cells-preservation-and-scale-up-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-tips-tips-wasilko-d-j-et-al-pfizer-global-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-western-blot-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-baculovirus-western-blot-protocol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-bcl2-for-biortus-sop-necc-n21598-001a-bcl2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-bcl2-necc-n21599-06nov2023-necc-n21599-001a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-bcl2-necc-n21599-06nov2023-necc-n21599-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-biortus-nurix-purification-protocol-for-streptactin-xt-4flow-affinity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-brca1-13mar2023-brca1-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-brca1-16mar2023-necc-n21355-n21395-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-brca1-24mar2023-necc-n21355-n21395-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-bril-sop-protein-purification-bril-necc-n21843-001a-20240926-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-bril-sop-protein-purification-bril-necc-n21843-001a-20240926-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-110722-largescalepurification-n20865-20866-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-expression-6h-tev-btk-382-658-a428d-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-expression-6h-tev-btk-382-658-a428d-elsigned-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-expression-6h-tev-btk-382-658-a428d-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-purification-6h-tev-btk-382-658-a428d-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-purification-6h-tev-btk-382-658-a428d-elsigned-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-for-biortus-sop-purification-6h-tev-btk-382-658-a428d-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-nbvc-n20866-002a-sop-protein-purification-btk-nbvc-n220866-002a-20241126-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-nbvc-n20866-002a-sop-protein-purification-btk-nbvc-n220866-002a-20241126-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btk-sop-protein-purification-btk-kd-nbvc-n20865-n20866-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btrcp-skp1-sop-protein-purification-btrcp-skp1---necc-n00502-1a---20210524-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btrcp-skp1-sop-protein-purification-btrcp-skp1---necc-n00502-1a---20210524-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btrcp-sop-protein-purification-btrcp-skp1---necc-n00502-1a---20210524-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-btrcp-sop-protein-purification-btrcp-skp1--necc-n00266-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cbl-b-sop-protein-purification-cbl-b-closed-necc-n21469-005a-20230825-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cbl-b-sop-protein-purification-cbl-b-closed-necc-n21469-005a-20230825-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cbl-b-sop-protein-purification-cbl-b-open-necc-n21469-007a-20231013-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cbl-b-sop-protein-purification-cbl-b-open-necc-n21469-007a-20231013-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccbl-sop-protein-purification-ccbl-necc-n20047-001a-20230717-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccbl-sop-protein-purification-ccbl-necc-n20047-001a-20230717-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccl5-21mar2025-necc-n21850-ccl5-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccnf-27september2023-nbvc-n20920-6h-mbp-tev-avi-pre-ccnf-77-786-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccnf-6february2024-purification-of-nbvc-n20918-6h-mbp-tev-avi-pre-ccnf-77-544-tevcleavembp-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccnf-nbvc-n20918-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccnf-sop-protein-purification-ccnf-nbvc-n20918-001a-20230801-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccnf-sop-protein-purification-ccnf-nbvc-n20918-001a-20230801-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccr9-sop-expression-ha-flag-ccr9-25-340-t34e-t77a-v79a-m82a-s141c-t216a-v255a-n294a-t304a-c337a--avi-10h-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ccr9-sop-protein-purification-ha-flag-ccr9-25-340-t34e-t77a-v79a-m82a-s141c-t216a-v255a-n294a-t304a-c337a--avi-10h-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdc20-20february2024-nbvc-n21070-strepiitagpurificationprotocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-in-vitro-phosphorylation-cdk12-cyck1-ncmp-n20046-002a-20231016-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-in-vitro-phosphorylation-cdk12-cyck1-ncmp-n20046-002a-20231016-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-001a-nbvc-n20894-001a-20230320-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-001a-nbvc-n20894-001a-20230320-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-002a-20230615-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-002a-20230615-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-003a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-nbvc-n20893-003a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-necc-n21258-001a-20220922-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cak1-necc-n21258-001a-20220922-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n00585-nbvc-n00618-20220711-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n00585-nbvc-n00618-20220711-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n20725-002a-20221014-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n20725-002a-20221014-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n20725-20221214-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-nbvc-n20725-20221214-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20035-001a-001b-20230207-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20035-001a-001b-20230207-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20042-001a-20230425-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20042-001a-20230425-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20046-001a-20230503-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20046-001a-20230503-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20046-002a-20231030-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk12-cyck1-ncmp-n20046-002a-20231030-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk13-cyck1-cak1-nbvc-n20863-012a-20230214-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk13-cyck1-cak1-nbvc-n20863-012a-20230214-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk13-cyck1-nbvc-n00627-1a-20220708-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk13-cyck1-nbvc-n00627-1a-20220708-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyck1-nbvc-n00625-1b-20220713-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyck1-nbvc-n00625-1b-20220713-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyck1-ncmp-n20032-2a-20230410-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyck1-ncmp-n20032-2a-20230410-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyct1-nbvc-n00614-nbvc-n00611-20220422-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyct1-nbvc-n00614-nbvc-n00611-20220422-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyct1-ncmp-n20037-001a-cyct1-nbvc-n20858-001a-20230221-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-cdk9-cyct1-ncmp-n20037-001a-cyct1-nbvc-n20858-001a-20230221-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-in-vitro-phosphorylation-cdk12-cyck1-ncmp-n20035-001c-20230420-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-in-vitro-phosphorylation-cdk12-cyck1-ncmp-n20035-001c-20230420-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-in-vitro-phosphorylation-cdk13-cyck1-ncmp-n20039-001b-20230503-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk12-sop-protein-purification-in-vitro-phosphorylation-cdk13-cyck1-ncmp-n20039-001c-20230503-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk2-sop-protein-purification-cdk2-necc-n21422-001a-20230509-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk2-sop-protein-purification-cdk2-necc-n21422-001a-20230509-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk2-sop-protein-purification-cdk2-necc-n21422-002a-20230530-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cdk2-sop-protein-purification-cdk2-necc-n21422-002a-20230530-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-chromogenic-lal-endotoxin-assay-kit-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-cish---necc-n00352-20210728-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-cish---necc-n00352-20210728-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-cish---necc-n00808-1b-1c-ncmp-n20025-001a-001b-20220803-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-cish---necc-n00808-2a-20220803-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-socs2---necc-n00637-1a-20220329-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-cish-sop-protein-purification-socs2---necc-n00637-1a-20220329-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro---necc-n00493-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro---necc-n00493-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro-1-304-necc-n00291-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro-1-304-necc-n00291-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro-biotinylated---necc-n00493-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-mpro-biotinylated---necc-n00493-2a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-127-necc-n00288-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-127-necc-n00288-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-127-necc-n00435-20210228-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-127-necc-n00435-20210228-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-180-necc-n00294-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-180-necc-n00294-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-180-necc-n00432-20210228-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-nsp1-1-180-necc-n00432-20210228-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-1565-1878-c111s-necc-n00346-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-1565-1878-c111s-necc-n00346-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-1565-1878-necc-n00273-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-1565-1878-necc-n00273-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-4a-20210324-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-4a-20210324-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-4f-20210412-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-4f-20210412-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-5a-n00268-3a-20210421-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00273-5a-n00268-3a-20210421-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00346-1b-20210528-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-plpro-necc-n00346-1b-20210528-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-sars-cov-nsp1-xtal-20210104-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-covid-19-sop-protein-purification-sars-cov-nsp1-xtal-20210104-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-20251112-raf1-nbvc-n20391-expression-sop-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-large-scale-purification-n365-1a-022321-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-2-msg-el-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-el-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-expression-sop-final-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-purification-sop-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-purification-sop-el-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-purification-sop-final-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-raf1-nbvc-n20391-purification-sop-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-expression-gst-c-raf-kd-306-648-y340d-y341d-n365-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-14-3-3-zeta-epsilon-n338-1a-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-14-3-3-zeta-epsilon-n338-1a-2a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-14-3-3-zeta-epsilon-n343-1a-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-14-3-3-zeta-epsilon-n343-1a-2a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-b-raf-kd-432-726-n174-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-b-raf-kd-432-726-n174-1b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-b-raf-n--structural-domain-1-372-n247-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-b-raf-n--structural-domain-1-372-n247-3a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-1b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n236-n238-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n236-n238-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n365-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-craf-sop-raf1-protein-purification-nbvc-n20390-n20391-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-20210920-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-ikaros-necc-n21284-20221005-necc-n21284-buffer-table-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-ikaros-necc-n21284-20221005-results-necc-n21284-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-ikaros-necc-n21284-20221005-results-necc-n21284-1a-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-ikaros-necc-n21284-20221005-sop-necc-n21284-001a-ikaros-purif-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-20221219-nbvc-n00005-nbvc-n00025-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-20221219-results-nbvc-n00025-nbvc-n00005-6c-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-20221219-sop-nbvc-n00005-nbvc-n00025-purif-crbn-ddb1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-for-biortus-sop-6h-tev-crbn-1-442-ddb1-1-1140-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-for-biortus-sop-6h-tev-crbn-1-442-ddb1-1-1140-final-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-for-biortus-sop-6h-tev-crbn-1-442-ddb1-1-1140-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00005-n00025-for-biortus-sop-6h-tev-crbn-1-442-ddb1-1-1140-signed-el-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00349-n00351-20211101-nbvc-n00349-nbvc-n00351-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00349-n00351-20211101-results-nbvc-n00349-nbvc-n00351-3b-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-nbvc-n00349-n00351-20211101-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00359-n00360-20210614-necc-n00359-necc-n00360-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00359-n00360-20210614-results-necc-n359-n360-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00359-n00360-20210614-sop-necc-n00359-n00360-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00556-20210803-necc-n00556-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00556-20210803-results-necc-n556-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-necc-n00556-20210803-sop-necc-n00556-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-expression-6h-tev-crbn-1-442-ddb1-1-1140-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-5a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-6b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-6b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-juliesheung-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00005-nbvc-n00025-juliesheung-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-crbn-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nbvc-n20909-20240325-nbvc-n20909-proteinpurification-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nbvc-n20909-20240325-nbvc-n20909-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nbvc-n20909-20240325-results-nbvc-n20909-001a-002a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nmac-n20088-n20099-20230204-nmac-n20088-n20089-dcaf1-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nmac-n20088-n20099-20230204-nmac-n20088-n20099-dcaf1-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dcaf1-nmac-n20088-n20099-20230206-results-nmac-n20088-n20089-dcaf1-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ddb1-18sep2023-sop-nbvc-n20810-ddb1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ddb1-nbvc-n00007-20220404-nbvc-n00007-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ddb1-nbvc-n00007-20220404-results-nbvc-n00007-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ddb1-nbvc-n00007-20220404-sop-nbvc-n00007-ddb1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21479-002c-xtal-sop-protein-purification-dnajb1-prkaca-necc-n21749-002a-20240916-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21479-002c-xtal-sop-protein-purification-dnajb1-prkaca-necc-n21749-002a-20240916-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-expression-myristoylated-prkaca-necc-n21842-20240829-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-expression-myristoylated-prkaca-necc-n21842-20240829-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-purification-dnajb1-prkaca-necc-n21837-n21838-n21839-n21840-n21841-n21842-001a-20240808-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-purification-dnajb1-prkaca-necc-n21837-n21838-n21839-n21840-n21841-n21842-001a-20240808-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-purification-dnajb1-prkaca-necc-n21837-n21842-002b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-necc-n21837-through-necc-n21842-sop-protein-purification-dnajb1-prkaca-necc-n21842-002b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-sop-necc-n21476-dnajb1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-sop-necc-n21477-prkaca-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-sop-necc-n21478-prkaca-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-dnajb1-prkaca-sop-necc-n21479-dnajb1prkaca-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ephx2-sop-nbvc-n00636-n20776-6h-tev-avi-pre-ephx2-2-255-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ephx2-sop-nbvc-n20776-6h-tev-avi-pre-ephx2-2-555-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ews-fli1-20260122-necc-n21825-001a-nurix-qc-report-kl-el-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ews-fli1-ews-fli1-necc-n21825-dna-sequence-sop-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ews-fli1-ews-fli1-necc-n21825-dna-sequence-sop-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fbxo2-11july2023-necc-n21454-n21455-001a-purif-sop-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fbxo2-28mar2023-necc-n213553-n21354-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fbxo22-sop-protein-purification-fbxo22-ncmp-n210059-001a-20240304-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fbxo22-sop-protein-purification-fbxo22-ncmp-n210059-001a-20240304-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fbxo45-sop-protein-purification-fbxo45-nbvc-n21055-001a-ncmp-n20058-001a-20240301-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fbxo45-sop-protein-purification-fbxo45-nbvc-n21055-001a-ncmp-n20058-001a-20240301-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1a-sop-fem1a-1-456-and-fem1c-1-403-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1a-sop-fem1a-necc-n21457-001a-102423-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1a-sop-protein-purification-fem1a-nbvc-n20990-001a-20230915-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1a-sop-protein-purification-fem1a-nbvc-n20990-001a-20230915-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1b-necc-n00802-20220811-necc-n00802-1b-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1b-necc-n00802-20220811-results-necc-n00802-1b-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1b-necc-n00802-20220812-necc-n00802-1b-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1b-sop-necc-n00827-1a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1b-sop-necc-n21205-1b-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1b-sop-protein-purification-fem1b-and-fem1c-nbvc-n20992-001a-and-nbvc-n20991-001a-20230926-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1b-sop-protein-purification-fem1b-and-fem1c-nbvc-n20992-001a-and-nbvc-n20991-001a-20230926-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1c-sop-fem1a-1-456-and-fem1c-1-403-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1c-sop-protein-purification-fem1b-and-fem1c-nbvc-n20992-001a-and-nbvc-n20991-001a-20230926-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fem1c-sop-protein-purification-fem1b-and-fem1c-nbvc-n20992-001a-and-nbvc-n20991-001a-20230926-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fkbp12-sop-protein-purification-fkbp12-necc-n21855-001a-20250106-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fzr1-fzr1-nbvc-n21320-expression-sop-final-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fzr1-fzr1-nbvc-n21320-purification-sop-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fzr1-fzr1-nbvc-n21320-purification-sop-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fzr1-fzr1-nbvc-n21320-purification-sop-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-fzr1-sop-expression-strepii-tev-fzr1-172-474--msg-1-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gid4-20231102-sop-necc-n20578-001-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gid4-necc-n00573-n00577-20210907-necc-n00573-n000577-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gid4-necc-n00573-n00577-20210907-sop-necc-n00573-n00577-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gid4-necc-n00573-n00577-20210908-results-necc-n573-n577-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21216-002a-20241021-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21216-002a-20241021-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21218-001a-20240930-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21218-001a-20240930-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21218-003a-20241118-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21218-003a-20241118-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21221-001a-20241004-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21221-001a-20241004-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21248-001a-20250207-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21248-001a-20250207-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21251-001a-nbvc-n21253-001a-20250108-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21251-001a-nbvc-n21253-001a-20250108-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21253-002a-20250220-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-gpr75-sop-protein-purification-nbvc-n21253-002a-20250220-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-grwd1-13september2023-nbvc-n20994-6h-tev-grwd1-50-446-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-grwd1-20june2022-nbvc-n00406-6h-tev-grwd1-1-446-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n000102-5b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n000102-5b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00085-2b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00085-2b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00086-5c-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00086-5c-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00092-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00092-3a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00096-4b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00096-4b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00098-3g-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00098-3g-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00163-3b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00163-3b-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00164-1c-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00164-1c-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00165-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00165-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00247-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-hpk1-sop-nbvc-n00247-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-iap-sop-6h-tev-ciap1-260-352--avi-necc-n0006-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-iap-sop-6h-tev-ciap2-243-337--avi-necc-n00008-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-iap-sop-6h-tev-xiap-241-356--avi-necc-n00011-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-idp-purification-draft---sonication-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irak4-sop-protein-purification-irak4-kd-160-460-1-127-necc-n00037-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irak4-sop-protein-purification-irak4-kd-160-460-1-127-necc-n00037-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf3-03jun2025-necc-n21983-irf3-dbd-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf3-09jun2025-necc-n21983-irf3-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-for-genscript-sop-nbvc-n20392-irf5-fl-monomer-purification-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-for-genscript-sop-nbvc-n20392-irf5-fl-monomer-purification-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-for-genscript-sop-nbvc-n20392-irf5-fl-monomer-purification-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-for-genscript-sop-purification-of-snf05-fl-wt-protein-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20210831-nbvc-n00366-7a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20210831-nbvc-n00366-7a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20210831-results-nbvc-n00366-7a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20jun2024-irf5-fl-dimer-in-vitro-phos-nbvc-n20392-008a-008b-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-20jun2024-irf5-fl-dimer-in-vitro-phos-secmals-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-for-sanofi-in-vitro-phosphorylation-sop-nurix-invitrophosphorylation-snf05-fl-dimer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00366-sop-nbvc-n00366-8a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00368-20210525-nbvc-n00368-2a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00368-20210525-nbvc-n00368-3a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00368-20210526-nbvc-n00368-3a-proteinpurification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00368-sop-nbvc-n00368-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00383-20220627-nbvc-n00383-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00383-20220627-nbvc-n00383-1a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00383-20220627-results-nbvc-n00383-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00384-20210719-nbvc-n00384-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00384-20210719-nbvc-n00384-1a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00384-20210719-results-nbvc-n00384-1a-purification---copy-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00384-sop-nbvc-n00384-6a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00504-28mar2022-nbvc-n00504-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00504-28mar2022-nbvc-n00504-1a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nbvc-n00504-28mar2022-nbvc-n00504-1a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00451-07feb2022-necc-n00451-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00451-07feb2022-necc-n00451-1a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00453-20211004-necc-n00453-5a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00453-20211004-necc-n00453-5a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00453-20211004-results-necc-n00453-5a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00687-21jan2022-necc-n00687-1a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00687-24jan2022-necc-n00687-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n00687-24jan2022-necc-n00687-1a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21317-dbd-xtal-20230227-necc-n21317-002a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21317-dbd-xtal-20230227-necc-n21317-002a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21317-dbd-xtal-20230227-results-necc-n21317-002a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21647-n21648-dbd-dbd-rd-20240129-necc-n21647-n21648-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21647-n21648-dbd-dbd-rd-20240129-necc-n21647-n21648-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-necc-n21647-n21648-dbd-dbd-rd-20240129-results-necc-n21647-n21648-002a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-11sep2023-sec-mals-n20106-n20107-dc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-19sep2023-nmac-n20106-n20107-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-20211130-purification-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-20231206-nmac-n20106-n20107-003a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-20231206-nmac-n20106-n20107-003a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n20106-n20107-20231206-results-nmac-n20106-n20107-003a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n24-n25-n26-n27-20211130-nmac-n00026-1a-nmac-n00027-1a-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n24-n25-n26-n27-20211130-nmac-n00026-nmac-n00027-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n24-n25-n26-n27-20211202-results-nmac-n00026-1a-nmac-n00027-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-nmac-n24-n25-n26-n27-sop-nmac-n24-n25-n26-n27-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-protein-expression-irf5-fl-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-protein-expression-irf5-tad-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-protein-purification-irf5-fl-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf5-sop-protein-purification-irf5-tad-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf7-23jun2025-necc-n21987-irf7-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf7-23jun2025-necc-n21987-irf7-dbd-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf7-27jun2025-necc-n21989-irf7-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-irf7-27jun2025-necc-n21989-irf7-dbd-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-itk-sop-nbvc-n00012-8a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-itk-sop-nbvc-n00012-8a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kcmf1-sop-protein-purification-kcmf1-necc-n21531-001a-20231023-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kcmf1-sop-protein-purification-kcmf1-necc-n21531-001a-20231023-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kcmf1-sop-protein-purification-kcmf1-necc-n21531-001b-20231122-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kcmf1-sop-protein-purification-kcmf1-necc-n21531-001b-20231122-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc1-16october2023-nbvc-n21035-klhdc1-1-406--tev-avi-6h-elonbelonc-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-24may2023-nbvc-n20689-klhdc2-1-362--tev-6h-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-gst-pre-6h-klhdc2-1-406-elonb-1-118-elonc-1-112-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-klhdc2-1-362--tev-6h-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-gst-pre-6h-klhdc2-1-406-elonb-1-118-elonc-1-112-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-gst-pre-6h-klhdc2-1-406-elonb-1-118-elonc-1-112-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-gst-pre-6h-klhdc2-1-406-elonb-1-118-elonc-1-112-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-klhdc2-1-362--tev-6h-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-klhdc2-1-362--tev-6h-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-for-biortus-sop-expression-klhdc2-1-362--tev-6h-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-nbvc-n20960-ncmp-n20048-20230613-n20960-001b-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-nbvc-n20960-ncmp-n20048-20230613-nbvc-n20960-001b-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc2-nbvc-n20960-ncmp-n20048-20230613-ncmp-n20048-001b-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhdc3-28nov2023-nbvc-n21036andnbvc-n20699-6h-tev-klhdc3-2-371-elonb-1-104-elonc-17-112-purificationprotocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl2-19april2023-necc-n21362-n21363-klhl2-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl20-24jan2024-necc-n21495-21496-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl3-15feb2023-necc-n21373-74-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-20230410-klhl6-necc-n21378-n21381-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-20230410-klhl6-necc-n21378-n21381-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-20230410-klhl6-necc-n21378-n21381-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-nbvc-n21044-001a-sop-protein-purification-klhl6-nbvc-21044-001a-20240412-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-nbvc-n21044-001a-sop-protein-purification-klhl6-nbvc-21044-001a-20240412-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-nbvc-n21190-001a-sop-protein-purification-klhl6-nbvc-n21190-20240515-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-nbvc-n21190-001a-sop-protein-purification-klhl6-nbvc-n21190-20240515-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-necc-n21378-necc-n21381-20230410-klhl6-necc-n21378-n21381-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-necc-n21378-necc-n21381-20230410-klhl6-necc-n21378-n21381-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-klhl6-necc-n21378-necc-n21381-20230410-klhl6-necc-n21378-n21381-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12c-cys-light-necc-n00198-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12c-cys-light-necc-n00198-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12c-cys-light-necc-n00278-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12c-cys-light-necc-n00278-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12d-necc-n00050-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12d-necc-n00050-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12d-necc-n00172-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-g12d-necc-n00172-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-necc-n00048-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-169-necc-n00048-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-g12c-necc-n00302-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-g12c-necc-n00302-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-g12d-necc-n00303-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-g12d-necc-n00303-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-necc-n00279-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-kras-sop-protein-purification-kras4b-1-188-necc-n00279-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-lab-services-recipes-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-lrr1-ncmp-n20049-20230710-ncmp-n20049-001a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-lrr1-ncmp-n20049-20230710-ncmp-n20049-001a-purification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-lrr1-ncmp-n20049-20230710-ncmp-n20049-001a-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-maged4-16may2023-necc-n21213-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-maged4-18may2023-necc-n21213-001a-purif-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mbp-sop-protein-purification-mbp-nbvc-n21087-001a-20240125-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mbp-sop-protein-purification-mbp-nbvc-n21087-001a-20240125-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mbp-sop-protein-purification-mbp-necc-n21863-001a-20240930-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-10july2024-necc-n21816-001-max1-1-160--6h-bavi-h28a-e32a-r33a-r35a-r36a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-20231122-n20105-dsf-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-20nov2023-necc-n20105-001-proteinpurification-results-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-20nov2023-necc-n20105-001-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-fermentation-request-necc-n20105-n21816-june-19-2025-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-necc-n20105-max-buffertable-final-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-max-sop-necc-n20105-001a-and-b-sop-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-signed-and-scanned-pdfs-sop-protein-expression-necc-n21962-n21964-040725-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-signed-and-scanned-pdfs-sop-protein-purification-necc-n21962-n21964-040725-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-sop-protein-expression-necc-n21962-n21964-040725-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-sop-protein-expression-necc-n21962-n21964-040725-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-sop-protein-purification-necc-n21962-n21964-040725-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-final-submitted-to-genscript-april-9-2025-sop-protein-purification-necc-n21962-n21964-040725-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-022025-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031225-final-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031725-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031725-final-el-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031725-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-expression-necc-n21937-n21935-031725-signed-scanned-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-022025-el-edits-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-031725-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-031725-final-el-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-031725-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-sop-protein-purification-necc-n21937-n21935-031725-signed-scanned-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-updated-march17-6-pm-sop-protein-expression-necc-n21937-n21935-031725-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-updated-march17-6-pm-sop-protein-expression-necc-n21937-n21935-031725-final-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-updated-march17-6-pm-sop-protein-purification-necc-n21937-n21935-031725-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-for-genscript-march-2025-updated-march17-6-pm-sop-protein-purification-necc-n21937-n21935-031725-final-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-protein-purification-necc-n21473-005a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-mycn-sop-protein-purification-necc-n21473-005a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nras-sop-protein-purification-n20456-2a-b-feb19-21-2025-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nras-sop-protein-purification-n20456-3a-april-20-2025-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nras-sop-protein-purification-n21665-andn21666-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-lbd-c551s-necc-n21219-001a-20221027-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-lbd-c551s-necc-n21219-001a-20221027-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-lbd-necc-n20464-001a-20230509-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-lbd-necc-n20464-001a-20230509-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21206-001a-20240220-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21206-001a-20240220-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21209-1a-1b-20221018-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21209-1a-1b-20221018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21211-1a-n21208-1a-20220817-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a1-necc-n21211-1a-n21208-1a-20220817-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a3-lbd-necc-n21338-001a-20230509-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nr4a3-lbd-necc-n21338-001a-20230509-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00442-1a-20220104-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00442-1a-20220104-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00443-1a-1b-20210228-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00443-1a-1b-20210228-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00443-2c-20211217-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n00443-2c-20211217-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n20465-1a-20221201-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-lbd-necc-n20465-1a-20221201-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-necc-n21170-001a-necc-n21171-001a-20220809-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-necc-n21170-001a-necc-n21171-001a-20220809-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-nurr1-lbd-necc-n00443-2b-n00450-2b-20210908-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nur77-nurr1-lbd-necc-n00443-2b-n00450-2b-20210908-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-1a-20210228-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-1a-20210228-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-1c-20210630-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-1c-20210630-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-3a-3b-20220104-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-nur77-sop-protein-purification-nurr1-lbd-necc-n00450-3a-3b-20220104-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pde6d-sop-protein-purification-pde6d-nbvc-n21754-001a-20240315-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pde6d-sop-protein-purification-pde6d-nbvc-n21754-001a-20240315-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pja2-08may2023-necc-n21359-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pja2-10may2023-necc-n21359-002a-purif-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pja2-10may2023-pja2-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla2-1-384-nbvc-n00193-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla2-1-384-nbvc-n00193-3a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla2-nbvc-n00051-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla2-nbvc-n00051-4a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-i148m-nbvc-n00071-6a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-i148m-nbvc-n00071-6a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-nbvc-n00060-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-nbvc-n00060-5a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-necc-n00284-286-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-necc-n00284-286-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-s47a-nbvc-n00072-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-pnpla3-sop-protein-purification-pnpla3-s47a-nbvc-n00072-5a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ppil2-11january2023-necc-n21328-n21329-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ppil2-13dec2022-6h-tev-avi-pre-ppil2-274-458-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-protease-inhibitor-composition-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-protocol-agilent-csv-data-export-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-psmd14-ncmp-n20060-20240423-ncmp-n20060-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-psmd14-ncmp-n20060-20240423-ncmp-n20060-proteinpurification-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-psmd14-ncmp-n20060-20240423-results-psmd14-ncmp-n20060-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-psmd14-necc-n21752-20240429-buffertable-necc-n21752-001a-purif-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-psmd14-necc-n21752-20240429-protocol-necc-n21752-001a-purif-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-psmd14-necc-n21752-20240429-results-psmd14-necc-n21752-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-psmd2-sop-protein-purification-psmd2-necc-n21523-20231019-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-psmd2-sop-protein-purification-psmd2-necc-n21523-20231019-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-rfwd2-1nov2023-nbvc-n20644-6h-rfwd2-377-731-proteinpurificationforxtal-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-rnf10-nbvc-n20904-06oct2023-rnf10-nbvc-n20903-002a-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-rnf10-nbvc-n20904-20231002-rnf10-nbvc-n20904-002a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-rnf10-nbvc-n20904-20231002-rnf10-nbvc-n20904-002a-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-rnf10-nbvc-n20904-20231002-rnf10-nbvc-n20904-002a-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-rnf10-sop-necc-n21231-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-rnf114-sop-necc-n21249-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sec-cleaning-protocol-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00620-20220127-necc-n00619-620-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00620-20220131-results-necc-n00620-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00627-20220613-necc-n00627-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00627-20220613-necc-n00627-1a-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-siah1-necc-n00627-20220613-results-necc-n00627-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop--necc-n00554-2a-smarca4-for-crystallography-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-brd4-necc-n00536-1b-del-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00533-1a-smarca2a-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00533-1b-smarca2a-20230521-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00536-1a-brd4-del-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00542-1a-smarc2a-for-crystallography-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-1a-smarca2b-del-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-1b-smarca2b-crystallography-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-2a-smarca2b-biochem-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-2b-smarca2b-crystal-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00544-smarca2b-1c-del1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00548-1a-pbrm1-del1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00554-1a-smarca4-biochemistry-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00554-3a-smarca4-for-biochemistry-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-smarca2-sop-necc-n00657-3a-smarca4-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-asec-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-biortus-qc-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-dsf-sypro-orange-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-electrocompetent-dh10embacy-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-gigaprep-qiagen-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-gstmag-kingfisher-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-multibac-cloning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-necc-n00038-tev-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-ph-meter-calibration-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-sec-mals-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-staining-of-targets-for-flow-cytometry-including-surface-cytoplasmic-and-nuclear-proteins-in-96-well-plate-format-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-tycho-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-ultracentrifuge-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sop-western-blot-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-smscexpr-smscpur-20200409-sop-protein-expression-ecoli-bl21-stat5a-stat6-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-smscexpr-smscpur-20200416-smscexpr-n212-n215-n216-n253-n254-n255-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-smscexpr-smscpur-20200422-testexpr-bl21-necc-n212-n215-n216-n253-n254-n255-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-smscexpr-smscpur-20200522-smscpur-kingfisher-prsfduet-n212-n215-n216-n255-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00131-1c-1d-1e-monomer-dimer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00131-1c-1d-1e-monomer-dimer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00132-1a-monomer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00132-1a-monomer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00133-1a-monomer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00133-1a-monomer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00139-2b-monomer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00139-2b-monomer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00210-1a-dimer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00210-1a-dimer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00212-1a-dimer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00212-1a-dimer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00214-1a-dimer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00214-1a-dimer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00225-1a-dimer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00225-1a-dimer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00225-3a-dimer-xstal-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-nbvc-n00225-3a-dimer-xstal-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00216-2a-monomer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00216-2a-monomer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00216-3a-monomer-xstal-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00216-3a-monomer-xstal-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00255-1b-monomer-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-necc-n00255-1b-monomer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-protein-expression-ecoli-bl21-stat5a-stat6-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-protein-expression-ecoli-bl21-stat5a-stat6-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-protein-purification-stat6-core-123-631-necc-n00344-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-stat6-sop-protein-purification-stat6-core-123-631-necc-n00344-1a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sts1-sop-03092022-sop-necc-n00715-1c-6h-tev-avi-pre-sts1-369-644-for-del-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sts1-sop-20220229-sop-necc-n00716-1a-6h-tev-avi-pre-sts2-393-657-for-del-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-sts1-sop-20220330-sop-necc-n00717-1a-bpgm-1-259--pre-avi-tev-6h-for-del-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet1-sop-protein-purification-tet1-nbvc-n20975-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet1-sop-protein-purification-tet1-nbvc-n20975-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---nbvc-n00285-1a-20210831-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---nbvc-n00285-1a-20210831-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---necc-n200855-1a-20230208-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---necc-n200855-1a-20230208-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---necc-n20374-002a-20230313-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic---necc-n20374-002a-20230313-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic-xtal---necc-n00348-1a-1b-20210831-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-tet2-sop-protein-purification-tet2-catalytic-xtal---necc-n00348-1a-1b-20210831-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-thermal-stability-in-solution-dsf-with-sypro-orage-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-traip-23jan2024-nbvc-n20923-001b-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-traip-23jun2023-nbvc-n20923-001a-purif-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-traip-24jan2024-nbvc-n20923-001b-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim21-14feb2023-necc-n21364-001a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim21-15feb2023-necc-n21364-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-necc-n21364-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-necc-n21368-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-necc-n21369-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-protein-purification-trim21-necc-n21365-002a-20231201-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim21-sop-protein-purification-trim21-necc-n21365-002a-20231201-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim25-sop-protein-purification-trim25-nbvc-n20809-001a-20230622-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim25-sop-protein-purification-trim25-nbvc-n20809-001a-20230622-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim28-sop-protein-purification-trim28-necc-n21030-31-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim32-sop-protein-purification-trim32-nhl-necc-n21575-87-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim7-sop-necc-n21368-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-trim7-sop-necc-n21369-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-uba1-sop-nbvc-n20993-001a-purif-protocol---copy-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-uba1-sop-nbvc-n20993-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-uba1-ube1-4-18-16-protocol--e1-purification-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ubch5b-prep-020315-oldprotocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ube2d2-sop-necc-n21448-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ube3a-necc-n21185-001a-20221004-sop-necc-n21185-001a-6h-tev-gst-pre-ube3a-490-875-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ube3a-necc-n21185-001a-20221004-sop-necc-n21185-001a-6h-tev-gst-pre-ube3a-490-875-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ube3a-sop-necc-n00549-1a-ube3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ubr2-22august2023-nbvc-n20988-n20989-6h-tev-ubr2-2-439-6h-tev-ubr2-2-427-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-uhrf1-sop-protein-purification-uhrf1-necc-n21012-001a-and-necc-n21012-001b-and-necc-n21212-001a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-uhrf1-sop-protein-purification-uhrf1-necc-n21012-001a-and-necc-n21012-001b-and-necc-n21212-001a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-ulp1-eileenambing-ulp1-purification-eln-entry-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-vhl-expression-sop-sop-protein-expression-vhl-ncmp-n20011-006-10222024-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-vhl-expression-sop-sop-protein-expression-vhl-ncmp-n20011-006-10222024-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-vhl-for-biortus-sop-6h-thr-vhl1-54-215-elonb-1-104-elonc-17-112-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-vhl-for-biortus-sop-expression-6h-thr-vhl-54-215-elonb-1-104-elonc-17-112-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-vhl-for-biortus-sop-expression-6h-thr-vhl-54-215-elonb-1-104-elonc-17-112-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-vhl-for-biortus-sop-expression-6h-thr-vhl-54-215-elonb-1-104-elonc-17-112-signed-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-vhl-sop-necc-n00014-n00016-vhlelonbelonc-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-vhl-sop-necc-n00015-necc-n00041-vhlelonbelonc-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-wdr5-nbvc-n21038-001a-nbvc-n21040-001a-20231008-results-nbvc-n21038-nbvc-n21040-001a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-wdr5-nbvc-n21038-001a-nbvc-n21040-001a-20231009-nbvc-n21038-001a-nbvc-n21040-001a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-wdr5-nbvc-n21038-001a-nbvc-n21040-001a-20231009-nbvc-n21038-001a-nbvc-n21040-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-wdr5-necc-n21501-001a-necc-n21501-001b-sop-protein-purification-wdr5-necc-n21449-001a-and-necc-n21501-001a-and-necc-n21501-001b-20231004-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-wdr5-necc-n21501-001a-necc-n21501-001b-sop-protein-purification-wdr5-necc-n21449-001a-and-necc-n21501-001a-and-necc-n21501-001b-20231004-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-wdr5-necc-n21501-001c-sop-protein-purification-wdr5-necc-n21501-001c-20240319-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-wdr5-necc-n21501-001c-sop-protein-purification-wdr5-necc-n21501-001c-20240319-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-1-619-d461n-y315a-y319a--avi-tev-6h-nbvc-n00126-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-fl-1-619-nbvc-n00124-10a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-fl-1-619-nbvc-n00124-10a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-kd-327-606-nbvc-n00030-6a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-kd-327-606-nbvc-n00030-6a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-kd-327-619-nbvc-n00042-10a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-sops-zap70-sop-protein-purification-zap70-kd-327-619-nbvc-n00042-10a-pdf
 
 ### Protein Sciences Projects  (1956)
 
@@ -5410,882 +5410,882 @@ Internal PS group meeting decks and notes spanning multiple years. Cluster by er
 
 Methodology cluster covering BV-mediated insect-cell expression. One `methods/baculovirus-expression.md` anchor plus pulled-out concept pages for sub-techniques (BacMam, transfections, SF9/Hi5 cell handling).
 
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-bvp08-20221017-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00000-bv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00001-bv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00002-bv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00003-bv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00004-bv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00005-bv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00006-bv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00007-bv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bacmam-bacmam-clone-design-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-2020-transformations-transformation-and-bacmid-pipeline-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-02-26-2020-bv-biomass-request-el-hb-ea-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-bv-biomass-request-el-hb-ea-jss-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-bv-biomass-request-el-hb-ea-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-bv-biomass-request-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-copy-of-02-17-2020-bv-biomass-request-el-hb-ea-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-bv-pipeline-planner-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-cell-passage-logs-2019-20-cell-passage-log-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-copy-of-daily-tasks-2020-02-10-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-08-12-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-08-19-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-08-26-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-02-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-09-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-16-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-23-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-30-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-10-07-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-10-14-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-10-21-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-10-28-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-11-04-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-11-11-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-11-18-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-11-25-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-12-02-era-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-12-02-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-12-09-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-12-16-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-01-06-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-01-20-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-01-27-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-02-03-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-02-10-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-02-17-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-02-24-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-03-02-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-03-09-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-03-16-v2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-03-16-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-04-06-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-12-30-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-01-hpk1-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v10-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v11-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v12-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v13-final-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v14-final-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v4-jose-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v4-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v5-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v6-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v7-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v8-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v9-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-11-23-dtt-meeting-agee-v1-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-11-23-dtt-meeting-agee-v2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-11-23-dtt-meeting-agee-v3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-11-23-ps-meeting-agee-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-12-11-ddt-meeting-agee-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-bv-analytics-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2021-2-4-21-bacmid-pcr-ppt-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2021-2021-02-11-weekly-schedule-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-training-mateo-s-training-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-09-05-lascexp-n60-n61-n86-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-09-10-lascexp-mb183-n47-n48-n50-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-09-17-lascexp-n47-n48-n50-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-09-24-lascexp-n49-n52-n71-n72-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-01-lascexp-n101-n102-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-08-lascexp-n51-n85-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-15-lascexp-n30-n37-n48-n55-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-22-lascexp-n91-n98-n96-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-27-lascexp-n42-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-29-lascexp-n49-n71-n72-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-11-05-lascexp-n30-n37-n60-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-11-12-lascexp-n86-n96-n102-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-11-19-lascexp-n86-n92-n98-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-11-26-lascexp-n92-n96-n102-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-12-04-lascexp-n86-n102-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-12-10-lascexp-n98-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-12-17-lascexp-n52-n71-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-04-lascexp-n86-n102-copy-b-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-04-lascexp-n86-n102-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-11-lascexp-n72-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-18-lascexp-n51-n60-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-25-lascexp-n51-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-03-03-lascexp-n60-n72-n98-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-03-10-lascexp-n37-n71-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-05-05-lascexp-n42-n131-n132-n133-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-05-12-lascexp-n133-n168-n174-n176-n177-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-05-19-lascexp-n139-n154-n157-n158-n160-n171-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-05-27-lascexp-n176-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-06-03-lascexp-n139-n154-n158-n174-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-06-10-lascexp-n37-n175-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-06-17-lascexp-n71-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-06-24-lascexp-n60-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-07-08-lascexp-n139-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-07-15-lascexp-n210-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-07-29-lascexp-n163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-08-05-lascexp-n92-n163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-08-12-lascexp-n107-108-109-193-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-08-19-lascexp-n51-n55-n61-n72-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-08-26-lascexp-n55-n61-n72-n93-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-02-lascexp-n71-n212-n214-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-09-lascexp-n215-n225-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-16-lascexp-n247-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-23-lascexp-n131-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-29-lascexp-n223-n224-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-11-03-lascexp-n193-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-11-11-lascexp-n236-n238-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-11-18-lascexp-n193-n221-n222-n247-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-12-01-lascexp-n209-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-12-09-lascexp-n71-131-225-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-12-16-lascexp-n71-n225-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-19-bv-harvest-request-3l-n47-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-19-bv-harvest-request-3l-n48-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-19-bv-harvest-request-3l-n50-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-26-bv-harvest-request-3l-n49-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-26-bv-harvest-request-3l-n52-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-26-bv-harvest-request-3l-n71-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-26-bv-harvest-request-3l-n72-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-01-bv-harvest-request-3l-n101-1-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-01-bv-harvest-request-3l-n102-1-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-03-bv-harvest-request-3l-mb204-yoph-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-08-bv-harvest-request-6l-n51-1-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-08-bv-harvest-request-6l-n85-1-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-16-bv-harvest-request-3l-n48-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-16-bv-harvest-request-3l-n55-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-16-bv-harvest-request-4-5l-n30-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-16-bv-harvest-request-4-5l-n37-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-12-18-bv-harvest-request-6l-n52-2-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-04-bv-harvest-request-6l-n102-5-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-04-bv-harvest-request-7-5l-n86-5-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-12-bv-harvest-request-13-5l-n72-3-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-19-bv-harvest-request-10-5l-n60-3-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-19-bv-harvest-request-7-5l-n51-2-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-lab-services-bv-harvest-request-2019-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-03-17-2022-internship--protein-sciences-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-2021-schedules-july-2021-weekly-schedule-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-2021-schedules-june-2021-weekly-schedule-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-bacmam-stuffz-bacmam-vector-design-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-bv-new-clone-mastersheet-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-bv-pipeline-update-20220127-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-bv-pipeline-update-20220210-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-nmac-new-clone-mastersheet-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-presentations-1-on-1-meetings-20210924-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-presentations-baculovirus-pipeline-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-presentations-bv-pipeline-update-template-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-presentations-slides-template-save-a-copy-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-wip-bv-fridge-map-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-2020-09-24-hugo-craf-bv-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-2020-09-24-results-overview-hugo-craf-bv-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-original-files-2020-09-02-smscpur1-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-original-files-2020-09-09-smscpur-n91-212-1-214-1-216-220-223-224-229-235-237-245-247-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-original-files-2020-09-14-smscpur1-n71-6-93-1-moi-220-223-224-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-pc-group-meetings-2021-05-27-bv-pipeline-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-pc-group-meetings-2021-06-03-bv-pipeline-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-11-3-2019-small-scale-priorities-jose-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-2019-10-31-smscpur-list-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-bacmid-to-p2-virus-production-hpk-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-bacmid-to-p2-virus-production-jose-priorities-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-bacmid-to-p2-virus-production-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-ddt-protein-clone-database---bv-clones-2020-csv-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-materials-order-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-09-03-moi-study-n47-n50-n72-n78-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-09-10-moi-study-n52-n55-n71-n77-n84-n86-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-09-24-moi-study-n85-n100-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-09-28-moi-study-n51-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-01-moi-study-n56-n57-n75-n78-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-08-moi-study-n77-n79-n84-n94-n96-n98-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-15-smscexp-hpk1-compound-studies-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-22-moi-study-n96-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-29-moi-study-n104-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-11-05-moi-study-n92-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-11-12-moi-study-n92-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-11-16-moi-study-n92-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-12-04-moi-study-n84-n92-n97-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-02-03-moi-study-n319-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-04-20-moi-study-n131-n132-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-05-04-moi-study-n127-128-154-157-158-160-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-05-12-moi-study-n127-128-139-158-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-05-26-moi-study-n127-128-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-06-30-moi-study-n146-n210-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-07-14-moi-study-n71-cholesterol-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-08-12-moi-study-n93-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-09-01-moi-study-n91-245-249-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-09-09-moi-study-n215-218-220-223-224-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-09-23-moi-study-n148-224-247-249-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-10-06-moi-study-n106-131-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-10-06-moi-study-n131-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-11-03-moi-study-n134-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-11-11-smscexp-study-n71-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-12-02-moi-study-n273-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-12-09-moi-study-n131-163-215-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-10-14-hpk1-construct-proposals-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-10-14-hpk1-constructs-proposal-ea-v2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-10-14-hpk1-constructs-proposal-ea-v3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-10-15-hpk1-constructs-proposal-v2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-11-22-hpk1-prosci-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-12-03-hpk1-prosci-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-12-17-hpk1-available-proteins-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2020-01-09-hpk1-available-proteins-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2020-01-14-hpk1-available-proteins-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2020-01-22-comparision-of-n86-expressions-and-purifications-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-hpk1-protein-availability-bill-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-hpk1-purification-revised-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-hpk1-purification-revisedv2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-hpk1-purification-revisedv3-ea-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-wu-p-et-al-structure-2019-hematopoietic-progenitor-kinase-1-structure-in-a-domain-swapped-dimer-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-07-19-nbvc44---nbvc46-smscpur-autosaved-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-07-19-nbvc44---nbvc46-smscpur-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-01-smscpur-n29-37-2-37-3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-01-smscpur-n29-5-37-2-37-3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-02-smscpur-moi-n44-46-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-10-n30-n46-moi-smscpur-column-phy-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-27-smscpur-n47-n50-n60-n61-moi-n78-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-03-smscpur-n47-n50-n72-n77-n79-n85-n86-n90-mb183-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-06-smscpur-p2-moi-n47-n50-n72-n78-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-09-smscpur-p2-n52-55-79-85-90-92-94-96-100-102-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-13-smscpur-n52-55-71-77-84-86-mb183-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-25-smscpur-n47-2-48-2-50-2-54-56-87-91-92-97-100-m183-updated-9-30-19-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-27-smscpur-moi-n85-100-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-30-smscpur-n49-2-52-2-71-72-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-02-smscpur-n51-moi-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-07-smscpur-n56-57-75-78-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-08-n91-n92-analysis-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-08-smscpur-p2-n76-85-90-98-100-largscexp-101-1-102-1-mb204-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-11-smscpur-p2-77-79-84-94-96-98-lascexp-51-85-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-04-smscpur-n49-2-55-60-71-2-72-2-88-91-96-98-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-05-smscpur-n96-moi-n104-p2-n104-moi-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-06-smscpur-n30-37-42-42-08-89-76-105-mb204-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-08-smscpur-n30-5-37-4-60-2-n92-moi-n98-moi-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-08-smscpur-n30-6-37-4-60-2-n92-moi-n98-moi-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-18-smscpur-n92-moi-n98-p2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-19-smscpur-n86-2-96-2-102-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-12-02-smscpur-n55-91-92-96-102-107-108-110-112-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-12-09-smscpur-n84-92-97-86-4-102-4-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-12-20-smscpur-n52-2-n71-3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-04-10-smscpur-p2-n129-n132-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-04-27-smscpur-moi-n131-132-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-04-27-smscpur-p2-n42-127-128-133-141-154-157-158-160-162-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-05-smscpur-n134-136-n139-n168-n169-n171-n174-177-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-06-smscpur-moi-n128-154-157-158-160-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-11-smscpur-n42-9-n131-1-n132-2-n133-1-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-11-smscpur-n42-9-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-14-smscpur-moi-n127-128-139-158-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-20-smscpur-n133-2-168-1-174-1-176-1-177-1-moi-n127-128-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-21-smscpur-n139-1-154-1-157-1-158-1-160-1-171-1-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-28-smscpur-n128-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-29-smscpur-n176-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-06-05-smscpur-n139-2-154-2-1-158-2-174-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-06-12-smscpur-n37-8-n175-1-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-06-24-smscpur-n144-146-147-149-203-204-205-210-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-06-24-smscpur-n71-5-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-07-02-smscpur-moi-n146-210-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-07-21-smscpur-n139-3-143-145-151-163-184-210-1-211-copy-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-07-21-smscpur-n139-3-143-145-151-163-184-210-1-211-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-08-10-smscpur-n92-3-163-2-163-3-139-3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-08-17-smscpur-n93-moi-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-08-20-smscpur-n55-61-72-193-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-08-25-smscpur-n175-177-212-214-231-245-249-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-02-smscpur-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-02-smscpur1-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-09-smscpur-n91-212-1-214-1-216-220-223-224-229-235-239-241-245-247-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-14-smscpur1-n71-6-93-1-moi-220-223-224-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-22-smscpur-n247-1-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-28-smscpur-n131-2-131-3-131-4-moi-247-249-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-10-06-smscpur-n51-4-106-131-223-1-223-2-224-1-224-2-244-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-10-08-smscpur-moi-n106-n131-n244-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-11-06-smscpur-n193-106-211-134-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-11-13-nbvc-n134-n5-n273-n236-n238-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-11-23-smscpur-n5-193-4-209-221-1-222-1-238-247-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-12-07-nbvc-n209-n273-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-12-18-nbvc-n225-n71-n131-n319-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2021-06-02-nbvc-n275-moi-n366-5-smscpur-results---copy-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2021-06-08-nbvc-n327-moi-n369-moi-n366-6--smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2021-06-09-nbvc-n275-moi--smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210609-nbvc-n331moi-n351-n354-n370-372-n319moi-n5-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210616-nbvc-n370-n372-purificationcomparisons-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210617-nbvc-n71-purificationcomparisons-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210621-nbvc-ssps-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210702-ssp-n174-n337-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210726-smscpur-n172-2-n182-2-n327-1-n382-n387-n397-n400-n423-n425-428-n401-403-n381-n399-n366-n398-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210726-wb-n397-n423-n425-n426-n427-n428-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210805-precission-n423-n425-428-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210810-bv-updates-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210816-mois-n423-425-428-smscpurn424-n429-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210823-mois-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210826-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-01-25-nbvc-n72-n163-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-01-nbvc-n72-7-n163-5-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-02-nbvc-n359-n360-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-08-nbvc-n263-n271-n324-n327-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-08-nbvc-n72-8-n163-6-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-12-nbvc-n319-moi-n364-n365-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-16-nbvc-n163-7-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-19-nbvc-n327-moi-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-19-nbvc-n364-1-n365-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-22-nmac-n3-n5-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-05-nbvc-n154-n158-moi-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-05-nbvc-n275-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-08-nbvc-n251-n300-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-16-nbvc-n344-1-n346-1-n347-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-16-nbvc-n344-1-n346-1-n347-1-smscpur-results-updated-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-19-nbvc-n252-n349-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-19-nbvc-n5-6-n154-3-n158-3-n251-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-22-nbvc-n158-moi-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-02-nbvc-n360-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-09-nbvc-n225-4-n275-moi-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-13-nbvc-n329-n330-n367-n368-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-19-nmac-n6-n11-nbvc-n5-7-n154-4-n366-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-20-nbvc-n331-n337-n338-n339-n340-n352-n353-n354-n355-n369-n370-n371-n372-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-20-nbvc-n331-n353-n354-n355-n369-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-23-nbvc-n7-1-n366-1-n367-1-n368-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-30-nbvc-n275-1-n299-1-n299-2-n300-1-n329-1-n350-1-n351-1-n352-1-n353-1-n354-1-n355-1-n367-2-n368-2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-05-06-nbvc-n98-5-n275-moi-n337-moi-n349-351-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-05-10-nbvc-n331-p3-n338-1-n339-1-n366-2-n366-3-n366-4-n368-3-n370-1-n371-1-n372-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-05-14-nbvc-n337-1-n353-2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-comparison-n86-n91-n84-n92-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-e-coli-smscpur-2019-08-30-smscpur-neec-n121-n135---n139-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-e-coli-smscpur-2019-09-26-smscpur-n140-star-n143-star-n143-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-e-coli-smscpur-n140-n143-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-e-coli-smscpur-smscpur-necc-140-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-mammalian-smscpur-21-03-22-nmac-n9-n10-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-mammalian-smscpur-21-04-19-nmac-n6-n11-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-smscpur-p2-virus-nbvc42-69-71-74-75-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-03-p2-virus-cell-specs-n51-n93-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-05-p2-virus-cell-specs-n52-55-60-61-79-85-90-92-95-96-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-10-p2-virus-cell-specs-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-17-p2-virus-cell-specs-n54-n56-n87-n91-n92-n97-n100-mb183-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-28-p2-virus-cell-specs-mb204-yoph-40-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-01-p2-virus-cell-specs-n76-n85-n90-n98-n100-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-15-p2-virus-cell-specs-mb204-n54-n55-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-22-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-26-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-28-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-11-12-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-11-25-p2-virus-cell-specs-n91-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-11-28-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-01-29-p2-virus-cell-specs-n86-n101-n102-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-01-31-p2-virus-cell-specs-n86-n101-n102-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-05-p1-p2-virus-cell-specs-n61-n98-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-05-p2-virus-cell-specs-n49-n51-n52-n55-n72-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-05-p2-virus-cell-specs-n60-71-72-51-bira-98-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-12-p1-virus-cell-specs-n60-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-21-p2-virus-cell-specs-n60-71-72-51-52-98-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-03-p2-virus-cell-specs-n86-moi-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-04-p2-virus-cell-specs-n71-n52-n72-moi-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-06-p2-virus-cell-specs-n71-n52-moi-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-10-p1-virus-cell-specs-n21-119-120-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-11-p2-virus-cell-specs-n52-moi-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-13-p2-virus-cell-specs-n21-119-120-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-07-p2-virus-cell-specs-n129-132-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-17-p2-virus-cell-specs-n130-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-20-p2-virus-cell-specs-n127-128-133-141-154-157-158-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-24-p2-virus-cell-specs-n160--n162-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-28-p2-virus-cell-specs-n134-136-139-168-169-171-174-176-177-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-01-p2-virus-cell-specs-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-04-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-08-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-12-p3-n127-128-139-141-157-158-160-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-26-p2-p3-n154-157-158-160-168-175-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-06-05-p2-n71-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-06-12-p2-n60-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-06-30-p2-virus-cell-specs-bira-n139-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-07-08-p2-virus-cell-specs-n91-131-132-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-07-14-p2-virus-cell-specs-n143-145-151-184-211-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-07-17-p2-virus-cell-specs-n163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-07-28-p2-virus-cell-specs-n92-93-107-109-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-08-07-p2-virus-cell-specs-n193-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-08-11-p2-virus-cell-specs-n55-n61-n72-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-08-14-p2-virus-cell-specs-n51-55-61-72-212-214-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-10-27-p2-virus-cell-specs-n134-n193-n211-version-7-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-10-27-p2-virus-cell-specs-n134-n193-n211-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-10-30-p2-virus-cell-specs-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-10-30-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-11-06-p2-virus-cell-specs-n5-247-236-238-273-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-11-09-p2-virus-cell-specs-n71-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-11-17-p2-virus-cell-specs-n225-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-11-20-p2-virus-cell-specs-n5-25-209-251-328-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-12-01-p2-virus-cell-specs-n131-163-215-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-12-04-p2-virus-cell-specs-n71-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-12-11-p2-virus-cell-specs-n71-225-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-12-15-p2-virus-cell-specs-n319-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-08-20-viral-titer-n42-n69-n71-n74-n75-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-08-27-viral-titer-n47-n50-n78-bira-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-09-02-viral-titer-n47-n50-n72-n77-n79-84-86-n90-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-09-10-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-09-17-viral-titer-calculations-n51-n90-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-09-24-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-01-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-08-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-25-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-26-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-28-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-29-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-31-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-11-05-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-11-12-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-11-17-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-12-04-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-viral-titer-master-list-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-01-23-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-02-14-viral-titer-n86-52-bira-61-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-02-18-viral-titer-n51-60-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-02-20-viral-titer-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-02-25-viral-titer-n51-50-71-72-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-03-viral-titer-p1-n52-n71-p2-n98-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-05-viral-titer-p2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-10-viral-titer-p2-bira-n130-132-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-10-viral-titer-p2-n42-127-128-131-132-133-141-154-157-158-160-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-10-viral-titer-p2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-05-05-viral-titer-p3-bira-p2-n134-n139-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-05-07-viral-titer-p2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-05-12-viral-titer-p2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-05-19-viral-titer-p2-p3-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-06-03-viral-titer-p2-n154-158-168-175-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-06-10-viral-titer-p2-n71-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-06-24-viral-titer-p2-n60-8-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-07-08-viral-titer-p3-bira-p2-n139-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-08-05-viral-titer-p2-n92-107-109-163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-08-12-viral-titer-p2-n93-163-193-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-08-18-viral-titer-p2-n51-55-61-72-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-09-23-viral-titer-p2-n148-211-216-229-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-archive-weeklytodo-august-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-room-move-planner-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-naomi-bv-school-results-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-naomi-p2-titers-naomi-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-1-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-5-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-6-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-schedule-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-stacy-bacmid-qc-stacy-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-stacy-p2-titers-stacy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-telma-bacmid-qc-tj-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-telma-p0-qc-tj-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-telma-p2-titers-telma-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-bv-school-p0-qc-protocol-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-bv-small-scale-expression-sheet-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-cell-passage-logs-archived---cell-passage-log-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-cost-expressions-per-liter-docx
-- [ ] onedrive_protein-chemistry-baculovirus-dac-work-20250320-endotoxinassayworkbook-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-delphi-small-scale-task-section-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20240940-gpr75-fluorescence-calculations-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241011-moi-n21221-quant-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241014-212221-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241014-moi-n21216-lse-21221-quant-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241018-n21216-002-lse-fluorquant-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241028-n21241-quant-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241104-fq-n21218-n21221-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241105-fq-hitep2-0-validation-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241112-hitep2-0-validation-exp3-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241115-lse-n21218-003-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-2024118-fq-hitep2-0-validation-exp2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20241203-ssp-n21249-n21253-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20250130-21254-21245-21243-21242-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20250306-21258-21261-21270-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20250513-fluorquant-21271-21273-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20250825-gpr75-p0s-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20250902-gpr75-p2s-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20250905-gpr75-p2s-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-facs-analysis-20250908-gpr75-coexp-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-hitep-ultra-hitep-ultra-hitep-ultra-experiment-planner-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-01-27-lascexp-n72-n163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-02-03-lascexp-n72-n163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-02-10-lascexp-n163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-02-17-lascexp-n364-n365-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-03-10-lascexp-n344-n346-n347-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-03-17-final-lascexp-n5-n154-n158-n251-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-03-31-lascexp-n360-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-04-07-lascexp-n225-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-04-13-lascexp-n5-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-04-21-lascexp-n7-n366-n367-n368-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-04-28-lascexp-n275-299-300-350-355-367-368-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-05-04-lascexp-98-338-339-366-368-370-371-372-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-05-12-lascexp-337-353-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-05-19-lascexp-n5-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-05-26-lascexp-n351-366-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-06-02-lascexp-n354-366-370-372-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-06-23-lascexp-n337-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-07-08-lascexp-n384-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-07-13-lascexp-n177-n182-n384-n388-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-07-22-lascexp-n177-182-366-327-379-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-07-30-lascexp-n182-copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-08-05-lascexp-n182-n288-n289-n285-n397-n337-n338-n339-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-08-10-lascexp-n398-399-174-394-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-08-19-lascexp-n349-351-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210826-lascexp-n351-n426-n428-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210902-lascexp-n397-n370-n379-n428-n387-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210909-lascexp-n384-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210923-lse-n428-3-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210930-lse-n370-n379-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20211005-lse-n71-n285-n430-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20211104-lse-n55-n61-n384-n385-n430-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20211109-lse-nbvc-n384-n385-n430-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20211118-lse-nbvc-n55-n61-n126-n428-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220214-lse-n507-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220214-lse-n517-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220225-lse-n20-504-505-506-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220303-lse-n71-n131-n132-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220308-lse-n20-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220308-lse-n428-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220519-lse-n406-414-526-527-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220525-lse-n504-n516-n517-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220602-lse-n504-n618-625-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220616-n383-n469-n618-n625-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220630-n627-n618-n585-n618-n567-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220811-lse-n650-652-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220811-lse-n653-656-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220815-bv-priority-list-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220819-lse-n567-n625-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220822-lse-n469-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220825-lse-n351-n508-n519-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220825-lse-n366-368-614--updated-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220825-lse-n366-368-614-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220825-lse-n414-658-658-25-20795-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220922-lse-n519-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221003-lse-n20850-20851-20855-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221003-lse-n20852-20856-532-585-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221013-lse-n585-n414-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221020-lse-n351-n508-n519-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221023-lse-n614-n20866-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221110-lse-n469-n534-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221116-lse-n645-648-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221121-20221214-lse-n20870-2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221121-lse-n20941-20874-20877-20881-20882-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221219-lse-n00494-n00495-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230130-lse-n20676-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230130-lse-n20725-20863-20879-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230216-lse-nbvc-n20725-n20795-n20880-n20881-n20882-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230216-lse-nbvc-n20870-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230220-lse-nbvc-n20471-n20801-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230227-lse-nbvc-n20874-n20877---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230227-lse-nbvc-n20874-n20877-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230311-lse-nbvc-n20875-n20876-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230316-lse-nbvc-n20893-20894-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230324-lse-nbvc-n20767-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230407-lse-n20331-20725-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230414-lse-n20811-n20820-n20904-n20696-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230417-lse-n20331-20436-20830-20725-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230417-lse-n20822-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230417-lse-n20922-20811-20923-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230504-lse-n20676-20960-20810-20440-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230504-lse-n20960-20810-20440-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230512-lse-n20831-n20828-n20825-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230526-lse-nbvc-n20048-n20918-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230526-lse-nbvc-n20893-20923-20924-20960-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230526-lse-nmac-20143-20144-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230630-lse-nbvc-n20810-20811-20809-20392-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230721-lse-nbvc-n20684-n20393-n20875-n20910-n20911-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230728-lse-n20903-n20904-n20946-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230731-lse-n20776-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230804-lse-n20998-n20975-n20920-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230811-lse-nbvc-n20920-20988-20989-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230825-lse-n20832-20048---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230825-lse-n20832-20048-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230828-lse-20958-20987-20990-20991-20992-20994---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230828-lse-20958-20987-20990-20991-20992-20994-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230908-lse-n20048-n21046-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230911-lse-n20514-n20885-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230915-lse-n20644-n20832-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230918-lse-n21014-20892-21038-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230922-lse-n20439-20689-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230925-lse-n20392-n21040-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231006-lse-n21035-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231009-lse-n21052-21060-21063-21012-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231020-nbvc-n20810-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231027-lse-n20999-n21002-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231030-lse-n21003-20689-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231103-lse-n21036-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231110-lse-n20918-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240209-lse-n21070-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240304-lse-n21070-n21136-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240308-lse-n21069-n20909-n21121-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-202403118-lse-n21000-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240315-lse-n20918-21130-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240401-lse-n20392---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240401-lse-n20392-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240405-lse-n20392---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240405-lse-n20392-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240408-lse-n20980-21158-21098-21160-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240412-lse-n21161-21162-21163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240412-lse-n21161-21162-211631-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240419-lse-n20914-20915---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240419-lse-n20914-20915-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240419-lse-n21044-20060-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240426-lse-n21159-21179-21174---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240426-lse-n21159-21179-21174-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240429-lse-n21071-n21175-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240517-lse-ncmp-n20060-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240520-lse-n20438-21188-21189-21190-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240625-lse-n20942---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240625-lse-n20942-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240712-lse-ncmp-n20001-nbvc-n20942-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240715-lse-nbvc-n21161-n21188---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240715-lse-nbvc-n21161-n21188-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240719-lse-nbvc-n21000-002-n211207-001-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240805-lse-n21121-002-nbvc-n21187-001---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240805-lse-n21121-002-nbvc-n21187-001-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240809-lse-n21198-001-n21199-001-n21206-001---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240809-lse-n21198-001-n21199-001-n21206-001-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240812-lse-n21000-003-n21200-002-n21121-003---copy-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240812-lse-n21000-003-n21200-002-n21121-003-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240816-lse-n21201-n21203-n21204-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240819-lse-n20034-n20063-n21202-n21208-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240909-lse-n21121-003-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240913-lse-n21198-002-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240916-lse-n21195-001-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241006-lse-n21000-n21209-n21210-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241014-lse-n21000-21211-21221-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241018-lse-n21216-002-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241101-lse-n21218-002-n21241-001-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241104-lse-n21221-004-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241122-n20866-002-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241202-n20879-002-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241216-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-april-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-august-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-august-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-august-2025-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-book-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-cell-spec-virus-volume-calculation-template-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-december-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-december-2025-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-february-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-february-2025-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-january-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-january-2025-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-july-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-july-2025-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-july-august-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-june-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-june-2025-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-june-july-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-large-scale-expression-example-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-lse-blank-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-march-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-march-2025-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-may-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-may-june-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-november-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-november-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-october-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-september-2023-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-september-2024-lse-schedule-docx
-- [ ] onedrive_protein-chemistry-baculovirus-large-scale-expressions-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-202050811-btk-lnp-samplelist-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-20241022-msg-hibit-platemap-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-20250806-hibit-btk-ctm-lnp001-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-20250811-btk-lnp-encapsulation-calculation-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-dls-sample-sheet-template-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-gld03-20260320-gld03-platemap-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-cayman--a-guide-to-lipid-nanoparticle-formulation-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-lnp-cost-breakdown-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-pharmaceuticals-17-01351-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-s41467-024-50235-x-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-tailoring-combinatorial-lipid-nanoparticles-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-the-role-of-lipid-components-in-lipid-nanoparticles-for-vaccines-and-gene-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-msanchez-lipidnanoparticles-poster---copy-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-n21071-lnp-titering-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-picogreen-assay-template-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20240320-lnp-transfection-of-dna-and-fluorescent-biotin-into-mammalian-cells-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20240805-development-of-microfluidic-lnp-synthesis-mechanism-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20240912-development-of-new-lnp-lipid-mix-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250129-assessment-of-impermeable-ctm-delivery-by-lnps-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250214-lnptransfectionoverview-mateosanchez---copy-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250503-lnp-overview-and-delivery-of-ctm-fluorescent-analogue-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250811-btk-lnp-delivery-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250916-ews-fli1-pulldown-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250918-ssp-nmac-n-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250927-ews-fli1-pulldown-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-gld03-lnp-degrader-delivery-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-gld03-lnp-degrader-updated-plots-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-lnp-edgm-presentation-draft-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-lnp-edgm-presentation-draft-3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20241023-hibit-screen1-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20241031-hibit-screen2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250129-sgn01-ctm-lipid-nanoparticle-transfection-meeting-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250214-hibit-sgn01-ctm-lnp001-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250215-sgn01-ctm-lnps-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250217-sgn01-ctm-lnp-calibrationcurve-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250315-sgn01-ctm-lnp-hibit-meeting-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250423-sgn01degraderlnps-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-draftsop-microfluidic-synthesis-of-lipid-nanoparticls-containing-amine-del-tracers-docx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-master-lipid-mix-table-docx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-lipid-nanoparticle-encapsulation-of-poorly-membrane-permeable-ctms-docx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-microfluidic-synthesis-of-lipid-nanoparticles-containing-hydrophilic-compounds-docx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-microfluidic-synthesis-of-lipid-nanoparticles-containing-plasmid-dna-docx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-microfluidic-synthesis-of-lipid-nanoparticles-for-cytosolic-protein-delivery-docx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-vortex-synthesis-of-fluorescent-biotin-liposomes-docx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop2-microfluidic-synthesis-of-lipid-nanoparticles-containing-membrane-impermeable-ctms-docx
-- [ ] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-web-crawler-docs-lipid-property-crawler-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-02-17-mamexp-n3-5-betagal-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-03-16-nmac-n9-n10-2021-03-16-nmac-n9-n10-expression-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-03-16-nmac-n9-n10-2021-03-17-gfp-nmac-n9-n10-results-final-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-03-16-nmac-n9-n10-2021-03-17-nmac-nn9-n10-cell-spec-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-04-13-nmac-n6-n11-cell-spec-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-04-21-nmac-n10-cell-spec-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-20241202-secretiontargetforms-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-mammalian-expression-plan-1-20-21-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-myc-studies-myc-lysate-expression-study-v1-docx
-- [ ] onedrive_protein-chemistry-baculovirus-mammalian-expression-myc-studies-myc-lysate-expression-study-v2-docx
-- [ ] onedrive_protein-chemistry-baculovirus-mateo-experiment-planning-q4-2024---q1-2025-docx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-02-10-moi-study-n5-25-319-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-02-17-moi-study-n327-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-02-24-moi-study-n5-25-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-03-01-moi-study-154-158-319-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-03-10-moi-study-158-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-04-07-moi-study-275-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-05-04-moi-study-275-337-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-05-12-moi-study-331-369-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-05-19-moi-study-275-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-06-02-moi-study-n327-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-20220127-moi-study-n406-tni-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-moi-studies-20220204-moi-study-n406-n469-sf9-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-multibac-manual-v9-0-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-perplexity-reviewed-sop-docx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20230403-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20230503-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20230503-ma-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20230609-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20230721-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20230724-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20230829-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20231011-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20231020-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20231106-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240112-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240114-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240228-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240304-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240329-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240424-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240611-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240628-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20240731-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20241108-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20250130-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-plate-maps-20250211-bv-transf-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-proximity-labeling-20231122-proximity-labelling-btk-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-proximity-labeling-btk-proximity-labelling-sequences-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210616-nbvc-n370-n372-purificationcomparisons-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210621-nbvc-sspn177-n182-n285-n287-n289-n290-n292-n294-n383-n384-n385-n388-n288-n377-n378-n379-n380-n394-n293-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210629-nbvc-wb-n290-n292-n287-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210709-bv-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210712-nbvc-ssp-n366-n71-bv-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210720-nbvc-ssp-n177-n182-bv-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210826-nbvc-wb-n426-n429-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210831-nbvc-wb-moi-n290-n292-n294-n287-ssp-n430-436-lse-n351-n426-n428-bv-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210902-nbvc-wb-lse-n426-n428-n351-wb-ssp-n430-436-bv-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210907-nbvc-lse-n397-3-n428-2-n387-1-n370-3-n379-3-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210921-nbvc--n396-n439-447-n450-460-moi-n285-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210921-smscpur-n396-n439-447-n450-460-moi-n285-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210928-wb-n439-443-n450-451-454-456-lysis-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210930-smscpur-nmac-n5-n24-27-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210930-wb-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211005-smscpur-nmac-n24-26-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211007-ssps-n370-379-mois-n452-459-460-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211014-mois-n453-n455-n457-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211020-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211026-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211104-ms-ssps-n464-467-moi-n126-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211104-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211109-ssp-moi-n126-nbvc-384-385-430-nmac-30-31-33-35-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211109-ssp-moi-nbvc461-nbvc-55-61-384-385-430-477-nmac-27-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211109-ssp-nmac2-28-30-nbvc55-4-61-3-430-1-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211110-results-smscpur-nmac-n20-nbvc-n126-asec-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211209-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211214-ms-nmac-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220203-ms-moi-n406-tni-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220211-ssp-n503-n504-n505-n506-n507-moi-n406-n469-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220217-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220303-beadmilltest-n444-447moi-n504-506lse-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220308-ssp-n509-510-511-512-513-514-20-125-473-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220310-ssp473-25-468-468-25-497-482-484-404-25-ma51-ma52-ma53-ma50-ma57-ma58-ma59-20-509014-lse7-11-131-6-131-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220322-ssp-n11-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220404-ssp-nmac-68-76-nbvc-522-524-495-20-132-484-522-524-495-20-132-484-414-482-131-449-473-494-523-469-483-404-406-468-478-520-499-521-529-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220404-ssp-nmac-68-76-prescission-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220419-ssp-nbvc-20-131-132-404-406-414-428-449-469-516-518-530-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220426-ssp-lse-504-2-505-2-506-2-mdelosrios-t14-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220426-ssp-lse-504-2-505-2-506-2-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220502-ssp-nh-ms-nbvc-n482-n492-n49-n516-n517-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220505-wb-n482-492-495-516-517-nh-ms-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220512-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220523-lses-n406-414-526-527-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220602-lse-ssp-n504-3-n516-1-n517-1-bv-update-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220602-lse-ssp-n504-4-n618-1-n625-1-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220613-bv-pipeline-overview-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220616-ssp-n611-627-351-383-508-519-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220622-ssp-n636-637-645-646-647-648-649-650-651-652-653-654-655-lse-n351-348-383-469-618-25-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220629-ssp-n644-n656-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220815-lses-n650-658-20799-20801-20802-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220825-lse-n469-n567-n625-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220829-ssp-n472-n532-n534-n565-n619-n633-n638-lse-n366-n368-n614-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220922-nbvc-n472-404-470-532-534-471-658-658-25-478-432-383-560-pptx
-- [ ] onedrive_protein-chemistry-baculovirus-sop-expression-strepii-tev-fzr1-172-474-docx
-- [ ] onedrive_protein-chemistry-baculovirus-sop-expression-strepii-tev-fzr1-172-474-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-the-shore-fitness-center-rules-and-regulations-2025-09-03-pdf
-- [ ] onedrive_protein-chemistry-baculovirus-tips-expression-biic-master-cell-bank-log-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-cellfectin-volumes-calculator-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-01-19-p2-virus-cell-specs-bira-n72-n163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-01-26-p2-virus-cell-specs-n5-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-01-29-p2-virus-cell-specs-n72-359-360-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-02-02-p2-virus-cell-specs-n263-271-324-327-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-02-09-p2-virus-cell-specs-n5-364-365-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-02-26-p2-virus-cell-specs-n154-158-221-222-275-351-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-03-02-p2-virus-cell-specs-n7-225-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-03-05-p2-virus-cell-specs-n154-158-251-299-300-344-346-347-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-03-12-p2-virus-cell-specs-n5-25-221-222-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-03-16-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-02-n225-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-09-n5-25-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-16-p2-x14-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-20-n98-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-23-p2-virus-cell-specs-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-30-p2-virus-cell-specs-n98-338-339-366-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-05-04-p3-virus-cell-specs-n331-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-05-07-p2-virus-cell-specs-n353-369-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-05-14-p2-virus-cell-specs-n5-25-354-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-05-28-p2-virus-cell-specs-bira-n534-370-372-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-06-04-p2-virus-cell-specs-x20-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-06-22-p2-virus-cell-specs-n192-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-06-30-p2-virus-several-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210720-p2-n285-n288-n289-n291-n174-n382-n387-n397-n402-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210723-p2-n337-339-n397-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210723-p2x17-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210806-p2-n349-351-424-428-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210806-p2-n397-moi-287-290-292-293-294-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210806-p2n424-n429-moix5-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210917-p2generation-n396-n349-n447-n450-460-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-01-27-viral-titer-p2-bira-72-163-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-02-02-viral-titer-p2-5-72-359-360-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-02-17-viral-titer-p3-n5-p2-327-364-365-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-02-17-viral-titer2-p3-n5-p2-327-364-365-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-03-02-viral-titer-p2-n154-158-221-222-275-351-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-03-09-viral-titer-p2-n71-158-251-299-300-344-346-347-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-03-31-viral-titer-p2-bira-225-275-360x2-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-04-06-viral-titer-p2-bira-225-349-350-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-04-20-viral-titer-p2-n7-n366-368-bira-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-05-04-viral-titer-bira-98-331-337-339-366-368-370-372-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-05-12-viral-p2-titer-n353-369-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-05-25-viral-p2-titer-n354-366-370-371-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-06-02-p2-titer-bira-n192x2-366-n182-n177-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-06-02-p2-titer-bira-n327-p3-n354-370-372-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-07-07-p2-titer-bira-n384-n388-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210713-viral-titer-calculations-n177-n384-n182-n388-n327-n337-n338-n339-n379-n192-0601-n192-0625-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210727-p2-viral-titers-n182-290-292-287293-294-285-288-289-174-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210803-viral-titers-n337-n338-n339-n397-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210803-viral-titers-n398-399-394-351-349-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210813-viral-titers-n349-351-397-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210813-viral-titers-n423-425-426-427-428-397-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210928-viral-titers-n192-p2-n192-p3-n370-n379-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20211005-viral-titers-n396-n285-n71-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20220503-ms-nh-comparison-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20220809-viral-titers-p2-n650-656-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20230206-nbvc-n20795-n20810-n20868-n20869-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2023214-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-bacmam-titering-20211109-nmac30-31-33-35-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-viral-titer-calculations-template-xlsx
-- [ ] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-viral-titers-mastersheet-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-bvp08-20221017-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00000-bv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00001-bv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00002-bv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00003-bv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00004-bv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00005-bv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00006-bv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-2022-plate-maps-hitep-hitep-plate-maps-hitep-p00007-bv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bacmam-bacmam-clone-design-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-2020-transformations-transformation-and-bacmid-pipeline-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-02-26-2020-bv-biomass-request-el-hb-ea-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-bv-biomass-request-el-hb-ea-jss-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-bv-biomass-request-el-hb-ea-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-bv-biomass-request-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-bv-biomass-requests-copy-of-02-17-2020-bv-biomass-request-el-hb-ea-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-bv-pipeline-planner-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-cell-passage-logs-2019-20-cell-passage-log-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-copy-of-daily-tasks-2020-02-10-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-08-12-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-08-19-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-08-26-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-02-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-09-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-16-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-23-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-09-30-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-10-07-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-10-14-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-10-21-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-10-28-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-11-04-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-11-11-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-11-18-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-11-25-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-12-02-era-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-12-02-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-12-09-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2019-12-16-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-01-06-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-01-20-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-01-27-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-02-03-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-02-10-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-02-17-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-02-24-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-03-02-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-03-09-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-03-16-v2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-03-16-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-04-06-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-daily-tasks-daily-tasks-2020-12-30-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-01-hpk1-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v10-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v11-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v12-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v13-final-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v14-final-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v4-jose-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v4-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v5-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v6-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v7-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v8-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2019-2019-10-04-dtt-meeting-ambing-agee-v9-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-11-23-dtt-meeting-agee-v1-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-11-23-dtt-meeting-agee-v2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-11-23-dtt-meeting-agee-v3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-11-23-ps-meeting-agee-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-12-11-ddt-meeting-agee-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2020-2020-bv-analytics-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2021-2-4-21-bacmid-pcr-ppt-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-presentations-2021-2021-02-11-weekly-schedule-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-eboni-training-mateo-s-training-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-09-05-lascexp-n60-n61-n86-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-09-10-lascexp-mb183-n47-n48-n50-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-09-17-lascexp-n47-n48-n50-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-09-24-lascexp-n49-n52-n71-n72-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-01-lascexp-n101-n102-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-08-lascexp-n51-n85-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-15-lascexp-n30-n37-n48-n55-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-22-lascexp-n91-n98-n96-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-27-lascexp-n42-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-10-29-lascexp-n49-n71-n72-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-11-05-lascexp-n30-n37-n60-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-11-12-lascexp-n86-n96-n102-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-11-19-lascexp-n86-n92-n98-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-11-26-lascexp-n92-n96-n102-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-12-04-lascexp-n86-n102-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-12-10-lascexp-n98-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2019-12-17-lascexp-n52-n71-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-04-lascexp-n86-n102-copy-b-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-04-lascexp-n86-n102-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-11-lascexp-n72-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-18-lascexp-n51-n60-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-02-25-lascexp-n51-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-03-03-lascexp-n60-n72-n98-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-03-10-lascexp-n37-n71-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-05-05-lascexp-n42-n131-n132-n133-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-05-12-lascexp-n133-n168-n174-n176-n177-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-05-19-lascexp-n139-n154-n157-n158-n160-n171-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-05-27-lascexp-n176-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-06-03-lascexp-n139-n154-n158-n174-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-06-10-lascexp-n37-n175-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-06-17-lascexp-n71-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-06-24-lascexp-n60-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-07-08-lascexp-n139-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-07-15-lascexp-n210-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-07-29-lascexp-n163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-08-05-lascexp-n92-n163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-08-12-lascexp-n107-108-109-193-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-08-19-lascexp-n51-n55-n61-n72-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-08-26-lascexp-n55-n61-n72-n93-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-02-lascexp-n71-n212-n214-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-09-lascexp-n215-n225-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-16-lascexp-n247-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-23-lascexp-n131-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-09-29-lascexp-n223-n224-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-11-03-lascexp-n193-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-11-11-lascexp-n236-n238-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-11-18-lascexp-n193-n221-n222-n247-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-12-01-lascexp-n209-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-12-09-lascexp-n71-131-225-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-2020-12-16-lascexp-n71-n225-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-19-bv-harvest-request-3l-n47-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-19-bv-harvest-request-3l-n48-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-19-bv-harvest-request-3l-n50-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-26-bv-harvest-request-3l-n49-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-26-bv-harvest-request-3l-n52-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-26-bv-harvest-request-3l-n71-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-09-26-bv-harvest-request-3l-n72-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-01-bv-harvest-request-3l-n101-1-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-01-bv-harvest-request-3l-n102-1-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-03-bv-harvest-request-3l-mb204-yoph-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-08-bv-harvest-request-6l-n51-1-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-08-bv-harvest-request-6l-n85-1-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-16-bv-harvest-request-3l-n48-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-16-bv-harvest-request-3l-n55-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-16-bv-harvest-request-4-5l-n30-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-10-16-bv-harvest-request-4-5l-n37-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2019-12-18-bv-harvest-request-6l-n52-2-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-04-bv-harvest-request-6l-n102-5-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-04-bv-harvest-request-7-5l-n86-5-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-12-bv-harvest-request-13-5l-n72-3-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-19-bv-harvest-request-10-5l-n60-3-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-2020-02-19-bv-harvest-request-7-5l-n51-2-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-large-scale-expressions-lab-services-harvest-request-lab-services-bv-harvest-request-2019-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-03-17-2022-internship--protein-sciences-pdf
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-2021-schedules-july-2021-weekly-schedule-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-2021-schedules-june-2021-weekly-schedule-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-bacmam-stuffz-bacmam-vector-design-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-bv-new-clone-mastersheet-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-bv-pipeline-update-20220127-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-bv-pipeline-update-20220210-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-nmac-new-clone-mastersheet-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-presentations-1-on-1-meetings-20210924-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-presentations-baculovirus-pipeline-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-presentations-bv-pipeline-update-template-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-presentations-slides-template-save-a-copy-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-mateo-wip-bv-fridge-map-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-2020-09-24-hugo-craf-bv-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-2020-09-24-results-overview-hugo-craf-bv-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-original-files-2020-09-02-smscpur1-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-original-files-2020-09-09-smscpur-n91-212-1-214-1-216-220-223-224-229-235-237-245-247-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-2020-09-24-hugo-craf-original-files-2020-09-14-smscpur1-n71-6-93-1-moi-220-223-224-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-pc-group-meetings-2021-05-27-bv-pipeline-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-meetings-pc-group-meetings-2021-06-03-bv-pipeline-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-11-3-2019-small-scale-priorities-jose-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-2019-10-31-smscpur-list-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-bacmid-to-p2-virus-production-hpk-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-bacmid-to-p2-virus-production-jose-priorities-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-bacmid-to-p2-virus-production-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-ddt-protein-clone-database---bv-clones-2020-csv-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-miscellaneous-materials-order-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-09-03-moi-study-n47-n50-n72-n78-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-09-10-moi-study-n52-n55-n71-n77-n84-n86-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-09-24-moi-study-n85-n100-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-09-28-moi-study-n51-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-01-moi-study-n56-n57-n75-n78-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-08-moi-study-n77-n79-n84-n94-n96-n98-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-15-smscexp-hpk1-compound-studies-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-22-moi-study-n96-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-10-29-moi-study-n104-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-11-05-moi-study-n92-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-11-12-moi-study-n92-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-11-16-moi-study-n92-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2019-12-04-moi-study-n84-n92-n97-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-02-03-moi-study-n319-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-04-20-moi-study-n131-n132-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-05-04-moi-study-n127-128-154-157-158-160-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-05-12-moi-study-n127-128-139-158-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-05-26-moi-study-n127-128-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-06-30-moi-study-n146-n210-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-07-14-moi-study-n71-cholesterol-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-08-12-moi-study-n93-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-09-01-moi-study-n91-245-249-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-09-09-moi-study-n215-218-220-223-224-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-09-23-moi-study-n148-224-247-249-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-10-06-moi-study-n106-131-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-10-06-moi-study-n131-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-11-03-moi-study-n134-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-11-11-smscexp-study-n71-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-12-02-moi-study-n273-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-moi-studies-2020-12-09-moi-study-n131-163-215-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-10-14-hpk1-construct-proposals-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-10-14-hpk1-constructs-proposal-ea-v2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-10-14-hpk1-constructs-proposal-ea-v3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-10-15-hpk1-constructs-proposal-v2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-11-22-hpk1-prosci-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-12-03-hpk1-prosci-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2019-12-17-hpk1-available-proteins-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2020-01-09-hpk1-available-proteins-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2020-01-14-hpk1-available-proteins-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-2020-01-22-comparision-of-n86-expressions-and-purifications-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-hpk1-protein-availability-bill-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-hpk1-purification-revised-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-hpk1-purification-revisedv2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-hpk1-purification-revisedv3-ea-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-projects-hpk1-wu-p-et-al-structure-2019-hematopoietic-progenitor-kinase-1-structure-in-a-domain-swapped-dimer-pdf
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-07-19-nbvc44---nbvc46-smscpur-autosaved-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-07-19-nbvc44---nbvc46-smscpur-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-01-smscpur-n29-37-2-37-3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-01-smscpur-n29-5-37-2-37-3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-02-smscpur-moi-n44-46-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-10-n30-n46-moi-smscpur-column-phy-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-08-27-smscpur-n47-n50-n60-n61-moi-n78-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-03-smscpur-n47-n50-n72-n77-n79-n85-n86-n90-mb183-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-06-smscpur-p2-moi-n47-n50-n72-n78-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-09-smscpur-p2-n52-55-79-85-90-92-94-96-100-102-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-13-smscpur-n52-55-71-77-84-86-mb183-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-25-smscpur-n47-2-48-2-50-2-54-56-87-91-92-97-100-m183-updated-9-30-19-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-27-smscpur-moi-n85-100-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-09-30-smscpur-n49-2-52-2-71-72-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-02-smscpur-n51-moi-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-07-smscpur-n56-57-75-78-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-08-n91-n92-analysis-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-08-smscpur-p2-n76-85-90-98-100-largscexp-101-1-102-1-mb204-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-10-11-smscpur-p2-77-79-84-94-96-98-lascexp-51-85-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-04-smscpur-n49-2-55-60-71-2-72-2-88-91-96-98-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-05-smscpur-n96-moi-n104-p2-n104-moi-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-06-smscpur-n30-37-42-42-08-89-76-105-mb204-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-08-smscpur-n30-5-37-4-60-2-n92-moi-n98-moi-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-08-smscpur-n30-6-37-4-60-2-n92-moi-n98-moi-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-18-smscpur-n92-moi-n98-p2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-11-19-smscpur-n86-2-96-2-102-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-12-02-smscpur-n55-91-92-96-102-107-108-110-112-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-12-09-smscpur-n84-92-97-86-4-102-4-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2019-12-20-smscpur-n52-2-n71-3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-04-10-smscpur-p2-n129-n132-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-04-27-smscpur-moi-n131-132-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-04-27-smscpur-p2-n42-127-128-133-141-154-157-158-160-162-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-05-smscpur-n134-136-n139-n168-n169-n171-n174-177-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-06-smscpur-moi-n128-154-157-158-160-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-11-smscpur-n42-9-n131-1-n132-2-n133-1-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-11-smscpur-n42-9-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-14-smscpur-moi-n127-128-139-158-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-20-smscpur-n133-2-168-1-174-1-176-1-177-1-moi-n127-128-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-21-smscpur-n139-1-154-1-157-1-158-1-160-1-171-1-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-28-smscpur-n128-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-05-29-smscpur-n176-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-06-05-smscpur-n139-2-154-2-1-158-2-174-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-06-12-smscpur-n37-8-n175-1-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-06-24-smscpur-n144-146-147-149-203-204-205-210-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-06-24-smscpur-n71-5-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-07-02-smscpur-moi-n146-210-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-07-21-smscpur-n139-3-143-145-151-163-184-210-1-211-copy-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-07-21-smscpur-n139-3-143-145-151-163-184-210-1-211-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-08-10-smscpur-n92-3-163-2-163-3-139-3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-08-17-smscpur-n93-moi-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-08-20-smscpur-n55-61-72-193-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-08-25-smscpur-n175-177-212-214-231-245-249-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-02-smscpur-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-02-smscpur1-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-09-smscpur-n91-212-1-214-1-216-220-223-224-229-235-239-241-245-247-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-14-smscpur1-n71-6-93-1-moi-220-223-224-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-22-smscpur-n247-1-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-09-28-smscpur-n131-2-131-3-131-4-moi-247-249-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-10-06-smscpur-n51-4-106-131-223-1-223-2-224-1-224-2-244-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-10-08-smscpur-moi-n106-n131-n244-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-11-06-smscpur-n193-106-211-134-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-11-13-nbvc-n134-n5-n273-n236-n238-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-11-23-smscpur-n5-193-4-209-221-1-222-1-238-247-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-12-07-nbvc-n209-n273-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2020-12-18-nbvc-n225-n71-n131-n319-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2021-06-02-nbvc-n275-moi-n366-5-smscpur-results---copy-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2021-06-08-nbvc-n327-moi-n369-moi-n366-6--smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-2021-06-09-nbvc-n275-moi--smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210609-nbvc-n331moi-n351-n354-n370-372-n319moi-n5-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210616-nbvc-n370-n372-purificationcomparisons-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210617-nbvc-n71-purificationcomparisons-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210621-nbvc-ssps-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210702-ssp-n174-n337-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210726-smscpur-n172-2-n182-2-n327-1-n382-n387-n397-n400-n423-n425-428-n401-403-n381-n399-n366-n398-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210726-wb-n397-n423-n425-n426-n427-n428-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210805-precission-n423-n425-428-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210810-bv-updates-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210816-mois-n423-425-428-smscpurn424-n429-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210823-mois-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-20210826-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-01-25-nbvc-n72-n163-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-01-nbvc-n72-7-n163-5-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-02-nbvc-n359-n360-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-08-nbvc-n263-n271-n324-n327-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-08-nbvc-n72-8-n163-6-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-12-nbvc-n319-moi-n364-n365-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-16-nbvc-n163-7-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-19-nbvc-n327-moi-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-19-nbvc-n364-1-n365-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-02-22-nmac-n3-n5-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-05-nbvc-n154-n158-moi-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-05-nbvc-n275-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-08-nbvc-n251-n300-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-16-nbvc-n344-1-n346-1-n347-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-16-nbvc-n344-1-n346-1-n347-1-smscpur-results-updated-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-19-nbvc-n252-n349-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-19-nbvc-n5-6-n154-3-n158-3-n251-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-03-22-nbvc-n158-moi-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-02-nbvc-n360-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-09-nbvc-n225-4-n275-moi-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-13-nbvc-n329-n330-n367-n368-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-19-nmac-n6-n11-nbvc-n5-7-n154-4-n366-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-20-nbvc-n331-n337-n338-n339-n340-n352-n353-n354-n355-n369-n370-n371-n372-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-20-nbvc-n331-n353-n354-n355-n369-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-23-nbvc-n7-1-n366-1-n367-1-n368-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-04-30-nbvc-n275-1-n299-1-n299-2-n300-1-n329-1-n350-1-n351-1-n352-1-n353-1-n354-1-n355-1-n367-2-n368-2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-05-06-nbvc-n98-5-n275-moi-n337-moi-n349-351-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-05-10-nbvc-n331-p3-n338-1-n339-1-n366-2-n366-3-n366-4-n368-3-n370-1-n371-1-n372-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-august-smscpur-21-05-14-nbvc-n337-1-n353-2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-comparison-n86-n91-n84-n92-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-e-coli-smscpur-2019-08-30-smscpur-neec-n121-n135---n139-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-e-coli-smscpur-2019-09-26-smscpur-n140-star-n143-star-n143-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-e-coli-smscpur-n140-n143-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-e-coli-smscpur-smscpur-necc-140-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-mammalian-smscpur-21-03-22-nmac-n9-n10-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-mammalian-smscpur-21-04-19-nmac-n6-n11-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-smscpur-smscpur-p2-virus-nbvc42-69-71-74-75-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-03-p2-virus-cell-specs-n51-n93-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-05-p2-virus-cell-specs-n52-55-60-61-79-85-90-92-95-96-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-10-p2-virus-cell-specs-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-17-p2-virus-cell-specs-n54-n56-n87-n91-n92-n97-n100-mb183-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-09-28-p2-virus-cell-specs-mb204-yoph-40-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-01-p2-virus-cell-specs-n76-n85-n90-n98-n100-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-15-p2-virus-cell-specs-mb204-n54-n55-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-22-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-26-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-10-28-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-11-12-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-11-25-p2-virus-cell-specs-n91-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2019-11-28-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-01-29-p2-virus-cell-specs-n86-n101-n102-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-01-31-p2-virus-cell-specs-n86-n101-n102-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-05-p1-p2-virus-cell-specs-n61-n98-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-05-p2-virus-cell-specs-n49-n51-n52-n55-n72-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-05-p2-virus-cell-specs-n60-71-72-51-bira-98-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-12-p1-virus-cell-specs-n60-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-02-21-p2-virus-cell-specs-n60-71-72-51-52-98-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-03-p2-virus-cell-specs-n86-moi-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-04-p2-virus-cell-specs-n71-n52-n72-moi-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-06-p2-virus-cell-specs-n71-n52-moi-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-10-p1-virus-cell-specs-n21-119-120-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-11-p2-virus-cell-specs-n52-moi-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-03-13-p2-virus-cell-specs-n21-119-120-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-07-p2-virus-cell-specs-n129-132-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-17-p2-virus-cell-specs-n130-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-20-p2-virus-cell-specs-n127-128-133-141-154-157-158-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-24-p2-virus-cell-specs-n160--n162-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-04-28-p2-virus-cell-specs-n134-136-139-168-169-171-174-176-177-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-01-p2-virus-cell-specs-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-04-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-08-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-12-p3-n127-128-139-141-157-158-160-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-05-26-p2-p3-n154-157-158-160-168-175-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-06-05-p2-n71-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-06-12-p2-n60-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-06-30-p2-virus-cell-specs-bira-n139-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-07-08-p2-virus-cell-specs-n91-131-132-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-07-14-p2-virus-cell-specs-n143-145-151-184-211-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-07-17-p2-virus-cell-specs-n163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-07-28-p2-virus-cell-specs-n92-93-107-109-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-08-07-p2-virus-cell-specs-n193-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-08-11-p2-virus-cell-specs-n55-n61-n72-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-08-14-p2-virus-cell-specs-n51-55-61-72-212-214-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-10-27-p2-virus-cell-specs-n134-n193-n211-version-7-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-10-27-p2-virus-cell-specs-n134-n193-n211-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-10-30-p2-virus-cell-specs-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-10-30-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-11-06-p2-virus-cell-specs-n5-247-236-238-273-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-11-09-p2-virus-cell-specs-n71-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-11-17-p2-virus-cell-specs-n225-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-11-20-p2-virus-cell-specs-n5-25-209-251-328-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-12-01-p2-virus-cell-specs-n131-163-215-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-12-04-p2-virus-cell-specs-n71-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-12-11-p2-virus-cell-specs-n71-225-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-p2-virus-cell-specs-2020-12-15-p2-virus-cell-specs-n319-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-08-20-viral-titer-n42-n69-n71-n74-n75-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-08-27-viral-titer-n47-n50-n78-bira-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-09-02-viral-titer-n47-n50-n72-n77-n79-84-86-n90-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-09-10-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-09-17-viral-titer-calculations-n51-n90-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-09-24-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-01-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-08-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-25-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-26-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-28-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-29-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-10-31-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-11-05-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-11-12-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-11-17-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-12-04-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2019-viral-titer-master-list-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-01-23-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-02-14-viral-titer-n86-52-bira-61-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-02-18-viral-titer-n51-60-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-02-20-viral-titer-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-02-25-viral-titer-n51-50-71-72-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-03-viral-titer-p1-n52-n71-p2-n98-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-05-viral-titer-p2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-10-viral-titer-p2-bira-n130-132-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-10-viral-titer-p2-n42-127-128-131-132-133-141-154-157-158-160-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-03-10-viral-titer-p2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-05-05-viral-titer-p3-bira-p2-n134-n139-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-05-07-viral-titer-p2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-05-12-viral-titer-p2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-05-19-viral-titer-p2-p3-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-06-03-viral-titer-p2-n154-158-168-175-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-06-10-viral-titer-p2-n71-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-06-24-viral-titer-p2-n60-8-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-07-08-viral-titer-p3-bira-p2-n139-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-08-05-viral-titer-p2-n92-107-109-163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-08-12-viral-titer-p2-n93-163-193-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-08-18-viral-titer-p2-n51-55-61-72-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-virus-generation-viral-titers-2020-09-23-viral-titer-p2-n148-211-216-229-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-archive-weeklytodo-august-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-room-move-planner-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-naomi-bv-school-results-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-naomi-p2-titers-naomi-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-1-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-5-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-presentation-6-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-schedule-pdf
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-stacy-bacmid-qc-stacy-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-stacy-p2-titers-stacy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-telma-bacmid-qc-tj-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-telma-p0-qc-tj-pptx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-bv-school-telma-p2-titers-telma-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-bv-school-p0-qc-protocol-pdf
+- [x] onedrive_protein-chemistry-baculovirus-bv-small-scale-expression-sheet-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-cell-passage-logs-archived---cell-passage-log-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-cost-expressions-per-liter-docx
+- [x] onedrive_protein-chemistry-baculovirus-dac-work-20250320-endotoxinassayworkbook-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-delphi-small-scale-task-section-pptx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20240940-gpr75-fluorescence-calculations-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241011-moi-n21221-quant-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241014-212221-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241014-moi-n21216-lse-21221-quant-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241018-n21216-002-lse-fluorquant-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241028-n21241-quant-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241104-fq-n21218-n21221-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241105-fq-hitep2-0-validation-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241112-hitep2-0-validation-exp3-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241115-lse-n21218-003-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-2024118-fq-hitep2-0-validation-exp2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20241203-ssp-n21249-n21253-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20250130-21254-21245-21243-21242-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20250306-21258-21261-21270-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20250513-fluorquant-21271-21273-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20250825-gpr75-p0s-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20250902-gpr75-p2s-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20250905-gpr75-p2s-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-facs-analysis-20250908-gpr75-coexp-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-hitep-ultra-hitep-ultra-hitep-ultra-experiment-planner-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-01-27-lascexp-n72-n163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-02-03-lascexp-n72-n163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-02-10-lascexp-n163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-02-17-lascexp-n364-n365-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-03-10-lascexp-n344-n346-n347-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-03-17-final-lascexp-n5-n154-n158-n251-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-03-31-lascexp-n360-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-04-07-lascexp-n225-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-04-13-lascexp-n5-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-04-21-lascexp-n7-n366-n367-n368-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-04-28-lascexp-n275-299-300-350-355-367-368-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-05-04-lascexp-98-338-339-366-368-370-371-372-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-05-12-lascexp-337-353-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-05-19-lascexp-n5-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-05-26-lascexp-n351-366-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-06-02-lascexp-n354-366-370-372-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-06-23-lascexp-n337-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-07-08-lascexp-n384-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-07-13-lascexp-n177-n182-n384-n388-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-07-22-lascexp-n177-182-366-327-379-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-07-30-lascexp-n182-copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-08-05-lascexp-n182-n288-n289-n285-n397-n337-n338-n339-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-08-10-lascexp-n398-399-174-394-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-2021-08-19-lascexp-n349-351-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210826-lascexp-n351-n426-n428-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210902-lascexp-n397-n370-n379-n428-n387-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210909-lascexp-n384-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210923-lse-n428-3-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20210930-lse-n370-n379-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20211005-lse-n71-n285-n430-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20211104-lse-n55-n61-n384-n385-n430-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20211109-lse-nbvc-n384-n385-n430-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20211118-lse-nbvc-n55-n61-n126-n428-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220214-lse-n507-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220214-lse-n517-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220225-lse-n20-504-505-506-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220303-lse-n71-n131-n132-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220308-lse-n20-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220308-lse-n428-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220519-lse-n406-414-526-527-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220525-lse-n504-n516-n517-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220602-lse-n504-n618-625-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220616-n383-n469-n618-n625-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220630-n627-n618-n585-n618-n567-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220811-lse-n650-652-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220811-lse-n653-656-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220815-bv-priority-list-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220819-lse-n567-n625-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220822-lse-n469-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220825-lse-n351-n508-n519-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220825-lse-n366-368-614--updated-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220825-lse-n366-368-614-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220825-lse-n414-658-658-25-20795-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20220922-lse-n519-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221003-lse-n20850-20851-20855-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221003-lse-n20852-20856-532-585-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221013-lse-n585-n414-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221020-lse-n351-n508-n519-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221023-lse-n614-n20866-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221110-lse-n469-n534-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221116-lse-n645-648-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221121-20221214-lse-n20870-2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221121-lse-n20941-20874-20877-20881-20882-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20221219-lse-n00494-n00495-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230130-lse-n20676-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230130-lse-n20725-20863-20879-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230216-lse-nbvc-n20725-n20795-n20880-n20881-n20882-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230216-lse-nbvc-n20870-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230220-lse-nbvc-n20471-n20801-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230227-lse-nbvc-n20874-n20877---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230227-lse-nbvc-n20874-n20877-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230311-lse-nbvc-n20875-n20876-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230316-lse-nbvc-n20893-20894-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230324-lse-nbvc-n20767-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230407-lse-n20331-20725-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230414-lse-n20811-n20820-n20904-n20696-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230417-lse-n20331-20436-20830-20725-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230417-lse-n20822-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230417-lse-n20922-20811-20923-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230504-lse-n20676-20960-20810-20440-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230504-lse-n20960-20810-20440-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230512-lse-n20831-n20828-n20825-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230526-lse-nbvc-n20048-n20918-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230526-lse-nbvc-n20893-20923-20924-20960-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230526-lse-nmac-20143-20144-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230630-lse-nbvc-n20810-20811-20809-20392-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230721-lse-nbvc-n20684-n20393-n20875-n20910-n20911-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230728-lse-n20903-n20904-n20946-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230731-lse-n20776-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230804-lse-n20998-n20975-n20920-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230811-lse-nbvc-n20920-20988-20989-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230825-lse-n20832-20048---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230825-lse-n20832-20048-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230828-lse-20958-20987-20990-20991-20992-20994---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230828-lse-20958-20987-20990-20991-20992-20994-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230908-lse-n20048-n21046-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230911-lse-n20514-n20885-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230915-lse-n20644-n20832-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230918-lse-n21014-20892-21038-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230922-lse-n20439-20689-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20230925-lse-n20392-n21040-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231006-lse-n21035-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231009-lse-n21052-21060-21063-21012-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231020-nbvc-n20810-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231027-lse-n20999-n21002-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231030-lse-n21003-20689-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231103-lse-n21036-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20231110-lse-n20918-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240209-lse-n21070-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240304-lse-n21070-n21136-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240308-lse-n21069-n20909-n21121-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-202403118-lse-n21000-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240315-lse-n20918-21130-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240401-lse-n20392---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240401-lse-n20392-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240405-lse-n20392---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240405-lse-n20392-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240408-lse-n20980-21158-21098-21160-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240412-lse-n21161-21162-21163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240412-lse-n21161-21162-211631-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240419-lse-n20914-20915---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240419-lse-n20914-20915-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240419-lse-n21044-20060-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240426-lse-n21159-21179-21174---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240426-lse-n21159-21179-21174-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240429-lse-n21071-n21175-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240517-lse-ncmp-n20060-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240520-lse-n20438-21188-21189-21190-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240625-lse-n20942---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240625-lse-n20942-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240712-lse-ncmp-n20001-nbvc-n20942-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240715-lse-nbvc-n21161-n21188---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240715-lse-nbvc-n21161-n21188-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240719-lse-nbvc-n21000-002-n211207-001-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240805-lse-n21121-002-nbvc-n21187-001---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240805-lse-n21121-002-nbvc-n21187-001-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240809-lse-n21198-001-n21199-001-n21206-001---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240809-lse-n21198-001-n21199-001-n21206-001-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240812-lse-n21000-003-n21200-002-n21121-003---copy-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240812-lse-n21000-003-n21200-002-n21121-003-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240816-lse-n21201-n21203-n21204-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240819-lse-n20034-n20063-n21202-n21208-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240909-lse-n21121-003-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240913-lse-n21198-002-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20240916-lse-n21195-001-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241006-lse-n21000-n21209-n21210-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241014-lse-n21000-21211-21221-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241018-lse-n21216-002-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241101-lse-n21218-002-n21241-001-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241104-lse-n21221-004-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241122-n20866-002-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241202-n20879-002-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-20241216-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-april-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-august-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-august-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-august-2025-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-book-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-cell-spec-virus-volume-calculation-template-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-december-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-december-2025-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-february-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-february-2025-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-january-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-january-2025-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-july-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-july-2025-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-july-august-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-june-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-june-2025-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-june-july-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-large-scale-expression-example-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-lse-blank-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-march-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-march-2025-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-may-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-may-june-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-november-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-november-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-october-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-september-2023-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-september-2024-lse-schedule-docx
+- [x] onedrive_protein-chemistry-baculovirus-large-scale-expressions-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-202050811-btk-lnp-samplelist-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-20241022-msg-hibit-platemap-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-20250806-hibit-btk-ctm-lnp001-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-20250811-btk-lnp-encapsulation-calculation-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-dls-sample-sheet-template-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-gld03-20260320-gld03-platemap-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-cayman--a-guide-to-lipid-nanoparticle-formulation-pdf
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-lnp-cost-breakdown-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-pharmaceuticals-17-01351-pdf
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-s41467-024-50235-x-pdf
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-tailoring-combinatorial-lipid-nanoparticles-pdf
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-lnp-literature-the-role-of-lipid-components-in-lipid-nanoparticles-for-vaccines-and-gene-pdf
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-msanchez-lipidnanoparticles-poster---copy-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-n21071-lnp-titering-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-picogreen-assay-template-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20240320-lnp-transfection-of-dna-and-fluorescent-biotin-into-mammalian-cells-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20240805-development-of-microfluidic-lnp-synthesis-mechanism-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20240912-development-of-new-lnp-lipid-mix-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250129-assessment-of-impermeable-ctm-delivery-by-lnps-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250214-lnptransfectionoverview-mateosanchez---copy-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250503-lnp-overview-and-delivery-of-ctm-fluorescent-analogue-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250811-btk-lnp-delivery-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250916-ews-fli1-pulldown-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250918-ssp-nmac-n-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-20250927-ews-fli1-pulldown-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-gld03-lnp-degrader-delivery-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-gld03-lnp-degrader-updated-plots-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-lnp-edgm-presentation-draft-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-presentations-lnp-edgm-presentation-draft-3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20241023-hibit-screen1-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20241031-hibit-screen2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250129-sgn01-ctm-lipid-nanoparticle-transfection-meeting-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250214-hibit-sgn01-ctm-lnp001-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250215-sgn01-ctm-lnps-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250217-sgn01-ctm-lnp-calibrationcurve-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250315-sgn01-ctm-lnp-hibit-meeting-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sgn01-degrader-assays-20250423-sgn01degraderlnps-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-draftsop-microfluidic-synthesis-of-lipid-nanoparticls-containing-amine-del-tracers-docx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-master-lipid-mix-table-docx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-lipid-nanoparticle-encapsulation-of-poorly-membrane-permeable-ctms-docx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-microfluidic-synthesis-of-lipid-nanoparticles-containing-hydrophilic-compounds-docx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-microfluidic-synthesis-of-lipid-nanoparticles-containing-plasmid-dna-docx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-microfluidic-synthesis-of-lipid-nanoparticles-for-cytosolic-protein-delivery-docx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop-vortex-synthesis-of-fluorescent-biotin-liposomes-docx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-sops-sop2-microfluidic-synthesis-of-lipid-nanoparticles-containing-membrane-impermeable-ctms-docx
+- [x] onedrive_protein-chemistry-baculovirus-lnp-shuttle-platform-web-crawler-docs-lipid-property-crawler-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-02-17-mamexp-n3-5-betagal-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-03-16-nmac-n9-n10-2021-03-16-nmac-n9-n10-expression-pptx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-03-16-nmac-n9-n10-2021-03-17-gfp-nmac-n9-n10-results-final-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-03-16-nmac-n9-n10-2021-03-17-nmac-nn9-n10-cell-spec-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-04-13-nmac-n6-n11-cell-spec-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-2021-04-21-nmac-n10-cell-spec-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-20241202-secretiontargetforms-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-mammalian-expression-plan-1-20-21-pptx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-myc-studies-myc-lysate-expression-study-v1-docx
+- [x] onedrive_protein-chemistry-baculovirus-mammalian-expression-myc-studies-myc-lysate-expression-study-v2-docx
+- [x] onedrive_protein-chemistry-baculovirus-mateo-experiment-planning-q4-2024---q1-2025-docx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-02-10-moi-study-n5-25-319-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-02-17-moi-study-n327-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-02-24-moi-study-n5-25-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-03-01-moi-study-154-158-319-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-03-10-moi-study-158-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-04-07-moi-study-275-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-05-04-moi-study-275-337-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-05-12-moi-study-331-369-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-05-19-moi-study-275-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-2021-moi-studies-2021-06-02-moi-study-n327-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-20220127-moi-study-n406-tni-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-moi-studies-20220204-moi-study-n406-n469-sf9-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-multibac-manual-v9-0-pdf
+- [x] onedrive_protein-chemistry-baculovirus-perplexity-reviewed-sop-docx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20230403-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20230503-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20230503-ma-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20230609-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20230721-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20230724-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20230829-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20231011-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20231020-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20231106-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240112-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240114-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240228-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240304-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240329-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240424-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240611-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240628-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20240731-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20241108-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20250130-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-plate-maps-20250211-bv-transf-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-proximity-labeling-20231122-proximity-labelling-btk-pptx
+- [x] onedrive_protein-chemistry-baculovirus-proximity-labeling-btk-proximity-labelling-sequences-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210616-nbvc-n370-n372-purificationcomparisons-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210621-nbvc-sspn177-n182-n285-n287-n289-n290-n292-n294-n383-n384-n385-n388-n288-n377-n378-n379-n380-n394-n293-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210629-nbvc-wb-n290-n292-n287-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210709-bv-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210712-nbvc-ssp-n366-n71-bv-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210720-nbvc-ssp-n177-n182-bv-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210826-nbvc-wb-n426-n429-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210831-nbvc-wb-moi-n290-n292-n294-n287-ssp-n430-436-lse-n351-n426-n428-bv-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210902-nbvc-wb-lse-n426-n428-n351-wb-ssp-n430-436-bv-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210907-nbvc-lse-n397-3-n428-2-n387-1-n370-3-n379-3-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210921-nbvc--n396-n439-447-n450-460-moi-n285-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210921-smscpur-n396-n439-447-n450-460-moi-n285-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210928-wb-n439-443-n450-451-454-456-lysis-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210930-smscpur-nmac-n5-n24-27-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20210930-wb-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211005-smscpur-nmac-n24-26-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211007-ssps-n370-379-mois-n452-459-460-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211014-mois-n453-n455-n457-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211020-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211026-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211104-ms-ssps-n464-467-moi-n126-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211104-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211109-ssp-moi-n126-nbvc-384-385-430-nmac-30-31-33-35-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211109-ssp-moi-nbvc461-nbvc-55-61-384-385-430-477-nmac-27-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211109-ssp-nmac2-28-30-nbvc55-4-61-3-430-1-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211110-results-smscpur-nmac-n20-nbvc-n126-asec-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211209-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-2021-20211214-ms-nmac-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220203-ms-moi-n406-tni-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220211-ssp-n503-n504-n505-n506-n507-moi-n406-n469-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220217-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220303-beadmilltest-n444-447moi-n504-506lse-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220308-ssp-n509-510-511-512-513-514-20-125-473-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220310-ssp473-25-468-468-25-497-482-484-404-25-ma51-ma52-ma53-ma50-ma57-ma58-ma59-20-509014-lse7-11-131-6-131-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220322-ssp-n11-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220404-ssp-nmac-68-76-nbvc-522-524-495-20-132-484-522-524-495-20-132-484-414-482-131-449-473-494-523-469-483-404-406-468-478-520-499-521-529-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220404-ssp-nmac-68-76-prescission-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220419-ssp-nbvc-20-131-132-404-406-414-428-449-469-516-518-530-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220426-ssp-lse-504-2-505-2-506-2-mdelosrios-t14-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220426-ssp-lse-504-2-505-2-506-2-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220502-ssp-nh-ms-nbvc-n482-n492-n49-n516-n517-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220505-wb-n482-492-495-516-517-nh-ms-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220512-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220523-lses-n406-414-526-527-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220602-lse-ssp-n504-3-n516-1-n517-1-bv-update-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220602-lse-ssp-n504-4-n618-1-n625-1-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220613-bv-pipeline-overview-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220616-ssp-n611-627-351-383-508-519-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220622-ssp-n636-637-645-646-647-648-649-650-651-652-653-654-655-lse-n351-348-383-469-618-25-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220629-ssp-n644-n656-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220815-lses-n650-658-20799-20801-20802-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220825-lse-n469-n567-n625-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220829-ssp-n472-n532-n534-n565-n619-n633-n638-lse-n366-n368-n614-pptx
+- [x] onedrive_protein-chemistry-baculovirus-slide-decks-old-20220922-nbvc-n472-404-470-532-534-471-658-658-25-478-432-383-560-pptx
+- [x] onedrive_protein-chemistry-baculovirus-sop-expression-strepii-tev-fzr1-172-474-docx
+- [x] onedrive_protein-chemistry-baculovirus-sop-expression-strepii-tev-fzr1-172-474-pdf
+- [x] onedrive_protein-chemistry-baculovirus-the-shore-fitness-center-rules-and-regulations-2025-09-03-pdf
+- [x] onedrive_protein-chemistry-baculovirus-tips-expression-biic-master-cell-bank-log-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-cellfectin-volumes-calculator-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-01-19-p2-virus-cell-specs-bira-n72-n163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-01-26-p2-virus-cell-specs-n5-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-01-29-p2-virus-cell-specs-n72-359-360-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-02-02-p2-virus-cell-specs-n263-271-324-327-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-02-09-p2-virus-cell-specs-n5-364-365-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-02-26-p2-virus-cell-specs-n154-158-221-222-275-351-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-03-02-p2-virus-cell-specs-n7-225-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-03-05-p2-virus-cell-specs-n154-158-251-299-300-344-346-347-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-03-12-p2-virus-cell-specs-n5-25-221-222-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-03-16-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-02-n225-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-09-n5-25-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-16-p2-x14-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-20-n98-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-23-p2-virus-cell-specs-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-04-30-p2-virus-cell-specs-n98-338-339-366-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-05-04-p3-virus-cell-specs-n331-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-05-07-p2-virus-cell-specs-n353-369-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-05-14-p2-virus-cell-specs-n5-25-354-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-05-28-p2-virus-cell-specs-bira-n534-370-372-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-06-04-p2-virus-cell-specs-x20-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-06-22-p2-virus-cell-specs-n192-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-2021-06-30-p2-virus-several-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210720-p2-n285-n288-n289-n291-n174-n382-n387-n397-n402-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210723-p2-n337-339-n397-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210723-p2x17-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210806-p2-n349-351-424-428-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210806-p2-n397-moi-287-290-292-293-294-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210806-p2n424-n429-moix5-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-p2-virus-cell-specs-20210917-p2generation-n396-n349-n447-n450-460-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-01-27-viral-titer-p2-bira-72-163-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-02-02-viral-titer-p2-5-72-359-360-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-02-17-viral-titer-p3-n5-p2-327-364-365-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-02-17-viral-titer2-p3-n5-p2-327-364-365-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-03-02-viral-titer-p2-n154-158-221-222-275-351-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-03-09-viral-titer-p2-n71-158-251-299-300-344-346-347-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-03-31-viral-titer-p2-bira-225-275-360x2-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-04-06-viral-titer-p2-bira-225-349-350-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-04-20-viral-titer-p2-n7-n366-368-bira-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-05-04-viral-titer-bira-98-331-337-339-366-368-370-372-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-05-12-viral-p2-titer-n353-369-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-05-25-viral-p2-titer-n354-366-370-371-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-06-02-p2-titer-bira-n192x2-366-n182-n177-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-06-02-p2-titer-bira-n327-p3-n354-370-372-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2021-07-07-p2-titer-bira-n384-n388-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210713-viral-titer-calculations-n177-n384-n182-n388-n327-n337-n338-n339-n379-n192-0601-n192-0625-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210727-p2-viral-titers-n182-290-292-287293-294-285-288-289-174-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210803-viral-titers-n337-n338-n339-n397-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210803-viral-titers-n398-399-394-351-349-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210813-viral-titers-n349-351-397-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210813-viral-titers-n423-425-426-427-428-397-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20210928-viral-titers-n192-p2-n192-p3-n370-n379-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20211005-viral-titers-n396-n285-n71-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20220503-ms-nh-comparison-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20220809-viral-titers-p2-n650-656-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-20230206-nbvc-n20795-n20810-n20868-n20869-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-2023214-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-bacmam-titering-20211109-nmac30-31-33-35-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-viral-titer-calculations-template-xlsx
+- [x] onedrive_protein-chemistry-baculovirus-virus-generation-old-viral-titers-viral-titers-mastersheet-xlsx
 
 ### Gene Synthesis CRO management  (1560)
 
@@ -8735,160 +8735,160 @@ Vendor management for the broader outsourcing pipeline (peptides, BV, mammalian,
 
 E3 ligase work — target biology, expression, characterization. Cross-cutting concept and target/methods pages.
 
-- [ ] onedrive_protein-chemistry-ligases-20220610-ligase-xtal-constructdesigns-xlsx
-- [ ] onedrive_protein-chemistry-ligases-2023-11-30-ligase-constructs-pptx
-- [ ] onedrive_protein-chemistry-ligases-20230324-ligase-mastertracker-constructs-status-xlsx
-- [ ] onedrive_protein-chemistry-ligases-20230414-bv-requests-emilynairidarynne-xlsx
-- [ ] onedrive_protein-chemistry-ligases-20250612-liversparing-constructdesigns-xlsx
-- [ ] onedrive_protein-chemistry-ligases-dcaf16-ddb1-h01a-0001-pdf
-- [ ] onedrive_protein-chemistry-ligases-dcaf16-ddb1-h01a-6his-tev-g-dca16-g2-l216-end-ddb1-m1-h1140-end-pdf
-- [ ] onedrive_protein-chemistry-ligases-historical-ligase-prioritization-copy-of-genesofinterest-withdepmapscores-updateddataset-lineagescores-annotated-ligase-classes-krs-xlsx
-- [ ] onedrive_protein-chemistry-ligases-historical-ligase-prioritization-genesofinterest-withdepmapscores-updateddataset-lineagescores-annotated-ligase-classes-krs-xlsx
-- [ ] onedrive_protein-chemistry-ligases-in-situ-proteolysis-trip12-uhrf1-032822-pptx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220125-asb-target-review-pptx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220302-traip-rnf8-rnf20-rbbp6-targetreview-pptx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220506-traip-ppil2-asb3-skp2-targetreview-pptx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220622-ligasescorecard-nurixdesirablecharacteristics-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220819-ligasescorecard-nurixdesirablecharacteristics-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-20230104-ligaseproposalreview-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-4feb2022-rnf10-rnf167-rnf213-ttc3-and-ubr4-pptx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-ligase-target-proposal-info-sgc-2022-template-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-ligaseconstructs-designworksheet-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-ligaseexpressionplatform-masterdashboard-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-ligasescorecard-nurixdesirablecharacteristics-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-expression-screening-new-ligase-target-proposal-info-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-mastertracker-constructs-status-09142023-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-mastertracker-constructs-status-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligase-updates-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligasedistributionlist-xlsx
-- [ ] onedrive_protein-chemistry-ligases-ligases-ganttcharts-xlsx
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-apc10-carroll-morgan-ncb-2002-apc10-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-apc10-carrolletal-currentbio-2005-apc10-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-apc10-vanvoorhisandmorgan-currentbio2014-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-cdc20-chietal-ebiomed-2019-cdc20-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-cdc20-chietal-ebiomedicine2019-apcinprotac-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-cdc20-hartoonietal-natcom-2022-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-cdc20-sacktonetal-nature2014-apcin-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-cdh1-changetal-nature-2015-cdh1-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-cdh1-hartoonietal-natcom-2022-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-cdh1-heetal-molcell-2013-cdh1-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-apcc-sivakumar-gorbsky-nmcb-2015-spatiotemporalapcreview-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-dcaf11-wangetal-cellreports-2021-dcaf11-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-dcaf11-zhangetal-cravatt-jacs-2021-dcaf11-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-dcaf15-bussiereetal-ncb-2020-dcaf15-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-dcaf15-duetal-structure-2019-dcaf15-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-dcaf15-faustetal-ncb-dcaf15-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-dcaf16-zhangetal-biochemistry-2021-dcaf16-and-spin4-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-dcaf16-zhangetal-cravatt-ncb-2019-dcaf16-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-informal-review-of-poirson-et-al-nature-2024-pptx
-- [ ] onedrive_protein-chemistry-ligases-literature-ishida-ciulli-slasdiscovery2020-e3ligaseligandsforprotacs-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-jevticpetal-2021-cell-ane3ligaseguidetothegalaxyofsmallmoleculeinducedproteindegradation-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-pinch-2021-cellchembiol-a-strategy-to-assess-the-cellular-activity-of-e3-ligase-components-against-neo-substrates-using-electrophilic-pr-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-poirson-2024-nature-proteome-scale-discovery-of-protein-degradation-and-stabilization-effectors-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-protacs-paper-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-rnf114-spradlinetal-ncb-rnf114-pdf
-- [ ] onedrive_protein-chemistry-ligases-literature-walmadacetal-2021-natrev-ubiquitinligasesgauradiansofmammaliandevelopment-pdf
-- [ ] onedrive_protein-chemistry-ligases-presentations-20220616-coreteammeeting-ligandibilityproposal-nurixdesirablecharacteristics-pptx
-- [ ] onedrive_protein-chemistry-ligases-presentations-20220623-ligases-del-update-pptx
-- [ ] onedrive_protein-chemistry-ligases-presentations-20220627-meeting-ligandibilityproposal-nurixdesirablecharacteristics-pptx
-- [ ] onedrive_protein-chemistry-ligases-presentations-20230406-edm-workingppt-pptx
-- [ ] onedrive_protein-chemistry-ligases-presentations-20230518-ps-xtalcheckin-pptx
-- [ ] onedrive_protein-chemistry-ligases-presentations-20231011-ps-xtalcheckin-pptx
-- [ ] onedrive_protein-chemistry-ligases-presentations-20231107-ligasestatus-xlsx
-- [ ] onedrive_protein-chemistry-ligases-presentations-20240112-ligaseprioritizationmeeting1of2024-pptx
-- [ ] onedrive_protein-chemistry-ligases-presentations-20240131-ps-xtalcheckin-pptx
-- [ ] onedrive_protein-chemistry-ligases-presentations-ligasespipelinestatusforjan2024prioritizationmeeting-xlsx
-- [ ] onedrive_protein-chemistry-ligases-quotes-biortus-usa-quote-nut-20231020-1-pdf
-- [ ] onedrive_protein-chemistry-ligases-quotes-biortus-usa-quote-nut-20231020-2-pdf
-- [ ] onedrive_protein-chemistry-ligases-quotes-bp33014-13a-0001-pdf
-- [ ] onedrive_protein-chemistry-ligases-results-20220613-results-necc-n00627-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-ligases-results-largescalepurification-trim28-04142023-pptx
-- [ ] onedrive_protein-chemistry-ligases-schedule-ligase-subgroup-bookkeeping-xlsx
-- [ ] onedrive_protein-chemistry-ligases-seagencollaborationligases-statusasofdecember2023-xlsx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-12-10-2021-ligase-research-review-sgc-pptx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-20200226-dna--aa-all-targets-nurix-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190228-uhrf1-datapackage-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190322-bio-uhrf1-fl-data-package-f-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190404-dcaf1-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190411-dcaf1-peptides-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190418-wwp2-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190429-bio-chip-datapackage-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190530-bio-ube3a-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190627-grwd1-datapackage-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190730-bio-ubr5-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191002-bio-trip12-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191002-bio-trip12-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191008-additional-info-trip12-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191104-bio-rfwd2-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191203-bio-huwe1-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200108-bioitch-target11-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200109-bioitch-target11-data-package2-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200220-bio-huwe1-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200316-ubr2-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200316-ubr2-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200316-ubr2-data-package-revised-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200316-ubr2-data-package-revised-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200623-biogid4-data-package-case-002-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200728-dtl-ddb1-complex-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200728-dtl-ddb1-complex-data-package-case-jose-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200731-dtl-ddb1-nurix-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201003-dcaf12-ddb1-complex-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201003-dcaf12-ddb1-complex-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201006-dcaf12-ddb1-complex-data-package-edited-final-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201006-dcaf12-ddb1-complex-data-package-edited-final-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201026-dcaf12-ddb1-complex-suppl-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201029-bio-klhdc2-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201029-bio-klhdc2-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201120-bio-fem1b-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201120-bio-fem1b-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201127-bio-fem1b-data-package-update-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201127-bio-fem1b-data-package-update-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201205-bio-fem1b-data-package-updated2-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201207-fem1b-nurix-ship-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210110-his-tagged-siah1-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210110-his-tagged-siah1-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210325-klhdc3-elonbc-datapackage-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210325-klhdc3-elonbc-datapackage-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210418-lrr1-elonbc-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210418-lrr1-elonbc-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-04-02-2019-uhrf1-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-04-09-2019-uhrf1-pptx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1616pdt-t6-074--storage-buffer-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1616pdt-t6-074--storage-buffer-raw-and-processed-data-spreadsheets-with-charts-2019-04-05-1616pdt-t6-074-for-report-xlsx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1616pdt-t6-074--storage-buffer-raw-and-processed-data-spreadsheets-with-charts-2019-04-05-1616pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1626pdt-t6-074-cytosolic-buffer-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1626pdt-t6-074-cytosolic-buffer-raw-and-processed-data-spreadsheets-with-charts-2019-04-05-1626pdt-t6-074-report-xlsx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1626pdt-t6-074-cytosolic-buffer-raw-and-processed-data-spreadsheets-with-charts-2019-04-05-1626pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-20190402-uhrf1-qc-ms-pptx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-ligase-prioritization-pptx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2021-sgc-crystallization-20200202-xlsx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220312-biornf4-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220312-biornf4-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220427-biomaged4-data-package-case-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220427-biomaged4-data-package-case-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220504-revised-biomaged4-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220602-bioubr1-data-package-case-f-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220614-maged4-purification-case-update-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220622-bio-fem1c-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220624-bio-fem1c-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220802-bio-trim28a-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220802-bio-trim28a-data-package-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220819-bio-trim28a-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220912-bio-fem1a-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220912-bio-fem1a-data-package-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221021-bio-magea6-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221021-bio-magea6-data-package-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221121-bio-zer1-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221121-bio-zer1-data-package-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221124-bio-zer1-with-cleaved-tags-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221124-bio-zer1-with-cleaved-tags-data-package-nhartooni-t14-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221124-bio-zer1-with-cleaved-tags-data-package-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221214-bio-fbxw5-skp1-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221214-bio-fbxw5-skp1-data-package-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221216-bio-fbxw5-skp1-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221216-bio-fbxw5-skp1-data-package-pdf
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20230228-bio-wdr26-data-package-docx
-- [ ] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20230228-bio-wdr26-data-package-pdf
+- [x] onedrive_protein-chemistry-ligases-20220610-ligase-xtal-constructdesigns-xlsx
+- [x] onedrive_protein-chemistry-ligases-2023-11-30-ligase-constructs-pptx
+- [x] onedrive_protein-chemistry-ligases-20230324-ligase-mastertracker-constructs-status-xlsx
+- [x] onedrive_protein-chemistry-ligases-20230414-bv-requests-emilynairidarynne-xlsx
+- [x] onedrive_protein-chemistry-ligases-20250612-liversparing-constructdesigns-xlsx
+- [x] onedrive_protein-chemistry-ligases-dcaf16-ddb1-h01a-0001-pdf
+- [x] onedrive_protein-chemistry-ligases-dcaf16-ddb1-h01a-6his-tev-g-dca16-g2-l216-end-ddb1-m1-h1140-end-pdf
+- [x] onedrive_protein-chemistry-ligases-historical-ligase-prioritization-copy-of-genesofinterest-withdepmapscores-updateddataset-lineagescores-annotated-ligase-classes-krs-xlsx
+- [x] onedrive_protein-chemistry-ligases-historical-ligase-prioritization-genesofinterest-withdepmapscores-updateddataset-lineagescores-annotated-ligase-classes-krs-xlsx
+- [x] onedrive_protein-chemistry-ligases-in-situ-proteolysis-trip12-uhrf1-032822-pptx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220125-asb-target-review-pptx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220302-traip-rnf8-rnf20-rbbp6-targetreview-pptx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220506-traip-ppil2-asb3-skp2-targetreview-pptx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220622-ligasescorecard-nurixdesirablecharacteristics-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-20220819-ligasescorecard-nurixdesirablecharacteristics-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-20230104-ligaseproposalreview-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-4feb2022-rnf10-rnf167-rnf213-ttc3-and-ubr4-pptx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-ligase-target-proposal-info-sgc-2022-template-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-ligaseconstructs-designworksheet-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-ligaseexpressionplatform-masterdashboard-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-ligasescorecard-nurixdesirablecharacteristics-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-expression-screening-new-ligase-target-proposal-info-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-mastertracker-constructs-status-09142023-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-mastertracker-constructs-status-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligase-updates-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligasedistributionlist-xlsx
+- [x] onedrive_protein-chemistry-ligases-ligases-ganttcharts-xlsx
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-apc10-carroll-morgan-ncb-2002-apc10-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-apc10-carrolletal-currentbio-2005-apc10-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-apc10-vanvoorhisandmorgan-currentbio2014-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-cdc20-chietal-ebiomed-2019-cdc20-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-cdc20-chietal-ebiomedicine2019-apcinprotac-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-cdc20-hartoonietal-natcom-2022-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-cdc20-sacktonetal-nature2014-apcin-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-cdh1-changetal-nature-2015-cdh1-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-cdh1-hartoonietal-natcom-2022-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-cdh1-heetal-molcell-2013-cdh1-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-apcc-sivakumar-gorbsky-nmcb-2015-spatiotemporalapcreview-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-dcaf11-wangetal-cellreports-2021-dcaf11-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-dcaf11-zhangetal-cravatt-jacs-2021-dcaf11-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-dcaf15-bussiereetal-ncb-2020-dcaf15-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-dcaf15-duetal-structure-2019-dcaf15-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-dcaf15-faustetal-ncb-dcaf15-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-dcaf16-zhangetal-biochemistry-2021-dcaf16-and-spin4-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-dcaf16-zhangetal-cravatt-ncb-2019-dcaf16-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-informal-review-of-poirson-et-al-nature-2024-pptx
+- [x] onedrive_protein-chemistry-ligases-literature-ishida-ciulli-slasdiscovery2020-e3ligaseligandsforprotacs-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-jevticpetal-2021-cell-ane3ligaseguidetothegalaxyofsmallmoleculeinducedproteindegradation-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-pinch-2021-cellchembiol-a-strategy-to-assess-the-cellular-activity-of-e3-ligase-components-against-neo-substrates-using-electrophilic-pr-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-poirson-2024-nature-proteome-scale-discovery-of-protein-degradation-and-stabilization-effectors-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-protacs-paper-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-rnf114-spradlinetal-ncb-rnf114-pdf
+- [x] onedrive_protein-chemistry-ligases-literature-walmadacetal-2021-natrev-ubiquitinligasesgauradiansofmammaliandevelopment-pdf
+- [x] onedrive_protein-chemistry-ligases-presentations-20220616-coreteammeeting-ligandibilityproposal-nurixdesirablecharacteristics-pptx
+- [x] onedrive_protein-chemistry-ligases-presentations-20220623-ligases-del-update-pptx
+- [x] onedrive_protein-chemistry-ligases-presentations-20220627-meeting-ligandibilityproposal-nurixdesirablecharacteristics-pptx
+- [x] onedrive_protein-chemistry-ligases-presentations-20230406-edm-workingppt-pptx
+- [x] onedrive_protein-chemistry-ligases-presentations-20230518-ps-xtalcheckin-pptx
+- [x] onedrive_protein-chemistry-ligases-presentations-20231011-ps-xtalcheckin-pptx
+- [x] onedrive_protein-chemistry-ligases-presentations-20231107-ligasestatus-xlsx
+- [x] onedrive_protein-chemistry-ligases-presentations-20240112-ligaseprioritizationmeeting1of2024-pptx
+- [x] onedrive_protein-chemistry-ligases-presentations-20240131-ps-xtalcheckin-pptx
+- [x] onedrive_protein-chemistry-ligases-presentations-ligasespipelinestatusforjan2024prioritizationmeeting-xlsx
+- [x] onedrive_protein-chemistry-ligases-quotes-biortus-usa-quote-nut-20231020-1-pdf
+- [x] onedrive_protein-chemistry-ligases-quotes-biortus-usa-quote-nut-20231020-2-pdf
+- [x] onedrive_protein-chemistry-ligases-quotes-bp33014-13a-0001-pdf
+- [x] onedrive_protein-chemistry-ligases-results-20220613-results-necc-n00627-1a-purif-pptx
+- [x] onedrive_protein-chemistry-ligases-results-largescalepurification-trim28-04142023-pptx
+- [x] onedrive_protein-chemistry-ligases-schedule-ligase-subgroup-bookkeeping-xlsx
+- [x] onedrive_protein-chemistry-ligases-seagencollaborationligases-statusasofdecember2023-xlsx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-12-10-2021-ligase-research-review-sgc-pptx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-20200226-dna--aa-all-targets-nurix-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190228-uhrf1-datapackage-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190322-bio-uhrf1-fl-data-package-f-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190404-dcaf1-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190411-dcaf1-peptides-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190418-wwp2-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190429-bio-chip-datapackage-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190530-bio-ube3a-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190627-grwd1-datapackage-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20190730-bio-ubr5-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191002-bio-trip12-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191002-bio-trip12-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191008-additional-info-trip12-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191104-bio-rfwd2-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20191203-bio-huwe1-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200108-bioitch-target11-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200109-bioitch-target11-data-package2-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200220-bio-huwe1-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200316-ubr2-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200316-ubr2-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200316-ubr2-data-package-revised-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200316-ubr2-data-package-revised-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200623-biogid4-data-package-case-002-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200728-dtl-ddb1-complex-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200728-dtl-ddb1-complex-data-package-case-jose-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20200731-dtl-ddb1-nurix-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201003-dcaf12-ddb1-complex-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201003-dcaf12-ddb1-complex-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201006-dcaf12-ddb1-complex-data-package-edited-final-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201006-dcaf12-ddb1-complex-data-package-edited-final-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201026-dcaf12-ddb1-complex-suppl-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201029-bio-klhdc2-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201029-bio-klhdc2-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201120-bio-fem1b-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201120-bio-fem1b-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201127-bio-fem1b-data-package-update-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201127-bio-fem1b-data-package-update-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201205-bio-fem1b-data-package-updated2-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20201207-fem1b-nurix-ship-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210110-his-tagged-siah1-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210110-his-tagged-siah1-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210325-klhdc3-elonbc-datapackage-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210325-klhdc3-elonbc-datapackage-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210418-lrr1-elonbc-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-20210418-lrr1-elonbc-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-04-02-2019-uhrf1-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-04-09-2019-uhrf1-pptx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1616pdt-t6-074--storage-buffer-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1616pdt-t6-074--storage-buffer-raw-and-processed-data-spreadsheets-with-charts-2019-04-05-1616pdt-t6-074-for-report-xlsx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1616pdt-t6-074--storage-buffer-raw-and-processed-data-spreadsheets-with-charts-2019-04-05-1616pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1626pdt-t6-074-cytosolic-buffer-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1626pdt-t6-074-cytosolic-buffer-raw-and-processed-data-spreadsheets-with-charts-2019-04-05-1626pdt-t6-074-report-xlsx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-2019-04-05-1626pdt-t6-074-cytosolic-buffer-raw-and-processed-data-spreadsheets-with-charts-2019-04-05-1626pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-20190402-uhrf1-qc-ms-pptx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-qcs-in-house-ligase-prioritization-pptx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2021-sgc-crystallization-20200202-xlsx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220312-biornf4-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220312-biornf4-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220427-biomaged4-data-package-case-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220427-biomaged4-data-package-case-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220504-revised-biomaged4-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220602-bioubr1-data-package-case-f-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220614-maged4-purification-case-update-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220622-bio-fem1c-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220624-bio-fem1c-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220802-bio-trim28a-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220802-bio-trim28a-data-package-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220819-bio-trim28a-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220912-bio-fem1a-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20220912-bio-fem1a-data-package-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221021-bio-magea6-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221021-bio-magea6-data-package-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221121-bio-zer1-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221121-bio-zer1-data-package-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221124-bio-zer1-with-cleaved-tags-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221124-bio-zer1-with-cleaved-tags-data-package-nhartooni-t14-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221124-bio-zer1-with-cleaved-tags-data-package-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221214-bio-fbxw5-skp1-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221214-bio-fbxw5-skp1-data-package-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221216-bio-fbxw5-skp1-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20221216-bio-fbxw5-skp1-data-package-pdf
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20230228-bio-wdr26-data-package-docx
+- [x] onedrive_protein-chemistry-ligases-sgc-ligases-2022-20230228-bio-wdr26-data-package-pdf
 
 ### Publications  (125)
 
@@ -9074,356 +9074,356 @@ Conference materials (slide decks, posters from external presentations). Fold in
 
 In-solution proteomics assay methodology and runs.
 
-- [ ] onedrive_protein-chemistry-isp-assays-20230912-st6-isp-dataanalysisfigures-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-isp-poster-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-isp-poster-sh-pdf
-- [ ] onedrive_protein-chemistry-isp-assays-isp-results-isp-assay-06-07-2023-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-isp-results-isp-assay-plans-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-meetings-meeting-06292023-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-qc-stat6-eg---copy-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-isp-dsp-tables-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-20230728-stat6-isp-t1-and-t3-ds-main-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-ds1-tracers-combined-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-20230731-stat6-isp-ds-t1-rf-t1-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-20230731-stat6-isp-ds-t1-rf-t2-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-20230731-stat6-isp-ds-t1-rf-t5-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-20230731-stat6-isp-ds-t1-rf-t8-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-stat6-isp-ds-t1-summary-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-20230731-stat6-isp-ds-t3-rf-t1-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-20230731-stat6-isp-ds-t3-rf-t2-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-20230731-stat6-isp-ds-t3-rf-t5-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-20230731-stat6-isp-ds-t3-rf-t8-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-stat6-isp-ds-t3-summary-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-update-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-20230811-stat6-isp-t2-and-t4-ds-main-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-20230811-stat6-isp-ds-t2-rf-t1-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-20230811-stat6-isp-ds-t2-rf-t2-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-20230811-stat6-isp-ds-t2-rf-t5-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-20230811-stat6-isp-ds-t2-rf-t8-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-stat6-isp-ds-t2-summary-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-20230811-stat6-isp-ds-t4-rf-t1-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-20230811-stat6-isp-ds-t4-rf-t2-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-20230811-stat6-isp-ds-t4-rf-t5-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-20230811-stat6-isp-ds-t4-rf-t8-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-stat6-isp-ds-t4-summary-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-protein-stock-calcs-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-stat6-isp-ds-combined-summary-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-stat6-isp-ds-ngs-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst-combined-summary-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-r1-qpcr-request-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-main-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-rf-t1-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-rf-t2-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-rf-t5-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-rf-t8-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-summary-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-r1-qpcr-request-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-rf-t1-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-rf-t2-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-rf-t5-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-rf-t8-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-summary-pptx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-stat6-isp-tst3-4-main-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-20230724-stat6-isp-tst4-rf-t1-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-20230724-stat6-isp-tst4-rf-t2-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-20230724-stat6-isp-tst4-rf-t5-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-20230724-stat6-isp-tst4-rf-t8-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-stat6-isp-tst3-4-main-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-tracer-recovery-combined-xlsx
-- [ ] onedrive_protein-chemistry-isp-assays-ubr2-ubr2-isp-tst-main-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-20230912-st6-isp-dataanalysisfigures-pptx
+- [x] onedrive_protein-chemistry-isp-assays-isp-poster-pptx
+- [x] onedrive_protein-chemistry-isp-assays-isp-poster-sh-pdf
+- [x] onedrive_protein-chemistry-isp-assays-isp-results-isp-assay-06-07-2023-pptx
+- [x] onedrive_protein-chemistry-isp-assays-isp-results-isp-assay-plans-pptx
+- [x] onedrive_protein-chemistry-isp-assays-meetings-meeting-06292023-pptx
+- [x] onedrive_protein-chemistry-isp-assays-qc-stat6-eg---copy-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-isp-dsp-tables-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-20230728-stat6-isp-t1-and-t3-ds-main-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-ds1-tracers-combined-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-20230731-stat6-isp-ds-t1-rf-t1-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-20230731-stat6-isp-ds-t1-rf-t2-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-20230731-stat6-isp-ds-t1-rf-t5-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-20230731-stat6-isp-ds-t1-rf-t8-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t1-ds-incub-stat6-isp-ds-t1-summary-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-20230731-stat6-isp-ds-t3-rf-t1-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-20230731-stat6-isp-ds-t3-rf-t2-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-20230731-stat6-isp-ds-t3-rf-t5-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-20230731-stat6-isp-ds-t3-rf-t8-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-stat6-isp-t3-ds-spike-stat6-isp-ds-t3-summary-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230728-stat6-isp-ds1-update-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-20230811-stat6-isp-t2-and-t4-ds-main-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-20230811-stat6-isp-ds-t2-rf-t1-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-20230811-stat6-isp-ds-t2-rf-t2-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-20230811-stat6-isp-ds-t2-rf-t5-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-20230811-stat6-isp-ds-t2-rf-t8-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t2-ds-incub-cleavage-stat6-isp-ds-t2-summary-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-20230811-stat6-isp-ds-t4-rf-t1-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-20230811-stat6-isp-ds-t4-rf-t2-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-20230811-stat6-isp-ds-t4-rf-t5-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-20230811-stat6-isp-ds-t4-rf-t8-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-20230811-stat6-isp-ds2-stat6-isp-t4-ds-cleave-then-incub-stat6-isp-ds-t4-summary-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-protein-stock-calcs-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-stat6-isp-ds-combined-summary-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-del-screen-stat6-isp-ds-ngs-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst-combined-summary-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-r1-qpcr-request-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-main-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-rf-t1-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-rf-t2-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-rf-t5-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-rf-t8-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst1-2-20230712-stat6-isp-tst1-2-summary-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-r1-qpcr-request-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-rf-t1-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-rf-t2-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-rf-t5-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-rf-t8-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-20230724-stat6-isp-tst3-summary-pptx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst3-stat6-isp-tst3-4-main-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-20230724-stat6-isp-tst4-rf-t1-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-20230724-stat6-isp-tst4-rf-t2-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-20230724-stat6-isp-tst4-rf-t5-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-20230724-stat6-isp-tst4-rf-t8-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-stat6-isp-tst4-stat6-isp-tst3-4-main-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-stat6-stat6-tracer-screen-tests-tracer-recovery-combined-xlsx
+- [x] onedrive_protein-chemistry-isp-assays-ubr2-ubr2-isp-tst-main-xlsx
 
 ### SEC-MALS  (39)
 
 Size-exclusion chromatography with multi-angle light scattering. `methods/sec-mals.md` anchor.
 
-- [ ] onedrive_protein-chemistry-sec-mals-results-20231120-sec-mals-results-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-results-20231220-sec-mals-results-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-results-20240222-sec-mals-results-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-results-20240307-sec-mals-results-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-00---table-of-contents-00---welcome-to-wyatt-technology-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-00---table-of-contents-2022-wyatt-analytica-chimica-acta-review-pdf
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-01---introduction-to-light-scattering-01---blue-sky-and-light-scattering-equations-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-01---introduction-to-light-scattering-01---general-mals-theory-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-02---introduction-to-astra-02---introduction-to-astra-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-03---mals-flow-cell-cleaning-03a---dawn-flow-cell-cleaning-workshop-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-03---mals-flow-cell-cleaning-03b---minidawn-heleos-treos-flow-cell-cleaning-workshop-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-03---mals-flow-cell-cleaning-03c---microdawn-flow-cell-cleaning-workshop-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-04---day-1-overview-04---lsu-first-day-overview-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-05---size-exclusion-chromatography-with-mals-05---mals-light-scattering-formalisms-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-05---size-exclusion-chromatography-with-mals-05---size-exclusion-chromatography-with-mals-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-06---sec-mals-lab-06---sec-mals-experiment-setup-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-06---sec-mals-lab-06---sec-mals-lab-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-07---beyond-sec-mals-07---beyond-sec-mals-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-08---data-processing-and-troubleshooting-08---data-processing-and-troubleshooting-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-09---day-2-overview-09---lsu-second-day-overview-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-10---introduction-to-dls-and-pals-10---introduction-to-dls-and-pals-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-11---measuring-dndc-11---dndc-lab-lecture-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-aav-and-viral-vector-analysis-12---aav-and-viral-vector-analysis-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-colloidal-stability-12---colloidal-stability-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-colloidal-stability-online-a2-online-a2-experiments---some-guidelines-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-fluorescing-and-absorbing-samples-tn1010---correcting-for-absorbance-at-the-laser-wavelength-rev-a-pdf
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-fluorescing-and-absorbing-samples-tn3003---measuring-molar-mass-for-fluorescing-samples-rev-a-pdf
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-lentiviral-and-gammaretrovial-vectors-12---lentiviral-and-gammaretroviral-vectors-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-lipid-nanoparticle-analysis-12---lipid-nanoparticle-analysis-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-online-dls-workshop-12---online-dls-scatter-session-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-optilab-hardware-session-12---optilab-hardware-session-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-protein-conjugate-workshop-12---protein-conjugate-workshop-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-viscostar-hardware-workshop-12---viscostar-hardware-workshop-2022-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-13---glossary-of-terms-and-equations-13---glossary-of-terms-and-equations-2022-docx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-protein-waiting-list-xlsx
-- [ ] onedrive_protein-chemistry-sec-mals-sec-mals-tests-05032023-pptx
-- [ ] onedrive_protein-chemistry-sec-mals-troubleshooting-docs-tn3102a-troubleshooting-clog-pdf
-- [ ] onedrive_protein-chemistry-sec-mals-troubleshooting-docs-tn3103d1-in-situ-cleaning-protocol-for-a-wyatt-mals-instrument-pdf
-- [ ] onedrive_protein-chemistry-sec-mals-troubleshooting-docs-tn3503-troubleshooting-a-clog-in-a-sec-mals-system-rev-a-pdf
+- [x] onedrive_protein-chemistry-sec-mals-results-20231120-sec-mals-results-pptx
+- [x] onedrive_protein-chemistry-sec-mals-results-20231220-sec-mals-results-pptx
+- [x] onedrive_protein-chemistry-sec-mals-results-20240222-sec-mals-results-pptx
+- [x] onedrive_protein-chemistry-sec-mals-results-20240307-sec-mals-results-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-00---table-of-contents-00---welcome-to-wyatt-technology-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-00---table-of-contents-2022-wyatt-analytica-chimica-acta-review-pdf
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-01---introduction-to-light-scattering-01---blue-sky-and-light-scattering-equations-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-01---introduction-to-light-scattering-01---general-mals-theory-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-02---introduction-to-astra-02---introduction-to-astra-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-03---mals-flow-cell-cleaning-03a---dawn-flow-cell-cleaning-workshop-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-03---mals-flow-cell-cleaning-03b---minidawn-heleos-treos-flow-cell-cleaning-workshop-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-03---mals-flow-cell-cleaning-03c---microdawn-flow-cell-cleaning-workshop-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-04---day-1-overview-04---lsu-first-day-overview-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-05---size-exclusion-chromatography-with-mals-05---mals-light-scattering-formalisms-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-05---size-exclusion-chromatography-with-mals-05---size-exclusion-chromatography-with-mals-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-06---sec-mals-lab-06---sec-mals-experiment-setup-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-06---sec-mals-lab-06---sec-mals-lab-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-07---beyond-sec-mals-07---beyond-sec-mals-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-08---data-processing-and-troubleshooting-08---data-processing-and-troubleshooting-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-09---day-2-overview-09---lsu-second-day-overview-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-10---introduction-to-dls-and-pals-10---introduction-to-dls-and-pals-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-11---measuring-dndc-11---dndc-lab-lecture-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-aav-and-viral-vector-analysis-12---aav-and-viral-vector-analysis-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-colloidal-stability-12---colloidal-stability-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-colloidal-stability-online-a2-online-a2-experiments---some-guidelines-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-fluorescing-and-absorbing-samples-tn1010---correcting-for-absorbance-at-the-laser-wavelength-rev-a-pdf
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-fluorescing-and-absorbing-samples-tn3003---measuring-molar-mass-for-fluorescing-samples-rev-a-pdf
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-lentiviral-and-gammaretrovial-vectors-12---lentiviral-and-gammaretroviral-vectors-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-lipid-nanoparticle-analysis-12---lipid-nanoparticle-analysis-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-online-dls-workshop-12---online-dls-scatter-session-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-optilab-hardware-session-12---optilab-hardware-session-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-protein-conjugate-workshop-12---protein-conjugate-workshop-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-12---scatter-sessions-viscostar-hardware-workshop-12---viscostar-hardware-workshop-2022-pptx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-lsu-presentations-13---glossary-of-terms-and-equations-13---glossary-of-terms-and-equations-2022-docx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-protein-waiting-list-xlsx
+- [x] onedrive_protein-chemistry-sec-mals-sec-mals-tests-05032023-pptx
+- [x] onedrive_protein-chemistry-sec-mals-troubleshooting-docs-tn3102a-troubleshooting-clog-pdf
+- [x] onedrive_protein-chemistry-sec-mals-troubleshooting-docs-tn3103d1-in-situ-cleaning-protocol-for-a-wyatt-mals-instrument-pdf
+- [x] onedrive_protein-chemistry-sec-mals-troubleshooting-docs-tn3503-troubleshooting-a-clog-in-a-sec-mals-system-rev-a-pdf
 
 ### DLS (dynamic light scattering)  (15)
 
 `methods/dls.md` anchor.
 
-- [ ] onedrive_protein-chemistry-dls-20201006---dls-training-nurix-pdf
-- [ ] onedrive_protein-chemistry-dls-20201028---dls-training-jose-pdf
-- [ ] onedrive_protein-chemistry-dls-20201030-compoundsolubilitydiscussion-20201030-compoundsolubilitydiscussion-jose-pptx
-- [ ] onedrive_protein-chemistry-dls-20201030-compoundsolubilitydiscussion-20201106-compoundsolubilitydiscussion-part2-v1-jose-pptx
-- [ ] onedrive_protein-chemistry-dls-compounds-for-dls-xlsx
-- [ ] onedrive_protein-chemistry-dls-dynapro-plate-reader-well-plate-list-m3102i-1-pdf
-- [ ] onedrive_protein-chemistry-dls-molecular-weight-calculator-pptx
-- [ ] onedrive_protein-chemistry-dls-pdf-version-zetasizer-advance-series-user-training-2020-pdf
-- [ ] onedrive_protein-chemistry-dls-samples-for-prometheus-panta-demo-xlsx
-- [ ] onedrive_protein-chemistry-dls-wyatt-demo-20201102-nurix-demo-sample-report-pdf
-- [ ] onedrive_protein-chemistry-dls-wyatt-demo-dls-demo-plate-map-xlsx
-- [ ] onedrive_protein-chemistry-dls-wyatt-demo-plate-dls-demo-analysis-2-pptx
-- [ ] onedrive_protein-chemistry-dls-wyatt-demo-plate-dls-demo-analysis-for-wyatt-pdf
-- [ ] onedrive_protein-chemistry-dls-wyatt-demo-plate-dls-demo-analysis-for-wyatt-pptx
-- [ ] onedrive_protein-chemistry-dls-wyatt-demo-plate-dls-demo-analysis-pptx
+- [x] onedrive_protein-chemistry-dls-20201006---dls-training-nurix-pdf
+- [x] onedrive_protein-chemistry-dls-20201028---dls-training-jose-pdf
+- [x] onedrive_protein-chemistry-dls-20201030-compoundsolubilitydiscussion-20201030-compoundsolubilitydiscussion-jose-pptx
+- [x] onedrive_protein-chemistry-dls-20201030-compoundsolubilitydiscussion-20201106-compoundsolubilitydiscussion-part2-v1-jose-pptx
+- [x] onedrive_protein-chemistry-dls-compounds-for-dls-xlsx
+- [x] onedrive_protein-chemistry-dls-dynapro-plate-reader-well-plate-list-m3102i-1-pdf
+- [x] onedrive_protein-chemistry-dls-molecular-weight-calculator-pptx
+- [x] onedrive_protein-chemistry-dls-pdf-version-zetasizer-advance-series-user-training-2020-pdf
+- [x] onedrive_protein-chemistry-dls-samples-for-prometheus-panta-demo-xlsx
+- [x] onedrive_protein-chemistry-dls-wyatt-demo-20201102-nurix-demo-sample-report-pdf
+- [x] onedrive_protein-chemistry-dls-wyatt-demo-dls-demo-plate-map-xlsx
+- [x] onedrive_protein-chemistry-dls-wyatt-demo-plate-dls-demo-analysis-2-pptx
+- [x] onedrive_protein-chemistry-dls-wyatt-demo-plate-dls-demo-analysis-for-wyatt-pdf
+- [x] onedrive_protein-chemistry-dls-wyatt-demo-plate-dls-demo-analysis-for-wyatt-pptx
+- [x] onedrive_protein-chemistry-dls-wyatt-demo-plate-dls-demo-analysis-pptx
 
 ### Laboratory instruments  (46)
 
 Per-instrument methodology, maintenance, calibration. Anchors `equipment/` pages by instrument family.
 
-- [ ] onedrive_protein-chemistry-laboratory-instruments-20260226-system-owners-csv-xlsx
-- [ ] onedrive_protein-chemistry-laboratory-instruments-20260306-lab-computer-assignments-del-ps-xlsx
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2023-akta-a-nurix-pm-wo-00460601-sn-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2023-akta-a-pmchecklistsn2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-a-nurix-therapeutics-service-report-wo-00611934-sn-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-a-pmchecklistsn2055432-1-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-b-nurix-service-report-wo-00585005-sn-1927211-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-b-pmchecklistsn1927211-20240513-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-c-nurix-service-report-wo-00568990-sn-2133737-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-c-nurix-service-report-wo-00695705-sn-2133737-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-c-pmchecklistsn2133737-20240513-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-c-pmchecklistsn2133737-20241018-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-d-nurix-service-report-wo-00579072-sn-2572873-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-d-nurix-service-report-wo-00695702-sn-2572873-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-d-pmchecklistsn2572873-20240513-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-d-pmchecklistsn2572873-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-nurix-service-report-wo-00650011-sn-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-nurix-service-report-wo-00650012-sn-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-a-2055432-nurix-therapeutics-service-report-wo-00709530-sn-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-a-2055432-pmchecklistsn2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-b-1927211-nurix-therapeutics-service-report-wo-00695703-sn-1927211-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-b-1927211-pmchecklistsn1927211-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-e-2849182-nurix-therapeutics-service-report-wo-00732035-sn-2849182-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-e-2849182-pmchecklistsn2849182-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-a-2055432-nurix-service-report-wo-00807103-sn-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-a-2055432-pmchecklistsn2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-b-1927211-nurix-service-report-wo-00791419-sn-1927211-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-b-1927211-pmchecklistsn1927211-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-d-2572873-nurix-service-report-wo-00778464-sn-2572873-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-d-2572873-pmchecklistsn2572873-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-e-2849182-nurix-service-report-wo-00778463-sn-2849182-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-e-2849182-pmchecklistsn2849182-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-akta-info-xlsx
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-akta-pure-installation-service-report-wo-00386416-sn-2849182-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-pm-wo-00336214-sn-2572873-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-pm-wo-00357443-sn-1927211-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-pm-wo-00360029-sn-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-pm-wo-07506721-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-00336214-sn-2572873-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-00357443-sn-1927211-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-00360029-sn-2055432-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-00388003-sn-2572873-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-0388002-sn-1927211-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-wo-07506721-pm-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-nt-prometheus-panta-datafile-002-2024-digital-pdf
-- [ ] onedrive_protein-chemistry-laboratory-instruments-ultracentrifuge-ultracentrifuge-and-auc-product-catalog-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-20260226-system-owners-csv-xlsx
+- [x] onedrive_protein-chemistry-laboratory-instruments-20260306-lab-computer-assignments-del-ps-xlsx
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2023-akta-a-nurix-pm-wo-00460601-sn-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2023-akta-a-pmchecklistsn2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-a-nurix-therapeutics-service-report-wo-00611934-sn-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-a-pmchecklistsn2055432-1-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-b-nurix-service-report-wo-00585005-sn-1927211-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-b-pmchecklistsn1927211-20240513-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-c-nurix-service-report-wo-00568990-sn-2133737-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-c-nurix-service-report-wo-00695705-sn-2133737-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-c-pmchecklistsn2133737-20240513-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-c-pmchecklistsn2133737-20241018-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-d-nurix-service-report-wo-00579072-sn-2572873-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-d-nurix-service-report-wo-00695702-sn-2572873-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-d-pmchecklistsn2572873-20240513-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-akta-d-pmchecklistsn2572873-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-nurix-service-report-wo-00650011-sn-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2024-nurix-service-report-wo-00650012-sn-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-a-2055432-nurix-therapeutics-service-report-wo-00709530-sn-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-a-2055432-pmchecklistsn2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-b-1927211-nurix-therapeutics-service-report-wo-00695703-sn-1927211-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-b-1927211-pmchecklistsn1927211-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-e-2849182-nurix-therapeutics-service-report-wo-00732035-sn-2849182-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2025-akta-e-2849182-pmchecklistsn2849182-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-a-2055432-nurix-service-report-wo-00807103-sn-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-a-2055432-pmchecklistsn2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-b-1927211-nurix-service-report-wo-00791419-sn-1927211-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-b-1927211-pmchecklistsn1927211-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-d-2572873-nurix-service-report-wo-00778464-sn-2572873-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-d-2572873-pmchecklistsn2572873-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-e-2849182-nurix-service-report-wo-00778463-sn-2849182-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-2026-akta-e-2849182-pmchecklistsn2849182-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-akta-info-xlsx
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-akta-pure-installation-service-report-wo-00386416-sn-2849182-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-pm-wo-00336214-sn-2572873-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-pm-wo-00357443-sn-1927211-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-pm-wo-00360029-sn-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-pm-wo-07506721-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-00336214-sn-2572873-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-00357443-sn-1927211-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-00360029-sn-2055432-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-00388003-sn-2572873-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-nurix-service-report-wo-0388002-sn-1927211-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-akta-service-reports-wo-07506721-pm-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-nt-prometheus-panta-datafile-002-2024-digital-pdf
+- [x] onedrive_protein-chemistry-laboratory-instruments-ultracentrifuge-ultracentrifuge-and-auc-product-catalog-pdf
 
 ### Fermentation requests  (173)
 
 Operational/methodology cluster for large-scale fermentation. May anchor `protocols/fermentation-request.md`.
 
-- [ ] onedrive_protein-chemistry-fermentation-requests-0-fermentation-request-calendar-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-adar1-expression-lab-services-2020-06-05-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-arid1b-ariddomain-expression--lab-services-2024-3-8-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-arid1b-expression-lab-services-2024-05-21-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-arid1b-expression-lab-services-2025-01-09-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-btrcp-necc-n416-expression-lab-services-2021-02-09-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-btrcp-necc-n502-expression-lab-services-2021-04-06-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-btrcp-necc-n502-expression-lab-services-2021-04-13-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-btrcp-necc-n539-expression-lab-services-2021-07-01-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-ccl5-expression-lab-services-2024-06-24-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-cgi-58-necc-n176-lab-services-2020-01-10-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-cgi-58-necc-n176-lab-services-2020-01-20-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-cgi-58-necc-n189-lab-services-2020-01-10-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-cish-expression-lab-services-2021-07-12-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-cish-expression-lab-services-2022-06-09-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-cish-socs1-expression-lab-services-2022-01-27-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-cmyc-expression-lab-services-2019-03-05-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-cmyc-expression-lab-services-2019-04-19-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-copy-of-kras-expression-lab-services-2019-08-16-updated-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-crbn-expression-lab-services-2020-10-23-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-crbn-expression-lab-services-2021-07-02-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-del-fm-braf-expression-lab-services-2025-09-09-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-del-fm-trim38-expression-lab-services-2026-01-06-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-dnajb1-prkaca-expression-lab-services-2024-05-16-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-dnajb1-prkaca-expression-lab-services-2024-10-28-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-dnajb1-prkaca-fermentation-request-necc-n21476-n21477-n21478-n21479-20230706-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-ews-fli1-expression-lab-services-2021-12-01-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-ews-fli1-expression-lab-services-2022-09-15-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-03-20-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-03-27-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-04-03-ammended-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-04-03-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-04-11-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-05-27-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fem1a-expression-lab-services-2023-04-21-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fem1b-necc-n00801-avi-fem1b-1-627--tev-6h-expression-labservices-2022-07-08-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fem1b-necc-n802-n827-expression-labservices-2022-05-19-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fem1b-necc-n802-n827-expression-labservices-2022-08-11-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-00657-20220502-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00542-20230112-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00714-2-non-biot-20220528-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00714-3-biot-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00714-4-biot-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00718-1-n00719-1-20220216-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00718-2-20220325-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00718-3-20220408-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n21473-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n21474-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-fermentation-request-template-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-gid4-expression-lab-services-2021-08-16-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-gid4-expression-lab-services-2023-06-02-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-gid4-expression-lab-services-2023-07-0-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-izkf1-necc-n21283-n21284-expression-labservices-2022-09-26-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-klhl10-expression-lab-services-2025-10-06-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-klhl2-necc-n21361-labservices-2024-01-9-10-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-klhl20-necc-n21495-n21496-labservices-2023-sept8-13-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-klhl3-expression-lab-services-2023-06-09-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-02-27-protein-notes-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-08-06-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-08-16-updated-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-08-16-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-08-23-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-09-06-ammended-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-09-06-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-10-10-ammended-n2-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-10-10-ammended-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-10-10-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2020-02-07-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2020-03-06-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2020-06-05-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2020-07-09-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-kras-necc-n00278-expression-lab-services-2020-01-04-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-ligases-expression-lab-services-2021-12-10-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-mbp-tev-expression-lab-services-2020-07-10-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-mpro-expression-lab-services-2020-11-02-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-mpro-expression-lab-services-2021-03-12-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-mpro-snf02-expression-lab-services-2021-05-13-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n115-n145-expression-lab-services-2020-09-02-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n132-n133-expression-lab-services-2020-06-26-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n147-expression-lab-services-2020-12-22-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n248-250-expression-lab-services-2021-04-23-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n284-n286-expression-lab-services-2020-12-03-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n399-expression-lab-services-10142020-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n422-426-expression-lab-services-2021-06-18-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n478-479-480-expression-lab-services-2021-02-26-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n478-expression-lab-services-2021-09-20-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n486-487-488-489-490-expression-lab-services-2021-03-16-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n525-expression-lab-services-2021-02-11-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n525-n524-expression-lab-services-2022-04-22-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n643-n644-n657-expression-lab-services-2022-11-01-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n672-n671-expression-lab-services-2022-01-21-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n714-n715-n716-n717-expression-las-services-2022-01-13-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n721-n722-expression-lab-services-2022-01-28-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n722-expression-lab-services-2022-04-04-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-n804-n805-expression-lab-services-2022-05-13-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-necc-n200-n201-lab-services-2020-02-28-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-necc-n5-lab-services-2020-01-31-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-nmyc-fermentation-request-necc-n21473-07182023-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-nmyc-necc-n21474-n21475-fermentation-request-20230910-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-nsp1-expression-lab-services-2020-08-05-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-nsp1-expression-lab-services-2020-08-06-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-nsp1-expression-lab-services-2021-02-18-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-pbrm1-necc-n548-brd4-necc-n536-expression-lab-services-202010621-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-plpro-expression-lab-services-2020-08-27-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-plpro-expression-lab-services-2021-03-12-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-plpro-expression-lab-services-2021-04-16-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-plpro-mpro-expression-lab-services-2020-06-18-updated-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-plpro-mpro-expression-lab-services-2020-06-18-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-rnf10-fem1a-maged4-fem1c-expression-lab-services-2023-04-21-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-rnf114-expression-lab-services-2022-10-11-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-rnf4-necc-n744-expression-lab-services-2022-04-18-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-rnf4-rnf114-trim25-expression-lab-services-2022-10-03-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-rnf7-labservices-2023-oct10-11-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-sgn01-expression-lab-services-2023-11-15-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-03-08-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-03-13-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-05-08-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-10-24-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-11-22-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-siah1-expression-lab-services-2021-11-15-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-siah1-expression-lab-services-2021-12-02-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-siah1-expression-lab-services-2022-1-11-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-siah1-multipleclone-s-expression-lab-services-2022-09-07-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-smarca2a-pgex-6p-1-necc533-expression-lab-services-2021-06-03-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2021-07-19-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2021-08-23-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2021-10-12-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2022-01-04-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2022-03-24-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2022-06-09-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf02-snf04-expression-lab-services-2021-08-25-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf03-n426-expression-lab-services-2020-07-28-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2021-03-05-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2021-05-05-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-06-30-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-08-12-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-10-13-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-10-21-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-11-03-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2021-08-16-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2021-09-17-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2021-10-15-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2021-11-23-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2022-04-12-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2022-07-08-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-snf05-necc-n615-n616-n618-expression-labservices-2022-03-31-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-socs2-expression-lab-services-2021-12-14-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2020-10-14-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2020-12-11-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2021-03-08-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2021-05-11-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2022-05-13-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-sumo-necc-n21229-expression-labservices-2022-08-26-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-t4-expression-lab-services-2019-10-16-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-t4-expression-lab-services-2019-12-06-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-t4l-expression-lab-services-2026-01-15-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-tet1-expression-lab-services-2022-01-10-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-tet2-expression-lab-services-2021-07-29-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-trim25-necc-n833-expression-lab-services-2022-08-19-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-trim32-labservices-2024-january-16to17-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-ube2g1-necc-n856-n857-expression-lab-services-2022-08-02-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-ube3a-expression-lab-services-2022-09-26-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-ubr2-expression-lab-services-2022-02-15-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-ubr5-expression-lab-services-2022-11-16-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2022-02-02-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2022-09-29-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2022-10-10-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2023-05-08-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2024-10-03-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-wdr5-labservices-2023-sept15-20-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-wdr5-labservices-2023-sept19-20-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-wdr5-labservices-2024-feb20-21-xlsx
-- [ ] onedrive_protein-chemistry-fermentation-requests-yoph-expression-lab-services-2024-06-26-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-0-fermentation-request-calendar-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-adar1-expression-lab-services-2020-06-05-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-arid1b-ariddomain-expression--lab-services-2024-3-8-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-arid1b-expression-lab-services-2024-05-21-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-arid1b-expression-lab-services-2025-01-09-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-btrcp-necc-n416-expression-lab-services-2021-02-09-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-btrcp-necc-n502-expression-lab-services-2021-04-06-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-btrcp-necc-n502-expression-lab-services-2021-04-13-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-btrcp-necc-n539-expression-lab-services-2021-07-01-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-ccl5-expression-lab-services-2024-06-24-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-cgi-58-necc-n176-lab-services-2020-01-10-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-cgi-58-necc-n176-lab-services-2020-01-20-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-cgi-58-necc-n189-lab-services-2020-01-10-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-cish-expression-lab-services-2021-07-12-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-cish-expression-lab-services-2022-06-09-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-cish-socs1-expression-lab-services-2022-01-27-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-cmyc-expression-lab-services-2019-03-05-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-cmyc-expression-lab-services-2019-04-19-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-copy-of-kras-expression-lab-services-2019-08-16-updated-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-crbn-expression-lab-services-2020-10-23-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-crbn-expression-lab-services-2021-07-02-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-del-fm-braf-expression-lab-services-2025-09-09-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-del-fm-trim38-expression-lab-services-2026-01-06-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-dnajb1-prkaca-expression-lab-services-2024-05-16-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-dnajb1-prkaca-expression-lab-services-2024-10-28-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-dnajb1-prkaca-fermentation-request-necc-n21476-n21477-n21478-n21479-20230706-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-ews-fli1-expression-lab-services-2021-12-01-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-ews-fli1-expression-lab-services-2022-09-15-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-03-20-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-03-27-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-04-03-ammended-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-04-03-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-04-11-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-expression-lab-services-2019-05-27-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fem1a-expression-lab-services-2023-04-21-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fem1b-necc-n00801-avi-fem1b-1-627--tev-6h-expression-labservices-2022-07-08-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fem1b-necc-n802-n827-expression-labservices-2022-05-19-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fem1b-necc-n802-n827-expression-labservices-2022-08-11-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-00657-20220502-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00542-20230112-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00714-2-non-biot-20220528-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00714-3-biot-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00714-4-biot-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00718-1-n00719-1-20220216-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00718-2-20220325-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n00718-3-20220408-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n21473-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-necc-n21474-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-fermentation-request-template-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-gid4-expression-lab-services-2021-08-16-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-gid4-expression-lab-services-2023-06-02-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-gid4-expression-lab-services-2023-07-0-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-izkf1-necc-n21283-n21284-expression-labservices-2022-09-26-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-klhl10-expression-lab-services-2025-10-06-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-klhl2-necc-n21361-labservices-2024-01-9-10-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-klhl20-necc-n21495-n21496-labservices-2023-sept8-13-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-klhl3-expression-lab-services-2023-06-09-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-02-27-protein-notes-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-08-06-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-08-16-updated-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-08-16-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-08-23-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-09-06-ammended-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-09-06-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-10-10-ammended-n2-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-10-10-ammended-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2019-10-10-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2020-02-07-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2020-03-06-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2020-06-05-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-expression-lab-services-2020-07-09-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-kras-necc-n00278-expression-lab-services-2020-01-04-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-ligases-expression-lab-services-2021-12-10-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-mbp-tev-expression-lab-services-2020-07-10-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-mpro-expression-lab-services-2020-11-02-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-mpro-expression-lab-services-2021-03-12-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-mpro-snf02-expression-lab-services-2021-05-13-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n115-n145-expression-lab-services-2020-09-02-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n132-n133-expression-lab-services-2020-06-26-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n147-expression-lab-services-2020-12-22-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n248-250-expression-lab-services-2021-04-23-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n284-n286-expression-lab-services-2020-12-03-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n399-expression-lab-services-10142020-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n422-426-expression-lab-services-2021-06-18-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n478-479-480-expression-lab-services-2021-02-26-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n478-expression-lab-services-2021-09-20-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n486-487-488-489-490-expression-lab-services-2021-03-16-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n525-expression-lab-services-2021-02-11-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n525-n524-expression-lab-services-2022-04-22-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n643-n644-n657-expression-lab-services-2022-11-01-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n672-n671-expression-lab-services-2022-01-21-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n714-n715-n716-n717-expression-las-services-2022-01-13-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n721-n722-expression-lab-services-2022-01-28-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n722-expression-lab-services-2022-04-04-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-n804-n805-expression-lab-services-2022-05-13-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-necc-n200-n201-lab-services-2020-02-28-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-necc-n5-lab-services-2020-01-31-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-nmyc-fermentation-request-necc-n21473-07182023-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-nmyc-necc-n21474-n21475-fermentation-request-20230910-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-nsp1-expression-lab-services-2020-08-05-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-nsp1-expression-lab-services-2020-08-06-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-nsp1-expression-lab-services-2021-02-18-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-pbrm1-necc-n548-brd4-necc-n536-expression-lab-services-202010621-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-plpro-expression-lab-services-2020-08-27-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-plpro-expression-lab-services-2021-03-12-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-plpro-expression-lab-services-2021-04-16-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-plpro-mpro-expression-lab-services-2020-06-18-updated-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-plpro-mpro-expression-lab-services-2020-06-18-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-rnf10-fem1a-maged4-fem1c-expression-lab-services-2023-04-21-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-rnf114-expression-lab-services-2022-10-11-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-rnf4-necc-n744-expression-lab-services-2022-04-18-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-rnf4-rnf114-trim25-expression-lab-services-2022-10-03-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-rnf7-labservices-2023-oct10-11-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-sgn01-expression-lab-services-2023-11-15-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-03-08-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-03-13-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-05-08-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-10-24-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-shp2-expression-lab-services-2019-11-22-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-siah1-expression-lab-services-2021-11-15-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-siah1-expression-lab-services-2021-12-02-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-siah1-expression-lab-services-2022-1-11-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-siah1-multipleclone-s-expression-lab-services-2022-09-07-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-smarca2a-pgex-6p-1-necc533-expression-lab-services-2021-06-03-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2021-07-19-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2021-08-23-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2021-10-12-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2022-01-04-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2022-03-24-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf02-expression-lab-services-2022-06-09-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf02-snf04-expression-lab-services-2021-08-25-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf03-n426-expression-lab-services-2020-07-28-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2021-03-05-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2021-05-05-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-06-30-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-08-12-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-10-13-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-10-21-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf04-expression-lab-services-2022-11-03-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2021-08-16-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2021-09-17-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2021-10-15-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2021-11-23-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2022-04-12-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf05-expression-lab-services-2022-07-08-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-snf05-necc-n615-n616-n618-expression-labservices-2022-03-31-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-socs2-expression-lab-services-2021-12-14-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2020-10-14-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2020-12-11-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2021-03-08-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2021-05-11-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-stat6-expression-lab-services-2022-05-13-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-sumo-necc-n21229-expression-labservices-2022-08-26-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-t4-expression-lab-services-2019-10-16-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-t4-expression-lab-services-2019-12-06-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-t4l-expression-lab-services-2026-01-15-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-tet1-expression-lab-services-2022-01-10-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-tet2-expression-lab-services-2021-07-29-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-trim25-necc-n833-expression-lab-services-2022-08-19-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-trim32-labservices-2024-january-16to17-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-ube2g1-necc-n856-n857-expression-lab-services-2022-08-02-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-ube3a-expression-lab-services-2022-09-26-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-ubr2-expression-lab-services-2022-02-15-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-ubr5-expression-lab-services-2022-11-16-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2022-02-02-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2022-09-29-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2022-10-10-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2023-05-08-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-vhl-expression-lab-services-2024-10-03-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-wdr5-labservices-2023-sept15-20-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-wdr5-labservices-2023-sept19-20-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-wdr5-labservices-2024-feb20-21-xlsx
+- [x] onedrive_protein-chemistry-fermentation-requests-yoph-expression-lab-services-2024-06-26-xlsx
 
 ### Protein Sciences Goals  (17)
 
@@ -9451,22 +9451,22 @@ Strategic goals documents. Anchors `decisions/ps-goals-YYYY.md` per year.
 
 High-throughput expression screening methodology.
 
-- [ ] onedrive_protein-chemistry-ht-expression-determination-02-17-2022-ht-expression-determination-draft-proposal-pptx
-- [ ] onedrive_protein-chemistry-ht-expression-determination-12-08-2021-ht-expression-determination-draft-proposal-pptx
-- [ ] onedrive_protein-chemistry-ht-expression-determination-12-08-2021-protein-yield-calculations-for-qc-xlsx
-- [ ] onedrive_protein-chemistry-ht-expression-determination-cotton-2021-acschembiol-biotin-as-a-reactive-handle-to-selectively-label-proteins-and-dna-with-small-molecules-pdf
-- [ ] onedrive_protein-chemistry-ht-expression-determination-ht-expression-determination-draft-proposal-pptx
-- [ ] onedrive_protein-chemistry-ht-expression-determination-xu-2019-methodsmolbiol-a-flexible-and-scale-high-throughput-platform-for-recombinant-membrane-protein-production-pdf
+- [x] onedrive_protein-chemistry-ht-expression-determination-02-17-2022-ht-expression-determination-draft-proposal-pptx
+- [x] onedrive_protein-chemistry-ht-expression-determination-12-08-2021-ht-expression-determination-draft-proposal-pptx
+- [x] onedrive_protein-chemistry-ht-expression-determination-12-08-2021-protein-yield-calculations-for-qc-xlsx
+- [x] onedrive_protein-chemistry-ht-expression-determination-cotton-2021-acschembiol-biotin-as-a-reactive-handle-to-selectively-label-proteins-and-dna-with-small-molecules-pdf
+- [x] onedrive_protein-chemistry-ht-expression-determination-ht-expression-determination-draft-proposal-pptx
+- [x] onedrive_protein-chemistry-ht-expression-determination-xu-2019-methodsmolbiol-a-flexible-and-scale-high-throughput-platform-for-recombinant-membrane-protein-production-pdf
 
 ### HT platform SOP  (5)
 
 High-throughput platform SOPs.
 
-- [ ] onedrive_protein-chemistry-ht-platform-sop-sop-asec-docx
-- [ ] onedrive_protein-chemistry-ht-platform-sop-sop-dsf-docx
-- [ ] onedrive_protein-chemistry-ht-platform-sop-sop-smscpu---beadmill-docx
-- [ ] onedrive_protein-chemistry-ht-platform-sop-sop-smscpu---bugbuster-docx
-- [ ] onedrive_protein-chemistry-ht-platform-sop-sop-transformation-expression-docx
+- [x] onedrive_protein-chemistry-ht-platform-sop-sop-asec-docx
+- [x] onedrive_protein-chemistry-ht-platform-sop-sop-dsf-docx
+- [x] onedrive_protein-chemistry-ht-platform-sop-sop-smscpu---beadmill-docx
+- [x] onedrive_protein-chemistry-ht-platform-sop-sop-smscpu---bugbuster-docx
+- [x] onedrive_protein-chemistry-ht-platform-sop-sop-transformation-expression-docx
 
 ### Quarterly Project Update PS Meetings  (8)
 
@@ -9492,19 +9492,19 @@ Internal target list updates.
 
 DEL screening test files.
 
-- [ ] onedrive_protein-chemistry-del-screen-test-01-delphi-b-st-rf-20210930-wks-xlsx
-- [ ] onedrive_protein-chemistry-del-screen-test-buffer-stability-testing-reference-xlsx
-- [ ] onedrive_protein-chemistry-del-screen-test-del-screen-test-funnel-assays-bstst-jose-pptx
-- [ ] onedrive_protein-chemistry-del-screen-test-del-screen-test-funnel-assays-bstst-pptx
+- [x] onedrive_protein-chemistry-del-screen-test-01-delphi-b-st-rf-20210930-wks-xlsx
+- [x] onedrive_protein-chemistry-del-screen-test-buffer-stability-testing-reference-xlsx
+- [x] onedrive_protein-chemistry-del-screen-test-del-screen-test-funnel-assays-bstst-jose-pptx
+- [x] onedrive_protein-chemistry-del-screen-test-del-screen-test-funnel-assays-bstst-pptx
 
 ### REFEYN Demo  (4)
 
 Refeyn (mass photometry) demo files. Methods/equipment.
 
-- [ ] onedrive_protein-chemistry-refeyn-demo-proteins-for-refeyn-demo-xlsx
-- [ ] onedrive_protein-chemistry-refeyn-demo-refeyn---mass-photometry---akhila-twomp-nurixtx-pdf
-- [ ] onedrive_protein-chemistry-refeyn-demo-refeyn-appnote-detergents-pdf
-- [ ] onedrive_protein-chemistry-refeyn-demo-results-demo-pptx
+- [x] onedrive_protein-chemistry-refeyn-demo-proteins-for-refeyn-demo-xlsx
+- [x] onedrive_protein-chemistry-refeyn-demo-refeyn---mass-photometry---akhila-twomp-nurixtx-pdf
+- [x] onedrive_protein-chemistry-refeyn-demo-refeyn-appnote-detergents-pdf
+- [x] onedrive_protein-chemistry-refeyn-demo-results-demo-pptx
 
 ### Protein Chemistry Analytics  (2)
 
@@ -9523,7 +9523,7 @@ Singleton — likely the master project assignments artifact.
 
 Ternary-complex analysis spreadsheet.
 
-- [ ] onedrive_protein-chemistry-ternary-complex-asec-tycho-calc-20220602-ternary-complex-assay-calc-sec-only-xlsx
+- [x] onedrive_protein-chemistry-ternary-complex-asec-tycho-calc-20220602-ternary-complex-assay-calc-sec-only-xlsx
 
 ### Biomass inventory audit  (1)
 
