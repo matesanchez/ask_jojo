@@ -13572,198 +13572,198 @@ Meta-documentation about this very project (JoJo Bot v2.0 design, decisions). Us
 
 Working spreadsheets and decks at the OneDrive root (BV updates, NBVC/NMAC/LSE expression sheets, BTK proximity decks, LNP synthesis, Maxiprep requests, Gantt drafts, MS request forms, etc.). Many absorb into existing pages by topic; some may turn out to be one-off scratch and get skip-tagged at absorb time.
 
-- [ ] onedrive_20210825-bv-update-pptx
-- [ ] onedrive_20211026-pptx
-- [ ] onedrive_20230503-bv-transf-1-xlsx
-- [ ] onedrive_20230907-nm-n20171-20172-20174-20175-20177-20178-20180-20181-20182-20183-1-pptx
-- [ ] onedrive_20230907-nm-n20171-20172-20174-20175-20177-20178-20180-20181-20182-20183-pptx
-- [ ] onedrive_20231012-requestform-ms-revised-xlsx
-- [ ] onedrive_20231023-nbvc-n20106-xlsx-xlsx
-- [ ] onedrive_20231110-lse-n21018-21055-20058-xlsx
-- [ ] onedrive_20231110-nbvc-20918-20918-xlsx
-- [ ] onedrive_20231117-lse-n20822-n20059-xlsx
-- [ ] onedrive_20231122-proximity-labelling-btk-pptx
-- [ ] onedrive_20231208-nbvc-n20998-002-xlsx
-- [ ] onedrive_20231215-n20879-n20969-xlsx
-- [ ] onedrive_20231218-n21902-n21903-xlsx
-- [ ] onedrive_20240122-n21903-xlsx
-- [ ] onedrive_20240126-lse-n20392-n21087-n20969-xlsx
-- [ ] onedrive_20240129-lse-n21070-n21092-xlsx
-- [ ] onedrive_20240131-ultraidbtk-tmd8optimization-pptx
-- [ ] onedrive_20240710-bacmam-clones-xlsx
-- [ ] onedrive_20240814-sop-draft3-lipid-nanoparticle-synthesis-docx
-- [ ] onedrive_20240912-ssp-bm-nmac-n20210-20221-pptx-2024-10-25-22-39-38-260158-pptx
-- [ ] onedrive_20241017-gantt-pptx
-- [ ] onedrive_20241114-cf594lnps-xlsx
-- [ ] onedrive_20241211-btk-proximity-in-tmd8-pptx
-- [ ] onedrive_20250129-cf594lnps-workbook-xlsx
-- [ ] onedrive_20250203-densitometryanalysis-xlsx
-- [ ] onedrive_20250228-experimental-overview-pptx
-- [ ] onedrive_20250317-bv-transf-xlsx
-- [ ] onedrive_20250426-lnp-incucyteplatemap-xlsx
-- [ ] onedrive_20250609-maxipreprequest-xlsx
-- [ ] onedrive_2025march-projectplanninggantt-pptx
-- [ ] onedrive_baculovirus-protocol-full-docx
-- [ ] onedrive_baculovirus-protocol-full-pdf
-- [ ] onedrive_book-1-xlsx
-- [ ] onedrive_book-2-xlsx
-- [ ] onedrive_book-3-xlsx
-- [ ] onedrive_book1-xlsx
-- [ ] onedrive_book2-xlsx
-- [ ] onedrive_btk-proximity-labelling-sequences-1-xlsx
-- [ ] onedrive_btk-proximity-labelling-sequences-xlsx
-- [ ] onedrive_bv-schedule-diagram-docx
-- [ ] onedrive_bv-school-2025-docx
-- [ ] onedrive_bv-school-presentation-1-pptx
-- [ ] onedrive_bv-school-schedule-docx
-- [ ] onedrive_cell-passage-log-xlsx
-- [ ] onedrive_cell-specs-hitep-ultra-xlsx
-- [ ] onedrive_cf594-calibration-curve-calculation-xlsx
-- [ ] onedrive_charlie-fragrance-booklet-docx
-- [ ] onedrive_clone-design-barnie-bv-system-xlsx
-- [ ] onedrive_coding-mammalian-cells-pdf
-- [ ] onedrive_copy-of-scientist-track-final-6-2-2023-xlsx
-- [ ] onedrive_cost-expressions-per-liter-docx
-- [ ] onedrive_cytochromec-labelling-xlsx
-- [ ] onedrive_demo-timeline-free-edition-pptx
-- [ ] onedrive_draft-sop-cell-free-protein-expression-docx
-- [ ] onedrive_draftsop-b-cell-lnps-docx
-- [ ] onedrive_draftsop-phrodo-green-labelling-of-cytochrome-c-docx
-- [ ] onedrive_draftsop-phrodo-green-labelling-of-cytochrome-c-pdf
-- [ ] onedrive_edgm-presentation-diagrams-pptx
-- [ ] onedrive_end-of-year-planning-docx
-- [ ] onedrive_endosomal-escape-diagram-1-pptx
-- [ ] onedrive_endosomal-escape-diagram-pptx
-- [ ] onedrive_ews-fli1-fusion-pulldown-via-biotinylated-probe-docx
-- [ ] onedrive_ews-fli1-ma-bv-constructs-0825-xlsx
-- [ ] onedrive_experimental-desing-lipid-mix-optimization-docx
-- [ ] onedrive_experimentaldesign-polymertransfection-docx
-- [ ] onedrive_expression-task-list-tue-sep-23-2025-xlsx
-- [ ] onedrive_gsh-click-chemistry-alexafluor-647-xlsx
-- [ ] onedrive_hibit-platemap-xlsx
-- [ ] onedrive_lab-resources-map-pdf
-- [ ] onedrive_lab-resources-map-pptx
-- [ ] onedrive_lipid-nanoparticle-encapsulation-of-poorly-membrane-permeable-ctms-docx
-- [ ] onedrive_lnp-antibody-conjugation-by-dbco-azide-reaction-docx
-- [ ] onedrive_lnp-degrader-shuttle-flyer1-draft1-pdf
-- [ ] onedrive_lnp-edgm-presentation-pptx
-- [ ] onedrive_lnp-lipid-calculations-xlsx
-- [ ] onedrive_lses-april-xlsx
-- [ ] onedrive_master-lipid-mix-table-docx
-- [ ] onedrive_mateo-monthly-planner-xlsx
-- [ ] onedrive_mateo-position-mapping-docx
-- [ ] onedrive_mateo-sanchez-12-05-parking-form-pdf
-- [ ] onedrive_mateo-sanchez-cell-screening-group-application-docx
-- [ ] onedrive_mateo-sanchez-garcia-delos-rios-performance-planning-form-2021-docx
-- [ ] onedrive_mateo-sanchez-goals-2024-docx
-- [ ] onedrive_mateo-sra-roadmap-docx
-- [ ] onedrive_mcu-presentation1-pptx
-- [ ] onedrive_microfluidic-synthesizer-diagram-pptx
-- [ ] onedrive_msanchez-bacmam-poster-pptx
-- [ ] onedrive_msanchez-lipidnanoparticles-poster-pptx
-- [ ] onedrive_myc-lysate-poster-v0-pptx
-- [ ] onedrive_notes-for-roundtable-dac-scale-up-purification-and-in-vivo-docx
-- [ ] onedrive_nurix-future-fields-target-sequence-boundaries-docx
-- [ ] onedrive_nurix-social-media-research-session-i-docx
-- [ ] onedrive_old-clone-progress-xlsx
-- [ ] onedrive_optimized-protocol-for-transient-transfection-of-secreted-targets-in-expi293f-cells-docx
-- [ ] onedrive_optimized-protocol-for-transient-transfection-of-secreted-targets-in-expicho-docx
-- [ ] onedrive_p53-construct-design-xlsx
-- [ ] onedrive_plasmid-tracker-xlsx
-- [ ] onedrive_plate-map-myc-studies-xlsx
-- [ ] onedrive_point-purchasing-report-protein-sciences-copy-xlsx
-- [ ] onedrive_presentation2-pptx
-- [ ] onedrive_printer-labels-v1-xlsx
-- [ ] onedrive_sample-loading-calculator-xlsx
-- [ ] onedrive_sf9-cfps-sop-docx
-- [ ] onedrive_sop-expression-ha-flag-b2ar-1-24--gpr75-32-233--bril-gpr75-311-405--avi-10h-docx
-- [ ] onedrive_sop-microfluidic-synthesis-of-lipid-nanoparticles-containing-hydrophilic-compounds-docx
-- [ ] onedrive_sop-microfluidic-synthesis-of-lipid-nanoparticles-for-cytosolic-protein-delivery-docx
-- [ ] onedrive_tp53-constructs-xlsx
-- [ ] onedrive_trash-pptx
-- [ ] onedrive_updated-protocol-for-thawing-delicate-mammalian-cells-docx
+- [x] onedrive_20210825-bv-update-pptx
+- [x] onedrive_20211026-pptx
+- [x] onedrive_20230503-bv-transf-1-xlsx
+- [x] onedrive_20230907-nm-n20171-20172-20174-20175-20177-20178-20180-20181-20182-20183-1-pptx
+- [x] onedrive_20230907-nm-n20171-20172-20174-20175-20177-20178-20180-20181-20182-20183-pptx
+- [x] onedrive_20231012-requestform-ms-revised-xlsx
+- [x] onedrive_20231023-nbvc-n20106-xlsx-xlsx
+- [x] onedrive_20231110-lse-n21018-21055-20058-xlsx
+- [x] onedrive_20231110-nbvc-20918-20918-xlsx
+- [x] onedrive_20231117-lse-n20822-n20059-xlsx
+- [x] onedrive_20231122-proximity-labelling-btk-pptx
+- [x] onedrive_20231208-nbvc-n20998-002-xlsx
+- [x] onedrive_20231215-n20879-n20969-xlsx
+- [x] onedrive_20231218-n21902-n21903-xlsx
+- [x] onedrive_20240122-n21903-xlsx
+- [x] onedrive_20240126-lse-n20392-n21087-n20969-xlsx
+- [x] onedrive_20240129-lse-n21070-n21092-xlsx
+- [x] onedrive_20240131-ultraidbtk-tmd8optimization-pptx
+- [x] onedrive_20240710-bacmam-clones-xlsx
+- [x] onedrive_20240814-sop-draft3-lipid-nanoparticle-synthesis-docx
+- [x] onedrive_20240912-ssp-bm-nmac-n20210-20221-pptx-2024-10-25-22-39-38-260158-pptx
+- [x] onedrive_20241017-gantt-pptx
+- [x] onedrive_20241114-cf594lnps-xlsx
+- [x] onedrive_20241211-btk-proximity-in-tmd8-pptx
+- [x] onedrive_20250129-cf594lnps-workbook-xlsx
+- [x] onedrive_20250203-densitometryanalysis-xlsx
+- [x] onedrive_20250228-experimental-overview-pptx
+- [x] onedrive_20250317-bv-transf-xlsx
+- [x] onedrive_20250426-lnp-incucyteplatemap-xlsx
+- [x] onedrive_20250609-maxipreprequest-xlsx
+- [x] onedrive_2025march-projectplanninggantt-pptx
+- [x] onedrive_baculovirus-protocol-full-docx
+- [x] onedrive_baculovirus-protocol-full-pdf
+- [x] onedrive_book-1-xlsx
+- [x] onedrive_book-2-xlsx
+- [x] onedrive_book-3-xlsx
+- [x] onedrive_book1-xlsx
+- [x] onedrive_book2-xlsx
+- [x] onedrive_btk-proximity-labelling-sequences-1-xlsx
+- [x] onedrive_btk-proximity-labelling-sequences-xlsx
+- [x] onedrive_bv-schedule-diagram-docx
+- [x] onedrive_bv-school-2025-docx
+- [x] onedrive_bv-school-presentation-1-pptx
+- [x] onedrive_bv-school-schedule-docx
+- [x] onedrive_cell-passage-log-xlsx
+- [x] onedrive_cell-specs-hitep-ultra-xlsx
+- [x] onedrive_cf594-calibration-curve-calculation-xlsx
+- [x] onedrive_charlie-fragrance-booklet-docx
+- [x] onedrive_clone-design-barnie-bv-system-xlsx
+- [x] onedrive_coding-mammalian-cells-pdf
+- [x] onedrive_copy-of-scientist-track-final-6-2-2023-xlsx
+- [x] onedrive_cost-expressions-per-liter-docx
+- [x] onedrive_cytochromec-labelling-xlsx
+- [x] onedrive_demo-timeline-free-edition-pptx
+- [x] onedrive_draft-sop-cell-free-protein-expression-docx
+- [x] onedrive_draftsop-b-cell-lnps-docx
+- [x] onedrive_draftsop-phrodo-green-labelling-of-cytochrome-c-docx
+- [x] onedrive_draftsop-phrodo-green-labelling-of-cytochrome-c-pdf
+- [x] onedrive_edgm-presentation-diagrams-pptx
+- [x] onedrive_end-of-year-planning-docx
+- [x] onedrive_endosomal-escape-diagram-1-pptx
+- [x] onedrive_endosomal-escape-diagram-pptx
+- [x] onedrive_ews-fli1-fusion-pulldown-via-biotinylated-probe-docx
+- [x] onedrive_ews-fli1-ma-bv-constructs-0825-xlsx
+- [x] onedrive_experimental-desing-lipid-mix-optimization-docx
+- [x] onedrive_experimentaldesign-polymertransfection-docx
+- [x] onedrive_expression-task-list-tue-sep-23-2025-xlsx
+- [x] onedrive_gsh-click-chemistry-alexafluor-647-xlsx
+- [x] onedrive_hibit-platemap-xlsx
+- [x] onedrive_lab-resources-map-pdf
+- [x] onedrive_lab-resources-map-pptx
+- [x] onedrive_lipid-nanoparticle-encapsulation-of-poorly-membrane-permeable-ctms-docx
+- [x] onedrive_lnp-antibody-conjugation-by-dbco-azide-reaction-docx
+- [x] onedrive_lnp-degrader-shuttle-flyer1-draft1-pdf
+- [x] onedrive_lnp-edgm-presentation-pptx
+- [x] onedrive_lnp-lipid-calculations-xlsx
+- [x] onedrive_lses-april-xlsx
+- [x] onedrive_master-lipid-mix-table-docx
+- [x] onedrive_mateo-monthly-planner-xlsx
+- [x] onedrive_mateo-position-mapping-docx
+- [x] onedrive_mateo-sanchez-12-05-parking-form-pdf
+- [x] onedrive_mateo-sanchez-cell-screening-group-application-docx
+- [x] onedrive_mateo-sanchez-garcia-delos-rios-performance-planning-form-2021-docx
+- [x] onedrive_mateo-sanchez-goals-2024-docx
+- [x] onedrive_mateo-sra-roadmap-docx
+- [x] onedrive_mcu-presentation1-pptx
+- [x] onedrive_microfluidic-synthesizer-diagram-pptx
+- [x] onedrive_msanchez-bacmam-poster-pptx
+- [x] onedrive_msanchez-lipidnanoparticles-poster-pptx
+- [x] onedrive_myc-lysate-poster-v0-pptx
+- [x] onedrive_notes-for-roundtable-dac-scale-up-purification-and-in-vivo-docx
+- [x] onedrive_nurix-future-fields-target-sequence-boundaries-docx
+- [x] onedrive_nurix-social-media-research-session-i-docx
+- [x] onedrive_old-clone-progress-xlsx
+- [x] onedrive_optimized-protocol-for-transient-transfection-of-secreted-targets-in-expi293f-cells-docx
+- [x] onedrive_optimized-protocol-for-transient-transfection-of-secreted-targets-in-expicho-docx
+- [x] onedrive_p53-construct-design-xlsx
+- [x] onedrive_plasmid-tracker-xlsx
+- [x] onedrive_plate-map-myc-studies-xlsx
+- [x] onedrive_point-purchasing-report-protein-sciences-copy-xlsx
+- [x] onedrive_presentation2-pptx
+- [x] onedrive_printer-labels-v1-xlsx
+- [x] onedrive_sample-loading-calculator-xlsx
+- [x] onedrive_sf9-cfps-sop-docx
+- [x] onedrive_sop-expression-ha-flag-b2ar-1-24--gpr75-32-233--bril-gpr75-311-405--avi-10h-docx
+- [x] onedrive_sop-microfluidic-synthesis-of-lipid-nanoparticles-containing-hydrophilic-compounds-docx
+- [x] onedrive_sop-microfluidic-synthesis-of-lipid-nanoparticles-for-cytosolic-protein-delivery-docx
+- [x] onedrive_tp53-constructs-xlsx
+- [x] onedrive_trash-pptx
+- [x] onedrive_updated-protocol-for-thawing-delicate-mammalian-cells-docx
 
 ### Loose Documents-folder files  (48)
 
 Files at the root of the Documents folder (mixed).
 
-- [ ] onedrive_documents-02-01-solicitud-de-inscripcion-como-residente-v3-pdf
-- [ ] onedrive_documents-120524-1670-owen-are-overnight-parking-authorization-form-pdf
-- [ ] onedrive_documents-2025-price-list-with-preferred-customer-pricing-09jan25-pdf
-- [ ] onedrive_documents-20250129-sgn01-ctm-lipid-nanoparticle-transfection-meeting-update-personal-copy-pptx
-- [ ] onedrive_documents-26607245-0010-proof-pdf
-- [ ] onedrive_documents-aacr-nx-5948-poster-pdf
-- [ ] onedrive_documents-book1-xlsx
-- [ ] onedrive_documents-brady-quote-pdf
-- [ ] onedrive_documents-bv-ma-request-sheet-test-xlsx
-- [ ] onedrive_documents-bv-school-book-outline-docx
-- [ ] onedrive_documents-bv-school-presentation-6-pptx
-- [ ] onedrive_documents-copy-keystone-pptx
-- [ ] onedrive_documents-cv-juan-gabriel-pdf
-- [ ] onedrive_documents-doc20220906113551-pdf
-- [ ] onedrive_documents-expression-systems-2023-discount-quote-for-nurix-tx-pdf
-- [ ] onedrive_documents-fax-docx
-- [ ] onedrive_documents-geneva-licensing-contract-pdf
-- [ ] onedrive_documents-ht-200-loaner-form-docx
-- [ ] onedrive_documents-i-485-pdf
-- [ ] onedrive_documents-inv2535286-revised-pdf
-- [ ] onedrive_documents-large-scale-expression-example-xlsx
-- [ ] onedrive_documents-lsa-eligibility-expense-list-20250509-pdf
-- [ ] onedrive_documents-lysate-poster-sanchez-morgado-pdf
-- [ ] onedrive_documents-mammalian-10ml-expressions-pax3foxo1-xlsx
-- [ ] onedrive_documents-mateo-sanchez-goals-2024-jose-hugo-edits-docx
-- [ ] onedrive_documents-mateo-sanchez-performance-planning-form-2021-docx
-- [ ] onedrive_documents-mateo-sanchez-performance-planning-form-2023-docx
-- [ ] onedrive_documents-mateo-sanchezperformance-planning-form-2022-docx
-- [ ] onedrive_documents-mrios-nurix-96wellplate-quoteq-27152-pdf
-- [ ] onedrive_documents-mrios-nurix-platehandler-quoteq-26620-2-pdf
-- [ ] onedrive_documents-mrios-nurix-platehandler-quoteq-26620-pdf
-- [ ] onedrive_documents-nidia-rodriguez-resume-docx
-- [ ] onedrive_documents-nonblinded-sgn-data-pdf
-- [ ] onedrive_documents-nurix-quote-061606-pdf
-- [ ] onedrive_documents-order-pdf
-- [ ] onedrive_documents-overnight-parking-authorization-pdf
-- [ ] onedrive_documents-p2-virus-example-xlsx
-- [ ] onedrive_documents-paystub-april-14-pdf
-- [ ] onedrive_documents-paystub-march-31-pdf
-- [ ] onedrive_documents-pcagss-order-u046lha120-2-v91065-xhoi-and-hindiii-pdf
-- [ ] onedrive_documents-presentation-graded-pptx
-- [ ] onedrive_documents-qt-261989---nurix-therapeutics-inc---7l-ogf-for-mateo-de-los-rios-pdf
-- [ ] onedrive_documents-request-0716-xlsx
-- [ ] onedrive_documents-sanchez-morgado-techdev-lyaste-final-pdf
-- [ ] onedrive_documents-seminar-presentation-pptx
-- [ ] onedrive_documents-signute-pages-pdf
-- [ ] onedrive_documents-sop-expression-6h-tev-btk-382-658-a428d-msgsigned-pdf
-- [ ] onedrive_documents-zacharyhouston-resume-docx
+- [x] onedrive_documents-02-01-solicitud-de-inscripcion-como-residente-v3-pdf
+- [x] onedrive_documents-120524-1670-owen-are-overnight-parking-authorization-form-pdf
+- [x] onedrive_documents-2025-price-list-with-preferred-customer-pricing-09jan25-pdf
+- [x] onedrive_documents-20250129-sgn01-ctm-lipid-nanoparticle-transfection-meeting-update-personal-copy-pptx
+- [x] onedrive_documents-26607245-0010-proof-pdf
+- [x] onedrive_documents-aacr-nx-5948-poster-pdf
+- [x] onedrive_documents-book1-xlsx
+- [x] onedrive_documents-brady-quote-pdf
+- [x] onedrive_documents-bv-ma-request-sheet-test-xlsx
+- [x] onedrive_documents-bv-school-book-outline-docx
+- [x] onedrive_documents-bv-school-presentation-6-pptx
+- [x] onedrive_documents-copy-keystone-pptx
+- [x] onedrive_documents-cv-juan-gabriel-pdf
+- [x] onedrive_documents-doc20220906113551-pdf
+- [x] onedrive_documents-expression-systems-2023-discount-quote-for-nurix-tx-pdf
+- [x] onedrive_documents-fax-docx
+- [x] onedrive_documents-geneva-licensing-contract-pdf
+- [x] onedrive_documents-ht-200-loaner-form-docx
+- [x] onedrive_documents-i-485-pdf
+- [x] onedrive_documents-inv2535286-revised-pdf
+- [x] onedrive_documents-large-scale-expression-example-xlsx
+- [x] onedrive_documents-lsa-eligibility-expense-list-20250509-pdf
+- [x] onedrive_documents-lysate-poster-sanchez-morgado-pdf
+- [x] onedrive_documents-mammalian-10ml-expressions-pax3foxo1-xlsx
+- [x] onedrive_documents-mateo-sanchez-goals-2024-jose-hugo-edits-docx
+- [x] onedrive_documents-mateo-sanchez-performance-planning-form-2021-docx
+- [x] onedrive_documents-mateo-sanchez-performance-planning-form-2023-docx
+- [x] onedrive_documents-mateo-sanchezperformance-planning-form-2022-docx
+- [x] onedrive_documents-mrios-nurix-96wellplate-quoteq-27152-pdf
+- [x] onedrive_documents-mrios-nurix-platehandler-quoteq-26620-2-pdf
+- [x] onedrive_documents-mrios-nurix-platehandler-quoteq-26620-pdf
+- [x] onedrive_documents-nidia-rodriguez-resume-docx
+- [x] onedrive_documents-nonblinded-sgn-data-pdf
+- [x] onedrive_documents-nurix-quote-061606-pdf
+- [x] onedrive_documents-order-pdf
+- [x] onedrive_documents-overnight-parking-authorization-pdf
+- [x] onedrive_documents-p2-virus-example-xlsx
+- [x] onedrive_documents-paystub-april-14-pdf
+- [x] onedrive_documents-paystub-march-31-pdf
+- [x] onedrive_documents-pcagss-order-u046lha120-2-v91065-xhoi-and-hindiii-pdf
+- [x] onedrive_documents-presentation-graded-pptx
+- [x] onedrive_documents-qt-261989---nurix-therapeutics-inc---7l-ogf-for-mateo-de-los-rios-pdf
+- [x] onedrive_documents-request-0716-xlsx
+- [x] onedrive_documents-sanchez-morgado-techdev-lyaste-final-pdf
+- [x] onedrive_documents-seminar-presentation-pptx
+- [x] onedrive_documents-signute-pages-pdf
+- [x] onedrive_documents-sop-expression-6h-tev-btk-382-658-a428d-msgsigned-pdf
+- [x] onedrive_documents-zacharyhouston-resume-docx
 
 ### Loose Protein Chemistry root files  (24)
 
 Files at the root of Protein Chemistry (shared lab artifacts).
 
-- [ ] onedrive_protein-chemistry-03052023-biomass-clean-up-proposal-xlsx
-- [ ] onedrive_protein-chemistry-20220224-vector-construct-list-xlsx
-- [ ] onedrive_protein-chemistry-20260226-uncle-testing-xlsx
-- [ ] onedrive_protein-chemistry-agilent-hplc-best-practices---033123-pptx
-- [ ] onedrive_protein-chemistry-bv-ma-request-sheet-xlsx
-- [ ] onedrive_protein-chemistry-direct2del-round-2-clones-xlsx
-- [ ] onedrive_protein-chemistry-e-coli-smscexp-pur-request-sheet-lp-imorg-4hk7xk-xlsx
-- [ ] onedrive_protein-chemistry-e-coli-smscexp-pur-request-sheet-lp-nhart-l2brd-xlsx
-- [ ] onedrive_protein-chemistry-e-coli-smscexp-pur-request-sheet-xlsx
-- [ ] onedrive_protein-chemistry-hitep-planning-necc-nbvc-nmac-xlsx
-- [ ] onedrive_protein-chemistry-important-links-and-info-updated-docx
-- [ ] onedrive_protein-chemistry-inputting-new-clones-docx
-- [ ] onedrive_protein-chemistry-instrument-liason-point-person-assignment-xlsx
-- [ ] onedrive_protein-chemistry-ligandibility-largescaleexpressionlist-xlsx
-- [ ] onedrive_protein-chemistry-ligandibilityconstructtrackertemplate-xlsx
-- [ ] onedrive_protein-chemistry-material-and-reagent-inventory-xlsx
-- [ ] onedrive_protein-chemistry-onboarding-nairi-2021-pptx
-- [ ] onedrive_protein-chemistry-onboarding-stacy-2022-pptx
-- [ ] onedrive_protein-chemistry-project-codes-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-2022-project-assignment-proposal-pptx
-- [ ] onedrive_protein-chemistry-slas-check-list-docx
-- [ ] onedrive_protein-chemistry-ternary-complex-assay-calc-xlsx
-- [ ] onedrive_protein-chemistry-test-flag-tips-biotage-062521-pptx
-- [ ] onedrive_protein-chemistry-tev-purification-order-docx
+- [x] onedrive_protein-chemistry-03052023-biomass-clean-up-proposal-xlsx
+- [x] onedrive_protein-chemistry-20220224-vector-construct-list-xlsx
+- [x] onedrive_protein-chemistry-20260226-uncle-testing-xlsx
+- [x] onedrive_protein-chemistry-agilent-hplc-best-practices---033123-pptx
+- [x] onedrive_protein-chemistry-bv-ma-request-sheet-xlsx
+- [x] onedrive_protein-chemistry-direct2del-round-2-clones-xlsx
+- [x] onedrive_protein-chemistry-e-coli-smscexp-pur-request-sheet-lp-imorg-4hk7xk-xlsx
+- [x] onedrive_protein-chemistry-e-coli-smscexp-pur-request-sheet-lp-nhart-l2brd-xlsx
+- [x] onedrive_protein-chemistry-e-coli-smscexp-pur-request-sheet-xlsx
+- [x] onedrive_protein-chemistry-hitep-planning-necc-nbvc-nmac-xlsx
+- [x] onedrive_protein-chemistry-important-links-and-info-updated-docx
+- [x] onedrive_protein-chemistry-inputting-new-clones-docx
+- [x] onedrive_protein-chemistry-instrument-liason-point-person-assignment-xlsx
+- [x] onedrive_protein-chemistry-ligandibility-largescaleexpressionlist-xlsx
+- [x] onedrive_protein-chemistry-ligandibilityconstructtrackertemplate-xlsx
+- [x] onedrive_protein-chemistry-material-and-reagent-inventory-xlsx
+- [x] onedrive_protein-chemistry-onboarding-nairi-2021-pptx
+- [x] onedrive_protein-chemistry-onboarding-stacy-2022-pptx
+- [x] onedrive_protein-chemistry-project-codes-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-2022-project-assignment-proposal-pptx
+- [x] onedrive_protein-chemistry-slas-check-list-docx
+- [x] onedrive_protein-chemistry-ternary-complex-assay-calc-xlsx
+- [x] onedrive_protein-chemistry-test-flag-tips-biotage-062521-pptx
+- [x] onedrive_protein-chemistry-tev-purification-order-docx
 
 ### ChimeraX visualization software cache  (3523)
 
