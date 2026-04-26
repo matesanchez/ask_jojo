@@ -2805,2606 +2805,2606 @@ Cross-team Standard Operating Procedures for protein-production workflows. High-
 
 Project-coded folders covering PS work across the full pipeline. Each major project anchors a `programs/` or `decisions/` page. Sample broadly; expect 20-40 distinct project pages depending on project granularity.
 
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-20250721-new-targets-for-del-ps-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-04-09-2021-del-aurora-protein-supply-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-20220602-ternary-complex-assay-calc-anx-crbn-corrected-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-20240212-auroraa-mycn-complex-alsf-meeting-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-anx-sample-description-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-a-del-screen-target-review-20200914-wks-pptx-2020-09-22-17-41-51-133416-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-a-reagents-for-spr-20210728-wks-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-proteins-and-mycn-inventory-aurora-anx-and-mycn-inventory-jan22-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-proteins-and-mycn-inventory-aurora-anx-and-mycn-inventory-jan22-2024-updated-with-barcoded-rack-info-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-proteins-and-mycn-inventory-aurora-anx-inventory-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-e-coli-expressed-mycn-peptide-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-20240130-auroraa-mycn-complex-hit-validation-plan-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-20240212-auroraa-mycn-complex-alsf-meeting-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-anx-del-hit-probes-validation-002-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-auroraa-mycn-complex-hit-validation-timeline-alsf-meeting02122024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-auroraa-pankinase-del-hit-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-dr-biochemical-assay---individual-batch-results-2023-12-18-17-26-32-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-kyle-denton-04-05-2021-aurka-pulldown-with-mycn-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-adhikari-2020-natchembiol-protac-mediated-degradation-reveals-a-non-catalytic-function-of-aurora-a-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-adhikari-2020-natchembiol-protac-mediated-degradation-reveals-a-non-catalytic-function-of-aurora-a-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-alsf-mycn-012120-final-redacted-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-brockmann-2013-cancercell-small-molecule-inhibitors-of-aurora-a-induce-proteosomal-degradation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-burgess-2015-actacryst-the-structure-of-c290a-c393a-aurora-a-provides-structural-insights-into-kinase-regulation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-burgess-2016-open-biology-allosteric-inhibition-of-aurora-a-kinase-by-a-synthetic-vnar-domain-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-dauch-2016-nature-medicine-a-myc-aurora-kinase-a-protein-complex-represents-an-actionable-drug-target-in-p53-altered-liver-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-fancelli-2005-jmedchem-potent-and-selective-auroraa-inhibitors-identified-by-the-expansion-of-a-novel-scaffold-for-protein-kinase-inhibition-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-fancelli-2005-jmedchem-potent-and-selective-auroraa-inhibitors-identified-by-the-expansion-of-a-novel-scaffold-for-protein-kinase-inhibition-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-figure-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-mclaren-2012-jbiomolscreen-automated-large-scale-culture-and-medium-through-throughput-chemical-screen-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-mosse-003-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-otto-2009-cancer-cell---stabilization-of-n-myc-is-a-critical-function-of-aurora-a-in-human-neuroblastoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-richards-pnas-2016-structural-basis-of-n-myc-binding-by-aurora-a-and-its-destabilization-by-kinase-inhibitors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-richards-pnas-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-seychelle-vox-paf1c-paper-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-structural-basis-of-n-myc-binding-by-aurora-a-and-its-destabilization-by-kinase-inhibitors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-structural-basis-of-n-myc-binding-by-aurora-a-and-its-destabilization-by-kinase-inhibitors-supplemental-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-wolpaw-2021-cancerresearch-drugging-the-undruggale-mycn-oncogenic-transcription-factor---overcoming-previous-obstacles-to-impact-childhood-cancers-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-zorba-2019-pnas-allosteric-modulation-of-a-human-protein-kinase-with-monobodies-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-20220513-alsf-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-20220909-auroraa-project-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-20221012-alsf-rec-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-20230119-auroraa-rec-meeting-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-alsf-foundation-crazy-8-summit-2024--discovery-of-auroraa-mycn-complex-specific-ligands-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20211012-aurora-meeting-protein-production-update-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20211206-aurora-meeting-protein-production-update-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20211206-aurora-meeting-protein-production-update-3-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220209-aurora-meeting-protein-production-update-3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220209-aurora-meeting-protein-production-update-4-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220217-aurora-meeting-protein-production-update-1pptx-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220502-aurora-meeting-update-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220609-aurora-meeting-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-expression-screen-constructs-mycn-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-expression-screen-mbp-mycn-1-154-protein-purification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-expression-screen-mycn-overexpression-and-del-screen-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-certificate-of-origin-1002858-1002859-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-in-house-ms-results-20221118-nmyc-k544-100pmol-intactproteinreport-v2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-in-house-ms-results-20221118-nmyc-k545-100pmol-intactproteinreport-v2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102544-no-bio-malpropyl-k102544-coa-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102544-no-bio-malpropyl-k102544-lc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102544-no-bio-malpropyl-k102544-ms-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102545-biotinylated-malpropyl-k102545-coa-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102545-biotinylated-malpropyl-k102545-lc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102545-biotinylated-malpropyl-k102545-ms-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-n-myc-peptides-for-ms-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-63501-and-63502-63501-nmyc-nonbiotinylated-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-63501-and-63502-63502-nmyc-biotinylated-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-65408-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-65409-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-certificate-of-origin-1002858-1002859-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-commercial-invoice-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-tsca-certification-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-65410-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-65411-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-certificate-of-origin-1002858-1002859-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-commercial-invoice-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-tsca-certification-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-commercial-invoice-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-in-house-ms-results-20221118-nmyc-ps408-100pmol-intactproteinreport-v2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-in-house-ms-results-20221118-nmyc-ps409-100pmol-intactproteinreport-v2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-in-house-ms-results-20221118-nmyc-ps410-100pmol-intactproteinreport-v2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-in-house-ms-results-20221118-nmyc-ps411-100pmol-intactproteinreport-v2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-tsca-certification-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-pc-qc-05-2021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-alsf-06192023-anx-crbn-ddb1-sec-tcf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-alsf-06192023-anx-crbn-ddb1-ternary-complex-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-anx-crbn-ddb1-ternary-complex-results-summary-030212023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-anx-crbn-ddb1-ternary-complex-results-summary-final-03012023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-anx-crbn-ddb1-ternary-complex-update-02172023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-alsf-tycho-aurora-kd-and-fl-nrx4505-and-nrx6715-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-07-19-nbvc44---nbvc46-smscpur-autosaved-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-07-19-nbvc44---nbvc46-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-01-smscpur-n29-37-2-37-3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-02-smscpur-moi-n44-46-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-10-mb204-moi-cell-line-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-10-n30-n46-moi-smscpur-column-phy-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-21-smscpur-p2-virus-nbvc42-69-71-74-75-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-27-smscpur-n47-n50-n60-n61-moi-n78-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-03-smscpur-n47-n50-n72-n77-n79-n85-n86-n90-mb183-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-03-smscpur-n47-n50-n72-n77-n79-n85-n86-n90-mb183-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-06-smscpur-p2-moi-n47-n50-n72-n78-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-09-smscpur-p2-n52-55-79-85-90-92-94-96-100-102-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-09-smscpur-p2-n52-55-79-85-90-92-94-96-100-102-revised-ea-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-13-smscpur-n52-55-71-77-84-86-mb183-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-25-smscpur-n47-2-48-2-50-2-54-56-87-91-92-97-100-m183-updated-9-30-19-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-27-smscpur-moi-n85-100-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-30-smscpur-n49-2-52-2-71-72-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-02-smscpur-n51-moi-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-07-smscpur-n56-57-75-78-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-08-n91-n92-analysis-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-08-smscpur-p2-n76-85-90-98-100-largscexp-101-1-102-1-mb204-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-10-comparison-n86-n91-n84-n92-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-11-smscpur-p2-77-79-84-94-96-98-lascexp-51-85-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-11-04-smscpur-n49-2-55-60-71-2-72-2-88-91-96-98-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-11-05-smscpur-n96-moi-n104-p2-n104-moi-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-11-06-smscpur-n30-37-42-42-08-89-76-105-mb204-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-11-08-smscpur-n30-5-37-4-60-2-n92-moi-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-cruk-collaboration-programs-alk-qc-reports-20241112-20241112-alk-nurix-qc-reports-final-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-cruk-collaboration-programs-alk-qc-reports-20250421-20250418-alk-nurix-qc-report-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-01-13-2019-sizing-b-catenin---e-cadherin-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-2020-0729-betacatenin-onmb-probe-pulldown-ked-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-b-catenin-protein-production-request---genscript-fte-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-constructs-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-cro-reports-u428mfe150-1--9-gel-shift-06242020-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-cro-reports-u428mfe150-11-necc-n00148-protein-coa-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-cro-reports-u428mfe150-3-necc-n00115-protein-coa-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-cro-reports-u428mfe150-5-necc-n00145-purification-result-06242020-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-hit-validation-dsf-b-catenin-071921-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-hit-validation-dsf-b-catenin-nrx-0401052-060821-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-hit-validation-dsf-n115-5a-compounds-010521-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-literature-matt-biochemj-2004-the-cbp-p300-taz1-domain-in-its-native-state-is-not-a-binding-partner-of-mdm2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-literature-nyborg-biochemj-2004-that-zincing-feeling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-literature-xing-cell-press-2007-crystal-structure-of-a-fl-b-catenin-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-n132-n133-expression-lab-services-2020-06-26-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-patents-wo2021055936-lee-moffitt-cancer-center-b-catenin-mar-25-2021-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-010521-gld03-dsf-literature-compounds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-01152020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-02072020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-02282020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-03092021-gld03-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-03252020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-04032020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-04292020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-05042021-gld03-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-08-05-2021-gld03---protein-complexes-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-08112021-gld03-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-08212019-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-082620-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-09102019-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-09272019-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-09292020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-10132020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-10172019-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-10302020-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-11152019-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-12032019-b-catenin-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-dls-b-catenin-082620-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-dsf-b-catenin-071921-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-dsf-dls-b-catenin-tests-072320-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-2b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-6a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-6b-c-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000132-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000133-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000133-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000145-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000145-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000145-5b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000147-1a-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000804-805-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n00429-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n00670-671-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n00671-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n00672-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20171-001a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20171-002a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20452-001a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20511-001a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20801-1c-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21145-1b-21144-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21332-19a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21332-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21348-49-1a-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21818-001a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21819-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21866-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-010920-largescalepurification-n115-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-010920-largescalepurification-n115-4a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-011320-largescalepurification-n145-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-011320-largescalepurification-n145-3a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-011320-largescalepurification-n148-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-011320-largescalepurification-n148-2a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-081219-largescalepurif-n114-1a-n115-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-081219-largescalepurif-n114-1a-n115-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-081919-largescalepurif-n114-2a-3a-n119-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-081919-largescalepurif-n114-2a-3a-n119-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-082119-largescalepurif-n117-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-082219-largescalepurif-n116-1a-118-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-090419-largescalepurif-n120-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-10-09-2019-b-catenin-del-screen1-protein-delivery-jose-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-recap-b-cathenin-project-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-ma-frm-00092--sample-submission-form--sec-mals-gld03-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-necc-n00115-6a-100220-protein-report-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-necc-n00145-5a-100220-protein-report-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-nurix-tr21-0156-analysis-of-samples-necc-noo115-6a-and-necc-noo145-5a-by-sec-malls-final-21may21-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-sec-mals-proteins-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-tr21-0156-prj-31855-sec-malls-retest-data-210415-1701-clb-002-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-tr21-0156-sec-malls-nurix-31855-210427-0805-clb-cs-clb-klt-clb-1750-klt-28apr21-clean-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-tr21-0156-sec-malls-preliminary-data-210405-1840-clb-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-slide-b-catenin-xtal-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-table-b-catenin-cro-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-ternary-complex-formation-xtal-tcf-details-bcatenin---082024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-ternary-complex-formation-xtal-tcf-for-xtal---06202024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-ternary-complex-formation-xtal-tcf-for-xtal---08122024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-04102022-cdk-expression-plan-priorities-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20220809-necc-n00585-1a-phosphorylation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20220817-nbvc-n00585-1a-ion-exchange-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20230323-cdk12-cdk13-cak1-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20230410-cdk12-cdk13-cak1-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20230418-cdk12-cdk13-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20230420-cdk12-cdk13-cak1-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-cdk12-target-eval-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-clone-updates-jsantos-nurixtx-com-20220412091016-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-commercial-proteins-20220330-gld07-commercial-proteins-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-ayaz-2016-acschembiol-conformational-adaptation-may-explain-the-slow-dissociation-kinetics-of-roniciclib-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-baumli-2008-embo-the-structure-of-p-tefb-cdk9-cyclin-t1-its-complex-with-flavopiridol-and-regulation-by-phospharylation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-baumli-2012-acschembiol-the-cdk9-c-helix-exhibits-conformational-plasticity-that-may-explain-the-selectivity-of-can508-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-blazek-2011--pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-blazek-2011-genes-development-the-cyclin-k-cdk12-complex-maintains-genomic-stability-via-regulation-of-expression-of-dna-damage-response-genes-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-bosken-2014-natcom-the-structure-and-substrate-specificity-of-human-cdk12-cyclin-k-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-dieter-2021-cellreports-degradation-of-ccnk-cdk12-is-a-druggable-vulnerability-of-colorectal-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-fan-2022-scienceadvances-cdk13-cooperates-with-cdk12-to-control-global-rna-polymerase-ii-processivity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-greifenberg-2016-cell-structural-and-functional-analysis-of-the-cdk13-cyclinn-k-complex-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-jiang-2021-eurjmedchem-structure-activity-relationship-study-of-thz531-derivatives-enables-the-discovery-of-bsj-01-0175-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-jiang-2021-natchembiol-discovery-and-resistance-mechanism-of-a-selective-cdk12-degrader-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-liang-2020-cells-a-potent-target-and-biomarker-for-human-cancer-therapy-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-lolli-2004-structure-the-crystal-structure-of-human-cdk7-and-its-protein-recogntion-properties-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-minzel-2018-cell-small-molecules-co-targeting-ckia-and-the-transcriptional-kinases-cdk79-control-aml-in-preclinical-models-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-myers-2021-jmedchem-synthetic-lethality-through-the-lens-of-the-medicinal-chemistry-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-peissert-pnas-2020-structural-basis-for-cdk7-activation-by-mat1-and-cyclinh-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-peissert-pnas-2020-structural-basis-for-cdk7-activation-by-mat1-and-cyclinh-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-pelin-2020-conformational-adaptation-may-explain-the-slow-dissociation-kinetics-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-pilarova-2020-narcancer-cdk12-cellular-functions-and-therapeutic-potential-of-versatile-player-in-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-slabicki-2022-nature-the-cdk-inhibitor-cr8-acts-as-molecular-glue-degrader-that-deplets-cyclin-k-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-swaffer-2016-cell-cdk-substrate-phosphorylation-and-ordering-the-cell-cycle-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-zhang-2022-amjcancerres-cdk-inhibitors-in-cancer-therapy-an-overview-of-recent-development-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-zhang-natchembiol-2016-covalent-targeting-of-remote-cysteine-residues-to-develop-cdk12-and-cdk13-inhibitors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-protein-production-updates-20220524-gld07-protein-production-kl-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220624-kl-purification-nbvc-n00625-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220706-kl-purification-nbvc-n00627-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220707-kl-purification-nbvc-n00567-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220914-kl-purification-nbvc-n20849-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220928-kl-purification-necc-n21258-001a-n21259-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk12-cyck1-nbvc-n00580-nbvc-n00565-20220422-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk12-cyck1-nbvc-n00585-nbvc-n00618-20220422-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk13-cyck1-nbvc-n00627-nbvc-n00618-20220422-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk9-cyck1-nbvc-n00625-nbvc-n00618-20220422-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk9-cyct1-nbvc-n00614-nbvc-n00611-20220422-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cyck1-nbvc-n00566-20220422-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cyck1-nbvc-n00567-20220422-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-01-14-2020-hpk1-protein-chemistry-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-01-14-2020-hpk1-successful-expressions-info-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-01-14-2020-hpk1-successful-expressions-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-01-15-2020-hpk1-protein-production-meeting-at-gilead-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-2019-10-15-hpk1-constructs-proposal-v2-jose-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-2019-10-15-hpk1-constructs-proposal-v2-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-2019-11-22-hpk1-prosci-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200309-hpk1-nt-test-admin-2020-03-09-17-16-14-br009234---melt-curve-rfu-results-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200618-hpk1constructs-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200730-hpk1-expression-purification-genscript-request-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200805-results-nbvc-n00091-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200817-hpk1-aa-kd-probe-pulldown-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20201204-hpk1planning-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20210914-results-nbvc-n00086-5b-nbvc-n00102-5b-tycho-cmpds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-del-screen-hpk1-target-review-and-del-screen-plan-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-genscript-n86-n91-n96-n102-expression-evaluation-of-co-expression-with-bira-report-01232020-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-hr-hpk1-ligandhrsummary-20210205-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-literature-chenetal-oncogene-1999-hpk1caspaseddvd-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-literature-johnsonetal-jbc-2019-hpk1wt-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-literature-wuetal-structure-2019-hpk1structureinadomainswappeddimer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-massspec-analysis-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-mbp-glk-sequence-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-netoglyc-4-0-server---prediction-results-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-01-hpk1-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-01-protein-production-hpk-update-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-16-hpk1-protein-production-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-16-hpk1-protein-production-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-16-hpk1-protein-production-update-v3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-16-hpk1-protein-production-updatev2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-12-12-hpk1-protein-availability-bill-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2020-02-10-hpk1-protein-production-update-emily-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200228-hpk1-proteinpurification-proteinsciences-b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200312-hpk1-proteinpurification-proteinsciences-v2-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200312-hpk1-proteinpurification-proteinsciences-v3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200424-hpk1-proteinpurification-proteinsciences-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200807-results-hpk1proteinproductionupdate-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20210112-results-nbvc-n00098-4b-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20220201-results-hpk1-tc-dsf-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-protein-production-hpk-update-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-qc---lead-discovery-01-02-2020-hpk-ps-protein-qc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-qc---lead-discovery-hpk-ps-protein-qc-binding-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20211124-results-asec-nbvc-n00163-2a-nbvc-n00005-nbvc-n00025-6b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20211207-results-asec-nbvc-n163-n5-n25-n349-n351-pulldown-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20211213-results-dls-nbvc-n163-n5-n25-n349-n351-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20220203-results-hpk1-tc-proteinsciencesupdate-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20220211-results-hpk1-tc-dsf-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20220331-results-asec-nbvc-n00503-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20220527-results-asec-nbvc-n00503-1b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-20211206-ternarycomplextesting-kingfisher-nbvc-n00163-nbvc-n00005-25-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-nbvc-n00163-20201116-nbvc-n00163-3b-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-nbvc-n00163-20201117-results-nbvc-n00163-3b-proteinpurification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-nbvc-n00163-20201117-sop-nbvc-n00163-3b-hpk1-2-293-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-nbvc-n00163-20201117-sop-nbvc-n00163-3b-hpk1-2-293-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-sop-protein-purification-nbvc-n00086-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-sop-protein-purification-nbvc-n00096-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-sop-protein-purification-nbvc-n00098-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-sop-protein-purification-nbvc-n00102-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-irak4---gld01-050620-irak4kd-asms-hit-validation-v2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-irak4---gld01-2019-08-10-n30-n46-moi-smscpur-column-phy-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-irak4---gld01-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-irak4---gld01-sops-sop-protein-purification-irak4-kd-xtal--nbvc-n00037-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-2019-08-30-smscpur-neec-n121-n135---n139-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-2020-01-09-1618pst-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-20200624-kras-expression-purification-genscript-request-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-20200629-kras-expression-purification-genscript-request-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-2021-01-19-dls-20210119-dls-dmso-runtimetest-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-2021-01-19-dls-20210119-dls-nrx-0396639-0396696-0396697-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-dsf-20200618-20200615-kras-dsf-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-kras-tev-gmp-pnp-exchange-calculations-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-ahmadian-1999-pnas-guanosine-triphosphatase-stimulation-of-oncogenic-ras-mutants-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-christensen-targeting-kras-g12c-mutant-cancer-with-a-mutation-specific-inhibitor-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-dharmaiah-2019-scientific-reports-structures-of-n-terminally-processed-kras-provide-insight-into-the-role-of-n-acetylation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-expression-purification-molcancerresearch-2015-biochemical-and-structural-analysis-of-common-cancer-associated-kras-mutations-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-expression-purification-nature-22-2013-g12c-effectorinteractions-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-hunter-pnas-2014-in-situ-selectivity-profiling-and-crystal-structure-of-sml-8-73-1-an-active-site-inhibitor-of-oncogenic-k-ras-g12c-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-hunter-pnas-2014-in-situ-selectivity-profiling-and-crystal-structure-of-sml-8-73-1-an-active-site-inhibitor-of-oncogenic-k-ras-g12c-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-john-1990-biochemistry-kinetics-of-interaction-of-nucleotides-with-nucleotide-free-h-ras-p21-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-johnson-data-in-brief---2016---expression-purification-crystallization-and-x-ray-data-collection-for-ras-and-its-mutants-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-johnson-jbc-2017-the-small-gtpases-k-ras-n-ras-h-ras-have-distinct-biochemical-properties-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kessler-pnas-2019-druggin-an-undrugabble-pocket-on-kras-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-20210224-gld05-alternatescreeningstrategies-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-20210224-gld05-alternatescreeningstrategies-v2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-dharmaiah-2016-pnas-structural-basis-of-recognition-of-farnesylated-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-dharmaiah-2016-pnas-structural-basis-of-recognition-of-farnesylated-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-gillette-2015-scientific-reports-farnesylated-and-methylated-kras4b---high-yield-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-hillig-2019-pnas-discovery-of-potent-sos1-inhibitors-that-block-ras-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-hillig-2019-pnas-discovery-of-potent-sos1-inhibitors-that-block-ras-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-pacold-2000-cell-crystal-structure-and-functional-analysis-of-ras-binding-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-piis0092867400001963-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-rabara-2019-pnas-kras-g13d-sensitivity-to-neurofibromin-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-rabara-2019-pnas-kras-g13d-sensitivity-to-neurofibromin-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kulakowski-traffic-2018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kulakowski-traffic-2018-sd-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-maurer-pnas-2012-small-molecule-ligands-bind-to-a-distinct-pocket-in-ras-and-inhibit-sos-mediated-nucleotide-exchange-activity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-maurer-pnas-2012-small-molecule-ligands-bind-to-a-distinct-pocket-in-ras-and-inhibit-sos-mediated-nucleotide-exchange-activity-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-meth-mol-bio-gtp-exchange-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-molcancerresearch-2015-biochemical-and-structural-analysis-of-common-cancer-associated-kras-mutations-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-pai-1990-embo-refined-crystal-structure-of-the-triphosphate-conformation-of-hras-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-nanodiscs-tests-01-09-20-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-nucleotide-exchange-protocols-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-sops-07-16-2020-necc-n00302-1a-sop-protein-purification-kras-gdp-crystallography-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-sops-sop-protein-purification-kras-g12d-gdp-and-gmp-pnp-for-asms-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-sops-sop-protein-purification-kras-gdp-and-gmp-pnp-for-lead-discovery-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-sops-sop-protein-purification-kras-gdp-crystallography-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-07-25-2020-pnpla3-2-xtalization-constructs-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-09-29-2020--pnpla-construct-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-11-03-2020-pnpla3-321h-qc-report-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-2-pnpla3-protein-purif-update-032521-pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-2-pnpla3-protein-purif-update-081320--pnpla3-protein-science-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-2-purifications-20-11-10-nbvc-n193-anti-flag-wb-strep-shift---entire-gel-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-2-purifications-20-11-10-nbvc-n193-anti-flag-wb-strep-shift-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-20200605-pnpla3-hit-conformation-workflow-v4-with-comments-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-20200623-pnpla3-in-vivo-planning-gileadwg-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-activity-assays-2019-1113-abcam-lpl-activity-assay-lsbio-pnpla3-in-house-pnpla3-fl-wt-vs-mt-37c-time-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-activity-assays-2019-1205-abcam-lpl-activity-assay-lsbio-pnpla3-in-house-pnpla3-2-fl-wt-vs-mt-37c-time-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-activity-assays-2020-0122-ddgr-lipase-activity-assay-pnpla3-in-house-pnpla3-wt-vs-i148m-s47a-mt-rt-time-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-ddm-bog-exchange-030421-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-e-coli-smscex-20-10-22-necc-n282-n283-n284-n296-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-e-coli-smscex-20-10-23-necc-n285-n286-n287-smscpur-attempt1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-e-coli-smscex-20-10-28-necc-n285-n286-n287-smscpur-attempt2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-dsf-n71-7a-010621-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-dsf-pnpla3-results---082120-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-dsf-pnpla3-update-072120-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-dsf-pnpla3-update-081120-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-pnpla3-constructs-hit-validation-062620-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-kick-off-meeting-with-prof-olzmann-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-list-constructs-pnpla3-project-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-a-sequence-variation-i148m-in-pnpla3-associated-with-nonalcoholic-fatty-liver-disease-disrupts-triglyceride-hydrolysis-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-basuray-adipocyte-2019-pnpla3-i148m-a-problem-of-plenty-in-non-alcoholic-fatty-liver-disease-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-basuray-pnas-2019-accumulation-of-pnpl3-on-lipid-droplets-is-the-basis-of-associated-hepatic-steatosis-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-gimenez-andres-et-al-2018-biomolecules-the-many-faces-of-amphipathic-helices-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-j-biol-chem--2002-tauchi-sato-44507-12-lipid-droplet-lipid-composition-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-kory-2016-trendscellbiol-targeting-fat---mechanisms-of-protein-localization-to-lipid-droplets-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-kory-trends-cell-biol-2016-targeting-fat---mechanisms-of-protein-localization-to-lipid-droplets-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-malley-2010-biophysj-the-morphology-and-composition-of-cholesterol-rich-micellar-nanostructures-determine-transmenbrane-gpcr-act-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-murugesan-et-al-2013-plos-one-identification-of-diverse-lipid-droplet-targeting-motifs-in-the-pnpla-family-of-triglyceride-lipases-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-pataki-2018-pnas-proteomic-analysis-of-monolayer-integrated-proteins-on-lipid-droplets-identifies-amphipathic-interfacil-alpha-h-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-payandeh-2021-natdrugdisc-ligand-binding-at-the-protein-lipid-interface-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-wang-et-al-2019-hepatology-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-nmx-sample-information-form-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-plan-pnpla3-02-20-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-constructs-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-012123--pnpla3-protein-purification-jrc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-021020--pnpla3-protein-purification-update-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-021020--pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-022420--pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-022521-pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-030920--pnpla3-protein-purification-update-slide-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-031621-pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-032521-pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-040821-pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-080420--pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-09-23-2019-pnpla3-protein-production-update-new-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-10-18-2019-pnpla3-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-100720--pnpla3-protein-science-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-11-26-2019--pnpla3-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-110320--pnpla3-protein-science-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-110519-pnpla3-proteine-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-113020--pnpla3-protein-purification-jrc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-121019--pnpla3-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-pnpla3-asec-assay-11-22-21-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-proteins-inventory-04-13-2021-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-1-384-nbvc-n00193-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-1-384-nbvc-n00193-2b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-1-384-nbvc-n00193-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-1-384-nbvc-n00193-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-nbvc-n00051-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m--gfp-nmac-n00010-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-cgi58-nbvc-n00251-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00055-2a-61-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-10a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-6a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-7a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-9a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-9b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n20559-9a-n71-8a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n370-371-372-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n379-2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n379-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-nbvc-n00060-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-nbvc-n00060-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-necc-n00284-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-necc-n00284-286-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-necc-n00284-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-necc-n00286-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-s47a-nbvc-n00072-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purifications-20-11-10-nbvc-n193-3a-lysate-anti-flag-wb-strep-shift--purification-strep-shit-genscript-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purifications-20-11-10-nbvc-n193-3a-lysate-anti-flag-wb-strep-shift--purification-strep-shit-genscript-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purifications-gel-purification-nbvc-n00193-3a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-20211015-request-necc-n00544-1b-for-crystallography-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-clones-05-05-2021-smarca-project-clones-ordered-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-external-presentations-2021-aacr-prelude-smarca2-degrader-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-mouse-vhl-clone-design2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200712-gld06-final-protein-production-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200712-update-gld06-protein-production-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200712-update-gld06-protein-production-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200714-gld06-protein-production-updated-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200721-gld06-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200815-gld06-team-meeting-protein-production-3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20210903-gld06-int-meeting-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-farnaby-2019-ncb-baf-complex-vulnerabilities-in-cancer-demonstrated-via-structure-based-protac-design-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-filippakopoulos-cell-2012-histone-recognition-and-large-scale-structural-analysis-of-the-human-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-filippakopoulos-cell-2012-histone-recognition-and-large-scale-structural-analysis-of-the-human-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-filippakopoulos-nature-2010-selective-inhibition-of-bet-bromodomains-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-gerstenberger-2016-jmedchem-identification-of-a-chemical-probe-for-family-viii-bromodomains-through-optimization-of-a-fragment-hit-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-kadoch-biochemistry-2016-prc2-and-swi-snf-chromatin-remodeling-complexes-in-health-and-disease-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-kargbo-medchemlett-2020-smarca2-4-protac-for-targeted-protein-degradation-and-cancer-therapy-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-ryvu-smarca2-aacr-2020-poster-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-sutherell-2016-jmedchem-identification-and-development-of-2-3-dihydropyrrolo-with-dsf-traces-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-wanior-et-al---2021---exploiting-vulnerabilities-of-swisnf-chromatin-re-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-sequence-analysis-and-compounds-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-sequence-analysis-compounds-proteins-for-purchase-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-20241108-myc-mycn-clones---copy-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-fl-expression-genscript-genscript-20240305-request-u3846389g0-4-necc-n21543-draft-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-july2025-mycnfl-maxwt-large-scle-complex---copy-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-06nov2023-necc-n21474-02a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-08onov2023-necc-n21473-003a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-10oct2023-necc-n21473-002a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-12sep2023-necc-n21473-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-14nov2023-necc-n21473-004a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-17oct2023-necc-n21470-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-20nov2023-necc-n20104-002a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-20nov2023-necc-n20105-001-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-21sep2023-necc-n21474-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-23jan2024-necc-n21641-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-25oct2023-necc-n21596-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-28sep2023-necc-n21475-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-29april2025-mycn-max-large-scale-complex-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-29jan2024-necc-n21643-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-30july2024-mycnwt-maxmut-large-scale-complex-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-31oct2023-necc-n20104-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-9jan2024-necc-n21694-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-jan2025-mycnfl-max-small-scale-complex-test-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-july2025-mycnfl-maxwt-large-scle-complex-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-20250701-delps-i-itargets-overview-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-araf-20251113-bps-40010-lot-251024-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-araf-20251121-bps-40010-lot-251113-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-araf-clones-quote-u695s352g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-arid1b-largescalepurification-necc-n21886-001a-necc-n21888-001a-020525-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-auroraa-auroaa-sec-qc-05-2021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-braf-cloning-quote-u695s352g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-braf-purification-sop-sop-protein-purification-nbvc-n21207-1a-07312024-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-braf-purification-sop-sop-protein-purification-necc-n20277-1a-07102024-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-braf-purification-sop-sop-protein-purification-necc-n21853-1a-10012024-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-011223-materials-methods-btk-fl-kd-purification-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-2018-12-12-nbvc-n00023-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-20210827-results-btk-nrx-03993917-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-20210910-results-btk-nrx-03993917-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-btn-lyna-product-information-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-btn-syk-product-information-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-hck-product-information-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-ilk-product-information-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-lyna-product-information-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-syk-product-information-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-lyn-syk-ilk-proteins-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-phosphorylation-states-btk-fl-and-kd-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-activation-of-brutons-tyrosine-kinase-by-a-pont-mutation-immunity-1995-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-activation-of-btk-by-phosphorylation-science1996-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-btk-fl-nmr-structure-2018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-btk-full-length-expression-bv-embo-2003-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-elife06074-btk-fl-model-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-from-identification-of-the-btk-kinase-to-effective-oncogene2017-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-in-silico-identification-of-novel-jmedchem2018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-putting-on-the-brakes-regulatory-kinases-review-frontiers-immunology-2018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-seeliger-et-al-2005-protein-science-bl21de3-yoph-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-simultaneous-protein-expression-and-modification-jbt2010-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-wang-2022-nejm-mechanisms-of-resistance-to-noncovalent-brutons-tyrosine-kinase-inhibitors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20572-n20833-n20834-n20834-n20839-n20840-n20841-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20822-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20828-20831-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20830-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20831-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20832-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n650-651-655-656-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-kd-nbvc-n20865-n20866-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-kd-nbvc-n20870-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-kd-nbvc-n20941-42-43-44-45-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-kd-nbvc-n20946-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20170731-del-protein-btrcp-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20201116-results-necc-n00266-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210202-results-necc-n00266-1b-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210203-results-necc-n00266-1b-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210428-necc-n00416-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210702-necc-n00539-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210714-necc-n00539-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-21-1-21-necc-n411-n416-n266-attempt2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-necc-n00266-1-purification-btcrp-skp1-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-purification-btcrp-skp1-protocol---kyle-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-sop-protein-purification-btrcp---necc-n00416-1a---20210405-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-sop-protein-purification-btrcp-skp1--necc-n00266-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-062719del-hitresynthesis-ccbl-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-080719-largescalepurification-cbl-b-n43-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-080719-largescalepurification-cbl-b-n43-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-closed-state-avi-cbl-b-purification-kd-js-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-dsf-20231023-necc-n21469-007a-dsf-compounds-sop-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-dsf-20231219-necc-n21469-007a-dsf-peptide-sop-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-open-state-avi-pcbl-b-expression-purification-kd-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-pamt-constructs-for-sequence-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-sop-protein-expression-cbl-b-necc-n21469-20230627-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-20220321-cish-protein-production-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-20220405-cish-construct-expression-summary-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-20220614-cish-protein-production-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-20221028-cish-protein-production-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-cish-construct-design-20200730-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-cish-construct-list-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-del-screen-plans-20220818-cish-dsp-tables-kl-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-dsf-20220812-ncmp-n20025-1b-peptide-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-ligandability---early-discovery-meeting-04062023-1-kl-ns-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-aman-1999-jbc-cis-associates-with-the-interleukin-2-receptor-b-chain-and-inhibits-il2-signaling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-cis-is-a-potent-checkpoint-in-nk-cell-mediated-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-guittard-et-al-2018-the-cish-sh2-domain-is-essential-for-plc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-lavens-et-al-2007-the-c-terminus-of-cis-defines-its-interaction-pattern-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-louis-et-al-2020-nk-cell-derived-gm-csf-potentiates-inflammatory-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-morris-et-al-2018-protein-science-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-palmer-et-al-2015-j-exp-med-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-piessevaux-et-al-2008-the-many-faces-of-the-socs-box-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-zhu-et-al-2020-cell-stem-cell-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-peptides-quote-u0393hb230-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-peptides-quote-u767ygj130-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-peptides-quote-u767ygj130-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-aman-1999-jbc-cis-associates-with-the-interleukin-2-receptor-b-chain-and-inhibits-il2-signaling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-delconte-et-al-2016--cis-is-a-potent-checkpoint-in-nk-cell-mediated-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-guittard-et-al-2018-the-cish-sh2-domain-is-essential-for-plc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-lavens-et-al-2007-the-c-terminus-of-cis-defines-its-interaction-pattern-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-louis-et-al-2020-nk-cell-derived-gm-csf-potentiates-inflammatory-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-piessevaux-et-al-2008-the-many-faces-of-the-socs-box-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purchased-proteins-20220202-cish-socs2-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purchased-proteins-cish-datasheet-avivasystems-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purchased-proteins-socs2-datasheet-avivasystems-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purifications-20210729-kl-purification-necc-n00352-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purifications-20220805-kl-purification-necc-n00808-1b-1c-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20210617-necc-n00350-n00351-n00352-n00353-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20211103-necc-n00622-n00623-n00624-n00625-n00626-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20211213-necc-n00357-n00358-n00636-n00637-n00653-n00654-n00658-n00659-n00686-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20220119-results-small-scalepurification-kl-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20220607-cish-necc-n00808-n00809-n00810-n00813-n00814-n00815-n00816-n00817-n00818-n00819-smscpur-elutiononly-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-sops-sop-protein-purification-cish---necc-n00352-20210728-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-20210115-sars-cov-2-nsp1-construct-design-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210427-plpro-necc-n00268-3a-del-compounds-dsf-kl-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210503-plpro-necc-n00268-3a-del-compounds-batch2-dsf-kl-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210513-plpro-necc-n00268-3a-lit-compounds-dsf-kl-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210602-plpro-dsf-combined-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210603-meeting-plpro-dsf-kl-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-literature-structure-of-mpro-from-sars-cov-2-and-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-literature-the-complex-structure-of-grl0617-and-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-mass-photometry-20231003-mpro-mass-photometry-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-mpro-constructdesign-20200413-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-mpro-delscreeningplan-20200516-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-nsp1-constructdesign-20200423-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-nsp1-literature-clark-et-al---jvirology---structure-of-nonstructural-protein-1-from-sars-cov-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-nsp1-literature-semper-et-al---iscience---structural-characterization-of-nonstructural-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-plpro-constructdesign-20200414-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-purifications-20-11-9-necc-n281-2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-mpro---necc-n00269-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-mpro---necc-n00291-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-mpro---necc-n00493-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-nsp1-20201014-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-plpro-20201012-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-plpro-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-072919-largescaleexpressionpurification-mcrbn-n112-hugo-07-29-2019-largescaleexpressionpurification-n112-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-072919-largescaleexpressionpurification-mcrbn-n112-hugo-07-29-2019-largescalepurif-n112-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-072919-largescaleexpressionpurification-mcrbn-n112-hugo-tycho-measurement-2018-10-24-1401pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-20200828-crbn-crystallography-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-20220807-crbn-ddb1-production-plan-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-20221220-crbn-ddb1-progressslides-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-2023-0407-tcf-ligase-xtal-reagents-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-2023-0512-crbn-fp-nrx-0392260-bofl-crbn-probe-binding-curve-diff-proteins-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-21dec2022-crbn-ddb1-freeze-thaw-experiment-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-26jan2023-crbn-ddb1-freeze-thaw-experiment-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-biortus-ddb1-information-bp12363-01a-0001-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-copy-of-crbn-ddb1-pdb-based-constructs-design-20201027-002-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-crbn-ddb1-complex-stability-ea-js-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-crbn-ddb1-xtal-sequence-analysis-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-a-novel-cereblon-modulator-nature-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-cereblon-is-a-direct-protein-target-for-imm-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-design-of-a-cereblon-construct-for-crystallographyic-and-biophysical-studies-2024-biorxiv-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-design-of-a-cereblon-construct-for-crystallographyic-and-biophysical-studies-2024-biorxiv-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-engineering-crbn-for-rapid-identification-of-next-generation-binders-2024-biorxiv-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-identification-of-a-primary-target-of-thalidomide-teratogenicity-science327-2010-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-jneuroscience-2018-crbn-mantains-synaptic-and-cognitive-function-by-regulating-bk-channel-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-lenalidomide-causes-selective-degradation-science2014-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-meth-mol-bio-gtp-exchange-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-natchembiol-sall4-mediates-teratogenicity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-plasticity-in-binding-confers-selectivity-in-ligand-induced-protein-degradation-ncb-2018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-plos2018-structural-dynamics-of-the-cereblon-ligand-binding-domain-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-scientificreport2018-structural-basis-of-thalidomide-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-si-plasticity-in-binding-confers-selectivity-in-ligand-induced-protein-degradation-ncb-2018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-structure-of-hcrbn-ddb1-lenal-reveals-basis-for-responsiveness-to-thal-analogs-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-structure-of-the-human-cereblon-ddb1-lenalidomide-complex-reveals-basis-for-responsiveness-to-thalidomide-analogs-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-structure-of-the-human-cereblon-ddb1-lenalidomide-complex-reveals-basis-for-responsiveness-to-thalidomide-analogs-supplemental-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-thalidomide-mimics-uridine-binding-to-an-aromatic-cage-in-cereblon-jstructbiol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-the-myeloma-drug-lenalidomide-science-2014-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-zz-tag-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-08-2020-large-scale-expression-mini-crbn--n112-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-21-2020-small-scale-expression-mini-crbn--n112-and-midi-crbns-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-23-2020-large-expression-mini-crbn--n112-and-midi-crbns-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-23-2020-large-scale-expression-mini-crbn--n112-and-midi-crbns-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-23-2020-small-scale-expression-mini-crbn--n112-and-midi-crbns-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-31-2020-large-scale-expression-mini-crbn--n112-and-n199-in-bl21de3star-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-02-27-2020-small-scale-n202-207-02-27-2020-small-scale-expression---n202-n207-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-05-30-2019--docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-05-30-2019-expression-mini-crbn-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-08-29-2019-large-scale-expression-mini-crbn--n112-n126-bira-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-10-21-2019-large-scale-expression-mini-crbn--n112-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-02-03-2020-02-03-2020-purification-necc-n112-6a-and-necc-n199-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-02-03-2020-02-03-2020-purification-necc-n112-6a-and-necc-n199-new-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-02-03-2020-copy-of-hcrbn-mini-rubik-screen-20200220-111122-analysisresults-ext-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-06-02-2019-06-02-2019-large-scale-expression-mini-crbn-and-purification-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-06-02-2019-06-02-2019-large-scale-expression-mini-crbn-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-07-29-2019-07-29-2019-large-scale-expression-mini-crbn-and-purification-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-08-29-2019-large-scale-expression-mini-crbn--n112-n126-bira-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-09-03-2019-large-scale-expression-and-purification-of-mini-crbn--n126-bira-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-09-03-2019-large-scale-expression-and-purification-of-mini-crbn--n126-bira-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-092319-qc-nc126-1a-intactproteinreport-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-092319-qc-nc126-1a-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-092319-qc-nc126-1b-intactproteinreport-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-092319-qc-nc126-1b-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-10-24-2019-mcrbn-n112-4a-4b-4c-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-10-24-2019-purification-of-mini-crbn--n112-3a-n112-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-10-24-2019-purification-of-mini-crbn--n112-3a-n112-4a-new-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-2019-10-27-1425pdt-t6-074-4a-fresh-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-2019-10-28-0939pdt-t6-074-n112-4a-thaw-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-second-selection-for-pgex-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-nbvc-n00349-nbvc-n00351-crbn-2xddb1-purificationprotocol-20210920-nbvc-n00349-nbvc-n00351-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-nbvc-n00349-nbvc-n00351-crbn-2xddb1-purificationprotocol-20210920-results-nbvc-n00349-nbvc-n00351-3a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-nbvc-n00349-nbvc-n00351-crbn-2xddb1-purificationprotocol-20210920-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-nbvc-n00349-nbvc-n00351-crbn-2xddb1-purificationprotocol-20210920-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221005-necc-n21284-buffer-table-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221005-results-necc-n21284-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221005-results-necc-n21284-1a-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221005-sop-necc-n21284-001a-ikaros-purif-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221007-necc-n21284-001a-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-dsf-data-20221007-n21284-admin-2022-10-07-15-30-49-br009234---melt-curve-rfu-results-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-20210309-results-nbvc-n00025-nbvc-n00005-moi-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-20210503-results-nbvc-n00025-nbvc-n00005-6a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-20210614-results-necc-n359-n360-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-20220912-thermal-stability-of-crbn-ddb1-binding-to-celmod-cmpds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-21-04-29-nbvc-n00025-n00005-7a-lascpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-thermal-stability-of-crbn-ddb1-bound-to-ctms-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-vhl-iap-btrcp-ligase-list-for-js-wks-202010407-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dac-platform-20250317-dac-purification-discussion-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-del-foundation-20250904-del-foundation-status-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-barros-2017-biochemistry-electrostatic-interactions-as-mediators-in-the-allosteric-activation-of-protein-kinase-a-ria-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-cao-2019-structure-structures-of-the-pka-ria-holoenzyme-with-the-flhcc-driver-j-pkaca-or-wild-type-pkaca-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-cheung-2015-pnas-structural-insights-into-mis-regulation-of-protein-kinase-a-in-human-tumors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-cornella-2015-gastroenterology-unique-genomic-profile-of-fribolamellar-hepatocellular-carcinoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-dnajb1-prkaca-fusion-is-cancer-driver-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-fibrolamellar-hepatocellular-carcinoma-fusion-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-fibrolamellar-hepatocellular-carcinoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-honeyman-2014-science-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-in-fibrolamellar-hepatocellular-carcinoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-kim-2005-science-crystal-structure-of-a-complex-between-the-catalytic-and-regulatory-subunits-of-pka-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-kim-2007-cell-pka-i-holoenzyme-structure-reveals-a-mechanism-for-camp-dependent-activation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-lu-2020-plosbiol-structural-analysis-of-the-pka-riib-holoenzyme-containing-the-oncogenic-dnajb1-pkac-fusion-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-oncogenic-addiction-of-fibrolamellar-hepatocellular-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-saraswat-1988-jbc-deletion-mutants-as-probes-for-localizing-regions-of-subunit-interactions-in-camp-dependent-protein-kinase-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-simon-2023-natrevcancer-fighting-rare-cancers---lessons-from-fibrolamellar-hepatocellular-carcinoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-simon-2023-natrevcancer-fights-rare-cancers---lessos-from-fibrolamellar-hepatocellular-carcinoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-su-1995-science-regulatory-subunit-of-protein-kinase-a---structure-of-deletion-mutant-with-camp-binding-domains-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-tomasini-2018-scientificrep-conformational-landscape-of-the-prkaca-dnajb1-chimeric-kinase-the-driver-of-fhc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-meetings-20231002-dnajb1-prkaca-c1-del-screen-powerpoint-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-meetings-20231002-dnajb1-prkaca-protein-production-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-meetings-20231103-20231106-dnajb1-prkaca-c1-del-screen-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-meetings-20241302-update-for-biochemistry-dnajb1-prkaca-review-protein-status-02132024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-target-reviews-dnajb1-prkaca-target-review-07282023-for-cancer-uk-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-target-reviews-dnajb1-prkaca-target-review-07282023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-20240304-kl-purification-nbvc-n21055-001a-ncmp-n20058-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-75234456-u946a238g0-3-coa-u946a238g0-3-pe5411-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-1-hplc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-1-ms-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-1-peptide-qualitative-solubility-test-report-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-3-hplc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-3-ms-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-3-peptide-qualitative-solubility-test-report-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-20190716-fusions-offsite-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-c1-docking-20231127-dnajb1-prkaca-c1-docking-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-dnajb1-prcaka-literature-and-clones-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-baohua-cao1-structures-of-pka-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-barros-2017-biochemistry-electrostatic-interactions-as-mediators-in-the-allosteric-activation-of-protein-kinase-a-ria-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-cheung-2015-pnas-structural-insights-into-mis-regulation-of-protein-kinase-a-in-human-tumors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-choel-kim-cell-pka-i-holoenzyme-structure-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-dnajb1-febs-letters-2013-priya-molecular-chaperones-as-enzymes-that-catalytically-unfold-misfolded-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-dnajb1-nmr-hsp40-proteins-use-class-specific-regulation-to-drive-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-dnajb1-prkaca-fusion-is-cancer-driver-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-fibrolamellar-hepatocellular-carcinoma-fusion-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-fibrolamellar-hepatocellular-carcinoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-honeyman-jn-science-2014-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-inhibitors-herber-et-al-biochem-1993-physiological-inhibitors-of-the-catalytic-subunit-of-camp-dependent-protein-kinase-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-inhibitors-khan-s-nat-med-2019-a-selective-bcl-xl-protac-degrader-achieves-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-inhibitors-manschwetus-j-et-al-molecules-2019-a-stapled-peptide-mimic-of-the-pseudosubstrate-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-kastenhuber-2017-pnas-dnajb1-prkaca-fusion-is-cancer-driver-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-lalazar-g-simon-s-fibrolamellar-carcinoma-recent-advances-semin-liver-dis-2018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-lu-2020-plosbiol-structural-analysis-of-the-pka-riib-holoenzyme-containing-the-oncogenic-dnajb1-pkac-fusion-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-bjorn-2002-mutation-of-the-ca-subunit-of-pka-leads-to-growth-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-engelholm-2017-crisprcas9-engineering-of-adult-mouse-liver-demonstrates-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-kastenhuber-2017-pnas-dnajb1-prkaca-fusion-kinase-interacts-with-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-oncogenic-addiction-of-fibrolamellar-hepatocellular-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-oncogenic-addiction-of-fibrolamellar-hepatocellular-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-pnas-simon-e-et-al-2015-transcriptomic-characterization-of-fibrolamellar-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-prkaca-protein-kinase-a-and-human-disease-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-prkaca-taylor-s-et-al-nat-rev-2012-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-prkaca-turnham-gene-2015-protein-kinase-a-catalytic-subunit-isoform-prkaca-history-function-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-saraswat-1988-jbc-deletion-mutants-as-probes-for-localizing-regions-of-subunit-interactions-in-camp-dependent-protein-kinase-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-simon-2023-natrevcancer-fights-rare-cancers---lessos-from-fibrolamellar-hepatocellular-carcinoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-su-1995-science-regulatory-subunit-of-protein-kinase-a---structure-of-deletion-mutant-with-camp-binding-domains-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-taylor-s-et-al-nat-rev-2012-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-tomasini-md-et-al-sci-rep-2018-conformational-landscape-of-prkca-dnajb1-chimeric-kinase-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-zhang-ping-et-al-structure-and-allostery-of-the-pka-rii-tetrameric-holoenzyme-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-zhang-ping-eta-la-si-structure-and-allostery-of-the-pka-rii-tetrameric-holoenzyme-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-meetings-20230517-internal-meeting-dnajb1-prkaca-target-review-and-del-screen-plan-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-dnajb1-prkaca-target-review-detailed-slides-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-dnajb1-prkaca-target-review-short-presentation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-dnajb1-prkaca-target-review-short-presentation-updated-07232023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-dnajb1-prkaca-target-review-short-presentation-updated-07252023-with-notes-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-final-round-robin-dnajb1-prkaca-target-final-round-updated-09082023-1-corrected-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-final-round-robin-dnajb1-prkaca-target-final-round-updated-09082023-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-20240506-ews-fli1-constructs-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-biochem-assays-20220930-ews-fli1-dna-fret-ss-vs-dsdna-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-c1-hit-validation-copy-of-cr-002805-chadh-ews-fli1-complete-ratul-spr-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-c1-hit-validation-ews-fli1-assay-tracker-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-c1-hit-validation-ews-fli1-c1-hit-validation-working-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-cell-line-info-clear-cell-sarcoma-cell-lines-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-cell-line-info-ewsr1-fli1-cell-lines-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-20220126-ews-fl1-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-20220126-ews-fl1-meeting-shared-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-slide-drafts-01-21-2022-ewsri-tracer-recovery-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-slide-drafts-01-24-2022-ewsr1-protein-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-slide-drafts-20220126-ews-fl1-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-032023-external-meeting-032023-ews-fli1-project-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-04222022-external-meeting-20220421-ews-fli1-externalupdate-ch-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-04222022-external-meeting-20220421-ews-fli1-project-team-meeting-nurix-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-04222022-external-meeting-dsf-update-ews-fli1-041522-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08032022-external-meeting-20220803-ews-fli1-project-meeting---final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08032022-external-meeting-20220803-ews-fli1-project-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08032022-external-meeting-del-screening-update-080322-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08032022-external-meeting-protein-production-update-080322-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08172021-ews-fli1-proteins--purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-09-28-2019-ewsr1-protein-update---charles-keller-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-09-30-19-ewsr1-presentation-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-cctdi-ewsr1-fusions-of-interest-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-ews-fli1-protein-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-ews-fli1-stability-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-nurix-projects-cctdi-2020-0917-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-collaborators-functional-capabilities-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-e3-ligase-expression-ews-del-screens-20221212-ews-fli1-c1-del-screen-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-e3-ligase-expression-ews-del-screens-ews-fli1-dssfhr-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-e3-ligase-expression-ews-e3-ligases-list-rms-ews-data-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-figure-gwenn-101223-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-gantt-chart-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-anderson-et-al-science-2018-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-boone-et-al-oncogene-2021-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-elzi-et-al-genescancer-2015-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-erkizan-et-al-clinical-cancer-research-2010-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-erkizan-et-al-nature-medicine2009-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-es-model-paper-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-flores-and-grohar-et-al-journal-of-bone-oncology-2021-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-guillon-et-al-plos-one-2009-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-povedano-et-al-cell-chemical-biology-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-rao-et-al-molecular-therapy-2016-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-riggi-et-al-cancer-cell-2014-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-seong-et-al-cancer-cell-2021-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-su-et-al-advanced-science-2021-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-turnover-papers-gierisch-et-al-scientific-reports-2019-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-turnover-papers-gierisch-journal-of-biological-chemistry-2016-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-andersen-nature-2005-nucleolar-proteome-dynamics-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-cancer-res-2006-66-5574-5581-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-carrillo-cancer-therapy-2007-cholecystokinin-down-regulation-by-rna-interference-impairs-ewing-tumor-growth-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-cell-cycle-2011-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-delattre-nature-gene-fusion-with-an-ets-dna-binding-domain-caused-by-chromosome-translocation-in-human-tumours-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-dtag-degradation-of-ews-fli1-2020-gray-et-al-nat-comm-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-dtag-degradation-of-ews-fli1-2020-suppl-info-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-endothelial-fli1-deficiency-impairs-vascular-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-epithelial-fli1-deficiency-drives-systemic-autoimmunity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-fli1-downregulation-in-scleroderma-myeloid-cells-has-profibrotic-and-proinflammatory-effects-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-gi-manifestations-with-a-focus-on-the-esophagus-recent-progress-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-the-druggable-transcription-factor-fli-1-regulates-t-cell-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-the-ets-transcription-factor-fli-1-in-development-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-hou-et-al-2015-bioch-structural-basis-for-dimerization-and-dna-binding-of-transcription-factor-fli1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-j-biol-chem--2016-gierisch-26922-33-proteasomal-degradation-of-the-ews-fli1-fusion-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-jully-et-al-2012-bmc-cancer-junction-region-of-ews-fli1-fusion-protein-has-a-d-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-kyung-2021-cancercell-trim8-modulates-the-ews-fli-oncoprotein-to-promote-survival-in-ewing-sarcoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-latysheva-molecularcell2018-molecular-principles-of-gene-fusion-mediated-rewiring-of-protein-interaction-networks-in-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-michoux-et-al-photosyn-2014-crystal-structure-of-cyanoq-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-nature-medicine-2009-15-750-757-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-peptides-to-bind-ewsfli-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-rahim-plos-20014-a-small-molecule-inhibitor-of-etv1-yk-4-279-prevents-cancer-growth-and-metastasis-in-mouse-xenograph-model-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-recombinant-ewsfli1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-shi-blood-2012-structural-insights-into-inhibition-of-the-bivalent-menin-mll-interaction-by-small-molecules-in-leukemia-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-su-2021-spop-and-otud7a-control-ews-fli1-protein-stability-to-govern-ewing-sarcoma-growth-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-sun-et-al-oncotarget-2017-ews-fli1-and-rna-helicase-interaction-inhibitor-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-todorova-biomedres-2015-structure-function-based-molecular-relationships-in-ewings-sarcoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-tsafou-oncotarget-2018-identifying-the-druggable-ineractome-of-esw-fli1-reveals-mcl-1-dependent-diferential-sensitivities-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-uren-2004-biochemistry-recombinant-ews-fli1-oncoprotein-activates-transcription-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-uren-torestky-future-oncology-2005-ewings-sarcoma-oncoprotein-ews-fli1--the-perfect-target-without-a-therapeutic-agent-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20221014-ews-fli1-internal-project-meeting-20221014-ews-fli1-del-screen-plan-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20221212-ews-fli1-c1-del-screen-files-20221212-ews-fli1-c1-del-screen-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20221212-ews-fli1-c1-del-screen-files-ews-fli1-dssfhr-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230427-ews-fli1-internal-project-meeting-20230427-ews-fli1-internal-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230802-ews-fli1-internal-project-meeting-20230802-ews-fli1-internal-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230824-ews-fli1-internal-project-meeting-20230823-ews-fli1-ml-report-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230824-ews-fli1-internal-project-meeting-20230824-ews-fli1-email-update---draft-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230824-ews-fli1-internal-project-meeting-20230828-ews-fli1-email-update---final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230824-ews-fli1-internal-project-meeting-20230928-ews-fli1-internal-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230928-ews-fli1-internal-meeting-09-28-23-ews-fli1-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230928-ews-fli1-internal-meeting-20230928-ews-fli1-internal-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20231026-ews-fli1-internal-meeting-20231026-ews-fli1-internal-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20240125-ews-fli1-internal-meeting-20240125-ews-fli1-internal-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-ews-fli1-internal-20220415-20220414-ews-fli1-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-ews-fli1-internal-20220415-dsf-update-ews-fli1-041522-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-ews-fli1-internal-20220909-ews-fli1-del-screening-update-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-20220126-ews-fl1-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-20220126-ews-fl1-meeting-shared-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-slide-drafts-01-21-2022-ewsri-tracer-recovery-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-slide-drafts-01-24-2022-ewsr1-protein-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-slide-drafts-20220126-ews-fl1-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-032023-external-meeting-032023-ews-fli1-project-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-04222022-external-meeting-20220421-ews-fli1-externalupdate-ch-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-04222022-external-meeting-20220421-ews-fli1-project-team-meeting-nurix-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-04222022-external-meeting-dsf-update-ews-fli1-041522-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-08032022-external-meeting-20220803-ews-fli1-project-meeting---final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-08032022-external-meeting-20220803-ews-fli1-project-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-08032022-external-meeting-del-screening-update-080322-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-08032022-external-meeting-protein-production-update-080322-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-08172021-ews-fli1-proteins--purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-09-28-2019-ewsr1-protein-update---charles-keller-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-09-30-19-ewsr1-presentation-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-cctdi-ewsr1-fusions-of-interest-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-ews-fli1-protein-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-ews-fli1-stability-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-nurix-projects-cctdi-2020-0917-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-old-files-del-selection-plan-template-2019-for-ewsr1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00611-613-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00614-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00614-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00662-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00680-681-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n20953-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n20958-1a-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n21179-21180-21181-21182-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n21260-61-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n21824-001a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n21825-001a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-2019-0424-fusions-ewsr1-prt-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-20190716-fusions-offsite-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ews-fli1-competitive-intelligence---2018-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ews-fli1-target-nomination-slides-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-del-screen-ewsfli1-del-analysis-v2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-del-screen-ewsfli1-similarity-search-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-andersen-nature-2005-nucleolar-proteome-dynamics-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-belyaeva-2023-biomedpharmaco-the-spectrum-of-cell-death-in-sarcoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-biochemistry-2004-43-13579-13589-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cahaney-2022-pediatricannals-role-of-precision-medicine-in-pediatric-oncology-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cancer-cytopathology---2020---jo---ewsr1-fusions-ewing-sarcoma-and-beyond-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cancer-res-2006-66-5574-5581-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cancer-res-2006-66-5574-5581-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cell-cycle-2011-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-chen-2022-cancerletters-ets-factors-in-prostate-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cidre-aranaz-natrevdisprimer-small-round-cell-sarcomas-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-dharia-2021-natgenetics-a-first-generation-pediatric-cancer-dependency-map-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-dna-binding-mutants-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-flores-2021-jboneoncology--one-oncogene-several-vulnerabilities-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-grunewald-2018-natrevdiseaseprimers-ewing-sarcoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-he-2021-international-immunopharmacology-emerging-role-of-fli1-in-autoimmune-diseases-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-j-biol-chem--2016-gierisch-26922-33-proteasomal-degradation-of-the-ews-fli1-fusion-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-nature-medicine-2009-15-750-757-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-nature-medicine-2009-15-750-757-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-nature-medicine-2009-15-750-757-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-povedano-2022-cellchembiol-tk216-targets-microtubules-in-ewing-sarcoma-cells-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-sun-et-al-oncotarget-2017-ews-fli1-and-rna-helicase-interaction-inhibitor-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-todorova-biomedres-2015-structure-function-based-molecular-relationships-in-ewings-sarcoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-uren-2004-biochemistry-recombinant-ews-fli1-oncoprotein-activates-transcription-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-uren-2004-biochemistry-recombinant-ews-fli1-oncoprotein-activates-transcription-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-08172021-ews-fli1-proteins--purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-09-30-19-ewsr1-presentation-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-20220803-ews-fli1-project-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-cam-assay-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-cc-tdi-grantor-royalty-funding-agreement-template-4-6-21-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-cctdi-ewsr1-fusions-of-interest-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-collaborators-functional-capabilities-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-e3-ligase-gene-expression-2021-1215-e3-ligases-list-rms-ews-data-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-e3-ligase-gene-expression-2022-0115-e3-ubiquitinligase-rms-ccs-sef-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-meeting-09-17-2020-keller-09-17-20-fusion-meeting-draft-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-piero-funding-of-aykut-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-literature-32542-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-patents-us10159660-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-01-24-2022-ewsr1-protein-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-09-28-2019-ewsr1-protein-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-11-17-2021-ewsr1-project-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-2021-ewsr1-project-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-meeting-ews-fli1-discussion-08-27-2021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-update-ews-fli1-102121-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-fusion-proteins-purifications-and-plans---hugo-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-fusions-general-literature-jama-netowrk-2019-molecular-profiling-of-hard-to-treat-childhood-and-adolescent-cancers-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-fusions-general-literature-monje-filbin-2019-natmedrev-developmental-origins-childhood-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-borkin-2015-cancer-cell--pharmacological-inhibition-of-the-menin-mll-interaction-blocks-progression-of-mll-leukemia-in-vivo-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-borkin-2016-jmedchem-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-brezezinka-2019-jhematol-oncol-functional-diversity-of-inhibitors-tackling-the-differentiation-blockage-of-mll-rearranged-leukemia-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-campbell-cancerbiol-2017-mechanisms-of-pinometostat-epz-5675-treatment-emergent-resistance-in-mll-rearranged-leukemia-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-caslini-2007-interaction-of-mll-amino-terminal-sequences-with-menin-is-required-for-transformation-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-caslini-2007-interaction-of-mll-amino-terminal-sequences-with-menin-is-required-for-transformation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-cold-spring-harb-perspect-med-2017-krivtsov--pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-he-2014-jmedchem-high-affinity-small-molecule-inhibitors-of-the-menin-mixed-lineage-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-huang-nature-2012-the-same-pocket-in-menin-binds-both-mll-and-jund-but-oppositely-regulates-transcription-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-huang-nature-2012-the-same-pocket-in-menin-binds-both-mll-and-jund-but-oppositely-regulates-transcription-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-hughes2004-molcell-menin-associates-with-a-trithorax-family-histone-methyltransferase-complex-with-the-hoxc8-locus-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-j-biol-chem--2010-grembecka-40690-8-molecular-basis-of-the-mixed-lineage-leukemia-menin-interaction-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-j-biol-chem--2010-grembecka-40690-8-molecular-basis-of-the-mixed-lineage-leukemia-menin-interaction-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-j-biol-chem--2011-murai-31742-8-crystal-structure-of-menin-reveals-binding-site-for-mixed-lineage-leukemia-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-liu-cancerbiol-2009-mll-fusions-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-loss-of-ub-sites-in-fusions-latysheva-molcell-2016-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-lu-frontiers-oncology-2018-the-histone-h3-lysine-4-presenter-wdr5-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-mll1-and-ck2-inhibition-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-ruthenberg-nsmb-2006-histone-h3-recognition-and-presentation-by-the-wdf-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-scheer-natcomm-2018-a-chemical-toolbox-to-study-protein-methyltransferases-and-epigenetic-signaling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-shi-blood-2012-structural-insights-into-inhibition-of-the-bivalent-menin-mll-interaction-by-small-molecules-in-leukemia-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-shi-blood-2012-structural-insights-into-inhibition-of-the-bivalent-menin-mll-interaction-by-small-molecules-in-leukemia-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-vedadi-proteinsci-2017-targeting-human-set1-mll-family-of-proteins-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-wu-2019-amjcancerres-disruption-of-the-menin-mll-interaction-triggers-menin-protein-degradation-via-ubiquitin-proteasome-pathway-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-yokoyama-2005-cell-the-menin-tumor-suppressor-protein-is-an-essential-ocongenic-cofactor-for-mll-associated-leukemogenesis-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fzr1-cloning-quote-u4074282g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fzr1-sops-sop-protein-purification-nbvc-n21320-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fzr1-sops-sop-protein-purification-nbvc-n21320-1-im-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-hollenstein-2013-nature-structure-of-class-b-gpcr-corticotropin-releasing-factor-receptor-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-jazayeri-2016-nature-extra-helical-binding-site-of-a-glucagon-receptor-antagonist-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-liu-2017-nature-mechanism-of-intracellular-allosteric-b2ar-antagonist-revealed-by-x-ray-crystal-structure-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-oswald-2016-nature-intracellular-alosteric-antagonism-of-the-ccr9-receptor-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-zheng-2016-nature-structure-of-cc-chemokine-receptor-2-with-orthosteric-and-allosteric-antagonists-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-del-gpcr-ahn-et-al-2017-pnas-allosteric-beta-blocker-isolated-from-a-dna-encoded-small-molecule-library-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-del-gpcr-ahn-et-al-2018-molpharm-small-molecule-positive-allosteric-modulators-of-the-b2ar-isolated-from-dna-encoded-libraries-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-del-gpcr-brown-2018-slas-agonists-and-antagonists-of-parp2-discovered-within-a-dna-encoded-chemical-library-using-mutational-stabilization-of-the-target-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-del-gpcr-wu-et-al-2015-acs-comb-sci-cell-based-selection-expands-the-utility-of-dna-encoded-small-molecule-library-technology-to-cell-surface-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-0508-tangoassay-keystone-selectscreen-gpcr-profiling-service-poster-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-adjobo-hermans-2011-bmcbiology-real-time-visualization-of-heterotrimeric-g-protein-gq-activation-in-living-cells-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-killoran-2024-molecules-an-integrated-approach-toward-nanobret-tracers-for-analysis-of-gpcr-ligand-engagement-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-kroeze-natstmolbiol-presto-tango-as-an-open-source-resource-for-interrogation-of-the-druggable-human-gpcrome-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-vlps-aertgeerts-2023-metmolbiol-optimization-of-recombinant-gpcr-proteins-for-biophysical-and-structural-studies-using-virus-like-particles-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-meetings-20240801-gpr75-ptm-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-meetings-20240806-gpr75-expression-testing-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-protein-production-20240523-biortus-proteins-summary-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-ahn-et-al-2017-allosteric-beta-blocker-isolated-from-a-dna-encoded-small-molecule-library-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-akbari-et-al-2021-science---sequencing-of-640-000-exomes-identifies-gpr75-variants-associated-with-protection-from-obesity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-audet-et-al-2020-nature-protocols---small-scale-approach-for-precrystallization-screening-in-gpcr-x-ray-crystallography-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-british-j-pharmacology---202pascale-2021-bjp--uncovering-the-signalling-structure-and-function-of-the-20-hete-gpr75-pairing-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-cai-et-al-2023-direct-selection-of-dna-encoded-libraries-for-biased-agonists-of-gpcrs-on-live-cells-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-cardenas--2020-bba-molcelbiology-gpr75-receptor-mediates-20-hete-signalling-and-metastatic-features-of-androgen-insensitive-prostate-cancer-cells-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-chen-2017-crystacta-human-ccl5-trimer---expression-purification-and-initial-crystallographic-studies-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-choi-2023-sciadv-a-whole-genome-reference-panel-of-14393-individuals-for-east-asian-populations-accelerates-discovery-of-rare-functional-variants-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-dashti-2023-asianpacjcancerprev-gpr75-as-a-novel-molecule-for-targeted-therapy-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-fan-2017-circres-gpr75-identified-as-the-first-20-hete-receptor---a-chemokine-receptor-adopted-by-a-new-family-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-garcia-et-al-2017-20-hete-signals-through-g-protein-coupled-receptor-gpr75--gq--to-affect-vascular-function-and-trigger-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-gilani-2021-prostagladins-20-hete-interfers-with-insulin-signalling-and-contributes-to-obesity-driven-insulin-resistance-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-ignatov-et-al-2006-british-j-pharmacology---rantes-stimulates-ca2-mobilization-and-inositol-trisphosphate-ip3-formation-in-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-jiang-zhang-2025-trendincellbiol-adopting-gpr75-in-treating-obesity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-leeson-payne-et-al-cell-metabolism---loss-of-gpr75-protects-against-non-alcoholic-fatty-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-li-2004-jbc-protein-kinase-c-theta-inhibits-insulin-signalling-by-phosphorylating-irs1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-lu-2021-plos-constitutive-g-protein-coupling-profiles-of-understudied-orphan-gpcrs-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-lv-2022-biorxiv-cryo-em-structure-of-active-gpr75-with-a-nanobody-2022-08-18-503988v1-full-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-ma-2022-proteinjournal-expression-and-purification-of-recombinant-human-ccl5-and-its-biological-characterization-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-murtaza-2022-gpr75-an-exciting-new-target-in-metabolic-syndrome-and-related-disorders-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-pascale-2023-advpharmacol-20-hete---bioactions-receptors-vascular-function-cardiometabolic-disease-and-beyond-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-powell-2021-dmso-342799-mice-lacking-gpr75-are-hypophagic-and-thin-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-regard-2008-cell-anatomical-profilling-of-g-protein-coupled-receptor-expression-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-science-2021-sequencing-of-640000-exomes-identifies-gpr75-variants-assocaited-with-protection-from-obesity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-sristava-2014-nature-high-resolution-structure-of-the-human-gpr40-receptor-bound-to-allosteric-agonist-tak-875-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-target-review-gpr75-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-tarmunt-2020-diabetologia-sex-differences-in-metabolic-regulation-and-diabetes-susceptibility-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-zhang-2023-medcomm-drug-development-advances-in-human-genetics-based-targets-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-target-reviews-2024-gpr75-short-target-review-for-external-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-target-reviews-2024-gpr75-short-target-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-target-reviews-2024-gpr75-target-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-itk-20220218-results-nbvc-n00497-nbvc-n00498-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-itk-carnabio-itk-fl-nbvc-n21393-carna-btn-itk-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-itk-carnabio-trka-nbvc-n21391-carna-btn-trka-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-itk-carnabio-trkb-nbvc-n21392-carna-btn-trkb-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-klhl10-cloning-quote-u3563fsyg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ligase-sweep-20210805-dtl-siah1-chip-dcaf1-grwd1-itch-construct-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ligase-sweep-20210908-results-necc-n573-n577-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ligase-sweep-20211216-results-lrr1-dsfstabilitytesting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ligase-sweep-20230601-ncmp-n20048-001a-klhdc2-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-lrr1-20240220-ncmp-n20053-001a-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-assay-data-2023-1130-mycn-fp-binding-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-assay-data-20231117-mycn-fp-rna-binding-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-c1-target-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-beltran-2021-molecular-cancer-research-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-eilers-and-eisenman-2008-genesdev-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-guglielmi-et-al-2014-nature-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-liu-et-al-2021-frontiers-in-oncology-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-murphy-et-al-plos-2009-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-papadopoulos-2023-biorxiv-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-presentation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-quoterequest-qte-341878-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-quoterequest-qte-348089-pdf-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-specsheets-19693744-1-spec-453796714-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-specsheets-19693744-1-spec-453796715-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-specsheets-19693744-1-spec-453796716-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-specsheets-19693744-1-spec-453796717-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-myd88-20250911-myd88-construct-design-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-nlrp3-20260115-nlrp3-del-ps-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-nlrp3-literature-dekker-et-al-2021-crystal-structure-of-nlrp3-nacht-domain-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-protein-sciences-meeting-slides-20250612-pax3foxo1-protein-sciences-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21794-n21797-070124-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21798-071524-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21827-n21828-n21835-0723241-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21836-0723241-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21846-n21847-0910241-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pellino-2018-05-08-pellino-program-for-nancy-pryer-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pja2-03apr2023-necc-n21359-001a-purif-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pja2-03apr2023-necc-n21359-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-psmd14-20240202-psmd14-constructs-from-reza-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-psmd14-20240313-psmd14-ecoli-constructtesting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-raf1-cloning-quote-u7567vqfg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf114-24oct2022-necc-n21250-001a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf114-25oct2022-necc-n21249-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf114-necc-n21249-001a-1022822-protein-report-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf114-sop-necc-n21249-001a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf39-cloning-quote-u638tvedg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-shp2-071819-largescalepurif-shp1-n78-79-hugo-071819-n78-2a-and-n79-2a-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-shp2-071819-largescalepurif-shp1-n78-79-hugo-71919-largescalepurif-shp1-n78-79-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-shp2-071819-largescalepurif-shp1-n78-79-hugo-necc-n00078-2a-072619-protein-report-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-shp2-071819-largescalepurif-shp1-n78-79-hugo-necc-n00079-2a-072619-protein-report-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-socs1-smscpur-20211213-necc-n00357-n00358-n00636-n00637-n00653-n00654-n00658-n00659-n00686-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-socs1-socs1-construct-design-20200729-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-socs1-socs1-construct-list-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-06282023-sts1-sts2-project-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-20220202-sts1-and-sts2-summary-deck-nn-v2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-20220323-sts1-meeting-protein-production-update-3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-20220614-sts1-meeting-protein-production-update-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-sts-c1-delanalysis-pan-ro-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-sts1-del-sim-ml-hit-validation-062023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-mikhailik-2007-a-phosphatase-activity-of-sts-1-contributes-to-the-suppression-of-tcr-signalling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-new-from-art-weiss-cbl-b-interaction-tsai-sts1-cbl-b-immunity-2023-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-regulation-of-zap-70-activation-and-tcr-signaling-by-sts1-and-sts2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-sts1-artweiss-nurix-072121-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-sts1-cish-analysis-062023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-wang-2004-jbc-crystal-structure-of-human-biphosphoglycerate-mutase-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-zhou-2017-biochemistry-structural-and-functional-characterization-of-the-histidine-phosphatase-domains-of-human-sts-1-and-sts2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-sts-sequence-and-protein-analysis-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-sts1-dsp-tables---im-jss-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-sts1-dsp-tables-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-20230210-tet1-active-motif-qc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-binding-20230110-tet2-dna-binding-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745560-66280603-esi-hu-tet2-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745561-66255496-esi-hu-tet2-3-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745562-528831337-esi-hu-tet2-4-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745563-530043452-esi-hu-tet2-5-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745564-66280602-esi-hu-tet2-6-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745565-66255497-esi-hu-tet2-7-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745566-528831338-esi-hu-tet2-8-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745567-530043453-esi-hu-tet2-9-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745568-66280606-esi-adam-tet2-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745569-66280605-esi-adam-tet2-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745570-66255495-esi-adam-tet2-3-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745571-528831339-esi-adam-tet2-4-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745572-528831340-esi-adam-tet2-5-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745573-530043454-esi-adam-tet2-6-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qte-232207---katherine-leon-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745560-hu-tet2-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745561-hu-tet2-3-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745562-hu-tet2-4-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745563-hu-tet2-5-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745564-hu-tet2-6-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745565-hu-tet2-7-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745566-hu-tet2-8-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745567-hu-tet2-9-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745568-adam-tet2-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745569-adam-tet2-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745570-adam-tet2-3-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745571-adam-tet2-4-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745572-adam-tet2-5-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745573-adam-tet2-6-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-fp-tet2-dna-tr-fret-assay-development-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-a-therapeutic-strategy-for-preferential-targeting-of-tet2-mutant-and-tet-dioxygenase-deficient-cells-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-acetylation-enhances-tet2-function-in-protecting-against-abnormal-dna-mehtylation-during-oxidative-stress-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-cell2013-tet2structuredna-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-cytosine-based-tet-enzyme-inhibitors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-deletion-of-tet2-in-mice-leads-to-dysregulated-hematopoietic-stem-cells-and-subsequent-development-of-myeloid-malignanci-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-disruption-of-tet2-promotes-the-therapeutic-efficacy-of-cd19-targeted-t-cells-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-flanking-sequences-influence-the-activity-of-tet1-and-tet2-methylcytosine-dioxygenases-and-affect-genomic-5hmc-patterns-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-impaired-hydroxylation-of-5-methylcytosine-in-myeloid-cancers-with-mutant-tet2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-methodsenzmology-2012-tet2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-modulation-of-tet2-expression-and-5-methylcytosine-oxidation-by-the-cxxc-domain-protein-idax-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-nature2018-tet2-c-june-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-nature2018-tet2-structuresubstratepreference-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-selectivity-and-promiscuity-in-tet-mediated-oxidation-of-5-methylcytosine-in-dna-and-rna-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-supplement-cell2013-tet2structuredna-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-targeting-tet2-as-a-therapeutic-approach-for-angioimmunoblastic-t-cell-lymphoma-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-tet-enzymes-and-key-signalling-pathways-crosstalk-in-embryonic-development-and-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-tet-is-targeted-for-proteasomal-degradation-by-the-phd-pvhl-pathway-to-reduce-dna-hydroxymethylation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-tet2-at-the-interface-between-cancer-and-immunity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-tet2-guards-against-unchecked-batf3-induced-car-t-cell-expansion-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-purifications-20210810-kl-purification-necc-n00348-1a-1b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-purifications-20210826-kl-purification-nbvc-n00285-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-purifications-20220315-kl-purification-necc-n00653-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-smscpur-20210930-necc-n00599-n00600-n00601-n00602-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-smscpur-20211213-necc-n00357-n00358-n00636-n00637-n00653-n00654-n00658-n00659-n00686-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-sops-sop-protein-purification-tet2-catalytic---nbvc-n00288-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-sops-sop-protein-purification-tet2-catalytic-xtal---necc-n00348-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-sops-sop-protein-purification-tet2-fl---nbvc-n00293-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-sops-sop-protein-purification-tet2-truncated---nbvc-n00291-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet1-tet2-tet3-promals-alignment-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet2-construct-design-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet2-construct-list-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet2-dna-tr-fret-assay-development-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet2-target-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim11-cloning-quote-u299u927g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim15-cloning-quote-u8260507g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim17-quote-u4911vzlg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim21-2024-05-08-trim21-constructs-v2-reza-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim26-cloning-quote-u253rxkwg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim34-cloning-quote-u837gnyyg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim35-cloning-quote-u054j599g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim38-cloning-quote-u2759tnfg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim39-cloning-quote-u0186321g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim41-cloning-quote-u501wldjg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim58-quote-u484f289g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim6-cloning-quote-u6034224g0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim64-cloning-quote-u7799hnlg0-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube2g1-29aug2022-necc-n00857-1a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube2g1-31aug2022-necc-n00857-1a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube2g1-nbvc-n00857-1a-08312022-proteinreport-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube2g1-sop-necc-n00857-1a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube3a-20220906-ube3a-protein-qc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube3a-20221005-kl-purification-necc-n21185-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube3a-smscpur-20221216-necc-n21334-n21335-n21336-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ubr2-20220124-results-ubr2-smscexpr-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2019-04-02-mb266-2a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2019-08-10-mb204-moi-cell-line-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2019-08-10-n30-n46-moi-smscpur-column-phy-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2020-05-11-smscpur-n42-9-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-20200825-nbvc-n00045-1a-analyticalsec-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-asms-122019-zap70-offdna-asms-v3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-asms-12222020-zap70-on-dna-enumerated-cmpnd-asms-v2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-02-13-2019-order-compound-prep-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-02-13-2019-order-kinomescan-next-steps-and-shipping-instructions-direct-v7-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-02-13-2019-order-nurix-us073-0002914-q02-021319-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-02-13-2019-order-po-16464-nrx-with-eurofins-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-03-04-2019-order-nurix-us073-0003306-q01-030119-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-03-04-2019-order-nurix-us073-0003429-q02-030619-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-03-04-2019-order-po-16646-nrx-with-eurofins-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-hit-validation-copy-of-del-zap70-tracking-sheet-ondna-offdna-hits-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-bu-pnas-1995-analysis-of-the-interaction-of-zap-70-and-syk-protein-tyrosine-kinases-with-the-t-cell-antigent-receptor-by-plasmon-resonance-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-bu-pnas-1995-analysis-of-the-interaction-of-zap-70-and-syk-protein-tyrosine-kinases-with-the-t-cell-antigent-receptor-by-plasmon-resonance-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-cell2007-kuryan-structural-basis-for-the-inhibition-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-clinical-immunology-2017-two-novel-mutations-in-zap70-gene-that-result-in-human-immunodeficiency-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-cottat-scientific-reports---2017-phosphorylation-impact-on-spleen-tyrosin-kinase-conformation-by-surface-enhanced-raman-spectroscopy-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-crystal-structures-of-spleen-tyrosine-kinase-in-complex-with-two-novel-4-aminopyrido--pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-deindl-cell-2007-structural-basis-for-the-inhibition-of-tyrosine-kinase-activity-of-zap-70-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-deindl-pnas-2009-stability-of-an-autoinhibitory-interface-in-the-structure-of-the-tyrosine-kinase-zap-70-impacts-t-cell-receptor-response-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-deindl-pnas-2009-stability-of-an-autoinhibitory-interface-in-the-structure-of-the-tyrosine-kinase-zap-70-impacts-t-cell-receptor-response-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-fasbender-frontiers-immunology-2017-differential-requirements-for-src-family-kinases-in-syk-for-zap-70-mediated-slp-76-phosphorylation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-folmer-biochemistry-2002-crystal-structure-and-nmr-studies-of-the-apo-sh2-domains-of-zap70-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-huber-2015-ploscompbiol-the-structural-basis-for-activation-and-inhibition-of-zap-70-kinase-domain-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-j-biol-chem--2002-huang-29330-41-the-novel-role-of-teh-c-terminal-region-of-shp-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-j-biol-chem--2004-jin-42818-25-structure-of-kd-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-j-biol-chem--2011-bond-25872-81-molecular-mechanisms-of-selective-recuitment-of-syk-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-jem-zap70-mutations-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-katz-nature-immunology-2017-a-cycle-of-zap70-kinase-activation-and-release-from-the-tcr-amplifies-and-disperses-antigenic-stimuli-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-katz-nature-immunology-2017-a-cycle-of-zap70-kinase-activation-and-release-from-the-tcr-amplifies-and-disperses-antigenic-stimuli-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-klammt-natimmunol-2015-t-cell-receptor-dwell-times-control-the-kinase-activity-of-zap70-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-klammt-natimmunol-2015-t-cell-receptor-dwell-times-control-the-kinase-activity-of-zap70-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-knight-chemistryandbiology2005-features-of-selective-kinase-inhibitors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-liaunardy-jopeace-2017-natstructmolbiol-enconding-optical-control-in-lck-kinease-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-lillemeier-2020-nature-immunology-cars-need-a-jump-start-to-get-going-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-loss-of-ub-sites-in-fusions-latysheva-molcell-2016-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-lovering-et-al-2012-chemical-biology-drug-design-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-natimun2017-katz-a-cycle-of-zap70-kinase-activation-and-release-from-the-tcr-amplifies-and-disperses-antigentic-stimuli-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-smyth-jchembiol-2009-measuring-and-interpreting-the-selectivity-of-protein-kinase-inhibitors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-syk-inhibitors-in-clinical-development-for-hematological-malignancies-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-syk-inhibitors-in-clinical-development-for-hematological-malignancies-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-tcr-signaling---mechanisms-of-initiation-and-propagation-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-visperas-slas-discov-2017-identification-of-inhibitors-of-the-association-of-zap70-with-the-t-cell-receptor-by-high-throughput-screen-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-wang-clinica-chimica-acta-2018-zap70-in-chronic-lymphocytic-leukemia-a-meta-analysis-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-zap-70-in-signaling-biology-disease-art-weiss-ari-review--jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-zap70-in-signaling-biology-and-disease-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-zap70-literature-review-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-miki-zap70-phosphorylation-check-exp10-12-wt-vs-yyaa-102618-results-eln-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-mst-20191114-zap70-mst-del-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-05-16-2019-zap70-huber-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-20190712-zap-70-off-site-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-20190712-zap-70-off-site-v1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-kickoff-slides-collated-final3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-2019-01-16-zap70-kickoff-del-slides-revised-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-del-screening-strategy-updated-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-ppt-zap70-jose-marcella-kathleen-kyle-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-ppt-zap70-jose-marcella-kathleen-kyle-v2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-ppt-zap70-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-ppt-zap70-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-slides-collated-v5-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-slides-collated-v7-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-zap70-tools-and-reagents-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-sop-protein-purification-zap-70-kd-del--nbvc-n00042-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-sop-protein-purification-zap-70-kd-xtal--nbvc-n00030-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-05-17-2019-nbvc-n42-zap-70-kd-buffer-screen-2019-05-17-mb266-nbvc-n42-zap70-kd-buffer-screen-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-053119-protein-ms-421b-1--2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-06-14-2019-n42-n30-zap70kd-syk-fl-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-05-14-1427pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-05-14-1427pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-05-14-1427pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-05-15-1511pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-05-15-1511pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-05-15-1511pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1340pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1340pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1340pdt-t6-074-nbvc-n30-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1340pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1340pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1351pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1351pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1351pdt-t6-074-n42-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1351pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1351pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1430pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1430pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1430pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1714pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1714pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1714pdt-t6-074-n30-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1714pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1714pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1725pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1725pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1725pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-09-25-2019-zap-70-kd-n42-n30-tycho-ms-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n30-atp-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n30-ms-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n30-pcp-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n42-atp-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n42-ms-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n42-pcp-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-10-09-2019-zap-70-fl-tycho-ms-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-2019-09-25-1702pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-2019-09-25-zap70kd-nbvc-n30-3a-nbvc-42-1btycho-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-2019-10-07-zap70-fl-mb204-8a-tycho-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-10-09-2019-zap-70-fl-tycho-ms-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-atp1h-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-atp3h-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-atpon-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-pnp1h-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-pnp3h-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-pnpon-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1741pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1741pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-10-07-1741pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1741pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-all-compiled-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1911pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1911pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-10-07-1911pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-zap70-fl-mb204-8a-tycho-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-08-0940pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-08-0940pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-10-08-0940pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-all-compiled-for-presentation-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-all-compiled-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-10-11-2019-zap-70-fl-tycho-ms-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-102419-zap70qc-wt-atp-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-102419-zap70qc-wt-pnp-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1418pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1429pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1439pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1517pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1700pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-all-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-zap70-fl-mb204-8a-and-d461n-tycho-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-zap70-fl-mb204-8a-tycho-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-18-2019-zap-70-thermostability-project-team-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-20190726-zap70-dsf-002-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-dsf-07292019-delcompounds-dsf-tycho-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-dsf-07292019-delcompounds-dsf-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-dsf-20190726-zap70-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-0753pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-0753pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-0753pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-0808pdt-t6-074-1-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-0808pdt-t6-074-1-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-0808pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1409pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1409pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1409pdt-t6-074-presentation-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1409pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1409pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1409pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-summary-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1432pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1432pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1432pdt-t6-074-presentation-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1432pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1432pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1457pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1457pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1457pdt-t6-074-presentation-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1457pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1457pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1603pdt-t6-074-raw-and-processed-data-database-files-readme-txt
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1603pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1603pdt-t6-074-presentation-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1603pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1603pdt-t6-074-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-summary-prt-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-summary-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-thermostability-assay-of-zap70-d461n-with-del-compounds-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-zap70-d461n-del-compounds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-08-09-2019-amp-pnp-selections-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-2019-01-30-zap70-alt-selection-plan-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-2019-03-05-zap70-screentest-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-2019-03-15-zap70-immobilized-deck1-2-selection-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-del-zap70-tracking-sheet-ondna-offdna-hits-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-delzap70hitreysnthesiscompounds07252019-pplogp-simplusprops-nm-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-draft-selection-plan-template-for-mb-20181002---mb-modif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-potential-secondary-selectionv2-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-potential-secondary-selectionv2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-potential-secondary-selectionv4-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-potential-secondary-selectionv5-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70platemappingoutput-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200720-kl-adar-meeting-3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200731-adar-catalytic-expression-summary-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200828-adar1-outsourced-projects-jose-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200828-adar1-outsourced-projects-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200901-kl-adar-outsource-protein-production-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200901-kl-adar-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200904-kl-adar-purified-targets-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-asec-20211008-adar1-asec-del-screen-buffer-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-bps-adar1-p150-20220204-adar1-p150-bps-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar1-catalytic-proteros-20201112-adar1-catalytic-proteros-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar1-catalytic-proteros-productinformation-ops---batch20-4-002-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar1-catalytic-viva-20201013-adar1-catalytic-sanofi-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar2-catalytic-viva-20210122-adar2-catalytic-viva-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar2-catalytic-viva-adar2-progress-summary-12182020-2-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-construct-design-plans-03-21-2020-ordered-adar1-screening-constructs-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-construct-design-plans-20200226-additional-adar1-constructs-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-construct-design-plans-adar-yeast-constructs-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-construct-design-plans-adar1-constructs-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-del-screens-adar-protein-priorities-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-dsf-20210514-necc-n00257-1a-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-dsf-20210709-snf02-covalent-del-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-dsf-20220425-necc-n00257-1b-1352-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-limited-proteolysis-20210518-necc-n00257-1a-protease-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-athanasiadis-2005-jmb-the-crystal-structure-of-the-zb-domain-of-the-rna-editing-enzyme-adar1-reveals-distinct-conserved-surfaces-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-bavelloni-et-al---2019---akt-dependent-phosphorylation-of-the-adenosine-deaminases-adar1-and--2-inhibits-deaminase-activity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-beal---2020---high-throughput-mutagenesis-reaveals-unique-structure-features-of-human-adar1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-eggington-et-al---2011---predicting-sites-of-adar-editing-in-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-eggington-et-al---2011---supp-predicting-sites-of-adar-editing-in-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-j-biol-chem--2003-cho-17093-102-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-j-biol-chem--2007-valente-16054-61-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-macbeth-2005-science-inositol-hexakisphosphate-is-bound-in-theadar2-core-and-required-for-rna-editing-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-macbeth-2005-science-inositol-hexakisphosphate-is-bound-in-theadar2-core-and-required-for-rna-editing-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-macbeth-et-al---2007---large-scale-overexpression-and-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-matthews-et-al---2016---structures-of-human-adar2-bound-to-dsrna-reveal-baseflipping-mechanism-and-basis-for-site-selectivity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-nishikura-2006-natrevmolcellbiol-editor-meets-silencer---cross-talk-between-rna-editing-and-rna-interference-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-ota-et-al---adar1-forms-a-complex-with-dicer-to-promote-microrna-processing-and-rna-induced-gene-silencing-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-ramos-et-al-2000-the-embo-journal-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-ring-et-al---2004---purification-and-assay-of-recombinant-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-rna-2003-wong-586-98-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-schwartz-1999-science-crystal-structure-of-the-z-alpha-domain-of-the-human-editing-enzyme-adar1-bound-to-left-handed-z-dna-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-thuy-bound-et-al---2020---asymmetric-dimerization-of-adenosine-deaminase-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-n-za-zb-buffer-stability-test-20211130-kl-necc-n00257-3a-3b-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-n-za-zb-buffer-stability-test-20211202-kl-necc-n00257-3a-3b-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-nmr-nuwo-nn-ls01-jan17-2022-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-nmr-nuwo-nn-ls02-march21-2022-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-catalytic-proteros-20201112-adar1-catalytic-proteros-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-catalytic-viva-sanofi-20201013-adar1-catalytic-sanofi-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-p110-adar2-fl-sino-20210208-adar1-p110-adar2-fl-sino-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-p150-bps-20201013-adar1-p150-bps-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-p150-bps-20201112-adar1-catalytic-proteros-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar2-catalytic-viva-20210122-adar2-catalytic-viva-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-20211111-adar1-p110-panta-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-20211130-adar1-p110-panta-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-first-run-2-buffer-2-nurix-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-first-run-data-table-dls-demo-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-first-run-data-table-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-second-run-data-table-dls-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-second-run-data-table-dsf-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-03-25-2020-protein-production-update-adar1-project-team-meeting-mlmnotes-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200609-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200616-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200630-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200710-adar-protein-production-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200717-adar-protein-production-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200720-kl-adar-update-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200811-kl-adar-update-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200901-kl-adar-outsource-protein-production-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200901-kl-adar-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200904-kl-adar-purified-targets-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200915-kl-adar-update-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200916-kl-adar-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200928-kl-adar-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201013-kl-adar-update-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201014-kl-adar-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201111-kl-adar-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201123-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201215-adar1-jrc-meeting-kl-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210105-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210120-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210126-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210216-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210217-kl-adar-meeting-external-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210220-kl-adar-del-screen-meeting-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210220-kl-adar-del-screen-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210224-kl-adar1-jrc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210228-adar1-p110-adar2-fl-sino-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210302-kl-adar-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20220727-snf02-constructs-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-adar-protein-production-progress-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-purifications-20211122-kl-purification-necc-n00257-3a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-purifications-20220523-kl-purification-necc-n00689-1a-n00807-1a-1b-1c-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-smscpur-20220315-necc-n689-n690-n691-n692-n693-n694-n695-n696-n697-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-expression-sop-protein-purification-adar1-z-alpha---necc-n00210-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-expression-sop-protein-purification-adar1-z-alpha-z-beta--necc-n00252-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-expression-sop-protein-purification-adar1-z-beta---necc-n00209-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-catalytic-domain---necc-n00-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-rbd3-and-z-beta-rbd1---necc-n00208-n00259-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-z-alpha---necc-n00210-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-z-alpha-z-beta--necc-n00252-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-z-alpha-z-beta-rbd1-3---necc-n00261-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-z-beta---necc-n00209-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar2-catalytic-domain---nbvc-n00129-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00256-n00257-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-viva-estimates-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-z-dna-binding-20220301-kl-necc-n00257-1b-zdna-binding-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-05142020-craf-crystallography-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-07162020-c-raf-del-screen1-protein-delivery-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-200615-mattos-c-raf-cr1-domain-polypeptide-sequence-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-2021-0318-n478-2a-qc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-c-raf-biochemical-assays-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-clones-04-18-2020-raf-ext-crystallography-constructs-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-clones-14-3-3-designed-clones-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-clones-clones---del-wave-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-construct-design-plans-03-14-2020-raf-constructs-final-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-construct-design-plans-construct-design-03-15-2020-v5-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-construct-design-plans-raf-disorder-predictors-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-cr1-constructs-120920-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-craf-braf-phophorylations-041921-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-craf-fl-overview-112321-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-craf-kd-overview-05102021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-alabi-2021-natcom-mutant-selective-degradation-by-braf-targeting-protacs-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-athuluri-divakar-2016-a-small-molecule-ras-mimetic-disrupts-ras-association-with-effector-proteins-to-block-signaling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-athuluri-divakar-2016-a-small-molecule-ras-mimetic-disrupts-ras-association-with-effector-proteins-to-block-signaling-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-brummer-2020-oncogene-raf-kinase-dimerization-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-buhrman-2007-structure-transformation-efficiency-of-q61-ras-mutants-linked-to-structural-features-of-the-switch-regions-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-buhrman-et-al-2010-allosteric-modulation-of-ras-positions-q61-for-a-direct-role-in-catalysis-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-buhrman-et-al-2010-allosteric-modulation-of-ras-positions-q61-for-a-direct-role-in-catalysis-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-cookis-et-al-2020-crystal-structure-reveals-the-full-rasraf-interface-and-advances-mechanistic-understanding-of-raf-activation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-cope-chembiochem-2018-mechanism-of-braf-activation-through-biochemical-characterization-of-the-recombinant-full-length-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-degirmenci-2020-cells-targeting-aberrant-ras-raf-mek-erk-signaling-for-cancer-therapy-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-eisenhardt-2016-oncotarget-phospho-proteomic-analysis-of-braf-protein-complexes-reveal-new-regulatory-principles-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-fang-2020-pnas-multivalent-assembly-of-kras-with-the-ras-binding-domain-and-cystein-rich-domains-of-craf-of-the-membrane-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-fang-2020-pnas-multivalent-assembly-of-kras-with-the-ras-binding-domain-and-cystein-rich-domains-of-craf-of-the-membrane-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-fetics-2015-structure-allosteric-effects-of-the-oncogenic-rasq61l-mutant-on-raf-rbd-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-filchtinski-2010-jmolbiol-what-makes-ras-an-efficient-molecular-switch-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-fischer-2007-j-biol-chem--b-and-c-raf-display-essential-differences-in-their-binding-to-ras-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-grasso-2018--thesis--development-and-characterization-of-novel-raf-dimer-inhibitors-to-target-brafv600e-inhibitor-resistance-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-gronenborn-science-1991-a-novel-highly-stable-fold-of-the-immunoglobulin-binding-domain-of-streptococcal-protein-g-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-haling-2014-cancercell-structure-of-the-braf-mek-complex-reveals-a-kinase-activity-independent-role-for-braf-in-mapk-signalling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-haling-2014-cancercell-structure-of-the-braf-mek-complex-reveals-a-kinase-activity-independent-role-for-braf-in-mapk-signalling-sup-data-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-hatzivassiliou-nature-2010-raf-inhibitors-prime-wild-type-raf-to-activate-the-mapk-pathway-and-enhance-growth-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-hekman-2002-j-biol-chem--associations-of-b--and-c-raf-with-cholesterol-phosphatidylserine-and-lipid-second-messengers-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-j-biol-chem--1994-ghosh-10000-7-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-karoulia-2016-cancer-cell-an-integrated-model-of-raf-inhibitor-action-predicts-inhibitor-activity-against-oncogenic-braf-signaling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-kondo-2019-nature-cryo-em-structure-of-a-dimeric-b-raf-14-3-3-complex-reveals-asymmetry-in-the-active-sites-of-b-raf-kinases-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-kondo-2019-nature-cryo-em-structure-of-a-dimeric-b-raf-14-3-3-complex-reveals-asymmetry-in-the-active-sites-of-b-raf-kinases-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-lakshman-et-al-2019-quantitative-biophysical-analysis-defines-key-components-modulating-recruitment-of-the-gtpases-kras-to-the-plasma-membrane-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-li-et-al-structure-2018-raf-1-cysteine-rich-domain-increases-the-affinity-of-k-ras-raf-at-the-membrane-promoting-mapk-signaling-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-matallanas-2011-genes-cancer-raf-family-kinases-old-dogs-have-learned-new-tricks-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-mazhab-jafari-2015-pnas-oncogenic-and-rasopathy-associated-k-ras-mutations-relieve-membrane--dependent-occlusion-of-the-effector-binding-site-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-mott-1996-pnas-the-solution-structure-of-the-raf-1-cysteine-rich-domain---a-novel-ras-and-phospholipid-binding-site-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-nassar-1996-nsb-ras-rap-effector-specificity-determine-by-charge-reversal-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-niault-2010-carcinogenesis-targets-of-raf-in-tumorigenesis-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-nussinov-et-al-2019-does-ras-activate-raf-and-pi3k-allosterically-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-park-2019-nature-architecture-of-autoinhibited-and-active-braf-mek1-14-3-3-complexes-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-park-2019-nature-architecture-of-the-autoinhibited-and-active-braf-mek1-14-3-3-complexes-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-pelkmans-et-al--2005-nature-genome-wide-analysis-of-human-kinases-in-clathrin-and-caveolae-raft-mediated-endocytosis-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-poulikos-2010-nature-raf-inhibitors-transactivate-raf-dimers-and-erk-signaling-in-cells-with-wild-type-braf-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-priyanka-et-al-2019-science-report-three-distinct-regions-of-craf-kinase-domain-interact-with-membrane-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-puttick-a-raf-purification-phd-thesis-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-raf-constructs-pdf-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-rapp-cancer-cell-2006-bucy-rafs-drive-cells-into-mek-addiction-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-review-structural-snapshots-of-raf-kinase-interactions-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-robertson-2006-molbiolcell-extracellular-signal-regulated-kinase-regulates-clathrin-independent-endosomal-trafficking-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-roskoski-2010-biochbiophyrescomm-raf-protein-serine-threonine-kinases-structure-and-regulation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-smith-2017-bioorganic-medchem-letters-imidazo-1-2-6-yl-benzamide-analogs-as-potent-raf-inhibitors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-sun-2019-structures-of-braf-mek1-14-3-3-sheds-light-on-drug-discovery-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-tang-2015-molecular-cancer-therapeutics---bgb-283--a-novel-raf-kinase-and-e-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-terai-et-al-2005-ras-binding-opens-c-raf-to-expose-the-docking-site-for-mitogen-activated-protein-kinase-kinase-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-thevakumaran-2014-natstructbiol-crystal-structure-of-a-braf-kinase-domain-monomer-explains-basis-for-allosteric-regulation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-tran-2020-kras-interaction-with-raf1-ras-binding-domain-and-cysteine-rich-domain-provides-insights-into-ras-metdiated-raf-activation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-travers-et-al-2018-molecular-recognition-of-ras-raf-complex-at-the-membrane-role-of-raf-cysteine-rich-domain-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-travers-et-al-2020-biophysical-journal-anionic-lipids-impact-ras-binding-site-accessibility-and-membrane-binding-affinity-of-craf-rbd-crd-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-tsai-2008-pnas-discovery-of-a-selective-inhibitor-of-oncogenic-b-raf-kinase-with-potent-antimelanoma-activity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-wan-2004-cell-mechanism-of-activation-of-the-raf-erk-signalign-usecdc37-for-coexpression-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-wan-2004-cell-mechanism-of-activation-of-the-raf-erk-signalign-usecdc37-for-coexpression-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-yang-2006-pnas-structural-basis-for-protein-protein-interactions-in-the-14-3-3-protein-family-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-yang-2006-pnas-structural-basis-for-protein-protein-interactions-in-the-14-3-3-protein-family-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-yuan-2018-oncogene-the-dimer-dependent-catalytic-activity-of-raf-family-kinases-is-revealed-through-characterizing-their-oncogenic-mutants-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-zaman-et-al-cancer-2019-targeting-oncogenic-braf-past-present-and-future-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-zhang-2021-cancer-research--a-biophysical-membrane-centric-perspective-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-project-team-meetings-210405-snf03-sanofi-update-final-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-project-team-meetings-210527-cr1-mutnras-complex-del-screen-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-12072020-cr1-slide-jrc-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-20210513-snf03-protein-for-crystallography---jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-presentation-sanofi-082420-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-011922-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-031822-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-040221-nras-cr1-complex-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-042722-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-051822-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-052820-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-061520-protein-science-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-061920-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-063021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-080421-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-080620-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-082720-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-122220-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-tycho-dsf-072221-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-xtal-update-051021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-complex-nras-cr1-061721-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-craf-asec-with-9739-update-031522-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-template-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-070620-craf-kd-abcam-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-20200723-raf-kinase-domain-qc-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-ab271473-lot-gr3349669-summary-data-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-c-raf-kd-062920-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-c-raf-kd-103020-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-nurix-purchased-c-raf-kd-comparison-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-raf-binders-for-ctm-summary--2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sanoficlones-c-raf-productionprogressupdate-v1-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-snf03-protein-delivery-barcoded-ts01490154-020221-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-e-coli-expression-tests-b-raf-rbd-crd-2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-e-coli-expression-tests-c-raf-b-raf-rbd-crd-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-14-3-3-zeta-epsilon-n338-1-2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-14-3-3-zeta-epsilon-n343-1-2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-n-structural-domain-1-372-n218-1-n247-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-n-structural-domain-1-372-n247-2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-n-structural-domain-1-372-n247-3-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-rbd-crd-151-299-n241-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-rbd-crd-n399-1-n400-1-n401-1-n402-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-n-structural-domain-1-265-n280-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-151-280-n263-1-n265-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-52-184-n217-1-n219-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-52-184-n217-2-n219-2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-52-184-n240-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-52-184-n240-2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-n313-1-n314-1-n315-1-n323-1-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-lascpu-nbvc-n352-n353-n354-n355-05042021-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-lascpu-nbvc-n354-05122021-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-14-3-3-zeta-epsilon-n338-1a-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-14-3-3-zeta-epsilon-n343-1a-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-6h-gb1-avi-n473-1a-033122-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-avi-gb1-tag-n418-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-c--structural-domain-373-766-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-fl-1-766-n154-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n174-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n174-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n174-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n177-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n177-2a-n182-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n182-2-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n182-4a-b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-n--structural-domain-1-372-n218-n247-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-n--structural-domain-1-372-n247-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-n--structural-domain-1-372-n247-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-rbd-crd-150-296-n399-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-rbd-crd-150-296-n399-400-401-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-rbd-crd-150-296-n424-427-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n20913-1a-20916-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n422-1c-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n426-1a-422-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n426-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n524-1a-n525-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n524-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n525-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-fl-1-648-n158-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n168-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n175-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n176-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n176-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n176-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-184-n217-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-184-n217-2a-n240-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-184-n240-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-184-n240-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-196-n313-314-323-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-196-n420-421-422-423-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-196-n422-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-craf-cr1-52-187--nras-1-167-necc-n00525-1a-necc-n00722-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n236-n238-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n365-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-necc-n248-1a-b-07072021-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-nras-1-167-necc-n00721-722-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-nras-1-189-necc-n00478-1a-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-nras-1-189-necc-n00478-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-raf-fl-n158-3a-n154-3a-mek-n222-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-raf-fl-n223-1a-n224-1a-mek-n222-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-small-scale-kingfisher-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-smscpu-necc-n248-n250-n412-n413-n414-n415-04072021-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-smscpu-necc-n412-n413-04202021-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-smscpu-necc-n518-n519-n520-n521-05142021-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-20210129-irf5-draft-proposal-v4-ddt-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-20220726-snf05-flproteinupdate-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-20241016-snf05-internalmeeting-proteinprodupdate-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-20250109-snf05-recap-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-210921-irf-phosphopeptidemapping-jiwen-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-211122-irf-phosphopeptidemapping-jiwen-jaipal-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-commercial-sources-irf5-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-irf5--target-evaluation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-irf5-del-august2019-v5-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-andrilenas-2018-nar-dna-binding-landscape-of-irf3-irf5-and-irf7-dimers---implications-for-dimer-specific-gene-regulation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-badis-2009-science-diversity-and-complexity-in-dna-recognition-by-transcription-factors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-balkhi-2008-molcelbiol-functional-regulation-of-myd88-activated-interferon-regulatory-factor-5-by-k63-linked-polyubiquitination-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-chang-2012-plos-one-activation-of-interferon-regulatory-factor-5-by-site-specific-phosphorylation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-chang-j-steroid-biochemistry-1989-isolation-and-characterization-of-human-tr3-receptor--a-member-of-the-steroid-receptor-superfamily-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-chen-2008-nsmb-insights-into-interferon-regulatory-factory-activation-from-the-crystal-structure-of-dimeric-irf5-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-faust-2020-annrevcancerbiol-small-molecule-approaches-to-targeted-protein-degradation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-ferrandez-2017-scireports-allosteric-inhibition-of-the-guanine-nucleotide-exchange-factor-dock5-by-a-small-molecule-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-foreman-2012-plos-one--activation-of-interferon-regulatory-factor-5-by-site-specific-phosphorylation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-henley-2021-natrevdrugdisc-advances-in-targeting-undruggable-transcription-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-honda-2006-irfs-master-regulators-of-signalling-by-toll-like-receptors-and-cytosolic-pattern-recognition-receptors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-hu-2017-molcell-celastrol-induced-nur77-interaction-with-traf2-alleviates-inflammation-by-promoting-mitochondrial-ubiquitination-and-autophagy-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-j-biol-chem--2005-caillaud-17671-7-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-liaunpd-etal-2019-cancers-jak1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-pnas-2002997117-sapp-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-ren-2014-pnas-ikkb-is-an-irf5-kinase-that-instigates-inflammation-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-safe-2020-molcancerres-the-paradoxical-roles-of-orphan-nuclear-receptor-4a-in-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-rcsb-pdb-custom-report-20201228083236-irf5-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-11sep2023-sec-mals-n20106-n20107-dc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210309-necc-n452-n453-snf05-tad-smscexpr-smscpur-21-03-08-protein-expression-irf5-tad-platemap-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210309-necc-n452-n453-snf05-tad-smscexpr-smscpur-21-03-09-protein-expression-irf5-tad-necc-n452-n453-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210309-necc-n452-n453-snf05-tad-smscexpr-smscpur-21-03-10-necc-n452-n453-smscpur-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210309-necc-n452-n453-snf05-tad-smscexpr-smscpur-21-03-10-necc-n452-n453-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210316-n454-n455-n456-n457-n458-n459-smscexpr-smscpur-21-03-16-protein-expression-snf05-tad-necc-n454-455-456-457-458-459-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210316-n454-n455-n456-n457-n458-n459-smscexpr-smscpur-21-03-18-necc-n454-n455-n456-n457-n458-n459-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-20210317-necc-n466-n468-asec-strepshiftgel-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-20210317-results-necc-n466-n468-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-21-02-29-protein-expression-irf6-tad-necc-n461-462-466-468-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-21-02-29-protein-expression-irf6-tad-platemap-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-21-03-15-necc-n466-n468-nbvc-n344-1-n346-1-n347-1-smscpur-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-21-03-15-necc-n466-n468-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-20210317-protein-expression-irf6-tad-necc-n461-462-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-20210318-purify-his-tag-n474-475-481-483-461-462-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-20210318-results-necc-n461-n462-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-21-02-29-protein-expression-irf6-tad-necc-n461-462-466-468-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-21-02-29-protein-expression-irf6-tad-platemap-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-21-03-04-necc-n461-n462-smscpur-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-21-03-04-necc-n461-n462-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n474-n475-n481-n483-smscexpr-smscpur-20210317-protein-expression-snf05-fl-n474-n475-n481-n483-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n474-n475-n481-n483-smscexpr-smscpur-20210318-purify-his-tag-n474-475-481-483-461-462-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n474-n475-n481-n483-smscexpr-smscpur-20210318-results-necc-n474-n475-n481-n483-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n474-n475-n481-n483-smscexpr-smscpur-21-03-17-necc-n474-n475-n481-n483-snf05fl-smscexpr-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210319-results-snf05-smscpur-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210326-necc-n481-n483-smscexpr-smscpur-21-03-26-protein-expression-snf05-fl-n481-n483-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210326-necc-n481-n483-smscexpr-smscpur-21-03-29-necc-n481-n483-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210329-results-necc-n00453-1a-2a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210329-results-necc-n00466-1a-2a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210407-irf5-irf6-tad-dimers-n452-n459-n461-n463-20210407-protein-expression-snf05-n452-n459-n461-n463-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210407-irf5-irf6-tad-dimers-n452-n459-n461-n463-20210409-results-necc-n452-n459-n461-n463-smscexpr-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210413-nbvc-n329-n330-n367-n368-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210414-nbvc-n367-n368-p2-asec-20210413-n367-n368-p2-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210414-nbvc-n367-n368-p2-asec-21-04-13-nbvc-n329-n330-n367-n368-p2-smscpur-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210414-nbvc-n367-n368-p2-asec-21-04-13-nbvc-n329-n330-n367-n368-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210415-summary-irf5-updates-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210420-results-abcam-origene-irf5-protein-qc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210423-nbvc-n7-1-n366-1-n367-1-n368-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210426-results-nbvc-n00366-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210503-summary-nbvc-n366-n367-n368-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210510-results-nbvc-n00368-2a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210512-summary-nbvc-n00366-2a-3a-4a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210524-results-necc-n00453-3a-necc-n00466-3a-peptidebinding-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210609-results-nbvc-n00366-6a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210702-results-nbvc-n00366-n00368-peptidebinding-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210831-results-nbvc-n00366-7a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210922-results-n615-n616-n618-smscexpr-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211004-results-necc-n00562-2a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211005-results-smscpur-nmac-n24-n25-n26-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211110-results-smscpur-nmac-n20-nbvc-n126-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211112-results-necc-n00562-nrx-0404529dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211120-results-smscpur-nmac-n27-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211202-nmac-n00026-1a-nmac-n00027-1a-nbvc-n00368-3a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211202-results-nmac-n00026-1a-nmac-n00027-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211203-results-asec-nbvc-n00163-2a-nbvc-n00005-nbvc-n00025-6b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211220-results-nmac-n00024-1a-nmac-n00025-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220124-results-asec-snf05-fl-dimer-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220216-results-smscpur-nbvc-n504-n505-n506-n507-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220310-results-smscpur-irf5-irf6-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220328-results-asec-snf05-irf6-fl-dimer-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220407-snf05-bv-construct-comparison-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220426-snf05-ec-flmonomer-assessment-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220503-results-nbvc-n00504-2a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220516-results-nbvc-n00366-8d-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220617-results-smscexp-and-smscpur-of-new-irf5-clones-exemplified-at-genscript-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20221128-results-nbvc-n20839-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20221212-results-necc-n21317-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20221220-snf05-fl-dimer-purifications-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20230403-snf05-thermal-stability-follow-up-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20230404-results-irf5-fl-2312-2565-asec-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20230505-snf05-thermal-stability-follow-up-absolute-fluorescence-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20230818-snf05-sec-mals-compound-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20231031-results-nbvc-n20106-n20107-001a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240229-results-nmac-n20106-005a-n20107-004a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240307-sec-mals-irf5-fl-in-vitro-phos-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240314-sec-mals-irf5-fl-in-vitro-phos-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240416-results-snf05-tc-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240503-irf5-in-vitro-phosphorylation-secmals-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240508-irf5-in-vitro-phosphorylation-secmals-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240909-mtbk1-small-scale-in-vitro-phosphorylation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-snf-05-protein-production-progress-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-20240507-nbvc-n00366-in-vitro-phosphorylation-20240507-irf5-fl-dimer-in-vitro-phos-secmals-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-20240507-nbvc-n00366-in-vitro-phosphorylation-20240611-irf5-in-vitro-phosphorylation-secmals-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nbvc-n00384-20211011-nbvc-n00384-2a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nbvc-n00384-20211011-nbvc-n00384-2a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nbvc-n00384-20211011-results-nbvc-n00384-2a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20210517-necc-n00453-3a-necc-n00466-3a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20210517-necc-n00453-3a-necc-n00466-3a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20211004-necc-n00453-5a-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20211004-necc-n00453-5a-purif-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20211004-results-necc-n00453-5a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nmac-n24-n25-n26-n27-20211202-results-nmac-n00026-1a-nmac-n00027-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nmac-n24-n25-n26-n27-20211215-nmac-n00024-1a-nmac-n00025-1a-proteinpurification-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nmac-n24-n25-n26-n27-20211215-nmac-n00024-nmac-n00025-buffertable-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-target2-20201218-v1-jose-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-20211101-snf04-proteins-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-20220817-kl-purification-necc-n00846-1a-1b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-20240124-snf04-structural-bio-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-20240318-snf04-structure-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-asec-20220316-nr4a1-7788-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-asec-20220324-nr4a1-7788-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-asec-20221205-nr4a1-nr4a2-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-clones-03-04-2021-evotec-construct-design-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-clones-fl-nur77-constructs-ordered-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-commercial-sources-nur77-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-cro-protein-production-20220613-evotec-nur77-bt-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-cro-protein-production-mammalian-scouting-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-cro-protein-production-nur77-ev30273-4-insect-scouting-02-june-2021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-dsf-20210503-dsf-lit-compounds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-fab-1669888019837-268-1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-fab-20230201-necc-n21209-001b-srp2070fab-binding-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-fab-quote-u186qhj240-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-idt-dna-quotes-quoterequest-qte-95743-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-nur-77-target-evaluation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-chang-j-steroid-biochemistry-1989-isolation-and-characterization-of-human-tr3-receptor--a-member-of-the-steroid-receptor-superfamily-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-jiang-2020-bbrc-structural-basis-of-nr4a1-bound-to-the-human-pituitary-proopiomelanocortin-gene-promoter-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-munoz-tello-et-al-2020-assessment-of-nr4a-ligands-that-directly-bind-and-modulate-the-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-pnas-2002997117-sapp-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-safe-2020-molcancerres-the-paradoxical-roles-of-orphan-nuclear-receptor-4a-in-cancer-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-wang-2008-nature-structure-and-function-of-nurr1-identifies-a-class-of-ligand-independent-nuclear-receptors-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-yang-2020-pnas-blocking-ppargamma-interaction-facilitates-nur77-interdiction-of-fatty-acid-uptake-and-surpresses-breat-cancer-progression-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-zhan-et-al-2008-cytosporone-b-is-an-agonist-for-nuclear-orphan-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-rcsb-pdb-custom-report-20201221070748-nur77-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-20210430-necc-n446-1a-intactproteinreport-mass77kda-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-20210430-necc-n446-1a-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-20210430-necc-n447-1a-intactproteinreport-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-20220630-necc-n21150-n21151-n21152-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-21-03-26-necc-n448-n496-n497-smscpur-results-4-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-21-04-15-necc-n444-n445-n446-n447-smscpur-results-6-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-n446-n447-ms-summary-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-snf04-protein-production-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-sops-sop-protein-purification-nur77-lbd-necc-n00443-1a-1b-20210228-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-sops-sop-protein-purification-nurr1-lbd-necc-n00450-1a-20210228-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-sops-sop-small-scale-protein-expression-purification-test-snf04-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-target1-20201216-mcc-jose-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-2020-0723-stat6-monomer-proteins-il4ra-bofl-unlabeled-il4r-peptides-vs-tracer-summary-2hr-v2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-clone-protparameters-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-construct-design-plans-20210322-mousesnf01-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-construct-design-plans-constructdesign-03-20-2020-ordered-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-construct-design-plans-stat6-constructs-expression-purification-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200602-results-nbvc-n00139-1b-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200603-results-nbvc-n00131-1a-analyticalsizing-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200605-results-jak2-invitrophospho-phostag-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200610-results-n133-n255-invitrojak2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200622-results-nbvc-n00139-2a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200701-dsfassay-stat6-n131-nrx6729-6730-6731-6575-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200826-results-n344-smscexpr-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200929-results-nbvc-n225-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20201015-summary-jak1-cusabio-proteinqc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20201104-results-n131-invitrojak2-temp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20210112-results-dsfassay-stat6-cf-fl-cmpd-glomelt-finalslides-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20210119-results-dsfassay-stat6-cf-fl-cmpd-glomelt-finalresults-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20210416-results-nbvc-n00360-1b-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20210421-results-nbvc-n00360-1a-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20211110-results-asec-necc-n344-3a-necc-n201-2a-1252-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20211119-results-asec-necc-n344-3a-necc-n201-2a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20220518-results-asec-necc-n344-necc-n15-41-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20220531-summary-asec-necc-n344-necc-n15-41-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20220606-results-asec-necc-n344-nbvc-n349-n351-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-21-04-20-necc-n504-n508-21-04-14-necc-n504-n508-smscexpr-smscpur-protocol-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-21-04-20-necc-n504-n508-21-04-20-necc-n504-n508-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-del-screen-plans-protein-targets-per-del-wave-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-del-screen-plans-stat6-target-review-and-del-screen-plan-20200311-wks-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-hit-validation-20201218-results-dsfassay-stat6-cf-fl-cmpd-glomelt-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200410-sanoficlones-stat6-productionprogressupdate-v1-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200518-stat6-jrcslides-v2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200618-sanofi-nurix-meeting-proteinproductionupdate-dimer-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200702-stat6-dsfassay-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200804-results-nbvc-n00210-1a-purif-sh2linkerdimer-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200929-results-nbvc-n225-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20201201-results-nbvc-n131-1e-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20201202-stat6-jrcslides-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20201204-stat6-jrc-protchem-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210106-results-nbvc-n00225-1b-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210119-results-dsfassay-stat6-cf-fl-cmpd-glomelt-finalresults-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210121-summary-dsfassay-stat6-cf-fl-cmpd-glomelt-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210203-results-nbvc-n00225-3a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210304-summary-nbvc-n00225-dimer-compound-binding-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210415-snf01-internal-external-meetingnotes-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210427-results-nbvc-n00360-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210528-summary-dsfassay-stat6-cf-fl-jak1-cmpd-glomelt-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210607-dsf-methods-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210610-errorpropagation-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210610-tmshift-table-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20220330-snf01-proteinproductionsummary-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-bai-2019-cancer-cell-a-potent-and-selective-small-molecule-degrader-of-stat3-achieves-complete-tumor-regression-in-vivo-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-baudin-2013-methods-mol-biol-bacterial-expression-purification-and-crytallization-of-tyrosine-phosphorylated-stat-proteins-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-becker-et-al-1998-febs-letters-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-carrd-reversephasehplcmanual-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-danielc-2000-jbc-a-gain-of-function-mutation-in-stat6-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-dignamjd-etal-1983-nuclacidsres-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-exppurstat5b-2017-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-ferrao-2016-structure--the-structural-basis-for-class-2-cytokine-receptor-recognition-by-jak1-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-ferraoetal-2016-structure-jak1-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-haanetal-1999-jbiolchem-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-harpur-1992-oncogene-jak2-a-third-member-of-the-jak-family-of-protein-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-houj-etal-1994-science-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-hu-mcb-2015-impact-of-the-n-terminal-domain-of-stat3-in-stat3-dependent-transcriptional-activity-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-j-biol-chem--2000-daniel-14255-9-a-gain-of-function-mutation-in-stat6-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-li-pnas-2016-structural-basis-for-dna-recognition-by-stat6-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-li-pnas-2016-structural-basis-for-dna-recognition-by-stat6-si-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-liuba-etal-2017-methodsmolbiol-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-molecular-and-cellular-biology-1996-mikita-5811-full-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-molecular-and-cellular-biology-1999-john-1910-full-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-osbornl-etal-1989-immunology-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-schindler-1995-immunity-components-of-a-stat-recognition-code-jose-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-tkb1-competent-cells-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-wilson-1987-jbacteriol-overproduction-of-the-mota-protein-of-ecoli-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-expression-bv-jak2-py-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-expression-largesc-bl21-de3-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-expression-smsc-ecoli-bl21-stat5a-stat6-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-expression-smsc-ecoli-tkb1-stat6-py641-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00131-132-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00131-132-py641-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00133-134-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00133-134-py641-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00139-denaturing-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00139-py641-denaturing-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00139-py641-soluble-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00139-soluble-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00142-py694-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00212-denaturing-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00212-py641-denaturing-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00212-py641-soluble-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00212-soluble-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00215-denaturing-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00215-py641-denaturing-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00215-py641-soluble-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00215-soluble-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00216-255-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00216-255-py641-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00253-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00253-py641-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00254-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00254-py641-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-smscpur-kingfisher-n216-n254-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-template-sop-protein-purification-nbvc-n00037-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-stat6-protein-production-progress-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-wave1-stat6-plan-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-protein-sciences-updates-protein-science-update-01122023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-protein-sciences-updates-protein-science-update-03012023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-protein-sciences-updates-protein-science-update-11162022-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-avi-isg15-usp18-16-372-ncmp-n20044-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-avi-isg15-usp18-16-372-ncmp-n20044-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-bavi-usp18-49-372-nbvc-n20882-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-c-isg15-necc-n21540-21541-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-isg15-avi-necc-n21307-08-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-isg15-avi-necc-n21308-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-isg15-his-necc-n21308-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-musp18-46-368-nbvc-n20885-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20875-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-1b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-2a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-4a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-5a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-49-371-y50l-m370t-e371g-nbvc-n20998-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-49-372-nbvc-n20876-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-fl-nbvc-n20877-2a-nbvc-n20874-3a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-fl-nbvc-n20878-1a-nbvc-n20871-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n20999-1a---nbvc-n21002-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n21000-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n21000-5a-and-tcf-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n21003-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n21144-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18m-nbvc-n21135-1a-b-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18m-nbvc-n21136-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp25-necc-n21242-55-1a-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-usp18-target-eval-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn02---bcl-results-20231211-necc-n21615-001a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn02---bcl-results-20231211-necc-n21626-001a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn02---bcl-results-20240108-necc-n21635-001a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-2025-08-14-atr-structuralbio-discussion-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-2025-08-20-sgn03-designed-constructs-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-20251118-clone-order-list-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-20260410-sgn03-biortus-protein-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-nurix-project-report-plasmid-design-20250912-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-t4-ligase-09-16-2019-n140-n143-small-scale-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-t4-ligase-191009-nurix-ligase-exonuclease-evaluation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-t4-ligase-smscpur-necc-n140-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-tech-dev---lysate-screen-20230421-mycpartnersprojectv2-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-tech-dev---lysate-screen-lysate-studies-flow-chart-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-tev-2018-09-13-necc-n00038-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-tev-20200720-results-necc-n00038-2a-proteinpurification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-tev-tropea-2009-methods-mol-biol---expression-and-purification-of-soluble-his6-tagged-tev-protease-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-tp53-20260316-tp53-onboarding-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-projects-tp53-20260319-tp53-delps-considerations-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-20250721-new-targets-for-del-ps-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-04-09-2021-del-aurora-protein-supply-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-20220602-ternary-complex-assay-calc-anx-crbn-corrected-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-20240212-auroraa-mycn-complex-alsf-meeting-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-anx-sample-description-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-a-del-screen-target-review-20200914-wks-pptx-2020-09-22-17-41-51-133416-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-a-reagents-for-spr-20210728-wks-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-proteins-and-mycn-inventory-aurora-anx-and-mycn-inventory-jan22-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-proteins-and-mycn-inventory-aurora-anx-and-mycn-inventory-jan22-2024-updated-with-barcoded-rack-info-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-aurora-proteins-and-mycn-inventory-aurora-anx-inventory-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-e-coli-expressed-mycn-peptide-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-20240130-auroraa-mycn-complex-hit-validation-plan-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-20240212-auroraa-mycn-complex-alsf-meeting-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-anx-del-hit-probes-validation-002-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-auroraa-mycn-complex-hit-validation-timeline-alsf-meeting02122024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-auroraa-pankinase-del-hit-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-hit-validation--auroraa-mycn-dr-biochemical-assay---individual-batch-results-2023-12-18-17-26-32-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-kyle-denton-04-05-2021-aurka-pulldown-with-mycn-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-adhikari-2020-natchembiol-protac-mediated-degradation-reveals-a-non-catalytic-function-of-aurora-a-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-adhikari-2020-natchembiol-protac-mediated-degradation-reveals-a-non-catalytic-function-of-aurora-a-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-alsf-mycn-012120-final-redacted-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-brockmann-2013-cancercell-small-molecule-inhibitors-of-aurora-a-induce-proteosomal-degradation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-burgess-2015-actacryst-the-structure-of-c290a-c393a-aurora-a-provides-structural-insights-into-kinase-regulation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-burgess-2016-open-biology-allosteric-inhibition-of-aurora-a-kinase-by-a-synthetic-vnar-domain-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-dauch-2016-nature-medicine-a-myc-aurora-kinase-a-protein-complex-represents-an-actionable-drug-target-in-p53-altered-liver-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-fancelli-2005-jmedchem-potent-and-selective-auroraa-inhibitors-identified-by-the-expansion-of-a-novel-scaffold-for-protein-kinase-inhibition-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-fancelli-2005-jmedchem-potent-and-selective-auroraa-inhibitors-identified-by-the-expansion-of-a-novel-scaffold-for-protein-kinase-inhibition-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-figure-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-mclaren-2012-jbiomolscreen-automated-large-scale-culture-and-medium-through-throughput-chemical-screen-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-mosse-003-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-otto-2009-cancer-cell---stabilization-of-n-myc-is-a-critical-function-of-aurora-a-in-human-neuroblastoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-richards-pnas-2016-structural-basis-of-n-myc-binding-by-aurora-a-and-its-destabilization-by-kinase-inhibitors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-richards-pnas-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-seychelle-vox-paf1c-paper-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-structural-basis-of-n-myc-binding-by-aurora-a-and-its-destabilization-by-kinase-inhibitors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-structural-basis-of-n-myc-binding-by-aurora-a-and-its-destabilization-by-kinase-inhibitors-supplemental-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-wolpaw-2021-cancerresearch-drugging-the-undruggale-mycn-oncogenic-transcription-factor---overcoming-previous-obstacles-to-impact-childhood-cancers-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-literature-zorba-2019-pnas-allosteric-modulation-of-a-human-protein-kinase-with-monobodies-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-20220513-alsf-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-20220909-auroraa-project-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-20221012-alsf-rec-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-20230119-auroraa-rec-meeting-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meeting-presentations-alsf-foundation-crazy-8-summit-2024--discovery-of-auroraa-mycn-complex-specific-ligands-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20211012-aurora-meeting-protein-production-update-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20211206-aurora-meeting-protein-production-update-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20211206-aurora-meeting-protein-production-update-3-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220209-aurora-meeting-protein-production-update-3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220209-aurora-meeting-protein-production-update-4-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220217-aurora-meeting-protein-production-update-1pptx-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220502-aurora-meeting-update-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-meetings-protein-production-updates-20220609-aurora-meeting-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-expression-screen-constructs-mycn-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-expression-screen-mbp-mycn-1-154-protein-purification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-expression-screen-mycn-overexpression-and-del-screen-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-certificate-of-origin-1002858-1002859-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-in-house-ms-results-20221118-nmyc-k544-100pmol-intactproteinreport-v2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-in-house-ms-results-20221118-nmyc-k545-100pmol-intactproteinreport-v2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102544-no-bio-malpropyl-k102544-coa-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102544-no-bio-malpropyl-k102544-lc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102544-no-bio-malpropyl-k102544-ms-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102545-biotinylated-malpropyl-k102545-coa-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102545-biotinylated-malpropyl-k102545-lc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-innopep-k102545-biotinylated-malpropyl-k102545-ms-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-n-myc-peptides-for-ms-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-63501-and-63502-63501-nmyc-nonbiotinylated-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-63501-and-63502-63502-nmyc-biotinylated-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-65408-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-65409-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-certificate-of-origin-1002858-1002859-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-commercial-invoice-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65408-and-65409-tsca-certification-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-65410-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-65411-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-certificate-of-origin-1002858-1002859-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-commercial-invoice-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-65410-and-65411-tsca-certification-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-commercial-invoice-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-in-house-ms-results-20221118-nmyc-ps408-100pmol-intactproteinreport-v2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-in-house-ms-results-20221118-nmyc-ps409-100pmol-intactproteinreport-v2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-in-house-ms-results-20221118-nmyc-ps410-100pmol-intactproteinreport-v2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-in-house-ms-results-20221118-nmyc-ps411-100pmol-intactproteinreport-v2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-nmyc-peptides-info-sheet-peptide-synthetics-tsca-certification-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-pc-qc-05-2021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-alsf-06192023-anx-crbn-ddb1-sec-tcf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-alsf-06192023-anx-crbn-ddb1-ternary-complex-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-anx-crbn-ddb1-ternary-complex-results-summary-030212023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-anx-crbn-ddb1-ternary-complex-results-summary-final-03012023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-ternary-complex-anx-crbn-anx-crbn-ddb1-ternary-complex-update-02172023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-alsf-tycho-aurora-kd-and-fl-nrx4505-and-nrx6715-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-07-19-nbvc44---nbvc46-smscpur-autosaved-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-07-19-nbvc44---nbvc46-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-01-smscpur-n29-37-2-37-3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-02-smscpur-moi-n44-46-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-10-mb204-moi-cell-line-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-10-n30-n46-moi-smscpur-column-phy-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-21-smscpur-p2-virus-nbvc42-69-71-74-75-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-08-27-smscpur-n47-n50-n60-n61-moi-n78-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-03-smscpur-n47-n50-n72-n77-n79-n85-n86-n90-mb183-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-03-smscpur-n47-n50-n72-n77-n79-n85-n86-n90-mb183-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-06-smscpur-p2-moi-n47-n50-n72-n78-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-09-smscpur-p2-n52-55-79-85-90-92-94-96-100-102-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-09-smscpur-p2-n52-55-79-85-90-92-94-96-100-102-revised-ea-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-13-smscpur-n52-55-71-77-84-86-mb183-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-25-smscpur-n47-2-48-2-50-2-54-56-87-91-92-97-100-m183-updated-9-30-19-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-27-smscpur-moi-n85-100-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-09-30-smscpur-n49-2-52-2-71-72-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-02-smscpur-n51-moi-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-07-smscpur-n56-57-75-78-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-08-n91-n92-analysis-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-08-smscpur-p2-n76-85-90-98-100-largscexp-101-1-102-1-mb204-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-10-comparison-n86-n91-n84-n92-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-10-11-smscpur-p2-77-79-84-94-96-98-lascexp-51-85-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-11-04-smscpur-n49-2-55-60-71-2-72-2-88-91-96-98-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-11-05-smscpur-n96-moi-n104-p2-n104-moi-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-11-06-smscpur-n30-37-42-42-08-89-76-105-mb204-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-bv-small-scale-purifications-2019-11-08-smscpur-n30-5-37-4-60-2-n92-moi-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-cruk-collaboration-programs-alk-qc-reports-20241112-20241112-alk-nurix-qc-reports-final-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-cruk-collaboration-programs-alk-qc-reports-20250421-20250418-alk-nurix-qc-report-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-01-13-2019-sizing-b-catenin---e-cadherin-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-2020-0729-betacatenin-onmb-probe-pulldown-ked-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-b-catenin-protein-production-request---genscript-fte-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-constructs-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-cro-reports-u428mfe150-1--9-gel-shift-06242020-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-cro-reports-u428mfe150-11-necc-n00148-protein-coa-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-cro-reports-u428mfe150-3-necc-n00115-protein-coa-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-cro-reports-u428mfe150-5-necc-n00145-purification-result-06242020-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-hit-validation-dsf-b-catenin-071921-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-hit-validation-dsf-b-catenin-nrx-0401052-060821-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-hit-validation-dsf-n115-5a-compounds-010521-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-literature-matt-biochemj-2004-the-cbp-p300-taz1-domain-in-its-native-state-is-not-a-binding-partner-of-mdm2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-literature-nyborg-biochemj-2004-that-zincing-feeling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-literature-xing-cell-press-2007-crystal-structure-of-a-fl-b-catenin-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-n132-n133-expression-lab-services-2020-06-26-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-patents-wo2021055936-lee-moffitt-cancer-center-b-catenin-mar-25-2021-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-010521-gld03-dsf-literature-compounds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-01152020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-02072020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-02282020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-03092021-gld03-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-03252020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-04032020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-04292020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-05042021-gld03-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-08-05-2021-gld03---protein-complexes-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-08112021-gld03-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-08212019-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-082620-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-09102019-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-09272019-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-09292020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-10132020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-10172019-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-10302020-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-11152019-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-12032019-b-catenin-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-dls-b-catenin-082620-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-dsf-b-catenin-071921-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-protein-production-updates-dsf-dls-b-catenin-tests-072320-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-2b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-5b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-6a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000115-6b-c-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000132-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000133-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000133-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000145-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000145-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000145-5b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000147-1a-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n000804-805-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n00429-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n00670-671-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n00671-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n00672-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20171-001a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20171-002a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20452-001a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20511-001a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n20801-1c-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21145-1b-21144-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21332-19a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21332-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21348-49-1a-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21818-001a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21819-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purification-sop-sop-protein-purification-b-catenin-arm-domain-necc-n21866-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-010920-largescalepurification-n115-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-010920-largescalepurification-n115-4a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-011320-largescalepurification-n145-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-011320-largescalepurification-n145-3a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-011320-largescalepurification-n148-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-011320-largescalepurification-n148-2a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-081219-largescalepurif-n114-1a-n115-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-081219-largescalepurif-n114-1a-n115-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-081919-largescalepurif-n114-2a-3a-n119-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-081919-largescalepurif-n114-2a-3a-n119-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-082119-largescalepurif-n117-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-082219-largescalepurif-n116-1a-118-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-090419-largescalepurif-n120-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-purifications-10-09-2019-b-catenin-del-screen1-protein-delivery-jose-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-recap-b-cathenin-project-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-ma-frm-00092--sample-submission-form--sec-mals-gld03-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-necc-n00115-6a-100220-protein-report-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-necc-n00145-5a-100220-protein-report-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-nurix-tr21-0156-analysis-of-samples-necc-noo115-6a-and-necc-noo145-5a-by-sec-malls-final-21may21-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-sec-mals-proteins-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-tr21-0156-prj-31855-sec-malls-retest-data-210415-1701-clb-002-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-tr21-0156-sec-malls-nurix-31855-210427-0805-clb-cs-clb-klt-clb-1750-klt-28apr21-clean-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-sec-mals-tr21-0156-sec-malls-preliminary-data-210405-1840-clb-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-slide-b-catenin-xtal-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-table-b-catenin-cro-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-ternary-complex-formation-xtal-tcf-details-bcatenin---082024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-ternary-complex-formation-xtal-tcf-for-xtal---06202024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-beta-catenin---gld03-ternary-complex-formation-xtal-tcf-for-xtal---08122024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-04102022-cdk-expression-plan-priorities-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20220809-necc-n00585-1a-phosphorylation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20220817-nbvc-n00585-1a-ion-exchange-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20230323-cdk12-cdk13-cak1-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20230410-cdk12-cdk13-cak1-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20230418-cdk12-cdk13-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-20230420-cdk12-cdk13-cak1-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-cdk12-target-eval-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-clone-updates-jsantos-nurixtx-com-20220412091016-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-commercial-proteins-20220330-gld07-commercial-proteins-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-ayaz-2016-acschembiol-conformational-adaptation-may-explain-the-slow-dissociation-kinetics-of-roniciclib-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-baumli-2008-embo-the-structure-of-p-tefb-cdk9-cyclin-t1-its-complex-with-flavopiridol-and-regulation-by-phospharylation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-baumli-2012-acschembiol-the-cdk9-c-helix-exhibits-conformational-plasticity-that-may-explain-the-selectivity-of-can508-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-blazek-2011--pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-blazek-2011-genes-development-the-cyclin-k-cdk12-complex-maintains-genomic-stability-via-regulation-of-expression-of-dna-damage-response-genes-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-bosken-2014-natcom-the-structure-and-substrate-specificity-of-human-cdk12-cyclin-k-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-dieter-2021-cellreports-degradation-of-ccnk-cdk12-is-a-druggable-vulnerability-of-colorectal-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-fan-2022-scienceadvances-cdk13-cooperates-with-cdk12-to-control-global-rna-polymerase-ii-processivity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-greifenberg-2016-cell-structural-and-functional-analysis-of-the-cdk13-cyclinn-k-complex-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-jiang-2021-eurjmedchem-structure-activity-relationship-study-of-thz531-derivatives-enables-the-discovery-of-bsj-01-0175-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-jiang-2021-natchembiol-discovery-and-resistance-mechanism-of-a-selective-cdk12-degrader-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-liang-2020-cells-a-potent-target-and-biomarker-for-human-cancer-therapy-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-lolli-2004-structure-the-crystal-structure-of-human-cdk7-and-its-protein-recogntion-properties-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-minzel-2018-cell-small-molecules-co-targeting-ckia-and-the-transcriptional-kinases-cdk79-control-aml-in-preclinical-models-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-myers-2021-jmedchem-synthetic-lethality-through-the-lens-of-the-medicinal-chemistry-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-peissert-pnas-2020-structural-basis-for-cdk7-activation-by-mat1-and-cyclinh-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-peissert-pnas-2020-structural-basis-for-cdk7-activation-by-mat1-and-cyclinh-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-pelin-2020-conformational-adaptation-may-explain-the-slow-dissociation-kinetics-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-pilarova-2020-narcancer-cdk12-cellular-functions-and-therapeutic-potential-of-versatile-player-in-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-slabicki-2022-nature-the-cdk-inhibitor-cr8-acts-as-molecular-glue-degrader-that-deplets-cyclin-k-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-swaffer-2016-cell-cdk-substrate-phosphorylation-and-ordering-the-cell-cycle-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-zhang-2022-amjcancerres-cdk-inhibitors-in-cancer-therapy-an-overview-of-recent-development-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-literature-zhang-natchembiol-2016-covalent-targeting-of-remote-cysteine-residues-to-develop-cdk12-and-cdk13-inhibitors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-protein-production-updates-20220524-gld07-protein-production-kl-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220624-kl-purification-nbvc-n00625-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220706-kl-purification-nbvc-n00627-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220707-kl-purification-nbvc-n00567-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220914-kl-purification-nbvc-n20849-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-purifications-20220928-kl-purification-necc-n21258-001a-n21259-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk12-cyck1-nbvc-n00580-nbvc-n00565-20220422-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk12-cyck1-nbvc-n00585-nbvc-n00618-20220422-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk13-cyck1-nbvc-n00627-nbvc-n00618-20220422-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk9-cyck1-nbvc-n00625-nbvc-n00618-20220422-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cdk9-cyct1-nbvc-n00614-nbvc-n00611-20220422-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cyck1-nbvc-n00566-20220422-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-cdk12-gld07-sops-sop-protein-purification-cyck1-nbvc-n00567-20220422-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-01-14-2020-hpk1-protein-chemistry-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-01-14-2020-hpk1-successful-expressions-info-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-01-14-2020-hpk1-successful-expressions-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-01-15-2020-hpk1-protein-production-meeting-at-gilead-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-2019-10-15-hpk1-constructs-proposal-v2-jose-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-2019-10-15-hpk1-constructs-proposal-v2-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-2019-11-22-hpk1-prosci-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200309-hpk1-nt-test-admin-2020-03-09-17-16-14-br009234---melt-curve-rfu-results-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200618-hpk1constructs-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200730-hpk1-expression-purification-genscript-request-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200805-results-nbvc-n00091-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20200817-hpk1-aa-kd-probe-pulldown-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20201204-hpk1planning-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-20210914-results-nbvc-n00086-5b-nbvc-n00102-5b-tycho-cmpds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-del-screen-hpk1-target-review-and-del-screen-plan-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-genscript-n86-n91-n96-n102-expression-evaluation-of-co-expression-with-bira-report-01232020-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-hr-hpk1-ligandhrsummary-20210205-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-literature-chenetal-oncogene-1999-hpk1caspaseddvd-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-literature-johnsonetal-jbc-2019-hpk1wt-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-literature-wuetal-structure-2019-hpk1structureinadomainswappeddimer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-massspec-analysis-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-mbp-glk-sequence-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-netoglyc-4-0-server---prediction-results-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-01-hpk1-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-01-protein-production-hpk-update-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-16-hpk1-protein-production-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-16-hpk1-protein-production-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-16-hpk1-protein-production-update-v3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-10-16-hpk1-protein-production-updatev2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2019-12-12-hpk1-protein-availability-bill-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-2020-02-10-hpk1-protein-production-update-emily-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200228-hpk1-proteinpurification-proteinsciences-b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200312-hpk1-proteinpurification-proteinsciences-v2-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200312-hpk1-proteinpurification-proteinsciences-v3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200424-hpk1-proteinpurification-proteinsciences-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20200807-results-hpk1proteinproductionupdate-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20210112-results-nbvc-n00098-4b-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-20220201-results-hpk1-tc-dsf-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-production-updates-protein-production-hpk-update-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-qc---lead-discovery-01-02-2020-hpk-ps-protein-qc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-protein-qc---lead-discovery-hpk-ps-protein-qc-binding-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20211124-results-asec-nbvc-n00163-2a-nbvc-n00005-nbvc-n00025-6b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20211207-results-asec-nbvc-n163-n5-n25-n349-n351-pulldown-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20211213-results-dls-nbvc-n163-n5-n25-n349-n351-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20220203-results-hpk1-tc-proteinsciencesupdate-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20220211-results-hpk1-tc-dsf-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20220331-results-asec-nbvc-n00503-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-results-20220527-results-asec-nbvc-n00503-1b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-20211206-ternarycomplextesting-kingfisher-nbvc-n00163-nbvc-n00005-25-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-nbvc-n00163-20201116-nbvc-n00163-3b-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-nbvc-n00163-20201117-results-nbvc-n00163-3b-proteinpurification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-nbvc-n00163-20201117-sop-nbvc-n00163-3b-hpk1-2-293-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-nbvc-n00163-20201117-sop-nbvc-n00163-3b-hpk1-2-293-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-sop-protein-purification-nbvc-n00086-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-sop-protein-purification-nbvc-n00096-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-sop-protein-purification-nbvc-n00098-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-hpk1---gld02-sops-sop-protein-purification-nbvc-n00102-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-irak4---gld01-050620-irak4kd-asms-hit-validation-v2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-irak4---gld01-2019-08-10-n30-n46-moi-smscpur-column-phy-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-irak4---gld01-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-irak4---gld01-sops-sop-protein-purification-irak4-kd-xtal--nbvc-n00037-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-2019-08-30-smscpur-neec-n121-n135---n139-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-2020-01-09-1618pst-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-20200624-kras-expression-purification-genscript-request-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-20200629-kras-expression-purification-genscript-request-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-2021-01-19-dls-20210119-dls-dmso-runtimetest-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-2021-01-19-dls-20210119-dls-nrx-0396639-0396696-0396697-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-dsf-20200618-20200615-kras-dsf-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-kras-tev-gmp-pnp-exchange-calculations-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-ahmadian-1999-pnas-guanosine-triphosphatase-stimulation-of-oncogenic-ras-mutants-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-christensen-targeting-kras-g12c-mutant-cancer-with-a-mutation-specific-inhibitor-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-dharmaiah-2019-scientific-reports-structures-of-n-terminally-processed-kras-provide-insight-into-the-role-of-n-acetylation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-expression-purification-molcancerresearch-2015-biochemical-and-structural-analysis-of-common-cancer-associated-kras-mutations-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-expression-purification-nature-22-2013-g12c-effectorinteractions-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-hunter-pnas-2014-in-situ-selectivity-profiling-and-crystal-structure-of-sml-8-73-1-an-active-site-inhibitor-of-oncogenic-k-ras-g12c-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-hunter-pnas-2014-in-situ-selectivity-profiling-and-crystal-structure-of-sml-8-73-1-an-active-site-inhibitor-of-oncogenic-k-ras-g12c-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-john-1990-biochemistry-kinetics-of-interaction-of-nucleotides-with-nucleotide-free-h-ras-p21-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-johnson-data-in-brief---2016---expression-purification-crystallization-and-x-ray-data-collection-for-ras-and-its-mutants-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-johnson-jbc-2017-the-small-gtpases-k-ras-n-ras-h-ras-have-distinct-biochemical-properties-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kessler-pnas-2019-druggin-an-undrugabble-pocket-on-kras-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-20210224-gld05-alternatescreeningstrategies-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-20210224-gld05-alternatescreeningstrategies-v2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-dharmaiah-2016-pnas-structural-basis-of-recognition-of-farnesylated-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-dharmaiah-2016-pnas-structural-basis-of-recognition-of-farnesylated-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-gillette-2015-scientific-reports-farnesylated-and-methylated-kras4b---high-yield-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-hillig-2019-pnas-discovery-of-potent-sos1-inhibitors-that-block-ras-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-hillig-2019-pnas-discovery-of-potent-sos1-inhibitors-that-block-ras-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-pacold-2000-cell-crystal-structure-and-functional-analysis-of-ras-binding-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-piis0092867400001963-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-rabara-2019-pnas-kras-g13d-sensitivity-to-neurofibromin-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kras-complexes-rabara-2019-pnas-kras-g13d-sensitivity-to-neurofibromin-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kulakowski-traffic-2018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-kulakowski-traffic-2018-sd-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-maurer-pnas-2012-small-molecule-ligands-bind-to-a-distinct-pocket-in-ras-and-inhibit-sos-mediated-nucleotide-exchange-activity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-maurer-pnas-2012-small-molecule-ligands-bind-to-a-distinct-pocket-in-ras-and-inhibit-sos-mediated-nucleotide-exchange-activity-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-meth-mol-bio-gtp-exchange-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-molcancerresearch-2015-biochemical-and-structural-analysis-of-common-cancer-associated-kras-mutations-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-literature-pai-1990-embo-refined-crystal-structure-of-the-triphosphate-conformation-of-hras-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-nanodiscs-tests-01-09-20-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-nucleotide-exchange-protocols-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-sops-07-16-2020-necc-n00302-1a-sop-protein-purification-kras-gdp-crystallography-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-sops-sop-protein-purification-kras-g12d-gdp-and-gmp-pnp-for-asms-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-sops-sop-protein-purification-kras-gdp-and-gmp-pnp-for-lead-discovery-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-kras---gld05-sops-sop-protein-purification-kras-gdp-crystallography-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-07-25-2020-pnpla3-2-xtalization-constructs-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-09-29-2020--pnpla-construct-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-11-03-2020-pnpla3-321h-qc-report-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-2-pnpla3-protein-purif-update-032521-pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-2-pnpla3-protein-purif-update-081320--pnpla3-protein-science-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-2-purifications-20-11-10-nbvc-n193-anti-flag-wb-strep-shift---entire-gel-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-2-purifications-20-11-10-nbvc-n193-anti-flag-wb-strep-shift-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-20200605-pnpla3-hit-conformation-workflow-v4-with-comments-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-20200623-pnpla3-in-vivo-planning-gileadwg-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-activity-assays-2019-1113-abcam-lpl-activity-assay-lsbio-pnpla3-in-house-pnpla3-fl-wt-vs-mt-37c-time-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-activity-assays-2019-1205-abcam-lpl-activity-assay-lsbio-pnpla3-in-house-pnpla3-2-fl-wt-vs-mt-37c-time-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-activity-assays-2020-0122-ddgr-lipase-activity-assay-pnpla3-in-house-pnpla3-wt-vs-i148m-s47a-mt-rt-time-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-ddm-bog-exchange-030421-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-e-coli-smscex-20-10-22-necc-n282-n283-n284-n296-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-e-coli-smscex-20-10-23-necc-n285-n286-n287-smscpur-attempt1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-e-coli-smscex-20-10-28-necc-n285-n286-n287-smscpur-attempt2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-dsf-n71-7a-010621-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-dsf-pnpla3-results---082120-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-dsf-pnpla3-update-072120-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-dsf-pnpla3-update-081120-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-hit-validation-pnpla3-constructs-hit-validation-062620-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-kick-off-meeting-with-prof-olzmann-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-list-constructs-pnpla3-project-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-a-sequence-variation-i148m-in-pnpla3-associated-with-nonalcoholic-fatty-liver-disease-disrupts-triglyceride-hydrolysis-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-basuray-adipocyte-2019-pnpla3-i148m-a-problem-of-plenty-in-non-alcoholic-fatty-liver-disease-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-basuray-pnas-2019-accumulation-of-pnpl3-on-lipid-droplets-is-the-basis-of-associated-hepatic-steatosis-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-gimenez-andres-et-al-2018-biomolecules-the-many-faces-of-amphipathic-helices-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-j-biol-chem--2002-tauchi-sato-44507-12-lipid-droplet-lipid-composition-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-kory-2016-trendscellbiol-targeting-fat---mechanisms-of-protein-localization-to-lipid-droplets-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-kory-trends-cell-biol-2016-targeting-fat---mechanisms-of-protein-localization-to-lipid-droplets-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-malley-2010-biophysj-the-morphology-and-composition-of-cholesterol-rich-micellar-nanostructures-determine-transmenbrane-gpcr-act-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-murugesan-et-al-2013-plos-one-identification-of-diverse-lipid-droplet-targeting-motifs-in-the-pnpla-family-of-triglyceride-lipases-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-pataki-2018-pnas-proteomic-analysis-of-monolayer-integrated-proteins-on-lipid-droplets-identifies-amphipathic-interfacil-alpha-h-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-payandeh-2021-natdrugdisc-ligand-binding-at-the-protein-lipid-interface-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-literature-wang-et-al-2019-hepatology-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-nmx-sample-information-form-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-plan-pnpla3-02-20-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-constructs-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-012123--pnpla3-protein-purification-jrc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-021020--pnpla3-protein-purification-update-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-021020--pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-022420--pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-022521-pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-030920--pnpla3-protein-purification-update-slide-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-031621-pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-032521-pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-040821-pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-080420--pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-09-23-2019-pnpla3-protein-production-update-new-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-10-18-2019-pnpla3-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-100720--pnpla3-protein-science-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-11-26-2019--pnpla3-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-110320--pnpla3-protein-science-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-110519-pnpla3-proteine-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-113020--pnpla3-protein-purification-jrc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-121019--pnpla3-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-pnpla3-protein-purif-update-pnpla3-asec-assay-11-22-21-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-proteins-inventory-04-13-2021-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-1-384-nbvc-n00193-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-1-384-nbvc-n00193-2b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-1-384-nbvc-n00193-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-1-384-nbvc-n00193-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla2-nbvc-n00051-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m--gfp-nmac-n00010-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-cgi58-nbvc-n00251-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00055-2a-61-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-10a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-6a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-7a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-9a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n00071-9b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n20559-9a-n71-8a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n370-371-372-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n379-2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-i148m-nbvc-n379-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-nbvc-n00060-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-nbvc-n00060-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-necc-n00284-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-necc-n00284-286-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-necc-n00284-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-necc-n00286-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purification-sop-sop-protein-purification-pnpla3-s47a-nbvc-n00072-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purifications-20-11-10-nbvc-n193-3a-lysate-anti-flag-wb-strep-shift--purification-strep-shit-genscript-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purifications-20-11-10-nbvc-n193-3a-lysate-anti-flag-wb-strep-shift--purification-strep-shit-genscript-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-pnpla3---gld04-purifications-gel-purification-nbvc-n00193-3a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-20211015-request-necc-n00544-1b-for-crystallography-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-clones-05-05-2021-smarca-project-clones-ordered-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-external-presentations-2021-aacr-prelude-smarca2-degrader-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-mouse-vhl-clone-design2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200712-gld06-final-protein-production-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200712-update-gld06-protein-production-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200712-update-gld06-protein-production-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200714-gld06-protein-production-updated-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200721-gld06-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20200815-gld06-team-meeting-protein-production-3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-protein-production-updates-20210903-gld06-int-meeting-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-farnaby-2019-ncb-baf-complex-vulnerabilities-in-cancer-demonstrated-via-structure-based-protac-design-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-filippakopoulos-cell-2012-histone-recognition-and-large-scale-structural-analysis-of-the-human-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-filippakopoulos-cell-2012-histone-recognition-and-large-scale-structural-analysis-of-the-human-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-filippakopoulos-nature-2010-selective-inhibition-of-bet-bromodomains-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-gerstenberger-2016-jmedchem-identification-of-a-chemical-probe-for-family-viii-bromodomains-through-optimization-of-a-fragment-hit-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-kadoch-biochemistry-2016-prc2-and-swi-snf-chromatin-remodeling-complexes-in-health-and-disease-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-kargbo-medchemlett-2020-smarca2-4-protac-for-targeted-protein-degradation-and-cancer-therapy-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-ryvu-smarca2-aacr-2020-poster-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-sutherell-2016-jmedchem-identification-and-development-of-2-3-dihydropyrrolo-with-dsf-traces-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-publications-wanior-et-al---2021---exploiting-vulnerabilities-of-swisnf-chromatin-re-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-sequence-analysis-and-compounds-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-gilead-collaboration-programs-smarca2-gld06-sequence-analysis-compounds-proteins-for-purchase-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-20241108-myc-mycn-clones---copy-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-fl-expression-genscript-genscript-20240305-request-u3846389g0-4-necc-n21543-draft-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-july2025-mycnfl-maxwt-large-scle-complex---copy-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-06nov2023-necc-n21474-02a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-08onov2023-necc-n21473-003a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-10oct2023-necc-n21473-002a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-12sep2023-necc-n21473-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-14nov2023-necc-n21473-004a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-17oct2023-necc-n21470-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-20nov2023-necc-n20104-002a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-20nov2023-necc-n20105-001-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-21sep2023-necc-n21474-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-23jan2024-necc-n21641-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-25oct2023-necc-n21596-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-28sep2023-necc-n21475-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-29april2025-mycn-max-large-scale-complex-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-29jan2024-necc-n21643-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-30july2024-mycnwt-maxmut-large-scale-complex-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-31oct2023-necc-n20104-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-9jan2024-necc-n21694-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-jan2025-mycnfl-max-small-scale-complex-test-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-mycn-purification-results-files-july2025-mycnfl-maxwt-large-scle-complex-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-20250701-delps-i-itargets-overview-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-araf-20251113-bps-40010-lot-251024-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-araf-20251121-bps-40010-lot-251113-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-araf-clones-quote-u695s352g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-arid1b-largescalepurification-necc-n21886-001a-necc-n21888-001a-020525-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-auroraa-auroaa-sec-qc-05-2021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-braf-cloning-quote-u695s352g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-braf-purification-sop-sop-protein-purification-nbvc-n21207-1a-07312024-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-braf-purification-sop-sop-protein-purification-necc-n20277-1a-07102024-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-braf-purification-sop-sop-protein-purification-necc-n21853-1a-10012024-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-011223-materials-methods-btk-fl-kd-purification-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-2018-12-12-nbvc-n00023-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-20210827-results-btk-nrx-03993917-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-20210910-results-btk-nrx-03993917-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-btn-lyna-product-information-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-btn-syk-product-information-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-hck-product-information-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-ilk-product-information-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-lyna-product-information-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-ilk-syk-lyn-supplier-product-information-syk-product-information-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-hck-lyn-syk-ilk-proteins-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-phosphorylation-states-btk-fl-and-kd-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-activation-of-brutons-tyrosine-kinase-by-a-pont-mutation-immunity-1995-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-activation-of-btk-by-phosphorylation-science1996-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-btk-fl-nmr-structure-2018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-btk-full-length-expression-bv-embo-2003-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-elife06074-btk-fl-model-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-from-identification-of-the-btk-kinase-to-effective-oncogene2017-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-in-silico-identification-of-novel-jmedchem2018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-putting-on-the-brakes-regulatory-kinases-review-frontiers-immunology-2018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-seeliger-et-al-2005-protein-science-bl21de3-yoph-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-simultaneous-protein-expression-and-modification-jbt2010-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-publications-wang-2022-nejm-mechanisms-of-resistance-to-noncovalent-brutons-tyrosine-kinase-inhibitors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20572-n20833-n20834-n20834-n20839-n20840-n20841-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20822-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20828-20831-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20830-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20831-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n20832-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-fl-nbvc-n650-651-655-656-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-kd-nbvc-n20865-n20866-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-kd-nbvc-n20870-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-kd-nbvc-n20941-42-43-44-45-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btk-purification-sop-sop-protein-purification-btk-kd-nbvc-n20946-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20170731-del-protein-btrcp-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20201116-results-necc-n00266-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210202-results-necc-n00266-1b-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210203-results-necc-n00266-1b-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210428-necc-n00416-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210702-necc-n00539-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-20210714-necc-n00539-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-21-1-21-necc-n411-n416-n266-attempt2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-necc-n00266-1-purification-btcrp-skp1-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-purification-btcrp-skp1-protocol---kyle-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-sop-protein-purification-btrcp---necc-n00416-1a---20210405-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-btrcp-sop-protein-purification-btrcp-skp1--necc-n00266-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-062719del-hitresynthesis-ccbl-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-080719-largescalepurification-cbl-b-n43-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-080719-largescalepurification-cbl-b-n43-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-closed-state-avi-cbl-b-purification-kd-js-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-dsf-20231023-necc-n21469-007a-dsf-compounds-sop-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-dsf-20231219-necc-n21469-007a-dsf-peptide-sop-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-open-state-avi-pcbl-b-expression-purification-kd-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-pamt-constructs-for-sequence-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cbl-b-sop-protein-expression-cbl-b-necc-n21469-20230627-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-20220321-cish-protein-production-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-20220405-cish-construct-expression-summary-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-20220614-cish-protein-production-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-20221028-cish-protein-production-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-cish-construct-design-20200730-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-cish-construct-list-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-del-screen-plans-20220818-cish-dsp-tables-kl-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-dsf-20220812-ncmp-n20025-1b-peptide-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-ligandability---early-discovery-meeting-04062023-1-kl-ns-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-aman-1999-jbc-cis-associates-with-the-interleukin-2-receptor-b-chain-and-inhibits-il2-signaling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-cis-is-a-potent-checkpoint-in-nk-cell-mediated-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-guittard-et-al-2018-the-cish-sh2-domain-is-essential-for-plc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-lavens-et-al-2007-the-c-terminus-of-cis-defines-its-interaction-pattern-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-louis-et-al-2020-nk-cell-derived-gm-csf-potentiates-inflammatory-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-morris-et-al-2018-protein-science-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-palmer-et-al-2015-j-exp-med-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-piessevaux-et-al-2008-the-many-faces-of-the-socs-box-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-literature-zhu-et-al-2020-cell-stem-cell-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-peptides-quote-u0393hb230-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-peptides-quote-u767ygj130-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-peptides-quote-u767ygj130-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-aman-1999-jbc-cis-associates-with-the-interleukin-2-receptor-b-chain-and-inhibits-il2-signaling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-delconte-et-al-2016--cis-is-a-potent-checkpoint-in-nk-cell-mediated-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-guittard-et-al-2018-the-cish-sh2-domain-is-essential-for-plc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-lavens-et-al-2007-the-c-terminus-of-cis-defines-its-interaction-pattern-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-louis-et-al-2020-nk-cell-derived-gm-csf-potentiates-inflammatory-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-publications-piessevaux-et-al-2008-the-many-faces-of-the-socs-box-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purchased-proteins-20220202-cish-socs2-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purchased-proteins-cish-datasheet-avivasystems-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purchased-proteins-socs2-datasheet-avivasystems-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purifications-20210729-kl-purification-necc-n00352-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-purifications-20220805-kl-purification-necc-n00808-1b-1c-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20210617-necc-n00350-n00351-n00352-n00353-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20211103-necc-n00622-n00623-n00624-n00625-n00626-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20211213-necc-n00357-n00358-n00636-n00637-n00653-n00654-n00658-n00659-n00686-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20220119-results-small-scalepurification-kl-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-smscpur-20220607-cish-necc-n00808-n00809-n00810-n00813-n00814-n00815-n00816-n00817-n00818-n00819-smscpur-elutiononly-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-cish-sops-sop-protein-purification-cish---necc-n00352-20210728-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-20210115-sars-cov-2-nsp1-construct-design-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210427-plpro-necc-n00268-3a-del-compounds-dsf-kl-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210503-plpro-necc-n00268-3a-del-compounds-batch2-dsf-kl-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210513-plpro-necc-n00268-3a-lit-compounds-dsf-kl-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210602-plpro-dsf-combined-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-dsf-20210603-meeting-plpro-dsf-kl-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-literature-structure-of-mpro-from-sars-cov-2-and-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-literature-the-complex-structure-of-grl0617-and-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-mass-photometry-20231003-mpro-mass-photometry-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-mpro-constructdesign-20200413-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-mpro-delscreeningplan-20200516-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-nsp1-constructdesign-20200423-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-nsp1-literature-clark-et-al---jvirology---structure-of-nonstructural-protein-1-from-sars-cov-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-nsp1-literature-semper-et-al---iscience---structural-characterization-of-nonstructural-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-plpro-constructdesign-20200414-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-purifications-20-11-9-necc-n281-2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-mpro---necc-n00269-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-mpro---necc-n00291-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-mpro---necc-n00493-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-nsp1-20201014-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-plpro-20201012-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-covid19-sop-protein-purification-plpro-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-072919-largescaleexpressionpurification-mcrbn-n112-hugo-07-29-2019-largescaleexpressionpurification-n112-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-072919-largescaleexpressionpurification-mcrbn-n112-hugo-07-29-2019-largescalepurif-n112-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-072919-largescaleexpressionpurification-mcrbn-n112-hugo-tycho-measurement-2018-10-24-1401pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-20200828-crbn-crystallography-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-20220807-crbn-ddb1-production-plan-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-20221220-crbn-ddb1-progressslides-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-2023-0407-tcf-ligase-xtal-reagents-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-2023-0512-crbn-fp-nrx-0392260-bofl-crbn-probe-binding-curve-diff-proteins-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-21dec2022-crbn-ddb1-freeze-thaw-experiment-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-26jan2023-crbn-ddb1-freeze-thaw-experiment-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-biortus-ddb1-information-bp12363-01a-0001-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-copy-of-crbn-ddb1-pdb-based-constructs-design-20201027-002-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-crbn-ddb1-complex-stability-ea-js-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-crbn-ddb1-xtal-sequence-analysis-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-a-novel-cereblon-modulator-nature-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-cereblon-is-a-direct-protein-target-for-imm-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-design-of-a-cereblon-construct-for-crystallographyic-and-biophysical-studies-2024-biorxiv-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-design-of-a-cereblon-construct-for-crystallographyic-and-biophysical-studies-2024-biorxiv-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-engineering-crbn-for-rapid-identification-of-next-generation-binders-2024-biorxiv-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-identification-of-a-primary-target-of-thalidomide-teratogenicity-science327-2010-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-jneuroscience-2018-crbn-mantains-synaptic-and-cognitive-function-by-regulating-bk-channel-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-lenalidomide-causes-selective-degradation-science2014-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-meth-mol-bio-gtp-exchange-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-natchembiol-sall4-mediates-teratogenicity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-plasticity-in-binding-confers-selectivity-in-ligand-induced-protein-degradation-ncb-2018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-plos2018-structural-dynamics-of-the-cereblon-ligand-binding-domain-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-scientificreport2018-structural-basis-of-thalidomide-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-si-plasticity-in-binding-confers-selectivity-in-ligand-induced-protein-degradation-ncb-2018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-structure-of-hcrbn-ddb1-lenal-reveals-basis-for-responsiveness-to-thal-analogs-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-structure-of-the-human-cereblon-ddb1-lenalidomide-complex-reveals-basis-for-responsiveness-to-thalidomide-analogs-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-structure-of-the-human-cereblon-ddb1-lenalidomide-complex-reveals-basis-for-responsiveness-to-thalidomide-analogs-supplemental-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-thalidomide-mimics-uridine-binding-to-an-aromatic-cage-in-cereblon-jstructbiol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-the-myeloma-drug-lenalidomide-science-2014-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-literature-zz-tag-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-08-2020-large-scale-expression-mini-crbn--n112-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-21-2020-small-scale-expression-mini-crbn--n112-and-midi-crbns-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-23-2020-large-expression-mini-crbn--n112-and-midi-crbns-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-23-2020-large-scale-expression-mini-crbn--n112-and-midi-crbns-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-23-2020-small-scale-expression-mini-crbn--n112-and-midi-crbns-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-01-31-2020-large-scale-expression-mini-crbn--n112-and-n199-in-bl21de3star-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-02-27-2020-small-scale-n202-207-02-27-2020-small-scale-expression---n202-n207-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-05-30-2019--docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-05-30-2019-expression-mini-crbn-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-08-29-2019-large-scale-expression-mini-crbn--n112-n126-bira-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-10-21-2019-large-scale-expression-mini-crbn--n112-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-02-03-2020-02-03-2020-purification-necc-n112-6a-and-necc-n199-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-02-03-2020-02-03-2020-purification-necc-n112-6a-and-necc-n199-new-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-02-03-2020-copy-of-hcrbn-mini-rubik-screen-20200220-111122-analysisresults-ext-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-06-02-2019-06-02-2019-large-scale-expression-mini-crbn-and-purification-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-06-02-2019-06-02-2019-large-scale-expression-mini-crbn-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-07-29-2019-07-29-2019-large-scale-expression-mini-crbn-and-purification-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-08-29-2019-large-scale-expression-mini-crbn--n112-n126-bira-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-09-03-2019-large-scale-expression-and-purification-of-mini-crbn--n126-bira-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-09-03-2019-large-scale-expression-and-purification-of-mini-crbn--n126-bira-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-092319-qc-nc126-1a-intactproteinreport-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-092319-qc-nc126-1a-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-092319-qc-nc126-1b-intactproteinreport-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-09-03-2019-092319-qc-nc126-1b-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-10-24-2019-mcrbn-n112-4a-4b-4c-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-10-24-2019-purification-of-mini-crbn--n112-3a-n112-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-10-24-2019-purification-of-mini-crbn--n112-3a-n112-4a-new-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-2019-10-27-1425pdt-t6-074-4a-fresh-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-purifications-10-24-2019-2019-10-28-0939pdt-t6-074-n112-4a-thaw-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-mini-crbn-project-second-selection-for-pgex-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-nbvc-n00349-nbvc-n00351-crbn-2xddb1-purificationprotocol-20210920-nbvc-n00349-nbvc-n00351-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-nbvc-n00349-nbvc-n00351-crbn-2xddb1-purificationprotocol-20210920-results-nbvc-n00349-nbvc-n00351-3a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-nbvc-n00349-nbvc-n00351-crbn-2xddb1-purificationprotocol-20210920-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-nbvc-n00349-nbvc-n00351-crbn-2xddb1-purificationprotocol-20210920-sop-nbvc-n00349-nbvc-n00351-crbn-ddb1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221005-necc-n21284-buffer-table-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221005-results-necc-n21284-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221005-results-necc-n21284-1a-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221005-sop-necc-n21284-001a-ikaros-purif-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-20221007-necc-n21284-001a-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-necc-n21284-1a-ikaros-dsf-data-20221007-n21284-admin-2022-10-07-15-30-49-br009234---melt-curve-rfu-results-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-20210309-results-nbvc-n00025-nbvc-n00005-moi-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-20210503-results-nbvc-n00025-nbvc-n00005-6a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-20210614-results-necc-n359-n360-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-20220912-thermal-stability-of-crbn-ddb1-binding-to-celmod-cmpds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-presentations-and-results-21-04-29-nbvc-n00025-n00005-7a-lascpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-thermal-stability-of-crbn-ddb1-bound-to-ctms-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-crbn-vhl-iap-btrcp-ligase-list-for-js-wks-202010407-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dac-platform-20250317-dac-purification-discussion-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-del-foundation-20250904-del-foundation-status-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-barros-2017-biochemistry-electrostatic-interactions-as-mediators-in-the-allosteric-activation-of-protein-kinase-a-ria-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-cao-2019-structure-structures-of-the-pka-ria-holoenzyme-with-the-flhcc-driver-j-pkaca-or-wild-type-pkaca-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-cheung-2015-pnas-structural-insights-into-mis-regulation-of-protein-kinase-a-in-human-tumors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-cornella-2015-gastroenterology-unique-genomic-profile-of-fribolamellar-hepatocellular-carcinoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-dnajb1-prkaca-fusion-is-cancer-driver-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-fibrolamellar-hepatocellular-carcinoma-fusion-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-fibrolamellar-hepatocellular-carcinoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-honeyman-2014-science-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-in-fibrolamellar-hepatocellular-carcinoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-kim-2005-science-crystal-structure-of-a-complex-between-the-catalytic-and-regulatory-subunits-of-pka-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-kim-2007-cell-pka-i-holoenzyme-structure-reveals-a-mechanism-for-camp-dependent-activation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-lu-2020-plosbiol-structural-analysis-of-the-pka-riib-holoenzyme-containing-the-oncogenic-dnajb1-pkac-fusion-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-oncogenic-addiction-of-fibrolamellar-hepatocellular-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-saraswat-1988-jbc-deletion-mutants-as-probes-for-localizing-regions-of-subunit-interactions-in-camp-dependent-protein-kinase-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-simon-2023-natrevcancer-fighting-rare-cancers---lessons-from-fibrolamellar-hepatocellular-carcinoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-simon-2023-natrevcancer-fights-rare-cancers---lessos-from-fibrolamellar-hepatocellular-carcinoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-su-1995-science-regulatory-subunit-of-protein-kinase-a---structure-of-deletion-mutant-with-camp-binding-domains-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-literature-tomasini-2018-scientificrep-conformational-landscape-of-the-prkaca-dnajb1-chimeric-kinase-the-driver-of-fhc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-meetings-20231002-dnajb1-prkaca-c1-del-screen-powerpoint-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-meetings-20231002-dnajb1-prkaca-protein-production-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-meetings-20231103-20231106-dnajb1-prkaca-c1-del-screen-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-meetings-20241302-update-for-biochemistry-dnajb1-prkaca-review-protein-status-02132024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-target-reviews-dnajb1-prkaca-target-review-07282023-for-cancer-uk-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-dnajb1-prkaca-target-reviews-dnajb1-prkaca-target-review-07282023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-20240304-kl-purification-nbvc-n21055-001a-ncmp-n20058-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-75234456-u946a238g0-3-coa-u946a238g0-3-pe5411-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-1-hplc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-1-ms-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-1-peptide-qualitative-solubility-test-report-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-3-hplc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-3-ms-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fbxo45-supplement-qc-files-u946a238g0-u946a238g0-3-peptide-qualitative-solubility-test-report-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-20190716-fusions-offsite-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-c1-docking-20231127-dnajb1-prkaca-c1-docking-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-dnajb1-prcaka-literature-and-clones-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-baohua-cao1-structures-of-pka-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-barros-2017-biochemistry-electrostatic-interactions-as-mediators-in-the-allosteric-activation-of-protein-kinase-a-ria-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-cheung-2015-pnas-structural-insights-into-mis-regulation-of-protein-kinase-a-in-human-tumors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-choel-kim-cell-pka-i-holoenzyme-structure-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-dnajb1-febs-letters-2013-priya-molecular-chaperones-as-enzymes-that-catalytically-unfold-misfolded-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-dnajb1-nmr-hsp40-proteins-use-class-specific-regulation-to-drive-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-dnajb1-prkaca-fusion-is-cancer-driver-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-fibrolamellar-hepatocellular-carcinoma-fusion-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-fibrolamellar-hepatocellular-carcinoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-honeyman-jn-science-2014-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-inhibitors-herber-et-al-biochem-1993-physiological-inhibitors-of-the-catalytic-subunit-of-camp-dependent-protein-kinase-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-inhibitors-khan-s-nat-med-2019-a-selective-bcl-xl-protac-degrader-achieves-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-inhibitors-manschwetus-j-et-al-molecules-2019-a-stapled-peptide-mimic-of-the-pseudosubstrate-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-kastenhuber-2017-pnas-dnajb1-prkaca-fusion-is-cancer-driver-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-lalazar-g-simon-s-fibrolamellar-carcinoma-recent-advances-semin-liver-dis-2018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-lu-2020-plosbiol-structural-analysis-of-the-pka-riib-holoenzyme-containing-the-oncogenic-dnajb1-pkac-fusion-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-bjorn-2002-mutation-of-the-ca-subunit-of-pka-leads-to-growth-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-detection-of-a-recurrent-dnajb1-prkaca-chimeric-transcript-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-engelholm-2017-crisprcas9-engineering-of-adult-mouse-liver-demonstrates-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-kastenhuber-2017-pnas-dnajb1-prkaca-fusion-kinase-interacts-with-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-mouse-studies-oncogenic-addiction-of-fibrolamellar-hepatocellular-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-oncogenic-addiction-of-fibrolamellar-hepatocellular-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-pnas-simon-e-et-al-2015-transcriptomic-characterization-of-fibrolamellar-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-prkaca-protein-kinase-a-and-human-disease-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-prkaca-taylor-s-et-al-nat-rev-2012-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-prkaca-turnham-gene-2015-protein-kinase-a-catalytic-subunit-isoform-prkaca-history-function-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-saraswat-1988-jbc-deletion-mutants-as-probes-for-localizing-regions-of-subunit-interactions-in-camp-dependent-protein-kinase-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-simon-2023-natrevcancer-fights-rare-cancers---lessos-from-fibrolamellar-hepatocellular-carcinoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-su-1995-science-regulatory-subunit-of-protein-kinase-a---structure-of-deletion-mutant-with-camp-binding-domains-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-taylor-s-et-al-nat-rev-2012-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-tomasini-md-et-al-sci-rep-2018-conformational-landscape-of-prkca-dnajb1-chimeric-kinase-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-zhang-ping-et-al-structure-and-allostery-of-the-pka-rii-tetrameric-holoenzyme-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-literature-zhang-ping-eta-la-si-structure-and-allostery-of-the-pka-rii-tetrameric-holoenzyme-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-meetings-20230517-internal-meeting-dnajb1-prkaca-target-review-and-del-screen-plan-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-dnajb1-prkaca-target-review-detailed-slides-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-dnajb1-prkaca-target-review-short-presentation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-dnajb1-prkaca-target-review-short-presentation-updated-07232023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-dnajb1-prkaca-target-review-short-presentation-updated-07252023-with-notes-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-final-round-robin-dnajb1-prkaca-target-final-round-updated-09082023-1-corrected-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-dnajb1-prkaca-target-review-final-round-robin-dnajb1-prkaca-target-final-round-updated-09082023-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-20240506-ews-fli1-constructs-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-biochem-assays-20220930-ews-fli1-dna-fret-ss-vs-dsdna-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-c1-hit-validation-copy-of-cr-002805-chadh-ews-fli1-complete-ratul-spr-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-c1-hit-validation-ews-fli1-assay-tracker-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-c1-hit-validation-ews-fli1-c1-hit-validation-working-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-cell-line-info-clear-cell-sarcoma-cell-lines-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-cell-line-info-ewsr1-fli1-cell-lines-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-20220126-ews-fl1-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-20220126-ews-fl1-meeting-shared-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-slide-drafts-01-21-2022-ewsri-tracer-recovery-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-slide-drafts-01-24-2022-ewsr1-protein-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-01262022-external-meeting-slide-drafts-20220126-ews-fl1-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-032023-external-meeting-032023-ews-fli1-project-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-04222022-external-meeting-20220421-ews-fli1-externalupdate-ch-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-04222022-external-meeting-20220421-ews-fli1-project-team-meeting-nurix-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-04222022-external-meeting-dsf-update-ews-fli1-041522-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08032022-external-meeting-20220803-ews-fli1-project-meeting---final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08032022-external-meeting-20220803-ews-fli1-project-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08032022-external-meeting-del-screening-update-080322-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08032022-external-meeting-protein-production-update-080322-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-08172021-ews-fli1-proteins--purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-09-28-2019-ewsr1-protein-update---charles-keller-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-09-30-19-ewsr1-presentation-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-cctdi-ewsr1-fusions-of-interest-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-ews-fli1-protein-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-ews-fli1-stability-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-charles-keller-meetings-nurix-projects-cctdi-2020-0917-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-collaborators-functional-capabilities-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-e3-ligase-expression-ews-del-screens-20221212-ews-fli1-c1-del-screen-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-e3-ligase-expression-ews-del-screens-ews-fli1-dssfhr-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-e3-ligase-expression-ews-e3-ligases-list-rms-ews-data-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-figure-gwenn-101223-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-gantt-chart-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-anderson-et-al-science-2018-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-boone-et-al-oncogene-2021-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-elzi-et-al-genescancer-2015-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-erkizan-et-al-clinical-cancer-research-2010-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-erkizan-et-al-nature-medicine2009-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-es-model-paper-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-flores-and-grohar-et-al-journal-of-bone-oncology-2021-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-guillon-et-al-plos-one-2009-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-povedano-et-al-cell-chemical-biology-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-rao-et-al-molecular-therapy-2016-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-riggi-et-al-cancer-cell-2014-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-seong-et-al-cancer-cell-2021-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-su-et-al-advanced-science-2021-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-turnover-papers-gierisch-et-al-scientific-reports-2019-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ews-fli1-literature-for-target-review-turnover-papers-gierisch-journal-of-biological-chemistry-2016-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-andersen-nature-2005-nucleolar-proteome-dynamics-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-cancer-res-2006-66-5574-5581-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-carrillo-cancer-therapy-2007-cholecystokinin-down-regulation-by-rna-interference-impairs-ewing-tumor-growth-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-cell-cycle-2011-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-delattre-nature-gene-fusion-with-an-ets-dna-binding-domain-caused-by-chromosome-translocation-in-human-tumours-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-dtag-degradation-of-ews-fli1-2020-gray-et-al-nat-comm-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-dtag-degradation-of-ews-fli1-2020-suppl-info-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-endothelial-fli1-deficiency-impairs-vascular-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-epithelial-fli1-deficiency-drives-systemic-autoimmunity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-fli1-downregulation-in-scleroderma-myeloid-cells-has-profibrotic-and-proinflammatory-effects-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-gi-manifestations-with-a-focus-on-the-esophagus-recent-progress-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-the-druggable-transcription-factor-fli-1-regulates-t-cell-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-fli1-conditional-knockouts-the-ets-transcription-factor-fli-1-in-development-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-hou-et-al-2015-bioch-structural-basis-for-dimerization-and-dna-binding-of-transcription-factor-fli1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-j-biol-chem--2016-gierisch-26922-33-proteasomal-degradation-of-the-ews-fli1-fusion-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-jully-et-al-2012-bmc-cancer-junction-region-of-ews-fli1-fusion-protein-has-a-d-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-kyung-2021-cancercell-trim8-modulates-the-ews-fli-oncoprotein-to-promote-survival-in-ewing-sarcoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-latysheva-molecularcell2018-molecular-principles-of-gene-fusion-mediated-rewiring-of-protein-interaction-networks-in-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-michoux-et-al-photosyn-2014-crystal-structure-of-cyanoq-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-nature-medicine-2009-15-750-757-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-peptides-to-bind-ewsfli-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-rahim-plos-20014-a-small-molecule-inhibitor-of-etv1-yk-4-279-prevents-cancer-growth-and-metastasis-in-mouse-xenograph-model-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-recombinant-ewsfli1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-shi-blood-2012-structural-insights-into-inhibition-of-the-bivalent-menin-mll-interaction-by-small-molecules-in-leukemia-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-su-2021-spop-and-otud7a-control-ews-fli1-protein-stability-to-govern-ewing-sarcoma-growth-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-sun-et-al-oncotarget-2017-ews-fli1-and-rna-helicase-interaction-inhibitor-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-todorova-biomedres-2015-structure-function-based-molecular-relationships-in-ewings-sarcoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-tsafou-oncotarget-2018-identifying-the-druggable-ineractome-of-esw-fli1-reveals-mcl-1-dependent-diferential-sensitivities-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-uren-2004-biochemistry-recombinant-ews-fli1-oncoprotein-activates-transcription-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-ewsr1-literature-uren-torestky-future-oncology-2005-ewings-sarcoma-oncoprotein-ews-fli1--the-perfect-target-without-a-therapeutic-agent-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20221014-ews-fli1-internal-project-meeting-20221014-ews-fli1-del-screen-plan-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20221212-ews-fli1-c1-del-screen-files-20221212-ews-fli1-c1-del-screen-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20221212-ews-fli1-c1-del-screen-files-ews-fli1-dssfhr-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230427-ews-fli1-internal-project-meeting-20230427-ews-fli1-internal-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230802-ews-fli1-internal-project-meeting-20230802-ews-fli1-internal-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230824-ews-fli1-internal-project-meeting-20230823-ews-fli1-ml-report-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230824-ews-fli1-internal-project-meeting-20230824-ews-fli1-email-update---draft-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230824-ews-fli1-internal-project-meeting-20230828-ews-fli1-email-update---final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230824-ews-fli1-internal-project-meeting-20230928-ews-fli1-internal-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230928-ews-fli1-internal-meeting-09-28-23-ews-fli1-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20230928-ews-fli1-internal-meeting-20230928-ews-fli1-internal-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20231026-ews-fli1-internal-meeting-20231026-ews-fli1-internal-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-20240125-ews-fli1-internal-meeting-20240125-ews-fli1-internal-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-ews-fli1-internal-20220415-20220414-ews-fli1-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-ews-fli1-internal-20220415-dsf-update-ews-fli1-041522-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-ews-fli1-internal-20220909-ews-fli1-del-screening-update-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-20220126-ews-fl1-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-20220126-ews-fl1-meeting-shared-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-slide-drafts-01-21-2022-ewsri-tracer-recovery-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-slide-drafts-01-24-2022-ewsr1-protein-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-01262022-external-meeting-slide-drafts-20220126-ews-fl1-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-032023-external-meeting-032023-ews-fli1-project-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-04222022-external-meeting-20220421-ews-fli1-externalupdate-ch-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-04222022-external-meeting-20220421-ews-fli1-project-team-meeting-nurix-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-04222022-external-meeting-dsf-update-ews-fli1-041522-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-08032022-external-meeting-20220803-ews-fli1-project-meeting---final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-08032022-external-meeting-20220803-ews-fli1-project-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-08032022-external-meeting-del-screening-update-080322-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-08032022-external-meeting-protein-production-update-080322-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-08172021-ews-fli1-proteins--purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-09-28-2019-ewsr1-protein-update---charles-keller-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-09-30-19-ewsr1-presentation-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-cctdi-ewsr1-fusions-of-interest-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-ews-fli1-protein-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-ews-fli1-stability-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-internal-meetings-old-external-meetings-with-charles-keller-old-slide-files-nurix-projects-cctdi-2020-0917-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-old-files-del-selection-plan-template-2019-for-ewsr1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00611-613-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00614-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00614-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00662-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n00680-681-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n20953-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n20958-1a-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n21179-21180-21181-21182-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n21260-61-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n21824-001a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-purification-sop-sop-protein-purification-necc-n21825-001a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-2019-0424-fusions-ewsr1-prt-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-20190716-fusions-offsite-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ews-fli1-competitive-intelligence---2018-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ews-fli1-target-nomination-slides-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-del-screen-ewsfli1-del-analysis-v2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-del-screen-ewsfli1-similarity-search-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-andersen-nature-2005-nucleolar-proteome-dynamics-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-belyaeva-2023-biomedpharmaco-the-spectrum-of-cell-death-in-sarcoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-biochemistry-2004-43-13579-13589-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cahaney-2022-pediatricannals-role-of-precision-medicine-in-pediatric-oncology-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cancer-cytopathology---2020---jo---ewsr1-fusions-ewing-sarcoma-and-beyond-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cancer-res-2006-66-5574-5581-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cancer-res-2006-66-5574-5581-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cell-cycle-2011-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-chen-2022-cancerletters-ets-factors-in-prostate-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-cidre-aranaz-natrevdisprimer-small-round-cell-sarcomas-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-dharia-2021-natgenetics-a-first-generation-pediatric-cancer-dependency-map-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-dna-binding-mutants-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-flores-2021-jboneoncology--one-oncogene-several-vulnerabilities-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-grunewald-2018-natrevdiseaseprimers-ewing-sarcoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-he-2021-international-immunopharmacology-emerging-role-of-fli1-in-autoimmune-diseases-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-j-biol-chem--2016-gierisch-26922-33-proteasomal-degradation-of-the-ews-fli1-fusion-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-nature-medicine-2009-15-750-757-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-nature-medicine-2009-15-750-757-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-nature-medicine-2009-15-750-757-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-povedano-2022-cellchembiol-tk216-targets-microtubules-in-ewing-sarcoma-cells-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-sun-et-al-oncotarget-2017-ews-fli1-and-rna-helicase-interaction-inhibitor-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-todorova-biomedres-2015-structure-function-based-molecular-relationships-in-ewings-sarcoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-uren-2004-biochemistry-recombinant-ews-fli1-oncoprotein-activates-transcription-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-ewsr1-literature-uren-2004-biochemistry-recombinant-ews-fli1-oncoprotein-activates-transcription-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-08172021-ews-fli1-proteins--purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-09-30-19-ewsr1-presentation-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-20220803-ews-fli1-project-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-cam-assay-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-cc-tdi-grantor-royalty-funding-agreement-template-4-6-21-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-cctdi-ewsr1-fusions-of-interest-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-collaborators-functional-capabilities-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-e3-ligase-gene-expression-2021-1215-e3-ligases-list-rms-ews-data-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-e3-ligase-gene-expression-2022-0115-e3-ubiquitinligase-rms-ccs-sef-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-meeting-09-17-2020-keller-09-17-20-fusion-meeting-draft-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-keller-collaboration-piero-funding-of-aykut-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-literature-32542-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-target-review-slide-decks-ewsr1-patents-us10159660-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-01-24-2022-ewsr1-protein-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-09-28-2019-ewsr1-protein-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-11-17-2021-ewsr1-project-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-2021-ewsr1-project-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-meeting-ews-fli1-discussion-08-27-2021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-ews-fli1-updates-update-ews-fli1-102121-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-fusion-proteins-purifications-and-plans---hugo-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-fusions-general-literature-jama-netowrk-2019-molecular-profiling-of-hard-to-treat-childhood-and-adolescent-cancers-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-fusions-general-literature-monje-filbin-2019-natmedrev-developmental-origins-childhood-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-borkin-2015-cancer-cell--pharmacological-inhibition-of-the-menin-mll-interaction-blocks-progression-of-mll-leukemia-in-vivo-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-borkin-2016-jmedchem-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-brezezinka-2019-jhematol-oncol-functional-diversity-of-inhibitors-tackling-the-differentiation-blockage-of-mll-rearranged-leukemia-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-campbell-cancerbiol-2017-mechanisms-of-pinometostat-epz-5675-treatment-emergent-resistance-in-mll-rearranged-leukemia-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-caslini-2007-interaction-of-mll-amino-terminal-sequences-with-menin-is-required-for-transformation-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-caslini-2007-interaction-of-mll-amino-terminal-sequences-with-menin-is-required-for-transformation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-cold-spring-harb-perspect-med-2017-krivtsov--pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-he-2014-jmedchem-high-affinity-small-molecule-inhibitors-of-the-menin-mixed-lineage-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-huang-nature-2012-the-same-pocket-in-menin-binds-both-mll-and-jund-but-oppositely-regulates-transcription-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-huang-nature-2012-the-same-pocket-in-menin-binds-both-mll-and-jund-but-oppositely-regulates-transcription-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-hughes2004-molcell-menin-associates-with-a-trithorax-family-histone-methyltransferase-complex-with-the-hoxc8-locus-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-j-biol-chem--2010-grembecka-40690-8-molecular-basis-of-the-mixed-lineage-leukemia-menin-interaction-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-j-biol-chem--2010-grembecka-40690-8-molecular-basis-of-the-mixed-lineage-leukemia-menin-interaction-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-j-biol-chem--2011-murai-31742-8-crystal-structure-of-menin-reveals-binding-site-for-mixed-lineage-leukemia-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-liu-cancerbiol-2009-mll-fusions-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-loss-of-ub-sites-in-fusions-latysheva-molcell-2016-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-lu-frontiers-oncology-2018-the-histone-h3-lysine-4-presenter-wdr5-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-mll1-and-ck2-inhibition-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-ruthenberg-nsmb-2006-histone-h3-recognition-and-presentation-by-the-wdf-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-scheer-natcomm-2018-a-chemical-toolbox-to-study-protein-methyltransferases-and-epigenetic-signaling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-shi-blood-2012-structural-insights-into-inhibition-of-the-bivalent-menin-mll-interaction-by-small-molecules-in-leukemia-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-shi-blood-2012-structural-insights-into-inhibition-of-the-bivalent-menin-mll-interaction-by-small-molecules-in-leukemia-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-vedadi-proteinsci-2017-targeting-human-set1-mll-family-of-proteins-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-wu-2019-amjcancerres-disruption-of-the-menin-mll-interaction-triggers-menin-protein-degradation-via-ubiquitin-proteasome-pathway-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fusion-proteins-mll1-literature-yokoyama-2005-cell-the-menin-tumor-suppressor-protein-is-an-essential-ocongenic-cofactor-for-mll-associated-leukemogenesis-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fzr1-cloning-quote-u4074282g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fzr1-sops-sop-protein-purification-nbvc-n21320-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-fzr1-sops-sop-protein-purification-nbvc-n21320-1-im-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-hollenstein-2013-nature-structure-of-class-b-gpcr-corticotropin-releasing-factor-receptor-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-jazayeri-2016-nature-extra-helical-binding-site-of-a-glucagon-receptor-antagonist-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-liu-2017-nature-mechanism-of-intracellular-allosteric-b2ar-antagonist-revealed-by-x-ray-crystal-structure-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-oswald-2016-nature-intracellular-alosteric-antagonism-of-the-ccr9-receptor-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-counter-targets-zheng-2016-nature-structure-of-cc-chemokine-receptor-2-with-orthosteric-and-allosteric-antagonists-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-del-gpcr-ahn-et-al-2017-pnas-allosteric-beta-blocker-isolated-from-a-dna-encoded-small-molecule-library-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-del-gpcr-ahn-et-al-2018-molpharm-small-molecule-positive-allosteric-modulators-of-the-b2ar-isolated-from-dna-encoded-libraries-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-del-gpcr-brown-2018-slas-agonists-and-antagonists-of-parp2-discovered-within-a-dna-encoded-chemical-library-using-mutational-stabilization-of-the-target-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-del-gpcr-wu-et-al-2015-acs-comb-sci-cell-based-selection-expands-the-utility-of-dna-encoded-small-molecule-library-technology-to-cell-surface-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-0508-tangoassay-keystone-selectscreen-gpcr-profiling-service-poster-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-adjobo-hermans-2011-bmcbiology-real-time-visualization-of-heterotrimeric-g-protein-gq-activation-in-living-cells-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-killoran-2024-molecules-an-integrated-approach-toward-nanobret-tracers-for-analysis-of-gpcr-ligand-engagement-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-kroeze-natstmolbiol-presto-tango-as-an-open-source-resource-for-interrogation-of-the-druggable-human-gpcrome-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-hit-validation-vlps-aertgeerts-2023-metmolbiol-optimization-of-recombinant-gpcr-proteins-for-biophysical-and-structural-studies-using-virus-like-particles-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-meetings-20240801-gpr75-ptm-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-meetings-20240806-gpr75-expression-testing-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-protein-production-20240523-biortus-proteins-summary-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-ahn-et-al-2017-allosteric-beta-blocker-isolated-from-a-dna-encoded-small-molecule-library-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-akbari-et-al-2021-science---sequencing-of-640-000-exomes-identifies-gpr75-variants-associated-with-protection-from-obesity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-audet-et-al-2020-nature-protocols---small-scale-approach-for-precrystallization-screening-in-gpcr-x-ray-crystallography-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-british-j-pharmacology---202pascale-2021-bjp--uncovering-the-signalling-structure-and-function-of-the-20-hete-gpr75-pairing-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-cai-et-al-2023-direct-selection-of-dna-encoded-libraries-for-biased-agonists-of-gpcrs-on-live-cells-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-cardenas--2020-bba-molcelbiology-gpr75-receptor-mediates-20-hete-signalling-and-metastatic-features-of-androgen-insensitive-prostate-cancer-cells-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-chen-2017-crystacta-human-ccl5-trimer---expression-purification-and-initial-crystallographic-studies-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-choi-2023-sciadv-a-whole-genome-reference-panel-of-14393-individuals-for-east-asian-populations-accelerates-discovery-of-rare-functional-variants-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-dashti-2023-asianpacjcancerprev-gpr75-as-a-novel-molecule-for-targeted-therapy-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-fan-2017-circres-gpr75-identified-as-the-first-20-hete-receptor---a-chemokine-receptor-adopted-by-a-new-family-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-garcia-et-al-2017-20-hete-signals-through-g-protein-coupled-receptor-gpr75--gq--to-affect-vascular-function-and-trigger-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-gilani-2021-prostagladins-20-hete-interfers-with-insulin-signalling-and-contributes-to-obesity-driven-insulin-resistance-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-ignatov-et-al-2006-british-j-pharmacology---rantes-stimulates-ca2-mobilization-and-inositol-trisphosphate-ip3-formation-in-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-jiang-zhang-2025-trendincellbiol-adopting-gpr75-in-treating-obesity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-leeson-payne-et-al-cell-metabolism---loss-of-gpr75-protects-against-non-alcoholic-fatty-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-li-2004-jbc-protein-kinase-c-theta-inhibits-insulin-signalling-by-phosphorylating-irs1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-lu-2021-plos-constitutive-g-protein-coupling-profiles-of-understudied-orphan-gpcrs-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-lv-2022-biorxiv-cryo-em-structure-of-active-gpr75-with-a-nanobody-2022-08-18-503988v1-full-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-ma-2022-proteinjournal-expression-and-purification-of-recombinant-human-ccl5-and-its-biological-characterization-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-murtaza-2022-gpr75-an-exciting-new-target-in-metabolic-syndrome-and-related-disorders-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-pascale-2023-advpharmacol-20-hete---bioactions-receptors-vascular-function-cardiometabolic-disease-and-beyond-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-powell-2021-dmso-342799-mice-lacking-gpr75-are-hypophagic-and-thin-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-regard-2008-cell-anatomical-profilling-of-g-protein-coupled-receptor-expression-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-science-2021-sequencing-of-640000-exomes-identifies-gpr75-variants-assocaited-with-protection-from-obesity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-sristava-2014-nature-high-resolution-structure-of-the-human-gpr40-receptor-bound-to-allosteric-agonist-tak-875-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-target-review-gpr75-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-tarmunt-2020-diabetologia-sex-differences-in-metabolic-regulation-and-diabetes-susceptibility-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-publications-zhang-2023-medcomm-drug-development-advances-in-human-genetics-based-targets-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-target-reviews-2024-gpr75-short-target-review-for-external-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-target-reviews-2024-gpr75-short-target-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-gpr75-target-reviews-2024-gpr75-target-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-itk-20220218-results-nbvc-n00497-nbvc-n00498-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-itk-carnabio-itk-fl-nbvc-n21393-carna-btn-itk-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-itk-carnabio-trka-nbvc-n21391-carna-btn-trka-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-itk-carnabio-trkb-nbvc-n21392-carna-btn-trkb-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-klhl10-cloning-quote-u3563fsyg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ligase-sweep-20210805-dtl-siah1-chip-dcaf1-grwd1-itch-construct-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ligase-sweep-20210908-results-necc-n573-n577-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ligase-sweep-20211216-results-lrr1-dsfstabilitytesting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ligase-sweep-20230601-ncmp-n20048-001a-klhdc2-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-lrr1-20240220-ncmp-n20053-001a-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-assay-data-2023-1130-mycn-fp-binding-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-assay-data-20231117-mycn-fp-rna-binding-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-c1-target-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-beltran-2021-molecular-cancer-research-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-eilers-and-eisenman-2008-genesdev-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-guglielmi-et-al-2014-nature-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-liu-et-al-2021-frontiers-in-oncology-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-murphy-et-al-plos-2009-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-literature-papadopoulos-2023-biorxiv-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-mycn-presentation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-quoterequest-qte-341878-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-quoterequest-qte-348089-pdf-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-specsheets-19693744-1-spec-453796714-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-specsheets-19693744-1-spec-453796715-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-specsheets-19693744-1-spec-453796716-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-mycn-oligo-orders-specsheets-19693744-1-spec-453796717-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-myd88-20250911-myd88-construct-design-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-nlrp3-20260115-nlrp3-del-ps-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-nlrp3-literature-dekker-et-al-2021-crystal-structure-of-nlrp3-nacht-domain-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-protein-sciences-meeting-slides-20250612-pax3foxo1-protein-sciences-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21794-n21797-070124-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21798-071524-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21827-n21828-n21835-0723241-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21836-0723241-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pax3-foxo1-purification-sop-sop-protein-purification-pax3-foxo1-junction-n21846-n21847-0910241-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pellino-2018-05-08-pellino-program-for-nancy-pryer-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pja2-03apr2023-necc-n21359-001a-purif-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-pja2-03apr2023-necc-n21359-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-psmd14-20240202-psmd14-constructs-from-reza-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-psmd14-20240313-psmd14-ecoli-constructtesting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-raf1-cloning-quote-u7567vqfg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf114-24oct2022-necc-n21250-001a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf114-25oct2022-necc-n21249-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf114-necc-n21249-001a-1022822-protein-report-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf114-sop-necc-n21249-001a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-rnf39-cloning-quote-u638tvedg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-shp2-071819-largescalepurif-shp1-n78-79-hugo-071819-n78-2a-and-n79-2a-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-shp2-071819-largescalepurif-shp1-n78-79-hugo-71919-largescalepurif-shp1-n78-79-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-shp2-071819-largescalepurif-shp1-n78-79-hugo-necc-n00078-2a-072619-protein-report-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-shp2-071819-largescalepurif-shp1-n78-79-hugo-necc-n00079-2a-072619-protein-report-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-socs1-smscpur-20211213-necc-n00357-n00358-n00636-n00637-n00653-n00654-n00658-n00659-n00686-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-socs1-socs1-construct-design-20200729-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-socs1-socs1-construct-list-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-06282023-sts1-sts2-project-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-20220202-sts1-and-sts2-summary-deck-nn-v2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-20220323-sts1-meeting-protein-production-update-3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-20220614-sts1-meeting-protein-production-update-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-sts-c1-delanalysis-pan-ro-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-meetings-sts1-del-sim-ml-hit-validation-062023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-mikhailik-2007-a-phosphatase-activity-of-sts-1-contributes-to-the-suppression-of-tcr-signalling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-new-from-art-weiss-cbl-b-interaction-tsai-sts1-cbl-b-immunity-2023-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-regulation-of-zap-70-activation-and-tcr-signaling-by-sts1-and-sts2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-sts1-artweiss-nurix-072121-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-sts1-cish-analysis-062023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-wang-2004-jbc-crystal-structure-of-human-biphosphoglycerate-mutase-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-publications-zhou-2017-biochemistry-structural-and-functional-characterization-of-the-histidine-phosphatase-domains-of-human-sts-1-and-sts2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-sts-sequence-and-protein-analysis-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-sts1-dsp-tables---im-jss-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-sts1-sts1-dsp-tables-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-20230210-tet1-active-motif-qc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-binding-20230110-tet2-dna-binding-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745560-66280603-esi-hu-tet2-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745561-66255496-esi-hu-tet2-3-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745562-528831337-esi-hu-tet2-4-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745563-530043452-esi-hu-tet2-5-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745564-66280602-esi-hu-tet2-6-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745565-66255497-esi-hu-tet2-7-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745566-528831338-esi-hu-tet2-8-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745567-530043453-esi-hu-tet2-9-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745568-66280606-esi-adam-tet2-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745569-66280605-esi-adam-tet2-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745570-66255495-esi-adam-tet2-3-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745571-528831339-esi-adam-tet2-4-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745572-528831340-esi-adam-tet2-5-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qc-reports-430745573-530043454-esi-adam-tet2-6-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-qte-232207---katherine-leon-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745560-hu-tet2-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745561-hu-tet2-3-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745562-hu-tet2-4-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745563-hu-tet2-5-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745564-hu-tet2-6-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745565-hu-tet2-7-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745566-hu-tet2-8-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745567-hu-tet2-9-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745568-adam-tet2-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745569-adam-tet2-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745570-adam-tet2-3-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745571-adam-tet2-4-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745572-adam-tet2-5-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-dna-synthesis-spec-sheets-spec-430745573-adam-tet2-6-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-fp-tet2-dna-tr-fret-assay-development-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-a-therapeutic-strategy-for-preferential-targeting-of-tet2-mutant-and-tet-dioxygenase-deficient-cells-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-acetylation-enhances-tet2-function-in-protecting-against-abnormal-dna-mehtylation-during-oxidative-stress-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-cell2013-tet2structuredna-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-cytosine-based-tet-enzyme-inhibitors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-deletion-of-tet2-in-mice-leads-to-dysregulated-hematopoietic-stem-cells-and-subsequent-development-of-myeloid-malignanci-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-disruption-of-tet2-promotes-the-therapeutic-efficacy-of-cd19-targeted-t-cells-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-flanking-sequences-influence-the-activity-of-tet1-and-tet2-methylcytosine-dioxygenases-and-affect-genomic-5hmc-patterns-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-impaired-hydroxylation-of-5-methylcytosine-in-myeloid-cancers-with-mutant-tet2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-methodsenzmology-2012-tet2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-modulation-of-tet2-expression-and-5-methylcytosine-oxidation-by-the-cxxc-domain-protein-idax-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-nature2018-tet2-c-june-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-nature2018-tet2-structuresubstratepreference-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-selectivity-and-promiscuity-in-tet-mediated-oxidation-of-5-methylcytosine-in-dna-and-rna-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-supplement-cell2013-tet2structuredna-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-targeting-tet2-as-a-therapeutic-approach-for-angioimmunoblastic-t-cell-lymphoma-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-tet-enzymes-and-key-signalling-pathways-crosstalk-in-embryonic-development-and-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-tet-is-targeted-for-proteasomal-degradation-by-the-phd-pvhl-pathway-to-reduce-dna-hydroxymethylation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-tet2-at-the-interface-between-cancer-and-immunity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-literature-tet2-guards-against-unchecked-batf3-induced-car-t-cell-expansion-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-purifications-20210810-kl-purification-necc-n00348-1a-1b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-purifications-20210826-kl-purification-nbvc-n00285-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-purifications-20220315-kl-purification-necc-n00653-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-smscpur-20210930-necc-n00599-n00600-n00601-n00602-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-smscpur-20211213-necc-n00357-n00358-n00636-n00637-n00653-n00654-n00658-n00659-n00686-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-sops-sop-protein-purification-tet2-catalytic---nbvc-n00288-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-sops-sop-protein-purification-tet2-catalytic-xtal---necc-n00348-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-sops-sop-protein-purification-tet2-fl---nbvc-n00293-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-sops-sop-protein-purification-tet2-truncated---nbvc-n00291-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet1-tet2-tet3-promals-alignment-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet2-construct-design-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet2-construct-list-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet2-dna-tr-fret-assay-development-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-tet2-tet2-target-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim11-cloning-quote-u299u927g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim15-cloning-quote-u8260507g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim17-quote-u4911vzlg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim21-2024-05-08-trim21-constructs-v2-reza-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim26-cloning-quote-u253rxkwg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim34-cloning-quote-u837gnyyg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim35-cloning-quote-u054j599g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim38-cloning-quote-u2759tnfg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim39-cloning-quote-u0186321g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim41-cloning-quote-u501wldjg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim58-quote-u484f289g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim6-cloning-quote-u6034224g0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-trim64-cloning-quote-u7799hnlg0-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube2g1-29aug2022-necc-n00857-1a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube2g1-31aug2022-necc-n00857-1a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube2g1-nbvc-n00857-1a-08312022-proteinreport-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube2g1-sop-necc-n00857-1a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube3a-20220906-ube3a-protein-qc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube3a-20221005-kl-purification-necc-n21185-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ube3a-smscpur-20221216-necc-n21334-n21335-n21336-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-ubr2-20220124-results-ubr2-smscexpr-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2019-04-02-mb266-2a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2019-08-10-mb204-moi-cell-line-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2019-08-10-n30-n46-moi-smscpur-column-phy-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2019-08-16-n57-n62-n68-mb204-8-n46-5-moi-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-2020-05-11-smscpur-n42-9-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-20200825-nbvc-n00045-1a-analyticalsec-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-asms-122019-zap70-offdna-asms-v3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-asms-12222020-zap70-on-dna-enumerated-cmpnd-asms-v2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-02-13-2019-order-compound-prep-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-02-13-2019-order-kinomescan-next-steps-and-shipping-instructions-direct-v7-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-02-13-2019-order-nurix-us073-0002914-q02-021319-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-02-13-2019-order-po-16464-nrx-with-eurofins-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-03-04-2019-order-nurix-us073-0003306-q01-030119-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-03-04-2019-order-nurix-us073-0003429-q02-030619-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-discoverx-03-04-2019-order-po-16646-nrx-with-eurofins-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-hit-validation-copy-of-del-zap70-tracking-sheet-ondna-offdna-hits-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-bu-pnas-1995-analysis-of-the-interaction-of-zap-70-and-syk-protein-tyrosine-kinases-with-the-t-cell-antigent-receptor-by-plasmon-resonance-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-bu-pnas-1995-analysis-of-the-interaction-of-zap-70-and-syk-protein-tyrosine-kinases-with-the-t-cell-antigent-receptor-by-plasmon-resonance-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-cell2007-kuryan-structural-basis-for-the-inhibition-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-clinical-immunology-2017-two-novel-mutations-in-zap70-gene-that-result-in-human-immunodeficiency-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-cottat-scientific-reports---2017-phosphorylation-impact-on-spleen-tyrosin-kinase-conformation-by-surface-enhanced-raman-spectroscopy-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-crystal-structures-of-spleen-tyrosine-kinase-in-complex-with-two-novel-4-aminopyrido--pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-deindl-cell-2007-structural-basis-for-the-inhibition-of-tyrosine-kinase-activity-of-zap-70-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-deindl-pnas-2009-stability-of-an-autoinhibitory-interface-in-the-structure-of-the-tyrosine-kinase-zap-70-impacts-t-cell-receptor-response-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-deindl-pnas-2009-stability-of-an-autoinhibitory-interface-in-the-structure-of-the-tyrosine-kinase-zap-70-impacts-t-cell-receptor-response-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-fasbender-frontiers-immunology-2017-differential-requirements-for-src-family-kinases-in-syk-for-zap-70-mediated-slp-76-phosphorylation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-folmer-biochemistry-2002-crystal-structure-and-nmr-studies-of-the-apo-sh2-domains-of-zap70-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-huber-2015-ploscompbiol-the-structural-basis-for-activation-and-inhibition-of-zap-70-kinase-domain-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-j-biol-chem--2002-huang-29330-41-the-novel-role-of-teh-c-terminal-region-of-shp-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-j-biol-chem--2004-jin-42818-25-structure-of-kd-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-j-biol-chem--2011-bond-25872-81-molecular-mechanisms-of-selective-recuitment-of-syk-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-jem-zap70-mutations-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-katz-nature-immunology-2017-a-cycle-of-zap70-kinase-activation-and-release-from-the-tcr-amplifies-and-disperses-antigenic-stimuli-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-katz-nature-immunology-2017-a-cycle-of-zap70-kinase-activation-and-release-from-the-tcr-amplifies-and-disperses-antigenic-stimuli-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-klammt-natimmunol-2015-t-cell-receptor-dwell-times-control-the-kinase-activity-of-zap70-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-klammt-natimmunol-2015-t-cell-receptor-dwell-times-control-the-kinase-activity-of-zap70-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-knight-chemistryandbiology2005-features-of-selective-kinase-inhibitors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-liaunardy-jopeace-2017-natstructmolbiol-enconding-optical-control-in-lck-kinease-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-lillemeier-2020-nature-immunology-cars-need-a-jump-start-to-get-going-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-loss-of-ub-sites-in-fusions-latysheva-molcell-2016-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-lovering-et-al-2012-chemical-biology-drug-design-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-natimun2017-katz-a-cycle-of-zap70-kinase-activation-and-release-from-the-tcr-amplifies-and-disperses-antigentic-stimuli-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-smyth-jchembiol-2009-measuring-and-interpreting-the-selectivity-of-protein-kinase-inhibitors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-syk-inhibitors-in-clinical-development-for-hematological-malignancies-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-syk-inhibitors-in-clinical-development-for-hematological-malignancies-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-tcr-signaling---mechanisms-of-initiation-and-propagation-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-visperas-slas-discov-2017-identification-of-inhibitors-of-the-association-of-zap70-with-the-t-cell-receptor-by-high-throughput-screen-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-wang-clinica-chimica-acta-2018-zap70-in-chronic-lymphocytic-leukemia-a-meta-analysis-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-zap-70-in-signaling-biology-disease-art-weiss-ari-review--jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-zap70-in-signaling-biology-and-disease-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-literature-zap70-literature-review-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-miki-zap70-phosphorylation-check-exp10-12-wt-vs-yyaa-102618-results-eln-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-mst-20191114-zap70-mst-del-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-05-16-2019-zap70-huber-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-20190712-zap-70-off-site-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-20190712-zap-70-off-site-v1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-kickoff-slides-collated-final3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-2019-01-16-zap70-kickoff-del-slides-revised-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-del-screening-strategy-updated-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-ppt-zap70-jose-marcella-kathleen-kyle-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-ppt-zap70-jose-marcella-kathleen-kyle-v2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-ppt-zap70-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-ppt-zap70-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-slides-collated-v5-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-kickoff-slides-collated-v7-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-presentations-project-kick-off-meeting-zap70-tools-and-reagents-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-sop-protein-purification-zap-70-kd-del--nbvc-n00042-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-sop-protein-purification-zap-70-kd-xtal--nbvc-n00030-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-05-17-2019-nbvc-n42-zap-70-kd-buffer-screen-2019-05-17-mb266-nbvc-n42-zap70-kd-buffer-screen-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-053119-protein-ms-421b-1--2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-06-14-2019-n42-n30-zap70kd-syk-fl-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-05-14-1427pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-05-14-1427pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-05-14-1427pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-05-15-1511pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-05-15-1511pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-05-15-1511pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1340pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1340pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1340pdt-t6-074-nbvc-n30-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1340pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1340pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1351pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1351pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1351pdt-t6-074-n42-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1351pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1351pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1430pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1430pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1430pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1714pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1714pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1714pdt-t6-074-n30-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1714pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1714pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1725pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-06-15-2019-kd-n42-n30-syk-fl-2019-06-14-1725pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-06-14-1725pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-09-25-2019-zap-70-kd-n42-n30-tycho-ms-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n30-atp-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n30-ms-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n30-pcp-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n42-atp-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n42-ms-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-092519-qc-n42-pcp-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-10-09-2019-zap-70-fl-tycho-ms-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-2019-09-25-1702pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-2019-09-25-zap70kd-nbvc-n30-3a-nbvc-42-1btycho-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-09-25-2019-tycho-and-ms-kd-n42-1b-n30-3a-2019-10-07-zap70-fl-mb204-8a-tycho-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-10-09-2019-zap-70-fl-tycho-ms-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-atp1h-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-atp3h-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-atpon-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-pnp1h-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-pnp3h-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-100819-zap70-pnpon-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1741pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1741pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-10-07-1741pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1741pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-all-compiled-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1911pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-1911pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-10-07-1911pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-07-zap70-fl-mb204-8a-tycho-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-08-0940pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-2019-10-08-0940pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-10-08-0940pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-all-compiled-for-presentation-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-08-2019-tycho-and-ms-fl-mb204-8a-all-compiled-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-10-11-2019-zap-70-fl-tycho-ms-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-102419-zap70qc-wt-atp-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-102419-zap70qc-wt-pnp-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1418pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1429pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1439pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1517pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-1700pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-all-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-zap70-fl-mb204-8a-and-d461n-tycho-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-11-2019-tycho-and-ms---mb204-8a-mb183-biot-julie-2019-10-11-zap70-fl-mb204-8a-tycho-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-10-18-2019-zap-70-thermostability-project-team-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-20190726-zap70-dsf-002-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-dsf-07292019-delcompounds-dsf-tycho-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-dsf-07292019-delcompounds-dsf-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-dsf-20190726-zap70-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-0753pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-0753pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-0753pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-0808pdt-t6-074-1-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-0808pdt-t6-074-1-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-0808pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1409pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1409pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1409pdt-t6-074-presentation-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1409pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1409pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1409pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-summary-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1432pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1432pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1432pdt-t6-074-presentation-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1432pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1432pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1457pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1457pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1457pdt-t6-074-presentation-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1457pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1457pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1603pdt-t6-074-raw-and-processed-data-database-files-readme-txt
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1603pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1603pdt-t6-074-presentation-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-1603pdt-t6-074-raw-and-processed-data-spreadsheets-with-charts-2019-07-30-1603pdt-t6-074-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-summary-prt-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-2019-07-30-summary-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-thermostability-assay-of-zap70-d461n-with-del-compounds-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-thermal-stability-fl-d461n-tycho-del-zap70-d461n-del-compounds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-08-09-2019-amp-pnp-selections-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-2019-01-30-zap70-alt-selection-plan-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-2019-03-05-zap70-screentest-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-2019-03-15-zap70-immobilized-deck1-2-selection-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-del-zap70-tracking-sheet-ondna-offdna-hits-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-delzap70hitreysnthesiscompounds07252019-pplogp-simplusprops-nm-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-draft-selection-plan-template-for-mb-20181002---mb-modif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-potential-secondary-selectionv2-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-potential-secondary-selectionv2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-potential-secondary-selectionv4-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70-potential-secondary-selectionv5-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-nurix-drug-discovery-programs-zap-70-zap-del-zap70platemappingoutput-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200720-kl-adar-meeting-3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200731-adar-catalytic-expression-summary-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200828-adar1-outsourced-projects-jose-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200828-adar1-outsourced-projects-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200901-kl-adar-outsource-protein-production-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200901-kl-adar-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-20200904-kl-adar-purified-targets-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-asec-20211008-adar1-asec-del-screen-buffer-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-bps-adar1-p150-20220204-adar1-p150-bps-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar1-catalytic-proteros-20201112-adar1-catalytic-proteros-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar1-catalytic-proteros-productinformation-ops---batch20-4-002-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar1-catalytic-viva-20201013-adar1-catalytic-sanofi-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar2-catalytic-viva-20210122-adar2-catalytic-viva-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-catalytic-domain-qc-reports-adar2-catalytic-viva-adar2-progress-summary-12182020-2-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-construct-design-plans-03-21-2020-ordered-adar1-screening-constructs-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-construct-design-plans-20200226-additional-adar1-constructs-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-construct-design-plans-adar-yeast-constructs-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-construct-design-plans-adar1-constructs-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-del-screens-adar-protein-priorities-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-dsf-20210514-necc-n00257-1a-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-dsf-20210709-snf02-covalent-del-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-dsf-20220425-necc-n00257-1b-1352-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-limited-proteolysis-20210518-necc-n00257-1a-protease-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-athanasiadis-2005-jmb-the-crystal-structure-of-the-zb-domain-of-the-rna-editing-enzyme-adar1-reveals-distinct-conserved-surfaces-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-bavelloni-et-al---2019---akt-dependent-phosphorylation-of-the-adenosine-deaminases-adar1-and--2-inhibits-deaminase-activity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-beal---2020---high-throughput-mutagenesis-reaveals-unique-structure-features-of-human-adar1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-eggington-et-al---2011---predicting-sites-of-adar-editing-in-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-eggington-et-al---2011---supp-predicting-sites-of-adar-editing-in-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-j-biol-chem--2003-cho-17093-102-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-j-biol-chem--2007-valente-16054-61-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-macbeth-2005-science-inositol-hexakisphosphate-is-bound-in-theadar2-core-and-required-for-rna-editing-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-macbeth-2005-science-inositol-hexakisphosphate-is-bound-in-theadar2-core-and-required-for-rna-editing-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-macbeth-et-al---2007---large-scale-overexpression-and-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-matthews-et-al---2016---structures-of-human-adar2-bound-to-dsrna-reveal-baseflipping-mechanism-and-basis-for-site-selectivity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-nishikura-2006-natrevmolcellbiol-editor-meets-silencer---cross-talk-between-rna-editing-and-rna-interference-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-ota-et-al---adar1-forms-a-complex-with-dicer-to-promote-microrna-processing-and-rna-induced-gene-silencing-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-ramos-et-al-2000-the-embo-journal-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-ring-et-al---2004---purification-and-assay-of-recombinant-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-rna-2003-wong-586-98-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-schwartz-1999-science-crystal-structure-of-the-z-alpha-domain-of-the-human-editing-enzyme-adar1-bound-to-left-handed-z-dna-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-literature-thuy-bound-et-al---2020---asymmetric-dimerization-of-adenosine-deaminase-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-n-za-zb-buffer-stability-test-20211130-kl-necc-n00257-3a-3b-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-n-za-zb-buffer-stability-test-20211202-kl-necc-n00257-3a-3b-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-nmr-nuwo-nn-ls01-jan17-2022-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-nmr-nuwo-nn-ls02-march21-2022-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-catalytic-proteros-20201112-adar1-catalytic-proteros-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-catalytic-viva-sanofi-20201013-adar1-catalytic-sanofi-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-p110-adar2-fl-sino-20210208-adar1-p110-adar2-fl-sino-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-p150-bps-20201013-adar1-p150-bps-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar1-p150-bps-20201112-adar1-catalytic-proteros-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-outsourced-protein-production-qc-reports-adar2-catalytic-viva-20210122-adar2-catalytic-viva-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-20211111-adar1-p110-panta-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-20211130-adar1-p110-panta-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-first-run-2-buffer-2-nurix-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-first-run-data-table-dls-demo-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-first-run-data-table-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-second-run-data-table-dls-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-panta-prometheus-second-run-data-table-dsf-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-03-25-2020-protein-production-update-adar1-project-team-meeting-mlmnotes-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200609-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200616-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200630-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200710-adar-protein-production-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200717-adar-protein-production-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200720-kl-adar-update-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200811-kl-adar-update-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200901-kl-adar-outsource-protein-production-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200901-kl-adar-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200904-kl-adar-purified-targets-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200915-kl-adar-update-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200916-kl-adar-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20200928-kl-adar-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201013-kl-adar-update-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201014-kl-adar-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201111-kl-adar-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201123-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20201215-adar1-jrc-meeting-kl-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210105-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210120-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210126-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210216-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210217-kl-adar-meeting-external-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210220-kl-adar-del-screen-meeting-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210220-kl-adar-del-screen-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210224-kl-adar1-jrc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210228-adar1-p110-adar2-fl-sino-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20210302-kl-adar-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-20220727-snf02-constructs-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-protein-production-updates-adar-protein-production-progress-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-purifications-20211122-kl-purification-necc-n00257-3a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-purifications-20220523-kl-purification-necc-n00689-1a-n00807-1a-1b-1c-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-smscpur-20220315-necc-n689-n690-n691-n692-n693-n694-n695-n696-n697-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-expression-sop-protein-purification-adar1-z-alpha---necc-n00210-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-expression-sop-protein-purification-adar1-z-alpha-z-beta--necc-n00252-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-expression-sop-protein-purification-adar1-z-beta---necc-n00209-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-catalytic-domain---necc-n00-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-rbd3-and-z-beta-rbd1---necc-n00208-n00259-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-z-alpha---necc-n00210-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-z-alpha-z-beta--necc-n00252-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-z-alpha-z-beta-rbd1-3---necc-n00261-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar1-z-beta---necc-n00209-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-adar2-catalytic-domain---nbvc-n00129-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-sops-protein-purification-sop-protein-purification-refolding-large-scale-adar1-n-term-z-alpha-z-beta---necc-n00256-n00257-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-viva-estimates-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-adar1-snf02-z-dna-binding-20220301-kl-necc-n00257-1b-zdna-binding-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-05142020-craf-crystallography-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-07162020-c-raf-del-screen1-protein-delivery-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-200615-mattos-c-raf-cr1-domain-polypeptide-sequence-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-2021-0318-n478-2a-qc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-c-raf-biochemical-assays-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-clones-04-18-2020-raf-ext-crystallography-constructs-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-clones-14-3-3-designed-clones-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-clones-clones---del-wave-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-construct-design-plans-03-14-2020-raf-constructs-final-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-construct-design-plans-construct-design-03-15-2020-v5-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-construct-design-plans-raf-disorder-predictors-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-cr1-constructs-120920-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-craf-braf-phophorylations-041921-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-craf-fl-overview-112321-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-craf-kd-overview-05102021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-alabi-2021-natcom-mutant-selective-degradation-by-braf-targeting-protacs-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-athuluri-divakar-2016-a-small-molecule-ras-mimetic-disrupts-ras-association-with-effector-proteins-to-block-signaling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-athuluri-divakar-2016-a-small-molecule-ras-mimetic-disrupts-ras-association-with-effector-proteins-to-block-signaling-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-brummer-2020-oncogene-raf-kinase-dimerization-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-buhrman-2007-structure-transformation-efficiency-of-q61-ras-mutants-linked-to-structural-features-of-the-switch-regions-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-buhrman-et-al-2010-allosteric-modulation-of-ras-positions-q61-for-a-direct-role-in-catalysis-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-buhrman-et-al-2010-allosteric-modulation-of-ras-positions-q61-for-a-direct-role-in-catalysis-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-cookis-et-al-2020-crystal-structure-reveals-the-full-rasraf-interface-and-advances-mechanistic-understanding-of-raf-activation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-cope-chembiochem-2018-mechanism-of-braf-activation-through-biochemical-characterization-of-the-recombinant-full-length-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-degirmenci-2020-cells-targeting-aberrant-ras-raf-mek-erk-signaling-for-cancer-therapy-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-eisenhardt-2016-oncotarget-phospho-proteomic-analysis-of-braf-protein-complexes-reveal-new-regulatory-principles-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-fang-2020-pnas-multivalent-assembly-of-kras-with-the-ras-binding-domain-and-cystein-rich-domains-of-craf-of-the-membrane-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-fang-2020-pnas-multivalent-assembly-of-kras-with-the-ras-binding-domain-and-cystein-rich-domains-of-craf-of-the-membrane-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-fetics-2015-structure-allosteric-effects-of-the-oncogenic-rasq61l-mutant-on-raf-rbd-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-filchtinski-2010-jmolbiol-what-makes-ras-an-efficient-molecular-switch-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-fischer-2007-j-biol-chem--b-and-c-raf-display-essential-differences-in-their-binding-to-ras-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-grasso-2018--thesis--development-and-characterization-of-novel-raf-dimer-inhibitors-to-target-brafv600e-inhibitor-resistance-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-gronenborn-science-1991-a-novel-highly-stable-fold-of-the-immunoglobulin-binding-domain-of-streptococcal-protein-g-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-haling-2014-cancercell-structure-of-the-braf-mek-complex-reveals-a-kinase-activity-independent-role-for-braf-in-mapk-signalling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-haling-2014-cancercell-structure-of-the-braf-mek-complex-reveals-a-kinase-activity-independent-role-for-braf-in-mapk-signalling-sup-data-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-hatzivassiliou-nature-2010-raf-inhibitors-prime-wild-type-raf-to-activate-the-mapk-pathway-and-enhance-growth-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-hekman-2002-j-biol-chem--associations-of-b--and-c-raf-with-cholesterol-phosphatidylserine-and-lipid-second-messengers-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-j-biol-chem--1994-ghosh-10000-7-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-karoulia-2016-cancer-cell-an-integrated-model-of-raf-inhibitor-action-predicts-inhibitor-activity-against-oncogenic-braf-signaling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-kondo-2019-nature-cryo-em-structure-of-a-dimeric-b-raf-14-3-3-complex-reveals-asymmetry-in-the-active-sites-of-b-raf-kinases-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-kondo-2019-nature-cryo-em-structure-of-a-dimeric-b-raf-14-3-3-complex-reveals-asymmetry-in-the-active-sites-of-b-raf-kinases-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-lakshman-et-al-2019-quantitative-biophysical-analysis-defines-key-components-modulating-recruitment-of-the-gtpases-kras-to-the-plasma-membrane-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-li-et-al-structure-2018-raf-1-cysteine-rich-domain-increases-the-affinity-of-k-ras-raf-at-the-membrane-promoting-mapk-signaling-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-matallanas-2011-genes-cancer-raf-family-kinases-old-dogs-have-learned-new-tricks-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-mazhab-jafari-2015-pnas-oncogenic-and-rasopathy-associated-k-ras-mutations-relieve-membrane--dependent-occlusion-of-the-effector-binding-site-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-mott-1996-pnas-the-solution-structure-of-the-raf-1-cysteine-rich-domain---a-novel-ras-and-phospholipid-binding-site-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-nassar-1996-nsb-ras-rap-effector-specificity-determine-by-charge-reversal-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-niault-2010-carcinogenesis-targets-of-raf-in-tumorigenesis-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-nussinov-et-al-2019-does-ras-activate-raf-and-pi3k-allosterically-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-park-2019-nature-architecture-of-autoinhibited-and-active-braf-mek1-14-3-3-complexes-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-park-2019-nature-architecture-of-the-autoinhibited-and-active-braf-mek1-14-3-3-complexes-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-pelkmans-et-al--2005-nature-genome-wide-analysis-of-human-kinases-in-clathrin-and-caveolae-raft-mediated-endocytosis-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-poulikos-2010-nature-raf-inhibitors-transactivate-raf-dimers-and-erk-signaling-in-cells-with-wild-type-braf-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-priyanka-et-al-2019-science-report-three-distinct-regions-of-craf-kinase-domain-interact-with-membrane-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-puttick-a-raf-purification-phd-thesis-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-raf-constructs-pdf-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-rapp-cancer-cell-2006-bucy-rafs-drive-cells-into-mek-addiction-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-review-structural-snapshots-of-raf-kinase-interactions-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-robertson-2006-molbiolcell-extracellular-signal-regulated-kinase-regulates-clathrin-independent-endosomal-trafficking-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-roskoski-2010-biochbiophyrescomm-raf-protein-serine-threonine-kinases-structure-and-regulation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-smith-2017-bioorganic-medchem-letters-imidazo-1-2-6-yl-benzamide-analogs-as-potent-raf-inhibitors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-sun-2019-structures-of-braf-mek1-14-3-3-sheds-light-on-drug-discovery-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-tang-2015-molecular-cancer-therapeutics---bgb-283--a-novel-raf-kinase-and-e-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-terai-et-al-2005-ras-binding-opens-c-raf-to-expose-the-docking-site-for-mitogen-activated-protein-kinase-kinase-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-thevakumaran-2014-natstructbiol-crystal-structure-of-a-braf-kinase-domain-monomer-explains-basis-for-allosteric-regulation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-tran-2020-kras-interaction-with-raf1-ras-binding-domain-and-cysteine-rich-domain-provides-insights-into-ras-metdiated-raf-activation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-travers-et-al-2018-molecular-recognition-of-ras-raf-complex-at-the-membrane-role-of-raf-cysteine-rich-domain-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-travers-et-al-2020-biophysical-journal-anionic-lipids-impact-ras-binding-site-accessibility-and-membrane-binding-affinity-of-craf-rbd-crd-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-tsai-2008-pnas-discovery-of-a-selective-inhibitor-of-oncogenic-b-raf-kinase-with-potent-antimelanoma-activity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-wan-2004-cell-mechanism-of-activation-of-the-raf-erk-signalign-usecdc37-for-coexpression-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-wan-2004-cell-mechanism-of-activation-of-the-raf-erk-signalign-usecdc37-for-coexpression-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-yang-2006-pnas-structural-basis-for-protein-protein-interactions-in-the-14-3-3-protein-family-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-yang-2006-pnas-structural-basis-for-protein-protein-interactions-in-the-14-3-3-protein-family-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-yuan-2018-oncogene-the-dimer-dependent-catalytic-activity-of-raf-family-kinases-is-revealed-through-characterizing-their-oncogenic-mutants-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-zaman-et-al-cancer-2019-targeting-oncogenic-braf-past-present-and-future-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-literature-zhang-2021-cancer-research--a-biophysical-membrane-centric-perspective-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-project-team-meetings-210405-snf03-sanofi-update-final-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-project-team-meetings-210527-cr1-mutnras-complex-del-screen-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-12072020-cr1-slide-jrc-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-20210513-snf03-protein-for-crystallography---jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-presentation-sanofi-082420-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-011922-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-031822-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-040221-nras-cr1-complex-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-042722-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-051822-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-052820-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-061520-protein-science-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-061920-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-063021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-080421-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-080620-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-082720-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-122220-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-tycho-dsf-072221-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-c-raf-protein-science-update-xtal-update-051021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-complex-nras-cr1-061721-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-craf-asec-with-9739-update-031522-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-protein-science-update-template-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-070620-craf-kd-abcam-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-20200723-raf-kinase-domain-qc-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-ab271473-lot-gr3349669-summary-data-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-c-raf-kd-062920-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-c-raf-kd-103020-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-purchased-protein-nurix-purchased-c-raf-kd-comparison-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-raf-binders-for-ctm-summary--2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sanoficlones-c-raf-productionprogressupdate-v1-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-snf03-protein-delivery-barcoded-ts01490154-020221-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-e-coli-expression-tests-b-raf-rbd-crd-2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-e-coli-expression-tests-c-raf-b-raf-rbd-crd-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-14-3-3-zeta-epsilon-n338-1-2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-14-3-3-zeta-epsilon-n343-1-2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-n-structural-domain-1-372-n218-1-n247-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-n-structural-domain-1-372-n247-2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-n-structural-domain-1-372-n247-3-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-rbd-crd-151-299-n241-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-b-raf-rbd-crd-n399-1-n400-1-n401-1-n402-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-n-structural-domain-1-265-n280-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-151-280-n263-1-n265-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-52-184-n217-1-n219-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-52-184-n217-2-n219-2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-52-184-n240-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-52-184-n240-2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-expression-sop-protein-expression-c-raf-rbd-crd-n313-1-n314-1-n315-1-n323-1-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-lascpu-nbvc-n352-n353-n354-n355-05042021-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-lascpu-nbvc-n354-05122021-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-14-3-3-zeta-epsilon-n338-1a-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-14-3-3-zeta-epsilon-n343-1a-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-6h-gb1-avi-n473-1a-033122-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-avi-gb1-tag-n418-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-c--structural-domain-373-766-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-fl-1-766-n154-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n174-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n174-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n174-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n177-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n177-2a-n182-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n182-2-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-kd-432-726-n182-4a-b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-n--structural-domain-1-372-n218-n247-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-n--structural-domain-1-372-n247-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-n--structural-domain-1-372-n247-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-rbd-crd-150-296-n399-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-rbd-crd-150-296-n399-400-401-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-b-raf-rbd-crd-150-296-n424-427-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n20913-1a-20916-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n422-1c-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n426-1a-422-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n426-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n524-1a-n525-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n524-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-b-raf-cr1-n525-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-fl-1-648-n158-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n168-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n175-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n176-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n176-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-kd-323-618-n176-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-n--structural-domain-1-265-n280-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-184-n217-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-184-n217-2a-n240-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-184-n240-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-184-n240-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-196-n313-314-323-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-196-n420-421-422-423-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-c-raf-rbd-crd-52-196-n422-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-craf-cr1-52-187--nras-1-167-necc-n00525-1a-necc-n00722-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n236-n238-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-gst-c-raf-kd-306-648-y340d-y341d-n365-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-necc-n248-1a-b-07072021-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-nras-1-167-necc-n00721-722-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-nras-1-189-necc-n00478-1a-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-nras-1-189-necc-n00478-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-raf-fl-n158-3a-n154-3a-mek-n222-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-raf-fl-n223-1a-n224-1a-mek-n222-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-protein-purification-small-scale-kingfisher-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-smscpu-necc-n248-n250-n412-n413-n414-n415-04072021-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-smscpu-necc-n412-n413-04202021-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-craf-snf03-sop-purification-sop-smscpu-necc-n518-n519-n520-n521-05142021-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-20210129-irf5-draft-proposal-v4-ddt-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-20220726-snf05-flproteinupdate-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-20241016-snf05-internalmeeting-proteinprodupdate-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-20250109-snf05-recap-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-210921-irf-phosphopeptidemapping-jiwen-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-211122-irf-phosphopeptidemapping-jiwen-jaipal-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-commercial-sources-irf5-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-irf5--target-evaluation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-irf5-del-august2019-v5-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-andrilenas-2018-nar-dna-binding-landscape-of-irf3-irf5-and-irf7-dimers---implications-for-dimer-specific-gene-regulation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-badis-2009-science-diversity-and-complexity-in-dna-recognition-by-transcription-factors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-balkhi-2008-molcelbiol-functional-regulation-of-myd88-activated-interferon-regulatory-factor-5-by-k63-linked-polyubiquitination-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-chang-2012-plos-one-activation-of-interferon-regulatory-factor-5-by-site-specific-phosphorylation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-chang-j-steroid-biochemistry-1989-isolation-and-characterization-of-human-tr3-receptor--a-member-of-the-steroid-receptor-superfamily-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-chen-2008-nsmb-insights-into-interferon-regulatory-factory-activation-from-the-crystal-structure-of-dimeric-irf5-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-faust-2020-annrevcancerbiol-small-molecule-approaches-to-targeted-protein-degradation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-ferrandez-2017-scireports-allosteric-inhibition-of-the-guanine-nucleotide-exchange-factor-dock5-by-a-small-molecule-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-foreman-2012-plos-one--activation-of-interferon-regulatory-factor-5-by-site-specific-phosphorylation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-henley-2021-natrevdrugdisc-advances-in-targeting-undruggable-transcription-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-honda-2006-irfs-master-regulators-of-signalling-by-toll-like-receptors-and-cytosolic-pattern-recognition-receptors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-hu-2017-molcell-celastrol-induced-nur77-interaction-with-traf2-alleviates-inflammation-by-promoting-mitochondrial-ubiquitination-and-autophagy-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-j-biol-chem--2005-caillaud-17671-7-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-liaunpd-etal-2019-cancers-jak1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-pnas-2002997117-sapp-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-ren-2014-pnas-ikkb-is-an-irf5-kinase-that-instigates-inflammation-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-literature-safe-2020-molcancerres-the-paradoxical-roles-of-orphan-nuclear-receptor-4a-in-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-rcsb-pdb-custom-report-20201228083236-irf5-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-11sep2023-sec-mals-n20106-n20107-dc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210309-necc-n452-n453-snf05-tad-smscexpr-smscpur-21-03-08-protein-expression-irf5-tad-platemap-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210309-necc-n452-n453-snf05-tad-smscexpr-smscpur-21-03-09-protein-expression-irf5-tad-necc-n452-n453-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210309-necc-n452-n453-snf05-tad-smscexpr-smscpur-21-03-10-necc-n452-n453-smscpur-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210309-necc-n452-n453-snf05-tad-smscexpr-smscpur-21-03-10-necc-n452-n453-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210316-n454-n455-n456-n457-n458-n459-smscexpr-smscpur-21-03-16-protein-expression-snf05-tad-necc-n454-455-456-457-458-459-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210316-n454-n455-n456-n457-n458-n459-smscexpr-smscpur-21-03-18-necc-n454-n455-n456-n457-n458-n459-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-20210317-necc-n466-n468-asec-strepshiftgel-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-20210317-results-necc-n466-n468-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-21-02-29-protein-expression-irf6-tad-necc-n461-462-466-468-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-21-02-29-protein-expression-irf6-tad-platemap-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-21-03-15-necc-n466-n468-nbvc-n344-1-n346-1-n347-1-smscpur-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210317-n466-n468-asec-and-strepshift-21-03-15-necc-n466-n468-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-20210317-protein-expression-irf6-tad-necc-n461-462-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-20210318-purify-his-tag-n474-475-481-483-461-462-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-20210318-results-necc-n461-n462-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-21-02-29-protein-expression-irf6-tad-necc-n461-462-466-468-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-21-02-29-protein-expression-irf6-tad-platemap-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-21-03-04-necc-n461-n462-smscpur-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n461-n462-smscexpr-smscpur-21-03-04-necc-n461-n462-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n474-n475-n481-n483-smscexpr-smscpur-20210317-protein-expression-snf05-fl-n474-n475-n481-n483-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n474-n475-n481-n483-smscexpr-smscpur-20210318-purify-his-tag-n474-475-481-483-461-462-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n474-n475-n481-n483-smscexpr-smscpur-20210318-results-necc-n474-n475-n481-n483-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210318-n474-n475-n481-n483-smscexpr-smscpur-21-03-17-necc-n474-n475-n481-n483-snf05fl-smscexpr-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210319-results-snf05-smscpur-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210326-necc-n481-n483-smscexpr-smscpur-21-03-26-protein-expression-snf05-fl-n481-n483-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210326-necc-n481-n483-smscexpr-smscpur-21-03-29-necc-n481-n483-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210329-results-necc-n00453-1a-2a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210329-results-necc-n00466-1a-2a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210407-irf5-irf6-tad-dimers-n452-n459-n461-n463-20210407-protein-expression-snf05-n452-n459-n461-n463-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210407-irf5-irf6-tad-dimers-n452-n459-n461-n463-20210409-results-necc-n452-n459-n461-n463-smscexpr-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210413-nbvc-n329-n330-n367-n368-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210414-nbvc-n367-n368-p2-asec-20210413-n367-n368-p2-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210414-nbvc-n367-n368-p2-asec-21-04-13-nbvc-n329-n330-n367-n368-p2-smscpur-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210414-nbvc-n367-n368-p2-asec-21-04-13-nbvc-n329-n330-n367-n368-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210415-summary-irf5-updates-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210420-results-abcam-origene-irf5-protein-qc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210423-nbvc-n7-1-n366-1-n367-1-n368-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210426-results-nbvc-n00366-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210503-summary-nbvc-n366-n367-n368-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210510-results-nbvc-n00368-2a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210512-summary-nbvc-n00366-2a-3a-4a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210524-results-necc-n00453-3a-necc-n00466-3a-peptidebinding-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210609-results-nbvc-n00366-6a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210702-results-nbvc-n00366-n00368-peptidebinding-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210831-results-nbvc-n00366-7a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20210922-results-n615-n616-n618-smscexpr-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211004-results-necc-n00562-2a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211005-results-smscpur-nmac-n24-n25-n26-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211110-results-smscpur-nmac-n20-nbvc-n126-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211112-results-necc-n00562-nrx-0404529dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211120-results-smscpur-nmac-n27-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211202-nmac-n00026-1a-nmac-n00027-1a-nbvc-n00368-3a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211202-results-nmac-n00026-1a-nmac-n00027-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211203-results-asec-nbvc-n00163-2a-nbvc-n00005-nbvc-n00025-6b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20211220-results-nmac-n00024-1a-nmac-n00025-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220124-results-asec-snf05-fl-dimer-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220216-results-smscpur-nbvc-n504-n505-n506-n507-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220310-results-smscpur-irf5-irf6-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220328-results-asec-snf05-irf6-fl-dimer-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220407-snf05-bv-construct-comparison-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220426-snf05-ec-flmonomer-assessment-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220503-results-nbvc-n00504-2a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220516-results-nbvc-n00366-8d-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20220617-results-smscexp-and-smscpur-of-new-irf5-clones-exemplified-at-genscript-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20221128-results-nbvc-n20839-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20221212-results-necc-n21317-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20221220-snf05-fl-dimer-purifications-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20230403-snf05-thermal-stability-follow-up-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20230404-results-irf5-fl-2312-2565-asec-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20230505-snf05-thermal-stability-follow-up-absolute-fluorescence-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20230818-snf05-sec-mals-compound-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20231031-results-nbvc-n20106-n20107-001a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240229-results-nmac-n20106-005a-n20107-004a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240307-sec-mals-irf5-fl-in-vitro-phos-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240314-sec-mals-irf5-fl-in-vitro-phos-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240416-results-snf05-tc-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240503-irf5-in-vitro-phosphorylation-secmals-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240508-irf5-in-vitro-phosphorylation-secmals-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-results-20240909-mtbk1-small-scale-in-vitro-phosphorylation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-snf-05-protein-production-progress-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-20240507-nbvc-n00366-in-vitro-phosphorylation-20240507-irf5-fl-dimer-in-vitro-phos-secmals-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-20240507-nbvc-n00366-in-vitro-phosphorylation-20240611-irf5-in-vitro-phosphorylation-secmals-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nbvc-n00384-20211011-nbvc-n00384-2a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nbvc-n00384-20211011-nbvc-n00384-2a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nbvc-n00384-20211011-results-nbvc-n00384-2a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20210517-necc-n00453-3a-necc-n00466-3a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20210517-necc-n00453-3a-necc-n00466-3a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20211004-necc-n00453-5a-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20211004-necc-n00453-5a-purif-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-necc-n00453-20211004-results-necc-n00453-5a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nmac-n24-n25-n26-n27-20211202-results-nmac-n00026-1a-nmac-n00027-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nmac-n24-n25-n26-n27-20211215-nmac-n00024-1a-nmac-n00025-1a-proteinpurification-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-sops-nmac-n24-n25-n26-n27-20211215-nmac-n00024-nmac-n00025-buffertable-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-irf5-snf05-target2-20201218-v1-jose-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-20211101-snf04-proteins-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-20220817-kl-purification-necc-n00846-1a-1b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-20240124-snf04-structural-bio-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-20240318-snf04-structure-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-asec-20220316-nr4a1-7788-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-asec-20220324-nr4a1-7788-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-asec-20221205-nr4a1-nr4a2-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-clones-03-04-2021-evotec-construct-design-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-clones-fl-nur77-constructs-ordered-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-commercial-sources-nur77-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-cro-protein-production-20220613-evotec-nur77-bt-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-cro-protein-production-mammalian-scouting-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-cro-protein-production-nur77-ev30273-4-insect-scouting-02-june-2021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-dsf-20210503-dsf-lit-compounds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-fab-1669888019837-268-1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-fab-20230201-necc-n21209-001b-srp2070fab-binding-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-fab-quote-u186qhj240-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-idt-dna-quotes-quoterequest-qte-95743-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-nur-77-target-evaluation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-chang-j-steroid-biochemistry-1989-isolation-and-characterization-of-human-tr3-receptor--a-member-of-the-steroid-receptor-superfamily-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-jiang-2020-bbrc-structural-basis-of-nr4a1-bound-to-the-human-pituitary-proopiomelanocortin-gene-promoter-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-munoz-tello-et-al-2020-assessment-of-nr4a-ligands-that-directly-bind-and-modulate-the-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-pnas-2002997117-sapp-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-safe-2020-molcancerres-the-paradoxical-roles-of-orphan-nuclear-receptor-4a-in-cancer-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-wang-2008-nature-structure-and-function-of-nurr1-identifies-a-class-of-ligand-independent-nuclear-receptors-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-yang-2020-pnas-blocking-ppargamma-interaction-facilitates-nur77-interdiction-of-fatty-acid-uptake-and-surpresses-breat-cancer-progression-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-publications-zhan-et-al-2008-cytosporone-b-is-an-agonist-for-nuclear-orphan-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-rcsb-pdb-custom-report-20201221070748-nur77-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-20210430-necc-n446-1a-intactproteinreport-mass77kda-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-20210430-necc-n446-1a-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-20210430-necc-n447-1a-intactproteinreport-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-20220630-necc-n21150-n21151-n21152-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-21-03-26-necc-n448-n496-n497-smscpur-results-4-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-21-04-15-necc-n444-n445-n446-n447-smscpur-results-6-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-smscpur-n446-n447-ms-summary-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-snf04-protein-production-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-sops-sop-protein-purification-nur77-lbd-necc-n00443-1a-1b-20210228-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-sops-sop-protein-purification-nurr1-lbd-necc-n00450-1a-20210228-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-sops-sop-small-scale-protein-expression-purification-test-snf04-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-nur77-snf04-target1-20201216-mcc-jose-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-2020-0723-stat6-monomer-proteins-il4ra-bofl-unlabeled-il4r-peptides-vs-tracer-summary-2hr-v2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-clone-protparameters-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-construct-design-plans-20210322-mousesnf01-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-construct-design-plans-constructdesign-03-20-2020-ordered-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-construct-design-plans-stat6-constructs-expression-purification-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200602-results-nbvc-n00139-1b-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200603-results-nbvc-n00131-1a-analyticalsizing-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200605-results-jak2-invitrophospho-phostag-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200610-results-n133-n255-invitrojak2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200622-results-nbvc-n00139-2a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200701-dsfassay-stat6-n131-nrx6729-6730-6731-6575-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200826-results-n344-smscexpr-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20200929-results-nbvc-n225-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20201015-summary-jak1-cusabio-proteinqc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20201104-results-n131-invitrojak2-temp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20210112-results-dsfassay-stat6-cf-fl-cmpd-glomelt-finalslides-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20210119-results-dsfassay-stat6-cf-fl-cmpd-glomelt-finalresults-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20210416-results-nbvc-n00360-1b-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20210421-results-nbvc-n00360-1a-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20211110-results-asec-necc-n344-3a-necc-n201-2a-1252-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20211119-results-asec-necc-n344-3a-necc-n201-2a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20220518-results-asec-necc-n344-necc-n15-41-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20220531-summary-asec-necc-n344-necc-n15-41-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-20220606-results-asec-necc-n344-nbvc-n349-n351-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-21-04-20-necc-n504-n508-21-04-14-necc-n504-n508-smscexpr-smscpur-protocol-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-data-21-04-20-necc-n504-n508-21-04-20-necc-n504-n508-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-del-screen-plans-protein-targets-per-del-wave-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-del-screen-plans-stat6-target-review-and-del-screen-plan-20200311-wks-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-hit-validation-20201218-results-dsfassay-stat6-cf-fl-cmpd-glomelt-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200410-sanoficlones-stat6-productionprogressupdate-v1-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200518-stat6-jrcslides-v2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200618-sanofi-nurix-meeting-proteinproductionupdate-dimer-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200702-stat6-dsfassay-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200804-results-nbvc-n00210-1a-purif-sh2linkerdimer-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20200929-results-nbvc-n225-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20201201-results-nbvc-n131-1e-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20201202-stat6-jrcslides-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20201204-stat6-jrc-protchem-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210106-results-nbvc-n00225-1b-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210119-results-dsfassay-stat6-cf-fl-cmpd-glomelt-finalresults-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210121-summary-dsfassay-stat6-cf-fl-cmpd-glomelt-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210203-results-nbvc-n00225-3a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210304-summary-nbvc-n00225-dimer-compound-binding-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210415-snf01-internal-external-meetingnotes-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210427-results-nbvc-n00360-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210528-summary-dsfassay-stat6-cf-fl-jak1-cmpd-glomelt-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210607-dsf-methods-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210610-errorpropagation-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20210610-tmshift-table-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-meetings-and-presentations-20220330-snf01-proteinproductionsummary-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-bai-2019-cancer-cell-a-potent-and-selective-small-molecule-degrader-of-stat3-achieves-complete-tumor-regression-in-vivo-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-baudin-2013-methods-mol-biol-bacterial-expression-purification-and-crytallization-of-tyrosine-phosphorylated-stat-proteins-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-becker-et-al-1998-febs-letters-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-carrd-reversephasehplcmanual-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-danielc-2000-jbc-a-gain-of-function-mutation-in-stat6-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-dignamjd-etal-1983-nuclacidsres-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-exppurstat5b-2017-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-ferrao-2016-structure--the-structural-basis-for-class-2-cytokine-receptor-recognition-by-jak1-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-ferraoetal-2016-structure-jak1-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-haanetal-1999-jbiolchem-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-harpur-1992-oncogene-jak2-a-third-member-of-the-jak-family-of-protein-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-houj-etal-1994-science-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-hu-mcb-2015-impact-of-the-n-terminal-domain-of-stat3-in-stat3-dependent-transcriptional-activity-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-j-biol-chem--2000-daniel-14255-9-a-gain-of-function-mutation-in-stat6-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-li-pnas-2016-structural-basis-for-dna-recognition-by-stat6-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-li-pnas-2016-structural-basis-for-dna-recognition-by-stat6-si-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-liuba-etal-2017-methodsmolbiol-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-molecular-and-cellular-biology-1996-mikita-5811-full-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-molecular-and-cellular-biology-1999-john-1910-full-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-osbornl-etal-1989-immunology-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-schindler-1995-immunity-components-of-a-stat-recognition-code-jose-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-tkb1-competent-cells-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-publications-wilson-1987-jbacteriol-overproduction-of-the-mota-protein-of-ecoli-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-expression-bv-jak2-py-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-expression-largesc-bl21-de3-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-expression-smsc-ecoli-bl21-stat5a-stat6-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-expression-smsc-ecoli-tkb1-stat6-py641-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00131-132-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00131-132-py641-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00133-134-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00133-134-py641-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00139-denaturing-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00139-py641-denaturing-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00139-py641-soluble-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00139-soluble-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-nbvc-n00142-py694-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00212-denaturing-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00212-py641-denaturing-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00212-py641-soluble-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00212-soluble-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00215-denaturing-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00215-py641-denaturing-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00215-py641-soluble-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00215-soluble-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00216-255-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00216-255-py641-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00253-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00253-py641-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00254-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-protein-purification-necc-n00254-py641-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-sop-smscpur-kingfisher-n216-n254-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-sops---protein-expression-purification-template-sop-protein-purification-nbvc-n00037-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-stat6-protein-production-progress-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-stat6-snf01-wave1-stat6-plan-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-protein-sciences-updates-protein-science-update-01122023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-protein-sciences-updates-protein-science-update-03012023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-protein-sciences-updates-protein-science-update-11162022-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-avi-isg15-usp18-16-372-ncmp-n20044-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-avi-isg15-usp18-16-372-ncmp-n20044-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-bavi-usp18-49-372-nbvc-n20882-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-c-isg15-necc-n21540-21541-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-isg15-avi-necc-n21307-08-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-isg15-avi-necc-n21308-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-isg15-his-necc-n21308-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-musp18-46-368-nbvc-n20885-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20875-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-1b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-2a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-4a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-16-372-nbvc-n20879-5a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-49-371-y50l-m370t-e371g-nbvc-n20998-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-49-372-nbvc-n20876-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-fl-nbvc-n20877-2a-nbvc-n20874-3a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-fl-nbvc-n20878-1a-nbvc-n20871-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n20999-1a---nbvc-n21002-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n21000-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n21000-5a-and-tcf-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n21003-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18-xtal-nbvc-n21144-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18m-nbvc-n21135-1a-b-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp18m-nbvc-n21136-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-sop-purification-sop-protein-purification-usp25-necc-n21242-55-1a-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-sanofi-collaboration-programs-usp18-snf07-usp18-target-eval-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn02---bcl-results-20231211-necc-n21615-001a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn02---bcl-results-20231211-necc-n21626-001a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn02---bcl-results-20240108-necc-n21635-001a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-2025-08-14-atr-structuralbio-discussion-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-2025-08-20-sgn03-designed-constructs-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-20251118-clone-order-list-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-20260410-sgn03-biortus-protein-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-seagen-collaboration-programs-sgn03---atr-nurix-project-report-plasmid-design-20250912-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-t4-ligase-09-16-2019-n140-n143-small-scale-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-t4-ligase-191009-nurix-ligase-exonuclease-evaluation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-t4-ligase-smscpur-necc-n140-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-tech-dev---lysate-screen-20230421-mycpartnersprojectv2-docx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-tech-dev---lysate-screen-lysate-studies-flow-chart-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-tev-2018-09-13-necc-n00038-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-tev-20200720-results-necc-n00038-2a-proteinpurification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-tev-tropea-2009-methods-mol-biol---expression-and-purification-of-soluble-his6-tagged-tev-protease-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-projects-tp53-20260316-tp53-onboarding-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-projects-tp53-20260319-tp53-delps-considerations-pptx
 
 ### Protein Sciences Group Meetings  (639)
 
 Internal PS group meeting decks and notes spanning multiple years. Cluster by era; fold notable decisions into existing program pages where applicable.
 
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-01-16-2020-01-16-2020-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-01-16-2020-01-16-2020-weekly-planning-hb-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-01-16-2020-01-16-2020-weekly-planning-hb-el-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-01-16-2020-01-16-2020-weekly-planning-hb-el-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-06-27-2019-06-27-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-11-2019-07-11-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-11-2019-07-11-2019-weekly-planning-review-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-11-2019-07082019-on-going-project-activities-in-protein-sciences-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-18-2019-07-18-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-18-2019-07-18-2019-weekly-planning-revised-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-25-2019-07-25-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-25-2019-07-25-2019-weekly-planning-ea-revised-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-25-2019-07-25-2019-weekly-planning-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-01-2019-08-01-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-01-2019-08-01-2019-weekly-planning-new-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-01-2019-08-09-2019-weekly-planning-new-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-01-2019-bacmid-qc-n47-59-7-30-19-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-09-2019-08-09-2019-weekly-planning-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-17-2019-08-17-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-17-2019-08-17-2019-weekly-planning-eileen-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-22-2019-08-23-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-22-2019-08-29-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-29-2019-08-29-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-09-05-2019-09-05-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-09-12-2019-09-16-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-09-26-2019-09-26-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-09-26-2019-10-03-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-03-2019-10-03-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-17-2019-10-17-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-17-2019-2019-10-11-smscpur-p2-77-79-84-94-96-98-lascexp-51-85-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-24-2019-10-24-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-24-2019-10-24-2019-weekly-planning-new-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-31-2019-10-31-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-31-2019-10-31-2019-weekly-planning-new-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-07-2019-11-07-2019-weekly-planning-ea-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-07-2019-11-07-2019-weekly-planning-ea-js-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-07-2019-11-07-2019-weekly-planning-ea-js-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-11-15-2019-weekly-planning-ea-js-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-2019-11-04-smscpur-n49-2-55-60-71-2-72-2-88-91-96-98-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-2019-11-05-smscpur-n96-moi-n104-p2-n104-moi-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-2019-11-06-smscpur-n30-37-42-42-08-89-76-105-mb204-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-2019-11-08-smscpur-n30-5-37-4-60-2-n92-moi-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-21-2019-11-21-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-21-2019-11-21-2019-weekly-planning-eagee-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-21-2019-11-21-2019-weekly-planning-hb-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-11-21-2019-weekly-planning-eagee-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-12-05-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-12-05-2019-weekly-planning-hb-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-12-05-2019-weekly-planning-hb-eagee-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-2019-12-02-smscpur-n55-91-92-96-102-107-108-110-112-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-12-2019-12-12-2019-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-12-2019-12-12-2019-weekly-planning-eagee-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-23-2020-01-23-2020-weekly-planning-hb-el-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-01-30-2020-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-01-30-2020-weekly-planning-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-01-30-2020-weekly-planning-ea-hb-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-20200128-finalsummary-template-n86-n96-n102-testingproteinstability-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-bacmid-amplication-qc-pdf
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-06-2020-02-06-2020-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-06-2020-02-06-2020-weekly-planning-hb-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-02-13-2020-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-02-13-2020-weekly-planning-hb-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-02-13-2020-weekly-planning-hb-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-20200210-hpk1plan-emily-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-plan-pnpla3-02-20---hugo-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-20-2020-02-20-2020-weekly-planning-hb-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-hb-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-hb-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-hb-ea-jose-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-hb-ea-jose-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-05-2020-03-05-2020-weekly-planning-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-05-2020-03-05-2020-weekly-planning-ea-el-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-05-2020-03-05-2020-weekly-planning-ea-el-js-final-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-05-2020-2020-03-05-plasmid-to-p2-timeline-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-12-2020-03-12-2020-weekly-planning-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-12-2020-03-12-2020-weekly-planning-hb-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-12-2020-03-12-2020-weekly-planning-hb-el-ea-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-12-2020-03-12-2020-weekly-planning-hb-el-ea-jss-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-19-2020-03-19-2020-weekly-planning-hb-el-ea-jss-docx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-14-2020-2020-04-10-smscpur-p2-n129-n132-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-21-2020-20200421-kl-exp-necc-n00209-n00210-n00252-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-23-2020-20200422-testexpr-bl21-necc-n212-n215-n216-n253-n254-n255-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-23-2020-large-scale-purification-n247-1a-b-022020-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-28-2020-2020-04-27-smscpur-moi-n131-132-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-28-2020-2020-04-27-smscpur-p2-n42-127-128-133-141-154-157-158-160-162-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-28-2020-20200428-kl-pur-necc-n00209-n00210-n00252-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-30-2020-20200430-results-necc-n255-1a-n216-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-07-2020-2020-04-27-smscpur-p2-n42-127-128-133-141-154-157-158-160-162-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-07-2020-2020-05-05-smscpur-n134-136-n139-n168-n169-n171-n174-177-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-07-2020-2020-05-06-smscpur-moi-n128-154-157-158-160-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-12-2020-2020-05-11-smscpur-n42-9-n131-1-n132-2-n133-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-12-2020-2020-05-14-smscpur-moi-n127-128-139-158-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-21-2020-2020-05-20-smscpur-n133-2-168-1-174-1-176-1-177-1-moi-n127-128-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-21-2020-2020-05-21-smscpur-n139-1-154-1-157-1-158-1-160-1-171-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-26-2020-20200526-results-nbvc-n00131-1a-n00132-1a-jak2-invitrophos-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-28-2020-2020-05-28-smscpur-n128-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-28-2020-20200528-kl-necc-n00261-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-02-2020-20200602-emily-dimerupdates-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-04-2020-20200604-kl-necc-n00261-1b-1c-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-09-2020-20200609-statusupdate-jak2invitrophosphorylation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-09-2020-large-scale-purification-n176-2a-060820-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-09-2020-protein-purif-from-gel-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-16-2020-20200616-results-necc-n216-2a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-25-2020-2020-06-24-smscpur-n144-146-147-149-203-204-205-210-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-25-2020-20200625-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-30-2020-20200630-summary-dsfassay-stat6-n131-nrx6729-6730-6731-6575-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-30-2020-pnpla3-temp-detergent-test-062620-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-02-2020-2020-07-02-smscpur-moi-n146-210-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-02-2020-20200702-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-07-2020-20200706-results-nbvc-n00163-1a-tev-revninta-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-09-2020-20200709-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-14-2020-20200714-results-n163-n164-comparison-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-14-2020-n132-1a-n133-1a-slides-hugo-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-16-2020-2020-07-16-construct-prioritization-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-21-2020-dsf-pnpla3-i148m-compounds-072120-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-28-2020-072220-largescalepurification-n193-n194-n195-n196-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-28-2020-20200728-results-nbvc-n00210-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-30-2020-20200730-necc-n00302-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-04-2020-dsf-pnpla3-wt-i148m-s47a---072820-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-04-2020-dsf-pnpla3-wt-i148m-s47a---073020-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-18-2020-20200813-results-nbvc-n00085-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-20-2020-08-27-2020-clone-naming-nomenclature-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-20-2020-2020-08-17-smscpur-n93-moi-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-20-2020-20200818-nbvc-n00045-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-25-2020-082520-hugo-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-27-2020-08-27-2020-clone-naming-nomenclature-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-27-2020-2020-08-25-smscpur-n175-177-212-214-231-241-246-249-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-27-2020-sec-cleaning-protocol-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-03-2020-2020-08-25-smscpur-n175-177-212-214-231-245-249-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-03-2020-2020-09-02-smscpur-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-03-2020-2020-09-02-smscpur1-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-10-2020-2020-09-09-smscpur-n91-212-1-214-1-216-220-223-224-229-235-237-245-247-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-15-2020-20200914-results-nbvc-n214-1a-purif-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-24-2020-2020-09-22-smscpur-n247-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-24-2020-20200924-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-29-2020-092520-largescalepurification-n193-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-29-2020-20200929-results-nbvc-n00106-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-01-2020-2020-08-10-smscpur-n92-3-163-2-163-3-139-3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-01-2020-2020-08-20-smscpur-n55-61-72-193-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-01-2020-2020-09-09-smscpur-n91-212-1-214-1-216-220-223-224-229-235-237-245-247-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-01-2020-2020-09-28-smscpur-n131-2-131-3-131-4-moi-247-249-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-08-2020-2020-10-06-smscpur-n51-4-106-131-223-1-223-2-224-1-224-2-244-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-08-2020-2020-10-08-smscpur-moi-n106-n131-n244-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-13-2020-100620-largescalepurification-n193-1b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-13-2020-large-scale-purification-n399-1a-n400-1a-n401-1a-101220-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-20-2020-20201015-results-nbvc-n00131-2a-3a-4a-purif-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-22-2020-20201022-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-27-2020-20201019-results-necc-n216-3a-purif-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-27-2020-b-catenin-fl-test-buffers-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-03-2020-20201027-summary-n131-n132-invitrojak2-n4-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-10-2020-20201105-summary-n131-invitrojak2-scaleup-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-17-2020-111120-largescalepurification-n284-1a-n286-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-17-2020-dsf-n71-3a-n284-1a-lipids-111320-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-19-2020-2020-11-13-nbvc-n134-n5-n273-n236-n238-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-19-2020-20201112-adar1-catalytic-proteros-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-12-10-2020-2020-12-07-nbvc-n209-n273-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-05-2021-2020-12-18-nbvc-n225-n71-n131-n319-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-05-2021-20201217-results-nbvc-n00131-163-215-lowtempexpr-purif-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-12-2021-new-project-codes-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-19-2021-20210112-results-nbvc-n00098-4a-purification-presentationedit-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-26-2021-20210112-results-nbvc-n00098-4a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-26-2021-snf03-cr1-purification-012621-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-02-2021-group-meeting-02-02-2021-non-science-agenda-items-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-09-2021-20210209-general-announcements-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-09-2021-20210209-results-nbvc-n00225-3a-dsfsummary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-09-2021-ddm-chs-concentration-stability-assay-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-16-2021-20210210-results-nbvc-n00225-dimer-compound-binding-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-16-2021-dsf-n60-4a-021121-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-16-2021-in-situ-proteolysis-huwe1-dtl-021621-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-18-2021-21-02-12-nbvc-n319-moi-n364-n365-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-23-2021-21-02-19-nbvc-n327-moi-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-23-2021-21-02-19-nbvc-n364-1-n365-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-23-2021-21-02-19-necc-n430-n431-attempt2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-23-2021-snf03-fl-bv-co-expression-022321-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-25-2021-20210225-adar1-p110-adar2-fl-sino-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-25-2021-21-02-22-nmac-n3-n5-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-04-2021-20210304-adar1-p110-dimer-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-09-2021-20210304-results-nbvc-n00225-dimer-compound-binding-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-09-2021-21-03-05-nbvc-n154-n158-moi-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-09-2021-21-03-08-nbvc-n251-n300-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-16-2021-031621-pnpla3-protein-purification-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-16-2021-20210309-summary-nbvc-n00025-nbvc-n00005-moi-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-16-2021-21-03-04-necc-n461-n462-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-16-2021-21-03-16-nbvc-n344-1-n346-1-n347-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-23-2021-21-03-19-nbvc-n5-6-n154-3-n158-3-n251-1-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-23-2021-c-raf-protein-science-update-032321-nras-cr1-complex-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-23-2021-genscript-nurix-report-template-03102021-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-30-2021-20210324-summary-nbvc-n00025-nbvc-n00005-5a-6a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-30-2021-21-03-29-necc-n481-n483-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-30-2021-asec-nras-cr1-0321-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-06-2021-20210406-summary-n453-n466-n360-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-06-2021-21-04-01-necc-n248-n250-n412-n413-n414-n415-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-08-2021-20210408-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-13-2021-20210412-results-necc-n00469-nbvc-n00360-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-13-2021-21-04-09-nbvc-n225-4-n275-moi-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-13-2021-craf-kd-xtal-constructs-tests-040821-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-20-2021-20210416-results-nbvc-n00360-1b-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-20-2021-21-04-13-nbvc-n329-n330-n367-n368-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-20-2021-large-scale-purification-n174-2a-041521-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-27-2021-21-04-20-nbvc-n331-n337-n338-n339-n340-n352-n353-n354-n355-n369-n370-n371-n372-p2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-29-2021-20210426-necc-n00443-1b-n00450-1b-dsf-lit-compounds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-04-2021-042821-largescalepurification-n10-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-04-2021-21-04-30-nbvc-n275-1-n299-1-n299-2-n300-1-n329-1-n350-1-n351-1-n352-1-n353-1-n354-1-n355-1-n367-2-n368-2-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-06-2021-20210428-necc-n00416-1a-purification-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-11-2021-05-11-2021-small-scale-expression-and-purification-optimization-draft-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-13-2021-20210513-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-13-2021-small-scale-expression-and-purification-optimization-draft2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-18-2021-20210518-results-prescissionproteasetesting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-18-2021-21-05-13-nbvc-n354-n5-n25-smscpur-optimization-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-20-2021-2021-05-20-bv-pipeline-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-20-2021-20210520-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-27-2021-2021-05-27-bv-pipeline-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-03-2021-2021-06-03-bv-pipeline-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-03-2021-2021-06-10-bv-pipeline-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-03-2021-20210527-necc-n00502-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-10-2021-2021-06-08-nbvc-n327-moi-n369-moi-n366-6--smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-10-2021-2021-06-09-nbvc-n275-moi--smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-10-2021-2021-06-10-bv-pipeline-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-10-2021-20210609-nbvc-n331moi-n351-n354-n370-372-n319moi-n5-smscpur-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-15-2021-20210614-results-necc-n359-n360-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-17-2021-20210616-results-smarc2-necc-n00533-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-17-2021-20210617-nbvc-n71-purificationcomparisons-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-17-2021-20210617-necc-n00350-n00351-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-22-2021-20210614-el-summary-necc-n360-1a-purif-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-22-2021-20210621-mateo-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-22-2021-hugo-062221-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-29-2021-20210629-mateo-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-06-2021-062921-largescalepurification-n370-371-372-2a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-13-2021-20210713-nbvc-n366-n72-ssp-bv-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-13-2021-emily-20210623-results-asec-n384-n394-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-15-2021-20210714-necc-n00539-1a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-20-2021-20210719-summary-smscpur-nbvc-n00384-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-20-2021-20210720-sspn177-n182-bv-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-20-2021-dsf-b-catenin-071921-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-27-2021-c-raf-protein-science-update-tycho-dsf-072221-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-29-2021-20210729-kl-purification-necc-n00352-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-05-2021-20210804-necc-n00252-2a-phynexus-demo-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-05-2021-neccn00544-1b-update-isabel-20210805-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-10-2021-08092021-gld03-asec-hugo-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-12-2021-20210810-kl-purification-necc-n00348-1a-1b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-17-2021-20210814-results-smscpur-irf5-xtal-constructs-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-17-2021-20210814-results-smscpur-irf5-xtal-constructs-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-24-2021-desthiobiotin---new-bira-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-26-2021-20210824-update-results-necc-n00542-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-26-2021-20210826-kl-purification-nbvc-n00285-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-26-2021-20210826-wbn426-n429-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-31-2021-20210830-results-nbvc-n00086-5c-tycho-cmpds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-31-2021-20210831-mateo-wb-moi-n290-n292-n294-n287-moi-n290-n292-n294-n287-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-02-2021-20210902-mateo-wb-n351-4-n426-1-n428-1-n430-436-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-07-2021-20210903-results-smscpur-irf5-irf6-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-07-2021-20210907-mateo-smscpur-n397-3-n428-2-n387-1-n370-3-n379-3-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-07-2021-in-situ-proteolysis-dtl-itch-grwd1-dcaf1-chip-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-09-2021-nbvc-n00428-1a-results-update-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-14-2021-20210914-results-nbvc-n00086-5b-nbvc-n00102-5b-tycho-cmpds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-16-2021-20210916-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-23-2021-20210921-smscpur-n396-n439-447-n450-460-moi-n285-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-23-2021-20210930-wb-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-28-2021-20210928-wb-n439-443-n450-451-454-456-lysis-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-28-2021-in-situ-proteolysis-dtl-itch-grwd1-dcaf1-chip-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-30-2021-20210930-necc-n00599-n00600-n00601-n00602-smscexppur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-30-2021-20210930-smscpur-nmac-n5-n24-27-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-30-2021-del-screen-test-funnel-assays-bstst-jose-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-30-2021-nbvc-n00428-1a-results-update-2-09302021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-05-2021-100421-test-flag-resin-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-05-2021-20211001-results-smscpur-nmac-n26-n27-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-05-2021-20211005-results-smscpur-nmac-n26-n27-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-05-2021-20211005-smscpur-nmac-n24-26-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-07-2021-20211007-ssps-n370-379-mois-n452-459-460-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-07-2021-20211014-mois-n453-n455-n457-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-07-2021-20211020-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-14-2021-20211008-adar1-asec-del-screen-buffer-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-21-2021-update-results-necc-n00554-1a-im-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-26-2021-26oct2021-group-meeting-slides-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-28-2021-20211026-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-28-2021-20211028-kl-purification-necc-n00638-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-28-2021-20211104-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-02-2021-on-beads-refolding-and-dsf-1021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-04-2021-20211104-ms-ssps-n464-467-moi-n126-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-09-2021-20211109-ssp-moi-n126-nbvc-384-385-430-nmac-30-31-33-35-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-09-2021-20211110-results-smscpur-nmac-n20-nbvc-n126-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-11-2011-20211109-ssp-nmac2-28-30-nbvc55-4-61-3-430-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-11-2011-2021111-proposal-lab-rearrangement-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-11-2011-20211110-results-smscpur-nmac-n20-nbvc-n126-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-23-2021-20211109-ssp-moi-nbvc461-nbvc-55-61-384-385-430-477-nmac-27-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-23-2021-20211209-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-30-2021-20211124-results-asec-nbvc-n00163-2a-nbvc-n00005-nbvc-n00025-6b-emily-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-12-14-2021-20211214-ms-nmac-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-12-16-2021-20211215-results-nbvc-n00428-4b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-12-16-2021-pc-clone-protein-and-biomass-production-analytics-nov-2021-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-12-2-2021-01dec2021-results-smscexpsmscpur-of-trip12-and-ube3a-constructs-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-10-2023-20230110-group-meeting-nbvc-n20676-axn-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-18-2022-18jan2022-dc-chemical-lysis-irf5-xtal-clones-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-18-2022-c-raf-protein-science-update-011922-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-25-2022-20220124-results-emily-asec-snf05-fl-dimer-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-27-2022-20220119-results-small-scalepurification-kl-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-02-01-2022-20220124-results-ubr2-smscexpr-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-02-03-2022-20220203-ms-moi-n406-tni-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-02-10-2022-20220209-adar1-p150-bps-sepax-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-02-15-2022-20220211-results-hpk1-tc-dsf-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-03-17-2022-lab-meeting-20220315-results-necc-n00718-1a-6h-nusa-tev-avi-pre-sts1-2-649-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-03-24-2022-20220324-nr4a1-7788-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-04-19-2022-19apr2022-del-and-ps-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-04-21-2022-lab-meeting-20220421-necc-n718-n719-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-05-03-2022-large-scale-purification-n182-4a-042622-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-05-31-2022-31may2022-akta-two-step-method-dev-tev-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-06-09-2022-20220607-cish-necc-n00808-n00809-n00810-n00813-n00814-n00815-n00816-n00817-n00818-n00819-smscpur-elutiononly-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-08-02-2022-20220728-lab-meeting-axn-n714-2a-nmycbio-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-08-16-2022-20220816-ncmp-n20025-1b-peptide-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-09-27-2022-20220927-im-group-meeting-ephx2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-09-27-2022-20220927-kl-group-meeting-gld07-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-04-2022-12sep2022-thermal-stability-of-crbn-ddb1-binding-to-celmod-cmpds-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-11-2022-20221005-el-results-necc-n21284-1a-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-11-2022-pull-down-assay-pnpla3-260822-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-13-2022-20221013-kl-group-meeting-tev-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-18-2022-20221018-kl-group-meeting-nr4a1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-08-2022-102622-largescalepurification-n21242-21255-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-08-2022-dot2022-recap-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-15-2022-20221115-group-meeting-anx-fl-im-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-15-2022-20221115-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-15-2022-qc-report-pptx-2022-11-15-19-37-35-243246-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-29-2022-largescalepurification-necc-n21307-08-1a-111622-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-12-06-2022-20221206-group-meeting-im-nbvc-n20676-1a-axn-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-12-20-2022-20221220-snf05-fl-dimer-purifications-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-01-10-2023-20230110-tet2-dna-binding-dsf-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-01-19-2023-19jan2023-proteinsciencesgroupmeetingslides-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-01-19-2023-in-house-qc-of-ligases-from-the-sgc-biortus-and-signalway-antibody-sab-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-01-26-2023-usp18-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-02-2023-20230201-necc-n21209-001b-srp2070fab-binding-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-02-2023-group-meeting-myc-lysate-studies-im-20230202-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-09-2023-08feb2023-nmac-n20096-n20098-001a-proteinpurif-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-09-2023-smscpu-02-02-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-16-2023-20230216-dcaf1-nmac-n20088-nmac-n20089-proteinpurification-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-16-2023-usp18-16-372-large-scale-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-23-2023-02232023-group-meeting-im-ternary-complex-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-23-2023-20230223-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-02-2023-trim21-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-16-2023-group-meeting-im-ternary-complex-update-03162023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-16-2023-slas-2023-instruments-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-23-2023-16mar2023-necc-n21355-n21395-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-30-2023-20230329-snf05-xtalproteinupdate-emily-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-30-2023-ews-fli1-necc-n20954-002a-032123-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-06-2023-20230406-group-meeting-im-fbxo2-necc-n21353-n21354-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-06-2023-20230406-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-13-2023-03apr2023-necc-n21359-001a-purif-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-20-2023-20230420-klhl6-necc-n21378-n21381-results-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-20-2023-purification-usp18-49-372-041223-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-26-2023-04262023-drug-discovery-chemistry-overview-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-05-04-2023-20230504-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-05-11-2023-20230510-snf05-xtalprotein-n21317-n21412-n21413-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-05-18-2023-05182023-group-meeting-im-6h-uba1-2-1058-ube2d2-1-147-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-05-18-2023-20230518-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-01-2023-20230601-ncmp-n20048-001a-results-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-01-2023-large-scale-purification-n21290-4a-21172-1a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-08-2023-group-meeting-06082023-im-rnf10-necc-21231-001a-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-15-2023-08jun2023-necc-n21429-n21430-001a-proteinpurification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-22-2023-largescalepurification-ncmp-n20044-2a-061923-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-29-2023-dnajb1-prkaca-target-review-im-final-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-07-13-2023-20230710-ncmp-n20049-001a-results-el-lrr1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-07-20-2023-20230720-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-10-2023-08102023-fbxo2-skp1-necc-n21454-n21455-001a-purification-groupmeeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-10-2023-20230803-tj-purification-nbvc-n20918-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-10-2023-20230808-sec-mals-n20924-n21353-n21354-n21454-n21455-n20106-n20107-n21317-n21464-n21466-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-24-2023-largescalepurification-nbvc-n20998-1a-082123---copy-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-31-2023-20230814-tj-purification-nbvc-n20975-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-09-21-2023-20230918-tj-purification-nbvc-n20990-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-09-28-2023-28sep2023-nbvc-n20810-prosciworkingmeeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-10-05-2023-20231002-rnf10-nbvc-n20904-002a-results-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-10-26-2023-20231026-wdr5-nbvc-n21038-n21040-emily-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-02-2023-20231026-tj-purification-necc-n21531-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-02-2023-group-meeting-mycn-11022023-im-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-16-2023-largescalepurification-nbvc-n20999-1a-n21002-1a-111323---group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-30-2023-20231113-tj-targetedproteomics-lck-hpk1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-30-2023-29nov2023-group-meeting-myc-max-binding-im-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240111-results-nbvc-n20918-purification-nh-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240118-largescalepurification-n20174-1a-b-n21658-1a-b-011824-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240125-20240125-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240125-group-meeting-mycn-01252024-im-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240201-31jan2024-necc-n21647-n21648-001a-001b-purif-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240201-results-necc-n21495-21496-purification-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240208-20240125-results-biratesting-necc-n21647-emily-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240208-20240201-tj-purification-nbvc-n21087-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240307-20240307-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240307-largescalepurification-trim32-n21575-21587-1a-022724-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240314-20240305-tj-purification-ncmp-n20059-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240314-20240314-kl-group-meeting-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240418-20240416-sec-mals-irf5-fl-in-vitro-phos-el-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240425-20240415-tj-purification-necc-n21702-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240425-20240423-tj-purification-nbvc-n21161-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240613-20240611-irf5-in-vitro-phosphorylation-secmals-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240912-20240912-gpr75-smscpur-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241107-20241029-tj-purification-nbvc-n21210-001a-and-nbvc-n21211-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241107-2024oct11-biortus-qc-103024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241107-mbp-tagged-proteins-thermal-stability-test-ppt-110124-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241121-20241112-tj-purification-necc-n21012-001a-and-necc-n21012-001b-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241121-20241112-tj-purification-necc-n21212-001a-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241121-2024oct25-biortus-qc-110824-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241217-smscpu-11-18-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241217-smscpu-12-02-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250116-2025jan07-biortus-qc-011425-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250116-largescalepurification-necc-n21855-1a-010925-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250206-group-meeting-02062025-im-mycn-fl-purification-results-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250313-20250313-gpr75-del-compounds-tycho-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250410-presentation-mycn-cleavage-tests-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250417-largescalepurification-necc-n21954-001a-040325-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250417-largescalepurification-necc-n21955-001a-040425-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250515-050925-direct2del-double-affinity-test-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250529-05-16-2025-shipment-biortus-irf3-and-stat3-qc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250529-smscpu-05-15-2025-7-clones-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250604-repetition-05-16-2025-shipment-biortus-irf3-qc-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250604-smscpu-05-27-2025-pax3-foxo1-12-clones-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250610-smscpu-06-10-2025-12-c-clones-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250723-071625-direct2del-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250904-20250826-direct2del-scale-up-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250904-20250904-direct2del-scale-up-summary-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20251023-largescalepurification-necc-n22053-2a-102025-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220913-fbiotin-test1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220922-nbvc-n20795-lse-n414-lse-n530-n368-lse-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220922-nbvc-n472-404-470-532-534-471-658-658-25-478-432-383-560-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220922-nmac-82-89-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220923-moi-n25-618-n614-611-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220926-n20850-20856-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20221006-lse-n20850-20851-20855-ssp-n20810-20853-20865-20870-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20221011-ssp-n542-537-471-541-479-560-539-383-538-472-540-532-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20221104-nbvc-n614-611-n20866-n20865-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20221117-ssp-nmac-n82-89-2092-2095-2100-2105-2086-2099-lse-nbvc-n469-534-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230124-ssp-nmac-n20088-20089-20092-20094-20096-20098-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230130-ssp-nbvc-n20750-20751-20752-20857-20858-20859-20860-20862-20863-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230206-ssp-nbvc-n20699-20751-20795-20863-20471-20642-20703-20725-20742-20801-20802-20810-20871-20877-20879-20880-20881-20882-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230216-ssp-n20070-20331-20960-20879-448-494-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230309-lse-n20874-n20877-ssp-n20922-20926-20392-20393-20923-20924-20927-20928-20797-20820-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230330-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230413-moi-n20797-n20923-n20924-lse-n20331-n20725-n20765-n20903-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230421-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230426-bvma-weekly-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230504-bvma-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230505-lse-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230511-ssp-lse-asec-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230511-ssp-lse-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230621-lse-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230629-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230725-ssps-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230824-lse-20922-20988-20989-p2-21012-21014-21024-21027-21038-21046-21040-21050-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230831-lse-n20048-20958-20987-20990-20991-20992-20994-20832-nm20106-nm20107-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230907-nm-n20171-20172-20174-20175-20177-20178-20180-20181-20182-20183-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230914-lse-n20048-n21046-n20810-n20811-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230914-nm-n20174-20175-20177-20178-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230921-lse-n20832-20644-21014-20892-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231006-ssp-n21035-p2p-moi-n21020-21036-21037-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231011-p2p-celllinetest-n20969-20331-21007-21008-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231019-lse-n21020-21052-21060-21063-p2p-moi-n21034-nm-n20173-20185-20186-20187-20188-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231024-lse-nm-20106-20107-p2p-21055-21056-21057-21058-21059-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231024-p2p-21055-21056-21057-21058-21059-nm-20199-20200-20201-20202-20203-20204-lse-nm-20106-20107-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231102-lse-n20689-20999-21002-21003-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231103-lse-ncmp20054-20055-20056-21036-nmac-opti-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231110-lse-ncmp-n20054-20055-20056-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231116-lse-ncmp-n20058-nbvc-n20918-002-003-n21018-n21055-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231122-proximity-labelling-btk-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231213-lse-n20998-n20106-p2s-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240120-lysatedevbtk-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240125-lse-n20897-n20969-n21092-n21093-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240201-lse-n20392-n20969-n21092-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240208-ssp-sgn01-snf07-ligandability-lse-n20918-n20923-n20992-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240215-lse-n21135-21144-21070-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240222-lse-nm-n20106-n20107-bv-n21148-n21149-moi-n21148-n21149-n21069-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240307-lse-n20392-n20909-n21070-n21136-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240313-lse-n20909-n21069-n21121-p2p-n20434-n20848-n20929-n20931-n20932-n21094-n21095-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240320-bv-ma-platform-development-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240320-lse-20918-21130-21000-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240328-p2p-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240329-tmd8-round1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240404-lse-n20392-n20096-n20098-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240411-lse-n20392-n20980-n21098-n21158-n21160-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240415-fluorescentbiotin-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240416-lse-n21161-21162-21163-coexp-n21159-21092-21179-21092-21181-n21178-21182-21178-20434-20068-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240424-lse-n20914-20915-21174-21181-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240424-platform-update-bacmam-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240425-platform-update-proximity-labeling-assay-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240429-lse-n21071-n21159-n21174-n21175-n21179-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240513-p2p-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240516-platdev-fluorescent-biotin-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240612-lse-n20438-n21181-n21188-n21189-n21190-n21191-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240616-lipid-nanoparticle-transduction-overview-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240624-nmac-n20137-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240702-6l-flask-trial-n20942-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240709-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240710-sset-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240731-lse-n21000-002-n21207-001-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240802-sset-n20392-n21187-n21198-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240805-lnp-presentation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240806-lset-n21187-001-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240815-ssp-nmac-n20210-20221-lse-n-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240821-gpr75-expression-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240821-ssp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240822-lse-n21201-n21202-n21203-n21204-ncmp-n20063-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240824-lnp-mammalian-cell-transfection-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240912-lnp-transfection-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240912-lse-n21121-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240912-ssp-bm-nmac-n20210-20221-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240912-ssp-bm-nmac-n20210-20221-pptx-2024-10-25-22-39-38-260158-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240925-ssp-n21000-n21209-n21210-n21211-n21214-n21215-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240930-gpr75-expression-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240930-lse-n21195-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241003-bvma-platform-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241009-polymer-ssp-n21239-21240-21241-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241011-lse-n21221-ssp-moi-n21216-21221-fluorquant-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241017-bvma-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241017-ssp-moi-n21195-transfectioncomparisonn21000-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241018-n21216-002-fluorquant-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241024-transfectioncomparison-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241025-wb-n21221-n21211-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241104-ctm-lnps-hibit-screen-2-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241104-fq-n21218-n21221-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241107-bv-ma-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241115-fq-lse-n21218-003-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241121-hitep2-0-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241202-fq-n21253-n21246-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241203-lse-n20866-002-n20879-006-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241213-mateoemily1-1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250109-lnp-progress-report-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250123-full-length-pax3-foxo1-target-form-expression-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250130-sset-nbvc-n21254-21245-21243-21242-20053-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250208-full-length-secretion-expression-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250212-hitep2-0-transformation-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250217-ssp-lse-n20053-001-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250225-fq-lse-n21253-001-002-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250227-ssp-21102-21262-21269-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250228-fl-pax3-foxo1-discussion-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250304-lse-n21199-002-n21206-002-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250306-ssp-fluorquant-n21258-21261-n21270-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250319-lnptransfectionoverview-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250324-moi-n21267-21268-21269-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250328-lse-fluorquant-n21248-002-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250403-ssp-n21272-n21274-n21276-n21277-n21278-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250415-ssp-n21271-21273-lse-n21259-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250417-moi-n21103-21104-21272-21274-21276-21277-21278-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250424-ssp-moi-n21278-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250513-fluorquant-n21271-21273-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250520-ssp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250612-fq-lse-n21248-003-nbvc-n21271-001-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250626-ssp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250710-fluorquant-ssp-n21248-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250714-lse-fluorquant-n21248-004-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250724-ssp-ma-21245-21252-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250730-ssp-pax3foxo1-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250825-gpr75-fq-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20251006-gpr75-fq-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20251202-ssp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20251216-ssp-lse-n21069-ssp-n21312-n21317-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20260116-cfps-pilot-experiment-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20260119-next-cloning-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20260120-gpr75-pulldown-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-bv-ddel-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-bv-pipeline-outline-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-dac-lal-endotoxin-assay-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-hitep-ultra-project-update-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-in-house-expression-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-220921-necc-n21243-44-45-46-47-49-50-53-62-747-775-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221012-necc-n21285-86-87-88-89-91-42-54-55-56-57-40-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221013-necc-n21264-65-66-67-75-76-77-78-79-80-81-82-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221027-necc-n21292-293-294-295-296-184-185-305-306-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221102-necc-n20571-572-574-576-579-580-581-21307-308-309-313-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221109-necc-n20572-74-76-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221109-necc-n21322-23-24-25-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221111-necc-n731-2-3-n21231-33-34-32-43-47-n829-830-831-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221115-necc-n565-68-70-72-64-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221202-necc-n21327-28-29-30-31-16-17-18-19-20-21-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-070622-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-071422-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-072722-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-081022-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-081722-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-082222-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-082422-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-090122-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-092122-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-230123-necc-n21352-3-4-5-6-7-8-9-60-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-230124-necc-n21293-4-5-6-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-01-27-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-012423-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-02-02-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-02-09-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-02-16-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-03-03-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-03-16-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-03-30-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-04-05-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-04-26-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-05-01-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-05-23-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-06-01-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-06-01-23-updated-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-06-22-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-06-29-23-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-07-11-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-08-03-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-08-10-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-08-17-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-08-31-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-09-07-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-09-14-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-09-21-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-10-09-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-10-12-2023-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-april-smscpu-04-27-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-august-smscpu-08-26-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-december-smscpu-12-02-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-december-smscpu-12-09-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-december-smscpu-12-16-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-february-smscpu-02-01-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-february-smscpu-02-14-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-february-smscpu-02-20-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-february-smscpu-02-29-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-january-smscpu-01-18-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-january-smscpu-01-22-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-june-smscpu-06-14-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-07-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-11-2024-beadmill-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-13-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-18-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-21-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-may-smscpu-05-10-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-may-smscpu-05-16-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-may-smscpu-05-31-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-november-smscpu-11-18-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-september-smscpu-09-20-2024-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-03-03-2025-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-03-17-2025-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-08-04-2025-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-08-11-2025-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-08-25-2025-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-1-13-2025-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-20250923-del-fm-ssp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-20260128-ssp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-20260203-ssp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-20260211-ssp-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-template-pptx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-potluck-12152023-xlsx
-- [ ] onedrive_protein-chemistry-protein-sciences-group-meetings-thursday-group-meeting-presentation-schedule-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-01-16-2020-01-16-2020-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-01-16-2020-01-16-2020-weekly-planning-hb-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-01-16-2020-01-16-2020-weekly-planning-hb-el-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-01-16-2020-01-16-2020-weekly-planning-hb-el-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-06-27-2019-06-27-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-11-2019-07-11-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-11-2019-07-11-2019-weekly-planning-review-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-11-2019-07082019-on-going-project-activities-in-protein-sciences-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-18-2019-07-18-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-18-2019-07-18-2019-weekly-planning-revised-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-25-2019-07-25-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-25-2019-07-25-2019-weekly-planning-ea-revised-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-07-25-2019-07-25-2019-weekly-planning-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-01-2019-08-01-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-01-2019-08-01-2019-weekly-planning-new-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-01-2019-08-09-2019-weekly-planning-new-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-01-2019-bacmid-qc-n47-59-7-30-19-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-09-2019-08-09-2019-weekly-planning-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-17-2019-08-17-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-17-2019-08-17-2019-weekly-planning-eileen-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-22-2019-08-23-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-22-2019-08-29-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-08-29-2019-08-29-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-09-05-2019-09-05-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-09-12-2019-09-16-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-09-26-2019-09-26-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-09-26-2019-10-03-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-03-2019-10-03-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-17-2019-10-17-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-17-2019-2019-10-11-smscpur-p2-77-79-84-94-96-98-lascexp-51-85-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-24-2019-10-24-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-24-2019-10-24-2019-weekly-planning-new-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-31-2019-10-31-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-10-31-2019-10-31-2019-weekly-planning-new-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-07-2019-11-07-2019-weekly-planning-ea-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-07-2019-11-07-2019-weekly-planning-ea-js-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-07-2019-11-07-2019-weekly-planning-ea-js-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-11-15-2019-weekly-planning-ea-js-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-2019-11-04-smscpur-n49-2-55-60-71-2-72-2-88-91-96-98-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-2019-11-05-smscpur-n96-moi-n104-p2-n104-moi-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-2019-11-06-smscpur-n30-37-42-42-08-89-76-105-mb204-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-15-2019-2019-11-08-smscpur-n30-5-37-4-60-2-n92-moi-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-21-2019-11-21-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-21-2019-11-21-2019-weekly-planning-eagee-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-11-21-2019-11-21-2019-weekly-planning-hb-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-11-21-2019-weekly-planning-eagee-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-12-05-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-12-05-2019-weekly-planning-hb-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-12-05-2019-weekly-planning-hb-eagee-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-05-2019-2019-12-02-smscpur-n55-91-92-96-102-107-108-110-112-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-12-2019-12-12-2019-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2019-meetings-12-12-2019-12-12-2019-weekly-planning-eagee-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-23-2020-01-23-2020-weekly-planning-hb-el-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-01-30-2020-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-01-30-2020-weekly-planning-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-01-30-2020-weekly-planning-ea-hb-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-20200128-finalsummary-template-n86-n96-n102-testingproteinstability-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-01-30-2020-bacmid-amplication-qc-pdf
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-06-2020-02-06-2020-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-06-2020-02-06-2020-weekly-planning-hb-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-02-13-2020-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-02-13-2020-weekly-planning-hb-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-02-13-2020-weekly-planning-hb-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-20200210-hpk1plan-emily-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-13-2020-plan-pnpla3-02-20---hugo-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-20-2020-02-20-2020-weekly-planning-hb-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-hb-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-hb-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-hb-ea-jose-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-02-27-2020-02-27-2020-weekly-planning-hb-ea-jose-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-05-2020-03-05-2020-weekly-planning-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-05-2020-03-05-2020-weekly-planning-ea-el-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-05-2020-03-05-2020-weekly-planning-ea-el-js-final-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-05-2020-2020-03-05-plasmid-to-p2-timeline-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-12-2020-03-12-2020-weekly-planning-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-12-2020-03-12-2020-weekly-planning-hb-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-12-2020-03-12-2020-weekly-planning-hb-el-ea-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-12-2020-03-12-2020-weekly-planning-hb-el-ea-jss-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-03-19-2020-03-19-2020-weekly-planning-hb-el-ea-jss-docx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-14-2020-2020-04-10-smscpur-p2-n129-n132-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-21-2020-20200421-kl-exp-necc-n00209-n00210-n00252-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-23-2020-20200422-testexpr-bl21-necc-n212-n215-n216-n253-n254-n255-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-23-2020-large-scale-purification-n247-1a-b-022020-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-28-2020-2020-04-27-smscpur-moi-n131-132-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-28-2020-2020-04-27-smscpur-p2-n42-127-128-133-141-154-157-158-160-162-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-28-2020-20200428-kl-pur-necc-n00209-n00210-n00252-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-04-30-2020-20200430-results-necc-n255-1a-n216-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-07-2020-2020-04-27-smscpur-p2-n42-127-128-133-141-154-157-158-160-162-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-07-2020-2020-05-05-smscpur-n134-136-n139-n168-n169-n171-n174-177-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-07-2020-2020-05-06-smscpur-moi-n128-154-157-158-160-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-12-2020-2020-05-11-smscpur-n42-9-n131-1-n132-2-n133-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-12-2020-2020-05-14-smscpur-moi-n127-128-139-158-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-21-2020-2020-05-20-smscpur-n133-2-168-1-174-1-176-1-177-1-moi-n127-128-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-21-2020-2020-05-21-smscpur-n139-1-154-1-157-1-158-1-160-1-171-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-26-2020-20200526-results-nbvc-n00131-1a-n00132-1a-jak2-invitrophos-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-28-2020-2020-05-28-smscpur-n128-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-05-28-2020-20200528-kl-necc-n00261-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-02-2020-20200602-emily-dimerupdates-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-04-2020-20200604-kl-necc-n00261-1b-1c-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-09-2020-20200609-statusupdate-jak2invitrophosphorylation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-09-2020-large-scale-purification-n176-2a-060820-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-09-2020-protein-purif-from-gel-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-16-2020-20200616-results-necc-n216-2a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-25-2020-2020-06-24-smscpur-n144-146-147-149-203-204-205-210-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-25-2020-20200625-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-30-2020-20200630-summary-dsfassay-stat6-n131-nrx6729-6730-6731-6575-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-06-30-2020-pnpla3-temp-detergent-test-062620-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-02-2020-2020-07-02-smscpur-moi-n146-210-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-02-2020-20200702-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-07-2020-20200706-results-nbvc-n00163-1a-tev-revninta-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-09-2020-20200709-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-14-2020-20200714-results-n163-n164-comparison-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-14-2020-n132-1a-n133-1a-slides-hugo-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-16-2020-2020-07-16-construct-prioritization-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-21-2020-dsf-pnpla3-i148m-compounds-072120-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-28-2020-072220-largescalepurification-n193-n194-n195-n196-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-28-2020-20200728-results-nbvc-n00210-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-07-30-2020-20200730-necc-n00302-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-04-2020-dsf-pnpla3-wt-i148m-s47a---072820-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-04-2020-dsf-pnpla3-wt-i148m-s47a---073020-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-18-2020-20200813-results-nbvc-n00085-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-20-2020-08-27-2020-clone-naming-nomenclature-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-20-2020-2020-08-17-smscpur-n93-moi-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-20-2020-20200818-nbvc-n00045-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-25-2020-082520-hugo-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-27-2020-08-27-2020-clone-naming-nomenclature-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-27-2020-2020-08-25-smscpur-n175-177-212-214-231-241-246-249-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-08-27-2020-sec-cleaning-protocol-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-03-2020-2020-08-25-smscpur-n175-177-212-214-231-245-249-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-03-2020-2020-09-02-smscpur-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-03-2020-2020-09-02-smscpur1-n55-3-61-3-72-6-93-1-148-191-215-217-219-221-222-225-230-232-234-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-10-2020-2020-09-09-smscpur-n91-212-1-214-1-216-220-223-224-229-235-237-245-247-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-15-2020-20200914-results-nbvc-n214-1a-purif-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-24-2020-2020-09-22-smscpur-n247-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-24-2020-20200924-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-29-2020-092520-largescalepurification-n193-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-09-29-2020-20200929-results-nbvc-n00106-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-01-2020-2020-08-10-smscpur-n92-3-163-2-163-3-139-3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-01-2020-2020-08-20-smscpur-n55-61-72-193-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-01-2020-2020-09-09-smscpur-n91-212-1-214-1-216-220-223-224-229-235-237-245-247-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-01-2020-2020-09-28-smscpur-n131-2-131-3-131-4-moi-247-249-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-08-2020-2020-10-06-smscpur-n51-4-106-131-223-1-223-2-224-1-224-2-244-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-08-2020-2020-10-08-smscpur-moi-n106-n131-n244-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-13-2020-100620-largescalepurification-n193-1b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-13-2020-large-scale-purification-n399-1a-n400-1a-n401-1a-101220-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-20-2020-20201015-results-nbvc-n00131-2a-3a-4a-purif-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-22-2020-20201022-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-27-2020-20201019-results-necc-n216-3a-purif-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-10-27-2020-b-catenin-fl-test-buffers-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-03-2020-20201027-summary-n131-n132-invitrojak2-n4-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-10-2020-20201105-summary-n131-invitrojak2-scaleup-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-17-2020-111120-largescalepurification-n284-1a-n286-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-17-2020-dsf-n71-3a-n284-1a-lipids-111320-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-19-2020-2020-11-13-nbvc-n134-n5-n273-n236-n238-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-11-19-2020-20201112-adar1-catalytic-proteros-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2020-meetings-12-10-2020-2020-12-07-nbvc-n209-n273-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-05-2021-2020-12-18-nbvc-n225-n71-n131-n319-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-05-2021-20201217-results-nbvc-n00131-163-215-lowtempexpr-purif-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-12-2021-new-project-codes-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-19-2021-20210112-results-nbvc-n00098-4a-purification-presentationedit-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-26-2021-20210112-results-nbvc-n00098-4a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-01-26-2021-snf03-cr1-purification-012621-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-02-2021-group-meeting-02-02-2021-non-science-agenda-items-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-09-2021-20210209-general-announcements-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-09-2021-20210209-results-nbvc-n00225-3a-dsfsummary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-09-2021-ddm-chs-concentration-stability-assay-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-16-2021-20210210-results-nbvc-n00225-dimer-compound-binding-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-16-2021-dsf-n60-4a-021121-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-16-2021-in-situ-proteolysis-huwe1-dtl-021621-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-18-2021-21-02-12-nbvc-n319-moi-n364-n365-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-23-2021-21-02-19-nbvc-n327-moi-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-23-2021-21-02-19-nbvc-n364-1-n365-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-23-2021-21-02-19-necc-n430-n431-attempt2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-23-2021-snf03-fl-bv-co-expression-022321-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-25-2021-20210225-adar1-p110-adar2-fl-sino-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-02-25-2021-21-02-22-nmac-n3-n5-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-04-2021-20210304-adar1-p110-dimer-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-09-2021-20210304-results-nbvc-n00225-dimer-compound-binding-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-09-2021-21-03-05-nbvc-n154-n158-moi-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-09-2021-21-03-08-nbvc-n251-n300-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-16-2021-031621-pnpla3-protein-purification-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-16-2021-20210309-summary-nbvc-n00025-nbvc-n00005-moi-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-16-2021-21-03-04-necc-n461-n462-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-16-2021-21-03-16-nbvc-n344-1-n346-1-n347-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-23-2021-21-03-19-nbvc-n5-6-n154-3-n158-3-n251-1-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-23-2021-c-raf-protein-science-update-032321-nras-cr1-complex-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-23-2021-genscript-nurix-report-template-03102021-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-30-2021-20210324-summary-nbvc-n00025-nbvc-n00005-5a-6a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-30-2021-21-03-29-necc-n481-n483-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-03-30-2021-asec-nras-cr1-0321-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-06-2021-20210406-summary-n453-n466-n360-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-06-2021-21-04-01-necc-n248-n250-n412-n413-n414-n415-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-08-2021-20210408-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-13-2021-20210412-results-necc-n00469-nbvc-n00360-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-13-2021-21-04-09-nbvc-n225-4-n275-moi-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-13-2021-craf-kd-xtal-constructs-tests-040821-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-20-2021-20210416-results-nbvc-n00360-1b-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-20-2021-21-04-13-nbvc-n329-n330-n367-n368-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-20-2021-large-scale-purification-n174-2a-041521-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-27-2021-21-04-20-nbvc-n331-n337-n338-n339-n340-n352-n353-n354-n355-n369-n370-n371-n372-p2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-04-29-2021-20210426-necc-n00443-1b-n00450-1b-dsf-lit-compounds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-04-2021-042821-largescalepurification-n10-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-04-2021-21-04-30-nbvc-n275-1-n299-1-n299-2-n300-1-n329-1-n350-1-n351-1-n352-1-n353-1-n354-1-n355-1-n367-2-n368-2-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-06-2021-20210428-necc-n00416-1a-purification-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-11-2021-05-11-2021-small-scale-expression-and-purification-optimization-draft-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-13-2021-20210513-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-13-2021-small-scale-expression-and-purification-optimization-draft2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-18-2021-20210518-results-prescissionproteasetesting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-18-2021-21-05-13-nbvc-n354-n5-n25-smscpur-optimization-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-20-2021-2021-05-20-bv-pipeline-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-20-2021-20210520-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-05-27-2021-2021-05-27-bv-pipeline-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-03-2021-2021-06-03-bv-pipeline-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-03-2021-2021-06-10-bv-pipeline-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-03-2021-20210527-necc-n00502-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-10-2021-2021-06-08-nbvc-n327-moi-n369-moi-n366-6--smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-10-2021-2021-06-09-nbvc-n275-moi--smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-10-2021-2021-06-10-bv-pipeline-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-10-2021-20210609-nbvc-n331moi-n351-n354-n370-372-n319moi-n5-smscpur-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-15-2021-20210614-results-necc-n359-n360-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-17-2021-20210616-results-smarc2-necc-n00533-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-17-2021-20210617-nbvc-n71-purificationcomparisons-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-17-2021-20210617-necc-n00350-n00351-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-22-2021-20210614-el-summary-necc-n360-1a-purif-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-22-2021-20210621-mateo-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-22-2021-hugo-062221-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-06-29-2021-20210629-mateo-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-06-2021-062921-largescalepurification-n370-371-372-2a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-13-2021-20210713-nbvc-n366-n72-ssp-bv-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-13-2021-emily-20210623-results-asec-n384-n394-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-15-2021-20210714-necc-n00539-1a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-20-2021-20210719-summary-smscpur-nbvc-n00384-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-20-2021-20210720-sspn177-n182-bv-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-20-2021-dsf-b-catenin-071921-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-27-2021-c-raf-protein-science-update-tycho-dsf-072221-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-07-29-2021-20210729-kl-purification-necc-n00352-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-05-2021-20210804-necc-n00252-2a-phynexus-demo-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-05-2021-neccn00544-1b-update-isabel-20210805-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-10-2021-08092021-gld03-asec-hugo-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-12-2021-20210810-kl-purification-necc-n00348-1a-1b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-17-2021-20210814-results-smscpur-irf5-xtal-constructs-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-17-2021-20210814-results-smscpur-irf5-xtal-constructs-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-24-2021-desthiobiotin---new-bira-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-26-2021-20210824-update-results-necc-n00542-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-26-2021-20210826-kl-purification-nbvc-n00285-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-26-2021-20210826-wbn426-n429-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-31-2021-20210830-results-nbvc-n00086-5c-tycho-cmpds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-08-31-2021-20210831-mateo-wb-moi-n290-n292-n294-n287-moi-n290-n292-n294-n287-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-02-2021-20210902-mateo-wb-n351-4-n426-1-n428-1-n430-436-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-07-2021-20210903-results-smscpur-irf5-irf6-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-07-2021-20210907-mateo-smscpur-n397-3-n428-2-n387-1-n370-3-n379-3-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-07-2021-in-situ-proteolysis-dtl-itch-grwd1-dcaf1-chip-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-09-2021-nbvc-n00428-1a-results-update-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-14-2021-20210914-results-nbvc-n00086-5b-nbvc-n00102-5b-tycho-cmpds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-16-2021-20210916-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-23-2021-20210921-smscpur-n396-n439-447-n450-460-moi-n285-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-23-2021-20210930-wb-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-28-2021-20210928-wb-n439-443-n450-451-454-456-lysis-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-28-2021-in-situ-proteolysis-dtl-itch-grwd1-dcaf1-chip-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-30-2021-20210930-necc-n00599-n00600-n00601-n00602-smscexppur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-30-2021-20210930-smscpur-nmac-n5-n24-27-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-30-2021-del-screen-test-funnel-assays-bstst-jose-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-09-30-2021-nbvc-n00428-1a-results-update-2-09302021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-05-2021-100421-test-flag-resin-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-05-2021-20211001-results-smscpur-nmac-n26-n27-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-05-2021-20211005-results-smscpur-nmac-n26-n27-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-05-2021-20211005-smscpur-nmac-n24-26-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-07-2021-20211007-ssps-n370-379-mois-n452-459-460-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-07-2021-20211014-mois-n453-n455-n457-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-07-2021-20211020-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-14-2021-20211008-adar1-asec-del-screen-buffer-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-21-2021-update-results-necc-n00554-1a-im-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-26-2021-26oct2021-group-meeting-slides-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-28-2021-20211026-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-28-2021-20211028-kl-purification-necc-n00638-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-10-28-2021-20211104-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-02-2021-on-beads-refolding-and-dsf-1021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-04-2021-20211104-ms-ssps-n464-467-moi-n126-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-09-2021-20211109-ssp-moi-n126-nbvc-384-385-430-nmac-30-31-33-35-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-09-2021-20211110-results-smscpur-nmac-n20-nbvc-n126-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-11-2011-20211109-ssp-nmac2-28-30-nbvc55-4-61-3-430-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-11-2011-2021111-proposal-lab-rearrangement-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-11-2011-20211110-results-smscpur-nmac-n20-nbvc-n126-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-23-2021-20211109-ssp-moi-nbvc461-nbvc-55-61-384-385-430-477-nmac-27-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-23-2021-20211209-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-11-30-2021-20211124-results-asec-nbvc-n00163-2a-nbvc-n00005-nbvc-n00025-6b-emily-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-12-14-2021-20211214-ms-nmac-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-12-16-2021-20211215-results-nbvc-n00428-4b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-12-16-2021-pc-clone-protein-and-biomass-production-analytics-nov-2021-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2021-meetings-12-2-2021-01dec2021-results-smscexpsmscpur-of-trip12-and-ube3a-constructs-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-10-2023-20230110-group-meeting-nbvc-n20676-axn-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-18-2022-18jan2022-dc-chemical-lysis-irf5-xtal-clones-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-18-2022-c-raf-protein-science-update-011922-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-25-2022-20220124-results-emily-asec-snf05-fl-dimer-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-01-27-2022-20220119-results-small-scalepurification-kl-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-02-01-2022-20220124-results-ubr2-smscexpr-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-02-03-2022-20220203-ms-moi-n406-tni-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-02-10-2022-20220209-adar1-p150-bps-sepax-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-02-15-2022-20220211-results-hpk1-tc-dsf-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-03-17-2022-lab-meeting-20220315-results-necc-n00718-1a-6h-nusa-tev-avi-pre-sts1-2-649-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-03-24-2022-20220324-nr4a1-7788-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-04-19-2022-19apr2022-del-and-ps-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-04-21-2022-lab-meeting-20220421-necc-n718-n719-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-05-03-2022-large-scale-purification-n182-4a-042622-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-05-31-2022-31may2022-akta-two-step-method-dev-tev-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-06-09-2022-20220607-cish-necc-n00808-n00809-n00810-n00813-n00814-n00815-n00816-n00817-n00818-n00819-smscpur-elutiononly-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-08-02-2022-20220728-lab-meeting-axn-n714-2a-nmycbio-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-08-16-2022-20220816-ncmp-n20025-1b-peptide-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-09-27-2022-20220927-im-group-meeting-ephx2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-09-27-2022-20220927-kl-group-meeting-gld07-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-04-2022-12sep2022-thermal-stability-of-crbn-ddb1-binding-to-celmod-cmpds-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-11-2022-20221005-el-results-necc-n21284-1a-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-11-2022-pull-down-assay-pnpla3-260822-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-13-2022-20221013-kl-group-meeting-tev-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-10-18-2022-20221018-kl-group-meeting-nr4a1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-08-2022-102622-largescalepurification-n21242-21255-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-08-2022-dot2022-recap-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-15-2022-20221115-group-meeting-anx-fl-im-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-15-2022-20221115-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-15-2022-qc-report-pptx-2022-11-15-19-37-35-243246-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-11-29-2022-largescalepurification-necc-n21307-08-1a-111622-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-12-06-2022-20221206-group-meeting-im-nbvc-n20676-1a-axn-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2022-meetings-12-20-2022-20221220-snf05-fl-dimer-purifications-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-01-10-2023-20230110-tet2-dna-binding-dsf-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-01-19-2023-19jan2023-proteinsciencesgroupmeetingslides-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-01-19-2023-in-house-qc-of-ligases-from-the-sgc-biortus-and-signalway-antibody-sab-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-01-26-2023-usp18-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-02-2023-20230201-necc-n21209-001b-srp2070fab-binding-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-02-2023-group-meeting-myc-lysate-studies-im-20230202-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-09-2023-08feb2023-nmac-n20096-n20098-001a-proteinpurif-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-09-2023-smscpu-02-02-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-16-2023-20230216-dcaf1-nmac-n20088-nmac-n20089-proteinpurification-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-16-2023-usp18-16-372-large-scale-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-23-2023-02232023-group-meeting-im-ternary-complex-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-02-23-2023-20230223-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-02-2023-trim21-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-16-2023-group-meeting-im-ternary-complex-update-03162023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-16-2023-slas-2023-instruments-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-23-2023-16mar2023-necc-n21355-n21395-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-30-2023-20230329-snf05-xtalproteinupdate-emily-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-03-30-2023-ews-fli1-necc-n20954-002a-032123-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-06-2023-20230406-group-meeting-im-fbxo2-necc-n21353-n21354-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-06-2023-20230406-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-13-2023-03apr2023-necc-n21359-001a-purif-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-20-2023-20230420-klhl6-necc-n21378-n21381-results-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-20-2023-purification-usp18-49-372-041223-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-04-26-2023-04262023-drug-discovery-chemistry-overview-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-05-04-2023-20230504-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-05-11-2023-20230510-snf05-xtalprotein-n21317-n21412-n21413-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-05-18-2023-05182023-group-meeting-im-6h-uba1-2-1058-ube2d2-1-147-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-05-18-2023-20230518-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-01-2023-20230601-ncmp-n20048-001a-results-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-01-2023-large-scale-purification-n21290-4a-21172-1a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-08-2023-group-meeting-06082023-im-rnf10-necc-21231-001a-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-15-2023-08jun2023-necc-n21429-n21430-001a-proteinpurification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-22-2023-largescalepurification-ncmp-n20044-2a-061923-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-06-29-2023-dnajb1-prkaca-target-review-im-final-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-07-13-2023-20230710-ncmp-n20049-001a-results-el-lrr1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-07-20-2023-20230720-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-10-2023-08102023-fbxo2-skp1-necc-n21454-n21455-001a-purification-groupmeeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-10-2023-20230803-tj-purification-nbvc-n20918-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-10-2023-20230808-sec-mals-n20924-n21353-n21354-n21454-n21455-n20106-n20107-n21317-n21464-n21466-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-24-2023-largescalepurification-nbvc-n20998-1a-082123---copy-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-08-31-2023-20230814-tj-purification-nbvc-n20975-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-09-21-2023-20230918-tj-purification-nbvc-n20990-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-09-28-2023-28sep2023-nbvc-n20810-prosciworkingmeeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-10-05-2023-20231002-rnf10-nbvc-n20904-002a-results-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-10-26-2023-20231026-wdr5-nbvc-n21038-n21040-emily-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-02-2023-20231026-tj-purification-necc-n21531-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-02-2023-group-meeting-mycn-11022023-im-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-16-2023-largescalepurification-nbvc-n20999-1a-n21002-1a-111323---group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-30-2023-20231113-tj-targetedproteomics-lck-hpk1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2023-meetings-11-30-2023-29nov2023-group-meeting-myc-max-binding-im-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240111-results-nbvc-n20918-purification-nh-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240118-largescalepurification-n20174-1a-b-n21658-1a-b-011824-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240125-20240125-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240125-group-meeting-mycn-01252024-im-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240201-31jan2024-necc-n21647-n21648-001a-001b-purif-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240201-results-necc-n21495-21496-purification-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240208-20240125-results-biratesting-necc-n21647-emily-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240208-20240201-tj-purification-nbvc-n21087-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240307-20240307-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240307-largescalepurification-trim32-n21575-21587-1a-022724-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240314-20240305-tj-purification-ncmp-n20059-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240314-20240314-kl-group-meeting-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240418-20240416-sec-mals-irf5-fl-in-vitro-phos-el-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240425-20240415-tj-purification-necc-n21702-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240425-20240423-tj-purification-nbvc-n21161-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240613-20240611-irf5-in-vitro-phosphorylation-secmals-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20240912-20240912-gpr75-smscpur-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241107-20241029-tj-purification-nbvc-n21210-001a-and-nbvc-n21211-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241107-2024oct11-biortus-qc-103024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241107-mbp-tagged-proteins-thermal-stability-test-ppt-110124-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241121-20241112-tj-purification-necc-n21012-001a-and-necc-n21012-001b-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241121-20241112-tj-purification-necc-n21212-001a-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241121-2024oct25-biortus-qc-110824-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241217-smscpu-11-18-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2024-meetings-20241217-smscpu-12-02-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250116-2025jan07-biortus-qc-011425-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250116-largescalepurification-necc-n21855-1a-010925-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250206-group-meeting-02062025-im-mycn-fl-purification-results-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250313-20250313-gpr75-del-compounds-tycho-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250410-presentation-mycn-cleavage-tests-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250417-largescalepurification-necc-n21954-001a-040325-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250417-largescalepurification-necc-n21955-001a-040425-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250515-050925-direct2del-double-affinity-test-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250529-05-16-2025-shipment-biortus-irf3-and-stat3-qc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250529-smscpu-05-15-2025-7-clones-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250604-repetition-05-16-2025-shipment-biortus-irf3-qc-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250604-smscpu-05-27-2025-pax3-foxo1-12-clones-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250610-smscpu-06-10-2025-12-c-clones-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250723-071625-direct2del-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250904-20250826-direct2del-scale-up-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20250904-20250904-direct2del-scale-up-summary-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-2025-meetings-20251023-largescalepurification-necc-n22053-2a-102025-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220913-fbiotin-test1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220922-nbvc-n20795-lse-n414-lse-n530-n368-lse-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220922-nbvc-n472-404-470-532-534-471-658-658-25-478-432-383-560-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220922-nmac-82-89-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220923-moi-n25-618-n614-611-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20220926-n20850-20856-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20221006-lse-n20850-20851-20855-ssp-n20810-20853-20865-20870-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20221011-ssp-n542-537-471-541-479-560-539-383-538-472-540-532-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20221104-nbvc-n614-611-n20866-n20865-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20221117-ssp-nmac-n82-89-2092-2095-2100-2105-2086-2099-lse-nbvc-n469-534-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230124-ssp-nmac-n20088-20089-20092-20094-20096-20098-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230130-ssp-nbvc-n20750-20751-20752-20857-20858-20859-20860-20862-20863-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230206-ssp-nbvc-n20699-20751-20795-20863-20471-20642-20703-20725-20742-20801-20802-20810-20871-20877-20879-20880-20881-20882-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230216-ssp-n20070-20331-20960-20879-448-494-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230309-lse-n20874-n20877-ssp-n20922-20926-20392-20393-20923-20924-20927-20928-20797-20820-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230330-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230413-moi-n20797-n20923-n20924-lse-n20331-n20725-n20765-n20903-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230421-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230426-bvma-weekly-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230504-bvma-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230505-lse-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230511-ssp-lse-asec-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230511-ssp-lse-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230621-lse-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230629-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230725-ssps-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230824-lse-20922-20988-20989-p2-21012-21014-21024-21027-21038-21046-21040-21050-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230831-lse-n20048-20958-20987-20990-20991-20992-20994-20832-nm20106-nm20107-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230907-nm-n20171-20172-20174-20175-20177-20178-20180-20181-20182-20183-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230914-lse-n20048-n21046-n20810-n20811-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230914-nm-n20174-20175-20177-20178-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20230921-lse-n20832-20644-21014-20892-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231006-ssp-n21035-p2p-moi-n21020-21036-21037-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231011-p2p-celllinetest-n20969-20331-21007-21008-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231019-lse-n21020-21052-21060-21063-p2p-moi-n21034-nm-n20173-20185-20186-20187-20188-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231024-lse-nm-20106-20107-p2p-21055-21056-21057-21058-21059-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231024-p2p-21055-21056-21057-21058-21059-nm-20199-20200-20201-20202-20203-20204-lse-nm-20106-20107-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231102-lse-n20689-20999-21002-21003-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231103-lse-ncmp20054-20055-20056-21036-nmac-opti-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231110-lse-ncmp-n20054-20055-20056-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231116-lse-ncmp-n20058-nbvc-n20918-002-003-n21018-n21055-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231122-proximity-labelling-btk-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20231213-lse-n20998-n20106-p2s-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240120-lysatedevbtk-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240125-lse-n20897-n20969-n21092-n21093-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240201-lse-n20392-n20969-n21092-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240208-ssp-sgn01-snf07-ligandability-lse-n20918-n20923-n20992-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240215-lse-n21135-21144-21070-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240222-lse-nm-n20106-n20107-bv-n21148-n21149-moi-n21148-n21149-n21069-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240307-lse-n20392-n20909-n21070-n21136-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240313-lse-n20909-n21069-n21121-p2p-n20434-n20848-n20929-n20931-n20932-n21094-n21095-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240320-bv-ma-platform-development-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240320-lse-20918-21130-21000-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240328-p2p-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240329-tmd8-round1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240404-lse-n20392-n20096-n20098-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240411-lse-n20392-n20980-n21098-n21158-n21160-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240415-fluorescentbiotin-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240416-lse-n21161-21162-21163-coexp-n21159-21092-21179-21092-21181-n21178-21182-21178-20434-20068-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240424-lse-n20914-20915-21174-21181-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240424-platform-update-bacmam-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240425-platform-update-proximity-labeling-assay-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240429-lse-n21071-n21159-n21174-n21175-n21179-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240513-p2p-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240516-platdev-fluorescent-biotin-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240612-lse-n20438-n21181-n21188-n21189-n21190-n21191-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240616-lipid-nanoparticle-transduction-overview-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240624-nmac-n20137-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240702-6l-flask-trial-n20942-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240709-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240710-sset-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240731-lse-n21000-002-n21207-001-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240802-sset-n20392-n21187-n21198-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240805-lnp-presentation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240806-lset-n21187-001-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240815-ssp-nmac-n20210-20221-lse-n-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240821-gpr75-expression-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240821-ssp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240822-lse-n21201-n21202-n21203-n21204-ncmp-n20063-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240824-lnp-mammalian-cell-transfection-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240912-lnp-transfection-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240912-lse-n21121-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240912-ssp-bm-nmac-n20210-20221-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240912-ssp-bm-nmac-n20210-20221-pptx-2024-10-25-22-39-38-260158-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240925-ssp-n21000-n21209-n21210-n21211-n21214-n21215-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240930-gpr75-expression-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20240930-lse-n21195-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241003-bvma-platform-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241009-polymer-ssp-n21239-21240-21241-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241011-lse-n21221-ssp-moi-n21216-21221-fluorquant-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241017-bvma-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241017-ssp-moi-n21195-transfectioncomparisonn21000-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241018-n21216-002-fluorquant-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241024-transfectioncomparison-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241025-wb-n21221-n21211-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241104-ctm-lnps-hibit-screen-2-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241104-fq-n21218-n21221-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241107-bv-ma-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241115-fq-lse-n21218-003-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241121-hitep2-0-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241202-fq-n21253-n21246-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241203-lse-n20866-002-n20879-006-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20241213-mateoemily1-1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250109-lnp-progress-report-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250123-full-length-pax3-foxo1-target-form-expression-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250130-sset-nbvc-n21254-21245-21243-21242-20053-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250208-full-length-secretion-expression-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250212-hitep2-0-transformation-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250217-ssp-lse-n20053-001-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250225-fq-lse-n21253-001-002-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250227-ssp-21102-21262-21269-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250228-fl-pax3-foxo1-discussion-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250304-lse-n21199-002-n21206-002-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250306-ssp-fluorquant-n21258-21261-n21270-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250319-lnptransfectionoverview-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250324-moi-n21267-21268-21269-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250328-lse-fluorquant-n21248-002-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250403-ssp-n21272-n21274-n21276-n21277-n21278-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250415-ssp-n21271-21273-lse-n21259-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250417-moi-n21103-21104-21272-21274-21276-21277-21278-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250424-ssp-moi-n21278-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250513-fluorquant-n21271-21273-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250520-ssp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250612-fq-lse-n21248-003-nbvc-n21271-001-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250626-ssp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250710-fluorquant-ssp-n21248-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250714-lse-fluorquant-n21248-004-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250724-ssp-ma-21245-21252-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250730-ssp-pax3foxo1-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20250825-gpr75-fq-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20251006-gpr75-fq-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20251202-ssp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20251216-ssp-lse-n21069-ssp-n21312-n21317-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20260116-cfps-pilot-experiment-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20260119-next-cloning-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-20260120-gpr75-pulldown-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-bv-ddel-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-bv-pipeline-outline-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-dac-lal-endotoxin-assay-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-hitep-ultra-project-update-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-large-scale-results-in-house-expression-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-220921-necc-n21243-44-45-46-47-49-50-53-62-747-775-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221012-necc-n21285-86-87-88-89-91-42-54-55-56-57-40-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221013-necc-n21264-65-66-67-75-76-77-78-79-80-81-82-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221027-necc-n21292-293-294-295-296-184-185-305-306-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221102-necc-n20571-572-574-576-579-580-581-21307-308-309-313-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221109-necc-n20572-74-76-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221109-necc-n21322-23-24-25-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221111-necc-n731-2-3-n21231-33-34-32-43-47-n829-830-831-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221115-necc-n565-68-70-72-64-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-221202-necc-n21327-28-29-30-31-16-17-18-19-20-21-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-070622-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-071422-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-072722-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-081022-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-081722-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-082222-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-082422-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-090122-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2022-smscpu-092122-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-230123-necc-n21352-3-4-5-6-7-8-9-60-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-230124-necc-n21293-4-5-6-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-01-27-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-012423-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-02-02-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-02-09-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-02-16-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-03-03-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-03-16-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-03-30-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-04-05-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-04-26-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-05-01-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-05-23-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-06-01-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-06-01-23-updated-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-06-22-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-06-29-23-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-07-11-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-08-03-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-08-10-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-08-17-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-08-31-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-09-07-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-09-14-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-09-21-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-10-09-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2023-smscpu-10-12-2023-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-april-smscpu-04-27-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-august-smscpu-08-26-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-december-smscpu-12-02-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-december-smscpu-12-09-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-december-smscpu-12-16-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-february-smscpu-02-01-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-february-smscpu-02-14-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-february-smscpu-02-20-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-february-smscpu-02-29-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-january-smscpu-01-18-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-january-smscpu-01-22-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-june-smscpu-06-14-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-07-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-11-2024-beadmill-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-13-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-18-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-march-smscpu-03-21-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-may-smscpu-05-10-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-may-smscpu-05-16-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-may-smscpu-05-31-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-november-smscpu-11-18-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2024-september-smscpu-09-20-2024-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-03-03-2025-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-03-17-2025-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-08-04-2025-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-08-11-2025-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-08-25-2025-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-2025-smscpu-1-13-2025-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-20250923-del-fm-ssp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-20260128-ssp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-20260203-ssp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-small-scale-results-20260211-ssp-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-expression-screening-results-template-pptx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-potluck-12152023-xlsx
+- [x] onedrive_protein-chemistry-protein-sciences-group-meetings-thursday-group-meeting-presentation-schedule-xlsx
 
 ### Baculovirus expression system  (876)
 
@@ -9024,51 +9024,51 @@ Reference papers used by PS. Build a `references/` index or fold into specific c
 
 Conference materials (slide decks, posters from external presentations). Fold into `programs/` or `concepts/` anchors as appropriate.
 
-- [ ] onedrive_protein-chemistry-conferences-2024-keystone-symposia-presentations-of-interest-xlsx
-- [ ] onedrive_protein-chemistry-conferences-ddc2024-2024-ddc-abstract-docx
-- [ ] onedrive_protein-chemistry-conferences-ddc2024-20240628-koodac-presentation-authors-list-docx
-- [ ] onedrive_protein-chemistry-conferences-ddc2024-approaches-for-dna-encoded-library-screening-of-transcription-factors-scipubsv4-pptx
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-1-05-pm-delgoffe-tumor-immunosuppression-mechanisms-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-1-05-pm-delgoffe-tumor-immunosuppression-mechanisms-pptx
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-10-30-am-lanier-innate-immunity-cellular-mechanisms-and-signaling-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-10-30-am-lanier-innate-immunity-cellular-mechanisms-and-signaling-pptx
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-2-10-pm-overwijk-tumor-immunology-immunoregulation-and-immunopharmacodynamics-pptx
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-2-10-pm-overwijk-tumor-immunology-j-immunoregulation-j-and-immunopharmacodynamics-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-3-20-pm-subudhi-immunotherapeutic-strategy-immune-checkpoint-blockade-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-3-20-pm-subudhi-immunotherapeutic-strategy-immune-checkpoint-blockade-pptx
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-delgoffe-t-cell-exhuastion-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-delgoffe-t-cell-exhuastion-pptx
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-lanier-innate-immune-mechanisms-dendritic-cells-and-nk-cells-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-lanier-innate-immune-mechanisms-dendritic-cells-and-nk-cells-pptx
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-lizee-antigen-presentation-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-lizee-antigen-presentation-pptx
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-9-20-am-triplett-adaptive-immunity-cellular-mechanisms-and-signaling-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-1-05-pm-kaufman-intratumoral-and-local-therapy-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-10-30-am-franklin-pre-clinical-animal-models-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-10-30-am-garrett-mayer-phase-ii-and-phase-iii-immunotherapy-clinical-trials-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-11-35-am-nelson-immunity-and-therapeutic-efficacy-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-2-10-pm-butterfield-immunotherapeutic-strategy-can-cancer-vaccines-really-work-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-2-10-pm-scharpf-applications-of-computational-biologymachine-learning-to-immuno-oncology-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-2-10-pm-yuan-biomarker-based-clinical-trials-1-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-2-10-pm-yuan-biomarker-based-clinical-trials-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-3-15-pm-collyar-patient-considerations-that-impact-treatment-and-clinical-trials-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-3-15-pm-gnjatic-deep-tcr-and-bcr-sequencing-as-a-biomarker-for-cancer-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-3-15-pm-takimoto-industry-led-session-new-agents-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-9-20-am-kaufman-phase-i-immunotherapy-clinical-trials-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-1-05-pm-tiper-cancer-immunotherapy-an-fda-perspective-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-10-30-am-franklin-pre-clinical-animal-models-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-10-30-am-garrett-mayer-phase-ii-and-phase-iii-immunotherapy-clinical-trials-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-10-30-am-morse-synthetic-immunology-harnessing-the-tools-of-synthetic-biology-and-gene-editing-to-engineer-next-generation-cell-therapies-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-2-10-pm-scharpf-applications-of-computational-biologymachine-learning-to-immuno-oncology-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-2-10-pm-yuan-biomarker-based-clinical-trials-1-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-2-10-pm-yuan-biomarker-based-clinical-trials-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-3-15-pm-collyar-patient-considerations-that-impact-treatment-and-clinical-trials-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-3-15-pm-gnjatic-deep-tcr-and-bcr-sequencing-as-a-biomarker-for-cancer-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-3-15-pm-takimoto-industry-led-session-new-agents-pdf
-- [ ] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-9-20-am-kaufman-phase-i-immunotherapy-clinical-trials-pdf
-- [ ] onedrive_protein-chemistry-conferences-slas2022-posters-1958765-1643646658-pdf
-- [ ] onedrive_protein-chemistry-conferences-slas2022-posters-1958770-1643986942-pdf
-- [ ] onedrive_protein-chemistry-conferences-slas2022-posters-1958818-1643666048-pdf
+- [x] onedrive_protein-chemistry-conferences-2024-keystone-symposia-presentations-of-interest-xlsx
+- [x] onedrive_protein-chemistry-conferences-ddc2024-2024-ddc-abstract-docx
+- [x] onedrive_protein-chemistry-conferences-ddc2024-20240628-koodac-presentation-authors-list-docx
+- [x] onedrive_protein-chemistry-conferences-ddc2024-approaches-for-dna-encoded-library-screening-of-transcription-factors-scipubsv4-pptx
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-1-05-pm-delgoffe-tumor-immunosuppression-mechanisms-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-1-05-pm-delgoffe-tumor-immunosuppression-mechanisms-pptx
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-10-30-am-lanier-innate-immunity-cellular-mechanisms-and-signaling-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-10-30-am-lanier-innate-immunity-cellular-mechanisms-and-signaling-pptx
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-2-10-pm-overwijk-tumor-immunology-immunoregulation-and-immunopharmacodynamics-pptx
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-2-10-pm-overwijk-tumor-immunology-j-immunoregulation-j-and-immunopharmacodynamics-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-3-20-pm-subudhi-immunotherapeutic-strategy-immune-checkpoint-blockade-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-3-20-pm-subudhi-immunotherapeutic-strategy-immune-checkpoint-blockade-pptx
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-delgoffe-t-cell-exhuastion-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-delgoffe-t-cell-exhuastion-pptx
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-lanier-innate-immune-mechanisms-dendritic-cells-and-nk-cells-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-lanier-innate-immune-mechanisms-dendritic-cells-and-nk-cells-pptx
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-lizee-antigen-presentation-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-4-25-pm-lizee-antigen-presentation-pptx
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day1-20220124-9-20-am-triplett-adaptive-immunity-cellular-mechanisms-and-signaling-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-1-05-pm-kaufman-intratumoral-and-local-therapy-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-10-30-am-franklin-pre-clinical-animal-models-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-10-30-am-garrett-mayer-phase-ii-and-phase-iii-immunotherapy-clinical-trials-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-11-35-am-nelson-immunity-and-therapeutic-efficacy-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-2-10-pm-butterfield-immunotherapeutic-strategy-can-cancer-vaccines-really-work-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-2-10-pm-scharpf-applications-of-computational-biologymachine-learning-to-immuno-oncology-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-2-10-pm-yuan-biomarker-based-clinical-trials-1-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-2-10-pm-yuan-biomarker-based-clinical-trials-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-3-15-pm-collyar-patient-considerations-that-impact-treatment-and-clinical-trials-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-3-15-pm-gnjatic-deep-tcr-and-bcr-sequencing-as-a-biomarker-for-cancer-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-3-15-pm-takimoto-industry-led-session-new-agents-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day3-20220126-9-20-am-kaufman-phase-i-immunotherapy-clinical-trials-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-1-05-pm-tiper-cancer-immunotherapy-an-fda-perspective-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-10-30-am-franklin-pre-clinical-animal-models-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-10-30-am-garrett-mayer-phase-ii-and-phase-iii-immunotherapy-clinical-trials-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-10-30-am-morse-synthetic-immunology-harnessing-the-tools-of-synthetic-biology-and-gene-editing-to-engineer-next-generation-cell-therapies-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-2-10-pm-scharpf-applications-of-computational-biologymachine-learning-to-immuno-oncology-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-2-10-pm-yuan-biomarker-based-clinical-trials-1-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-2-10-pm-yuan-biomarker-based-clinical-trials-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-3-15-pm-collyar-patient-considerations-that-impact-treatment-and-clinical-trials-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-3-15-pm-gnjatic-deep-tcr-and-bcr-sequencing-as-a-biomarker-for-cancer-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-3-15-pm-takimoto-industry-led-session-new-agents-pdf
+- [x] onedrive_protein-chemistry-conferences-sitc-2022-winterschool-day4-20220127-9-20-am-kaufman-phase-i-immunotherapy-clinical-trials-pdf
+- [x] onedrive_protein-chemistry-conferences-slas2022-posters-1958765-1643646658-pdf
+- [x] onedrive_protein-chemistry-conferences-slas2022-posters-1958770-1643986942-pdf
+- [x] onedrive_protein-chemistry-conferences-slas2022-posters-1958818-1643666048-pdf
 
 ### ISP assays (in-solution proteomics)  (57)
 
@@ -9429,23 +9429,23 @@ Operational/methodology cluster for large-scale fermentation. May anchor `protoc
 
 Strategic goals documents. Anchors `decisions/ps-goals-YYYY.md` per year.
 
-- [ ] onedrive_protein-chemistry-goals-2021-20210217-proteinsciences-teammeeting-v2-pptx
-- [ ] onedrive_protein-chemistry-goals-2021-nurix-2021-corporate-goals-final-bod-approved-docx
-- [ ] onedrive_protein-chemistry-goals-2022-2022-del-protein-achievements-pptx
-- [ ] onedrive_protein-chemistry-goals-2023-2022-23-goals-corporate-research-goals-pptx
-- [ ] onedrive_protein-chemistry-goals-2023-2023-corporate-goals-board-approved-02-01-2023-pptx
-- [ ] onedrive_protein-chemistry-goals-2023-2023-corporate-research-and-del-protein-sciences-goals-pptx
-- [ ] onedrive_protein-chemistry-goals-2023-2023-del-protein-achievements-for-chris-pptx
-- [ ] onedrive_protein-chemistry-goals-2023-2023-del-protein-achievements-pptx
-- [ ] onedrive_protein-chemistry-goals-2023-2023-del-protein-sciences-goals-pptx
-- [ ] onedrive_protein-chemistry-goals-2023-performance-planning-form-2023-docx
-- [ ] onedrive_protein-chemistry-goals-2024-2024-corporate-and-group-goals-pptx
-- [ ] onedrive_protein-chemistry-goals-2024-del-protein-sciences-2024-achievement-summary-pptx
-- [ ] onedrive_protein-chemistry-goals-2025-2025-research-goals-final-docx
-- [ ] onedrive_protein-chemistry-goals-nurix-early-discovery-goals-2021-docx
-- [ ] onedrive_protein-chemistry-goals-nurix-early-discovery-goals-2h2021-docx
-- [ ] onedrive_protein-chemistry-goals-performance-mgmt-at-nurix---overview-11-2020-pptx
-- [ ] onedrive_protein-chemistry-goals-protein-sciences-customers-pptx
+- [x] onedrive_protein-chemistry-goals-2021-20210217-proteinsciences-teammeeting-v2-pptx
+- [x] onedrive_protein-chemistry-goals-2021-nurix-2021-corporate-goals-final-bod-approved-docx
+- [x] onedrive_protein-chemistry-goals-2022-2022-del-protein-achievements-pptx
+- [x] onedrive_protein-chemistry-goals-2023-2022-23-goals-corporate-research-goals-pptx
+- [x] onedrive_protein-chemistry-goals-2023-2023-corporate-goals-board-approved-02-01-2023-pptx
+- [x] onedrive_protein-chemistry-goals-2023-2023-corporate-research-and-del-protein-sciences-goals-pptx
+- [x] onedrive_protein-chemistry-goals-2023-2023-del-protein-achievements-for-chris-pptx
+- [x] onedrive_protein-chemistry-goals-2023-2023-del-protein-achievements-pptx
+- [x] onedrive_protein-chemistry-goals-2023-2023-del-protein-sciences-goals-pptx
+- [x] onedrive_protein-chemistry-goals-2023-performance-planning-form-2023-docx
+- [x] onedrive_protein-chemistry-goals-2024-2024-corporate-and-group-goals-pptx
+- [x] onedrive_protein-chemistry-goals-2024-del-protein-sciences-2024-achievement-summary-pptx
+- [x] onedrive_protein-chemistry-goals-2025-2025-research-goals-final-docx
+- [x] onedrive_protein-chemistry-goals-nurix-early-discovery-goals-2021-docx
+- [x] onedrive_protein-chemistry-goals-nurix-early-discovery-goals-2h2021-docx
+- [x] onedrive_protein-chemistry-goals-performance-mgmt-at-nurix---overview-11-2020-pptx
+- [x] onedrive_protein-chemistry-goals-protein-sciences-customers-pptx
 
 ### HT Expression Determination  (6)
 
@@ -9472,21 +9472,21 @@ High-throughput platform SOPs.
 
 Cross-team quarterly project updates from PS meetings. May fold into `decisions/ps-quarterly-cadence.md`.
 
-- [ ] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-01-19-2023-ps-project-updates-pptx
-- [ ] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-03-18-2025-dps-projectupdates-pptx
-- [ ] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-04-01-2026-dps-projectupdates-pptx
-- [ ] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-05-11-2023-ps-project-updates-pptx
-- [ ] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-06-21-2024-dps-project-updates-pptx
-- [ ] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-08-31-2023-dps-project-updates-pptx
-- [ ] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-09-16-2025-dps-projectupdates-pptx
-- [ ] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-12-08-2022-ps-project-updates-pptx
+- [x] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-01-19-2023-ps-project-updates-pptx
+- [x] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-03-18-2025-dps-projectupdates-pptx
+- [x] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-04-01-2026-dps-projectupdates-pptx
+- [x] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-05-11-2023-ps-project-updates-pptx
+- [x] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-06-21-2024-dps-project-updates-pptx
+- [x] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-08-31-2023-dps-project-updates-pptx
+- [x] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-09-16-2025-dps-projectupdates-pptx
+- [x] onedrive_protein-chemistry-quarterly-project-update---ps-meetings-12-08-2022-ps-project-updates-pptx
 
 ### Internal targets updates  (2)
 
 Internal target list updates.
 
-- [ ] onedrive_protein-chemistry-internal-targets-updates-internal-project-update-template-pptx
-- [ ] onedrive_protein-chemistry-internal-targets-updates-internal-project-update-template-version-2-pptx
+- [x] onedrive_protein-chemistry-internal-targets-updates-internal-project-update-template-pptx
+- [x] onedrive_protein-chemistry-internal-targets-updates-internal-project-update-template-version-2-pptx
 
 ### DEL Screen Test  (4)
 
@@ -9969,19 +9969,19 @@ Per-purification report snapshot cluster + barcode tube inventory snapshots. Sam
 
 Monthly planning artifacts for the PC team.
 
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-darynne-darynne-haley-weekly-planner-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-darynne-darynne-wills-weekly-planner-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-darynne-weeklyplanner-darynnecross-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-emily-low-biomassinventory-emily-darynne-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-emily-low-weeklyplanner-emilylow-20230608-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-emily-low-weeklyplanner-emilylow-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-hugo-bousquet-weeklyplanner-hugobousquet-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-isabel-morgado-weeklyplanner-isabelmorgado-old-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-isabel-morgado-weeklyplanner-isabelmorgado-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-katherine-leon-darynne-katherine-weekly-planner-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-katherine-leon-katherine-weekly-planner-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-mateo-weeklyplanner-mateo-xlsx
-- [ ] onedrive_protein-chemistry-pc-monthly-plans-nairi-hartooni-weeklyplanner-nairihartooni-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-darynne-darynne-haley-weekly-planner-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-darynne-darynne-wills-weekly-planner-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-darynne-weeklyplanner-darynnecross-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-emily-low-biomassinventory-emily-darynne-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-emily-low-weeklyplanner-emilylow-20230608-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-emily-low-weeklyplanner-emilylow-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-hugo-bousquet-weeklyplanner-hugobousquet-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-isabel-morgado-weeklyplanner-isabelmorgado-old-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-isabel-morgado-weeklyplanner-isabelmorgado-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-katherine-leon-darynne-katherine-weekly-planner-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-katherine-leon-katherine-weekly-planner-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-mateo-weeklyplanner-mateo-xlsx
+- [x] onedrive_protein-chemistry-pc-monthly-plans-nairi-hartooni-weeklyplanner-nairihartooni-xlsx
 
 ### Isabel Morgado's OneDrive (departed-employee target-project archive)  (3514)
 
