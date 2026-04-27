@@ -9,12 +9,19 @@ SMB paths work too: pass `\\\\server\\share\\folder` (Windows) or a mounted
 filesystem paths; the only quirk is that `os.stat` can be slow over SMB, so
 `--incremental --since <iso>` is strongly recommended for scheduled runs.
 
-Hang resilience (FU-9): every blocking filesystem call -- `iterdir`,
+Hang resilience (FU-9): every blocking filesystem call -- `scandir`,
 `stat`, and the per-file `convert` hand-off -- is routed through
 `jojo_ingest._watchdog.run_with_timeout`. If a call doesn't return within
 its timeout, the walker logs the path and moves on. Without this guard a
 single torn-down SMB session can deadlock the whole run (the symptom from
 the April 22 soak: 12h wall-clock, zero additions, zero errors).
+
+Listing strategy: directory entries come from `os.scandir`, which on
+Windows fills DirEntry.is_dir() and DirEntry.stat() from the same
+FindFirstFile/FindNextFile call that produced the listing -- the walker
+pays one SMB round-trip per directory instead of one per directory plus
+N per file. On a deeply-nested share this is the difference between a
+walk that finishes in minutes and one that runs into the next day.
 
 Files whose extension has a dedicated converter (docx/xlsx/pptx/pdf) round-
 trip through that converter. Anything else that decodes as text falls back
@@ -40,6 +47,7 @@ or hung on a single subtree. Set <= 0 to disable.
 from __future__ import annotations
 
 import logging
+import os
 import sys
 import time
 from collections.abc import Iterable, Iterator
@@ -76,8 +84,35 @@ _DEFAULT_CONVERT_TIMEOUT_S = 120.0
 _DEFAULT_PROGRESS_INTERVAL_S = 60.0
 
 
+def _scandir_sorted(directory: str) -> list[os.DirEntry]:
+    """List `directory` via `os.scandir`, drained and sorted by name.
+
+    The DirEntry list is materialized inside the watchdog thread's
+    `with os.scandir(...)` block so the OS handle is closed before we
+    return — leaving it open across a thread boundary risks a leak if
+    the watchdog abandons the thread. Sorting by name gives the walker
+    deterministic output (mirroring the previous `Path.iterdir()` +
+    `sorted(...)` behavior so existing snapshots keep their order).
+
+    `directory` is a `str` rather than a `Path` because os.scandir on
+    Windows is meaningfully faster on str paths than on Path objects
+    (Path adds a `__fspath__` round-trip per entry); the caller passes
+    `str(path)` once, the walk does its work, and the cost is paid once.
+    """
+    with os.scandir(directory) as it:
+        return sorted(it, key=lambda e: e.name)
+
+
 class DriveConnector(Connector):
     source_type = "drive"
+
+    # Subclasses may set this to a tuple of gitignore-style patterns that
+    # ship with the connector itself, layered on top of the source root's
+    # `.jojoignore`. The use case is shares the operator can't write to
+    # (e.g. the Nurix P:\ public drive — see PublicDriveConnector) where
+    # noisy subtrees still need pruning. Empty by default so the base
+    # connector doesn't impose policy on plain local-folder walks.
+    _BUILTIN_IGNORE_PATTERNS: tuple[str, ...] = ()
 
     def __init__(
         self,
@@ -87,6 +122,7 @@ class DriveConnector(Connector):
         ignore: JojoIgnore | None = None,
         max_size_mb: int = 50,
         include_extensions: Iterable[str] | None = None,
+        extra_ignore_patterns: Iterable[str] | None = None,
         listdir_timeout_s: float = _DEFAULT_LISTDIR_TIMEOUT_S,
         stat_timeout_s: float = _DEFAULT_STAT_TIMEOUT_S,
         convert_timeout_s: float = _DEFAULT_CONVERT_TIMEOUT_S,
@@ -96,7 +132,21 @@ class DriveConnector(Connector):
         if not self.root.exists():
             raise IngestError(f"drive root does not exist: {self.root}")
         self.access_level = access_level
-        self.ignore = ignore or JojoIgnore.from_file(self.root / ".jojoignore")
+        # Resolution order for the ignore set:
+        #   1. Caller-supplied `ignore` (full override; tests use this)
+        #   2. Source root's .jojoignore + class _BUILTIN_IGNORE_PATTERNS
+        #      + caller-supplied extra_ignore_patterns
+        # The class builtins go BEFORE the operator extras so an operator
+        # can negate a builtin pattern with a `!` rule if they ever need
+        # to (gitignore semantics: later rules override earlier ones).
+        if ignore is not None:
+            self.ignore = ignore
+        else:
+            base = JojoIgnore.from_file(self.root / ".jojoignore")
+            extras: list[str] = list(self._BUILTIN_IGNORE_PATTERNS)
+            if extra_ignore_patterns:
+                extras.extend(extra_ignore_patterns)
+            self.ignore = base.with_extra(extras) if extras else base
         self.max_bytes = max_size_mb * 1024 * 1024
         # Normalize: lowercase, strip leading dots, drop empties. None means
         # "no allowlist" (current behavior); a frozenset means "only these".
@@ -131,20 +181,32 @@ class DriveConnector(Connector):
     def _walk(self, directory: Path, *, since: datetime | None) -> Iterator[SourceEntry]:
         # Heartbeat fires on directory entry rather than per-file: per-file
         # would spam on a fat directory, and the operator just wants to know
-        # which subtree we're in. Emitted before iterdir() so a hang shows
+        # which subtree we're in. Emitted before scandir() so a hang shows
         # up in the log right next to the directory we got stuck on.
         self._emit_progress(directory)
+        # `os.scandir` instead of `Path.iterdir` is the cheap perf win: on
+        # Windows (and most POSIX filesystems) the directory listing fills
+        # in DirEntry.is_dir() and DirEntry.stat() from the same underlying
+        # FindFirstFile/FindNextFile (or readdir+inline-stat) sweep, so a
+        # later .is_dir() / .stat() call on a DirEntry is satisfied from
+        # cache without a second SMB round-trip. The pre-fix walker did
+        # 1 listdir + N stat() syscalls per directory; the new walker does
+        # 1 scandir + 0 syscalls per directory in the common case. On a
+        # 10k-file SMB subtree that's the difference between minutes and
+        # seconds. We still route through the watchdog so a torn-down SMB
+        # session can't deadlock the walker (FU-9).
         try:
             children = run_with_timeout(
-                lambda: sorted(directory.iterdir(), key=lambda p: p.name),
+                _scandir_sorted,
+                str(directory),
                 timeout_s=self.listdir_timeout_s,
-                label=f"iterdir({directory})",
+                label=f"scandir({directory})",
             )
         except PermissionError:
             log.warning("permission denied, skipping: %s", directory)
             return
         except WatchdogTimeout as exc:
-            # This is the FU-9 case: SMB session torn down, iterdir never
+            # This is the FU-9 case: SMB session torn down, scandir never
             # returns. Daemon thread is abandoned; the walker moves on.
             log.warning("listdir timed out on %s, skipping subtree: %s", directory, exc)
             return
@@ -160,26 +222,44 @@ class DriveConnector(Connector):
             log.warning("I/O error listing %s, skipping subtree: %s", directory, exc)
             return
         for entry in children:
-            rel = entry.relative_to(self.root).as_posix()
-            if entry.is_dir():
+            entry_path = Path(entry.path)
+            rel = entry_path.relative_to(self.root).as_posix()
+            # is_dir / is_file from a DirEntry are answered from the
+            # listing's cached stat info on Windows, so these don't make
+            # extra syscalls in the common case. follow_symlinks=False is
+            # deliberate: a circular symlink on a share would otherwise
+            # make the walk recurse forever.
+            try:
+                is_directory = entry.is_dir(follow_symlinks=False)
+            except OSError as exc:
+                # Stat failed for this one entry (rare; happens if a file is
+                # deleted between scandir and is_dir, or on a flaky SMB session).
+                # Skip the entry but don't bail on the directory.
+                log.warning("is_dir failed on %s, skipping: %s", entry.path, exc)
+                continue
+            if is_directory:
                 if self.ignore.match(rel, is_dir=True):
+                    # Visible debug-level so an operator chasing "why is the
+                    # walker fast / what got skipped?" can grep the wrapper
+                    # log. Kept at debug to avoid drowning the normal log.
+                    log.debug("ignore match (dir), pruning subtree: %s", rel)
                     continue
-                yield from self._walk(entry, since=since)
+                yield from self._walk(entry_path, since=since)
                 continue
             if self.ignore.match(rel, is_dir=False):
                 continue
-            if not is_supported(entry):
+            if not is_supported(entry_path):
                 log.info("unsupported extension, skipping: %s", rel)
                 continue
             if self.include_extensions is not None:
                 # Empty extension ("" — files with no suffix) is intentionally
                 # excluded when an allowlist is set: the operator was explicit,
                 # so don't let unmarked text files sneak in.
-                ext = entry.suffix.lower().lstrip(".")
+                ext = entry_path.suffix.lower().lstrip(".")
                 if ext not in self.include_extensions:
                     log.debug("not in include_extensions, skipping: %s", rel)
                     continue
-            stat = self._safe_stat(entry)
+            stat = self._safe_stat_dirent(entry)
             if stat is None:
                 continue
             if stat.st_size > self.max_bytes:
@@ -192,7 +272,7 @@ class DriveConnector(Connector):
                 mtime = datetime.fromtimestamp(stat.st_mtime, tz=timezone.utc)
                 if mtime < since:
                     continue
-            se = self._build_entry(entry, rel, stat=stat)
+            se = self._build_entry(entry_path, rel, stat=stat)
             if se is not None:
                 self._yielded += 1
                 yield se
@@ -232,6 +312,10 @@ class DriveConnector(Connector):
         Over SMB an `os.stat` on a handle whose session was torn down can
         block indefinitely. We route every stat through the watchdog so
         the walker never gets stuck on one file.
+
+        Retained for the `_build_entry` fallback path where we only have
+        a Path and no DirEntry cache to consult; the hot walker loop uses
+        `_safe_stat_dirent` against the scandir cache instead.
         """
         try:
             return run_with_timeout(
@@ -244,6 +328,29 @@ class DriveConnector(Connector):
             return None
         except OSError as exc:
             log.warning("stat failed on %s, skipping: %s", path, exc)
+            return None
+
+    def _safe_stat_dirent(self, entry: os.DirEntry):
+        """Stat a DirEntry from `os.scandir`, watchdog-wrapped.
+
+        On Windows DirEntry.stat() is filled in from the original
+        FindFirstFile/FindNextFile call, so the call is essentially free
+        (no second roundtrip). On POSIX it's a real `lstat` syscall on
+        first access, then cached. We still route through the watchdog
+        because a degraded SMB session can stall a stat() the first time
+        the cache is cold.
+        """
+        try:
+            return run_with_timeout(
+                lambda: entry.stat(follow_symlinks=False),
+                timeout_s=self.stat_timeout_s,
+                label=f"stat({entry.path})",
+            )
+        except WatchdogTimeout as exc:
+            log.warning("stat timed out on %s, skipping: %s", entry.path, exc)
+            return None
+        except OSError as exc:
+            log.warning("stat failed on %s, skipping: %s", entry.path, exc)
             return None
 
     def _build_entry(self, path: Path, rel: str, *, stat=None) -> SourceEntry | None:

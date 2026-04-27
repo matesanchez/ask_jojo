@@ -74,6 +74,20 @@ class JojoIgnore:
         rules.extend(_compile_rule(p) for p in patterns)
         return cls(rules)
 
+    def with_extra(self, patterns: list[str] | tuple[str, ...]) -> JojoIgnore:
+        """Return a new JojoIgnore with `patterns` appended to the rule list.
+
+        The original is left unmodified. Used by connectors that ship
+        baseline ignore patterns the operator can't add to the source's
+        own .jojoignore — e.g. PublicDriveConnector pruning Agilent `*.D/`
+        ChemStation directories on the Nurix P:\\ share, where the operator
+        has no write access to the share root and a top-level .jojoignore
+        would also affect other tools.
+        """
+        new_rules = list(self._rules)
+        new_rules.extend(_compile_rule(p) for p in patterns)
+        return JojoIgnore(new_rules)
+
     def match(self, path: str | Path, *, is_dir: bool = False) -> bool:
         """Return True if `path` should be ignored.
 

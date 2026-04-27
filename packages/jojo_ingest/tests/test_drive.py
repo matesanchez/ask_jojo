@@ -128,9 +128,13 @@ def test_drive_incremental_since_filter(source_tree: Path, tmp_path: Path):
 
 
 def test_drive_walker_skips_subtree_when_iterdir_times_out(source_tree: Path, caplog):
-    """FU-9 smoking gun: if iterdir blocks forever, the walker must skip and
+    """FU-9 smoking gun: if scandir blocks forever, the walker must skip and
     keep going. We simulate the hang by monkeypatching the watchdog to
-    raise WatchdogTimeout and assert the walker still returns."""
+    raise WatchdogTimeout and assert the walker still returns.
+
+    (Test name retained for blame continuity; the underlying syscall is
+    now `os.scandir`, not `Path.iterdir`.)
+    """
     import jojo_ingest.drive as drive_module
     from jojo_ingest._watchdog import WatchdogTimeout
 
@@ -142,7 +146,7 @@ def test_drive_walker_skips_subtree_when_iterdir_times_out(source_tree: Path, ca
         # stat/convert) through the real helper. This mimics a single
         # hung subtree at the root, which is the FU-9 shape.
         calls["n"] += 1
-        if calls["n"] == 1 and label.startswith("iterdir"):
+        if calls["n"] == 1 and label.startswith("scandir"):
             raise WatchdogTimeout(f"{label} simulated hang")
         return real_run(func, *args, timeout_s=timeout_s, label=label, **kwargs)
 
@@ -289,6 +293,36 @@ def test_include_extensions_drops_unmarked_text_files(tmp_path: Path):
     conn = DriveConnector(root, include_extensions={"md"})
     names = sorted(e.source_id for e in conn.fetch())
     assert names == ["notes.md"]
+
+
+def test_extra_ignore_patterns_layer_on_top_of_jojoignore(source_tree: Path):
+    """`extra_ignore_patterns=` adds to the source's .jojoignore, doesn't replace.
+
+    The fixture's .jojoignore already prunes `drafts/`. We layer an extra
+    rule for `*.txt` and confirm both rules are active.
+    """
+    conn = DriveConnector(source_tree, extra_ignore_patterns=["*.txt"])
+    names = sorted(e.source_id for e in conn.fetch())
+    # drafts/ still pruned (from .jojoignore); .txt now also pruned (from extra).
+    assert names == ["sop/buffer-recipe.md"]
+
+
+def test_extra_ignore_patterns_default_unchanged(source_tree: Path):
+    """No extras = baseline behavior unchanged. Regression guard for the
+    layering logic — easy to accidentally drop builtins or .jojoignore
+    when composing."""
+    baseline = DriveConnector(source_tree)
+    explicit = DriveConnector(source_tree, extra_ignore_patterns=[])
+    assert sorted(e.source_id for e in baseline.fetch()) == sorted(
+        e.source_id for e in explicit.fetch()
+    )
+
+
+def test_drive_connector_has_no_builtin_ignore_patterns_by_default():
+    """The base connector ships with an empty builtin set: tests for plain
+    DriveConnector must not see surprise prunes from a future commit that
+    leaks publicdrive-specific patterns into the base class."""
+    assert DriveConnector._BUILTIN_IGNORE_PATTERNS == ()
 
 
 def test_cli_parse_include_ext():

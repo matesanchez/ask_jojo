@@ -42,9 +42,49 @@ _WINDOWS_DEFAULT = "P:\\"
 
 
 class PublicDriveConnector(DriveConnector):
-    """Thin subclass of DriveConnector that stamps source_type as 'publicdrive'."""
+    """DriveConnector subclass for the Nurix P:\\ share.
+
+    Beyond stamping `source_type = "publicdrive"`, this connector ships a
+    baseline ignore set tuned to the P:\\ drive's known-noisy subtrees.
+    These belong here (in connector code) rather than in the source's
+    own `.jojoignore` because:
+
+      - operators don't have write permission at the share root, and
+      - a `.jojoignore` at P:\\ would also affect any other tooling that
+        respects gitignore files; the prune is ingest-specific.
+
+    Patterns ship as defaults; an operator can layer additional patterns
+    via the `extra_ignore_patterns=` kwarg or negate a builtin with a
+    `!`-rule in the source-root `.jojoignore` if circumstances change.
+
+    The current builtins target instrument-output formats whose contents
+    are binary blobs the converters cannot read, and which produce
+    millions of files per directory. Without the prune, the walker
+    descends into them indefinitely (this was the root cause of the
+    24-hour publicdrive runs that watchdog-killed at 1440 minutes
+    without ever yielding a usable file once they entered the
+    Analytical Chemistry/Data_LCMS-AUTO subtree on 2026-04-25).
+    """
 
     source_type = "publicdrive"
+
+    # Conservative starter set — file an issue if a real prune-target
+    # gets caught, or pass `extra_ignore_patterns=` from a CLI flag.
+    #
+    #   *.D/        Agilent ChemStation per-injection directories. Each
+    #               one contains hundreds of binary chromatogram files
+    #               (DA.M, *.bin, *.UV, ...) the converters can't read.
+    #   *.d/        Same as above; lowercase variant seen on a few older
+    #               Bruker/MestReNova-derived directories.
+    #   Data_LCMS-AUTO/
+    #               Bulk auto-runs of LC/MS data. Usually a parent of many
+    #               *.D directories, but pruning at this level is cheaper
+    #               than per-injection because we never descend at all.
+    _BUILTIN_IGNORE_PATTERNS: tuple[str, ...] = (
+        "*.D/",
+        "*.d/",
+        "Data_LCMS-AUTO/",
+    )
 
 
 class PublicDriveEnvError(IngestError):
@@ -56,6 +96,7 @@ def build_publicdrive_connector_from_env(
     access_level: str = "all_fte",
     path_override: str | None = None,
     include_extensions: Iterable[str] | None = None,
+    extra_ignore_patterns: Iterable[str] | None = None,
     progress_interval_s: float | None = None,
 ) -> PublicDriveConnector:
     """Assemble a PublicDriveConnector from env vars.
@@ -94,6 +135,7 @@ def build_publicdrive_connector_from_env(
             path,
             access_level=access_level,
             include_extensions=include_extensions,
+            extra_ignore_patterns=extra_ignore_patterns,
             **extra,
         )
     except IngestError as exc:
