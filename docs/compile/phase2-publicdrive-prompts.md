@@ -138,9 +138,9 @@ sha256 per file, and wrote a fresh manifest.
 Co-Authored-By: Claude Sonnet 4.6 via Cowork <noreply@anthropic.com>
 ```
 
-### Stage 2 — Triage the Public Drive corpus
+### Stage 2 — Triage the corpus gap
 
-Compute the gap of publicdrive entries not yet ticked in `queue.md`:
+Compute the gap of manifest entries not yet ticked in `queue.md`, grouped by source_type. The Public Drive is the bulk of the gap, but recent OneDrive expansions (Discovery Biology, Library Discovery, DEL Screen Team libraries — see 2026-04-27 OneDrive walk additions) may have added entries the prior batches don't cover, and the bookkeeping invariant from `queue.md`'s preamble — "every manifest entry gets ticked one way or another" — applies across every source.
 
 ```python
 import json, re, pathlib, collections
@@ -150,21 +150,30 @@ queued = set(re.findall(
     pathlib.Path("ask_jojo/docs/compile/queue.md").read_text(),
     re.MULTILINE,
 ))
-pd = sorted(k for k, e in m["entries"].items() if e["source_type"] == "publicdrive" and k not in queued)
-print(f"Public Drive entries to absorb: {len(pd)}")
+gap = sorted(k for k in m["entries"] if k not in queued)
+by_source = collections.Counter(m["entries"][k]["source_type"] for k in gap)
+print(f"Total entries needing batches: {len(gap)}")
+for src, n in by_source.most_common():
+    print(f"  {n:>5}  {src}")
 
-def top(eid, m=m):
+# Per-source top-folder distribution
+def top(eid):
     sid = m["entries"][eid]["source_id"]
     return sid.split("/", 1)[0] if "/" in sid else "<root>"
-tops = collections.Counter(top(k) for k in pd)
-for t, n in tops.most_common(): print(f"  {n:>5}  {t}")
+for src in by_source:
+    pd_src = [k for k in gap if m["entries"][k]["source_type"] == src]
+    tops = collections.Counter(top(k) for k in pd_src)
+    print(f"\n=== {src} ({len(pd_src)} entries) — top-folder distribution ===")
+    for t, n in tops.most_common(): print(f"  {n:>5}  {t}")
 ```
+
+The Public Drive batches will be the bulk of the new authoring work. New OneDrive sub-folders (e.g. the 2026-04-27 SharePoint Teams library additions: `Discovery Biology - Documents`, `Library Discovery - Documents`, `DEL Screen Team - Documents`) will surface as small absorb-pool clusters under their own `## Batch N` headings — name each batch after the library so a session can claim a single library cleanly.
 
 Drill one more level (`source_id.split("/")[1]`) for any top-folder above ~500 entries. Sample 3-5 raw `.md` files from each major cluster to gauge content type (decisions, methodology, reports, ephemera, instrument output, software cache, deprecated material).
 
 For each cluster, classify as **absorb** (real wiki signal) or **skip** (bulk evidence, software cache, duplicates already in sharepoint, instrument-output crumbs the converter handled but with low signal density, single-person workspaces). Skip-pool aggressively: a 14,000-entry batch is already hard to absorb cleanly; cutting the noise floor matters.
 
-### Stage 3 — Author the publicdrive batches in `queue.md`
+### Stage 3 — Author the new batches in `queue.md`
 
 Two layout options exist in the existing queue:
 
@@ -173,6 +182,8 @@ Two layout options exist in the existing queue:
 
 For Public Drive, prefer **many-small-batches**: the corpus has heterogeneous content (SOPs, instrument procedures, group meetings, archived projects, decision PDFs, departed-employee desktops) and each cluster wants distinct framing. Keep each batch under ~150 absorb-pool entries; subdivide a cluster if it exceeds that. Skip-pool entries can pile up in a single trailing batch (`## Batch K — Public Drive skip-pool`) or be distributed at the foot of each topical batch — match Batch 22's "skip-pool restore" precedent.
 
+For the recent OneDrive Teams-library additions (Discovery Biology, Library Discovery, DEL Screen Team), use one batch per library named after the library, since each is a self-contained team-library namespace with its own framing.
+
 For each new batch, the heading block is:
 
 ```markdown
@@ -180,11 +191,11 @@ For each new batch, the heading block is:
 
 **Theme:** <one paragraph: what's in this batch, what wiki output shape to expect, why these entries cluster together. Cite the corpus subdirectory or naming convention that defines the cluster. End with a one-sentence forecast: "Expected outputs: ~<N> <type> pages anchored on <topic>, plus <other-type> updates on existing pages.">
 
-**Connector:** publicdrive
-**Access level:** all_fte  *(default for Public Drive; adjust per-cluster if a subtree is access-restricted)*
+**Connector:** <publicdrive | onedrive>
+**Access level:** all_fte  *(default; adjust per-cluster if a subtree is access-restricted)*
 
-- [ ] <publicdrive_entry_id>
-- [ ] <publicdrive_entry_id>
+- [ ] <entry_id>
+- [ ] <entry_id>
 - ...
 ```
 
@@ -200,8 +211,8 @@ Insert all the new `## Batch N` blocks **before** the `## Backlog — not yet ba
 
 After all batches are authored, verify:
 
-- Every `publicdrive` manifest ID appears exactly once in `queue.md` (either as `- [ ]` to absorb or `- [x] ... <!-- skip: ... -->` to skip-pool).
-- No duplicates with prior batches (the gap computation already enforced this; double-check by re-running the gap script and asserting `len(pd) == 0`).
+- Every manifest ID appears exactly once in `queue.md` (either as `- [ ]` to absorb or `- [x] ... <!-- skip: ... -->` to skip-pool), regardless of `source_type`.
+- No duplicates with prior batches (the gap computation already enforced this; double-check by re-running the gap script and asserting `len(gap) == 0`).
 - Theme paragraphs cite the Nurix subdirectory or naming convention each cluster lives in.
 - Heading numbering is contiguous (Batch 24, 25, 26, ... no gaps).
 
@@ -261,10 +272,12 @@ You are running the Phase 2 absorb loop against the Public Drive corpus. This se
 
 ```
 while True:
-    1. Find the first ## Batch N in queue.md (under the publicdrive
-       Public Drive coverage block) whose entries include at least one
-       open `- [ ]` line. If none exist, STOP and report "publicdrive
-       queue empty"; do not proceed past this point.
+    1. Find the first ## Batch N in queue.md (after Batch 23, i.e. all
+       batches authored by Prompt 1) whose entries include at least one
+       open `- [ ]` line. If none exist, STOP and report "queue empty";
+       do not proceed past this point. Batches may span connectors
+       (publicdrive, onedrive Teams libraries, etc.) — claim whichever
+       comes first in queue.md order, regardless of source_type.
     2. Run the absorb loop from compile-prompt.md against that batch,
        end-to-end:
          - For each open entry: read raw, read affected wiki pages,
@@ -327,7 +340,7 @@ while True:
 **Stop conditions** (priority order):
 
 1. *Constitutional conflict.* This prompt and `schema/CLAUDE.md` disagree. Surface verbatim, stop.
-2. *Queue empty.* No publicdrive batch has any open `- [ ]` line. Report and stop.
+2. *Queue empty.* No batch (publicdrive or otherwise) has any open `- [ ]` line. Report and stop.
 3. *Checkpoint flagged something blocking.* If the bloat / stub / orphan / taxonomy-drift checks surface a problem the loop can't auto-resolve, commit the checkpoint anyway, then stop and surface to the operator.
 4. *Source unreadable.* Skip-tag and continue (do not stop the loop on a single bad entry).
 5. *Context running out.* Self-monitor: when token usage suggests fewer than ~30k tokens remain in this session, finish the current batch's commit cycle, then stop cleanly and tell the operator to re-paste this prompt in a new session.
@@ -653,3 +666,4 @@ Tell the operator at the end: each gate's status, what to do next (push, kick of
 | Date | Change | Reason |
 | --- | --- | --- |
 | 2026-04-27 | v0.1 — initial five-prompt sequence for the Public Drive → Phase 2 exit cycle | Authored after the publicdrive walker fix (commit b9a2823) and the corpus-state reconciliation discovery (manifest.json was clobbered mid-save during the 2026-04-25 publicdrive run). |
+| 2026-04-27 | v0.2 — broaden Prompt 1 gap query and Prompt 2 batch claim to all source_types | Three SharePoint Teams libraries (Discovery Biology, Library Discovery, DEL Screen Team) now sync via OneDrive on the operator's laptop and need ingest + queue authoring. Prompt 1 now picks up *any* manifest entry not in queue.md, not just publicdrive. Prompt 2's batch claim is connector-agnostic. |
