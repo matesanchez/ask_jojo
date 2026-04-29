@@ -94,6 +94,24 @@ directories:
       - decisions/tyk2-warhead-selection-2024.md
     min_length_for_promotion: 150
 
+  protocols:
+    purpose: "Standard operating procedures and step-by-step protocols. Distinct from methods/ in that protocols are wet-lab procedure documents (one page per SOP), while methods/ holds method-of-work pages (one page per technique). Surfaced as a live wiki dir at the post-batch-24 checkpoint (2026-04-29)."
+    page_types: [protocol]
+    examples:
+      - protocols/delphi-ddt-clone-database.md
+      - protocols/fermentation-request.md
+      - protocols/protein-request-submission.md
+    min_length_for_promotion: 200
+
+  references:
+    purpose: "External literature index entries and consolidated reference pages that point at scientific publications, biophysical method overviews, and DNA-encoded library screening references used across programs. Distinct from papers/ (which would be one page per individual paper) in that references/ aggregates by topic. Surfaced as a live wiki dir at the post-batch-24 checkpoint (2026-04-29)."
+    page_types: [paper, concept]
+    examples:
+      - references/biophysical-characterization-methods.md
+      - references/dna-encoded-libraries-screening.md
+      - references/publications-index.md
+    min_length_for_promotion: 200
+
   outputs:
     purpose: "Artifacts produced by the chat interface — summaries, comparisons, generated decks, charts. Candidates for promotion into the main wiki at the next lint pass."
     page_types: [output]
