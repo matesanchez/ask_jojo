@@ -80,10 +80,24 @@ class PublicDriveConnector(DriveConnector):
     #               Bulk auto-runs of LC/MS data. Usually a parent of many
     #               *.D directories, but pruning at this level is cheaper
     #               than per-injection because we never descend at all.
+    #   WellImages/
+    #               Well-plate imaging output (HighContent / plate-reader
+    #               instrument runs). Each WellImages directory contains a
+    #               numeric-ID tree
+    #                   WellImages/<run>/plateID_<n>/batchID_<m>/wellNum_<k>/...
+    #               with thousands of small binary image files per leaf.
+    #               The 2026-04-27 publicdrive walk timed out at hour 24
+    #               inside Whistler/Diligence visit/WellImages/... before
+    #               reaching every top-level folder alphabetically after
+    #               'Whistler' (Wortman / X* / Y* / Z*). Pruning at the
+    #               WellImages level is enough — we don't need separate
+    #               plateID_/batchID_/wellNum_ rules because the parent
+    #               prune stops the descent before any of those are seen.
     _BUILTIN_IGNORE_PATTERNS: tuple[str, ...] = (
         "*.D/",
         "*.d/",
         "Data_LCMS-AUTO/",
+        "WellImages/",
     )
 
 

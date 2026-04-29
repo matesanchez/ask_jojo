@@ -112,6 +112,32 @@ def test_publicdrive_prunes_agilent_chemstation_dirs(tmp_path: Path):
     assert names == ["Analytical/HT Purification/method-2024.md"]
 
 
+def test_publicdrive_prunes_wellimages_subtree(tmp_path: Path):
+    """`WellImages/` and the deep numeric-ID tree below it must be pruned.
+
+    Reproduces the 2026-04-27 stall: the walker descended into
+    `Whistler/Diligence visit/WellImages/248/plateID_248/batchID_94/wellNum_26`
+    and never returned within the 24h watchdog, leaving every top-level
+    folder alphabetically after 'Whistler' (Wortman, X*, Y*, Z*) unwalked.
+    Pruning at the WellImages directory level stops the descent before
+    any of the plateID_/batchID_/wellNum_ leaves are seen.
+    """
+    root = tmp_path / "public"
+    real = root / "Whistler" / "Diligence visit"
+    real.mkdir(parents=True)
+    (real / "diligence-summary.md").write_text("# diligence summary\n", encoding="utf-8")
+    # Build the pathological subtree the walker stalled on. .md content
+    # inside makes the test's negative assertion real (without the prune
+    # the walker would yield these).
+    well = real / "WellImages" / "248" / "plateID_248" / "batchID_94" / "wellNum_26"
+    well.mkdir(parents=True)
+    (well / "should-not-be-found.md").write_text("instrument output\n", encoding="utf-8")
+
+    conn = PublicDriveConnector(root)
+    names = sorted(e.source_id for e in conn.fetch())
+    assert names == ["Whistler/Diligence visit/diligence-summary.md"]
+
+
 def test_publicdrive_prunes_data_lcms_auto_dir(tmp_path: Path):
     """`Data_LCMS-AUTO/` is a known parent of many .D dirs; pruning at this
     level is cheaper than per-injection."""
