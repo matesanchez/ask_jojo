@@ -37,6 +37,186 @@
 
 ---
 
+## Prompt K — Public Drive absorb kickoff (combined: queue + absorb loop)
+
+Use this once Public Drive ingest is complete and you want to start the wiki absorb in a single paste. It's a specialization of Prompts 1+2 for the publicdrive case: it sanity-checks the corpus, authors publicdrive batches in `queue.md` only if they don't already exist, then enters the absorb loop. Re-pasting in a fresh session resumes from wherever the prior session stopped (queue-tick discipline guarantees this).
+
+If you want surgical control — author the queue in one session, eyeball it, push, then absorb in a separate session — paste Prompt 1 and Prompt 2 separately instead. This kickoff prompt is the "just do the whole thing" path.
+
+### === PASTE BELOW ===
+
+You are starting the Phase 2 wiki-absorb of the Public Drive corpus. Public Drive ingest landed: roughly 98,000 `publicdrive` entries are on disk under `ask_jojo_raw/publicdrive/*.md` with frontmatter, and the manifest has been rebuilt to reflect them. This session does three things, in order: sanity-check the corpus, author publicdrive batches in `queue.md` only if they don't already exist, then run the absorb loop until the publicdrive queue is empty or session context is running low. Re-pasting this prompt in a fresh Cowork session resumes from wherever the prior session left off.
+
+**Read first** (full files, in this order):
+
+1. `ask_jojo/PLAN.md` §6 Phase 2 — phase deliverables, four-step pipeline, anti-patterns, cross-walk, exit criterion.
+2. `ask_jojo/schema/CLAUDE.md` — absorb loop (§2), 15-entry checkpoint (§3), writing style (§4), anti-cramming / anti-thinning (§5), citation discipline (§6), contradictions (§7), commit-message format (§9), what you may not do (§11). If anything below contradicts §1–§13 of `schema/CLAUDE.md`, the constitution wins; flag the conflict and stop.
+3. `ask_jojo_wiki/SCHEMA.md` — frontmatter schema (§3), citation format (§6), length targets (§9).
+4. `ask_jojo/schema/taxonomy.yaml` — directory taxonomy.
+5. `ask_jojo/docs/compile/queue.md` — batch tracker. Read Batch 23 for the long-tail pattern; the publicdrive batches will follow the per-cluster framing of Batches 1–22.
+6. `ask_jojo/docs/compile/compile-prompt.md` — the canonical single-batch absorb prompt. The absorb loop in Stage 3 below treats its `=== PASTE BELOW ===` block as the contract for each batch.
+7. `ask_jojo_wiki/_index.md` and `ask_jojo_wiki/_backlinks.json` — current wiki state.
+
+**Constitutional invariants** (enforced throughout — every commit, every page write):
+
+- Wiki commits: subject form `absorb(protein-sciences): N pages touched, M created` per `schema/CLAUDE.md` §9. Queue-tick commits: subject `absorb(protein-sciences): Batch N queue tick`. Checkpoint commits: subject prefix `checkpoint:`.
+- Co-author trailer, exact line: `Co-Authored-By: Claude Sonnet 4.6 via Cowork <noreply@anthropic.com>`.
+- Author override for every commit: `git -c user.email='cowork@anthropic.com' -c user.name='Cowork' commit ...`.
+- No `--amend`, no `--force`, no `rebase`, no `git config` writes. Fix-forward with new commits.
+- Wiki style: no em-dashes, no peacock words, declarative third-person, ISO dates, citations marked EXTRACTED vs INFERRED with source IDs and SHA256 hash prefixes (first 16 chars of `sha256sum ask_jojo_raw/publicdrive/<id>.md`).
+- Wikilinks: bare-slug form `[[bare-slug|Display Title]]` — no folder prefix.
+- Truthful queue: every `publicdrive` manifest ID is ticked one way or another (`- [x]` for absorbed, `- [x] <id>  <!-- skip: <reason> -->` for skip-pooled).
+- Sandbox-quirk: before every `git commit`, run the lock-cleanup snippet (FUSE filesystem disallows `unlink`):
+  ```python
+  import os, glob
+  for ln in ['.git/index.lock', '.git/HEAD.lock', '.git/objects/maintenance.lock']:
+      try:
+          tmp = ln + '.tmp'
+          with open(tmp, 'wb') as f: f.write(b'')
+          os.replace(tmp, ln); os.rename(ln, ln + '.kill')
+      except FileNotFoundError: pass
+  for p in glob.glob('.git/next-index-*.lock'):
+      try: os.rename(p, p + '.kill')
+      except: pass
+  ```
+  Use `dangerouslyDisableSandbox: true` on Bash calls that involve `git commit`.
+
+### Stage 1 — Sanity-check the corpus
+
+```python
+import json, pathlib
+text = pathlib.Path('ask_jojo_raw/manifest.json').read_text()
+m = json.loads(text)  # MUST parse cleanly
+src = {}
+for k, e in m['entries'].items():
+    src[e['source_type']] = src.get(e['source_type'], 0) + 1
+print('manifest source_type counts:', src)
+print('total entries:', len(m['entries']))
+pd_count = src.get('publicdrive', 0)
+assert pd_count >= 90_000, f'publicdrive count too low ({pd_count}); expected ~98k. Did the manifest rebuild run? See Prompt 1 Stage 1.'
+print(f'OK: publicdrive count = {pd_count}')
+```
+
+If `json.loads` fails (`Expecting ',' delimiter` or similar), the manifest is mid-write or corrupt. **Halt** and tell the operator to run the manifest-rebuild from Prompt 1 Stage 1 first; do NOT try to absorb against a broken manifest. If the publicdrive count is below ~90k, halt similarly.
+
+### Stage 2 — Author publicdrive batches in `queue.md` (skip if already done)
+
+```python
+import json, re, pathlib, collections
+m = json.loads(pathlib.Path('ask_jojo_raw/manifest.json').read_text())
+queued = set(re.findall(
+    r'^\s*-\s*\[[ xX]\]\s+(\S+)',
+    pathlib.Path('ask_jojo/docs/compile/queue.md').read_text(),
+    re.MULTILINE,
+))
+pd_gap = sorted(k for k, e in m['entries'].items() if e['source_type'] == 'publicdrive' and k not in queued)
+print(f'publicdrive entries needing batches: {len(pd_gap)}')
+```
+
+If `len(pd_gap) == 0`, the publicdrive batches are already authored. Skip directly to Stage 3.
+
+If `len(pd_gap) > 0`, author batches now. Follow Prompt 1 Stages 2–4 in this same file:
+
+- Bucket the gap by `source_id.split('/', 1)[0]` to identify clusters.
+- Drill one more level for any cluster above ~500 entries.
+- Sample 3–5 raw `.md` files per major cluster to gauge content type.
+- Classify each cluster as **absorb** (real wiki signal) or **skip** (instrument output crumbs that survived the walker's directory-prune, ChimeraX-style software caches that ended up under publicdrive somehow, single-person workspaces with no domain content, deprecated material already covered by sharepoint/onedrive corpora).
+- Write `## Batch N — <name>` blocks (start at the next free Batch number after the last existing batch) following the many-small-batches Batches 1–22 precedent: one heading per topical cluster, theme paragraph explaining the cluster, `**Connector:** publicdrive`, `**Access level:** all_fte`, then `- [ ]` lines for absorb-pool entries and `- [x] <id>  <!-- skip: <reason> -->` for skip-pool entries. Keep absorb-pool batches under ~150 entries; subdivide a cluster if it exceeds that.
+- Insert before `## Backlog — not yet batched` and after the last existing batch.
+- Verify: re-run the gap query and assert `len(pd_gap) == 0`.
+
+Commit `ask_jojo/docs/compile/queue.md` only (do NOT add other modified files in `ask_jojo/`):
+
+```
+absorb(protein-sciences): Batches <X>–<Y> queue authored — Public Drive coverage
+
+<one paragraph: absorb-pool vs skip-pool counts and the top-level cluster
+structure of the Public Drive>
+
+Batch <X>: <name> (<N> entries)
+Batch <X+1>: <name> (<N> entries)
+...
+
+Co-Authored-By: Claude Sonnet 4.6 via Cowork <noreply@anthropic.com>
+```
+
+### Stage 3 — Run the absorb loop
+
+```
+while True:
+    1. Find the first ## Batch N in queue.md whose entries include at
+       least one open `- [ ]` line. Claim it. If none, STOP and report
+       "queue empty"; do not proceed.
+    2. Run the canonical absorb loop from compile-prompt.md against
+       that batch, end-to-end:
+         - For each open entry: read raw, read affected wiki pages,
+           plan, write, verify, link, tick the box.
+         - Skip-tag unreadable / over-redacted entries with
+           `- [x] <id>  <!-- skip: <one-line reason> -->`.
+         - Spawn a fresh subagent per page-write where the per-page
+           plan calls for it; at most 5 in parallel per the
+           schema/CLAUDE.md absorb-loop step 4 contract.
+    3. Update _index.md (regenerate from frontmatter — do not append
+       by hand; that's how Batches 23.3 and 23.4 drifted last cycle).
+       Walk ask_jojo_wiki/, group by frontmatter `type`, sort
+       lexicographically by `title`, write the catalog.
+    4. Regenerate _backlinks.json (pure Python, no LLM): walk every
+       wiki .md, extract `[[slug|...]]` and `related:` entries, write
+       `{ slug -> sorted list of pages linking to it }`.
+    5. Commit ask_jojo_wiki/ with subject form
+         absorb(protein-sciences): N pages touched, M created
+       Body lists each touched page path with (created)/(updated).
+    6. Commit ask_jojo/ with subject
+         absorb(protein-sciences): Batch N queue tick
+       Stage only docs/compile/queue.md.
+    7. Checkpoint cadence: track entries-absorbed across batches in a
+       counter. After every 15 absorbed entries (NOT batches), pause
+       and run the full 15-entry checkpoint per schema/CLAUDE.md §3:
+         a. Rebuild _index.md (already step 3; redo if drifted).
+         b. Rebuild _backlinks.json (already step 4; redo).
+         c. Bloat check: pages past SCHEMA.md §9 "consider splitting"
+            threshold get flagged in ask_jojo_wiki/_needs_review.md.
+         d. Stub audit: pages with frontmatter status: stub that have
+            grown past the §9 stub threshold get promoted; flag the
+            rest for review.
+         e. Orphan scan: pages with zero incoming wikilinks and no
+            useful aliases get appended to _needs_review.md.
+         f. Schema-version drift: pages whose schema_version trails
+            the current value get migrated forward.
+         g. Taxonomy drift: directories created ad-hoc since the last
+            checkpoint that aren't in schema/taxonomy.yaml get either
+            added there or flagged.
+         h. Commit checkpoint as its own commit with subject
+            checkpoint: post-batch-N <one-line summary>
+    8. Continue from step 1.
+```
+
+**Subagent discipline** (per `schema/CLAUDE.md` §2 absorb-loop step 4 and §12 "fresh context"):
+- Each per-page plan instruction goes to a fresh subagent with only the inputs it needs: the plan instruction for that page, the existing page body (if any), the relevant section of the source entry, and up to three neighbor pages.
+- Verify is a separate, cheaper subagent: frontmatter valid? wikilinks resolve? every paragraph cites at least one source in frontmatter `sources:`? confidence reasonable per §5? On any failure, requeue to the writer (max 2 retries) before flagging for human review.
+- Per-batch parallelism: at most 5 page-writes in parallel. Wider parallelism risks `_index.md` / `_backlinks.json` write conflicts.
+
+**Anti-patterns to actively resist** (per `schema/CLAUDE.md` §5 and `PLAN.md` §6 Phase 2):
+- *Anti-cramming.* If you're about to add a third paragraph on a sub-topic to an existing article, that sub-topic almost certainly deserves its own page. Create it, link from the original, move the accumulated material over.
+- *Anti-thinning.* Every time you touch a page, it should get meaningfully richer. A stub with three vague sentences when four entries also mentioned the topic is a failure. Pull material from every entry in the batch's plan that mentioned the topic, not just the one that triggered creation.
+
+### Stop conditions (priority order)
+
+1. *Constitutional conflict.* This prompt and `schema/CLAUDE.md` disagree. Surface verbatim, stop.
+2. *Manifest broken.* Stage 1 failed. Halt; tell the operator to run Prompt 1 Stage 1 manifest-rebuild first.
+3. *Queue empty.* No publicdrive batch has any open `- [ ]` line. Report and stop.
+4. *Checkpoint surfaced something blocking.* Commit the checkpoint anyway, then stop and surface to the operator.
+5. *Source unreadable.* Skip-tag and continue (do not stop the loop on a single bad entry).
+6. *Context running out.* Self-monitor: when token usage suggests fewer than ~30k tokens remain, finish the current batch's commit cycle, then stop cleanly and tell the operator to re-paste this prompt in a new session.
+
+**Do not** push, run lint, write to `ask_jojo_raw/`, or modify schema files (except `schema/taxonomy.yaml` for legitimate directory additions surfaced during the absorb).
+
+Begin from Stage 1.
+
+### === PASTE ABOVE ===
+
+---
+
 ## Prompt 1 — Reconcile state and author the Public Drive batches
 
 Run this once after the scheduler has finished its first clean Public Drive walk. It rebuilds `manifest.json` from the on-disk raws (the 2026-04-25 walk crashed mid-save and left the manifest with only a partial publicdrive snapshot, missing the prior onedrive + sharepoint coverage), validates the corpus, then authors a sequence of `## Batch N — Public Drive ...` blocks in `ask_jojo/docs/compile/queue.md` covering every publicdrive manifest entry.
@@ -667,3 +847,4 @@ Tell the operator at the end: each gate's status, what to do next (push, kick of
 | --- | --- | --- |
 | 2026-04-27 | v0.1 — initial five-prompt sequence for the Public Drive → Phase 2 exit cycle | Authored after the publicdrive walker fix (commit b9a2823) and the corpus-state reconciliation discovery (manifest.json was clobbered mid-save during the 2026-04-25 publicdrive run). |
 | 2026-04-27 | v0.2 — broaden Prompt 1 gap query and Prompt 2 batch claim to all source_types | Three SharePoint Teams libraries (Discovery Biology, Library Discovery, DEL Screen Team) now sync via OneDrive on the operator's laptop and need ingest + queue authoring. Prompt 1 now picks up *any* manifest entry not in queue.md, not just publicdrive. Prompt 2's batch claim is connector-agnostic. |
+| 2026-04-29 | v0.3 — add Prompt K (Public Drive absorb kickoff) | Specialization of Prompts 1+2 for the publicdrive case: sanity-check + queue-author-if-needed + absorb-loop in one paste. Authored after Public Drive ingest landed (~98k publicdrive raws + clean rebuilt manifest) so the operator can kick the absorb off without coordinating two prompts. |
