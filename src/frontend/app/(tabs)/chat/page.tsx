@@ -30,6 +30,8 @@ import { useCallback, useEffect, useState } from "react";
 import type {
   ChatTurn,
   FileBackResponse,
+  FormatClassifyResponse,
+  OutputFormat,
   QmdStatus,
   QueryResponse,
   RetrievalBundle,
@@ -117,6 +119,7 @@ export default function ChatPage() {
   const [draft, setDraft] = useState<string>("");
   const [depth, setDepth] = useState<SynthesisDepth>("sonnet");
   const [routeOverride, setRouteOverride] = useState<Route | "auto">("auto");
+  const [formatOverride, setFormatOverride] = useState<OutputFormat | "auto">("auto");
   const [qmdStatus, setQmdStatus] = useState<QmdStatus | null>(null);
   const [apiKeyConfigured, setApiKeyConfigured] = useState<boolean | null>(null);
   const [busy, setBusy] = useState<boolean>(false);
@@ -159,6 +162,7 @@ export default function ChatPage() {
     const hint: Route | undefined =
       routeOverride === "auto" ? undefined : routeOverride;
 
+    const formatHint: OutputFormat | "auto" = formatOverride;
     const initialTurn: ChatTurn = {
       id,
       question,
@@ -166,6 +170,7 @@ export default function ChatPage() {
       status: "routing",
       depth,
       routeHint: hint,
+      formatHint,
     };
     setTurns((prev) => [...prev, initialTurn]);
     setDraft("");
@@ -173,13 +178,28 @@ export default function ChatPage() {
     setError(null);
 
     try {
-      // 1) Run the regex router for the badge (synchronous-fast).
-      const routeRes = await fetchJSON<{
-        route: Route;
-        reason: string;
-        matched_keywords: string[];
-        override_matched: boolean;
-      }>(`/api/qa/route?q=${encodeURIComponent(question)}`);
+      // 1) Run the regex router + format classifier (synchronous-fast, parallel).
+      const [routeRes, formatRes] = await Promise.all([
+        fetchJSON<{
+          route: Route;
+          reason: string;
+          matched_keywords: string[];
+          override_matched: boolean;
+        }>(`/api/qa/route?q=${encodeURIComponent(question)}`),
+        fetchJSON<FormatClassifyResponse>(
+          `/api/output/classify-format?q=${encodeURIComponent(question)}`,
+        ).catch(() => null), // format detection is best-effort; failure is non-fatal
+      ]);
+
+      // Update the turn with the format/route badges *before* the
+      // synthesis call so the UI reflects classification immediately.
+      setTurns((prev) =>
+        prev.map((t) =>
+          t.id === id
+            ? { ...t, routeResponse: routeRes, formatResponse: formatRes ?? undefined }
+            : t,
+        ),
+      );
 
       // 2) Submit the question to /api/qa/query.
       const body: { question: string; depth: SynthesisDepth; route_hint?: Route } = {
@@ -297,6 +317,27 @@ export default function ChatPage() {
               <option value="v1">Force v1 / AKTA</option>
             </select>
           </label>
+          <label className="chat-label">
+            Format:
+            <select
+              value={formatOverride}
+              onChange={(e) =>
+                setFormatOverride(e.target.value as OutputFormat | "auto")
+              }
+              aria-label="Output format override"
+            >
+              <option value="auto">Auto (regex)</option>
+              <option value="markdown">Markdown</option>
+              <option value="marp">Marp slides</option>
+              <option value="matplotlib">Chart (matplotlib)</option>
+              <option value="plotly">Interactive chart</option>
+              <option value="table">Table</option>
+              <option value="mermaid">Diagram (mermaid)</option>
+              <option value="docx">Word (docx)</option>
+              <option value="pptx">PowerPoint (pptx)</option>
+              <option value="pdf">PDF</option>
+            </select>
+          </label>
         </div>
         <div className="chat-status">
           <span
@@ -396,9 +437,20 @@ function ChatTurnView(props: ChatTurnViewProps) {
               {turn.routeResponse.route}
             </span>
           )}
+          {turn.formatResponse && (
+            <span
+              className="chat-format-badge"
+              title={turn.formatResponse.reason}
+            >
+              format: {turn.formatResponse.format}
+            </span>
+          )}
           <span className="chat-depth-badge">depth: {turn.depth}</span>
           {turn.routeHint && (
             <span className="chat-hint-badge">hint: {turn.routeHint}</span>
+          )}
+          {turn.formatHint && turn.formatHint !== "auto" && (
+            <span className="chat-hint-badge">format-hint: {turn.formatHint}</span>
           )}
         </div>
         <div className="chat-question-text">{turn.question}</div>

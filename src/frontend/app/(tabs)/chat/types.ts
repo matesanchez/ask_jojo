@@ -10,6 +10,25 @@ export type Route = "v1" | "wiki";
 
 export type SynthesisDepth = "sonnet" | "opus";
 
+export type OutputFormat =
+  | "markdown"
+  | "marp"
+  | "matplotlib"
+  | "plotly"
+  | "table"
+  | "mermaid"
+  | "docx"
+  | "pptx"
+  | "pdf";
+
+export interface FormatClassifyResponse {
+  format: OutputFormat;
+  reason: string;
+  matched_keywords: string[];
+  confidence: "high" | "medium" | "low";
+  candidate_scores: Record<string, number>;
+}
+
 export type AnswerStatus =
   | "idle"
   | "routing"
@@ -167,4 +186,6 @@ export interface ChatTurn {
   error?: string;
   depth: SynthesisDepth;
   routeHint?: Route;
+  formatHint?: OutputFormat | "auto";
+  formatResponse?: FormatClassifyResponse;
 }
