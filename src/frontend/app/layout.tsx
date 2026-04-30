@@ -8,6 +8,7 @@ export const metadata: Metadata = {
 };
 
 const TABS: { href: string; label: string }[] = [
+  { href: "/chat", label: "Chat" },
   { href: "/wiki", label: "Wiki" },
   { href: "/raw",  label: "Raw" },
   { href: "/viz",  label: "Viz" },
