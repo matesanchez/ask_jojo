@@ -12,11 +12,11 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 
 | Field | Value |
 | --- | --- |
-| Last updated | 2026-04-24 |
-| Current phase | Phase 2 — Wiki Compile (starting); Phase 1 exit criterion met 2026-04-23 and carried into a 7-day unattended-sync soak |
+| Last updated | 2026-04-30 |
+| Current phase | Phase 3 — JoJo Bot IDE Tabs (Wiki / Raw / Ops) |
 | Overall status | 🟡 In progress |
 | MVP target | Phases 0–6 (linting + rich outputs in scope) |
-| Blocking risks | None yet |
+| Blocking risks | API keys still pending (FU-10); does not block Phase 3 frontend work |
 | v1.0 in production | Yes — continues to answer ÄKTA / UNICORN questions; query router (Phase 4) will formalize the split |
 
 ---
@@ -27,8 +27,8 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | - | --- | --- | --- | --- | --- |
 | 0 | Preparation and Scaffolding | 🟢 | 1–2 wk | 2026-04-22 | 2026-04-22 |
 | 1 | Source Ingestion (`ask_jojo_raw/`) | 🟢 | 3–5 wk | 2026-04-22 | 2026-04-23 |
-| 2 | Wiki Compile (raw → `ask_jojo_wiki/`) | 🟡 | 6–8 wk | 2026-04-23 | — |
-| 3 | JoJo Bot IDE Tabs (Wiki / Raw / Ops) | ⚪ | 4–6 wk (parallel w/ 2) | — | — |
+| 2 | Wiki Compile (raw → `ask_jojo_wiki/`) | 🟢 | 6–8 wk | 2026-04-23 | 2026-04-30 |
+| 3 | JoJo Bot IDE Tabs (Wiki / Raw / Ops) | 🟡 | 4–6 wk (parallel w/ 2) | 2026-04-30 | — |
 | 4 | Q&A over the Wiki + query router | ⚪ | 3–4 wk | — | — |
 | 5 | Rich Outputs (Marp, matplotlib, docx/pptx/pdf) | ⚪ | 3–4 wk | — | — |
 | 6 | Wiki Linting + Self-Maintenance | ⚪ | 3–4 wk | — | — |
@@ -153,6 +153,8 @@ _Add dated entries below as work progresses._
 ### Notes
 
 - **2026-04-23** — Phase 2 opened in parallel with the Phase 1 unattended-sync soak. Prerequisites cleared: Anthropic API key provisioning is now a Phase 2 blocker (it was reclassified from Phase 0 once we confirmed Phase 1 ingest makes no Claude calls — see 2026-04-22 amendment). First kickoff item is scaffolding `packages/jojo_compile/` with the eight submodule stubs listed above; the fresh-context subagent pattern and 15-entry checkpoint are the two load-bearing design choices we need to prototype before writing real compile logic. The `ask_jojo_raw/` corpus is already large enough (19k+ files) to surface real compile-time performance constraints, so we'll see paging / checkpointing pressure early — that's a feature, not a bug.
+
+- **2026-04-30** — Phase 2 exit criterion met. Human-driven absorb pass (ADR 0010) complete: all 139,371 queue entries ticked (100%), `ask_jojo_wiki/` holds 138 pages across targets, programs, methods, platforms, concepts, decisions, equipment, references, and protocols. Top-10 pages reviewed and accepted by Mateo de los Rios (program owner). `_index.md` rebuilt (138 pages), `_backlinks.json` rebuilt (166 targets). Wiki checkpoints 30–36 committed. Phase 2 flipped 🟡 → 🟢. Phase 3 opened.
 
 - **2026-04-24** — Phase 2 execution strategy pivot. Anthropic API keys are blocked on AWS payment processing (newly tracked as FU-10) with no near-term ETA. Rather than idle Phase 2 behind that dependency, adopted **ADR 0010**: run absorb via human-triggered Cowork sessions now, transplant the mechanics into `jojo_compile absorb` unchanged when API access lands. Shipped the plumbing for that today — `docs/compile/compile-prompt.md` (paste-in prompt, living spec of what `write.py` will eventually encode) and `docs/compile/queue.md` (batch tracker; first ten-entry DEL-screening batch seeded from the Protein Sciences SharePoint corpus). Wiki commits use the constitutional `absorb(<corpus>): <N> pages touched, <M> created` format per `schema/CLAUDE.md` §9, with a `Co-Authored-By: Claude Sonnet 4.6 via Cowork` trailer so provenance stays legible alongside eventual API-driven commits. `packages/jojo_compile/` stays stubbed — the prompt and queue *are* the work product this phase, and they feed directly into the autonomous pipeline on API day. Phase 2 exit criterion (≥80% domain-reviewer acceptance, no source-less claims) is unchanged; only the trigger moves from scheduled task to human-started Cowork session. See **ADR 0010** for the full decision record.
 
