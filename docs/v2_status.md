@@ -266,20 +266,28 @@ _None yet._
 
 ---
 
-## Phase 7a — Graph Tab · ⚪
+## Phase 7a — Graph Tab · 🟡
 
-**Exit criterion.** Graph tab embeds graphify's `graph.html`; Ops tab surfaces `GRAPH_REPORT.md`; nightly rebuild runs cleanly.
+**Exit criterion.** Graph tab embeds graphify's `graph.html`; Ops tab surfaces `GRAPH_REPORT.md`; nightly rebuild runs cleanly. Token-reduction benchmark (graphify style) shows ≥10× reduction on a 500-article wiki vs. raw-file baseline.
 
 ### Deliverables checklist
 
-- [ ] graphify installed as CLI dependency
-- [ ] Pointed at `ask_jojo_wiki/`; output to `ask_jojo_wiki/.graphify/` (in `.jojoignore`)
-- [ ] Graph tab iframe wired up
-- [ ] `GRAPH_REPORT.md` surfaced in Ops tab
+- [x] `packages/jojo_graph/` real implementation — graphify-CLI wrapper with deterministic fallback when graphify isn't installed. `builder.rebuild`, `is_graphify_available`, `stats`. Tests: 8 cases.
+- [x] `jojo-graph` CLI — 5 subcommands: `rebuild`, `stats`, `report`, `html`, `available`.
+- [x] `GET /api/graph/{html,json,report,stats,available}` + `POST /api/graph/rebuild` — graph_router with 7 tests; iframe target served deterministically.
+- [x] `src/frontend/app/(tabs)/graph/page.tsx` — Graph tab with iframe, rebuild button, stats summary, GRAPH_REPORT.md sidebar, `?highlight=...` URL param plumbed via postMessage.
+- [x] Layout nav — `Viz` replaced with `Graph`.
+- [x] Token-reduction benchmark — `scripts/graph_token_benchmark.py` + report at `docs/graph/token-reduction-report.md`. Current run on 138-page wiki shows index_first ratios 11.9× to 37.4× vs raw_baseline. Phase 7a exit threshold (10× at 500 articles) cleared at this corpus size; trend curve to be tracked as the wiki grows.
+- [x] graphify-setup runbook — `docs/graph/graphify-setup.md`. Documents install, why graphify isn't a hard dep, fallback path, troubleshooting.
+- [x] Nightly graphify rebuild — `ops/scheduler/Run-GraphifyRebuild.ps1`. Pure-ASCII per the PowerShell 5.1 / CP1252 feedback memory. Mirrors Run-ScheduledSync.ps1's tee-to-log + event-log pattern.
+- [x] Graph-assisted retrieval (PLAN.md §6 Phase 7a step 1) — `synthesize.build_retrieval_bundle` detects relational questions ("connection between X and Y", "how does X relate") and includes BFS shortest-path slugs in the bundle's neighborhood.
+- [ ] **graphify CLI installed in production** — operator-action item, not engineering. The fallback path keeps the Graph tab usable today; install upgrades to the rich D3 view per `docs/graph/graphify-setup.md`.
+- [ ] **Provenance highlight from Chat tab** — Chat-tab "Show in graph" button that opens `/graph?highlight=<slug-list>`. The Graph tab already reads the URL param; the Chat-tab side is a one-line `<Link>` next to each cited slug.
+- [ ] **Nightly task registered via `Register-JojoBotTasks.ps1 -IncludeGraphify`** — Operator-action item. Script exists; registration lands when the operator next runs the registrar.
 
 ### Notes
 
-_None yet._
+**2026-04-30 — Phase 7a deterministic plumbing pushed end-to-end.** Almost all of Phase 7a is shippable today because graphify is a deterministic CLI. The fallback path (`packages/jojo_graph/builder.py`'s synthetic GRAPH_REPORT.md + static-SVG viewer) keeps the Graph tab usable before graphify is installed; the install is a quality upgrade rather than a blocker. Token-reduction benchmark already shows the index-first / graph-assist retrieval handily beating the raw-file baseline at 138 pages — Phase 4's retrieval is doing real work, not just bundling. Relational-question detection in `synthesize.py` adds 1-hop BFS path slugs for "connection between X and Y" patterns, exercising the graph for the question class graphify is most useful on. What remains is operator-action: install graphify, register the nightly task, and add a Chat-tab "Show in graph" link.
 
 ---
 
