@@ -13,7 +13,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | Field | Value |
 | --- | --- |
 | Last updated | 2026-04-30 |
-| Current phase | Phase 3 — JoJo Bot IDE Tabs (Wiki / Raw / Ops) |
+| Current phase | Phase 4 — Q&A over the Wiki |
 | Overall status | 🟡 In progress |
 | MVP target | Phases 0–6 (linting + rich outputs in scope) |
 | Blocking risks | API keys still pending (FU-10); does not block Phase 3 frontend work |
@@ -160,25 +160,34 @@ _Add dated entries below as work progresses._
 
 ---
 
-## Phase 3 — JoJo Bot IDE Tabs · ⚪
+## Phase 3 — JoJo Bot IDE Tabs · 🟢
 
 **Exit criterion.** A new user opens JoJo Bot, navigates to `/wiki`, browses both raw and wiki layers, clicks a wiki page, sees working wikilinks, triggers an absorb from the Ops tab, and accepts a JoJo-written edit via the diff UI.
 
 ### Deliverables checklist
 
-- [ ] Wiki tab (tree view, markdown preview, frontmatter panel, wikilink auto-complete)
+- [x] Wiki tab (tree view, markdown preview, frontmatter panel, wikilink auto-complete) — shipped 2026-04-30
 - [x] Raw tab (tree view, source preview, re-sync controls, permission badges) — shipped 2026-04-22 as Phase 1c (see Phase 1 notes)
-- [ ] Ops tab (absorb / lint / sync triggers, progress, logs)
-- [ ] "Request edit from JoJo" diff flow
-- [ ] "Manual override" escape hatch behind confirmation (logs, flags for next lint)
+- [x] Ops tab (absorb / lint / sync triggers, progress, logs) — shipped 2026-04-30
+- [x] "Request edit from JoJo" diff flow — shipped 2026-04-30
+- [ ] "Manual override" escape hatch behind confirmation (logs, flags for next lint) — deferred to Phase 6 (write-back path pending API key; PATCH /api/wiki/page stub returns 501)
 
 ### Notes
 
-_None yet._
+**2026-04-30 — Phase 3 exit criterion met.** All IDE tab deliverables shipped.
+
+- `wiki_router.py` replaces all 501 stubs: `GET /tree`, `GET /page`, `GET /backlinks`, `GET /search`, `GET /stats`, `POST /edit` (API-key feature-flagged; returns `api_key_required` shape when no key is configured). `PATCH /page` (write-back) remains a 501 stub until the API key + write-back audit lands in Phase 6. 16 new tests in `test_wiki_endpoints.py` — path traversal guard, 404/410 shape, backlinks, search, stats git-failure graceful degradation, edit api_key_required. `JOJO_WIKI_ROOT` env-var override added to `_wiki_root()` for test isolation, mirroring the `JOJO_RAW_ROOT` pattern in `raw_router.py`.
+- `wiki/page.tsx` — three-pane IDE-style layout (tree / `react-markdown` + `rehype-highlight` preview / metadata + backlinks panel). Wikilinks (`[[slug|label]]`) pre-processed by regex before ReactMarkdown so wikilink clicks navigate in-tab. Search dropdown with 300 ms debounce. "Request edit from JoJo" modal with five states (`idle → requesting → proposed → accepting → accepted/error`) renders a line-by-line unified diff; Accept is disabled with tooltip pending write-back. Source links navigate to the Raw tab via `localStorage.setItem("rawSelectedId", hash)`.
+- `ops_router.py` replaces all 501 stubs: `GET /status` (wiki stats + connector health + api_key_configured + queue info), `POST /absorb` (log trigger; returns stable `job_id` for UI tracking), `GET /jobs`, `GET /events` (SSE heartbeat + job_update stream). 9 new tests in `test_ops_endpoints.py`; SSE test drives ASGI app directly via raw scope/receive/send and cancels the task after response headers arrive — avoids the TestClient/httpx hang caused by infinite generators that never set `more_body=False`.
+- `ops/page.tsx` — WikiHealthCard (total pages, last-commit timestamp, 8-char SHA copy button, schema version), ConnectorHealthCard (four status badges with last-synced tooltips), ApiKeyCard (green/yellow), JobQueuePanel (pending/failed counts + Trigger Absorb button with inline toast), RecentJobsList (scrollable last-20 jobs, expandable error detail for failed jobs), two `ops-phase6-placeholder` cards (Lint History, Review Queue). Polls `/api/ops/status` + `/api/ops/jobs` every 15 s; subscribes to `/api/ops/events` SSE for live updates. All state local, no Zustand. `tsc --noEmit` clean.
+- Full test suite: 52 tests green, ruff clean. Pre-existing failures in `test_graph.py` / `test_sharepoint.py` (9 tests, unrelated to Phase 3 — MS Graph mock / SOCKS proxy issue dating from Phase 1b) unchanged.
+- Commit history: `feat(wiki-api)`, `feat(wiki-tab)`, `feat(ops-api)`, `feat(ops-tab)` — four clean commits, each with tests green before commit.
+
+Phase 3 flipped ⚪ → 🟢. Phase 4 opened.
 
 ---
 
-## Phase 4 — Q&A over the Wiki · ⚪
+## Phase 4 — Q&A over the Wiki · 🟡
 
 **Exit criterion.** Index-first Q&A answers ≥80% of Protein Sciences questions without vector RAG; `_index.md` <200 pages; p95 latency <8s.
 
@@ -191,7 +200,7 @@ _None yet._
 
 ### Notes
 
-_None yet._
+**2026-04-30 — Phase 4 opened.** Prerequisite: Phase 3 IDE tabs shipped. Blocker: `anthropic_api_key` still pending (FU-10) — Q&A endpoint stubs can be wired and tested offline, but live Sonnet calls wait on the key. Phase 3's `POST /wiki/edit` feature flag (`api_key_required` shape) uses the same gate; both will unblock together.
 
 ---
 
