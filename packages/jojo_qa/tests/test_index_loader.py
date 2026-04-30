@@ -158,3 +158,123 @@ def test_index_entry_is_frozen() -> None:
     e = IndexEntry(slug="x", title="X", path="x/x.md", type="program")
     with pytest.raises(Exception):
         e.slug = "y"  # type: ignore[misc]
+
+
+# -- enrichment from frontmatter ----------------------------------------
+
+
+@pytest.fixture()
+def fake_wiki_with_aliases(tmp_path: Path) -> Path:
+    """Wiki with one page that has aliases (block form) and tags (inline)."""
+    (tmp_path / "_index.md").write_text(
+        textwrap.dedent(
+            """\
+            # Wiki Index
+
+            ## Program
+
+            - [[pellino-1|Pellino-1 Program]] — `programs/pellino-1.md`
+            - [[cbl-b|CBL-B Program]] — `programs/cbl-b.md`
+            """
+        ),
+        encoding="utf-8",
+    )
+    (tmp_path / "programs").mkdir()
+    (tmp_path / "programs" / "pellino-1.md").write_text(
+        textwrap.dedent(
+            """\
+            ---
+            title: Pellino-1 Program
+            slug: pellino-1
+            type: program
+            aliases:
+              - Peli1
+              - Peli2 redundancy
+              - PELI1 program
+              - Weiss lab
+            tags: [program, ubiquitin-ligase]
+            ---
+
+            Body content here.
+            """
+        ),
+        encoding="utf-8",
+    )
+    (tmp_path / "programs" / "cbl-b.md").write_text(
+        "---\nslug: cbl-b\ntitle: CBL-B Program\n---\n\nBody.\n",
+        encoding="utf-8",
+    )
+    return tmp_path
+
+
+def test_load_index_unenriched_has_empty_aliases(fake_wiki_with_aliases: Path) -> None:
+    entries = load_index(fake_wiki_with_aliases)
+    by_slug = index_by_slug(entries)
+    assert by_slug["pellino-1"].aliases == ()
+    assert by_slug["pellino-1"].tags == ()
+
+
+def test_load_index_enriched_populates_aliases(fake_wiki_with_aliases: Path) -> None:
+    entries = load_index(fake_wiki_with_aliases, enrich=True)
+    by_slug = index_by_slug(entries)
+    aliases = by_slug["pellino-1"].aliases
+    assert "Peli1" in aliases
+    assert "Peli2 redundancy" in aliases
+    assert "PELI1 program" in aliases
+
+
+def test_load_index_enriched_populates_inline_tags(fake_wiki_with_aliases: Path) -> None:
+    entries = load_index(fake_wiki_with_aliases, enrich=True)
+    by_slug = index_by_slug(entries)
+    tags = by_slug["pellino-1"].tags
+    assert "program" in tags
+    assert "ubiquitin-ligase" in tags
+
+
+def test_rank_candidates_finds_via_alias(fake_wiki_with_aliases: Path) -> None:
+    """The Pellino-1 question that motivated Phase 4 review issue #2.3."""
+    entries = load_index(fake_wiki_with_aliases, enrich=True)
+    top = rank_candidates(entries, "Did Peli2 redundancy change our position?", k=3)
+    slugs = [e.slug for e in top]
+    assert "pellino-1" in slugs
+
+
+def test_rank_candidates_alias_outranks_unrelated(fake_wiki_with_aliases: Path) -> None:
+    """Question matching only an alias should still surface the page."""
+    entries = load_index(fake_wiki_with_aliases, enrich=True)
+    top = rank_candidates(entries, "Weiss lab", k=2)
+    assert top
+    assert top[0].slug == "pellino-1"
+
+
+# -- collision warning + grouped variant --------------------------------
+
+
+def test_index_by_slug_warns_on_collision(fake_wiki: Path) -> None:
+    """When two entries share a slug, ``index_by_slug`` warns."""
+    from jojo_qa.index_loader import IndexEntry
+
+    entries = [
+        IndexEntry(slug="x", title="X-program", path="programs/x.md", type="program"),
+        IndexEntry(slug="x", title="X-target", path="targets/x.md", type="target"),
+    ]
+    with pytest.warns(UserWarning, match="slug collision"):
+        result = index_by_slug(entries)
+    # Last-write still wins for backwards compatibility.
+    assert result["x"].type == "target"
+
+
+def test_entries_by_slug_grouped_preserves_collisions() -> None:
+    """The grouped variant returns all entries for each slug."""
+    from jojo_qa.index_loader import IndexEntry, entries_by_slug_grouped
+
+    entries = [
+        IndexEntry(slug="x", title="X-program", path="programs/x.md", type="program"),
+        IndexEntry(slug="x", title="X-target", path="targets/x.md", type="target"),
+        IndexEntry(slug="y", title="Y", path="programs/y.md", type="program"),
+    ]
+    grouped = entries_by_slug_grouped(entries)
+    assert len(grouped["x"]) == 2
+    assert len(grouped["y"]) == 1
+    types = {e.type for e in grouped["x"]}
+    assert types == {"program", "target"}

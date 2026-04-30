@@ -161,7 +161,7 @@ def build_retrieval_bundle(
             wiki_root=str(wiki_root),
         )
 
-    entries = index_loader.load_index(wiki_root)
+    entries = index_loader.load_index(wiki_root, enrich=True)
     candidates = index_loader.rank_candidates(entries, question, k=k_candidates)
 
     bodies: dict[str, str] = {}
