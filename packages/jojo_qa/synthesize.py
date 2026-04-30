@@ -1,4 +1,4 @@
-"""Synthesis pass — feature-flagged Sonnet/Opus call.
+"""Synthesis pass -- feature-flagged Sonnet/Opus call.
 
 This module is the single place the Anthropic API client lives. Today
 it returns the ``api_key_required`` shape that ``qa_router.py``'s
@@ -32,6 +32,7 @@ Public API:
 
 from __future__ import annotations
 
+import re
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Any, Literal
@@ -44,6 +45,22 @@ from .index_loader import IndexEntry
 from .router import Route, RouterResult, classify
 
 Depth = Literal["sonnet", "opus"]
+
+
+# Phase 7a: relational-question detector. Patterns that imply "what's
+# the link between X and Y" trigger graph-assisted retrieval.
+_RELATIONAL_PATTERNS: tuple[re.Pattern[str], ...] = (
+    re.compile(r"\b(connection|relate|relationship|between)\b.*\band\b", re.IGNORECASE),
+    # Use [\w-]+ so hyphenated entity names like "CBL-B" don't break
+    # the noun slot.
+    re.compile(r"\bhow\s+does\s+[\w-]+\s+(connect|relate)", re.IGNORECASE),
+    re.compile(r"\bshared\s+between\b", re.IGNORECASE),
+    re.compile(r"\bcompare\b.*\bvs\b", re.IGNORECASE),
+)
+
+
+def _is_relational(question: str) -> bool:
+    return any(p.search(question) for p in _RELATIONAL_PATTERNS)
 
 
 # Shape returned when the API key is not configured. ``qa_router.py``
@@ -88,6 +105,8 @@ class RetrievalBundle:
     graph_neighborhood: dict[str, list[str]] = field(default_factory=dict)
     raw_fallback_hits: list[dict[str, Any]] = field(default_factory=list)
     wiki_root: str = ""
+    relational_path: list[str] = field(default_factory=list)
+    is_relational: bool = False
 
     def to_dict(self) -> dict[str, Any]:
         """Serialize to JSON-friendly shape for the API response."""
@@ -112,6 +131,8 @@ class RetrievalBundle:
             "graph_neighborhood": self.graph_neighborhood,
             "raw_fallback_hits": self.raw_fallback_hits,
             "wiki_root": self.wiki_root,
+            "relational_path": self.relational_path,
+            "is_relational": self.is_relational,
         }
 
 
@@ -176,6 +197,7 @@ def build_retrieval_bundle(
         bodies[entry.slug] = text
 
     neighborhood: dict[str, list[str]] = {}
+    relational_path: list[str] = []
     if include_neighbors and candidates:
         graph = graph_mod.load(wiki_root)
         if graph.nodes:
@@ -183,6 +205,23 @@ def build_retrieval_bundle(
                 neighborhood[entry.slug] = sorted(
                     graph_mod.neighbors(graph, entry.slug, hops=1)
                 )
+            # Phase 7a graph-assisted retrieval: for relational
+            # questions, compute the BFS shortest path between the top
+            # two candidates. The path's intermediate slugs are added
+            # to the bundle so the synthesis prompt has the bridge
+            # pages to read.
+            if _is_relational(question) and len(candidates) >= 2:
+                src = candidates[0].slug
+                dst = candidates[1].slug
+                p = graph_mod.shortest_path(graph, src, dst)
+                if p and len(p) > 2:
+                    relational_path = p
+                    for hop_slug in p[1:-1]:  # skip endpoints (already candidates)
+                        if hop_slug in neighborhood:
+                            continue
+                        neighborhood.setdefault(hop_slug, sorted(
+                            graph_mod.neighbors(graph, hop_slug, hops=1)
+                        ))
 
     raw_hits: list[dict[str, Any]] = []
     if manifest_path is not None and Path(manifest_path).exists():
@@ -197,6 +236,8 @@ def build_retrieval_bundle(
         graph_neighborhood=neighborhood,
         raw_fallback_hits=raw_hits,
         wiki_root=str(wiki_root),
+        relational_path=relational_path,
+        is_relational=_is_relational(question),
     )
 
 
