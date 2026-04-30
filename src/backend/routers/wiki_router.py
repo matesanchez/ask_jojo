@@ -71,7 +71,11 @@ def _iter_pages(wiki_root: Path):
     """Yield ``(rel, full_path, frontmatter_dict)`` for every wiki page.
 
     Skips ``_index.md``, ``_backlinks.json``, ``README.md``, ``SCHEMA.md``,
-    ``_needs_review.md``, and any file whose name starts with ``_``.
+    ``_needs_review.md``, any file whose name starts with ``_``, and any
+    file under a hidden (dot-prefixed) directory like ``.graphify/`` or
+    ``.qmd/``. The dot-directory exclusion is what keeps Phase 7a's
+    GRAPH_REPORT.md from leaking into the wiki page list (Phase 7a
+    review issue J).
     """
     for full_path in sorted(wiki_root.rglob("*.md")):
         if full_path.name in _SKIP_NAMES:
@@ -79,6 +83,10 @@ def _iter_pages(wiki_root: Path):
         if full_path.name.startswith("_"):
             continue
         rel = full_path.relative_to(wiki_root)
+        # Dot-directory exclusion: any path component starting with '.'
+        # (e.g. ``.graphify``, ``.qmd``, ``.search_index``).
+        if any(part.startswith(".") for part in rel.parts):
+            continue
         try:
             text = full_path.read_text(encoding="utf-8")
         except OSError:

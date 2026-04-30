@@ -313,3 +313,25 @@ def test_patch_page_returns_501():
     r = client.patch("/api/wiki/page", params={"path": "targets/cbl-b.md"})
     assert r.status_code == 501
     assert "Phase 3 final pass" in r.json()["detail"]
+
+
+# ----- Phase 7a review fix: dot-directory exclusion (.graphify/, .qmd/, ...)
+
+def test_dot_directory_files_excluded_from_tree(client_with_wiki):
+    """Phase 7a review issue J. graphify writes .graphify/GRAPH_REPORT.md
+    inside the wiki root; the wiki page walk must skip it (along with
+    any other dot-directory like .qmd/ from qmd activation)."""
+    client, wiki = client_with_wiki
+    # Create a fake .graphify/ directory with a markdown file.
+    (wiki / ".graphify").mkdir()
+    (wiki / ".graphify" / "GRAPH_REPORT.md").write_text(
+        "# Graph Report\n\nThis should NOT show up in the wiki tree.\n",
+        encoding="utf-8",
+    )
+    r = client.get("/api/wiki/tree")
+    assert r.status_code == 200
+    body = r.json()
+    # The fixture has 3 pages; the .graphify/ leak would have made it 4.
+    assert body["total_pages"] == 3
+    dir_names = [d["name"] for d in body["tree"]]
+    assert ".graphify" not in dir_names
