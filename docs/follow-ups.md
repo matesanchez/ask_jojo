@@ -6,6 +6,28 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ---
 
+## 2026-04-30 — Phase 4
+
+### FU-11. Source backfill on the 13 frontmatter-backfilled needs-review pages
+
+- **Severity.** must (before Phase 4 Q&A starts citing these pages with confidence > low)
+- **Surfaced while.** auditing `_needs_review.md` ahead of Phase 4 deterministic plumbing. 13 pages predated the post-batch-24-cbl checkpoint and were missing required frontmatter fields (`title`, `slug`, `created`, `last_updated`, `last_reviewed`, `sources`). The 2026-04-30 backfill (this session) added all of those fields with placeholder values; the `sources:` field has a single `pending-backfill-from-raw` entry instead of the real raw paths.
+- **Problem.** Five `decisions/...` pages and eight `programs/...` pages have valid frontmatter shape but their `sources:` field is a placeholder. Phase 4 Q&A's citation chain depends on `sources[*].path` resolving to real raw entries; today these pages return placeholder strings to any downstream consumer that reads frontmatter. `confidence: low` is a partial mitigation (the retrieval-rank scoring deprioritizes low-confidence pages) but Q&A *can* still pick them as candidates if the question matches their title or slug.
+- **What "done" looks like.** For each of the 13 pages: read the body prose, identify the raw entries cited inline (the body is descriptive of what was in the source), use `raw_fallback.search` or a manual `manifest.json` lookup to resolve the citation to a real raw entry path + hash, replace the placeholder `sources:` block. Promote `confidence: low` to `medium` when the source resolves cleanly. Update `_needs_review.md` to drop the page from "Source backfill pending."
+- **Where to start.** The 13 pages are listed in `_needs_review.md` under "Source backfill pending." Each is small (median ~30 lines of body prose); the work is a focused 30-minute Cowork session per page or one consolidated batch session against the 13 pages. The compile pipeline can also do this once the API key lands by running an absorb pass with `--migrate-frontmatter` against just these pages.
+- **Why deferred.** Frontmatter shape is now valid (constitutional violation cleared); Phase 4 plumbing can ship without resolving this. Acceptable for the first ~10–20 Cowork Q&A sessions, since the deterministic retrieval will deprioritize `confidence: low` pages anyway.
+
+### FU-12. Pellino-1 slug collision (program vs target page share `slug: pellino-1`)
+
+- **Severity.** should
+- **Surfaced while.** smoke-testing `index_loader.load_index` against the real wiki on 2026-04-30. Two pages share the same slug `pellino-1`: `programs/pellino-1.md` (program) and `targets/pellino-1.md` (target). `index_by_slug`'s last-write-wins behavior means one page silently shadows the other in any retrieval call that goes through the slug -> entry dict.
+- **Problem.** Constitutional violation per `SCHEMA.md` §3 ("the `slug` must match the filename without the `.md` extension, which makes wikilinks unambiguous"). Two pages with the same slug means wikilinks like `[[pellino-1]]` resolve ambiguously — the index, the graph builder, and the retrieval bundle all collapse the two pages into one entry. The Q&A session that asked about "Peli2 redundancy" today (q-002) noticed and read both pages, but the deterministic retrieval bundle would have picked only one.
+- **What "done" looks like.** Rename one of the slugs. Convention: program pages keep the bare slug (`pellino-1`), target pages take the `-target` suffix (`pellino-1-target`) — matching `cbl-b` (program) / `cbl-b-target` (target) which already follows this rule. Edit `targets/pellino-1.md` frontmatter to `slug: pellino-1-target`, rename the file (or leave the file but update `_index.md` and `_backlinks.json` references), and update any inbound wikilinks. The compile pipeline's link-step at the next checkpoint catches the dangling references and a small absorb pass fixes them.
+- **Where to start.** `ask_jojo_wiki/targets/pellino-1.md` frontmatter; `_index.md` line for the target page; `_backlinks.json` keys + values. About 15 minutes of work.
+- **Why deferred.** Phase 4 plumbing absorbs the cost (the Pellino-1 question's answer is correct because the Cowork session read both pages by hand). Worth fixing before the API-driven loop runs at scale.
+
+---
+
 ## 2026-04-24 — Phase 2
 
 ### FU-10. Anthropic API key — unblock AWS payment leg

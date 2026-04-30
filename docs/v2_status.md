@@ -13,7 +13,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | Field | Value |
 | --- | --- |
 | Last updated | 2026-04-30 |
-| Current phase | Phase 4 — Q&A over the Wiki |
+| Current phase | Phase 4 — Q&A over the Wiki (deterministic plumbing shipped, synthesis pending FU-10) |
 | Overall status | 🟡 In progress |
 | MVP target | Phases 0–6 (linting + rich outputs in scope) |
 | Blocking risks | API keys still pending (FU-10); does not block Phase 3 frontend work |
@@ -193,14 +193,29 @@ Phase 3 flipped ⚪ → 🟢. Phase 4 opened.
 
 ### Deliverables checklist
 
-- [ ] Query router (ÄKTA questions → v1.0 path; everything else → wiki path)
-- [ ] Index-first retrieval (Sonnet reads `_index.md`, picks 3–8 pages, follows wikilinks 1–2 hops)
-- [ ] Raw fallback when wiki coverage insufficient (miss logged → next absorb)
-- [ ] `qmd` installed but dormant until threshold trips
+- [x] Query router (regex backstop + wiki-override list, ADR 0011) — shipped 2026-04-30 in `packages/jojo_qa/router.py` with full test suite
+- [x] Index-first retrieval plumbing — shipped 2026-04-30 (`index_loader.py`, `wikilinks.py`, `graph.py`, `raw_fallback.py`, `miss_log.py`, `synthesize.py`)
+- [x] `_graph.json` generated from real wiki (136 nodes, 211 edges, 31 connected components) — `ask_jojo_wiki/_graph.json`
+- [x] Raw-fallback retrieval + miss-log infrastructure — shipped 2026-04-30
+- [x] `qmd` installed dormant per PLAN.md §6 Phase 4 step 5 — pyproject `[qa]` extra + `packages/jojo_qa/qmd_activation.py` (3 triggers: index size, p95 latency, miss rate); runbook in `docs/qa/qmd-runbook.md`
+- [x] ADR 0011 — Q&A via Cowork while API pending. Mirrors ADR 0010 pattern; declares the deterministic plumbing's role and the synthesis feature-flag.
+- [x] `docs/qa/qa-prompt.md` — paste-in prompt for Cowork sessions (living spec of `synthesize.py`'s system prompt on API day).
+- [x] `docs/qa/queue.md` — Q&A question queue (5 seed questions ticked).
+- [x] `docs/qa/benchmark-questions.md` — 50-question benchmark seeded with 5 entries; backlog shape laid out for the remaining 45.
+- [x] `docs/qa/answers/` — first 5 Cowork-driven gold answers filed; question 4 produced a derived page (`ask_jojo_wiki/derived/2026-04-30-delphi-acs-release-narrative.md`) per the file-back loop.
+- [x] `src/backend/routers/qa_router.py` — deterministic endpoints live (`GET /api/qa/route`, `/index`, `/retrieve`, `/path`, `/graph`, `/qmd-status`, `/misses`); synthesis endpoints feature-flagged (`POST /api/qa/query`, `/explain`, `/file-back`). Tests in `src/backend/tests/test_qa_endpoints.py`.
+- [x] `src/frontend/app/(tabs)/chat/` — Chat tab with route badge, depth toggle, retrieval-bundle preview, Cowork-handoff payload, file-back action. Mounted in `layout.tsx` nav.
+- [x] 13 incomplete-frontmatter pages in `_needs_review.md` backfilled with provisional frontmatter (sources marked `pending-backfill-from-raw` for next absorb pass).
+- [x] External reviewer pass scoping document — `docs/qa/external-reviewer-pass.md`. Reviewer slate + 30-page sample + acceptance criterion documented; awaiting Mateo to confirm reviewer slate.
+- [ ] **Synthesis live-call path** — `synthesize._call_model` stubbed, returns `not_implemented` until FU-10 lands. One-line edit on API day.
+- [ ] **50-question benchmark fully populated** — 5/50 today; remaining 45 grow alongside Cowork sessions per ADR 0011.
+- [ ] **Nightly CI benchmark run** — gated on FU-10. Today's CI covers router-only via the dry-run mode.
 
 ### Notes
 
 **2026-04-30 — Phase 4 opened.** Prerequisite: Phase 3 IDE tabs shipped. Blocker: `anthropic_api_key` still pending (FU-10) — Q&A endpoint stubs can be wired and tested offline, but live Sonnet calls wait on the key. Phase 3's `POST /wiki/edit` feature flag (`api_key_required` shape) uses the same gate; both will unblock together.
+
+**2026-04-30 — Phase 4 deterministic plumbing pushed end-to-end (ADR 0011).** Same pattern as ADR 0010 for Phase 2: ship every line of Phase 4 that doesn't require model access, run the model-call role via Cowork sessions until FU-10 lands, transplant the work product into `synthesize.py` unchanged on API day. Six modules in `packages/jojo_qa/` with full tests. Eight new endpoints under `/api/qa/`. New Chat tab. Real `_graph.json` (136 nodes, 211 edges) generated from the actual wiki. First 5 Cowork-driven Q&A sessions produced gold answers covering CBL-B program differentiation, Pellino-1 Peli2 redundancy, 2022 DEL screening, the Delphi ACS release narrative (filed back), and a router-test on the AKTA path. 13 pre-batch-24 pages backfilled with valid frontmatter. qmd installed dormant with three activation triggers and a runbook. External reviewer pass scoped (30 pages, 3 reviewers, ~23 calendar days). What's left for Phase 4 exit is (a) FU-10 (live synthesis), (b) the remaining 45 benchmark questions (growing alongside Cowork sessions), and (c) the external reviewer pass (running in parallel).
 
 ---
 
@@ -326,3 +341,4 @@ Non-trivial edits to this file. The frozen ADR (`docs/ADR/0000-v2-roadmap.md`) i
 | 2026-04-22 | Phase 1b+ (OneDrive + public drive via local mount, NurixNet subsumed). ADR 0008 ratified: ingest OneDrive and the Nurix `P:\` share by walking their local sync / mount points instead of MS Graph — tenant blocks delegated `Files.Read.All`, OneDrive client already mirrors the same bytes to disk, and `DriveConnector` already knows how to walk a filesystem root. `OneDriveConnector` and `PublicDriveConnector` ship as one-line `DriveConnector` subclasses with distinct `source_type` values so manifest provenance stays honest. Env-driven factories (`JOJO_ONEDRIVE_PATH`, `JOJO_PUBLIC_DRIVE_PATH`, Windows default `P:\`) raise typed errors that map to HTTP 400. NurixNet is a SharePoint site (not a separate intranet app) — `nurixnet.py` stub + its test deleted; the sharepoint connector already walks it via `JOJO_SHAREPOINT_SITES`. All five connector endpoints now execute real code or return 400 with actionable messages (no stub-era 501s). 121 tests green, ruff clean. | Mateo + Claude |
 | 2026-04-23 | Phase 1 exit criterion met and flipped 🟡 → 🟢. Observational evidence captured in `docs/phase-1-exit-evidence.md`: two connectors with ≥100 files each (OneDrive 18,111 + SharePoint 1,199 at snapshot), access-level metadata correct, no crashes, manifest authoritative. Seven-day unattended-sync soak started today (closes 2026-04-30). Three small resilience tidy-ups shipped alongside: `drive.py` widens exception catch to `OSError`; `graph.py` adds transport-error retry + a clearer 401 message that distinguishes lifetime-expired from missing-scope; `sharepoint.py` swallows per-file download failures in `_build_entry`. Four follow-ups filed in `docs/follow-ups.md`: FU-1 (publicdrive streaming writes + timeout), FU-2 (per-connector singleton lock), FU-3 (Path B MSAL device-code — the one that fully clears the unattended-SharePoint gate), FU-4 (ADR 0010 for Path B, conditional on scope surprises at ship time). Commit-staging runbook in `docs/ops/phase-1-staging-plan.md`. Phase 2 (Wiki Compile) opened in parallel with the soak. | Mateo + Claude |
 | 2026-04-24 | Phase 2 compile strategy decided: run absorb via human-triggered Cowork sessions while Anthropic API access is blocked on AWS payment (FU-5). Shipped ADR 0010 (`docs/ADR/0010-compile-via-cowork-while-api-pending.md`), `docs/compile/compile-prompt.md` (paste-in session prompt), and `docs/compile/queue.md` (batch tracker with first ten-entry DEL-screening batch seeded). `packages/jojo_compile/` stays stubbed; the prompt and queue *are* the Phase 2 work product until API keys land, at which point both transplant unchanged into `write.py` + `absorb` CLI. Exit criterion for Phase 2 is unchanged (≥80% domain-reviewer acceptance). FU-4's identifier (previously "ADR 0010 for Path B") was conceptually bumped — this is ADR 0010; Path B's eventual ADR will take the next available slot. | Mateo + Claude |
+| 2026-04-30 | Phase 4 deterministic plumbing pushed end-to-end (ADR 0011). Same pattern as ADR 0010 for Phase 2: ship every line of Phase 4 that does not require model access, run the model-call role via Cowork sessions until FU-10 lands. Six modules in `packages/jojo_qa/` with full tests (router, index_loader, wikilinks, graph, raw_fallback, miss_log, synthesize, qmd_activation). Eight new endpoints under `/api/qa/`. New Chat tab at `src/frontend/app/(tabs)/chat/`. Real `_graph.json` (136 nodes, 211 edges, 31 connected components) generated from the actual wiki. First 5 Cowork-driven Q&A sessions produced gold answers under `docs/qa/answers/`. 13 pre-batch-24 pages backfilled with valid frontmatter. qmd installed dormant (pyproject `[qa]` extra) with three activation triggers and a runbook in `docs/qa/qmd-runbook.md`. External reviewer pass scoped (30 pages, 3 reviewers). FU-10 (API key) is now the lone hard blocker for Phase 4 *exit*; Phase 4 *progress* is no longer blocked by it. | Mateo + Claude |
