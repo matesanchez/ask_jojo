@@ -181,3 +181,30 @@ def test_matched_keywords_helper() -> None:
     )
     assert matched_keywords("What is CBL-B?") == ()
     assert matched_keywords("") == ()
+
+
+# -- documented router limitations (Phase 4 review) ----------------------
+
+
+def test_unicorn_false_positive_documented() -> None:
+    """Documented limitation: ``unicorn`` outside the UNICORN-software
+    context still routes to v1. See docs/qa/qa-prompt.md "Routing edge
+    cases" section. The Haiku classifier on API day fixes this by
+    reading surrounding context; until then, operator override is the
+    fallback. This test pins the *current* behavior so changes are
+    intentional, not accidental.
+    """
+    result = classify("Make Unicorn-themed slides for our team")
+    assert result.route == "v1"  # known coarse-regex behavior
+    assert "unicorn" in result.matched_keywords
+
+
+def test_pure_in_akta_pure_does_not_match_purif_alone() -> None:
+    """Regression test: ``Pure`` (the AKTA Pure 25 instrument suffix)
+    is not the same word as ``purif``. The \\b word boundary in the
+    regex prevents the substring match. Question routes v1 only via
+    the explicit ``akta`` keyword."""
+    result = classify("AKTA Pure 25 startup checklist")
+    assert result.route == "v1"
+    assert "akta" in result.matched_keywords
+    assert "purif" not in result.matched_keywords
