@@ -16,6 +16,7 @@ from fastapi import FastAPI
 from backend.routers import (
     ingest_router,
     ops_router,
+    qa_router,
     raw_router,
     viz_router,
     wiki_router,
@@ -35,6 +36,7 @@ app.include_router(raw_router.router,    prefix="/api/raw",    tags=["raw"])
 app.include_router(viz_router.router,    prefix="/api/viz",    tags=["viz"])
 app.include_router(ops_router.router,    prefix="/api/ops",    tags=["ops"])
 app.include_router(ingest_router.router, prefix="/api/ingest", tags=["ingest"])
+app.include_router(qa_router.router,     prefix="/api/qa",     tags=["qa"])
 
 
 @app.get("/health", tags=["meta"])
