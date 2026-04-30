@@ -53,6 +53,15 @@ web = [
     "trafilatura>=1.9",
     "html2text>=2024.2.26",
 ]
+# Q&A tier (Phase 4) — qmd installed dormant per PLAN.md §6 Phase 4 step 5.
+# qmd ships installed but inactive; activation is gated by
+# packages/jojo_qa/qmd_activation.py (index size > 200 pages, p95 latency
+# > 8 s, or sustained miss-rate > 15 %). See ADR 0011 for the rationale
+# and `docs/qa/qmd-runbook.md` for the activation procedure.
+qa = [
+    "qmd>=0.3",                # Karpathy's local BM25 + vector over markdown
+    "anthropic>=0.40",         # Messages API client (lights up on FU-10)
+]
 
 [project.scripts]
 # Each package exposes a stub CLI. Populated in the phase that owns it.
