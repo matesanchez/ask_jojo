@@ -61,6 +61,22 @@ web = [
 qa = [
     "qmd>=0.3",                # Karpathy's local BM25 + vector over markdown
     "anthropic>=0.40",         # Messages API client (lights up on FU-10)
+    "pydantic>=2.6",           # PlotSpec + format-classifier types
+]
+# Rich-output tier (Phase 5) — matplotlib sandbox + docx/pptx/pdf renderers.
+# All deterministic; no model dependency. The matplotlib subprocess
+# enforces resource limits (30 s CPU, 512 MB RAM) per
+# packages/jojo_output/sandbox/runner.py.
+output = [
+    "matplotlib>=3.8",         # static charts via the sandbox
+    "numpy>=1.26",             # required by matplotlib + heatmap rendering
+    "pandas>=2.2",             # data wrangling for chart specs (optional, not core)
+    "seaborn>=0.13",           # statistical chart shortcuts (optional)
+    "plotly>=5.20",            # interactive HTML-fragment charts
+    "python-docx>=1.1",        # docx renderer (also used in [dev] for fixture builds)
+    "python-pptx>=0.6.23",     # pptx renderer (also in [ingest] for converter)
+    "weasyprint>=61",          # PDF rendering (HTML/CSS -> PDF)
+    "markdown>=3.6",           # Markdown -> HTML for the PDF path
 ]
 
 [project.scripts]
