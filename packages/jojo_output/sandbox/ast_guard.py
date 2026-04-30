@@ -50,6 +50,7 @@ class UnsafeASTError(ValueError):
 
 _BANNED_NAMES = frozenset(
     {
+        # --- builtins -------------------------------------------------
         "eval",
         "exec",
         "compile",
@@ -63,6 +64,26 @@ _BANNED_NAMES = frozenset(
         "setattr",
         "delattr",
         "hasattr",  # too easy to probe for unsafe attrs
+        # --- dangerous module names that shouldn't be in scope --------
+        # The import allowlist already rejects ``import os``, but if a
+        # name like ``os`` somehow ends up in scope (injected runtime,
+        # a pasted snippet that imports + uses in one go), this layer
+        # catches the *use*. Phase 5 review issue #E.1.
+        "os",
+        "sys",
+        "subprocess",
+        "socket",
+        "urllib",
+        "requests",
+        "httpx",
+        "pathlib",
+        "shutil",
+        "pickle",
+        "marshal",
+        "ctypes",
+        "cffi",
+        "importlib",
+        "__builtins__",
     }
 )
 

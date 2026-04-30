@@ -126,3 +126,26 @@ def test_allowed_imports_set_is_immutable() -> None:
     assert isinstance(ALLOWED_IMPORTS, frozenset)
     with pytest.raises(AttributeError):
         ALLOWED_IMPORTS.add("os")  # type: ignore[attr-defined]
+
+
+# -- Phase 5 review issue #E.1: dangerous module names in scope ----------
+
+
+@pytest.mark.parametrize(
+    "src",
+    [
+        "@os.path.join\ndef f(): pass",            # decorator using os
+        "x = sys.argv",                             # direct sys lookup
+        "subprocess.run(['ls'])",                   # direct subprocess
+        "y = pathlib.Path('/etc/passwd')",          # pathlib name lookup
+        "shutil.rmtree('/')",                        # shutil
+        "z = pickle.loads(blob)",                    # pickle
+        "ctypes.CDLL('libc.so.6')",                  # ctypes
+    ],
+)
+def test_dangerous_module_names_blocked(src: str) -> None:
+    """Module names like os / sys / subprocess can't appear as Name
+    lookups even if they're somehow in scope without an import.
+    Belt-and-suspenders for the import-side allowlist."""
+    with pytest.raises(UnsafeASTError, match="disallowed"):
+        check_safe(src)
