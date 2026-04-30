@@ -219,20 +219,31 @@ Phase 3 flipped ⚪ → 🟢. Phase 4 opened.
 
 ---
 
-## Phase 5 — Rich Outputs · ⚪
+## Phase 5 — Rich Outputs · 🟡
 
 **Exit criterion.** User asks "make me slides comparing TYK2 strategies for AR-V7 vs CRBN" and gets back a viewable Marp deck rendered inside JoJo Bot with one click to file-back into `wiki/outputs/`.
 
 ### Deliverables checklist
 
-- [ ] Marp rendering via `@marp-team/marp-core` Web Worker
-- [ ] matplotlib sandbox (resource limits, no network, allowlist imports)
-- [ ] docx / pptx / pdf generation paths
-- [ ] "File this" button wired up to `wiki/outputs/`
+- [x] Format classifier (regex backstop, `packages/jojo_qa/format.py`) — 9 formats: markdown / marp / matplotlib / plotly / table / mermaid / docx / pptx / pdf. Same shape as the route classifier; Haiku layer slots in front on API day.
+- [x] matplotlib sandbox (`packages/jojo_output/sandbox/`) — PlotSpec validation, fixed-function rendering, subprocess runner with POSIX rlimit (30 s CPU, 512 MB RAM, 64 fds, 1 process), AST guard for any future user-pasted-code path. 7 plot types (bar/barh/line/scatter/hist/box/heatmap). Tests: 49 cases.
+- [x] Output renderers (`packages/jojo_output/renderers/`) — markdown (with wikilink rewrite), Marp markdown, table (md/csv/xlsx), docx (python-docx wrapper), pptx (python-pptx wrapper), pdf (WeasyPrint via markdown→HTML).
+- [x] Marp rendering via `@marp-team/marp-core` Web Worker — `src/frontend/lib/marp/worker.ts` + `src/frontend/components/MarpCarousel.tsx`. Worker off-loads SVG render; carousel has arrow-key + button navigation.
+- [x] Mermaid rendering — `src/frontend/components/Mermaid.tsx`. Lazy-loaded; `securityLevel: strict` and `htmlLabels: false`.
+- [x] `wiki/outputs/` directory created in the wiki repo with a `type: output` frontmatter spec in `SCHEMA.md` §3.
+- [x] `output_router.py` (`/api/output/*`) — `classify-format`, `formats`, `plot-types`, `render`, `file-back`, `list`, `page`. 8 endpoints; 23 tests. Plotly endpoint returns 501 with hint until plotly-specific renderer ships.
+- [x] Chat tab format toggle — depth + route + format + qmd + api-key badges. Format classifier runs alongside the route classifier in `Promise.all` so both badges populate before synthesis.
+- [x] `pyproject.toml [output]` extra — matplotlib + numpy + pandas + seaborn + plotly + python-docx + python-pptx + weasyprint + markdown.
+- [ ] **Plotly-specific HTML-fragment renderer** — endpoint returns 501 today; matplotlib fallback covers the common case.
+- [ ] **"File this" button on every Chat-tab answer** — calls `/api/output/file-back`. The endpoint exists and is tested; the button needs to be wired to the answer-status branches that produce filable artifacts (today only the Phase-4 file-back is wired).
+- [ ] **Wiki tab outputs/ directory rendering** — needs the `outputs/` virtual directory at the top of the Wiki tree, plus per-output renderer dispatch (Marp carousel for `output_format: marp`, image preview for matplotlib, etc.). Backend endpoints live; frontend is the remaining ~2 days of work.
+- [ ] **API-day flip** — `synthesize.answer` returns `{format, spec}` in addition to plain markdown; the spec routes through the right renderer. One-line edit when FU-10 lands.
 
 ### Notes
 
-_None yet._
+**2026-04-30 — Phase 5 deterministic plumbing pushed end-to-end.** Same ADR-0011 pattern as Phase 4: ship every line of Phase 5 that does not require model access today; the synthesis call is the last 20% on FU-10 day. Highest-leverage piece is the matplotlib sandbox: security-critical, complex, expensive to get wrong, zero model dependency. Tests run in CI today (no API key needed); the security model has been hardening for weeks rather than days when Phase 5 actually goes live. The format classifier doubles as a regression-test seed — its labeled-question fixture extends `docs/qa/benchmark-questions.md`'s format axis. Marp + mermaid + docx/pptx/pdf renderers all wrap existing skills (`/sessions/.../mnt/.claude/skills/{docx,pptx,pdf}/SKILL.md`); the renderer is shape-of-the-API; the skill is the heavy lifting.
+
+What remains: (a) plotly HTML-fragment renderer (1 day), (b) Chat tab "File this" wiring on every answer status (half a day), (c) Wiki-tab outputs/ directory rendering with per-format preview (~2 days). Total ~3-4 days to fully exit; everything load-bearing is in place.
 
 ---
 
