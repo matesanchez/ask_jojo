@@ -30,8 +30,9 @@ the case where the route is unknown.
 from __future__ import annotations
 
 import re
+from collections.abc import Iterable
 from dataclasses import dataclass, field
-from typing import Iterable, Literal
+from typing import Literal
 
 # -- v1 trigger keywords (regex word-boundary, case-insensitive) ----------
 #

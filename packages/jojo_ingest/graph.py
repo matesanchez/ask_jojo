@@ -35,6 +35,7 @@ import os
 import time
 from collections.abc import Callable, Iterator
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Any
 from urllib.parse import quote, urlparse
 
@@ -92,6 +93,121 @@ def env_token_provider(var: str = "JOJO_GRAPH_ACCESS_TOKEN") -> TokenProvider:
                 "Access token tab), or switch to MSAL device-code auth."
             )
         return tok
+
+    return _get
+
+
+def msal_device_code_provider(
+    *,
+    client_id: str | None = None,
+    tenant_id: str | None = None,
+    scopes: list[str] | None = None,
+    cache_path: Path | None = None,
+    interactive: bool = True,
+) -> TokenProvider:
+    """Path B auth: MSAL PublicClientApplication with DPAPI-encrypted token cache.
+
+    Token cache at %APPDATA%\\JojoBot\\tokencache.bin (~90-day lifetime with
+    silent refresh). Encrypted/decrypted via _dpapi_protect/_dpapi_unprotect
+    from jojo_core.config -- never written as plaintext.
+
+    Args:
+        client_id: Override the app client ID (default: Nurix well-known ID from DEFAULTS).
+        tenant_id: Override the tenant ID (default: Nurix tenant from DEFAULTS).
+        scopes: Override scopes (default: ["https://graph.microsoft.com/Sites.Read.All"]).
+        cache_path: Override cache file path (tests pass tmp_path here).
+        interactive: If False, raises rather than starting device-code flow when
+            no cached token exists. Use False for scheduled/unattended runs.
+    """
+    import sys
+
+    try:
+        import msal
+    except ImportError as exc:
+        raise IngestError(
+            "msal is not installed. Run: pip install 'jojo_bot[cloud]'"
+        ) from exc
+    from jojo_core import config as _cfg
+
+    _client_id = client_id or _cfg.get(_cfg.KEY_MSAL_CLIENT_ID) or _cfg.DEFAULTS[_cfg.KEY_MSAL_CLIENT_ID]
+    _tenant_id = tenant_id or _cfg.get(_cfg.KEY_MSAL_TENANT_ID) or _cfg.DEFAULTS[_cfg.KEY_MSAL_TENANT_ID]
+    _scopes = scopes or ["https://graph.microsoft.com/Sites.Read.All"]
+
+    _cache_path: Path
+    if cache_path is None:
+        appdata = os.environ.get("APPDATA", "")
+        if appdata:
+            _cache_path = Path(appdata) / "JojoBot" / "tokencache.bin"
+        else:
+            _cache_path = Path.home() / ".config" / "JojoBot" / "tokencache.bin"
+    else:
+        _cache_path = cache_path
+
+    _use_dpapi = sys.platform == "win32" and os.environ.get("JOJO_CONFIG_FORCE_PLAINTEXT") != "1"
+
+    token_cache = msal.SerializableTokenCache()
+
+    def _load_cache() -> None:
+        if not _cache_path.exists():
+            return
+        try:
+            raw = _cache_path.read_bytes()
+            if _use_dpapi:
+                plaintext = _cfg._dpapi_unprotect(raw)
+            else:
+                plaintext = raw
+            token_cache.deserialize(plaintext.decode("utf-8"))
+        except Exception as exc:  # noqa: BLE001
+            log.warning("MSAL token cache load failed (will re-authenticate): %s", exc)
+
+    def _save_cache() -> None:
+        if not token_cache.has_state_changed:
+            return
+        try:
+            serialized = token_cache.serialize().encode("utf-8")
+            encrypted = _cfg._dpapi_protect(serialized) if _use_dpapi else serialized
+            _cache_path.parent.mkdir(parents=True, exist_ok=True)
+            tmp = _cache_path.with_suffix(_cache_path.suffix + ".tmp")
+            tmp.write_bytes(encrypted)
+            os.replace(tmp, _cache_path)
+        except Exception as exc:  # noqa: BLE001
+            log.warning("MSAL token cache save failed: %s", exc)
+
+    _load_cache()
+
+    app = msal.PublicClientApplication(
+        client_id=_client_id,
+        authority=f"https://login.microsoftonline.com/{_tenant_id}",
+        token_cache=token_cache,
+    )
+
+    def _get() -> str:
+        accounts = app.get_accounts()
+        if accounts:
+            result = app.acquire_token_silent(_scopes, account=accounts[0])
+            if result and "access_token" in result:
+                _save_cache()
+                return result["access_token"]
+
+        if not interactive:
+            raise IngestError(
+                "No cached MSAL token and interactive=False. "
+                "Run `jojo-ingest auth device-code` to log in first."
+            )
+
+        flow = app.initiate_device_flow(scopes=_scopes)
+        if "error" in flow:
+            raise IngestError(
+                f"MSAL device flow initiation failed: {flow.get('error_description', flow)}"
+            )
+        print(flow.get("message", "Follow device-code instructions above"), file=sys.stderr, flush=True)
+        result = app.acquire_token_by_device_flow(flow)
+        if "error" in result:
+            raise IngestError(
+                f"MSAL device-code auth failed: {result.get('error_description', result)}"
+            )
+        _save_cache()
+        return result["access_token"]
 
     return _get
 

@@ -7,14 +7,14 @@ during Cowork sessions get added here as regression tests.
 
 from __future__ import annotations
 
+import dataclasses
+
 import pytest
 
 from jojo_qa.format import (
-    FormatResult,
     available_formats,
     classify,
 )
-
 
 # -- happy paths ----------------------------------------------------------
 
@@ -123,7 +123,7 @@ def test_memo_does_not_match_with_table_keyword() -> None:
 def test_format_result_is_frozen() -> None:
     """``FormatResult`` is frozen — mutating attributes raises."""
     r = classify("test")
-    with pytest.raises(Exception):
+    with pytest.raises(dataclasses.FrozenInstanceError):
         r.format = "marp"  # type: ignore[misc]
 
 

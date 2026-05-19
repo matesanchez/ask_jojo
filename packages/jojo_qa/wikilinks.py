@@ -31,7 +31,6 @@ from __future__ import annotations
 import re
 from dataclasses import dataclass
 
-
 # Two patterns to give us the kind of structured match we want:
 #
 #   [[slug|label]]   <-- pipe-form

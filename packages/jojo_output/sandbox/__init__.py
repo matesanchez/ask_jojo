@@ -29,12 +29,12 @@ checking, and resource limits all happen in the parent process
 before the subprocess is spawned.
 """
 
+from .runner import RenderResult, run
 from .spec import (
     PlotSpec,
     PlotType,
     available_plot_types,
 )
-from .runner import RenderResult, run
 
 __all__ = [
     "PlotSpec",

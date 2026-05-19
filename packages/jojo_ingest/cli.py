@@ -32,6 +32,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -321,6 +322,81 @@ def _cmd_status(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_auth_device_code(args: argparse.Namespace) -> int:
+    cache_path = Path(args.cache_path) if getattr(args, "cache_path", None) else None
+    try:
+        from jojo_ingest.graph import msal_device_code_provider
+
+        provider = msal_device_code_provider(cache_path=cache_path, interactive=True)
+        token = provider()
+        if token:
+            print("Device-code login successful. Token cached.", file=sys.stderr)
+            return 0
+        print("Login failed: no token returned.", file=sys.stderr)
+        return 1
+    except Exception as exc:
+        print(f"Error: {exc}", file=sys.stderr)
+        return 1
+
+
+def _cmd_auth_status(args: argparse.Namespace) -> int:
+    import json as _json
+
+    from jojo_core import config as _cfg
+
+    cache_path_env = os.environ.get("APPDATA", "")
+    cache_path = (
+        Path(cache_path_env) / "JojoBot" / "tokencache.bin"
+        if cache_path_env
+        else Path.home() / ".config" / "JojoBot" / "tokencache.bin"
+    )
+    out: dict = {"cache_exists": cache_path.exists(), "valid": False}
+    if not cache_path.exists():
+        print(_json.dumps(out), file=sys.stdout)
+        print(
+            "no token cache at " + str(cache_path) + " -- run `jojo-ingest auth device-code`",
+            file=sys.stderr,
+        )
+        return 1
+    try:
+        import msal
+
+        _use_dpapi = sys.platform == "win32" and os.environ.get("JOJO_CONFIG_FORCE_PLAINTEXT") != "1"
+        raw = cache_path.read_bytes()
+        plaintext = _cfg._dpapi_unprotect(raw) if _use_dpapi else raw
+        token_cache = msal.SerializableTokenCache()
+        token_cache.deserialize(plaintext.decode("utf-8"))
+        client_id = _cfg.get(_cfg.KEY_MSAL_CLIENT_ID) or _cfg.DEFAULTS[_cfg.KEY_MSAL_CLIENT_ID]
+        tenant_id = _cfg.get(_cfg.KEY_MSAL_TENANT_ID) or _cfg.DEFAULTS[_cfg.KEY_MSAL_TENANT_ID]
+        app = msal.PublicClientApplication(
+            client_id=client_id,
+            authority=f"https://login.microsoftonline.com/{tenant_id}",
+            token_cache=token_cache,
+        )
+        accounts = app.get_accounts()
+        if accounts:
+            result = app.acquire_token_silent(
+                ["https://graph.microsoft.com/Sites.Read.All"], account=accounts[0]
+            )
+            if result and "access_token" in result:
+                out["valid"] = True
+                out["account"] = accounts[0].get("username", "unknown")
+                print(_json.dumps(out))
+                print("valid -- token silently refreshed from cache", file=sys.stderr)
+                return 0
+        out["valid"] = False
+        print(_json.dumps(out))
+        print(
+            "cache exists but token is expired or no accounts -- run `jojo-ingest auth device-code`",
+            file=sys.stderr,
+        )
+        return 1
+    except Exception as exc:
+        out["error"] = str(exc)
+        print(_json.dumps(out))
+        return 1
+
+
 def _print_result(result) -> None:
     summary = {
         name: {
@@ -451,6 +527,16 @@ def _build_parser() -> argparse.ArgumentParser:
     st = sub.add_parser("status", help="Print manifest summary")
     st.add_argument("--raw", required=True)
     st.set_defaults(func=_cmd_status)
+
+    auth = sub.add_parser("auth", help="Manage MSAL Graph authentication")
+    auth_sub = auth.add_subparsers(dest="auth_command", required=True)
+
+    dc = auth_sub.add_parser("device-code", help="Start MSAL device-code login flow")
+    dc.add_argument("--cache-path", dest="cache_path", help="Override default cache path (tests only)")
+    dc.set_defaults(func=_cmd_auth_device_code)
+
+    st_auth = auth_sub.add_parser("status", help="Check MSAL token cache status")
+    st_auth.set_defaults(func=_cmd_auth_status)
 
     return p
 

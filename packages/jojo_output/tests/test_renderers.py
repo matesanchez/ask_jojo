@@ -25,7 +25,6 @@ from jojo_output.renderers import (
 from jojo_output.renderers.marp import Slide
 from jojo_output.renderers.table import render_csv, render_xlsx
 
-
 # ---------------------------------------------------------------- markdown
 
 

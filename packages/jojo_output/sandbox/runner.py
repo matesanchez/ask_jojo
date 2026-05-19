@@ -112,8 +112,6 @@ def run(
                 plot_type=str(spec_dict.get("plot_type", "")) if isinstance(spec_dict, dict) else "",
             )
 
-    plot_type = spec.plot_type
-
     # 2. Render — in-process for tests, subprocess for prod.
     if RUN_IN_PROCESS:
         return _run_in_process(spec, out_path=out_path, fmt=fmt, start_ms=start_ms)

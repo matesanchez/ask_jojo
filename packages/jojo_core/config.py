@@ -48,6 +48,7 @@ KEY_UPLOAD_DIR = "upload_dir"
 KEY_REDIS_URL = "redis_url"
 KEY_MSAL_CLIENT_ID = "msal_client_id"
 KEY_MSAL_TENANT_ID = "msal_tenant_id"
+KEY_GRAPH_AUTH_MODE = "graph_auth_mode"
 
 ENV_MAP: dict[str, str] = {
     KEY_ANTHROPIC_API_KEY:  "ANTHROPIC_API_KEY",
@@ -60,6 +61,7 @@ ENV_MAP: dict[str, str] = {
     KEY_REDIS_URL:          "JOJO_REDIS_URL",
     KEY_MSAL_CLIENT_ID:     "JOJO_MSAL_CLIENT_ID",
     KEY_MSAL_TENANT_ID:     "JOJO_MSAL_TENANT_ID",
+    KEY_GRAPH_AUTH_MODE:    "JOJO_GRAPH_AUTH_MODE",
 }
 
 # Which keys carry real secrets vs. operational config. Used to mask
@@ -69,6 +71,17 @@ SECRET_KEYS: frozenset[str] = frozenset({
     KEY_ANTHROPIC_API_KEY,
     KEY_GRAPH_ACCESS_TOKEN,
 })
+
+# Hard-coded defaults for operational config. These are the Nurix well-known
+# app registration IDs and the default auth mode. They are baked in so that a
+# fresh install works without any config.json or env vars. Callers that need
+# the value for a specific key can use `get()`, which checks config.json and
+# env vars first and falls through to this dict last.
+DEFAULTS: dict[str, str] = {
+    KEY_MSAL_CLIENT_ID: "14d82eec-204b-4c2f-b7e8-296a70dab67e",
+    KEY_MSAL_TENANT_ID: "1c966021-d551-45e4-89a5-849f81b69208",
+    KEY_GRAPH_AUTH_MODE: "device-code",
+}
 
 # File-format version. Bump when changing the envelope schema (not the
 # payload keys -- those can be added freely).
@@ -275,6 +288,9 @@ def get(key: str, default: Any = None, *, env_fallback: bool = True) -> Any:
             val = os.environ.get(env_name)
             if val:
                 return val
+    defaults_val = DEFAULTS.get(key)
+    if defaults_val is not None:
+        return defaults_val
     return default
 
 

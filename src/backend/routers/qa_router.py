@@ -50,8 +50,10 @@ from jojo_qa import (
     index_loader,
     miss_log,
     qmd_activation,
-    router as qa_router,
     synthesize,
+)
+from jojo_qa import (
+    router as qa_router,
 )
 
 router = APIRouter()

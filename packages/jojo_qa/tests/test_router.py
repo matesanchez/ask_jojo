@@ -16,7 +16,6 @@ from jojo_qa.router import (
     matched_keywords,
 )
 
-
 # -- the v1-trigger keywords route to v1 ---------------------------------
 
 

@@ -8,6 +8,7 @@ validation rule.
 from __future__ import annotations
 
 import pytest
+from pydantic import ValidationError
 
 # Skip the whole module when pydantic isn't installed (e.g. pre-install
 # dev environments). The Phase 5 [output] extra includes pydantic via
@@ -15,7 +16,6 @@ import pytest
 pytest.importorskip("pydantic")
 
 from jojo_output.sandbox.spec import PlotSpec, available_plot_types
-
 
 # -- happy paths ---------------------------------------------------------
 
@@ -86,7 +86,7 @@ def test_ragged_heatmap_rejected() -> None:
 
 
 def test_long_label_rejected() -> None:
-    with pytest.raises(Exception):
+    with pytest.raises(ValidationError):
         PlotSpec.model_validate({"plot_type": "bar", "title": "x" * 500})
 
 
@@ -94,7 +94,7 @@ def test_long_label_rejected() -> None:
 
 
 def test_unknown_plot_type_rejected() -> None:
-    with pytest.raises(Exception):
+    with pytest.raises(ValidationError):
         PlotSpec.model_validate({"plot_type": "pie"})  # not in the literal
 
 
@@ -113,9 +113,9 @@ def test_defaults_reasonable() -> None:
 
 
 def test_dpi_clamped() -> None:
-    with pytest.raises(Exception):
+    with pytest.raises(ValidationError):
         PlotSpec(plot_type="bar", dpi=10)
-    with pytest.raises(Exception):
+    with pytest.raises(ValidationError):
         PlotSpec(plot_type="bar", dpi=10000)
 
 

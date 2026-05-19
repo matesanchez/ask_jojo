@@ -15,7 +15,6 @@ from jojo_output.sandbox.ast_guard import (
     check_safe,
 )
 
-
 # -- allowed --------------------------------------------------------------
 
 

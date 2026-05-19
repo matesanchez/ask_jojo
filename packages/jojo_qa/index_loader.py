@@ -37,9 +37,9 @@ Public API:
 from __future__ import annotations
 
 import re
+from collections.abc import Iterable
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable
 
 # Index entry format. Two backtick-or-not forms; we match the canonical
 # pattern produced by the compile pipeline today and degrade gracefully

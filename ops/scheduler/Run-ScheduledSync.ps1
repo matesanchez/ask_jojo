@@ -139,6 +139,21 @@ $ProjectRoot = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 if (-not $LogRoot) {
     $LogRoot = Join-Path $ProjectRoot "ops\scheduler\logs"
 }
+
+# Resolve -Raw to a concrete path now so the rest of the script (disk-space
+# check, child argv) has a single source of truth. The CLI's `sync` subcommand
+# requires --raw, and Task Scheduler invocations don't pass it; without this
+# defaulting the python child died with "the following arguments are
+# required: --raw" before the walker ever started. Resolution order matches
+# the .PARAMETER docstring: explicit -Raw wins, then JOJO_RAW_ROOT env var,
+# then .\ask_jojo_raw under the project root.
+if (-not $Raw) {
+    if ($env:JOJO_RAW_ROOT) {
+        $Raw = $env:JOJO_RAW_ROOT
+    } else {
+        $Raw = Join-Path $ProjectRoot "ask_jojo_raw"
+    }
+}
 $LogDir = Join-Path $LogRoot $Connector
 if (-not (Test-Path $LogDir)) {
     New-Item -ItemType Directory -Path $LogDir -Force | Out-Null
@@ -323,9 +338,10 @@ try {
 
     # ---- preflight: free disk space --------------------------------------
     if ($MinDiskFreeGB -gt 0) {
-        $rawForCheck = $Raw
-        if (-not $rawForCheck) { $rawForCheck = Join-Path $ProjectRoot "ask_jojo_raw" }
-        $checkPath = $rawForCheck
+        # $Raw is guaranteed non-empty (defaulted at top of script); fall back
+        # to $ProjectRoot only if the directory hasn't been created yet, since
+        # Resolve-Path on a missing path throws.
+        $checkPath = $Raw
         if (-not (Test-Path -LiteralPath $checkPath)) { $checkPath = $ProjectRoot }
         try {
             $qual = (Split-Path -Qualifier (Resolve-Path -LiteralPath $checkPath -ErrorAction Stop))
@@ -382,8 +398,11 @@ try {
     }
 
     # ---- build + run the sync invocation ---------------------------------
-    $syncArgs = @("-m", "jojo_ingest", "sync", $Connector)
-    if ($Raw)    { $syncArgs += @("--raw", $Raw) }
+    # --raw is required by the CLI, and $Raw is guaranteed non-empty by the
+    # defaulting at the top of the script. --source/--since are optional and
+    # only forwarded when set so the per-connector factory's own config-file
+    # resolution still kicks in for unattended runs.
+    $syncArgs = @("-m", "jojo_ingest", "sync", $Connector, "--raw", $Raw)
     if ($Source) { $syncArgs += @("--source", $Source) }
     if ($Since)  { $syncArgs += @("--since", $Since) }
     # Empty / null IncludeExt is treated as "no filter" by the python CLI;

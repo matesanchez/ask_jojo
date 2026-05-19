@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import dataclasses
 import textwrap
 from pathlib import Path
 
@@ -156,7 +157,7 @@ def test_rank_candidates_handles_empty_question(fake_wiki: Path) -> None:
 def test_index_entry_is_frozen() -> None:
     """``IndexEntry`` is frozen — mutating attributes raises."""
     e = IndexEntry(slug="x", title="X", path="x/x.md", type="program")
-    with pytest.raises(Exception):
+    with pytest.raises(dataclasses.FrozenInstanceError):
         e.slug = "y"  # type: ignore[misc]
 
 
