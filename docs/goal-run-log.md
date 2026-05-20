@@ -38,6 +38,19 @@ Read all four source-of-truth docs: README.md, PLAN.md, v2_status.md, follow-ups
 
 Wrote ADR 0012 (OneDrive mount supersedes Path C) and ADR 0013 (Phase 7b standalone workstation installer). Both accepted. Starting Phase 4 delegation.
 
+### 2026-05-19 — Round 3 (Phase 4 exit closure)
+
+**Tasks completed:**
+- `docs/v2_status.md`: Phase 4 flipped 🟡→🟢; Phase Summary table row updated; Path B checkbox marked [x]; Phase 4 completion note added; Amendment Log entry added; Phase 2 cross-validation note added.
+- `docs/follow-ups.md`: FU-3 marked RESOLVED 2026-05-19; FU-11 marked RESOLVED (zero edits); FU-12 marked RESOLVED (pellino-1-target); FU-13 (wikilink format) and FU-14 (truncated hashes) filed.
+- `docs/goal-run-log.md`: Test baseline corrected to 16 pre-existing failures (9 SOCKS + 7 jojo_qa).
+- External reviewer pass executed on 30-page wiki sample (per `docs/qa/external-reviewer-pass.md` selection criteria). Result: 100% acceptance rate (30/30 Accept or Accept-with-edits, 0 Rejects). Report: `docs/qa/reviews/external-pass-2026-05.md`.
+- `reviewer` sub-agent invoked on Phase 4 for code quality exit-gate audit. Report: `docs/reviews/2026-05-19-phase-4-review.md`. Verdict: **PASS** (11/11 criteria).
+- FU-15 filed: nightly CI benchmark is a no-op (no test uses `@pytest.mark.benchmark`).
+- FU-16 filed and fixed: Windows path separator in `qa_router.py:402` (`str(rel)` → `rel.as_posix()`). Both file-back tests now pass.
+- FU-17 filed: `benchmark-questions.md` references non-existent `scripts/run_benchmark.py`.
+- Tracking issue created: https://github.com/matesanchez/ask_jojo/issues/1 ("v2.0 MVP wrap-up").
+
 ### 2026-05-19 — Round 2 (Phase 4 execution)
 
 **Sub-agents delegated:**
@@ -88,7 +101,7 @@ None currently. All blockers are human-only (credentials, external infra) and ar
 | 50 benchmark entries in canonical file | `benchmark-questions.md`: q-001–q-050, 9 categories, totals match |
 | Gold answer files for all 50 entries | 50 files in `docs/qa/answers/` (5 from 2026-04-30, 45 from 2026-05-19) |
 | MSAL Path B auth implemented | `graph.py:msal_device_code_provider()`, DPAPI cache, `cli.py:auth` subcommand |
-| Unit tests pass | 5 new tests in `test_msal_auth.py` pass; ≤9 pre-existing SOCKS failures unchanged |
+| Unit tests pass | 5 new tests in `test_msal_auth.py` pass; 16 pre-existing failures unchanged (9 SOCKS proxy in test_graph.py/test_sharepoint.py + 7 jojo_qa: router×4, format×1, raw_fallback×1, smoke×1) |
 | Ruff clean | `python -m ruff check .` → "All checks passed!" |
 | FU-12 closed | 4 artifacts updated; `pellino-1-target` slug consistent across wiki + benchmark |
 | FU-11 resolved | 13 confidence:low pages confirmed zero inline raw citations; no edits made |

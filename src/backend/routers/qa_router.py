@@ -399,7 +399,7 @@ def post_file_back(req: FileBackRequest) -> dict[str, Any]:
     rel = out_path.relative_to(wiki_root)
     return {
         "status": "filed",
-        "path": str(rel),
+        "path": rel.as_posix(),
         "absolute_path": str(out_path),
         "slug": slug,
         "next_step": (

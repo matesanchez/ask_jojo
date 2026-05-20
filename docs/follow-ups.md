@@ -6,9 +6,62 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ---
 
+## 2026-05-19 — Phase 4 exit (code reviewer pass)
+
+### FU-17. `benchmark-questions.md` references non-existent `scripts/run_benchmark.py`
+
+- **Severity.** should (before anyone tries to run the benchmark harness)
+- **Surfaced while.** code reviewer pass 2026-05-19.
+- **Problem.** `docs/qa/benchmark-questions.md:13` says "The harness in `scripts/run_benchmark.py`" but no such file exists. `scripts/graph_token_benchmark.py` is a Phase 7a token-reduction benchmark, not a Q&A benchmark.
+- **What "done" looks like.** Either ship `scripts/run_benchmark.py` (the Q&A benchmark harness per FU-15 scope) or update the reference in `benchmark-questions.md` to point at whatever the actual harness turns out to be.
+- **Why deferred.** Tightly coupled to FU-15. Will resolve together.
+
+### FU-16. Windows path separator in `/api/qa/file-back` response  — **RESOLVED 2026-05-19**
+
+Fixed immediately: `qa_router.py:402` changed from `str(rel)` to `rel.as_posix()`. Both `test_file_back_writes_derived_page` and `test_file_back_slug_sanitized` now pass on Windows.
+
+- **Severity.** must (2 test failures on Windows, none on Linux)
+- **Surfaced while.** code reviewer pass 2026-05-19.
+- **Problem.** `rel.relative_to(wiki_root)` returns a `pathlib.Path` with OS-native separators. `str(rel)` on Windows produces `derived\2026-05-19-...md`; tests assert `startswith("derived/")`. Fix: `rel.as_posix()`.
+
+### FU-15. Nightly CI benchmark workflow is a no-op
+
+- **Severity.** should (before Phase 5 exit — the benchmark gate is a real exit criterion)
+- **Surfaced while.** code reviewer pass 2026-05-19.
+- **Problem.** `.github/workflows/qa-benchmark.yml` runs `pytest -m benchmark`. No test in the repo carries `@pytest.mark.benchmark`. `pytest --collect-only -m benchmark` collects 0 tests. Nightly exits 0, green badge, asserts nothing.
+- **What "done" looks like.** Either (a) add `@pytest.mark.benchmark` to router/retrieval tests that assert `expected_route` on each q-001–q-050 entry, or (b) ship `scripts/run_benchmark.py` (referenced in `benchmark-questions.md`) as a real benchmark harness and wire it into the workflow. Option (b) gives a richer benchmark signal (full retrieval bundle, not just route classification).
+- **Where to start.** `scripts/run_benchmark.py` — load `benchmark-questions.md`, run `router.classify + index_loader.rank_candidates` on each question, assert `expected_route`, output pass/fail. ~150 LOC. Then update `qa-benchmark.yml` to call it.
+- **Why deferred.** The workflow plumbing exists; the harness is the missing piece. Safe to ship before Phase 5 exit.
+
+---
+
+## 2026-05-19 — Phase 4 exit (external reviewer pass)
+
+### FU-14. Truncated source hashes + cluster-path source entry
+
+- **Severity.** should (before Phase 6 nightly citation-chain integrity check)
+- **Surfaced while.** external reviewer pass 2026-05-19 — reading wiki page frontmatter.
+- **Problem.** ~15% of `sources[*].hash` fields are truncated (8–20 chars vs 64-char SHA256). One page (`baculovirus-expression.md`) has a cluster-level `sources.path = raw/onedrive/baculovirus-cluster` rather than a leaf manifest key. Both break the citation chain that `raw_fallback.search` uses.
+- **What "done" looks like.** All `sources.hash` fields are 64-char SHA256. `baculovirus-expression.md`'s source is broken out to individual manifest entries. `jojo-compile verify --fix-hashes` runs clean.
+- **Where to start.** `jojo_compile/verify.py` — walk `ask_jojo_wiki/`, parse frontmatter, for each `sources[*]` entry look up path in `manifest.json`, compare and replace hash.
+- **Why deferred.** Does not affect content accuracy or Phase 4 retrieval. Safe to do before Phase 6 citation-chain lint check.
+
+### FU-13. Wikilink format in `related` field — `[[Title]]` → `[[slug|Title]]`
+
+- **Severity.** should (before next `_graph.json` rebuild at scale)
+- **Surfaced while.** external reviewer pass 2026-05-19 — ~80% of reviewed pages had this issue.
+- **Problem.** Most wiki pages use bare-title wikilinks in `related:` YAML list (e.g., `"[[Delphi]]"`) rather than `[[slug|Title]]` per SCHEMA.md §3. The graph builder cannot resolve bare-title links to graph nodes; the next `_graph.json` rebuild will produce "unresolved wikilink" warnings for these edges.
+- **What "done" looks like.** All `related:` entries in non-derived pages use `[[slug|Title]]` format. `jojo-graph rebuild` runs without unresolved-wikilink warnings.
+- **Where to start.** New `scripts/fix_related_wikilinks.py`: load slug-to-title map from `_index.md`, walk all `.md` files in `ask_jojo_wiki/`, parse `related:` YAML, resolve each title to its slug, rewrite. One pass, ~30 minutes of scripting.
+- **Why deferred.** Does not affect Phase 4 slug-index-first retrieval. Graph will still build (with unresolved edges silently skipped). Safe to fix before Phase 6.
+
+---
+
 ## 2026-04-30 — Phase 4
 
-### FU-11. Source backfill on the 13 frontmatter-backfilled needs-review pages
+### FU-11. Source backfill on the 13 frontmatter-backfilled needs-review pages  — **RESOLVED 2026-05-19**
+
+Zero edits made per the flag-don't-fabricate rule (GOAL_PROMPT.md §Constraints): no page body contained inline raw citations that could be resolved to `manifest.json` entries without fabricating source paths. Pages retain `confidence: low` and `sources: [pending-backfill-from-raw]`; the retrieval scorer correctly deprioritizes them. Resolution: the flag-don't-fabricate rule is the correct policy here — this FU is closed as "won't backfill from prose alone." When API key lands, `jojo-compile absorb --migrate-frontmatter` can re-derive sources from the raw corpus.
 
 - **Severity.** must (before Phase 4 Q&A starts citing these pages with confidence > low)
 - **Surfaced while.** auditing `_needs_review.md` ahead of Phase 4 deterministic plumbing. 13 pages predated the post-batch-24-cbl checkpoint and were missing required frontmatter fields (`title`, `slug`, `created`, `last_updated`, `last_reviewed`, `sources`). The 2026-04-30 backfill (this session) added all of those fields with placeholder values; the `sources:` field has a single `pending-backfill-from-raw` entry instead of the real raw paths.
@@ -17,7 +70,9 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 - **Where to start.** The 13 pages are listed in `_needs_review.md` under "Source backfill pending." Each is small (median ~30 lines of body prose); the work is a focused 30-minute Cowork session per page or one consolidated batch session against the 13 pages. The compile pipeline can also do this once the API key lands by running an absorb pass with `--migrate-frontmatter` against just these pages.
 - **Why deferred.** Frontmatter shape is now valid (constitutional violation cleared); Phase 4 plumbing can ship without resolving this. Acceptable for the first ~10–20 Cowork Q&A sessions, since the deterministic retrieval will deprioritize `confidence: low` pages anyway.
 
-### FU-12. Pellino-1 slug collision (program vs target page share `slug: pellino-1`)
+### FU-12. Pellino-1 slug collision (program vs target page share `slug: pellino-1`)  — **RESOLVED 2026-05-19**
+
+`targets/pellino-1.md` renamed to `pellino-1-target` slug; `_index.md` entry and `benchmark-questions.md` q-002 and gold answer `2026-04-30-pellino-1-peli2-redundancy.md` all updated. Convention now consistent with `cbl-b` / `cbl-b-target`.
 
 - **Severity.** should
 - **Surfaced while.** smoke-testing `index_loader.load_index` against the real wiki on 2026-04-30. Two pages share the same slug `pellino-1`: `programs/pellino-1.md` (program) and `targets/pellino-1.md` (target). `index_by_slug`'s last-write-wins behavior means one page silently shadows the other in any retrieval call that goes through the slug -> entry dict.
@@ -121,7 +176,9 @@ Wrapper-level lock added in 2026-04-24's `Run-ScheduledSync.ps1` rewrite (PID-st
 - **Where to start.** New `packages/jojo_core/singleton.py` as a context manager; `jojo_ingest.cli` wraps each `sync` command in it. One new test per platform.
 - **Why deferred.** Nice hygiene; not yet seen to cause actual corruption.
 
-### FU-3. Path B — MSAL device-code token provider
+### FU-3. Path B — MSAL device-code token provider  — **RESOLVED 2026-05-19**
+
+`msal_device_code_provider()` shipped in `packages/jojo_ingest/graph.py` with DPAPI-encrypted token cache at `%APPDATA%\JojoBot\tokencache.bin` (Phase 4 round-2 backend delegation). `auth` CLI subcommand added to `packages/jojo_qa/cli.py`. 5 unit tests in `test_msal_auth.py` passing. Path B checkbox in Phase 1 deliverables checklist marked done.
 
 - **Severity.** must (for fully unattended SharePoint scheduled runs)
 - **Surfaced in.** ADR 0007.
