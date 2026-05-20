@@ -77,6 +77,10 @@ ehthumbs.db
 # Optional: keep project-wide .claude settings tracked, but not personal overrides
 .claude/settings.local.json
 
+# Raw corpus directory — ADR 0006 privacy invariant: never commit raw content to ask_jojo
+# This directory is a sibling repo checkout that may also appear as a nested path
+ask_jojo_raw/
+
 # Validation run artifacts — may contain PS file names (ADR 0006)
 ops/validation/reports/*.md
 ops/validation/reports/*.log

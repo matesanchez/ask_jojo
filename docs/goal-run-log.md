@@ -34,6 +34,60 @@ Read all four source-of-truth docs: README.md, PLAN.md, v2_status.md, follow-ups
 
 ## Delegation log
 
+### 2026-05-19 — Round 11 (Phase 7b exit closure + Phase 8 start)
+
+**Phase 7b exit gate:**
+- `v2_status.md` Phase 7b deliverables checklist corrected from stale server-based items to ADR-0013 standalone installer items (12 deliverables, 11 checked, 1 in-progress at time of writing).
+- `/welcome/page.tsx` upgraded from static 42-line component to 208-line live component: polls `/api/ops/status` every 10 s, renders per-section status checklist, redirects to `/` when all five sections green.
+- `docs/phase-7b-exit-evidence.md` created (93 lines).
+- `docs/reviews/2026-05-19-phase-7b-review.md`: Reviewer PASS 12/12 items, 0 blockers.
+- `v2_status.md`: Phase 7b flipped 🟡→🟢 (2026-05-19). Phase 8 activated 🟡.
+
+**Phase 8 delegations starting (see below).**
+
+### 2026-05-20 — Round 12 (Phase 8 exit closure + stress tests + audits)
+
+**Phase 8 exit gate:**
+- `packages/jojo_finetune/` shipped (dataset.py, train.py, eval.py, cli.py). 30 tests, all passing.
+- `data/finetune/v1.jsonl` — 50-example seed; `data/finetune/benchmark.jsonl` — 10 dry-run Q&A pairs.
+- ADR 0014 (fine-tune strategy) + `docs/ops/offline-model.md` + workspace README section written.
+- Reviewer PASS 12/12 (`docs/reviews/2026-05-20-phase-8-review.md`).
+- `v2_status.md`: Phase 8 flipped 🟡→🟢 (2026-05-20).
+
+**Stress tests:**
+- Lint regression: PASS — 6/6 checks, exit 0; 9 broken-wikilink WARN findings (pre-existing FU-13/FU-19). Baseline saved to `docs/lint-baseline-2026-05-20.json`.
+- Graph rebuild stress: PASS — 10/10 runs idempotent (148 nodes, 272 edges, SHA256 identical).
+- Backend load test: PROCEDURE DOCUMENTED — server starts OK; `/api/raw/tree` has 1.8 s p95 at low concurrency (needs caching; filed as FU-22). Load test script at `src/backend/tests/test_load.py`.
+- Ingest stress: PROCEDURE DOCUMENTED — requires OneDrive/SharePoint.
+- Frontend route smoke: PROCEDURE DOCUMENTED — Playwright spec at `src/frontend/tests/e2e/smoke.spec.ts`; requires browser on workstation.
+- Full report: `docs/stress-test-report.md`.
+
+**Audits:**
+- ADR audit: CLEAN — all 15 ADRs have Status fields; 0012/0013/0014 cover 2026-05-19 decisions.
+- Wiki compliance: FAIL → FIXED — 2 corpus enum violations (`irak4`, `cbl-b` used `del-screen-team`); retagged to `protein-sciences`; filed FU-20 (source-path normalization) + FU-21 (hash normalization). Report: `docs/wiki-compliance-audit.md`.
+- Privacy audit: PASS (post-fix) — `ask_jojo_raw/` added to `ask_jojo/.gitignore`; both repos confirmed PRIVATE on GitHub; no raw content in wiki pages or logs. Report: `docs/privacy-audit.md`.
+- Security audit: 6 medium CVEs (idna, pip, python-multipart, urllib3) — no high/critical. No real credentials in git history. Report: `docs/security-audit.md`.
+- License audit: ATTENTION — pymupdf (AGPL-3.0) + html2text (GPL-3.0) flagged for Legal review for distribution scenarios. Report: `docs/license-inventory.md`.
+
+---
+
+### 2026-05-19 — Round 10 (Phase 7b execution start)
+
+**Decision recorded: Settings API contract.** Two versions existed:
+- `docs/phase-7b-settings-tab-spec.md` — per-section endpoints (the detailed implementation spec, authored 2026-05-19)
+- GOAL_PROMPT.md §Constraints #3 — aggregated shape (`GET/PUT /api/settings`, `POST /api/settings/test-connection`, `POST /api/settings/device-code-login`)
+
+**Decision:** use `docs/phase-7b-settings-tab-spec.md` as the authoritative contract. It is more detailed and was written specifically as the implementation guide. The GOAL_PROMPT summary was a high-level shorthand; the spec is the deliverable.
+
+**Config dir confirmed:** `%APPDATA%\JojoBot\` (`packages/jojo_core/config.py:118`) — not `%LOCALAPPDATA%`. No change needed.
+
+**SDK wiring scope clarified:** `synthesize._call_model` is the only Phase 7b stub needing live Anthropic SDK. Weekly lint checks (`contradiction_check`, etc.) are already tagged "Phase 8 stub" in their source — they return `pass` with deterministic candidates when an API key is present; the LLM pass is intentionally deferred to Phase 8.
+
+**Phase 7b agents launched (parallel):**
+- Backend agent → `settings_router.py` + `synthesize._call_model` live + `anthropic>=0.40` in pyproject.toml
+- Frontend agent → `/settings` tab (5 sections) + `/welcome` first-run route
+- Installer agent → `Build-JojoBotRelease.ps1` + `Uninstall-JojoBot.ps1` + NSSM service + `docs/ops/distribution.md`
+
 ### 2026-05-19 — Round 9 (Phase 7a exit closure)
 
 **Tasks completed:**

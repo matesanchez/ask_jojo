@@ -28,13 +28,13 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | 0 | Preparation and Scaffolding | 🟢 | 1–2 wk | 2026-04-22 | 2026-04-22 |
 | 1 | Source Ingestion (`ask_jojo_raw/`) | 🟢 | 3–5 wk | 2026-04-22 | 2026-04-23 |
 | 2 | Wiki Compile (raw → `ask_jojo_wiki/`) | 🟢 | 6–8 wk | 2026-04-23 | 2026-04-30 |
-| 3 | JoJo Bot IDE Tabs (Wiki / Raw / Ops) | 🟡 | 4–6 wk (parallel w/ 2) | 2026-04-30 | — |
+| 3 | JoJo Bot IDE Tabs (Wiki / Raw / Ops) | 🟢 | 4–6 wk (parallel w/ 2) | 2026-04-30 | 2026-04-30 |
 | 4 | Q&A over the Wiki + query router | 🟢 | 3–4 wk | 2026-04-30 | 2026-05-19 |
 | 5 | Rich Outputs (Marp, matplotlib, docx/pptx/pdf) | 🟢 | 3–4 wk | 2026-04-30 | 2026-05-19 |
 | 6 | Wiki Linting + Self-Maintenance | 🟢 | 3–4 wk | 2026-05-19 | 2026-05-19 |
 | 7a | Graph Tab (graphify integration) | 🟢 | 1–2 wk | 2026-05-19 | 2026-05-19 |
-| 7b | Shared Nurix-Internal Server | ⚫ post-MVP | 3–5 wk | — | — |
-| 8 | Backlog (synthetic data, fine-tune, etc.) | ⚫ post-MVP | — | — | — |
+| 7b | Standalone Workstation Installer | 🟢 | 3–5 wk | 2026-05-19 | 2026-05-19 |
+| 8 | Fine-tune Pipeline | 🟢 | — | 2026-05-19 | 2026-05-20 |
 
 ---
 
@@ -301,27 +301,53 @@ What remains: (a) plotly HTML-fragment renderer (1 day), (b) Chat tab "File this
 
 ---
 
-## Phase 7b — Shared Server · ⚫ post-MVP
+## Phase 7b — Standalone Workstation Installer · 🟢 Done (2026-05-19)
 
-**Exit criterion.** `jojo_server` on a Nurix-internal VM hosts authoritative `ask_jojo_raw/` + `ask_jojo_wiki/`; Azure AD / Nurix SSO gates every API call; per-article ACLs inherited from source-system permissions.
+**Redefined 2026-05-19.** Original plan (shared internal server) superseded by ADR 0013: Phase 7b = standalone Windows installer per department workstation.
+
+**Exit criterion.** A `.zip` artifact produced by `Build-JojoBotRelease.ps1` contains frozen Python + pre-built Next.js + `Install-JojoBot.ps1` + NSSM service wrapper. `Install-JojoBot.ps1` runs on a clean Windows workstation, registers a Windows Service, and opens the browser to `/welcome`. Settings tab (5 sections) allows runtime configuration without PowerShell. `synthesize._call_model` makes a live Anthropic SDK call when key is configured.
 
 ### Deliverables checklist
 
-- [ ] `jojo_server` service on internal VM
-- [ ] Azure AD / Nurix SSO integration
-- [ ] Per-user scope checks on ingest (no one sees SharePoint content they can't already read)
-- [ ] Migration path from local mode
-- [ ] Finer-grained ACLs (beyond all-FTE) gated on IT/Legal review
+- [x] `Build-JojoBotRelease.ps1` — builds self-contained `.zip` (frozen Python + Next.js static export + NSSM wrapper)
+- [x] `Install-JojoBot.ps1` — registers Windows Service, opens browser to `/welcome`
+- [x] `Install-Service.ps1` + NSSM service wrapper with automatic restart
+- [x] `Uninstall-JojoBot.ps1` — stops/removes service; `–Purge` wipes config + data
+- [x] Per-install isolation — config at `%APPDATA%\JojoBot\config.json` (DPAPI-encrypted), localhost-only binding by default
+- [x] Settings tab (5 sections) — Anthropic key, model tier, MS Graph auth (device-code + paste), connector paths, lint cadence
+- [x] `/api/settings/*` backend (20 tests passing) — settings_router.py fully wired
+- [x] `synthesize._call_model` live Anthropic SDK call with key from config
+- [x] `/welcome` page — polls `/api/ops/status` every 10 s, renders per-section status checklist, auto-hides when all sections green
+- [x] `docs/ops/distribution.md` — department workstation install guide
+- [x] ADR 0013 — standalone workstation installer decision recorded
 
 ### Notes
 
-_None yet._
+**2026-05-19 — Phase 7b exit criterion met.** Standalone workstation installer ships: `Build-JojoBotRelease.ps1` (789 lines, pure ASCII) builds a self-contained `.zip` with frozen Python + Next.js static export + NSSM service wrapper. `Install-JojoBot.ps1` registers the `JojoBot` Windows Service (NSSM primary, sc.exe fallback; 10 s / 30 s restart backoff) and opens `http://localhost:8765/welcome`. Settings tab (5 sections, 368-line router, 20 tests PASS) allows runtime configuration without PowerShell. `synthesize._call_model` (line 280) makes live Anthropic SDK calls via `anthropic.Anthropic(api_key=...)`. Reviewer PASS 12/12 items, 0 blockers (`docs/reviews/2026-05-19-phase-7b-review.md`). Exit evidence at `docs/phase-7b-exit-evidence.md`.
 
 ---
 
-## Phase 8 — Backlog · ⚫ post-MVP
+## Phase 8 — Fine-tune Pipeline · 🟢 Done (2026-05-20)
 
-Parking lot for synthetic-data pipelines, fine-tune experiments, and other ideas that don't fit earlier phases. See §6 Phase 8 in `PLAN.md`.
+Synthetic-data generation, fine-tune training pipeline, and eval harness. See §6 Phase 8 in `PLAN.md`.
+
+### Deliverables checklist
+
+- [x] `packages/jojo_finetune/` — new package (dataset.py, train.py, eval.py, cli.py)
+- [x] `packages/jojo_finetune/dataset.py` — walk_wiki, generate_dataset (dry-run + live), 3 example types, GENERATION_PROMPTS constants
+- [x] `packages/jojo_finetune/train.py` — `FineTuneBackend` ABC, `DryRunBackend`, `BedrockBackend`, `HuggingFaceBackend`, `get_backend`
+- [x] `packages/jojo_finetune/eval.py` — `run_eval`, `score_pair` (word-overlap F1), `SynthesisBackend` (calls live `synthesize.answer()`), `EvalReport`
+- [x] CLI `jojo-finetune generate-dataset|train|eval` — wired into pyproject.toml
+- [x] `data/finetune/v1.jsonl` — 50-example seed (17 paraphrase, 17 fill_blank, 16 synthesis; all citations verified against _index.md)
+- [x] `data/finetune/benchmark.jsonl` — 10 dry-run Q&A pairs (replace with Phase 4 gold answers before real eval run)
+- [x] 30 new tests — all passing (`tests/jojo_finetune/`)
+- [x] `docs/ADR/0014-finetune-strategy.md` — synthetic-data risks, guardrails, trigger criteria, Bedrock + HF backends
+- [x] `docs/ops/offline-model.md` — air-gapped deployment guide (vllm / llama.cpp, model recommendations, synthesis_endpoint swap)
+- [x] `README.md` (workspace) — "Offline / air-gapped deployment" section added
+
+### Notes
+
+**2026-05-20 — Phase 8 exit criterion met.** `packages/jojo_finetune/` ships: `dataset.py` (walk_wiki, generate_dataset, dry-run generators, GENERATION_PROMPTS, citation guardrail), `train.py` (FineTuneBackend ABC, DryRunBackend, BedrockBackend, HuggingFaceBackend; heavy deps lazy-imported), `eval.py` (run_eval, score_pair word-overlap F1, SynthesisBackend calling live synthesize.answer()), `cli.py` (jojo-finetune generate-dataset / train / eval). 50-example seed dataset at `data/finetune/v1.jsonl` (citations verified against _index.md). ADR 0014 (fine-tune strategy, synthetic-data risks, guardrails) and `docs/ops/offline-model.md` (enable-when-ready guide) written. Workspace README offline section added. Reviewer PASS 12/12 items (`docs/reviews/2026-05-20-phase-8-review.md`). 30/30 tests green.
 
 ---
 
@@ -376,3 +402,7 @@ Non-trivial edits to this file. The frozen ADR (`docs/ADR/0000-v2-roadmap.md`) i
 | 2026-05-19 | Phase 5 exit criterion met and flipped 🟡 → 🟢. Reviewer pass in `docs/reviews/2026-05-19-phase-5-review.md` — PASS 11/11. FU-18 filed (POSIX sandbox import warning on Windows). Phase Summary table Phase 5 row updated to 🟢 with exit date 2026-05-19. Snapshot current phase updated to Phase 6. Phase 6 active. | Claude (goal run) |
 | 2026-05-19 | Phase 7a exit criterion met and flipped 🟡 → 🟢. Brain view (BrainView.tsx, 892 lines), graph node enrichment (summary/corpus, schema 0.2.0), token benchmark re-run (12.7×–36.7× @ 148 pages). Reviewer PASS 15/15 in `docs/reviews/2026-05-19-phase-7a-review.md`. Phase 7b now active. | Claude (goal run) |
 | 2026-05-19 | Phase 6 exit criterion met and flipped 🟡 → 🟢. Two-pass reviewer audit in `docs/reviews/2026-05-19-phase-6-review.md` — PASS 15/15. B1 (LintMetrics.tsx API mismatch) fixed in e59e113; criterion #8 test gap fixed in 44daff5. 14-run exit gate passed. Wiki content debt resolved: 148 pages indexed, wikilinks cleaned, FU-19 closed (27→9 broken links). Snapshot updated to Phase 7a (active). | Claude (goal run) |
+| 2026-05-19 | Phase 7b opened. Redefined as standalone workstation installer (ADR 0013). Settings API contract resolved: `docs/phase-7b-settings-tab-spec.md` per-section endpoints are authoritative. Three parallel agents launched: backend (settings_router + live SDK), frontend (settings tab + /welcome), installer (Build-JojoBotRelease.ps1 + NSSM + distribution.md). Phase 7b flipped ⚫ → 🟡. | Claude (goal run) |
+| 2026-05-19 | Phase 7b exit criterion met and flipped 🟡 → 🟢. Installer zip: Build-JojoBotRelease.ps1 (789 lines, pure ASCII), NSSM service, DPAPI config. Settings tab 5 sections (20 tests). synthesize._call_model live Anthropic SDK. /welcome polls /api/ops/status. Distribution guide written. Reviewer PASS 12/12 (`docs/reviews/2026-05-19-phase-7b-review.md`). | Claude (goal run) |
+| 2026-05-20 | Phase 8 exit criterion met and flipped 🟡 → 🟢. jojo_finetune package (dataset.py, train.py, eval.py, cli.py), 50-example seed v1.jsonl, ADR 0014 (Accepted), offline-model.md, workspace README section. 30 tests green. Reviewer PASS 12/12 (`docs/reviews/2026-05-20-phase-8-review.md`). | Claude (goal run) |
+| 2026-05-20 | Pre-release audits + stress tests. Lint regression PASS; graph rebuild PASS (10/10 idempotent). Privacy finding fixed: ask_jojo_raw/ added to .gitignore (ADR 0006 invariant). Wiki compliance fixed: irak4 + cbl-b corpus retagged del-screen-team → protein-sciences. FU-20, FU-21, FU-22 filed. Reports: docs/stress-test-report.md, docs/security-audit.md, docs/wiki-compliance-audit.md, docs/privacy-audit.md, docs/license-inventory.md. | Claude (goal run) |

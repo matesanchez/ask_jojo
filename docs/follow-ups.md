@@ -6,6 +6,46 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ---
 
+## 2026-05-20 — Pre-release audits
+
+### FU-23. pymupdf (AGPL-3.0) + html2text (GPL-3.0) — Legal review required before distribution — **OPEN**
+
+**Severity:** must (before any binary distribution of the installer to end-user workstations).
+**Surfaced:** License inventory audit (2026-05-20) — `docs/license-inventory.md` flagged two dependencies with copyleft licenses incompatible with proprietary distribution.
+
+- **pymupdf** (AGPL-3.0): Used in `packages/jojo_ingest/` for PDF text extraction. AGPL requires source disclosure for any networked use; distributing the Windows installer containing pymupdf without source release or a commercial license from Artifex may create a compliance exposure.
+- **html2text** (GPL-3.0): Used in `packages/jojo_ingest/` for HTML-to-Markdown conversion. GPL-3.0 requires any combined work to also be GPL-licensed, which conflicts with Nurix's proprietary codebase. MIT-licensed replacement `markdownify` has been identified as a drop-in.
+
+**Exit condition (two paths):**
+1. **(Preferred)** Replace `html2text` with `markdownify` (MIT). For `pymupdf`, either obtain an Artifex commercial license or replace with `pypdf` (MIT/BSD) — note that `pypdf` has weaker table extraction than pymupdf. Get Legal sign-off on the final dependency list before shipping an installer build.
+2. **(Alternative)** Legal confirms in writing that internal-only distribution to Nurix workstations (never shipped to customers or distributed externally) falls within acceptable use. Update `license-inventory.md` with that confirmation.
+
+---
+
+### FU-22. `/api/raw/tree` p95 latency ~1.8 s — **OPEN**
+
+**Severity:** should (blocking for production load-test SLA of 500 ms p95).
+**Surfaced:** Stress test (2026-05-20) — async load test showed `GET /api/raw/tree` consistently takes 1.8 s p95 at low concurrency because it walks all 15,473 raw-repo entries on every call.
+**Exit condition:** Add a 30–60 s TTL cache on the raw tree response (or paginate) so p95 falls below 500 ms under 100 concurrent users.
+
+---
+
+### FU-21. Hash field normalization — full SHA256 (64 hex) required — **OPEN**
+
+**Severity:** should.
+**Surfaced:** Wiki compliance audit (2026-05-20) — multiple pages use truncated 16-hex or 8-hex hash values in `sources:` frontmatter. SCHEMA.md §3 specifies full SHA256.
+**Exit condition:** Re-run absorb on affected pages or write a migration script to backfill full-length hashes. Update lint pipeline to enforce 64-hex on new pages.
+
+---
+
+### FU-20. Source path normalization — use `raw/...` form consistently — **OPEN**
+
+**Severity:** should.
+**Surfaced:** Wiki compliance audit (2026-05-20) — some pages use `ask_jojo_raw/publicdrive/...` (workspace-relative) while SCHEMA.md §3 shows `raw/onedrive/...`, `raw/publicdrive/...`.
+**Exit condition:** Choose one canonical form, add a lint check for it, backfill the 15+ affected pages.
+
+---
+
 ## 2026-05-19 — Phase 6 execution (lint surfaced wiki debt)
 
 ### FU-19. 9 wikilinks reference genuinely missing wiki pages — **PARTIALLY RESOLVED 2026-05-19**

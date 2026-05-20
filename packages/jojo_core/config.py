@@ -56,6 +56,10 @@ KEY_LINT_WEEKLY_DAY = "lint_weekly_day"
 KEY_LINT_WEEKLY_TIME = "lint_weekly_time"
 KEY_LINT_NIGHTLY_ENABLED = "lint_nightly_enabled"
 KEY_LINT_WEEKLY_ENABLED = "lint_weekly_enabled"
+KEY_FINETUNE_WIKI_ROOT = "finetune_wiki_root"
+KEY_FINETUNE_DATASET_PATH = "finetune_dataset_path"
+KEY_FINETUNE_BENCHMARK_PATH = "finetune_benchmark_path"
+KEY_FINETUNE_BACKEND = "finetune_backend"
 
 ENV_MAP: dict[str, str] = {
     KEY_ANTHROPIC_API_KEY:  "ANTHROPIC_API_KEY",
@@ -74,8 +78,12 @@ ENV_MAP: dict[str, str] = {
     KEY_LINT_NIGHTLY_TIME:   "JOJO_LINT_NIGHTLY_TIME",
     KEY_LINT_WEEKLY_DAY:     "JOJO_LINT_WEEKLY_DAY",
     KEY_LINT_WEEKLY_TIME:    "JOJO_LINT_WEEKLY_TIME",
-    KEY_LINT_NIGHTLY_ENABLED: "JOJO_LINT_NIGHTLY_ENABLED",
-    KEY_LINT_WEEKLY_ENABLED:  "JOJO_LINT_WEEKLY_ENABLED",
+    KEY_LINT_NIGHTLY_ENABLED:   "JOJO_LINT_NIGHTLY_ENABLED",
+    KEY_LINT_WEEKLY_ENABLED:    "JOJO_LINT_WEEKLY_ENABLED",
+    KEY_FINETUNE_WIKI_ROOT:     "JOJO_FINETUNE_WIKI_ROOT",
+    KEY_FINETUNE_DATASET_PATH:  "JOJO_FINETUNE_DATASET_PATH",
+    KEY_FINETUNE_BENCHMARK_PATH: "JOJO_FINETUNE_BENCHMARK_PATH",
+    KEY_FINETUNE_BACKEND:       "JOJO_FINETUNE_BACKEND",
 }
 
 # Which keys carry real secrets vs. operational config. Used to mask
@@ -101,6 +109,7 @@ DEFAULTS: dict[str, str] = {
     KEY_LINT_WEEKLY_TIME:     "04:00",
     KEY_LINT_NIGHTLY_ENABLED: "true",
     KEY_LINT_WEEKLY_ENABLED:  "true",
+    KEY_FINETUNE_BACKEND:     "dry-run",
 }
 
 # File-format version. Bump when changing the envelope schema (not the

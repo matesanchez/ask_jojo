@@ -72,6 +72,14 @@ qa = [
 lint = [
     "pyyaml>=6.0",
 ]
+# Fine-tune tier (Phase 8) — dataset generation, Bedrock/HF training, eval harness.
+finetune = [
+    "boto3>=1.26",
+    "peft>=0.10",
+    "transformers>=4.40",
+    "trl>=0.8",
+    "datasets>=2.18",
+]
 # Rich-output tier (Phase 5) — matplotlib sandbox + docx/pptx/pdf renderers.
 # All deterministic; no model dependency. The matplotlib subprocess
 # enforces resource limits (30 s CPU, 512 MB RAM) per
@@ -97,6 +105,7 @@ jojo-qa       = "jojo_qa.cli:main"
 jojo-output   = "jojo_output.cli:main"
 jojo-lint     = "jojo_lint.cli:main"
 jojo-graph    = "jojo_graph.cli:main"
+jojo-finetune = "jojo_finetune.cli:main"
 
 [tool.hatch.build.targets.wheel]
 packages = [
@@ -108,6 +117,7 @@ packages = [
     "packages/jojo_output",
     "packages/jojo_lint",
     "packages/jojo_graph",
+    "packages/jojo_finetune",
 ]
 
 [tool.ruff]

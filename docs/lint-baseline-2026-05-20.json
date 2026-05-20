@@ -1,0 +1,112 @@
+{
+  "run_at": "2026-05-20T07:11:35+00:00",
+  "scope": "nightly",
+  "wiki_root": "C:\\Users\\mdelosrios\\Claude_Local\\jojo_bot_v2.0\\ask_jojo_wiki",
+  "tool": "jojo-lint nightly",
+  "command": "python -m jojo_lint.cli nightly --wiki C:/Users/mdelosrios/Claude_Local/jojo_bot_v2.0/ask_jojo_wiki",
+  "overall_result": "OK",
+  "exit_code": 0,
+  "checks": [
+    {
+      "check_name": "schema",
+      "status": "pass",
+      "findings": [],
+      "run_at": "2026-05-20T07:11:35.676793+00:00",
+      "duration_ms": 421
+    },
+    {
+      "check_name": "orphan",
+      "status": "pass",
+      "findings": [],
+      "run_at": "2026-05-20T07:11:36.645231+00:00",
+      "duration_ms": 469
+    },
+    {
+      "check_name": "stub",
+      "status": "pass",
+      "findings": [],
+      "run_at": "2026-05-20T07:11:37.587434+00:00",
+      "duration_ms": 443
+    },
+    {
+      "check_name": "wikilink",
+      "status": "warn",
+      "findings": [
+        {
+          "slug": "loka-ml-engagement",
+          "message": "broken wikilink: [[Machine Learning Automation]]",
+          "severity": "error"
+        },
+        {
+          "slug": "laboratory-instruments",
+          "message": "broken wikilink: [[AKTA Chromatography Systems]]",
+          "severity": "error"
+        },
+        {
+          "slug": "laboratory-instruments",
+          "message": "broken wikilink: [[Thermal Shift Analyzer (Tycho)]]",
+          "severity": "error"
+        },
+        {
+          "slug": "cell-screening",
+          "message": "broken wikilink: [[Protein Degradation Assays]]",
+          "severity": "error"
+        },
+        {
+          "slug": "cell-screening",
+          "message": "broken wikilink: [[Echo Liquid Handler]]",
+          "severity": "error"
+        },
+        {
+          "slug": "cell-screening",
+          "message": "broken wikilink: [[Activity Base LIMS]]",
+          "severity": "error"
+        },
+        {
+          "slug": "protein-quality-control",
+          "message": "broken wikilink: [[Thermal Stability Assessment]]",
+          "severity": "error"
+        },
+        {
+          "slug": "protein-sciences-sops",
+          "message": "broken wikilink: [[Thermal Stability Assessment]]",
+          "severity": "error"
+        },
+        {
+          "slug": "fermentation-request",
+          "message": "broken wikilink: [[Large-Scale Expression Planning]]",
+          "severity": "error"
+        }
+      ],
+      "run_at": "2026-05-20T07:11:38.590734+00:00",
+      "duration_ms": 444
+    },
+    {
+      "check_name": "bloat",
+      "status": "pass",
+      "findings": [],
+      "run_at": "2026-05-20T07:11:39.612234+00:00",
+      "duration_ms": 486
+    },
+    {
+      "check_name": "quote_budget",
+      "status": "pass",
+      "findings": [],
+      "run_at": "2026-05-20T07:11:40.632134+00:00",
+      "duration_ms": 417
+    }
+  ],
+  "summary": {
+    "total_checks": 6,
+    "pass": 5,
+    "warn": 1,
+    "fail": 0,
+    "total_findings": 9,
+    "finding_severity_breakdown": {
+      "error": 9,
+      "warn": 0,
+      "info": 0
+    },
+    "note": "wikilink check status is 'warn' (not 'fail') — broken wikilinks are findings but do not cause lint failure. These represent 9 pages referencing stubs not yet created."
+  }
+}

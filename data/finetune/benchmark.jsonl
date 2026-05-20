@@ -1,0 +1,10 @@
+{"id": "bq-001", "question": "What is CBL-B?", "answer": "CBL-B is an E3 ubiquitin ligase that negatively regulates T cell activation and is a therapeutic target at Nurix."}
+{"id": "bq-002", "question": "What is the DEL screening program?", "answer": "DEL screening is a DNA-encoded library screening method used at Nurix to identify small molecule binders for target proteins."}
+{"id": "bq-003", "question": "What does JoJo Bot do?", "answer": "JoJo Bot is an internal knowledge assistant for Nurix Therapeutics that answers questions from the compiled wiki."}
+{"id": "bq-004", "question": "What is SIAH1?", "answer": "SIAH1 is an E3 ubiquitin ligase involved in protein degradation and a potential oncology target."}
+{"id": "bq-005", "question": "What is the wiki index?", "answer": "The wiki index is the catalog file _index.md that lists all pages in the ask_jojo_wiki by slug, title, and path."}
+{"id": "bq-006", "question": "What is the Q&A retrieval bundle?", "answer": "The retrieval bundle is the set of wiki pages and raw source hits assembled to answer a question, used for Cowork handoff."}
+{"id": "bq-007", "question": "What is Phase 8 of JoJo Bot?", "answer": "Phase 8 is the fine-tune dataset generation, training pipeline, and evaluation harness implemented in jojo_finetune."}
+{"id": "bq-008", "question": "What is the default model tier?", "answer": "The default model tier is sonnet, corresponding to claude-sonnet-4-6."}
+{"id": "bq-009", "question": "What is DPAPI?", "answer": "DPAPI is the Windows Data Protection API used by jojo_core to encrypt config.json under the current user scope."}
+{"id": "bq-010", "question": "What is a FinetuneExample?", "answer": "A FinetuneExample is a typed training record with id, type, citation, input, output, and created_at fields written to JSONL."}
