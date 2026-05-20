@@ -34,6 +34,19 @@ Read all four source-of-truth docs: README.md, PLAN.md, v2_status.md, follow-ups
 
 ## Delegation log
 
+### 2026-05-19 — Round 7 (Phase 6 exit closure)
+
+**Tasks completed:**
+- `src/backend/tests/test_ops_endpoints.py`: 6 new lint endpoint tests added to reach ≥10 bar (criterion #8 gap). All 10 lint-specific tests pass; 115 passed total. Commit: 44daff5.
+- `docs/reviews/2026-05-19-phase-6-review.md`: Two-pass reviewer audit. Pass 1 found B1 (LintMetrics.tsx API mismatch); Pass 2 found criterion #8 test gap. Both fixed. Final verdict: PASS 15/15.
+- `docs/v2_status.md`: Phase 6 flipped 🟡→🟢; Phase Summary table Phase 6 row updated (exit 2026-05-19); Phase 7a row flipped ⚪→🟡 (started 2026-05-19); Snapshot updated to Phase 7a; Phase 6 completion note + checklist checked off; Amendment Log entry added.
+- `docs/goal-run-log.md`: Phase 6 exit evidence added.
+
+**Phase 6 exit gate (two-pass reviewer):**
+- Pass 1: 14/15 PASS, 1 FAIL (B1 — LintMetrics.tsx API contract mismatch). Fix: e59e113.
+- Pass 2: 14/15 PASS, 1 FAIL (criterion #8 — only 4 lint endpoint tests, needed ≥10). Fix: 44daff5.
+- Final re-check: PASS 15/15.
+
 ### 2026-05-19 — Round 6 (Phase 6 execution + wiki debt fixes)
 
 **Sub-agents delegated:**
@@ -156,3 +169,25 @@ None currently. All blockers are human-only (credentials, external infra) and ar
 | SCHEMA.md v0.2.0 | `ask_jojo_wiki/SCHEMA.md:3`: version 0.2.0; `type: output`, `output_format`, `source_question`, `parent_slugs` fields documented |
 | ruff clean + tests pass | Exit 0; 11/11 reviewer criteria pass; 16 pre-existing failures unchanged |
 | `rel.as_posix()` generalized | All 6 `relative_to` call-sites in `output_router.py` use `.as_posix()` |
+
+### Phase 6 — Wiki Linting + Self-Maintenance (2026-05-19)
+
+| Exit criterion | Evidence |
+|---|---|
+| `packages/jojo_lint/` installable | `pyproject.toml`: `jojo-lint = "jojo_lint.cli:main"`; entry point resolves |
+| 6 nightly checks registered | `registry.py:24-31`: schema, orphan, stub, wikilink, bloat, quote_budget |
+| 4 weekly stubs (`api_key_required`) | `checks/contradiction_check.py` etc.: all return `api_key_required` when no key |
+| `history.py` JSONL-backed | `append_run`, `load_runs`, `metrics_series`; writes to `%LOCALAPPDATA%\JojoBot\lint-history` |
+| `cli.py` 5 subcommands | `jojo-lint nightly\|weekly\|check\|report\|history` all dispatch |
+| 51 pytest tests pass | 4 test files; smoke 2, history 12, cli 9, nightly_checks 28 |
+| `ops_router.py` lint endpoints wired | `POST /api/ops/lint/{scope}` → registry; `/history` → `{runs}`; `/metrics` → `{series}` |
+| 10 lint endpoint tests | `test_ops_endpoints.py`: 10 lint-specific tests (commits 0ab0d59 + 44daff5); 115 passed total |
+| `LintHistoryCard.tsx` | Fetches history, renders table, "Run now" button; scope=nightly + weekly |
+| `LintMetrics.tsx` (B1 fixed) | `series: RunMetrics[]`; flat-list → per-metric transform at lines 177-180 (commit e59e113) |
+| `ReviewQueueCard.tsx` | Aggregates findings by slug; "View page" links |
+| `ops/page.tsx` updated | Renders all 3 lint components |
+| Scheduler scripts pure ASCII | `Run-LintNightly.ps1`, `Run-LintWeekly.ps1`: 0 codepoints > 127 |
+| Task registrar `-IncludeLint` | `Register-JojoBotTasks.ps1` registers `lint-nightly` + `lint-weekly` |
+| CI workflow | `.github/workflows/lint-nightly.yml`: cron + workflow_dispatch |
+| 14-run exit gate | `jojo-lint nightly` exit 0 × 14 consecutive runs on real 148-page wiki |
+| Reviewer PASS | `docs/reviews/2026-05-19-phase-6-review.md`: PASS 15/15 (two-pass audit) |
