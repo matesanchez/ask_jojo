@@ -279,3 +279,69 @@ None currently. All blockers are human-only (credentials, external infra) and ar
 | ruff + tsc clean | Exit 0; no errors |
 | Tests = baseline | 8 failures = 7 jojo_qa + 1 jojo_graph smoke (pre-existing) |
 | Reviewer PASS | `docs/reviews/2026-05-19-phase-7a-review.md`: PASS 15/15 |
+
+### Phase 7b — Standalone Workstation Installer (2026-05-19)
+
+| Exit criterion | Evidence |
+|---|---|
+| `Build-JojoBotRelease.ps1` produces distributable ZIP | Script at `ops/installer/Build-JojoBotRelease.ps1`; pure ASCII confirmed |
+| NSSM Windows service bundled | `Install-JojoBot.ps1` + `Uninstall-JojoBot.ps1` in `ops/installer/` |
+| `/welcome` polling page | `src/frontend/app/welcome/page.tsx`: 208 lines; polls `/api/ops/status` every 10s; redirects when all 5 sections green |
+| Settings tab live-wiring | `src/frontend/app/settings/page.tsx` + `/api/settings/*` endpoints: DPAPI config, MSAL auth, Anthropic key |
+| 20 settings tests pass | `tests/test_settings_endpoints.py`: 20/20 PASS; pre-existing 16 failures unchanged |
+| DPAPI config ADR 0009 | Implemented in `packages/jojo_core/config.py`; `SECRET_KEYS` list |
+| ADR 0013 (Phase 7b redefinition) | `docs/ADR/0013-standalone-installer.md`: Status Accepted |
+| Distribution guide | `docs/ops/distribution-guide.md` |
+| Reviewer PASS | `docs/reviews/2026-05-19-phase-7b-review.md`: PASS 12/12 |
+
+### Phase 8 — Fine-Tune Dataset + Pipeline + Eval (2026-05-20)
+
+| Exit criterion | Evidence |
+|---|---|
+| `packages/jojo_finetune/` installable | `pyproject.toml`: `jojo-finetune = "jojo_finetune.cli:main"`; 5 modules |
+| `dataset.py` with citation guardrail | `FinetuneExample.citation: list[str]`; every example traces to a wiki slug |
+| 3 example types implemented | paraphrase / fill_blank / synthesis in `GENERATION_PROMPTS` |
+| Dry-run generators (no API) | `_dry_paraphrase`, `_dry_fill_blank`, `_dry_synthesis` in `dataset.py` |
+| `train.py` 3 backends | `DryRunBackend`, `BedrockBackend` (boto3 lazy), `HuggingFaceBackend` (peft/trl lazy) |
+| `eval.py` F1 scorer + dry-run | `score_pair()` word-overlap F1; `SynthesisBackend` calls live `jojo_qa.synthesize.answer()` |
+| `data/finetune/v1.jsonl` (50 examples) | 17 paraphrase + 17 fill_blank + 16 synthesis; all citation-anchored to real slugs |
+| `data/finetune/benchmark.jsonl` (10 Q/A) | CI dry-run pairs; README notes to replace with Phase 4 gold answers before real eval |
+| ADR 0014 (fine-tune strategy) | `docs/ADR/0014-finetune-strategy.md`: Status Accepted; renumbering note included |
+| `docs/ops/offline-model.md` | LoRA / vllm / llama.cpp deployment guide; 30–50% accuracy trade-off documented |
+| 30 pytest tests pass | `tests/jojo_finetune/`: 6 dataset + 10 train + 14 eval; no `__init__.py` (avoids namespace shadow) |
+| `[finetune]` optional deps | `pyproject.toml`: boto3, peft, transformers, trl, datasets |
+| Reviewer PASS | `docs/reviews/2026-05-20-phase-8-review.md`: PASS 12/12 |
+
+### Pre-release audits (2026-05-20)
+
+| Audit | Verdict | Notes |
+|---|---|---|
+| Wiki compliance | PASS (post-fix) | 2 corpus-retag FAILs fixed in-session (`irak4`, `cbl-b` → `protein-sciences`) |
+| Privacy (ADR 0006) | PASS (post-fix) | Nested `ask_jojo_raw/` gitignore gap fixed; both repos confirmed PRIVATE |
+| Security | PASS | 6 medium CVEs (idna, pip ×2, python-multipart, urllib3 ×2); 0 high/critical |
+| License inventory | PASS (conditional) | AGPL/GPL attention items filed as FU-23; needs Legal review before distribution |
+| Stress — lint regression | PASS | 6 checks, 9 wikilink WARN only, exit 0 |
+| Stress — graph rebuild 10× | PASS | 10/10 idempotent — 148 nodes, 272 edges, SHA256 identical |
+| Stress — backend load test | RAN / SLA NOT MET | `/api/raw/tree` p95 ~1.8 s vs. 500 ms SLA — filed as FU-22 |
+
+---
+
+## Round 13 — Final review + tag (2026-05-20)
+
+**Final reviewer:** 8/8 items PASS (no blockers).
+
+**Commits:**
+- `ask_jojo` `11b97db` — Phase 7b+8 deliverables, pre-release audits (36 files, +4168/-18)
+- `ask_jojo_wiki` `3d36c2f` — corpus retag fix (irak4 + cbl-b)
+
+**Tags applied:**
+- `ask_jojo` → `v2.0.0`
+- `ask_jojo_wiki` → `wiki-2026-mvp`
+
+**Tracking issue:** matesanchez/ask_jojo#2 — opened and closed as completed.
+
+**Open follow-ups at tag:**
+- FU-22 — `/api/raw/tree` TTL cache (p95 SLA)
+- FU-23 — pymupdf AGPL-3.0 + html2text GPL-3.0 Legal review
+
+**Goal complete.** All phases 0–8 🟢. v2.0.0 tagged.
