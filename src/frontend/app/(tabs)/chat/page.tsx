@@ -478,58 +478,65 @@ function ChatTurnView(props: ChatTurnViewProps) {
   const { turn, showBundle, onToggleBundle, onFileBack, onFileOutput } = props;
   return (
     <div className={"chat-turn chat-turn-" + turn.status}>
-      <div className="chat-question">
-        <div className="chat-question-header">
-          <span className="chat-asked-at">{turn.asked_at}</span>
+      <div className="chat-q-row">
+        <div className="chat-avatar-user" aria-label="You">You</div>
+        <div className="chat-question">
+          <div className="chat-question-header">
+            <span className="chat-asked-at">{turn.asked_at}</span>
+            {turn.routeResponse && (
+              <span className={routeBadgeClass(turn.routeResponse.route)}>
+                {turn.routeResponse.route}
+              </span>
+            )}
+            {turn.formatResponse && (
+              <span
+                className="chat-format-badge"
+                title={turn.formatResponse.reason}
+              >
+                format: {turn.formatResponse.format}
+              </span>
+            )}
+            <span className="chat-depth-badge">depth: {turn.depth}</span>
+            {turn.routeHint && (
+              <span className="chat-hint-badge">hint: {turn.routeHint}</span>
+            )}
+            {turn.formatHint && turn.formatHint !== "auto" && (
+              <span className="chat-hint-badge">format-hint: {turn.formatHint}</span>
+            )}
+          </div>
+          <div className="chat-question-text">{turn.question}</div>
           {turn.routeResponse && (
-            <span className={routeBadgeClass(turn.routeResponse.route)}>
-              {turn.routeResponse.route}
-            </span>
-          )}
-          {turn.formatResponse && (
-            <span
-              className="chat-format-badge"
-              title={turn.formatResponse.reason}
-            >
-              format: {turn.formatResponse.format}
-            </span>
-          )}
-          <span className="chat-depth-badge">depth: {turn.depth}</span>
-          {turn.routeHint && (
-            <span className="chat-hint-badge">hint: {turn.routeHint}</span>
-          )}
-          {turn.formatHint && turn.formatHint !== "auto" && (
-            <span className="chat-hint-badge">format-hint: {turn.formatHint}</span>
+            <div className="chat-route-reason" title="Router reasoning">
+              <em>{turn.routeResponse.reason}</em>
+            </div>
           )}
         </div>
-        <div className="chat-question-text">{turn.question}</div>
-        {turn.routeResponse && (
-          <div className="chat-route-reason" title="Router reasoning">
-            <em>{turn.routeResponse.reason}</em>
-          </div>
-        )}
       </div>
 
-      <div className="chat-response">
-        {turn.status === "routing" && <RoutingState />}
-        {turn.status === "v1_handoff" && <V1Handoff turn={turn} />}
-        {turn.status === "api_key_required" && (
-          <ApiKeyRequired
-            turn={turn}
-            showBundle={showBundle}
-            onToggleBundle={onToggleBundle}
-          />
-        )}
-        {turn.status === "answered" && turn.answer && (
-          <AnsweredView
-            turn={turn}
-            onFileBack={onFileBack}
-            onFileOutput={onFileOutput}
-          />
-        )}
-        {turn.status === "error" && (
-          <div className="chat-error">{turn.error ?? "Unknown error"}</div>
-        )}
+      <div className="chat-r-row">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src="/jojo-avatar.png" alt="JoJo Bot" className="chat-avatar-bot" width={32} height={32} />
+        <div className="chat-response">
+          {turn.status === "routing" && <RoutingState />}
+          {turn.status === "v1_handoff" && <V1Handoff turn={turn} />}
+          {turn.status === "api_key_required" && (
+            <ApiKeyRequired
+              turn={turn}
+              showBundle={showBundle}
+              onToggleBundle={onToggleBundle}
+            />
+          )}
+          {turn.status === "answered" && turn.answer && (
+            <AnsweredView
+              turn={turn}
+              onFileBack={onFileBack}
+              onFileOutput={onFileOutput}
+            />
+          )}
+          {turn.status === "error" && (
+            <div className="chat-error">{turn.error ?? "Unknown error"}</div>
+          )}
+        </div>
       </div>
     </div>
   );

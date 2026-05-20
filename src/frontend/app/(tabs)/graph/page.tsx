@@ -77,7 +77,7 @@ function GraphPageInner() {
   const view = search?.get("view") ?? "";
   const highlight = search?.get("highlight") ?? "";
 
-  const isBrainView = view === "brain";
+  const isBrainView = view !== "d3";
 
   const [available, setAvailable] = useState<GraphAvailable | null>(null);
   const [stats, setStats] = useState<GraphStats | null>(null);
@@ -149,13 +149,13 @@ function GraphPageInner() {
 
   const switchToD3 = useCallback(() => {
     const params = new URLSearchParams(search?.toString() ?? "");
-    params.delete("view");
+    params.set("view", "d3");
     router.replace(`/graph?${params.toString()}`);
   }, [router, search]);
 
   const switchToBrain = useCallback(() => {
     const params = new URLSearchParams(search?.toString() ?? "");
-    params.set("view", "brain");
+    params.delete("view");
     router.replace(`/graph?${params.toString()}`);
   }, [router, search]);
 
