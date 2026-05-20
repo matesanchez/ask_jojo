@@ -560,6 +560,7 @@ if ($nssmSource) {
 # This is a thin wrapper: it finds the jojo-server.exe (or python.exe fallback)
 # and calls Install-Service.ps1. It does NOT use the developer installer.
 $endUserInstall = @'
+#Requires -RunAsAdministrator
 <#
 .SYNOPSIS
     JoJo Bot end-user installer. Registers the service and opens the welcome page.
@@ -575,7 +576,9 @@ $endUserInstall = @'
       4. Start the service.
       5. Open http://localhost:8765/welcome in the default browser.
 
-    Requires administrator privileges (service registration).
+    Requires administrator privileges (service registration). The
+    #Requires -RunAsAdministrator directive causes PowerShell to prompt for
+    elevation automatically when the script is right-clicked and run.
     Safe to re-run; existing service is skipped unless -Force is passed.
 
 .PARAMETER Force

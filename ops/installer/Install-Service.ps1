@@ -243,10 +243,17 @@ if ($nssmExe) {
     & $nssmExe set $ServiceName AppRotateBytes 10485760     | Out-Null
 
     # Recovery actions: restart on failure.
-    # NSSM surfaces this as AppThrottle + AppRestartDelay.
-    # First failure: 10 s delay. Subsequent: 30 s delay.
+    # NSSM's AppRestartDelay / AppThrottle govern how NSSM itself restarts the
+    # application process; these are NSSM-level, not SCM-level.
+    #   AppThrottle:    minimum time (ms) between restart attempts (10 s).
+    #   AppRestartDelay: additional delay before each restart (10 s).
+    # For SCM-level recovery (fires if NSSM itself crashes, which is rare), we
+    # also configure sc.exe failure to match the spec: 10 s first / 30 s subsequent.
     & $nssmExe set $ServiceName AppThrottle 10000           | Out-Null
     & $nssmExe set $ServiceName AppRestartDelay 10000       | Out-Null
+
+    # SCM-level recovery (belt-and-suspenders; covers the NSSM process itself).
+    & sc.exe failure $ServiceName reset= 86400 actions= restart/10000/restart/30000/restart/30000 | Out-Null
 
     Write-Host "[ok] service registered via NSSM." -ForegroundColor Green
 

@@ -230,94 +230,84 @@ if (Test-Path $configFile) {
     }
 }
 
-# --- 3a. config.json ----------------------------------------------------------
-if ($DeleteConfig) {
-    if (Test-Path $configDir) {
-        $doIt = Confirm-Delete -Target $configDir `
-            -Description "JoJo Bot config directory (API keys, connector paths)"
-        if ($doIt) {
-            try {
-                Remove-Item -Recurse -Force -LiteralPath $configDir
-                $removed.Add("Config directory: $configDir")
-                Write-Host "  [ok] removed $configDir" -ForegroundColor Green
-            } catch {
-                $warnings.Add("Could not remove config dir: $($_.Exception.Message)")
-                Write-Host "  [warn] $($_.Exception.Message)" -ForegroundColor Yellow
-            }
-        } else {
-            $skipped.Add("Config directory: $configDir (user declined)")
-            Write-Host "  [skip] config kept." -ForegroundColor Yellow
+# ---- helper: prompt-or-auto-delete -------------------------------------------
+# Default behavior (no switches): prompt with default No.
+# -DeleteConfig / -DeleteWiki / -DeleteRaw: delete without prompting.
+# -Force: skip all prompts (combined with -Delete* = silent delete;
+#         alone with no -Delete* flags = keep everything silently).
+function Remove-ItemIfConfirmed {
+    param(
+        [string]$Path,
+        [string]$Description,
+        [bool]$AutoDelete   # true when the matching -Delete* switch is set
+    )
+    if (-not (Test-Path -LiteralPath $Path)) {
+        Write-Host "  [skip] not found: $Path" -ForegroundColor Yellow
+        $script:skipped.Add("$Description`: $Path (not found)")
+        return
+    }
+    $doDelete = $false
+    if ($AutoDelete) {
+        # -Delete* switch set: delete without prompting (unless -Force already
+        # covers this, which is also fine).
+        $doDelete = $true
+    } elseif (-not $Force) {
+        # Default interactive prompt. Press Enter = No (keep).
+        $answer = Read-Host "  Delete $Description`n  Path: $Path`n  [y/N] (default: N)"
+        $doDelete = ($answer -imatch '^y')
+    }
+    # If -Force is set but -AutoDelete is false, we keep (spec: -Force skips
+    # prompts; without -Delete* the item is kept).
+    if ($doDelete) {
+        try {
+            Remove-Item -Recurse -Force -LiteralPath $Path
+            $script:removed.Add("$Description`: $Path")
+            Write-Host "  [ok] removed $Path" -ForegroundColor Green
+        } catch {
+            $script:warnings.Add("Could not remove $Description`: $($_.Exception.Message)")
+            Write-Host "  [warn] $($_.Exception.Message)" -ForegroundColor Yellow
         }
     } else {
-        $skipped.Add("Config directory: $configDir (not found)")
-        Write-Host "  [skip] config directory not found." -ForegroundColor Yellow
+        $script:skipped.Add("$Description`: $Path (kept by user)")
+        Write-Host "  [kept] $Path" -ForegroundColor DarkGray
     }
+}
+
+# --- 3a. config directory (contains config.json, DPAPI secrets) ---------------
+if (Test-Path $configDir) {
+    Remove-ItemIfConfirmed -Path $configDir `
+        -Description "Config directory (API keys, connector paths)" `
+        -AutoDelete $DeleteConfig.IsPresent
 } else {
-    $skipped.Add("Config directory: $configDir (use -DeleteConfig or -Purge to remove)")
-    Write-Host "  [kept] $configFile (-DeleteConfig not set)." -ForegroundColor DarkGray
+    $skipped.Add("Config directory: $configDir (not found)")
+    Write-Host "  [skip] config directory not found." -ForegroundColor Yellow
 }
 
 # --- 3b. wiki directory -------------------------------------------------------
-if ($DeleteWiki) {
-    # Path from config preferred; prompt if unknown.
-    if (-not $wikiRoot) {
-        if (-not $Force) {
-            $wikiRoot = Read-Host "  Wiki directory path (blank to skip)"
-        }
-    }
-    if ($wikiRoot -and (Test-Path -LiteralPath $wikiRoot)) {
-        $doIt = Confirm-Delete -Target $wikiRoot -Description "wiki directory (compiled knowledge pages)"
-        if ($doIt) {
-            try {
-                Remove-Item -Recurse -Force -LiteralPath $wikiRoot
-                $removed.Add("Wiki directory: $wikiRoot")
-                Write-Host "  [ok] removed $wikiRoot" -ForegroundColor Green
-            } catch {
-                $warnings.Add("Could not remove wiki dir: $($_.Exception.Message)")
-                Write-Host "  [warn] $($_.Exception.Message)" -ForegroundColor Yellow
-            }
-        } else {
-            $skipped.Add("Wiki directory: $wikiRoot (user declined)")
-            Write-Host "  [skip] wiki kept." -ForegroundColor Yellow
-        }
-    } else {
-        $display = if ($wikiRoot) { $wikiRoot } else { "(unknown path)" }
-        $skipped.Add("Wiki directory: $display (not found or path not provided)")
-        Write-Host "  [skip] wiki directory not found or not specified." -ForegroundColor Yellow
-    }
+# Resolve path: config.json wiki_root key, or prompt (when not -Force).
+if (-not $wikiRoot -and -not $Force -and $DeleteWiki) {
+    $wikiRoot = Read-Host "  Wiki directory path (blank to skip)"
+}
+if ($wikiRoot) {
+    Remove-ItemIfConfirmed -Path $wikiRoot `
+        -Description "Wiki directory (compiled knowledge pages)" `
+        -AutoDelete $DeleteWiki.IsPresent
 } else {
-    Write-Host "  [kept] wiki directory (-DeleteWiki not set)." -ForegroundColor DarkGray
+    $skipped.Add("Wiki directory: (path not known -- set wiki_root in config or pass -DeleteWiki)")
+    Write-Host "  [skip] wiki directory path unknown; use -DeleteWiki to be prompted." -ForegroundColor Yellow
 }
 
 # --- 3c. raw-ingest directory -------------------------------------------------
-if ($DeleteRaw) {
-    if (-not $rawRoot) {
-        if (-not $Force) {
-            $rawRoot = Read-Host "  Raw-ingest directory path (blank to skip)"
-        }
-    }
-    if ($rawRoot -and (Test-Path -LiteralPath $rawRoot)) {
-        $doIt = Confirm-Delete -Target $rawRoot -Description "raw-ingest directory (ingested source files)"
-        if ($doIt) {
-            try {
-                Remove-Item -Recurse -Force -LiteralPath $rawRoot
-                $removed.Add("Raw-ingest directory: $rawRoot")
-                Write-Host "  [ok] removed $rawRoot" -ForegroundColor Green
-            } catch {
-                $warnings.Add("Could not remove raw dir: $($_.Exception.Message)")
-                Write-Host "  [warn] $($_.Exception.Message)" -ForegroundColor Yellow
-            }
-        } else {
-            $skipped.Add("Raw-ingest directory: $rawRoot (user declined)")
-            Write-Host "  [skip] raw directory kept." -ForegroundColor Yellow
-        }
-    } else {
-        $display = if ($rawRoot) { $rawRoot } else { "(unknown path)" }
-        $skipped.Add("Raw-ingest directory: $display (not found or path not provided)")
-        Write-Host "  [skip] raw-ingest directory not found or not specified." -ForegroundColor Yellow
-    }
+if (-not $rawRoot -and -not $Force -and $DeleteRaw) {
+    $rawRoot = Read-Host "  Raw-ingest directory path (blank to skip)"
+}
+if ($rawRoot) {
+    Remove-ItemIfConfirmed -Path $rawRoot `
+        -Description "Raw-ingest directory (ingested source files)" `
+        -AutoDelete $DeleteRaw.IsPresent
 } else {
-    Write-Host "  [kept] raw-ingest directory (-DeleteRaw not set)." -ForegroundColor DarkGray
+    $skipped.Add("Raw-ingest directory: (path not known -- set raw_root in config or pass -DeleteRaw)")
+    Write-Host "  [skip] raw-ingest directory path unknown; use -DeleteRaw to be prompted." -ForegroundColor Yellow
 }
 
 # ---- 4. Service log directory (inside ProgramData) ---------------------------
