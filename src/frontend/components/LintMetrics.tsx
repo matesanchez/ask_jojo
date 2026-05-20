@@ -46,13 +46,17 @@ interface MetricPoint {
   value: number;
 }
 
+// Backend returns a flat list of per-run dicts (history.metrics_series shape).
+interface RunMetrics {
+  run_at: string;
+  orphan_count: number;
+  avg_confidence_score: number;
+  stale_count: number;
+  wikilink_error_count: number;
+}
+
 interface LintMetricsResponse {
-  series: {
-    orphan_count: MetricPoint[];
-    avg_confidence_score: MetricPoint[];
-    stale_count: MetricPoint[];
-    wikilink_error_count: MetricPoint[];
-  };
+  series: RunMetrics[];
 }
 
 // ------------------------------------------------------------------ helpers
@@ -167,11 +171,15 @@ export default function LintMetrics() {
     load();
   }, []);
 
-  const noData =
-    !loading &&
-    !error &&
-    data &&
-    Object.values(data.series).every((s) => s.length === 0);
+  // Transform flat run list into per-metric MetricPoint arrays.
+  const runs = data?.series ?? [];
+  const toDate = (iso: string) => iso.slice(0, 10);
+  const orphanPoints: MetricPoint[] = runs.map((r) => ({ date: toDate(r.run_at), value: r.orphan_count }));
+  const confidencePoints: MetricPoint[] = runs.map((r) => ({ date: toDate(r.run_at), value: r.avg_confidence_score }));
+  const stalePoints: MetricPoint[] = runs.map((r) => ({ date: toDate(r.run_at), value: r.stale_count }));
+  const wikilinkPoints: MetricPoint[] = runs.map((r) => ({ date: toDate(r.run_at), value: r.wikilink_error_count }));
+
+  const noData = !loading && !error && runs.length === 0;
 
   return (
     <div className="ops-card ops-lint-metrics-card">
@@ -183,30 +191,30 @@ export default function LintMetrics() {
         <p className="ops-empty">No lint runs recorded yet.</p>
       )}
 
-      {!loading && !error && data && !noData && (
+      {!loading && !error && !noData && (
         <div className="ops-sparklines-grid">
           <Sparkline
             label="Orphan count"
-            points={data.series.orphan_count}
+            points={orphanPoints}
             color="#888"
             yMin={0}
           />
           <Sparkline
             label="Avg confidence score"
-            points={data.series.avg_confidence_score}
+            points={confidencePoints}
             color="#4a90d9"
             yMin={0}
             yMax={1}
           />
           <Sparkline
             label="Stale page count"
-            points={data.series.stale_count}
+            points={stalePoints}
             color="#d97a4a"
             yMin={0}
           />
           <Sparkline
             label="Wikilink error count"
-            points={data.series.wikilink_error_count}
+            points={wikilinkPoints}
             color="#c23b22"
             yMin={0}
           />

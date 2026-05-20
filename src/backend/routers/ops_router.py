@@ -6,7 +6,9 @@ Endpoint map:
 - ``GET  /api/ops/jobs``     — thin proxy over ingest job list.
 - ``POST /api/ops/absorb``   — log an absorb trigger (manual path until API key lands).
 - ``GET  /api/ops/events``   — SSE heartbeat stream for live job updates.
-- ``POST /api/ops/lint/{scope}``  — stub; Phase 6.
+- ``POST /api/ops/lint/{scope}``  — run nightly or weekly lint via jojo_lint.
+- ``GET  /api/ops/lint/history``  — recent lint run history.
+- ``GET  /api/ops/lint/metrics``  — 30-day rolling metrics series.
 
 Implementation notes:
 - Reuses ``wiki_stats()`` from wiki_router and ``_known_connectors()`` /
