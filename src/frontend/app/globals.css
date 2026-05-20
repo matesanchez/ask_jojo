@@ -1845,13 +1845,31 @@ html, body {
   letter-spacing: 0.04em;
 }
 
+.chat-avatar-bot-wrap {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  margin-top: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .chat-avatar-bot {
   width: 32px;
   height: 32px;
   border-radius: 50%;
   border: 2px solid var(--nurix-gold);
-  flex-shrink: 0;
-  margin-top: 2px;
+  display: block;
+}
+
+.chat-avatar-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 2px solid var(--nurix-gold);
+  pointer-events: none;
 }
 
 .chat-question {
@@ -1890,10 +1908,18 @@ html, body {
 }
 
 .chat-routing {
-  color: #888;
-  font-size: 0.9rem;
-  font-style: italic;
-  padding: 0.25rem 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0.5rem 0;
+}
+
+.chat-typing-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #bbb;
 }
 
 .chat-answered {

@@ -26,6 +26,7 @@
  */
 
 import Link from "next/link";
+import { motion } from "framer-motion";
 import { useCallback, useEffect, useState } from "react";
 
 import type {
@@ -514,8 +515,7 @@ function ChatTurnView(props: ChatTurnViewProps) {
       </div>
 
       <div className="chat-r-row">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src="/jojo-avatar.png" alt="JoJo Bot" className="chat-avatar-bot" width={32} height={32} />
+        <BotAvatar status={turn.status} />
         <div className="chat-response">
           {turn.status === "routing" && <RoutingState />}
           {turn.status === "v1_handoff" && <V1Handoff turn={turn} />}
@@ -542,10 +542,54 @@ function ChatTurnView(props: ChatTurnViewProps) {
   );
 }
 
+// ---------------- bot avatar (animated) ----------------
+
+const bobVariants = {
+  idle:     { y: 0, scale: 1 },
+  thinking: {
+    y: [0, -7, 0],
+    scale: 1,
+    transition: { duration: 1.3, repeat: Infinity, ease: "easeInOut" as const },
+  },
+  answered: {
+    scale: [1, 1.22, 1],
+    y: 0,
+    transition: { duration: 0.45, ease: "backOut" as const },
+  },
+};
+
+function BotAvatar({ status }: { status: string }) {
+  const variant = status === "routing" ? "thinking" : status === "answered" ? "answered" : "idle";
+  return (
+    <motion.div className="chat-avatar-bot-wrap" variants={bobVariants} animate={variant}>
+      {status === "routing" && (
+        <motion.span
+          className="chat-avatar-ring"
+          animate={{ scale: [1, 2.2], opacity: [0.65, 0] }}
+          transition={{ duration: 1.15, repeat: Infinity, ease: "easeOut" }}
+        />
+      )}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src="/jojo-avatar.png" alt="JoJo Bot" className="chat-avatar-bot" width={32} height={32} />
+    </motion.div>
+  );
+}
+
 // ---------------- routing state ----------------
 
 function RoutingState() {
-  return <div className="chat-routing">Routing...</div>;
+  return (
+    <div className="chat-routing">
+      {[0, 1, 2].map((i) => (
+        <motion.span
+          key={i}
+          className="chat-typing-dot"
+          animate={{ y: [0, -7, 0] }}
+          transition={{ duration: 0.65, repeat: Infinity, delay: i * 0.14, ease: "easeInOut" }}
+        />
+      ))}
+    </div>
+  );
 }
 
 // ---------------- v1 handoff ----------------
