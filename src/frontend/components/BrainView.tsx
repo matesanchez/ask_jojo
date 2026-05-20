@@ -679,20 +679,30 @@ export default function BrainView({ highlight = "" }: BrainViewProps) {
           }
         }
 
-        // Subgraph visibility filter
-        if (filterModeRef.current === "subgraph" && selectedIndexRef.current !== -1) {
-          const visible = bfsDepth2(
-            selectedIndexRef.current,
-            adjacencyByIndexRef.current,
-          );
-          for (let i = 0; i < count; i++) {
-            if (!visible.has(i)) {
-              // Push node far away (invisible) — use opacity via instanceColor instead
-              instancedMesh.setColorAt(i, new THREE.Color(0x000000));
+        // Subgraph visibility filter.
+        // Prefer the last-clicked node; fall back to hovered node; fall back
+        // to the first highlighted slug so ?highlight=foo + Subgraph works.
+        if (filterModeRef.current === "subgraph") {
+          let pivotIdx = selectedIndexRef.current;
+          if (pivotIdx === -1) pivotIdx = hoveredIndexRef.current;
+          if (pivotIdx === -1 && highlightSlugsRef.current.size > 0) {
+            const firstSlug = highlightSlugsRef.current.values().next().value as string | undefined;
+            if (firstSlug !== undefined) {
+              const found = data.nodes.findIndex((n) => n.slug === firstSlug);
+              if (found !== -1) pivotIdx = found;
             }
           }
-          if (instancedMesh.instanceColor) {
-            instancedMesh.instanceColor.needsUpdate = true;
+          if (pivotIdx !== -1) {
+            const visible = bfsDepth2(pivotIdx, adjacencyByIndexRef.current);
+            for (let i = 0; i < count; i++) {
+              if (!visible.has(i)) {
+                // Black out non-visible nodes (no per-instance alpha in basic mat)
+                instancedMesh.setColorAt(i, new THREE.Color(0x000000));
+              }
+            }
+            if (instancedMesh.instanceColor) {
+              instancedMesh.instanceColor.needsUpdate = true;
+            }
           }
         }
 
@@ -824,14 +834,14 @@ export default function BrainView({ highlight = "" }: BrainViewProps) {
         />
         <button
           type="button"
-          className={`brain-view-btn${filterMode === "all" ? " active" : ""}`}
+          className={`brain-view-btn${filterMode === "all" && searchQuery !== "" ? " active" : ""}`}
           onClick={() => setFilterMode("all")}
         >
           All
         </button>
         <button
           type="button"
-          className={`brain-view-btn${filterMode === "all" ? " active" : ""}`}
+          className={`brain-view-btn${filterMode === "all" && searchQuery === "" ? " active" : ""}`}
           onClick={() => {
             setFilterMode("all");
             setSearchQuery("");
