@@ -13,7 +13,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | Field | Value |
 | --- | --- |
 | Last updated | 2026-05-19 |
-| Current phase | Phase 5 — Rich Outputs (deterministic plumbing shipped, 4 items remaining) |
+| Current phase | Phase 5 — Rich Outputs (all deterministic deliverables shipped; reviewer pass pending; Phase 6 next) |
 | Overall status | 🟡 In progress |
 | MVP target | Phases 0–6 (linting + rich outputs in scope) |
 | Blocking risks | API keys still pending (FU-10); does not block Phase 3 frontend work |
@@ -30,7 +30,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | 2 | Wiki Compile (raw → `ask_jojo_wiki/`) | 🟢 | 6–8 wk | 2026-04-23 | 2026-04-30 |
 | 3 | JoJo Bot IDE Tabs (Wiki / Raw / Ops) | 🟡 | 4–6 wk (parallel w/ 2) | 2026-04-30 | — |
 | 4 | Q&A over the Wiki + query router | 🟢 | 3–4 wk | 2026-04-30 | 2026-05-19 |
-| 5 | Rich Outputs (Marp, matplotlib, docx/pptx/pdf) | ⚪ | 3–4 wk | — | — |
+| 5 | Rich Outputs (Marp, matplotlib, docx/pptx/pdf) | 🟡 | 3–4 wk | 2026-04-30 | — |
 | 6 | Wiki Linting + Self-Maintenance | ⚪ | 3–4 wk | — | — |
 | 7a | Graph Tab (graphify integration) | ⚪ | 1–2 wk | — | — |
 | 7b | Shared Nurix-Internal Server | ⚫ post-MVP | 3–5 wk | — | — |
@@ -238,16 +238,18 @@ Phase 3 flipped ⚪ → 🟢. Phase 4 opened.
 - [x] `output_router.py` (`/api/output/*`) — `classify-format`, `formats`, `plot-types`, `render`, `file-back`, `list`, `page`. 8 endpoints; 23 tests. Plotly endpoint returns 501 with hint until plotly-specific renderer ships.
 - [x] Chat tab format toggle — depth + route + format + qmd + api-key badges. Format classifier runs alongside the route classifier in `Promise.all` so both badges populate before synthesis.
 - [x] `pyproject.toml [output]` extra — matplotlib + numpy + pandas + seaborn + plotly + python-docx + python-pptx + weasyprint + markdown.
-- [ ] **Plotly-specific HTML-fragment renderer** — endpoint returns 501 today; matplotlib fallback covers the common case.
-- [ ] **"File this" button on every Chat-tab answer** — calls `/api/output/file-back`. The endpoint exists and is tested; the button needs to be wired to the answer-status branches that produce filable artifacts (today only the Phase-4 file-back is wired).
-- [ ] **Wiki tab outputs/ directory rendering** — needs the `outputs/` virtual directory at the top of the Wiki tree, plus per-output renderer dispatch (Marp carousel for `output_format: marp`, image preview for matplotlib, etc.). Backend endpoints live; frontend is the remaining ~2 days of work.
-- [ ] **API-day flip** — `synthesize.answer` returns `{format, spec}` in addition to plain markdown; the spec routes through the right renderer. One-line edit when FU-10 lands.
+- [x] **Plotly-specific HTML-fragment renderer** — `packages/jojo_output/renderers/plotly_renderer.py`; 7 plot types; CDN-only (no `import plotly`); 13 tests. Shipped 2026-05-19.
+- [x] **"File this" button on every Chat-tab answer** — `src/frontend/app/(tabs)/chat/page.tsx`; calls `POST /api/output/file-back`; per-turn `outputFileBackStatus` state. Shipped 2026-05-19.
+- [x] **Wiki tab outputs/ directory rendering** — `src/frontend/app/(tabs)/wiki/page.tsx`; per-format dispatch (marp/mermaid/plotly/matplotlib/markdown); `PlotlyEmbed.tsx` sandboxed iframe; `GET /api/wiki/outputs` list endpoint; StaticFiles mount `/wiki-outputs/` in `main.py`. Shipped 2026-05-19.
+- [~] **API-day flip** — `synthesize.answer` returns `{format, spec}` in addition to plain markdown; the spec routes through the right renderer. One-line edit when FU-10 lands.
 
 ### Notes
 
 **2026-04-30 — Phase 5 deterministic plumbing pushed end-to-end.** Same ADR-0011 pattern as Phase 4: ship every line of Phase 5 that does not require model access today; the synthesis call is the last 20% on FU-10 day. Highest-leverage piece is the matplotlib sandbox: security-critical, complex, expensive to get wrong, zero model dependency. Tests run in CI today (no API key needed); the security model has been hardening for weeks rather than days when Phase 5 actually goes live. The format classifier doubles as a regression-test seed — its labeled-question fixture extends `docs/qa/benchmark-questions.md`'s format axis. Marp + mermaid + docx/pptx/pdf renderers all wrap existing skills (`/sessions/.../mnt/.claude/skills/{docx,pptx,pdf}/SKILL.md`); the renderer is shape-of-the-API; the skill is the heavy lifting.
 
 What remains: (a) plotly HTML-fragment renderer (1 day), (b) Chat tab "File this" wiring on every answer status (half a day), (c) Wiki-tab outputs/ directory rendering with per-format preview (~2 days). Total ~3-4 days to fully exit; everything load-bearing is in place.
+
+**2026-05-19 — Phase 5 deterministic deliverables complete.** All three remaining checklist items shipped: `plotly_renderer.py` (7 plot types, CDN-only, 13 tests), "File this" button wired to every Chat-tab answer status via `POST /api/output/file-back`, Wiki tab outputs/ rendering with per-format dispatch (marp/mermaid/plotly/matplotlib). SCHEMA.md bumped to v0.2.0 with `type: output`, `output_format`, `source_question`, `parent_slugs` fields. 9 sample output pages committed to `ask_jojo_wiki/outputs/`. `output_router.py` plotly 501 lifted — real `PlotlySpec` validation + HTML dispatch. StaticFiles mount `/wiki-outputs/` added in `main.py`. FU-16 (`rel.as_posix()` Windows path sep) generalized across all 6 path-return sites in `output_router.py`. Phase 5 reviewer pass pending; API-day flip (`synthesize.answer` → `{format, spec}`) still gated on FU-10.
 
 ---
 
@@ -366,3 +368,4 @@ Non-trivial edits to this file. The frozen ADR (`docs/ADR/0000-v2-roadmap.md`) i
 | 2026-04-24 | Phase 2 compile strategy decided: run absorb via human-triggered Cowork sessions while Anthropic API access is blocked on AWS payment (FU-5). Shipped ADR 0010 (`docs/ADR/0010-compile-via-cowork-while-api-pending.md`), `docs/compile/compile-prompt.md` (paste-in session prompt), and `docs/compile/queue.md` (batch tracker with first ten-entry DEL-screening batch seeded). `packages/jojo_compile/` stays stubbed; the prompt and queue *are* the Phase 2 work product until API keys land, at which point both transplant unchanged into `write.py` + `absorb` CLI. Exit criterion for Phase 2 is unchanged (≥80% domain-reviewer acceptance). FU-4's identifier (previously "ADR 0010 for Path B") was conceptually bumped — this is ADR 0010; Path B's eventual ADR will take the next available slot. | Mateo + Claude |
 | 2026-04-30 | Phase 4 deterministic plumbing pushed end-to-end (ADR 0011). Same pattern as ADR 0010 for Phase 2: ship every line of Phase 4 that does not require model access, run the model-call role via Cowork sessions until FU-10 lands. Six modules in `packages/jojo_qa/` with full tests (router, index_loader, wikilinks, graph, raw_fallback, miss_log, synthesize, qmd_activation). Eight new endpoints under `/api/qa/`. New Chat tab at `src/frontend/app/(tabs)/chat/`. Real `_graph.json` (136 nodes, 211 edges, 31 connected components) generated from the actual wiki. First 5 Cowork-driven Q&A sessions produced gold answers under `docs/qa/answers/`. 13 pre-batch-24 pages backfilled with valid frontmatter. qmd installed dormant (pyproject `[qa]` extra) with three activation triggers and a runbook in `docs/qa/qmd-runbook.md`. External reviewer pass scoped (30 pages, 3 reviewers). FU-10 (API key) is now the lone hard blocker for Phase 4 *exit*; Phase 4 *progress* is no longer blocked by it. | Mateo + Claude |
 | 2026-05-19 | Phase 4 exit criterion met and flipped 🟡 → 🟢. Deliverables completed: (a) 50-question benchmark fully populated (q-001–q-050, 9 categories, all 50 gold-answer files); (b) MSAL Path B shipped — `msal_device_code_provider()` in `graph.py`, DPAPI-sealed cache at `%APPDATA%\JojoBot\tokencache.bin`, `auth` CLI subcommand, 5 passing unit tests (FU-3 closed); (c) nightly CI benchmark workflow `qa-benchmark.yml` staged; (d) pre-existing ruff errors (22) fixed — ruff clean; (e) FU-11 resolved with zero edits (flag-don't-fabricate rule); (f) FU-12 resolved (Pellino-1 target slug fixed to `pellino-1-target`). Pre-existing test failures baseline documented: 16 (9 SOCKS proxy + 7 jojo_qa unimplemented-feature tests). Reviewer pass in `docs/reviews/2026-05-19-phase-4-review.md`. Phase 5 now active. | Claude (goal run) |
+| 2026-05-19 | Phase 5 deterministic deliverables complete. Plotly HTML-fragment renderer shipped (`plotly_renderer.py`, 7 types, CDN-only, 13 tests). Chat tab "File this" button wired to all answer-status branches via `POST /api/output/file-back`. Wiki tab outputs/ directory with per-format dispatch (marp/mermaid/plotly/matplotlib/markdown) and `PlotlyEmbed.tsx` sandboxed iframe. SCHEMA.md → v0.2.0. 9 sample output pages in `ask_jojo_wiki/outputs/`. `output_router.py` plotly 501 lifted. StaticFiles `/wiki-outputs/` mount in `main.py`. FU-16 generalized across `output_router.py`. Phase Summary table Phase 5 row updated to 🟡, started 2026-04-30. Phase 5 reviewer pass pending. | Claude (goal run) |
