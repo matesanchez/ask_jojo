@@ -25,6 +25,7 @@
  * Cowork session pastes into ``docs/qa/qa-prompt.md``.
  */
 
+import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
 
 import type {
@@ -594,6 +595,18 @@ function ApiKeyRequired({
                 </li>
               ))}
             </ul>
+            {/* Phase 7a: provenance link — first 5 slugs max */}
+            {bundle.candidates.length > 0 && (
+              <Link
+                href={`/graph?highlight=${bundle.candidates
+                  .slice(0, 5)
+                  .map((c) => c.slug)
+                  .join(",")}`}
+                className="chat-show-in-graph"
+              >
+                Show in graph →
+              </Link>
+            )}
           </div>
           {bundle.raw_fallback_hits.length > 0 && (
             <div>
@@ -681,6 +694,13 @@ function AnsweredView({
               <code>{s}</code>
             </a>
           ))}
+          {/* Phase 7a: provenance link — first 5 slugs max to keep the URL readable */}
+          <Link
+            href={`/graph?highlight=${turn.citedSlugs.slice(0, 5).join(",")}`}
+            className="chat-show-in-graph"
+          >
+            Show in graph →
+          </Link>
         </div>
       )}
       {turn.followUps && turn.followUps.length > 0 && (
