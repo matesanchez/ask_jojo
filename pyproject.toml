@@ -106,6 +106,7 @@ jojo-output   = "jojo_output.cli:main"
 jojo-lint     = "jojo_lint.cli:main"
 jojo-graph    = "jojo_graph.cli:main"
 jojo-finetune = "jojo_finetune.cli:main"
+jojo-launcher = "jojo_launcher.__main__:main"
 
 [tool.hatch.build.targets.wheel]
 packages = [
@@ -118,6 +119,7 @@ packages = [
     "packages/jojo_lint",
     "packages/jojo_graph",
     "packages/jojo_finetune",
+    "packages/jojo_launcher",
 ]
 
 [tool.ruff]

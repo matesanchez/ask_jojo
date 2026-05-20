@@ -12,6 +12,7 @@ router points at the PLAN.md phase that will implement it.
 from __future__ import annotations
 
 import os
+import sys
 from pathlib import Path
 
 from fastapi import FastAPI
@@ -83,3 +84,35 @@ if _outputs_dir.exists():
 def health() -> dict[str, str]:
     """Liveness probe. Always returns 200 in Phase 0."""
     return {"status": "ok", "version": app.version, "phase": "0"}
+
+
+# ---------------------------------------------------------------------------
+# Frontend static file serving (must be LAST — catch-all `/` mount).
+#
+# Frozen (PyInstaller --onedir): files live in sys._MEIPASS/frontend/out.
+# Dev: src/frontend/out/ is a sibling of this file's grandparent (ask_jojo/).
+#
+# The mount is skipped silently if the directory does not exist, so the
+# dev server starts fine before the Next.js build has been run.
+# ---------------------------------------------------------------------------
+
+
+def _frontend_out_dir() -> Path | None:
+    """Locate the Next.js static export directory.
+
+    Frozen (PyInstaller --onedir): files are in sys._MEIPASS/frontend/out.
+    Dev: src/frontend/out sibling of this file's grandparent.
+    """
+    if getattr(sys, "frozen", False):
+        return Path(getattr(sys, "_MEIPASS", "")) / "frontend" / "out"
+    dev_path = Path(__file__).resolve().parents[2] / "src" / "frontend" / "out"
+    return dev_path if dev_path.exists() else None
+
+
+_frontend_dir = _frontend_out_dir()
+if _frontend_dir and _frontend_dir.exists():
+    app.mount(
+        "/",
+        StaticFiles(directory=str(_frontend_dir), html=True),
+        name="frontend",
+    )
