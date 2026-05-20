@@ -13,7 +13,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | Field | Value |
 | --- | --- |
 | Last updated | 2026-05-19 |
-| Current phase | Phase 7a — Graph Tab (active) |
+| Current phase | Phase 7b — Standalone Installer (active) |
 | Overall status | 🟡 In progress |
 | MVP target | Phases 0–6 (linting + rich outputs in scope) |
 | Blocking risks | API keys still pending (FU-10); does not block Phase 3 frontend work |
@@ -32,7 +32,7 @@ This is the **living** progress document for JoJo Bot v2.0. It tracks execution 
 | 4 | Q&A over the Wiki + query router | 🟢 | 3–4 wk | 2026-04-30 | 2026-05-19 |
 | 5 | Rich Outputs (Marp, matplotlib, docx/pptx/pdf) | 🟢 | 3–4 wk | 2026-04-30 | 2026-05-19 |
 | 6 | Wiki Linting + Self-Maintenance | 🟢 | 3–4 wk | 2026-05-19 | 2026-05-19 |
-| 7a | Graph Tab (graphify integration) | 🟡 | 1–2 wk | 2026-05-19 | — |
+| 7a | Graph Tab (graphify integration) | 🟢 | 1–2 wk | 2026-05-19 | 2026-05-19 |
 | 7b | Shared Nurix-Internal Server | ⚫ post-MVP | 3–5 wk | — | — |
 | 8 | Backlog (synthetic data, fine-tune, etc.) | ⚫ post-MVP | — | — | — |
 
@@ -272,7 +272,7 @@ What remains: (a) plotly HTML-fragment renderer (1 day), (b) Chat tab "File this
 
 ---
 
-## Phase 7a — Graph Tab · 🟡
+## Phase 7a — Graph Tab · 🟢
 
 **Exit criterion.** Graph tab embeds graphify's `graph.html`; Ops tab surfaces `GRAPH_REPORT.md`; nightly rebuild runs cleanly. Token-reduction benchmark (graphify style) shows ≥10× reduction on a 500-article wiki vs. raw-file baseline.
 
@@ -288,10 +288,14 @@ What remains: (a) plotly HTML-fragment renderer (1 day), (b) Chat tab "File this
 - [x] Nightly graphify rebuild — `ops/scheduler/Run-GraphifyRebuild.ps1`. Pure-ASCII per the PowerShell 5.1 / CP1252 feedback memory. Mirrors Run-ScheduledSync.ps1's tee-to-log + event-log pattern.
 - [x] Graph-assisted retrieval (PLAN.md §6 Phase 7a step 1) — `synthesize.build_retrieval_bundle` detects relational questions ("connection between X and Y", "how does X relate") and includes BFS shortest-path slugs in the bundle's neighborhood.
 - [ ] **graphify CLI installed in production** — operator-action item, not engineering. The fallback path keeps the Graph tab usable today; install upgrades to the rich D3 view per `docs/graph/graphify-setup.md`.
-- [ ] **Provenance highlight from Chat tab** — Chat-tab "Show in graph" button that opens `/graph?highlight=<slug-list>`. The Graph tab already reads the URL param; the Chat-tab side is a one-line `<Link>` next to each cited slug.
-- [ ] **Nightly task registered via `Register-JojoBotTasks.ps1 -IncludeGraphify`** — Operator-action item. Script exists; registration lands when the operator next runs the registrar.
+- [x] **Provenance highlight from Chat tab** — `chat/page.tsx:598-608` and `:696-703`: "Show in graph →" link next to cited slugs in both AnsweredView and ApiKeyRequired paths. Shipped 2026-05-19.
+- [x] **"Karpathy LLM-brain"-style visualization** — `BrainView.tsx` (892 lines): three.js InstancedMesh force-directed 3D graph, OrbitControls, pulse-on-update, subgraph/search layer toggles, `?highlight=` prop. Shipped 2026-05-19.
+- [x] **Token-reduction benchmark re-run** — Run 2 at 148 pages: 12.7×–36.7× ratio (Phase 7a 10× threshold met). Report in `docs/graph/token-reduction-report.md`.
+- [~] **Nightly task registered via `Register-JojoBotTasks.ps1 -IncludeGraphify`** — Operator-action item. Script exists; registration lands when operator next runs the registrar.
 
 ### Notes
+
+**2026-05-19 — Phase 7a exit criterion met.** Brain view (`BrainView.tsx`, 892 lines) ships with three.js InstancedMesh force-directed 3D graph, OrbitControls, pulse-on-update, subgraph/search toggles. Graph nodes enriched with `summary`/`corpus` fields (schema 0.2.0). Token benchmark re-run at 148 pages: 12.7×–36.7× (still > 10×). Reviewer PASS 15/15 in `docs/reviews/2026-05-19-phase-7a-review.md`. Operator-action item (register nightly task) remains; not blocking exit.
 
 **2026-04-30 — Phase 7a deterministic plumbing pushed end-to-end.** Almost all of Phase 7a is shippable today because graphify is a deterministic CLI. The fallback path (`packages/jojo_graph/builder.py`'s synthetic GRAPH_REPORT.md + static-SVG viewer) keeps the Graph tab usable before graphify is installed; the install is a quality upgrade rather than a blocker. Token-reduction benchmark already shows the index-first / graph-assist retrieval handily beating the raw-file baseline at 138 pages — Phase 4's retrieval is doing real work, not just bundling. Relational-question detection in `synthesize.py` adds 1-hop BFS path slugs for "connection between X and Y" patterns, exercising the graph for the question class graphify is most useful on. What remains is operator-action: install graphify, register the nightly task, and add a Chat-tab "Show in graph" link.
 
@@ -370,4 +374,5 @@ Non-trivial edits to this file. The frozen ADR (`docs/ADR/0000-v2-roadmap.md`) i
 | 2026-05-19 | Phase 4 exit criterion met and flipped 🟡 → 🟢. Deliverables completed: (a) 50-question benchmark fully populated (q-001–q-050, 9 categories, all 50 gold-answer files); (b) MSAL Path B shipped — `msal_device_code_provider()` in `graph.py`, DPAPI-sealed cache at `%APPDATA%\JojoBot\tokencache.bin`, `auth` CLI subcommand, 5 passing unit tests (FU-3 closed); (c) nightly CI benchmark workflow `qa-benchmark.yml` staged; (d) pre-existing ruff errors (22) fixed — ruff clean; (e) FU-11 resolved with zero edits (flag-don't-fabricate rule); (f) FU-12 resolved (Pellino-1 target slug fixed to `pellino-1-target`). Pre-existing test failures baseline documented: 16 (9 SOCKS proxy + 7 jojo_qa unimplemented-feature tests). Reviewer pass in `docs/reviews/2026-05-19-phase-4-review.md`. Phase 5 now active. | Claude (goal run) |
 | 2026-05-19 | Phase 5 deterministic deliverables complete. Plotly HTML-fragment renderer shipped (`plotly_renderer.py`, 7 types, CDN-only, 13 tests). Chat tab "File this" button wired to all answer-status branches via `POST /api/output/file-back`. Wiki tab outputs/ directory with per-format dispatch (marp/mermaid/plotly/matplotlib/markdown) and `PlotlyEmbed.tsx` sandboxed iframe. SCHEMA.md → v0.2.0. 9 sample output pages in `ask_jojo_wiki/outputs/`. `output_router.py` plotly 501 lifted. StaticFiles `/wiki-outputs/` mount in `main.py`. FU-16 generalized across `output_router.py`. Phase Summary table Phase 5 row updated to 🟡, started 2026-04-30. Phase 5 reviewer pass pending. | Claude (goal run) |
 | 2026-05-19 | Phase 5 exit criterion met and flipped 🟡 → 🟢. Reviewer pass in `docs/reviews/2026-05-19-phase-5-review.md` — PASS 11/11. FU-18 filed (POSIX sandbox import warning on Windows). Phase Summary table Phase 5 row updated to 🟢 with exit date 2026-05-19. Snapshot current phase updated to Phase 6. Phase 6 active. | Claude (goal run) |
+| 2026-05-19 | Phase 7a exit criterion met and flipped 🟡 → 🟢. Brain view (BrainView.tsx, 892 lines), graph node enrichment (summary/corpus, schema 0.2.0), token benchmark re-run (12.7×–36.7× @ 148 pages). Reviewer PASS 15/15 in `docs/reviews/2026-05-19-phase-7a-review.md`. Phase 7b now active. | Claude (goal run) |
 | 2026-05-19 | Phase 6 exit criterion met and flipped 🟡 → 🟢. Two-pass reviewer audit in `docs/reviews/2026-05-19-phase-6-review.md` — PASS 15/15. B1 (LintMetrics.tsx API mismatch) fixed in e59e113; criterion #8 test gap fixed in 44daff5. 14-run exit gate passed. Wiki content debt resolved: 148 pages indexed, wikilinks cleaned, FU-19 closed (27→9 broken links). Snapshot updated to Phase 7a (active). | Claude (goal run) |

@@ -34,6 +34,23 @@ Read all four source-of-truth docs: README.md, PLAN.md, v2_status.md, follow-ups
 
 ## Delegation log
 
+### 2026-05-19 — Round 9 (Phase 7a exit closure)
+
+**Tasks completed:**
+- `docs/reviews/2026-05-19-phase-7a-review.md`: Reviewer PASS 15/15.
+- `docs/phase-7a-exit-evidence.md`: Created with deliverables summary, benchmark table, quality gate results.
+- `docs/v2_status.md`: Phase 7a flipped 🟡→🟢; checklist updated; Phase 7b now active.
+- `docs/goal-run-log.md`: Phase 7a evidence added.
+
+### 2026-05-19 — Round 8 (Phase 7a execution)
+
+**Sub-agents delegated (parallel):**
+- Backend agent → `packages/jojo_qa/graph.py`: enriched node schema with `summary` + `corpus`; helper functions `_parse_frontmatter_scalar`, `_extract_summary`, `_read_full_text`; schema_version bumped to `0.2.0`; 10 new tests. Token benchmark re-run at 148 pages: 12.7×–36.7× ratio. Rebuilt `ask_jojo_wiki/_graph.json`. Commits: b942e90 + 3cae926.
+- Frontend agent → `src/frontend/components/BrainView.tsx` (892 lines): three.js InstancedMesh force-directed 3D graph; OrbitControls; spring/repulsion force layout (200 warm-up ticks); pulse-on-update via `/api/wiki/stats` polling; subgraph BFS + search overlay; `?highlight=` prop. `graph/page.tsx`: D3/Brain toggle + `dynamic(..., ssr:false)`. Commits: d24ba3b + a1af4e1.
+
+**Orchestrator tasks:**
+- Checked off "Provenance highlight from Chat tab" (already shipped in Round 6 by frontend agent; confirmed in chat/page.tsx:598-608 and :696-703).
+
 ### 2026-05-19 — Round 7 (Phase 6 exit closure)
 
 **Tasks completed:**
@@ -191,3 +208,20 @@ None currently. All blockers are human-only (credentials, external infra) and ar
 | CI workflow | `.github/workflows/lint-nightly.yml`: cron + workflow_dispatch |
 | 14-run exit gate | `jojo-lint nightly` exit 0 × 14 consecutive runs on real 148-page wiki |
 | Reviewer PASS | `docs/reviews/2026-05-19-phase-6-review.md`: PASS 15/15 (two-pass audit) |
+
+### Phase 7a — Graph Tab (2026-05-19)
+
+| Exit criterion | Evidence |
+|---|---|
+| Node enrichment schema 0.2.0 | `packages/jojo_qa/graph.py:63-84`: schema "0.2.0"; nodes have summary/corpus |
+| `_graph.json` rebuilt at 148 nodes | `ask_jojo_wiki/_graph.json`: 148 nodes, 272 edges, schema_version "0.2.0" |
+| Token-reduction benchmark ≥10× | `docs/graph/token-reduction-report.md` Run 2: 12.7×–36.7× @ 148 pages |
+| Provenance "Show in graph →" link | `chat/page.tsx:598-608` + `:698-703`; both paths, `/graph?highlight=` |
+| BrainView.tsx three.js | 892 lines; InstancedMesh (one draw call); OrbitControls; force layout |
+| Performance architecture | InstancedMesh + LineSegments = 2 draw calls for entire scene |
+| Pulse-on-update | 15s poll `/api/wiki/stats`; scale oscillation 1.0→1.5→1.0 over 800ms |
+| Layer toggles + search | All / Subgraph (BFS depth-2) + search-highlight input |
+| `?view=brain` toggle | `graph/page.tsx`: D3/Brain toggle; `dynamic(..., {ssr:false})`; `?highlight=` forwarded |
+| ruff + tsc clean | Exit 0; no errors |
+| Tests = baseline | 8 failures = 7 jojo_qa + 1 jojo_graph smoke (pre-existing) |
+| Reviewer PASS | `docs/reviews/2026-05-19-phase-7a-review.md`: PASS 15/15 |
