@@ -22,6 +22,10 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { useCallback, useEffect, useRef, useState } from "react";
 
+import MarpCarousel from "@/components/MarpCarousel";
+import Mermaid from "@/components/Mermaid";
+import PlotlyEmbed from "@/components/PlotlyEmbed";
+
 import type {
   WikiBacklinksResponse,
   WikiConfidence,
@@ -219,6 +223,53 @@ function WikiPreview({
     }
   }
 
+  /**
+   * Per-format dispatch for outputs/ pages.
+   * Falls back to the standard react-markdown renderer for unknown formats
+   * or pages without an output_format field (all normal wiki pages).
+   *
+   * `currentPage` is captured once here so TypeScript keeps the non-null
+   * narrowing inside the switch (the outer `page` param is non-null by this
+   * point, but strict control flow can lose that inside nested functions).
+   */
+  function renderBody(currentPage: NonNullable<typeof page>) {
+    switch (currentPage.output_format) {
+      case "marp":
+        return <MarpCarousel markdown={currentPage.body} />;
+
+      case "mermaid":
+        return <Mermaid source={currentPage.body} />;
+
+      case "plotly":
+        // The page body stores the Plotly HTML fragment verbatim.
+        return <PlotlyEmbed html={currentPage.body} />;
+
+      case "matplotlib": {
+        // Prefer a rendered artifact image if the backend provides a path.
+        if (currentPage.output_artifact) {
+          return (
+            <img
+              src={currentPage.output_artifact}
+              alt={currentPage.title}
+              className="wiki-output-image"
+              style={{ maxWidth: "100%" }}
+            />
+          );
+        }
+        // No artifact path — fall through to markdown (body may describe the chart).
+        return (
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{resolvedBody}</ReactMarkdown>
+        );
+      }
+
+      default:
+        // Standard wiki page or unrecognised format.
+        return (
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{resolvedBody}</ReactMarkdown>
+        );
+    }
+  }
+
   return (
     /* eslint-disable jsx-a11y/click-events-have-key-events */
     /* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
@@ -227,7 +278,7 @@ function WikiPreview({
       onClick={handleArticleClick}
     >
       <h1>{page.title}</h1>
-      <ReactMarkdown remarkPlugins={[remarkGfm]}>{resolvedBody}</ReactMarkdown>
+      {renderBody(page)}
     </article>
   );
 }

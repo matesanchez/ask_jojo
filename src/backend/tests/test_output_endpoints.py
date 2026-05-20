@@ -21,9 +21,15 @@ def client_with_wiki(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
     monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
 
     # Force the matplotlib sandbox into in-process mode (no subprocess).
-    from jojo_output.sandbox import runner as runner_mod
+    # The sandbox runner imports the POSIX-only ``resource`` module; skip the
+    # flag on Windows where that module is absent (matplotlib tests are
+    # already skipped via pytest.importorskip("matplotlib") on that platform).
+    try:
+        from jojo_output.sandbox import runner as runner_mod  # noqa: PLC0415
 
-    monkeypatch.setattr(runner_mod, "RUN_IN_PROCESS", True)
+        monkeypatch.setattr(runner_mod, "RUN_IN_PROCESS", True)
+    except ModuleNotFoundError:
+        pass  # resource module not available on Windows
 
     from backend.main import app
 
@@ -59,6 +65,10 @@ def test_list_formats(client_with_wiki) -> None:
     assert len(formats) == 9
 
 
+@pytest.mark.skipif(
+    __import__("sys").platform == "win32",
+    reason="sandbox runner imports POSIX-only 'resource' module; skip on Windows",
+)
 def test_list_plot_types(client_with_wiki) -> None:
     client, _ = client_with_wiki
     r = client.get("/api/output/plot-types")
@@ -215,14 +225,57 @@ def test_render_unsupported_format(client_with_wiki) -> None:
     assert r.status_code == 422
 
 
-def test_render_plotly_pending(client_with_wiki) -> None:
-    """Plotly returns 501 with a clear hint until the renderer ships."""
+def test_render_plotly_inline(client_with_wiki) -> None:
+    """Plotly render returns status ok with an HTML fragment."""
     client, _ = client_with_wiki
     r = client.post(
         "/api/output/render",
-        json={"format": "plotly", "spec": {"plot_type": "bar"}},
+        json={
+            "format": "plotly",
+            "spec": {
+                "plot_type": "bar",
+                "title": "My Bar Chart",
+                "series": [{"label": "A", "x": ["x1", "x2"], "y": [1.0, 2.0]}],
+            },
+        },
     )
-    assert r.status_code == 501
+    assert r.status_code == 200
+    body = r.json()
+    assert body["status"] == "ok"
+    assert body["format"] == "plotly"
+    assert '<div id="plotly-' in body["html"]
+    assert "Plotly.newPlot(" in body["html"]
+
+
+def test_render_plotly_to_file(client_with_wiki) -> None:
+    """Plotly render with out_subpath writes a file and returns the path."""
+    client, wiki = client_with_wiki
+    r = client.post(
+        "/api/output/render",
+        json={
+            "format": "plotly",
+            "spec": {
+                "plot_type": "line",
+                "series": [{"label": "s", "x": [1, 2], "y": [3, 4]}],
+            },
+            "out_subpath": "test-plotly.html",
+        },
+    )
+    assert r.status_code == 200
+    body = r.json()
+    assert body["status"] == "ok"
+    assert body["out_path"] == "outputs/test-plotly.html"
+    assert (wiki / "outputs" / "test-plotly.html").exists()
+
+
+def test_render_plotly_invalid_plot_type_returns_422(client_with_wiki) -> None:
+    """An unsupported plot_type raises HTTP 422."""
+    client, _ = client_with_wiki
+    r = client.post(
+        "/api/output/render",
+        json={"format": "plotly", "spec": {"plot_type": "treemap"}},
+    )
+    assert r.status_code == 422
 
 
 # ---------------------------------------------------------------- file-back

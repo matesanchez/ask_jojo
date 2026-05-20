@@ -30,6 +30,7 @@ Each ``Spec`` is a Pydantic model. The cross-renderer plumbing
 
 from .markdown import MarkdownSpec, render_markdown
 from .marp import MarpSpec, render_marp
+from .plotly_renderer import PlotlySpec, render_plotly
 from .table import TableSpec, render_table
 
 # docx/pptx/pdf renderers depend on optional libraries (python-docx,
@@ -39,8 +40,10 @@ from .table import TableSpec, render_table
 __all__ = [
     "MarkdownSpec",
     "MarpSpec",
+    "PlotlySpec",
     "TableSpec",
     "render_markdown",
     "render_marp",
+    "render_plotly",
     "render_table",
 ]

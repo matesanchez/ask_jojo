@@ -170,6 +170,18 @@ export interface FileBackResponse {
   next_step: string;
 }
 
+// ------------------------------------------------------------------ /api/output/file-back
+
+export interface OutputFileBackRequest {
+  title: string;
+  body: string;
+  output_format: OutputFormat;
+  source_question: string;
+  confidence: "high" | "medium" | "low";
+}
+
+export type OutputFileBackStatus = "idle" | "filing" | "filed" | "error";
+
 // ------------------------------------------------------------------ chat session state
 
 export interface ChatTurn {
@@ -188,4 +200,8 @@ export interface ChatTurn {
   routeHint?: Route;
   formatHint?: OutputFormat | "auto";
   formatResponse?: FormatClassifyResponse;
+  /** Tracks the filing state for the rich-output file-back button. */
+  outputFileBackStatus?: OutputFileBackStatus;
+  /** Error message from the output file-back call if it fails. */
+  outputFileBackError?: string;
 }

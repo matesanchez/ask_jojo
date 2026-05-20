@@ -335,3 +335,337 @@ def test_dot_directory_files_excluded_from_tree(client_with_wiki):
     assert body["total_pages"] == 3
     dir_names = [d["name"] for d in body["tree"]]
     assert ".graphify" not in dir_names
+
+
+# -------------------------------------------------------------------- /tree with outputs/
+
+
+def test_tree_includes_outputs_directory_when_populated(tmp_path: Path, monkeypatch):
+    """When outputs/ contains a .md file, the tree response includes an
+    'outputs' directory node with output_format on each child."""
+    wiki = tmp_path / "ask_jojo_wiki"
+    wiki.mkdir()
+
+    # Write one regular page so the tree is non-empty.
+    _write_wiki_page(wiki, slug="cbl-b", title="CBL-B", subdir="targets")
+
+    # Write one outputs/ page with a custom output_format.
+    outputs_dir = wiki / "outputs"
+    outputs_dir.mkdir()
+    fm = (
+        "---\n"
+        "slug: 2026-05-19-test-output\n"
+        "title: Test Output\n"
+        "type: output\n"
+        "output_format: plotly\n"
+        "confidence: low\n"
+        "last_updated: 2026-05-19\n"
+        "last_reviewed: 2026-05-19\n"
+        "schema_version: 0.1.0\n"
+        "corpus: protein-sciences\n"
+        "---\n"
+    )
+    (outputs_dir / "2026-05-19-test-output.md").write_text(fm + "body\n", encoding="utf-8")
+
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+    client = TestClient(app)
+
+    r = client.get("/api/wiki/tree")
+    assert r.status_code == 200
+    body = r.json()
+
+    # total_pages includes the outputs page.
+    assert body["total_pages"] == 2
+
+    tree_by_name = {d["name"]: d for d in body["tree"]}
+    assert "outputs" in tree_by_name
+
+    outputs_children = tree_by_name["outputs"]["children"]
+    assert len(outputs_children) == 1
+    child = outputs_children[0]
+    assert child["slug"] == "2026-05-19-test-output"
+    assert child["output_format"] == "plotly"
+
+
+def test_tree_omits_outputs_dir_when_empty(client_with_wiki):
+    """When outputs/ has no .md files, there is no 'outputs' dir in the tree."""
+    client, wiki = client_with_wiki
+    # The fixture already creates an empty outputs/ dir.
+    r = client.get("/api/wiki/tree")
+    assert r.status_code == 200
+    body = r.json()
+    dir_names = [d["name"] for d in body["tree"]]
+    assert "outputs" not in dir_names
+
+
+# -------------------------------------------------------------------- /outputs
+
+
+def test_wiki_outputs_empty_when_no_outputs_dir(tmp_path: Path, monkeypatch):
+    """GET /api/wiki/outputs returns total=0 when outputs/ doesn't exist."""
+    wiki = tmp_path / "ask_jojo_wiki"
+    wiki.mkdir()
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+    client = TestClient(app)
+    r = client.get("/api/wiki/outputs")
+    assert r.status_code == 200
+    body = r.json()
+    assert body["total"] == 0
+    assert body["outputs"] == []
+
+
+def test_wiki_outputs_lists_pages(tmp_path: Path, monkeypatch):
+    """GET /api/wiki/outputs returns pages with slug, title, output_format, created."""
+    wiki = tmp_path / "ask_jojo_wiki"
+    wiki.mkdir()
+    outputs_dir = wiki / "outputs"
+    outputs_dir.mkdir()
+
+    fm = (
+        "---\n"
+        "slug: 2026-05-19-bar-chart\n"
+        "title: Bar Chart\n"
+        "type: output\n"
+        "output_format: plotly\n"
+        "created: 2026-05-19\n"
+        "confidence: low\n"
+        "last_updated: 2026-05-19\n"
+        "last_reviewed: 2026-05-19\n"
+        "schema_version: 0.1.0\n"
+        "corpus: protein-sciences\n"
+        "---\n"
+    )
+    (outputs_dir / "2026-05-19-bar-chart.md").write_text(fm + "body\n", encoding="utf-8")
+
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+    client = TestClient(app)
+    r = client.get("/api/wiki/outputs")
+    assert r.status_code == 200
+    body = r.json()
+    assert body["total"] == 1
+    page = body["outputs"][0]
+    assert page["slug"] == "2026-05-19-bar-chart"
+    assert page["title"] == "Bar Chart"
+    assert page["output_format"] == "plotly"
+    assert page["created"] == "2026-05-19"
+
+
+# -------------------------------------------------------------------- /page output fields
+
+
+def _write_output_page(
+    wiki: Path,
+    *,
+    slug: str,
+    title: str,
+    output_format: str,
+    body: str = "## Description\n\nSample output.\n",
+    output_artifact: str | None = None,
+) -> Path:
+    """Write an output-type wiki page under outputs/."""
+    outputs_dir = wiki / "outputs"
+    outputs_dir.mkdir(parents=True, exist_ok=True)
+    page_path = outputs_dir / f"{slug}.md"
+
+    artifact_line = ""
+    if output_artifact is not None:
+        artifact_line = f"output_artifact: {output_artifact}\n"
+
+    fm = (
+        "---\n"
+        f"slug: {slug}\n"
+        f"title: {title}\n"
+        "type: output\n"
+        f"output_format: {output_format}\n"
+        f"{artifact_line}"
+        "confidence: low\n"
+        "last_updated: 2026-05-19\n"
+        "last_reviewed: 2026-05-19\n"
+        "schema_version: 0.2.0\n"
+        "corpus: protein-sciences\n"
+        "---\n"
+    )
+    page_path.write_text(fm + body, encoding="utf-8")
+    return page_path
+
+
+def test_page_plotly_output_returns_output_fields(tmp_path: Path, monkeypatch):
+    """GET /api/wiki/page for a plotly output page returns output_format and
+    output_artifact as top-level fields; output_artifact is None for plotly."""
+    wiki = tmp_path / "ask_jojo_wiki"
+    wiki.mkdir()
+    _write_output_page(
+        wiki,
+        slug="2026-05-19-protein-qc-interactive",
+        title="Protein QC Interactive",
+        output_format="plotly",
+    )
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+
+    client = TestClient(app)
+    r = client.get(
+        "/api/wiki/page",
+        params={"path": "outputs/2026-05-19-protein-qc-interactive.md"},
+    )
+    assert r.status_code == 200
+    body = r.json()
+    assert body["type"] == "output"
+    assert body["output_format"] == "plotly"
+    assert body["output_artifact"] is None
+    # Confirm the standard fields are still present.
+    assert body["slug"] == "2026-05-19-protein-qc-interactive"
+    assert body["title"] == "Protein QC Interactive"
+
+
+def test_page_matplotlib_output_no_artifact_returns_none(tmp_path: Path, monkeypatch):
+    """GET /api/wiki/page for a matplotlib output with no PNG on disk returns
+    output_artifact=None rather than crashing."""
+    wiki = tmp_path / "ask_jojo_wiki"
+    wiki.mkdir()
+    _write_output_page(
+        wiki,
+        slug="2026-05-19-del-throughput",
+        title="DEL Throughput",
+        output_format="matplotlib",
+    )
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+
+    client = TestClient(app)
+    r = client.get(
+        "/api/wiki/page",
+        params={"path": "outputs/2026-05-19-del-throughput.md"},
+    )
+    assert r.status_code == 200
+    body = r.json()
+    assert body["output_format"] == "matplotlib"
+    assert body["output_artifact"] is None
+
+
+def test_page_matplotlib_output_flat_png_resolves_artifact(
+    tmp_path: Path, monkeypatch
+):
+    """When a flat sibling PNG exists next to the .md, output_artifact is the
+    /wiki-outputs/<stem>.png root-relative URL."""
+    wiki = tmp_path / "ask_jojo_wiki"
+    wiki.mkdir()
+    slug = "2026-05-19-del-throughput"
+    _write_output_page(
+        wiki, slug=slug, title="DEL Throughput", output_format="matplotlib"
+    )
+    # Write the sibling PNG artifact.
+    (wiki / "outputs" / f"{slug}.png").write_bytes(b"\x89PNG\r\n")
+
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+
+    client = TestClient(app)
+    r = client.get(
+        "/api/wiki/page",
+        params={"path": f"outputs/{slug}.md"},
+    )
+    assert r.status_code == 200
+    body = r.json()
+    assert body["output_format"] == "matplotlib"
+    assert body["output_artifact"] == f"/wiki-outputs/{slug}.png"
+
+
+def test_page_matplotlib_output_assets_subdir_resolves_artifact(
+    tmp_path: Path, monkeypatch
+):
+    """When a PNG lives under outputs/<stem>/assets/, output_artifact resolves
+    to the /wiki-outputs/<stem>/assets/<file>.png URL."""
+    wiki = tmp_path / "ask_jojo_wiki"
+    wiki.mkdir()
+    slug = "2026-05-19-del-throughput"
+    _write_output_page(
+        wiki, slug=slug, title="DEL Throughput", output_format="matplotlib"
+    )
+    assets_dir = wiki / "outputs" / slug / "assets"
+    assets_dir.mkdir(parents=True)
+    (assets_dir / "del-throughput-bar-chart.png").write_bytes(b"\x89PNG\r\n")
+
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+
+    client = TestClient(app)
+    r = client.get(
+        "/api/wiki/page",
+        params={"path": f"outputs/{slug}.md"},
+    )
+    assert r.status_code == 200
+    body = r.json()
+    assert body["output_artifact"] == (
+        f"/wiki-outputs/{slug}/assets/del-throughput-bar-chart.png"
+    )
+
+
+def test_page_matplotlib_output_explicit_frontmatter_artifact(
+    tmp_path: Path, monkeypatch
+):
+    """output_artifact frontmatter key takes precedence over disk discovery."""
+    wiki = tmp_path / "ask_jojo_wiki"
+    wiki.mkdir()
+    slug = "2026-05-19-del-throughput"
+    _write_output_page(
+        wiki,
+        slug=slug,
+        title="DEL Throughput",
+        output_format="matplotlib",
+        output_artifact="/custom/path/chart.png",
+    )
+    # Also write a sibling PNG that should NOT win.
+    (wiki / "outputs" / f"{slug}.png").write_bytes(b"\x89PNG\r\n")
+
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+
+    client = TestClient(app)
+    r = client.get(
+        "/api/wiki/page",
+        params={"path": f"outputs/{slug}.md"},
+    )
+    assert r.status_code == 200
+    body = r.json()
+    assert body["output_artifact"] == "/custom/path/chart.png"
+
+
+def test_page_non_output_page_has_no_output_fields(client_with_wiki):
+    """A non-output page (e.g. type=target) does NOT include output_format
+    or output_artifact in the response."""
+    client, _wiki = client_with_wiki
+    r = client.get("/api/wiki/page", params={"path": "targets/cbl-b.md"})
+    assert r.status_code == 200
+    body = r.json()
+    assert body["type"] == "target"
+    assert "output_format" not in body
+    assert "output_artifact" not in body
+
+
+def test_page_path_uses_posix_separators(client_with_wiki):
+    """The 'path' field in the response always uses forward slashes, even on
+    Windows (FU-16 regression guard)."""
+    client, _wiki = client_with_wiki
+    r = client.get("/api/wiki/page", params={"path": "targets/cbl-b.md"})
+    assert r.status_code == 200
+    assert "\\" not in r.json()["path"]

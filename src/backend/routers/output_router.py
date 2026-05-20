@@ -220,7 +220,7 @@ def post_render(req: RenderRequest) -> dict[str, Any]:  # noqa: C901 — dispatc
             return {
                 "status": "ok",
                 "format": "matplotlib",
-                "out_path": str(result.out_path.relative_to(_wiki_root())),
+                "out_path": result.out_path.relative_to(_wiki_root()).as_posix(),
                 "duration_ms": result.duration_ms,
             }
         return {
@@ -243,7 +243,7 @@ def post_render(req: RenderRequest) -> dict[str, Any]:  # noqa: C901 — dispatc
         return {
             "status": "ok",
             "format": "docx",
-            "out_path": str(written.relative_to(_wiki_root())),
+            "out_path": written.relative_to(_wiki_root()).as_posix(),
         }
 
     if fmt == "pptx":
@@ -259,7 +259,7 @@ def post_render(req: RenderRequest) -> dict[str, Any]:  # noqa: C901 — dispatc
         return {
             "status": "ok",
             "format": "pptx",
-            "out_path": str(written.relative_to(_wiki_root())),
+            "out_path": written.relative_to(_wiki_root()).as_posix(),
         }
 
     if fmt == "pdf":
@@ -275,18 +275,24 @@ def post_render(req: RenderRequest) -> dict[str, Any]:  # noqa: C901 — dispatc
         return {
             "status": "ok",
             "format": "pdf",
-            "out_path": str(written.relative_to(_wiki_root())),
+            "out_path": written.relative_to(_wiki_root()).as_posix(),
         }
 
     if fmt == "plotly":
-        # Plotly is a typed spec (same shape as matplotlib); we route to a
-        # plotly-specific renderer when one ships. Today, return an
-        # informative 501 so the frontend can fall back to a plain
-        # matplotlib render.
-        raise HTTPException(
-            status_code=501,
-            detail="plotly renderer pending; use 'matplotlib' for now",
-        )
+        from jojo_output.renderers.plotly_renderer import PlotlySpec, render_plotly
+
+        spec = _validate(PlotlySpec, req.spec)
+        html = render_plotly(spec)
+        if req.out_subpath:
+            out_path = _outputs_root() / req.out_subpath
+            out_path.parent.mkdir(parents=True, exist_ok=True)
+            out_path.write_text(html, encoding="utf-8")
+            return {
+                "status": "ok",
+                "format": "plotly",
+                "out_path": out_path.relative_to(_wiki_root()).as_posix(),
+            }
+        return {"status": "ok", "format": "plotly", "html": html}
 
     raise HTTPException(status_code=400, detail=f"unsupported format: {fmt}")
 
@@ -363,11 +369,11 @@ def post_file_back(req: FileBackRequest) -> dict[str, Any]:
     rel = out_path.relative_to(_wiki_root())
     return {
         "status": "filed",
-        "path": str(rel),
+        "path": rel.as_posix(),
         "absolute_path": str(out_path),
         "slug": f"{today}-{slug}",
         "next_step": (
-            f"Review {rel} in the Wiki tab and commit under the "
+            f"Review {rel.as_posix()} in the Wiki tab and commit under the "
             f"output(<corpus>): {today}-{slug} prefix."
         ),
     }
@@ -404,7 +410,7 @@ def list_outputs() -> dict[str, Any]:
                     elif line.startswith("confidence:"):
                         confidence = line.split(":", 1)[1].strip()
         out.append({
-            "path": str(p.relative_to(_wiki_root())),
+            "path": p.relative_to(_wiki_root()).as_posix(),
             "slug": p.stem,
             "title": title or p.stem,
             "output_format": fmt,

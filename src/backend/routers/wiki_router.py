@@ -191,6 +191,10 @@ def get_tree() -> dict[str, Any]:
             "confidence": fm.get("confidence", ""),
             "last_updated": str(fm.get("last_updated", "")),
         }
+        # outputs/ pages carry an extra output_format field so the frontend
+        # can render the correct icon / action in the Outputs directory view.
+        if dir_name == "outputs":
+            node["output_format"] = fm.get("output_format", "markdown")
         dirs.setdefault(dir_name, []).append(node)
 
     tree = []
@@ -224,11 +228,12 @@ def get_page(
     fm, body = split_frontmatter(text)
     rel = candidate.relative_to(wiki_root)
 
-    return {
-        "path": str(rel).replace("\\", "/"),
+    page_type = fm.get("type", "")
+    response: dict[str, Any] = {
+        "path": rel.as_posix(),
         "slug": fm.get("slug") or rel.stem,
         "title": fm.get("title") or rel.stem,
-        "type": fm.get("type", ""),
+        "type": page_type,
         "confidence": fm.get("confidence", ""),
         "last_updated": str(fm.get("last_updated", "")),
         "last_reviewed": str(fm.get("last_reviewed", "")),
@@ -240,6 +245,65 @@ def get_page(
         "sources": fm.get("sources") or [],
         "body": body,
     }
+
+    # Output pages carry two extra top-level fields expected by the frontend
+    # WikiPage type.  These are NOT nested under a "frontmatter" key.
+    if page_type == "output":
+        output_format = fm.get("output_format", "markdown")
+        response["output_format"] = output_format
+        response["output_artifact"] = _resolve_output_artifact(
+            wiki_root, rel, output_format, fm
+        )
+
+    return response
+
+
+def _resolve_output_artifact(
+    wiki_root: Path,
+    rel: Path,
+    output_format: str,
+    fm: dict[str, Any],
+) -> str | None:
+    """Return the root-relative URL path for the artifact file (if any).
+
+    Resolution order:
+    1. ``output_artifact`` frontmatter key — explicit override, always wins.
+    2. For ``matplotlib``: look for a sibling PNG next to the .md file
+       (``outputs/<stem>.png``).  If not found, try the sub-asset convention
+       ``outputs/<stem>/assets/*.png`` (takes the first glob match).
+    3. For ``plotly``: the artifact is rendered inline by the frontend —
+       return ``None``.
+    4. Everything else: ``None`` (no static artifact).
+
+    The returned URL uses the ``/wiki-outputs/`` mount prefix that
+    ``main.py`` registers via StaticFiles.
+    """
+    # Explicit frontmatter override.
+    if fm.get("output_artifact"):
+        return str(fm["output_artifact"])
+
+    if output_format != "matplotlib":
+        return None
+
+    outputs_dir = wiki_root / "outputs"
+    stem = rel.stem  # e.g. "2026-05-19-del-screening-throughput"
+
+    # Convention 1: flat sibling PNG.
+    flat_candidate = outputs_dir / f"{stem}.png"
+    if flat_candidate.exists():
+        return f"/wiki-outputs/{stem}.png"
+
+    # Convention 2: <stem>/assets/*.png sub-directory.
+    assets_dir = outputs_dir / stem / "assets"
+    if assets_dir.is_dir():
+        matches = sorted(assets_dir.glob("*.png"))
+        if matches:
+            # Return the path relative to outputs/ so it resolves under the
+            # /wiki-outputs/ mount: /wiki-outputs/<stem>/assets/<file>.png
+            artifact_rel = matches[0].relative_to(outputs_dir)
+            return "/wiki-outputs/" + artifact_rel.as_posix()
+
+    return None
 
 
 @router.get("/backlinks")
@@ -310,6 +374,47 @@ def search(
 def get_stats() -> dict[str, Any]:
     """Return high-level wiki health info (page count, last commit, schema)."""
     return wiki_stats()
+
+
+@router.get("/outputs")
+def list_wiki_outputs() -> dict[str, Any]:
+    """List all pages under ``wiki/outputs/`` with output metadata.
+
+    Returns a list of objects with ``slug``, ``title``, ``output_format``,
+    and ``created`` fields.  This is the data source for the frontend
+    Outputs directory view.
+
+    If ``outputs/`` is empty or does not exist, returns ``total: 0``.
+    """
+    wiki_root = _wiki_root()
+    outputs_dir = wiki_root / "outputs"
+    if not outputs_dir.exists():
+        return {"total": 0, "outputs": []}
+
+    results: list[dict[str, Any]] = []
+    for full_path in sorted(outputs_dir.glob("*.md")):
+        if full_path.name.startswith("_"):
+            continue
+        try:
+            text = full_path.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        fm, _ = split_frontmatter(text)
+        slug = fm.get("slug") or full_path.stem
+        title = fm.get("title") or full_path.stem
+        output_format = fm.get("output_format", "markdown")
+        created = str(fm.get("created", ""))
+        results.append(
+            {
+                "slug": slug,
+                "title": title,
+                "output_format": output_format,
+                "created": created,
+                "path": f"outputs/{full_path.name}",
+            }
+        )
+
+    return {"total": len(results), "outputs": results}
 
 
 class EditRequest(BaseModel):

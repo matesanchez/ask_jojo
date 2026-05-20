@@ -11,7 +11,11 @@ router points at the PLAN.md phase that will implement it.
 
 from __future__ import annotations
 
+import os
+from pathlib import Path
+
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
 
 from backend.routers import (
     graph_router,
@@ -41,6 +45,36 @@ app.include_router(ingest_router.router, prefix="/api/ingest", tags=["ingest"])
 app.include_router(qa_router.router,     prefix="/api/qa",     tags=["qa"])
 app.include_router(output_router.router, prefix="/api/output", tags=["output"])
 app.include_router(graph_router.router,  prefix="/api/graph",  tags=["graph"])
+
+# ---------------------------------------------------------------------------
+# Static-file mount: wiki outputs directory served at /wiki-outputs/.
+#
+# The browser uses paths like /wiki-outputs/2026-05-19-foo.png so that
+# <img src={output_artifact}> resolves without any additional API round-trip.
+#
+# Resolution order for the on-disk path:
+#   1. JOJO_WIKI_ROOT env var (allows test isolation).
+#   2. Default: sibling ask_jojo_wiki/ at the repo root.
+#
+# If the outputs/ subdirectory does not yet exist we skip the mount silently
+# rather than crashing at startup (the directory is created on first render).
+# ---------------------------------------------------------------------------
+
+def _wiki_outputs_dir() -> Path:
+    env_val = os.environ.get("JOJO_WIKI_ROOT")
+    if env_val:
+        return Path(env_val).resolve() / "outputs"
+    default_root = Path(__file__).resolve().parents[4] / "ask_jojo_wiki"
+    return default_root / "outputs"
+
+
+_outputs_dir = _wiki_outputs_dir()
+if _outputs_dir.exists():
+    app.mount(
+        "/wiki-outputs",
+        StaticFiles(directory=str(_outputs_dir)),
+        name="wiki_outputs",
+    )
 
 
 @app.get("/health", tags=["meta"])

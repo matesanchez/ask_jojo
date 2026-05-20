@@ -31,6 +31,7 @@ import type {
   ChatTurn,
   FileBackResponse,
   FormatClassifyResponse,
+  OutputFileBackRequest,
   OutputFormat,
   QmdStatus,
   QueryResponse,
@@ -281,6 +282,51 @@ export default function ChatPage() {
     }
   }, []);
 
+  // -- output file-back handler ------------------------------------------
+
+  const fileOutput = useCallback(async (turn: ChatTurn) => {
+    // Only meaningful when the format classifier detected a non-markdown format
+    // and the turn has a synthesised answer to file.
+    const format = turn.formatResponse?.format;
+    if (!format || format === "markdown" || !turn.answer) return;
+
+    setTurns((prev) =>
+      prev.map((t) =>
+        t.id === turn.id ? { ...t, outputFileBackStatus: "filing" } : t,
+      ),
+    );
+
+    try {
+      const title = turn.question.slice(0, 80);
+      const payload: OutputFileBackRequest = {
+        title,
+        body: turn.answer,
+        output_format: format,
+        source_question: turn.question,
+        confidence: "low",
+      };
+      await fetchJSON<FileBackResponse>("/api/output/file-back", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+      setTurns((prev) =>
+        prev.map((t) =>
+          t.id === turn.id ? { ...t, outputFileBackStatus: "filed" } : t,
+        ),
+      );
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      setTurns((prev) =>
+        prev.map((t) =>
+          t.id === turn.id
+            ? { ...t, outputFileBackStatus: "error", outputFileBackError: msg }
+            : t,
+        ),
+      );
+    }
+  }, []);
+
   // -- per-turn bundle toggle ---------------------------------------------
 
   const toggleBundle = useCallback((id: string) => {
@@ -383,6 +429,7 @@ export default function ChatPage() {
             showBundle={showBundle[turn.id] ?? false}
             onToggleBundle={() => toggleBundle(turn.id)}
             onFileBack={() => fileBack(turn)}
+            onFileOutput={() => fileOutput(turn)}
           />
         ))}
         {error && <div className="chat-error">{error}</div>}
@@ -423,10 +470,11 @@ interface ChatTurnViewProps {
   showBundle: boolean;
   onToggleBundle: () => void;
   onFileBack: () => void;
+  onFileOutput: () => void;
 }
 
 function ChatTurnView(props: ChatTurnViewProps) {
-  const { turn, showBundle, onToggleBundle, onFileBack } = props;
+  const { turn, showBundle, onToggleBundle, onFileBack, onFileOutput } = props;
   return (
     <div className={"chat-turn chat-turn-" + turn.status}>
       <div className="chat-question">
@@ -472,7 +520,11 @@ function ChatTurnView(props: ChatTurnViewProps) {
           />
         )}
         {turn.status === "answered" && turn.answer && (
-          <AnsweredView turn={turn} onFileBack={onFileBack} />
+          <AnsweredView
+            turn={turn}
+            onFileBack={onFileBack}
+            onFileOutput={onFileOutput}
+          />
         )}
         {turn.status === "error" && (
           <div className="chat-error">{turn.error ?? "Unknown error"}</div>
@@ -586,10 +638,30 @@ function ApiKeyRequired({
 function AnsweredView({
   turn,
   onFileBack,
+  onFileOutput,
 }: {
   turn: ChatTurn;
   onFileBack: () => void;
+  onFileOutput: () => void;
 }) {
+  // Show the "File output" button only when the classifier detected a
+  // non-markdown rich format for this turn.
+  const richFormat = turn.formatResponse?.format;
+  const isRichOutput = richFormat !== undefined && richFormat !== "markdown";
+
+  function outputButtonLabel(): string {
+    switch (turn.outputFileBackStatus) {
+      case "filing":
+        return "Filing...";
+      case "filed":
+        return "Output filed";
+      case "error":
+        return "File error (retry)";
+      default:
+        return `File ${richFormat ?? "output"} to wiki/outputs/`;
+    }
+  }
+
   return (
     <div className="chat-answered">
       <div className="chat-answer-meta">
@@ -622,6 +694,7 @@ function AnsweredView({
         </div>
       )}
       <div className="chat-actions">
+        {/* Existing Q&A file-back button — unchanged. */}
         <button
           type="button"
           className="chat-button chat-button-secondary"
@@ -629,6 +702,30 @@ function AnsweredView({
         >
           File this to wiki/derived/
         </button>
+
+        {/* Rich-output file-back button. Only shown for non-markdown formats. */}
+        {isRichOutput && (
+          <button
+            type="button"
+            className="chat-button chat-button-secondary"
+            onClick={onFileOutput}
+            disabled={turn.outputFileBackStatus === "filing"}
+            title={
+              turn.outputFileBackStatus === "error"
+                ? (turn.outputFileBackError ?? "File output failed")
+                : `File the ${richFormat} output to wiki/outputs/`
+            }
+          >
+            {outputButtonLabel()}
+          </button>
+        )}
+
+        {/* Inline error toast for the output file-back. */}
+        {turn.outputFileBackStatus === "error" && turn.outputFileBackError && (
+          <span className="chat-output-file-error">
+            {turn.outputFileBackError}
+          </span>
+        )}
       </div>
     </div>
   );

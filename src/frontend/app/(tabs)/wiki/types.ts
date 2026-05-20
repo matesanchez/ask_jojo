@@ -18,6 +18,8 @@ export interface WikiTreeFile {
   path: string;
   confidence: WikiConfidence;
   last_updated: string;
+  /** Present on outputs/ pages; mirrors frontmatter.output_format from the backend. */
+  output_format?: string;
 }
 
 export interface WikiTreeDir {
@@ -56,6 +58,17 @@ export interface WikiPage {
   related: string[];
   sources: WikiPageSource[];
   body: string;
+  /**
+   * Present on outputs/ pages. Mirrors frontmatter.output_format returned by
+   * GET /api/wiki/page. Controls which renderer is used in WikiPreview.
+   */
+  output_format?: string;
+  /**
+   * Absolute (or root-relative) path to a rendered artifact file, e.g. a
+   * matplotlib PNG saved alongside the page. Used when output_format is
+   * "matplotlib". Falls back to react-markdown if absent.
+   */
+  output_artifact?: string;
 }
 
 // ------------------------------------------------------------------ search
