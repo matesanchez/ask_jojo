@@ -38,8 +38,9 @@ export default function GraphAuthSection({ onDirtyChange }: Props) {
   useEffect(() => {
     fetchJSON<GraphStatus>("/api/settings/graph")
       .then((s) => {
-        setMode(s.mode === "pasted" ? "pasted" : "device-code");
-        setSavedMode(s.mode);
+        const normalized: "pasted" | "device-code" = s.mode === "pasted" ? "pasted" : "device-code";
+        setMode(normalized);
+        setSavedMode(normalized);
       })
       .catch(() => {});
 
@@ -236,26 +237,13 @@ export default function GraphAuthSection({ onDirtyChange }: Props) {
       <details className="settings-advanced">
         <summary className="settings-advanced-summary">Advanced (Tenant / Client IDs)</summary>
         <div className="settings-field-group settings-advanced-body">
-          <label className="settings-label" htmlFor="graph-tenant-id">
-            Tenant ID
-          </label>
-          <input
-            id="graph-tenant-id"
-            type="text"
-            className="settings-input"
-            defaultValue="1c966021-d551-45e4-89a5-849f81b69208"
-            spellCheck={false}
-          />
-          <label className="settings-label" htmlFor="graph-client-id" style={{ marginTop: "0.75rem" }}>
-            Client ID
-          </label>
-          <input
-            id="graph-client-id"
-            type="text"
-            className="settings-input"
-            defaultValue="14d82eec-204b-4c2f-b7e8-296a70dab67e"
-            spellCheck={false}
-          />
+          <p className="settings-label">Tenant ID</p>
+          <code className="settings-code-display">1c966021-d551-45e4-89a5-849f81b69208</code>
+          <p className="settings-label" style={{ marginTop: "0.5rem" }}>Client ID</p>
+          <code className="settings-code-display">14d82eec-204b-4c2f-b7e8-296a70dab67e</code>
+          <p className="settings-field-hint" style={{ marginTop: "0.5rem" }}>
+            Contact IT to change these values.
+          </p>
         </div>
       </details>
 

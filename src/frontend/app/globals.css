@@ -1404,6 +1404,16 @@ html, body {
   border-top: 1px solid #e4e4e4;
 }
 
+.settings-code-display {
+  display: block;
+  font-size: 0.85rem;
+  background: #f3f3f3;
+  padding: 0.25rem 0.5rem;
+  border-radius: 3px;
+  color: #444;
+  user-select: all;
+}
+
 /* Device code modal */
 .settings-modal-overlay {
   position: fixed;
