@@ -79,7 +79,7 @@ def _cmd_nightly(args: list[str]) -> int:
     from .history import append_run
     from .registry import run_nightly
 
-    print(f"jojo-lint nightly — wiki: {wiki_root}")
+    print(f"jojo-lint nightly -- wiki: {wiki_root}")
     results = run_nightly(wiki_root)
     _print_results_summary(results)
     append_run("nightly", results, history_dir=history_dir)
@@ -106,7 +106,7 @@ def _cmd_weekly(args: list[str]) -> int:
     from .history import append_run
     from .registry import run_weekly
 
-    print(f"jojo-lint weekly — wiki: {wiki_root}")
+    print(f"jojo-lint weekly -- wiki: {wiki_root}")
     results = run_weekly(wiki_root)
     _print_results_summary(results)
     append_run("weekly", results, history_dir=history_dir)

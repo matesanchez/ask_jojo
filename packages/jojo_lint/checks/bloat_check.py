@@ -50,7 +50,7 @@ def run(
                     "slug": slug,
                     "message": (
                         f"{line_count} lines / {byte_count} bytes"
-                        " — exceeds threshold"
+                        " -- exceeds threshold"
                     ),
                     "severity": "warn",
                 }

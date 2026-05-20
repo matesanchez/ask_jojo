@@ -37,7 +37,7 @@ def _find_shared_link_pairs(wiki_root: Path) -> list[dict]:
                             "slug": sources[i],
                             "message": (
                                 f"shares wikilink target [[{target_slug}]]"
-                                f" with [[{sources[j]}]] — contradiction candidate"
+                                f" with [[{sources[j]}]] -- contradiction candidate"
                             ),
                             "severity": "info",
                         }

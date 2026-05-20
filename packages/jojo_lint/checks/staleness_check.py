@@ -61,7 +61,7 @@ def run(
             candidates.append(
                 {
                     "slug": slug,
-                    "message": f"last_reviewed {age_days} days ago — staleness candidate",
+                    "message": f"last_reviewed {age_days} days ago -- staleness candidate",
                     "severity": "warn",
                 }
             )

@@ -8,11 +8,6 @@ from typing import Any
 
 import yaml
 
-# Files to exclude from wiki page enumeration at the wiki root level.
-_ROOT_EXCLUDES: frozenset[str] = frozenset(
-    {"_index.md", "_backlinks.json", "SCHEMA.md", "README.md", "_log.md"}
-)
-
 
 def iter_wiki_pages(wiki_root: Path) -> list[Path]:
     """Return all ``.md`` page files under ``wiki_root``, excluding meta-files.

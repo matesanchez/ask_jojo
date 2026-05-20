@@ -84,7 +84,7 @@ def run(
                             "slug": "_manifest",
                             "message": (
                                 f"manifest entry {title!r} has no"
-                                " matching wiki slug — missing article candidate"
+                                " matching wiki slug -- missing article candidate"
                             ),
                             "severity": "info",
                         }
