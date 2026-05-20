@@ -808,3 +808,209 @@ html, body {
   color: #444;
   border-bottom-color: #888;
 }
+
+/* ------------------------------------------------------------------ Graph tab */
+/* Phase 7a: D3 iframe view */
+
+.graph-tab {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: -2rem -1.5rem;
+  padding: 1rem 1.5rem;
+  min-height: calc(100vh - 60px);
+  max-width: none;
+}
+
+.graph-topbar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.graph-button {
+  padding: 0.3rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #f5f5f5;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.graph-button:hover:not(:disabled) {
+  background: #e8e8e8;
+}
+
+.graph-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.graph-button-active {
+  background: #e8efff;
+  border-color: #3949ab;
+  color: #3949ab;
+}
+
+.graph-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.graph-badge-ok {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.graph-badge-warn {
+  background: #fff3cd;
+  color: #8a6d00;
+}
+
+.graph-stats {
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.graph-error {
+  font-size: 0.85rem;
+  color: #a31515;
+}
+
+.graph-body {
+  display: grid;
+  grid-template-columns: 1fr 260px;
+  gap: 0.75rem;
+  flex: 1 1 auto;
+  min-height: 0;
+}
+
+.graph-iframe {
+  width: 100%;
+  height: 100%;
+  min-height: 600px;
+  border: 1px solid #e4e4e4;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.graph-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  background: #fff;
+  border: 1px solid #e4e4e4;
+  border-radius: 6px;
+  padding: 0.75rem;
+  overflow: auto;
+  font-size: 0.85rem;
+}
+
+.graph-sidebar h3 {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.graph-report {
+  white-space: pre-wrap;
+  font-size: 0.78rem;
+  color: #555;
+  margin: 0;
+  overflow-x: auto;
+}
+
+.graph-highlight-banner {
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.6rem;
+  background: #eef2ff;
+  border-radius: 4px;
+  font-size: 0.82rem;
+  color: #3949ab;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  align-items: center;
+}
+
+.graph-highlight-banner code {
+  background: #dde4ff;
+  padding: 0 4px;
+  border-radius: 3px;
+  font-size: 0.78rem;
+}
+
+/* View toggle */
+.graph-view-toggle {
+  display: flex;
+  gap: 0.25rem;
+}
+
+/* ------------------------------------------------------------------ Brain view */
+/* Phase 7a: Three.js 3D knowledge graph */
+
+.brain-view-container {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 120px);
+  background: #0d0d0d;
+  overflow: hidden;
+}
+
+.brain-view-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: rgba(0,0,0,0.8);
+  color: #eee;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: pre-line;
+  max-width: 240px;
+  z-index: 10;
+}
+
+.brain-view-controls {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.brain-view-search {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  width: 160px;
+}
+
+.brain-view-btn {
+  background: rgba(0,0,0,0.6);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: rgba(255,255,255,0.8);
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.brain-view-btn.active {
+  background: rgba(74,144,217,0.3);
+  border-color: rgba(74,144,217,0.6);
+  color: white;
+}
