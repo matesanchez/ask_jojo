@@ -8,7 +8,7 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ## 2026-05-20 — Pre-release audits
 
-### FU-23. pymupdf (AGPL-3.0) + html2text (GPL-3.0) — Legal review required before distribution — **OPEN**
+### FU-23. pymupdf (AGPL-3.0) + html2text (GPL-3.0) — Legal review required before distribution — **RESOLVED 2026-05-20**
 
 **Severity:** must (before any binary distribution of the installer to end-user workstations).
 **Surfaced:** License inventory audit (2026-05-20) — `docs/license-inventory.md` flagged two dependencies with copyleft licenses incompatible with proprietary distribution.
@@ -20,13 +20,17 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 1. **(Preferred)** Replace `html2text` with `markdownify` (MIT). For `pymupdf`, either obtain an Artifex commercial license or replace with `pypdf` (MIT/BSD) — note that `pypdf` has weaker table extraction than pymupdf. Get Legal sign-off on the final dependency list before shipping an installer build.
 2. **(Alternative)** Legal confirms in writing that internal-only distribution to Nurix workstations (never shipped to customers or distributed externally) falls within acceptable use. Update `license-inventory.md` with that confirmation.
 
+**Resolution:** Path 2 confirmed. Legal (verbal, Mateo de los Rios, 2026-05-20): JoJo Bot is internal-only, never distributed to customers, not a network service. Both licenses acceptable. `docs/license-inventory.md` updated. No replacements needed.
+
 ---
 
-### FU-22. `/api/raw/tree` p95 latency ~1.8 s — **OPEN**
+### FU-22. `/api/raw/tree` p95 latency ~1.8 s — **RESOLVED 2026-05-20**
 
 **Severity:** should (blocking for production load-test SLA of 500 ms p95).
 **Surfaced:** Stress test (2026-05-20) — async load test showed `GET /api/raw/tree` consistently takes 1.8 s p95 at low concurrency because it walks all 15,473 raw-repo entries on every call.
 **Exit condition:** Add a 30–60 s TTL cache on the raw tree response (or paginate) so p95 falls below 500 ms under 100 concurrent users.
+
+**Resolution:** mtime-keyed cache added to `src/backend/routers/raw_router.py` (`_cached_tree` / `_store_tree`). Cache key is manifest path + `st_mtime`; busts immediately when ingest writes a new manifest. 60 s TTL safety cap. Cache hit cost < 1 ms. 11/11 raw endpoint tests pass including new `test_tree_cache_busts_on_manifest_change`.
 
 ---
 

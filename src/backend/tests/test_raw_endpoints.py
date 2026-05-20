@@ -186,6 +186,28 @@ def test_tree_sorts_dirs_before_files_at_same_level(client_with_raw):
     assert kinds == ["dir", "file"]
 
 
+def test_tree_cache_busts_on_manifest_change(client_with_raw):
+    """Second call returns cached result; adding an entry busts the cache."""
+    client, raw = client_with_raw
+    e1 = _write_entry(raw, entry_id="d_a", rel_path="drive/a.md", title="A", body="# A\n")
+    _save_manifest(raw, [e1])
+
+    r1 = client.get("/api/raw/tree")
+    assert r1.json()["total_entries"] == 1
+
+    # Second call — manifest unchanged — hits the cache (same result).
+    r2 = client.get("/api/raw/tree")
+    assert r2.json()["total_entries"] == 1
+
+    # Add a second entry and rewrite the manifest (mtime advances).
+    e2 = _write_entry(raw, entry_id="d_b", rel_path="drive/b.md", title="B", body="# B\n")
+    _save_manifest(raw, [e1, e2])
+
+    # Cache must bust because manifest mtime changed.
+    r3 = client.get("/api/raw/tree")
+    assert r3.json()["total_entries"] == 2
+
+
 # -------------------------------------------------------------------- /file
 def test_file_returns_frontmatter_and_body(client_with_raw):
     client, raw = client_with_raw

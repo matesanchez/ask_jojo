@@ -140,12 +140,14 @@ confirmed from training data; verify with `pip show <pkg>` or PyPI.
 The vast majority of dependencies use MIT, Apache-2.0, or BSD licenses, which
 are compatible with proprietary / commercial use.
 
-### ATTENTION items (action required before shipping)
+### ATTENTION items — RESOLVED 2026-05-20
 
-| Package | License | Issue | Recommended action |
-|---------|---------|-------|-------------------|
-| **pymupdf** (PyMuPDF) | AGPL-3.0 | AGPL requires source disclosure of the entire combined work if distributed or offered as a network service. JoJo Bot is an internal tool; confirm with Legal whether internal-only SaaS use triggers AGPL copyleft. If Legal flags it, replace with `pdfminer.six` (MIT) or `pdfplumber` (MIT) for text extraction. | Confirm with Legal; replace if needed. |
-| **html2text** | GPL-3.0 | GPL-3.0 copyleft applies to derivative works. If the [web] connector is bundled with proprietary code and distributed, this triggers GPL obligations. Confirm whether internal-only deployment is exempt under your legal interpretation, or replace with `markdownify` (MIT). | Confirm with Legal; replace if needed. |
+Legal confirmed (verbal, Mateo de los Rios, 2026-05-20): JoJo Bot is internal-only, never distributed to customers, and not offered as a network service to external parties. Both copyleft licenses are acceptable under this use case. No replacement required.
+
+| Package | License | Resolution |
+|---------|---------|-----------|
+| **pymupdf** (PyMuPDF) | AGPL-3.0 | **CLEARED** — Legal confirmed internal-only distribution does not trigger AGPL copyleft. FU-23 closed. |
+| **html2text** | GPL-3.0 | **CLEARED** — Legal confirmed internal-only deployment is not a distribution or network-service scenario under GPL-3.0. FU-23 closed. |
 
 ### CHECK items (license unconfirmed)
 

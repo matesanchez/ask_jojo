@@ -29,6 +29,7 @@ Implementation notes:
 
 from __future__ import annotations
 
+import time
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
@@ -38,6 +39,41 @@ from fastapi import APIRouter, HTTPException
 from jojo_connectors_common import Manifest, split_frontmatter
 
 router = APIRouter()
+
+# -------------------------------------------------------------------- tree cache
+# Cache the /tree response keyed by manifest path + mtime so it busts
+# immediately when ingest writes a new manifest, but costs nothing on
+# back-to-back requests. 60-second TTL is a safety cap against a stale
+# mtime (e.g. clock skew or touch-without-content-change).
+_TREE_CACHE: dict[str, Any] = {}  # manifest_path_str -> {mtime, cached_at, result}
+_TREE_CACHE_TTL = 60.0
+
+
+def _cached_tree(manifest_path: Path) -> dict[str, Any] | None:
+    entry = _TREE_CACHE.get(str(manifest_path))
+    if entry is None:
+        return None
+    if time.monotonic() - entry["cached_at"] > _TREE_CACHE_TTL:
+        return None
+    try:
+        mtime = manifest_path.stat().st_mtime if manifest_path.exists() else 0.0
+    except OSError:
+        return None
+    if mtime != entry["mtime"]:
+        return None
+    return entry["result"]
+
+
+def _store_tree(manifest_path: Path, result: dict[str, Any]) -> None:
+    try:
+        mtime = manifest_path.stat().st_mtime if manifest_path.exists() else 0.0
+    except OSError:
+        mtime = 0.0
+    _TREE_CACHE[str(manifest_path)] = {
+        "mtime": mtime,
+        "cached_at": time.monotonic(),
+        "result": result,
+    }
 
 
 # -------------------------------------------------------------------- config
@@ -156,13 +192,25 @@ def get_tree() -> dict[str, Any]:
 
     The UI expects `children` on dirs and `entry` on files. Empty manifest
     → empty tree; not an error.
+
+    Result is cached keyed on manifest mtime — busts automatically when
+    ingest writes a new manifest, costs <1 ms on a cache hit.
     """
+    raw_root = _raw_root()
+    manifest_path = raw_root / "manifest.json"
+
+    cached = _cached_tree(manifest_path)
+    if cached is not None:
+        return cached
+
     manifest = _load_manifest()
-    return {
-        "raw_root": str(_raw_root()),
+    result = {
+        "raw_root": str(raw_root),
         "total_entries": len(manifest.entries),
         "tree": _build_tree(manifest),
     }
+    _store_tree(manifest_path, result)
+    return result
 
 
 @router.get("/file/{entry_id}")
