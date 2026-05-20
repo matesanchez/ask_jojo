@@ -443,3 +443,368 @@ html, body {
     max-height: 200px;
   }
 }
+
+/* ------------------------------------------------------------------ Ops tab */
+/* Phase 6: Lint UI */
+
+.ops-card {
+  background: #fff;
+  border: 1px solid #e4e4e4;
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+}
+
+.ops-card-title {
+  margin: 0 0 0.75rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.ops-loading {
+  color: #888;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.ops-empty {
+  color: #888;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.ops-lint-history-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.ops-lint-bottom-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 900px) {
+  .ops-lint-history-row,
+  .ops-lint-bottom-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Lint History Card */
+
+.ops-lint-history-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+
+.ops-lint-scope-badge {
+  display: inline-block;
+  padding: 0 6px;
+  border-radius: 4px;
+  background: #eef2ff;
+  color: #3949ab;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.ops-lint-run-btn {
+  padding: 0.25rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #f5f5f5;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.ops-lint-run-btn:hover:not(:disabled) {
+  background: #e8e8e8;
+}
+
+.ops-lint-run-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.ops-lint-error {
+  color: #a31515;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.ops-lint-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+.ops-lint-table th {
+  text-align: left;
+  padding: 0.3rem 0.5rem;
+  border-bottom: 1px solid #e4e4e4;
+  color: #666;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.ops-lint-table td {
+  padding: 0.3rem 0.5rem;
+  border-bottom: 1px solid #f2f2f2;
+  vertical-align: top;
+}
+
+.ops-lint-row:hover td {
+  background: #fafafa;
+}
+
+.ops-lint-row-expanded td {
+  background: #f8f9ff;
+}
+
+.ops-lint-count {
+  text-align: center;
+  font-weight: 500;
+  min-width: 3rem;
+}
+
+.ops-lint-count-pass { color: #2e7d32; }
+.ops-lint-count-warn { color: #8a6d00; }
+.ops-lint-count-fail { color: #a31515; }
+.ops-lint-count-apikey { color: #555; }
+
+.ops-lint-expand-btn {
+  border: none;
+  background: transparent;
+  font: inherit;
+  font-size: 0.8rem;
+  color: #555;
+  cursor: pointer;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.ops-lint-expand-btn:hover {
+  color: #1a1a1a;
+}
+
+.ops-lint-detail-row td {
+  background: #f8f9ff;
+  padding: 0.5rem 0.75rem;
+}
+
+.ops-lint-check {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.ops-lint-check-name {
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.ops-lint-status {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.ops-lint-status-pass { color: #2e7d32; }
+.ops-lint-status-warn { color: #8a6d00; }
+.ops-lint-status-fail { color: #a31515; }
+.ops-lint-status-api_key_required { color: #555; }
+
+.ops-lint-apikey-badge {
+  display: inline-block;
+  padding: 0 6px;
+  border-radius: 4px;
+  background: #fff3cd;
+  color: #8a6d00;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.ops-lint-duration {
+  font-size: 0.75rem;
+  color: #888;
+}
+
+.ops-lint-findings {
+  list-style: none;
+  margin: 0.4rem 0 0;
+  padding: 0;
+  width: 100%;
+}
+
+.ops-lint-finding {
+  font-size: 0.82rem;
+  padding: 0.15rem 0;
+  display: flex;
+  gap: 0.4rem;
+  align-items: baseline;
+}
+
+.ops-lint-finding-error { color: #a31515; }
+.ops-lint-finding-warn { color: #8a6d00; }
+.ops-lint-finding-info { color: #555; }
+
+/* Review Queue Card */
+
+.ops-review-healthy {
+  color: #2e7d32;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.ops-review-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.ops-review-item {
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+  padding: 0.5rem 0.75rem;
+  background: #fafafa;
+}
+
+.ops-review-item-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.3rem;
+}
+
+.ops-review-slug {
+  font-size: 0.88rem;
+  background: #eef2ff;
+  padding: 1px 5px;
+  border-radius: 3px;
+  color: #3949ab;
+}
+
+.ops-review-view-link {
+  font-size: 0.82rem;
+  color: #555;
+  text-decoration: none;
+}
+
+.ops-review-view-link:hover {
+  text-decoration: underline;
+  color: #1a1a1a;
+}
+
+.ops-review-messages {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.ops-review-message {
+  font-size: 0.83rem;
+  display: flex;
+  gap: 0.4rem;
+  align-items: baseline;
+  color: #444;
+}
+
+.ops-lint-severity-badge {
+  display: inline-block;
+  padding: 0 5px;
+  border-radius: 3px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  flex-shrink: 0;
+}
+
+.ops-lint-severity-badge-error {
+  background: #fdecea;
+  color: #a31515;
+}
+
+.ops-lint-severity-badge-warn {
+  background: #fff3cd;
+  color: #8a6d00;
+}
+
+/* LintMetrics sparklines */
+
+.ops-sparklines-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+@media (max-width: 700px) {
+  .ops-sparklines-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ops-sparkline {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.ops-sparkline-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.ops-sparkline-chart {
+  height: 80px;
+  position: relative;
+}
+
+.ops-sparkline-empty {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  height: 80px;
+  color: #888;
+  font-size: 0.85rem;
+}
+
+.ops-sparkline-no-data {
+  color: #aaa;
+  font-style: italic;
+}
+
+/* ------------------------------------------------------------------ Chat tab */
+/* Phase 7a: Show in graph link */
+
+.chat-show-in-graph {
+  display: inline-block;
+  margin-left: 0.75rem;
+  font-size: 0.8rem;
+  color: #888;
+  text-decoration: none;
+  border-bottom: 1px dashed #ccc;
+  white-space: nowrap;
+}
+
+.chat-show-in-graph:hover {
+  color: #444;
+  border-bottom-color: #888;
+}

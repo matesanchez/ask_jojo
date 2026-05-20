@@ -22,6 +22,9 @@
  */
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import LintHistoryCard from "../../../components/LintHistoryCard";
+import LintMetrics from "../../../components/LintMetrics";
+import ReviewQueueCard from "../../../components/ReviewQueueCard";
 
 // ------------------------------------------------------------------ types
 
@@ -337,14 +340,8 @@ function RecentJobsList({ jobs }: { jobs: JobRecord[] }) {
   );
 }
 
-function Phase6Placeholder({ title }: { title: string }) {
-  return (
-    <div className="ops-card ops-phase6-placeholder">
-      <h3 className="ops-card-title">{title}</h3>
-      <p className="ops-phase6-label">Phase 6 coming soon</p>
-    </div>
-  );
-}
+// Phase6Placeholder removed — slots replaced by LintHistoryCard, LintMetrics,
+// and ReviewQueueCard (Phase 6 implementation).
 
 // ------------------------------------------------------------------ page
 
@@ -492,9 +489,17 @@ export default function OpsPage() {
       {/* ── recent jobs ────────────────────────────────────────────── */}
       <RecentJobsList jobs={jobs} />
 
-      {/* ── phase 6 placeholders ───────────────────────────────────── */}
-      <Phase6Placeholder title="Lint History" />
-      <Phase6Placeholder title="Review Queue" />
+      {/* ── phase 6: lint history (nightly + weekly) ───────────────── */}
+      <div className="ops-lint-history-row">
+        <LintHistoryCard scope="nightly" />
+        <LintHistoryCard scope="weekly" />
+      </div>
+
+      {/* ── phase 6: metrics trendlines + review queue ─────────────── */}
+      <div className="ops-lint-bottom-row">
+        <LintMetrics />
+        <ReviewQueueCard />
+      </div>
     </div>
   );
 }
