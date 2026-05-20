@@ -2,6 +2,16 @@
   box-sizing: border-box;
 }
 
+:root {
+  --nurix-navy:       #00164a;
+  --nurix-navy-dark:  #000e30;
+  --nurix-navy-light: #002080;
+  --nurix-red:        #F14468;
+  --nurix-gold:       #FDB604;
+  --nurix-gold-hover: #e5a400;
+  --nurix-tint:       #e8edf8;
+}
+
 html, body {
   margin: 0;
   padding: 0;
@@ -15,19 +25,31 @@ html, body {
   align-items: center;
   gap: 2rem;
   padding: 0.75rem 1.5rem;
-  border-bottom: 1px solid #e4e4e4;
-  background: #ffffff;
+  border-bottom: 1px solid var(--nurix-navy-light);
+  background: var(--nurix-navy);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 .jojo-brand a {
-  color: inherit;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #fff;
   text-decoration: none;
   font-weight: 600;
   font-size: 1.1rem;
 }
 
+.jojo-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid var(--nurix-gold);
+  flex-shrink: 0;
+}
+
 .jojo-version {
-  color: #888;
+  color: var(--nurix-gold);
   font-weight: 400;
   font-size: 0.85rem;
   margin-left: 0.3rem;
@@ -39,7 +61,7 @@ html, body {
 }
 
 .jojo-nav-link {
-  color: #555;
+  color: rgba(255,255,255,0.7);
   text-decoration: none;
   font-weight: 500;
   padding-bottom: 2px;
@@ -47,8 +69,8 @@ html, body {
 }
 
 .jojo-nav-link:hover {
-  color: #1a1a1a;
-  border-bottom-color: #1a1a1a;
+  color: #fff;
+  border-bottom-color: var(--nurix-gold);
 }
 
 .jojo-main {
@@ -72,8 +94,8 @@ html, body {
   display: inline-block;
   padding: 2px 8px;
   border-radius: 4px;
-  background: #eef2ff;
-  color: #3949ab;
+  background: #eaecf5;
+  color: #00164a;
   font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.02em;
@@ -227,8 +249,8 @@ html, body {
 }
 
 .raw-tree-file-btn.is-active {
-  background: #e8efff;
-  color: #1a3a8a;
+  background: #e8edf8;
+  color: #002080;
 }
 
 .raw-tree-caret {
@@ -392,7 +414,7 @@ html, body {
 }
 
 .markdown-body a {
-  color: #1a3a8a;
+  color: #002080;
 }
 
 /* Bottom bar */
@@ -507,8 +529,8 @@ html, body {
   display: inline-block;
   padding: 0 6px;
   border-radius: 4px;
-  background: #eef2ff;
-  color: #3949ab;
+  background: #eaecf5;
+  color: #00164a;
   font-size: 0.8rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -566,7 +588,7 @@ html, body {
 }
 
 .ops-lint-row-expanded td {
-  background: #f8f9ff;
+  background: #f5f6fb;
 }
 
 .ops-lint-count {
@@ -596,7 +618,7 @@ html, body {
 }
 
 .ops-lint-detail-row td {
-  background: #f8f9ff;
+  background: #f5f6fb;
   padding: 0.5rem 0.75rem;
 }
 
@@ -689,10 +711,10 @@ html, body {
 
 .ops-review-slug {
   font-size: 0.88rem;
-  background: #eef2ff;
+  background: #eaecf5;
   padding: 1px 5px;
   border-radius: 3px;
-  color: #3949ab;
+  color: #00164a;
 }
 
 .ops-review-view-link {
@@ -849,9 +871,9 @@ html, body {
 }
 
 .graph-button-active {
-  background: #e8efff;
-  border-color: #3949ab;
-  color: #3949ab;
+  background: #e8edf8;
+  border-color: #00164a;
+  color: #00164a;
 }
 
 .graph-badge {
@@ -931,10 +953,10 @@ html, body {
 .graph-highlight-banner {
   margin-top: 0.5rem;
   padding: 0.4rem 0.6rem;
-  background: #eef2ff;
+  background: #eaecf5;
   border-radius: 4px;
   font-size: 0.82rem;
-  color: #3949ab;
+  color: #00164a;
   display: flex;
   flex-wrap: wrap;
   gap: 0.3rem;
@@ -942,7 +964,7 @@ html, body {
 }
 
 .graph-highlight-banner code {
-  background: #dde4ff;
+  background: #d0d5ec;
   padding: 0 4px;
   border-radius: 3px;
   font-size: 0.78rem;
@@ -1083,7 +1105,7 @@ html, body {
 }
 
 .settings-section-highlight {
-  box-shadow: 0 0 0 2px #3949ab44;
+  box-shadow: 0 0 0 2px #00164a44;
 }
 
 .settings-section-title {
@@ -1131,7 +1153,7 @@ html, body {
 
 .settings-input:focus {
   outline: none;
-  border-color: #3949ab;
+  border-color: #00164a;
   background: #fff;
 }
 
@@ -1169,7 +1191,7 @@ html, body {
 
 .settings-textarea:focus {
   outline: none;
-  border-color: #3949ab;
+  border-color: #00164a;
   background: #fff;
 }
 
@@ -1284,9 +1306,9 @@ html, body {
 
 .settings-btn-primary {
   padding: 0.3rem 0.9rem;
-  border: 1px solid #3949ab;
+  border: 1px solid #00164a;
   border-radius: 4px;
-  background: #3949ab;
+  background: #00164a;
   color: #fff;
   font: inherit;
   font-size: 0.88rem;
@@ -1295,8 +1317,8 @@ html, body {
 }
 
 .settings-btn-primary:hover:not(:disabled) {
-  background: #2e3a9a;
-  border-color: #2e3a9a;
+  background: #000e30;
+  border-color: #000e30;
 }
 
 .settings-btn-primary:disabled {
@@ -1481,7 +1503,7 @@ html, body {
 }
 
 .settings-link {
-  color: #3949ab;
+  color: #00164a;
   text-decoration: underline;
   word-break: break-all;
 }
@@ -1647,8 +1669,8 @@ html, body {
   width: 1.5rem;
   height: 1.5rem;
   border-radius: 50%;
-  background: #eef2ff;
-  color: #3949ab;
+  background: #eaecf5;
+  color: #00164a;
   font-size: 0.78rem;
   font-weight: 700;
   flex-shrink: 0;
@@ -1665,7 +1687,7 @@ html, body {
   display: inline-block;
   align-self: flex-start;
   padding: 0.5rem 1.25rem;
-  background: #3949ab;
+  background: #00164a;
   color: #fff;
   text-decoration: none;
   border-radius: 5px;
@@ -1674,5 +1696,5 @@ html, body {
 }
 
 .welcome-cta:hover {
-  background: #2e3a9a;
+  background: #000e30;
 }

@@ -26,7 +26,11 @@ export default function RootLayout({
       <body>
         <header className="jojo-header">
           <div className="jojo-brand">
-            <Link href="/">JoJo Bot <span className="jojo-version">v2.0</span></Link>
+            <Link href="/">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/jojo-avatar.png" alt="" className="jojo-avatar" width={28} height={28} />
+              JoJo Bot <span className="jojo-version">v2.0</span>
+            </Link>
           </div>
           <nav className="jojo-nav" aria-label="Primary">
             {TABS.map((t) => (
