@@ -263,3 +263,141 @@ def test_lint_metrics_empty(client, monkeypatch, tmp_path):
     body = r.json()
     assert "series" in body
     assert isinstance(body["series"], list)
+
+
+def test_lint_weekly_no_api_key(monkeypatch, tmp_path):
+    """POST /api/ops/lint/weekly returns 200 with api_key_required stubs when no key."""
+    import yaml
+
+    wiki = tmp_path / "wiki"
+    wiki.mkdir()
+    (wiki / "_index.md").write_text("# Wiki Index\n", encoding="utf-8")
+    hist = tmp_path / "hist"
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+
+    from fastapi.testclient import TestClient
+    from backend.main import app
+
+    c = TestClient(app)
+    r = c.post("/api/ops/lint/weekly")
+    assert r.status_code == 200
+    body = r.json()
+    assert body["scope"] == "weekly"
+    assert isinstance(body["results"], list)
+    assert len(body["results"]) == 4
+    statuses = {res["status"] for res in body["results"]}
+    assert statuses == {"api_key_required"}
+
+
+def test_lint_history_scope_filter(monkeypatch, tmp_path):
+    """GET /api/ops/lint/history?scope=nightly returns only nightly runs."""
+    import json
+    from datetime import datetime, timezone
+
+    hist = tmp_path / "hist"
+    hist.mkdir()
+    jl = hist / "lint-history.jsonl"
+    now = datetime.now(tz=timezone.utc).isoformat()
+    jl.write_text(
+        json.dumps({"scope": "nightly", "run_at": now, "results": []}) + "\n"
+        + json.dumps({"scope": "weekly", "run_at": now, "results": []}) + "\n",
+        encoding="utf-8",
+    )
+    monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
+
+    from fastapi.testclient import TestClient
+    from backend.main import app
+
+    c = TestClient(app)
+    r = c.get("/api/ops/lint/history?scope=nightly")
+    assert r.status_code == 200
+    runs = r.json()["runs"]
+    assert all(run["scope"] == "nightly" for run in runs)
+    assert len(runs) == 1
+
+
+def test_lint_history_days_excludes_old_runs(monkeypatch, tmp_path):
+    """GET /api/ops/lint/history?days=7 excludes runs older than 7 days."""
+    import json
+
+    hist = tmp_path / "hist"
+    hist.mkdir()
+    jl = hist / "lint-history.jsonl"
+    jl.write_text(
+        json.dumps({"scope": "nightly", "run_at": "2020-01-01T00:00:00+00:00", "results": []}) + "\n"
+        + json.dumps({"scope": "nightly", "run_at": "2026-05-19T00:00:00+00:00", "results": []}) + "\n",
+        encoding="utf-8",
+    )
+    monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
+
+    from fastapi.testclient import TestClient
+    from backend.main import app
+
+    c = TestClient(app)
+    r = c.get("/api/ops/lint/history?days=7")
+    assert r.status_code == 200
+    runs = r.json()["runs"]
+    assert all(run["run_at"] >= "2026-05-12" for run in runs)
+
+
+def test_lint_metrics_with_seeded_history(monkeypatch, tmp_path):
+    """GET /api/ops/lint/metrics returns populated series when history has data."""
+    import json
+
+    hist = tmp_path / "hist"
+    hist.mkdir()
+    jl = hist / "lint-history.jsonl"
+    run = {
+        "scope": "nightly",
+        "run_at": "2026-05-19T00:00:00+00:00",
+        "results": [
+            {"check_name": "orphan", "status": "ok", "findings": [], "run_at": "2026-05-19T00:00:00+00:00", "duration_ms": 100},
+            {"check_name": "schema", "status": "ok", "findings": [], "run_at": "2026-05-19T00:00:00+00:00", "duration_ms": 80},
+            {"check_name": "stub", "status": "ok", "findings": [], "run_at": "2026-05-19T00:00:00+00:00", "duration_ms": 90},
+            {"check_name": "wikilink", "status": "ok", "findings": [], "run_at": "2026-05-19T00:00:00+00:00", "duration_ms": 70},
+            {"check_name": "bloat", "status": "ok", "findings": [], "run_at": "2026-05-19T00:00:00+00:00", "duration_ms": 60},
+            {"check_name": "quote_budget", "status": "ok", "findings": [], "run_at": "2026-05-19T00:00:00+00:00", "duration_ms": 50},
+        ],
+    }
+    jl.write_text(json.dumps(run) + "\n", encoding="utf-8")
+    monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
+
+    from fastapi.testclient import TestClient
+    from backend.main import app
+
+    c = TestClient(app)
+    r = c.get("/api/ops/lint/metrics?days=30")
+    assert r.status_code == 200
+    series = r.json()["series"]
+    assert len(series) >= 1
+    point = series[0]
+    assert "run_at" in point
+    assert "orphan_count" in point
+    assert "avg_confidence_score" in point
+    assert "stale_count" in point
+    assert "wikilink_error_count" in point
+
+
+def test_lint_registry_error_returns_500(monkeypatch, tmp_path):
+    """POST /api/ops/lint/nightly returns 500 when the registry raises."""
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(tmp_path / "wiki"))
+    monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(tmp_path / "hist"))
+
+    import jojo_lint.registry as reg
+    monkeypatch.setattr(reg, "run_nightly", lambda wiki: (_ for _ in ()).throw(RuntimeError("boom")))
+
+    from fastapi.testclient import TestClient
+    from backend.main import app
+
+    c = TestClient(app)
+    r = c.post("/api/ops/lint/nightly")
+    assert r.status_code == 500
+    assert "boom" in r.json()["detail"]
+
+
+def test_lint_history_days_query_bounds(client):
+    """GET /api/ops/lint/history?days=0 returns 422 (below ge=1 constraint)."""
+    r = client.get("/api/ops/lint/history?days=0")
+    assert r.status_code == 422
