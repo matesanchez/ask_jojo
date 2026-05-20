@@ -91,8 +91,13 @@ $specFile = Join-Path $PSScriptRoot "JojoBot.spec"
 
 Push-Location $RepoRoot
 try {
+    # Temporarily lower EAP so PyInstaller's DEPRECATION warnings to stderr
+    # don't get wrapped as NativeCommandError in PowerShell 5.1.
+    $prevEAP2 = $ErrorActionPreference; $ErrorActionPreference = "Continue"
     & $python -m PyInstaller $specFile --noconfirm
-    if ($LASTEXITCODE -ne 0) { throw "PyInstaller failed with exit $LASTEXITCODE" }
+    $pyiExit = $LASTEXITCODE
+    $ErrorActionPreference = $prevEAP2
+    if ($pyiExit -ne 0) { throw "PyInstaller failed with exit $pyiExit" }
 } finally {
     Pop-Location
 }
