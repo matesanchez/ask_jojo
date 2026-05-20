@@ -52,12 +52,16 @@ V1_KEYWORDS: tuple[str, ...] = (
     "buffer",
 )
 
-# Compiled once at import time. ``\b`` boundaries prevent "Pure" (the
-# instrument suffix in "AKTA Pure 25") from matching ``purif`` and
-# prevent "buffer" from matching unrelated tokens. The pattern is built
-# rather than hard-coded so additions to V1_KEYWORDS propagate.
+# "chromatograph" and "purif" are prefix stems — they should match
+# "chromatography", "chromatographic", "purification", "purified" etc.
+# Exact-word keywords ("akta", "unicorn", "buffer") keep both boundaries.
+_STEM_KEYWORDS: frozenset[str] = frozenset({"chromatograph", "purif"})
+
 _V1_PATTERN: re.Pattern[str] = re.compile(
-    r"\b(?:" + "|".join(re.escape(k) for k in V1_KEYWORDS) + r")\b",
+    "|".join(
+        r"\b" + re.escape(k) + ("" if k in _STEM_KEYWORDS else r"\b")
+        for k in V1_KEYWORDS
+    ),
     re.IGNORECASE,
 )
 

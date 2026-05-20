@@ -54,11 +54,26 @@ class RawHit:
 
 
 def _tokenize(text: str) -> set[str]:
-    """Same tokenizer as ``index_loader._tokenize`` for consistency."""
-    return {
-        t for t in re.findall(r"[A-Za-z0-9][A-Za-z0-9\-]+", text.lower())
-        if len(t) >= 2
-    }
+    """Same tokenizer as ``index_loader._tokenize`` for consistency.
+
+    Also yields consecutive hyphen-joined sub-tokens so that a query
+    token like "cbl-b" matches within a longer token like "cbl-b-team".
+    """
+    tokens: set[str] = set()
+    for tok in re.findall(r"[A-Za-z0-9][A-Za-z0-9\-]+", text.lower()):
+        if len(tok) < 2:
+            continue
+        tokens.add(tok)
+        if "-" in tok:
+            parts = [p for p in tok.split("-") if p]
+            for part in parts:
+                if len(part) >= 2:
+                    tokens.add(part)
+            for i in range(len(parts) - 1):
+                sub = parts[i] + "-" + parts[i + 1]
+                if len(sub) >= 2:
+                    tokens.add(sub)
+    return tokens
 
 
 def score_entry(entry: dict[str, Any], q_tokens: set[str]) -> int:

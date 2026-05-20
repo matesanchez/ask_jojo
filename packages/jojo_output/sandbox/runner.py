@@ -26,10 +26,14 @@ from __future__ import annotations
 import base64
 import json
 import os
-import resource
 import subprocess
 import sys
 import time
+
+try:
+    import resource
+except ImportError:
+    resource = None  # type: ignore[assignment]  # Windows — POSIX rlimits unavailable
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Literal
@@ -169,6 +173,8 @@ def _run_in_process(
 
 def _set_rlimits(cpu_seconds: int, ram_megabytes: int) -> None:
     """preexec_fn for the subprocess. POSIX only."""
+    if resource is None:
+        return
     # CPU time (seconds). Receives SIGXCPU when exceeded.
     resource.setrlimit(resource.RLIMIT_CPU, (cpu_seconds, cpu_seconds))
     # Address space (bytes). On modern Linux this caps virtual memory.

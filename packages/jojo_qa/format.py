@@ -106,6 +106,8 @@ _PATTERNS: list[tuple[re.Pattern[str], Format, str, int]] = [
      "table", "explicit compare-as-table", 10),
     (re.compile(r"\bin\s+(a\s+)?table\b", re.IGNORECASE),
      "table", "in a table", 8),
+    (re.compile(r"\bcomparison\s+table\b", re.IGNORECASE),
+     "table", "comparison table", 6),
     (re.compile(r"\bside[-\s]?by[-\s]?side\b", re.IGNORECASE),
      "table", "side-by-side comparison", 6),
 
