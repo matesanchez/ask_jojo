@@ -103,6 +103,15 @@ if (-not (Test-Path $distExe)) {
     exit 1
 }
 
+# Copy README.txt next to JojoBot.exe (PyInstaller datas go into _internal/;
+# this places the user-visible deployment guide at the top level instead).
+$readmeSrc = Join-Path $PSScriptRoot "README.txt"
+$readmeDst = Join-Path $RepoRoot "dist\JojoBot\README.txt"
+if (Test-Path $readmeSrc) {
+    Copy-Item $readmeSrc $readmeDst -Force
+    Write-Host "  [ok] README.txt placed at $readmeDst" -ForegroundColor Green
+}
+
 $dirMB = [math]::Round(
     (Get-ChildItem -Recurse (Join-Path $RepoRoot "dist\JojoBot") | Measure-Object -Property Length -Sum).Sum / 1MB, 1
 )

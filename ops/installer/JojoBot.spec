@@ -16,11 +16,6 @@ REPO = Path(SPEC).parent.parent.parent  # ask_jojo/
 # ---- Data files (non-Python assets to bundle) --------------------------------
 datas = []
 
-# Deployment README — placed at the top level of the dist/JojoBot/ folder
-readme = REPO / "ops" / "installer" / "README.txt"
-if readme.exists():
-    datas.append((str(readme), "."))
-
 # Frontend static export (Next.js out/ → bundled as frontend/out)
 frontend_out = REPO / "src" / "frontend" / "out"
 if frontend_out.exists():
