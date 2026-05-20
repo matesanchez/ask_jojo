@@ -71,7 +71,13 @@ param(
     [switch]$SkipOneDrive,
     [switch]$SkipPublicDrive,
     [switch]$SkipSharePoint,
-    [switch]$Force
+    [switch]$Force,
+
+    # Phase 6 lint tasks. Opt-in: pass -IncludeLint to also register the
+    # nightly (02:00 daily) and weekly (03:00 Sunday) lint tasks.
+    [switch]$IncludeLint,
+    [string]$LintNightlyTime = "02:00",
+    [string]$LintWeeklyTime  = "03:00"
 )
 
 $ErrorActionPreference = "Stop"
@@ -83,6 +89,8 @@ if (-not (Test-Path $Wrapper)) {
     Write-Host "[error] wrapper not found: $Wrapper" -ForegroundColor Red
     exit 1
 }
+$LintNightlyWrapper = Join-Path $PSScriptRoot "Run-LintNightly.ps1"
+$LintWeeklyWrapper  = Join-Path $PSScriptRoot "Run-LintWeekly.ps1"
 if (-not $Raw) {
     $Raw = Join-Path $ProjectRoot "ask_jojo_raw"
 }
@@ -209,6 +217,87 @@ if (-not $SkipSharePoint) {
         -RepetitionDuration ([TimeSpan]::FromDays(365*10))
     Register-OneTask -Name "JojoBot-SharePoint" -Connector "sharepoint" -Source "" `
         -Trigger $trig -Description "JoJo Bot -- SharePoint sync every 4h from $SharePointStart"
+}
+
+if ($IncludeLint) {
+    Write-Host ""
+    Write-Host "--- Phase 6 lint tasks ---" -ForegroundColor Cyan
+
+    if (-not (Test-Path $LintNightlyWrapper)) {
+        Write-Host "[warn] lint nightly wrapper not found: $LintNightlyWrapper" -ForegroundColor Yellow
+    } else {
+        # Idempotent: always unregister before registering (no -Force gate).
+        Unregister-ScheduledTask -TaskPath "$TaskFolder\" -TaskName "lint-nightly" `
+            -Confirm:$false -ErrorAction SilentlyContinue
+
+        $lintNightlyAction = New-ScheduledTaskAction `
+            -Execute "powershell.exe" `
+            -Argument ("-NoProfile -ExecutionPolicy Bypass -File `"$LintNightlyWrapper`"") `
+            -WorkingDirectory $ProjectRoot
+
+        $lintNightlyPrincipal = New-ScheduledTaskPrincipal `
+            -UserId "$env:USERDOMAIN\$env:USERNAME" `
+            -LogonType Interactive `
+            -RunLevel Limited
+
+        $lintNightlySettings = New-ScheduledTaskSettingsSet `
+            -AllowStartIfOnBatteries `
+            -DontStopIfGoingOnBatteries `
+            -StartWhenAvailable `
+            -ExecutionTimeLimit (New-TimeSpan -Hours 1)
+
+        $lintNightlyTrigger = New-ScheduledTaskTrigger -Daily -At $LintNightlyTime
+
+        Register-ScheduledTask `
+            -TaskPath $TaskFolder `
+            -TaskName "lint-nightly" `
+            -Description "JoJo Bot -- lint nightly checks daily at $LintNightlyTime" `
+            -Action $lintNightlyAction `
+            -Trigger $lintNightlyTrigger `
+            -Principal $lintNightlyPrincipal `
+            -Settings $lintNightlySettings | Out-Null
+
+        Write-Host "[ok] registered $TaskFolder\lint-nightly (daily at $LintNightlyTime)" -ForegroundColor Green
+    }
+
+    if (-not (Test-Path $LintWeeklyWrapper)) {
+        Write-Host "[warn] lint weekly wrapper not found: $LintWeeklyWrapper" -ForegroundColor Yellow
+    } else {
+        # Idempotent: always unregister before registering (no -Force gate).
+        Unregister-ScheduledTask -TaskPath "$TaskFolder\" -TaskName "lint-weekly" `
+            -Confirm:$false -ErrorAction SilentlyContinue
+
+        $lintWeeklyAction = New-ScheduledTaskAction `
+            -Execute "powershell.exe" `
+            -Argument ("-NoProfile -ExecutionPolicy Bypass -File `"$LintWeeklyWrapper`"") `
+            -WorkingDirectory $ProjectRoot
+
+        $lintWeeklyPrincipal = New-ScheduledTaskPrincipal `
+            -UserId "$env:USERDOMAIN\$env:USERNAME" `
+            -LogonType Interactive `
+            -RunLevel Limited
+
+        $lintWeeklySettings = New-ScheduledTaskSettingsSet `
+            -AllowStartIfOnBatteries `
+            -DontStopIfGoingOnBatteries `
+            -StartWhenAvailable `
+            -ExecutionTimeLimit (New-TimeSpan -Hours 2)
+
+        # Sunday = DayOfWeek 0 in .NET; New-ScheduledTaskTrigger -Weekly uses
+        # the -DaysOfWeek parameter with the day name string.
+        $lintWeeklyTrigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Sunday -At $LintWeeklyTime
+
+        Register-ScheduledTask `
+            -TaskPath $TaskFolder `
+            -TaskName "lint-weekly" `
+            -Description "JoJo Bot -- lint weekly checks on Sunday at $LintWeeklyTime" `
+            -Action $lintWeeklyAction `
+            -Trigger $lintWeeklyTrigger `
+            -Principal $lintWeeklyPrincipal `
+            -Settings $lintWeeklySettings | Out-Null
+
+        Write-Host "[ok] registered $TaskFolder\lint-weekly (weekly Sunday at $LintWeeklyTime)" -ForegroundColor Green
+    }
 }
 
 Write-Host ""
