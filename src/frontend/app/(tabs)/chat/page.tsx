@@ -255,7 +255,7 @@ export default function ChatPage() {
     } finally {
       setBusy(false);
     }
-  }, [busy, depth, draft, routeOverride]);
+  }, [busy, depth, draft, formatOverride, routeOverride]);
 
   // -- file-back handler --------------------------------------------------
 
@@ -556,7 +556,7 @@ function V1Handoff({ turn }: { turn: ChatTurn }) {
       </p>
       <p>
         Open the v1.0 chat surface and re-ask there, or wait for the migration trigger
-        described in <code>docs/qa/qa-prompt.md</code> "Routing edge cases".
+        described in <code>docs/qa/qa-prompt.md</code> &ldquo;Routing edge cases&rdquo;.
       </p>
     </div>
   );

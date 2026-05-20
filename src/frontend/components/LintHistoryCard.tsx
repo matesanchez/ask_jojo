@@ -14,7 +14,7 @@
  *     -> { status, scope, results }
  */
 
-import { useCallback, useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 
 // ------------------------------------------------------------------ types
 
@@ -174,9 +174,8 @@ export default function LintHistoryCard({ scope }: LintHistoryCardProps) {
               const findings = totalFindings(run.results ?? []);
               const isExpanded = expandedRunAt === run.run_at;
               return (
-                <>
+                <React.Fragment key={run.run_at}>
                   <tr
-                    key={run.run_at}
                     className={`ops-lint-row${isExpanded ? " ops-lint-row-expanded" : ""}`}
                   >
                     <td>{formatTimestamp(run.run_at)}</td>
@@ -245,7 +244,7 @@ export default function LintHistoryCard({ scope }: LintHistoryCardProps) {
                         </td>
                       </tr>
                     ))}
-                </>
+                </React.Fragment>
               );
             })}
           </tbody>
