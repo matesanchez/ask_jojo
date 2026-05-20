@@ -256,6 +256,22 @@ def test_summary_truncation(tmp_path: Path) -> None:
     assert summary.endswith("…")
 
 
+def test_summary_takes_first_sentence(tmp_path: Path) -> None:
+    """When the first prose line has multiple sentences, only the first is used."""
+    (tmp_path / "_index.md").write_text(
+        "# Wiki Index\n\n## Target\n\n- [[multi-sent|Multi]] — `targets/multi-sent.md`\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "targets").mkdir()
+    (tmp_path / "targets" / "multi-sent.md").write_text(
+        "---\nslug: multi-sent\n---\n\n"
+        "First sentence ends here. Second sentence should be dropped.\n",
+        encoding="utf-8",
+    )
+    g = graph_mod.build(tmp_path)
+    assert g.nodes["multi-sent"]["summary"] == "First sentence ends here."
+
+
 # -- BFS shortest-path --------------------------------------------------
 
 

@@ -150,7 +150,10 @@ def _extract_summary(body: str, max_chars: int = 120) -> str:
         3. Take the first non-empty prose line.
         4. Strip wikilink markup (``[[slug|Label]]`` -> ``Label``,
            ``[[slug]]`` -> ``slug``).
-        5. Truncate to ``max_chars`` chars, appending ``…`` if truncated.
+        5. Split the cleaned line on sentence boundaries (``. ``, ``? ``,
+           ``! ``) and take the first sentence.
+        6. Truncate to ``max_chars`` chars as a safety net for
+           unusually long sentences, appending ``…`` if truncated.
 
     Returns ``""`` when the body has no prose content.
     """
@@ -165,9 +168,12 @@ def _extract_summary(body: str, max_chars: int = 120) -> str:
         line = line.strip()
         if not line:
             continue
-        if len(line) > max_chars:
-            return line[:max_chars] + "…"
-        return line
+        # Take the first sentence (split on `. `, `? `, `! `).
+        parts = re.split(r"(?<=[.!?])\s+", line, maxsplit=1)
+        sentence = parts[0]
+        if len(sentence) > max_chars:
+            return sentence[:max_chars] + "…"
+        return sentence
     return ""
 
 
