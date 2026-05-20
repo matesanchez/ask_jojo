@@ -34,6 +34,25 @@ Read all four source-of-truth docs: README.md, PLAN.md, v2_status.md, follow-ups
 
 ## Delegation log
 
+### 2026-05-19 — Round 6 (Phase 6 execution + wiki debt fixes)
+
+**Sub-agents delegated:**
+- Backend agent → `packages/jojo_lint/` full implementation (10 checks, registry, history, CLI, 51 tests), `ops_router.py` lint endpoints lifted, `test_ops_endpoints.py` 12 tests, `lint-nightly.yml` CI workflow, `pyproject.toml [lint]` extra. Commits: b25067d + 0ab0d59.
+- Frontend agent → `LintHistoryCard.tsx`, `LintMetrics.tsx` (Chart.js trendlines), `ReviewQueueCard.tsx`, `ops/page.tsx` updated, Phase 7a "Show in graph" link in `chat/page.tsx`. `tsc --noEmit` clean. Commits: a2be446 + 2f1dc69 + ca36363.
+- Installer agent → `Run-LintNightly.ps1`, `Run-LintWeekly.ps1` (pure ASCII, Event IDs 7200–7203), `Register-JojoBotTasks.ps1 -IncludeLint` (idempotent). Commit: 2b87905.
+
+**Wiki content debt fixed (orchestrator):**
+- `targets/itk.md`: slug `itk` → `itk-target` (dedup with `programs/itk.md`); `_index.md` updated
+- `programs/itk-ctm.md`: `sources:` field added (schema error)
+- `_index.md`: +10 orphan pages (1 derived + 9 outputs/); Total pages 138 → 148
+- 9 pages: path-style `[[methods/x]]` → `[[x]]` wikilinks fixed
+- FU-19 filed: 27 remaining Title-Case wikilinks (pre-existing FU-13 debt)
+
+**Lint 14-run exit gate:**
+- 14/14 runs exit 0 against real wiki
+- 5/6 nightly checks: all green (OK — 0 findings)
+- 1 check (wikilink): 27 WARN findings — all pre-existing FU-13 Title-Case violations, no false positives
+
 ### 2026-05-19 — Round 5 (Phase 5 exit closure)
 
 **Tasks completed:**

@@ -6,6 +6,19 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ---
 
+## 2026-05-19 — Phase 6 execution (lint surfaced wiki debt)
+
+### FU-19. 27 Title-Case wikilinks need slug resolution (FU-13 systematic cleanup)
+
+- **Severity.** should (wikilink_check surfaces these as `severity: "error"` findings every nightly run)
+- **Surfaced while.** Running `jojo-lint nightly` during Phase 6 development. Reduces from 40 → 27 after path-style fixes were applied.
+- **Problem.** Pages use `[[Display Title]]` wikilinks (e.g., `[[Delphi ACS]]`, `[[AKTA Chromatography Systems]]`, `[[Differential Scanning Fluorimetry]]`) instead of `[[slug|Display Title]]`. The display title doesn't match any page's exact `title:` frontmatter field, so `wikilink_check` cannot resolve them. These predate Phase 6 (FU-13 was filed 2026-05-19 as the format violation tracker).
+- **What "done" looks like.** A writer agent pass on all 27 affected pages: for each broken wikilink, determine the correct target slug (by searching the wiki), rewrite `[[Display Title]]` as `[[slug|Display Title]]`. After the pass, `jojo-lint check wikilink` reports 0 findings (or only genuinely missing-page findings).
+- **Broken wikilinks to resolve** (from `jojo-lint check wikilink` output 2026-05-19): `[[Delphi ACS]]` (×2), `[[Machine Learning Automation]]`, `[[AKTA Chromatography Systems]]`, `[[Thermal Shift Analyzer (Tycho)]]`, `[[Dynamic Light Scattering]]`, `[[Protein Degradation Assays]]`, `[[Echo Liquid Handler]]`, `[[Activity Base LIMS]]`, `[[Differential Scanning Fluorimetry]]` (×4), `[[FEM1B Target]]`, `[[UBE3A Target]]`, `[[TEV Protease Purification]]`, `[[Thermal Stability Assessment]]` (×2), `[[Baculovirus Expression]]`, `[[Protein Quality Control]]` (×2), `[[Clone Naming Nomenclature]]`, `[[Protein Tagging, Cleavage, Linkers]]`, `[[Delphi Advanced Construct Support (ACS)]]`, `[[Large-Scale Expression Planning]]`, `[[programs/adar1-catalytic-platform]]`, `[[programs/craf-kinase-platform]]`.
+- **Why deferred.** Requires content knowledge (knowing which slug corresponds to each display title). Writer agent pass scheduled in parallel with Phase 6 reviewer.
+
+---
+
 ## 2026-05-19 — Phase 5 exit (code reviewer pass)
 
 ### FU-18. POSIX-only sandbox import causes collection warnings on Windows
