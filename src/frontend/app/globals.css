@@ -1687,8 +1687,8 @@ html, body {
   display: inline-block;
   align-self: flex-start;
   padding: 0.5rem 1.25rem;
-  background: #00164a;
-  color: #fff;
+  background: #FDB604;
+  color: #00164a;
   text-decoration: none;
   border-radius: 5px;
   font-weight: 600;
@@ -1696,5 +1696,5 @@ html, body {
 }
 
 .welcome-cta:hover {
-  background: #000e30;
+  background: #e5a400;
 }
