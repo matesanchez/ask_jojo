@@ -6,6 +6,18 @@ Sorted newest-first. Each entry includes a severity hint (`must` = must ship bef
 
 ---
 
+## 2026-05-19 — Phase 5 exit (code reviewer pass)
+
+### FU-18. POSIX-only sandbox import causes collection warnings on Windows
+
+- **Severity.** should
+- **Surfaced while.** Phase 5 reviewer pass 2026-05-19.
+- **Problem.** `packages/jojo_output/sandbox/runner.py:29` does `import resource` at module level. On Windows, this makes `test_ast_guard.py`, `test_sandbox_runner.py`, `test_sandbox_spec.py` uncollectable under `pytest packages/jojo_output/` — pytest prints import-collection errors rather than clean skips. The integration tests in `test_output_endpoints.py` correctly carry `@pytest.mark.skipif(win32)` and skip gracefully, so the effect is cosmetic rather than functional.
+- **What "done" looks like.** Add `pytest.importorskip("resource")` at the top of each affected test file, or add a platform guard inside `packages/jojo_output/sandbox/__init__.py` so the module-level import only happens on POSIX hosts. Either approach gives `pytest packages/` a clean collection pass on Windows.
+- **Why deferred.** Pre-existing and cosmetic. Tests still run correctly (skip gracefully); the only consequence is a collection warning in the output.
+
+---
+
 ## 2026-05-19 — Phase 4 exit (code reviewer pass)
 
 ### FU-17. `benchmark-questions.md` references non-existent `scripts/run_benchmark.py`

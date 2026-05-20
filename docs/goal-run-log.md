@@ -34,6 +34,21 @@ Read all four source-of-truth docs: README.md, PLAN.md, v2_status.md, follow-ups
 
 ## Delegation log
 
+### 2026-05-19 — Round 5 (Phase 5 exit closure)
+
+**Tasks completed:**
+- `docs/reviews/2026-05-19-phase-5-review.md`: `reviewer` sub-agent invoked on Phase 5 for code quality exit-gate audit. Verdict: **PASS** (11/11 criteria). Three informational findings; FU-18 filed.
+- `docs/v2_status.md`: Phase 5 flipped 🟡→🟢; Phase Summary table row updated (exit date 2026-05-19); Phase 5 completion note amended to include reviewer verdict; Phase 6 row flipped ⚪→🟡 (started 2026-05-19); Snapshot current phase updated to Phase 6; Amendment Log entry added.
+- `docs/follow-ups.md`: FU-18 filed (POSIX sandbox import causes collection warnings on Windows).
+- `docs/phase-5-exit-evidence.md`: Created with test results, renderer inventory, 9-format coverage table, SCHEMA.md v0.2.0 summary, screenshot note.
+
+### 2026-05-19 — Round 4 (Phase 5 execution)
+
+**Sub-agents delegated:**
+- Backend agent → `plotly_renderer.py` (7 plot types, CDN-only, 13 tests), `output_router.py` plotly dispatch lifted (501 removed), `wiki_router.py` `/api/wiki/outputs` endpoint + `output_format`/`output_artifact` top-level page fields + `outputs/` tree nodes, `main.py` StaticFiles `/wiki-outputs/` mount, `test_output_endpoints.py` + `test_wiki_endpoints.py` new tests. FU-16 generalized across `output_router.py` (6 `rel.as_posix()` sites).
+- Frontend agent → `PlotlyEmbed.tsx` (sandboxed iframe), `chat/types.ts` (`OutputFileBackRequest`/`outputFileBackStatus`), `chat/page.tsx` "File this" button + `POST /api/output/file-back` wiring, `wiki/types.ts` (`output_format`/`output_artifact` fields), `wiki/page.tsx` `renderBody()` per-format dispatch.
+- Writer agent → 9 sample output pages in `ask_jojo_wiki/outputs/` covering all 9 formats (markdown/marp/mermaid/matplotlib/plotly/table/docx/pptx/pdf), SCHEMA.md v0.2.0.
+
 ### 2026-05-19 — Round 1 (ADRs written)
 
 Wrote ADR 0012 (OneDrive mount supersedes Path C) and ADR 0013 (Phase 7b standalone workstation installer). Both accepted. Starting Phase 4 delegation.
@@ -106,3 +121,19 @@ None currently. All blockers are human-only (credentials, external infra) and ar
 | FU-12 closed | 4 artifacts updated; `pellino-1-target` slug consistent across wiki + benchmark |
 | FU-11 resolved | 13 confidence:low pages confirmed zero inline raw citations; no edits made |
 | CI workflow staged | `qa-benchmark.yml` created (nightly 06:00 UTC + workflow_dispatch) |
+
+### Phase 5 — Rich Outputs (2026-05-19)
+
+| Exit criterion | Evidence |
+|---|---|
+| Plotly HTML-fragment renderer | `plotly_renderer.py`: 7 plot types, CDN-only (`_PLOTLY_CDN`), 13 tests in `test_plotly_renderer.py` |
+| `output_router.py` plotly 501 lifted | `output_router.py:281-295`: `PlotlySpec` + `render_plotly` dispatch (both inline and file-write branches) |
+| "File this" button on Chat tab | `chat/page.tsx:707-721`: button + `POST /api/output/file-back`; `outputFileBackStatus` type in `chat/types.ts:204` |
+| Wiki tab outputs/ dispatch | `wiki/page.tsx:235-271`: `renderBody()` switch dispatches marp/mermaid/plotly/matplotlib/default |
+| `PlotlyEmbed.tsx` sandboxed iframe | `PlotlyEmbed.tsx:29-37`: `<iframe srcDoc={html} sandbox="allow-scripts" />` |
+| `GET /api/wiki/outputs` endpoint | `wiki_router.py:379-417`: returns `{total, outputs:[{slug,title,output_format,created,path}]}` |
+| StaticFiles `/wiki-outputs/` mount | `main.py:71-77`: conditional mount (only when dir exists) |
+| 9 sample output pages (all 9 formats) | `ask_jojo_wiki/outputs/`: markdown/marp/mermaid/matplotlib/plotly/table/docx/pptx/pdf — all have `type: output`, `output_format`, `schema_version: 0.2.0` |
+| SCHEMA.md v0.2.0 | `ask_jojo_wiki/SCHEMA.md:3`: version 0.2.0; `type: output`, `output_format`, `source_question`, `parent_slugs` fields documented |
+| ruff clean + tests pass | Exit 0; 11/11 reviewer criteria pass; 16 pre-existing failures unchanged |
+| `rel.as_posix()` generalized | All 6 `relative_to` call-sites in `output_router.py` use `.as_posix()` |
