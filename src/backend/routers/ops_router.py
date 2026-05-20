@@ -320,8 +320,6 @@ def restart_server() -> dict[str, Any]:
     pid = os.getpid()
 
     def _do_restart() -> None:
-        import time as _time
-        _time.sleep(2)
         try:
             os.kill(pid, signal.SIGTERM)
         except (OSError, AttributeError):
@@ -330,7 +328,7 @@ def restart_server() -> dict[str, Any]:
             except Exception:  # noqa: BLE001
                 os._exit(0)
 
-    threading.Timer(0, _do_restart).start()
+    threading.Timer(2.0, _do_restart).start()
     return {"ok": True, "message": "Server restart scheduled in 2s."}
 
 

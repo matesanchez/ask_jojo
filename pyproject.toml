@@ -31,6 +31,8 @@ backend = [
     "redis>=5.0",
     "rq>=1.16",
     "python-multipart>=0.0.9",    # FastAPI file-upload endpoint (Phase 1)
+    "anthropic>=0.40",            # settings_router test-anthropic + synthesize (Phase 7b)
+    "msal>=1.27",                 # settings_router device-code flow (Phase 7b)
 ]
 # Ingest-tier runtime — local/upload connectors + file-type converters (Phase 1).
 ingest = [
