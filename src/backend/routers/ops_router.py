@@ -26,6 +26,8 @@ import asyncio
 import json
 import logging
 import os
+import signal
+import threading
 from collections.abc import AsyncGenerator
 from datetime import datetime, timezone
 from pathlib import Path
@@ -305,6 +307,31 @@ def get_lint_history(
 
     runs = lint_history.load_runs(scope=scope, days=days, history_dir=_history_dir())
     return {"runs": runs}
+
+
+@router.post("/restart")
+def restart_server() -> dict[str, Any]:
+    """Schedule a server restart after 2 seconds and return immediately.
+
+    The 2-second delay ensures the HTTP response is delivered before the
+    process exits. The Windows Service supervisor is expected to restart
+    the process automatically after termination.
+    """
+    pid = os.getpid()
+
+    def _do_restart() -> None:
+        import time as _time
+        _time.sleep(2)
+        try:
+            os.kill(pid, signal.SIGTERM)
+        except (OSError, AttributeError):
+            try:
+                os.kill(pid, signal.CTRL_BREAK_EVENT)  # type: ignore[attr-defined]
+            except Exception:  # noqa: BLE001
+                os._exit(0)
+
+    threading.Timer(0, _do_restart).start()
+    return {"ok": True, "message": "Server restart scheduled in 2s."}
 
 
 @router.get("/lint/metrics")

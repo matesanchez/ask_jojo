@@ -32,6 +32,7 @@ Public API:
 
 from __future__ import annotations
 
+import json
 import re
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
@@ -283,21 +284,57 @@ def _call_model(
     depth: Depth,
     api_key: str,
 ) -> dict[str, Any]:
-    """Call Anthropic Messages API. Stub today; lands with FU-10.
+    """Call Anthropic Messages API with the retrieval bundle as context."""
+    import anthropic  # imported here so missing dep is a clear error
 
-    The implementation is intentionally a single function so the API-day
-    edit is small: import ``anthropic``, build the messages payload,
-    return the parsed answer. Until then it returns ``not_implemented``
-    so a misconfigured environment surfaces a clear error.
-    """
-    # Suppress unused warnings - parameters are part of the future-day signature.
-    _ = (question, bundle, depth, api_key)
+    _DEPTH_MODELS: dict[str, str] = {
+        "sonnet": "claude-sonnet-4-6",
+        "opus": "claude-opus-4-7",
+    }
+    model = _DEPTH_MODELS.get(depth, "claude-sonnet-4-6")
+
+    # Inline version of docs/qa/qa-prompt.md SESSION PROMPT — kept here
+    # so the packaged app doesn't need file I/O at runtime.
+    _SYSTEM_PROMPT = (
+        "You are JoJo Bot, a Nurix Therapeutics internal knowledge assistant. "
+        "Answer only from the provided wiki pages and raw source hits in the retrieval bundle. "
+        "Every factual claim must cite a wiki slug or raw source path in brackets, e.g. [cbl-b-target]. "
+        "Classify claims as EXTRACTED (verbatim or near-verbatim from source) or INFERRED (your synthesis). "
+        "If the retrieval bundle is insufficient, say so explicitly rather than speculating. "
+        "If the route is 'v1', return only a routing slip: one paragraph naming the v1 AKTA/UNICORN system as authoritative."
+    )
+
+    bundle_json = json.dumps(bundle.to_dict(), indent=2, ensure_ascii=False)
+    user_content = f"Question: {question}\n\nRetrieval bundle:\n{bundle_json}"
+
+    try:
+        client = anthropic.Anthropic(api_key=api_key)
+        resp = client.messages.create(
+            model=model,
+            max_tokens=2048,
+            system=_SYSTEM_PROMPT,
+            messages=[{"role": "user", "content": user_content}],
+        )
+        answer_text = resp.content[0].text
+    except anthropic.AuthenticationError as exc:
+        return {
+            "status": "api_error",
+            "error": f"Authentication failed: {exc}",
+            "retrieval_bundle": bundle.to_dict(),
+            "depth": depth,
+        }
+    except Exception as exc:  # noqa: BLE001
+        return {
+            "status": "api_error",
+            "error": str(exc),
+            "retrieval_bundle": bundle.to_dict(),
+            "depth": depth,
+        }
+
     return {
-        "status": "not_implemented",
-        "message": (
-            "synthesize._call_model is the API-day stub. The retrieval "
-            "bundle and prompt are ready; flip this function to call "
-            "anthropic.Anthropic(api_key=api_key).messages.create(...) "
-            "with the prompt from docs/qa/qa-prompt.md. See FU-10."
-        ),
+        "status": "answered",
+        "answer": answer_text,
+        "model": model,
+        "retrieval_bundle": bundle.to_dict(),
+        "depth": depth,
     }

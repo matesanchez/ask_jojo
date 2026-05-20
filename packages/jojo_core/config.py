@@ -49,6 +49,13 @@ KEY_REDIS_URL = "redis_url"
 KEY_MSAL_CLIENT_ID = "msal_client_id"
 KEY_MSAL_TENANT_ID = "msal_tenant_id"
 KEY_GRAPH_AUTH_MODE = "graph_auth_mode"
+KEY_MODEL_DEFAULT_TIER = "model_default_tier"
+KEY_MODEL_PER_TASK = "model_per_task"
+KEY_LINT_NIGHTLY_TIME = "lint_nightly_time"
+KEY_LINT_WEEKLY_DAY = "lint_weekly_day"
+KEY_LINT_WEEKLY_TIME = "lint_weekly_time"
+KEY_LINT_NIGHTLY_ENABLED = "lint_nightly_enabled"
+KEY_LINT_WEEKLY_ENABLED = "lint_weekly_enabled"
 
 ENV_MAP: dict[str, str] = {
     KEY_ANTHROPIC_API_KEY:  "ANTHROPIC_API_KEY",
@@ -62,6 +69,13 @@ ENV_MAP: dict[str, str] = {
     KEY_MSAL_CLIENT_ID:     "JOJO_MSAL_CLIENT_ID",
     KEY_MSAL_TENANT_ID:     "JOJO_MSAL_TENANT_ID",
     KEY_GRAPH_AUTH_MODE:    "JOJO_GRAPH_AUTH_MODE",
+    KEY_MODEL_DEFAULT_TIER:  "JOJO_MODEL_DEFAULT_TIER",
+    KEY_MODEL_PER_TASK:      "JOJO_MODEL_PER_TASK",
+    KEY_LINT_NIGHTLY_TIME:   "JOJO_LINT_NIGHTLY_TIME",
+    KEY_LINT_WEEKLY_DAY:     "JOJO_LINT_WEEKLY_DAY",
+    KEY_LINT_WEEKLY_TIME:    "JOJO_LINT_WEEKLY_TIME",
+    KEY_LINT_NIGHTLY_ENABLED: "JOJO_LINT_NIGHTLY_ENABLED",
+    KEY_LINT_WEEKLY_ENABLED:  "JOJO_LINT_WEEKLY_ENABLED",
 }
 
 # Which keys carry real secrets vs. operational config. Used to mask
@@ -81,6 +95,12 @@ DEFAULTS: dict[str, str] = {
     KEY_MSAL_CLIENT_ID: "14d82eec-204b-4c2f-b7e8-296a70dab67e",
     KEY_MSAL_TENANT_ID: "1c966021-d551-45e4-89a5-849f81b69208",
     KEY_GRAPH_AUTH_MODE: "device-code",
+    KEY_MODEL_DEFAULT_TIER:   "sonnet",
+    KEY_LINT_NIGHTLY_TIME:    "02:00",
+    KEY_LINT_WEEKLY_DAY:      "Sunday",
+    KEY_LINT_WEEKLY_TIME:     "04:00",
+    KEY_LINT_NIGHTLY_ENABLED: "true",
+    KEY_LINT_WEEKLY_ENABLED:  "true",
 }
 
 # File-format version. Bump when changing the envelope schema (not the

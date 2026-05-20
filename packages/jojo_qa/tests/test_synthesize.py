@@ -153,11 +153,14 @@ def test_answer_includes_retrieval_bundle(
     assert any(c["slug"] == "cbl-b" for c in bundle["candidates"])
 
 
-def test_answer_with_api_key_calls_model_stub(
+def test_answer_with_api_key_calls_model(
     fake_wiki: Path,
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
-    """API key present -> model call. Today's stub returns ``not_implemented``."""
+    """API key present -> _call_model is invoked; mock Anthropic to avoid real HTTP."""
+    import types
+    import unittest.mock as mock
+
     from jojo_core import config as core_config
 
     monkeypatch.setattr(
@@ -165,8 +168,23 @@ def test_answer_with_api_key_calls_model_stub(
         "get",
         lambda k, default=None, **_: "fake-key" if k == "anthropic_api_key" else default,
     )
-    out = synthesize.answer("What is CBL-B?", wiki_root=fake_wiki)
-    assert out["status"] == "not_implemented"
+
+    fake_content = types.SimpleNamespace(text="CBL-B is an E3 ligase. [cbl-b-target]")
+    fake_resp = types.SimpleNamespace(content=[fake_content])
+    fake_messages = mock.MagicMock()
+    fake_messages.create.return_value = fake_resp
+    fake_client = types.SimpleNamespace(messages=fake_messages)
+    FakeAnthropic = mock.MagicMock(return_value=fake_client)
+
+    with mock.patch("anthropic.Anthropic", FakeAnthropic):
+        out = synthesize.answer("What is CBL-B?", wiki_root=fake_wiki)
+
+    assert out["status"] == "answered"
+    assert "CBL-B" in out["answer"]
+    assert out["model"] == "claude-sonnet-4-6"
+    assert "retrieval_bundle" in out
+    # Confirm the client was called with the fake key.
+    FakeAnthropic.assert_called_once_with(api_key="fake-key")
 
 
 def test_api_key_required_response_shape() -> None:

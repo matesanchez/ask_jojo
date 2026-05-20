@@ -24,6 +24,7 @@ from backend.routers import (
     output_router,
     qa_router,
     raw_router,
+    settings_router,
     viz_router,
     wiki_router,
 )
@@ -44,7 +45,8 @@ app.include_router(ops_router.router,    prefix="/api/ops",    tags=["ops"])
 app.include_router(ingest_router.router, prefix="/api/ingest", tags=["ingest"])
 app.include_router(qa_router.router,     prefix="/api/qa",     tags=["qa"])
 app.include_router(output_router.router, prefix="/api/output", tags=["output"])
-app.include_router(graph_router.router,  prefix="/api/graph",  tags=["graph"])
+app.include_router(graph_router.router,   prefix="/api/graph",    tags=["graph"])
+app.include_router(settings_router.router, prefix="/api/settings", tags=["settings"])
 
 # ---------------------------------------------------------------------------
 # Static-file mount: wiki outputs directory served at /wiki-outputs/.
