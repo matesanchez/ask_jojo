@@ -54,6 +54,9 @@ def main() -> None:
         sibling_wiki = exe_dir.parent / "ask_jojo_wiki"
         if sibling_wiki.exists():
             os.environ.setdefault("JOJO_WIKI_ROOT", str(sibling_wiki))
+        sibling_raw = exe_dir.parent / "ask_jojo_raw"
+        if sibling_raw.exists():
+            os.environ.setdefault("JOJO_RAW_ROOT", str(sibling_raw))
 
     # Import here so PyInstaller can find the app object in the bundle
     from backend.main import app  # noqa: PLC0415

@@ -1,14 +1,15 @@
 JoJo Bot — Deployment Layout
 =============================
 
-To run JoJo Bot, place the JojoBot/ folder and the ask_jojo_wiki/ folder
-side-by-side in the same parent directory:
+To run JoJo Bot, place the JojoBot/ folder, ask_jojo_wiki/, and
+ask_jojo_raw/ side-by-side in the same parent directory:
 
     MyFolder\
     ├── JojoBot\          ← the folder you unzip
     │   ├── JojoBot.exe
     │   └── _internal\    ← do not delete or move
-    └── ask_jojo_wiki\    ← your wiki content directory
+    ├── ask_jojo_wiki\    ← wiki content directory
+    └── ask_jojo_raw\     ← raw source documents (private; do not share)
 
 Then double-click JojoBot.exe inside the JojoBot\ folder.
 
@@ -28,6 +29,10 @@ Troubleshooting
 "Wiki shows 0 pages"
   → The ask_jojo_wiki\ folder must be a sibling of JojoBot\ (see layout above).
     If you moved the JojoBot\ folder, also move ask_jojo_wiki\ next to it.
+
+"Raw tab shows manifest empty"
+  → The ask_jojo_raw\ folder must be a sibling of JojoBot\ (see layout above).
+    If you moved the JojoBot\ folder, also move ask_jojo_raw\ next to it.
 
 "Port 8766 already in use" error
   → Another process is using that port.  Close the existing JoJo Bot window
