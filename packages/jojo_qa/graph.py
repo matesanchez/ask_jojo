@@ -21,9 +21,9 @@ it without translation.
 
 Public API:
 
-- ``WikiGraph`` — dataclass with ``nodes`` (list of slug/type/title) and
-  ``edges`` (list of (a, b) tuples). Edges are undirected; we store
-  (min, max) so deduplication is trivial.
+- ``WikiGraph`` — dataclass with ``nodes`` (list of slug/type/title/
+  summary/corpus) and ``edges`` (list of (a, b) tuples). Edges are
+  undirected; we store (min, max) so deduplication is trivial.
 - ``build(wiki_root)`` — walk the wiki, extract forward wikilinks from
   bodies, merge with ``_backlinks.json``, and return a ``WikiGraph``.
 - ``write(graph, wiki_root)`` — serialize to ``_graph.json``.
@@ -36,6 +36,7 @@ Public API:
 from __future__ import annotations
 
 import json
+import re
 from collections import deque
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -44,13 +45,17 @@ from typing import Any
 from . import wikilinks
 from .index_loader import IndexEntry, load_index
 
+# Wikilink pattern for stripping [[...]] markup from body summaries.
+_WIKILINK_RE = re.compile(r"\[\[(?:[^\[\]\|\n]+\|)?([^\[\]\|\n]+)\]\]")
+
 
 @dataclass
 class WikiGraph:
     """Undirected graph over wiki slugs.
 
     Attributes:
-        nodes: dict slug -> metadata (``title``, ``type``, ``path``).
+        nodes: dict slug -> metadata (``title``, ``type``, ``path``,
+            ``summary``, ``corpus``).
         adjacency: dict slug -> sorted list of neighbor slugs.
         edges: list of ``(slug_a, slug_b)`` pairs with ``slug_a < slug_b``.
             Stored separately for O(1) edge listing in graphify export.
@@ -75,7 +80,7 @@ class WikiGraph:
                 slug: sorted(neighbors)
                 for slug, neighbors in self.adjacency.items()
             },
-            "schema_version": "0.1.0",
+            "schema_version": "0.2.0",
         }
 
 
@@ -92,6 +97,78 @@ def _read_body(wiki_root: Path, page_path: str) -> str:
         if end != -1:
             return text[end + 5 :]
     return text
+
+
+def _read_full_text(wiki_root: Path, page_path: str) -> str:
+    """Read the full raw text of a page (including frontmatter)."""
+    full = wiki_root / page_path
+    try:
+        return full.read_text(encoding="utf-8")
+    except OSError:
+        return ""
+
+
+def _parse_frontmatter_scalar(text: str, key: str) -> str:
+    """Extract a YAML scalar value from frontmatter by key.
+
+    Handles the canonical ``key: value`` form produced by the absorb
+    pipeline. Returns ``""`` when absent or when the file has no
+    frontmatter block.
+
+    This is intentionally a minimal regex parser — it does not attempt
+    full YAML parsing. The absorb pipeline guarantees simple scalar
+    values for ``description`` and ``corpus``.
+    """
+    if not text.startswith("---"):
+        return ""
+    end = text.find("\n---\n", 3)
+    if end == -1:
+        return ""
+    fm_text = text[4:end]
+    pattern = re.compile(
+        r"^" + re.escape(key) + r"\s*:\s*(.+)$",
+        re.MULTILINE,
+    )
+    m = pattern.search(fm_text)
+    if not m:
+        return ""
+    value = m.group(1).strip()
+    # Strip surrounding quotes if present.
+    if (value.startswith('"') and value.endswith('"')) or (
+        value.startswith("'") and value.endswith("'")
+    ):
+        value = value[1:-1].strip()
+    return value
+
+
+def _extract_summary(body: str, max_chars: int = 120) -> str:
+    """Extract a one-line summary from a stripped page body.
+
+    Algorithm:
+        1. Split on newlines.
+        2. Skip blank lines and lines that start with ``#`` (headings).
+        3. Take the first non-empty prose line.
+        4. Strip wikilink markup (``[[slug|Label]]`` -> ``Label``,
+           ``[[slug]]`` -> ``slug``).
+        5. Truncate to ``max_chars`` chars, appending ``…`` if truncated.
+
+    Returns ``""`` when the body has no prose content.
+    """
+    for raw_line in body.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+        if line.startswith("#"):
+            continue
+        # Replace wikilink markup with the display label.
+        line = _WIKILINK_RE.sub(lambda m: m.group(1), line)
+        line = line.strip()
+        if not line:
+            continue
+        if len(line) > max_chars:
+            return line[:max_chars] + "…"
+        return line
+    return ""
 
 
 def _load_backlinks(wiki_root: Path) -> dict[str, list[str]]:
@@ -138,20 +215,38 @@ def build(wiki_root: Path | str) -> WikiGraph:
 
     graph = WikiGraph()
 
-    # 1. Nodes from the index.
+    # 1. Nodes from the index — read each page once to extract
+    #    summary/corpus from frontmatter/body, then build forward edges.
+    page_bodies: dict[str, str] = {}
     for entry in entries:
+        full_text = _read_full_text(wiki_root, entry.path)
+        # Prefer the ``description:`` frontmatter field; fall back to
+        # the first prose line of the body.
+        description = _parse_frontmatter_scalar(full_text, "description")
+        if not description:
+            body = _read_body(wiki_root, entry.path)
+            description = _extract_summary(body)
+        corpus = _parse_frontmatter_scalar(full_text, "corpus")
         graph.nodes[entry.slug] = {
             "title": entry.title,
             "type": entry.type,
             "path": entry.path,
+            "summary": description,
+            "corpus": corpus,
         }
         graph.adjacency.setdefault(entry.slug, [])
+        # Cache the body for the forward-edge pass below.
+        if full_text.startswith("---"):
+            end = full_text.find("\n---\n", 3)
+            page_bodies[entry.slug] = full_text[end + 5 :] if end != -1 else full_text
+        else:
+            page_bodies[entry.slug] = full_text
 
     edge_set: set[tuple[str, str]] = set()
 
     # 2. Forward edges from page bodies.
     for entry in entries:
-        body = _read_body(wiki_root, entry.path)
+        body = page_bodies.get(entry.slug, "")
         if not body:
             continue
         for ref in wikilinks.extract(body):

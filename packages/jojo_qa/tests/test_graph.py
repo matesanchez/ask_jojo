@@ -95,7 +95,13 @@ def test_skips_broken_links(tmp_path: Path) -> None:
         encoding="utf-8",
     )
     g = graph_mod.build(tmp_path)
-    assert g.nodes == {"a": {"title": "A", "type": "program", "path": "programs/a.md"}}
+    assert set(g.nodes.keys()) == {"a"}
+    node_a = g.nodes["a"]
+    assert node_a["title"] == "A"
+    assert node_a["type"] == "program"
+    assert node_a["path"] == "programs/a.md"
+    assert "summary" in node_a
+    assert "corpus" in node_a
     assert g.edges == []
 
 
@@ -115,11 +121,11 @@ def test_write_emits_valid_json(fake_wiki: Path) -> None:
     assert "nodes" in payload
     assert "edges" in payload
     assert "adjacency" in payload
-    assert payload["schema_version"] == "0.1.0"
+    assert payload["schema_version"] == "0.2.0"
 
 
 def test_graphify_compatible_node_shape(fake_wiki: Path) -> None:
-    """Graphify expects ``{"slug", "title", "type", "path"}`` per node."""
+    """Graphify expects ``{"slug", "title", "type", "path", "summary", "corpus"}`` per node."""
     g = graph_mod.build(fake_wiki)
     out_payload = g.to_json()
     for node in out_payload["nodes"]:
@@ -127,6 +133,127 @@ def test_graphify_compatible_node_shape(fake_wiki: Path) -> None:
         assert "title" in node
         assert "type" in node
         assert "path" in node
+        assert "summary" in node
+        assert "corpus" in node
+
+
+# -- summary / corpus / schema_version -----------------------------------
+
+
+def test_node_has_summary_and_corpus_keys(fake_wiki: Path) -> None:
+    """Every node must carry non-None ``summary`` and ``corpus`` strings."""
+    g = graph_mod.build(fake_wiki)
+    for slug, meta in g.nodes.items():
+        _ = slug
+        assert "summary" in meta, f"missing summary on {slug}"
+        assert "corpus" in meta, f"missing corpus on {slug}"
+        assert isinstance(meta["summary"], str)
+        assert isinstance(meta["corpus"], str)
+
+
+def test_summary_from_frontmatter_description(tmp_path: Path) -> None:
+    """When frontmatter has ``description:``, use it as summary."""
+    (tmp_path / "_index.md").write_text(
+        "# Wiki Index\n\n## Program\n\n- [[prog-a|Prog A]] — `programs/prog-a.md`\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "programs").mkdir()
+    (tmp_path / "programs" / "prog-a.md").write_text(
+        "---\nslug: prog-a\ndescription: A short description here.\ncorpus: test-corpus\n---\n\nBody text.\n",
+        encoding="utf-8",
+    )
+    g = graph_mod.build(tmp_path)
+    assert g.nodes["prog-a"]["summary"] == "A short description here."
+    assert g.nodes["prog-a"]["corpus"] == "test-corpus"
+
+
+def test_summary_falls_back_to_first_prose_line(tmp_path: Path) -> None:
+    """Without ``description:``, summary comes from first non-heading body line."""
+    (tmp_path / "_index.md").write_text(
+        "# Wiki Index\n\n## Target\n\n- [[tgt-x|Target X]] — `targets/tgt-x.md`\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "targets").mkdir()
+    (tmp_path / "targets" / "tgt-x.md").write_text(
+        "---\nslug: tgt-x\n---\n\n## Overview\n\nThis is the first prose line about Target X.\n",
+        encoding="utf-8",
+    )
+    g = graph_mod.build(tmp_path)
+    assert g.nodes["tgt-x"]["summary"] == "This is the first prose line about Target X."
+
+
+def test_summary_strips_wikilinks(tmp_path: Path) -> None:
+    """Wikilink markup in the first prose line is resolved to display label."""
+    (tmp_path / "_index.md").write_text(
+        "# Wiki Index\n\n## Program\n\n- [[prog-b|Prog B]] — `programs/prog-b.md`\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "programs").mkdir()
+    (tmp_path / "programs" / "prog-b.md").write_text(
+        "---\nslug: prog-b\n---\n\nSee [[tgt-x|Target X]] for details.\n",
+        encoding="utf-8",
+    )
+    g = graph_mod.build(tmp_path)
+    assert "[[" not in g.nodes["prog-b"]["summary"]
+    assert "Target X" in g.nodes["prog-b"]["summary"]
+
+
+def test_summary_empty_when_no_body(tmp_path: Path) -> None:
+    """Pages with no prose content get an empty summary."""
+    (tmp_path / "_index.md").write_text(
+        "# Wiki Index\n\n## Concept\n\n- [[empty-page|Empty]] — `concepts/empty-page.md`\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "concepts").mkdir()
+    (tmp_path / "concepts" / "empty-page.md").write_text(
+        "---\nslug: empty-page\n---\n\n## Heading Only\n",
+        encoding="utf-8",
+    )
+    g = graph_mod.build(tmp_path)
+    assert g.nodes["empty-page"]["summary"] == ""
+
+
+def test_corpus_empty_when_absent(tmp_path: Path) -> None:
+    """Pages without a ``corpus:`` frontmatter field get corpus=''."""
+    (tmp_path / "_index.md").write_text(
+        "# Wiki Index\n\n## Method\n\n- [[m1|Method 1]] — `methods/m1.md`\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "methods").mkdir()
+    (tmp_path / "methods" / "m1.md").write_text(
+        "---\nslug: m1\n---\n\nMethod body.\n",
+        encoding="utf-8",
+    )
+    g = graph_mod.build(tmp_path)
+    assert g.nodes["m1"]["corpus"] == ""
+
+
+def test_to_json_nodes_have_summary_and_corpus(fake_wiki: Path) -> None:
+    """``to_json()["nodes"][0]`` must carry summary and corpus keys."""
+    g = graph_mod.build(fake_wiki)
+    payload = g.to_json()
+    assert payload["schema_version"] == "0.2.0"
+    first_node = payload["nodes"][0]
+    assert "summary" in first_node
+    assert "corpus" in first_node
+
+
+def test_summary_truncation(tmp_path: Path) -> None:
+    """Summaries longer than 120 chars are truncated and appended with ellipsis."""
+    long_line = "A" * 130
+    (tmp_path / "_index.md").write_text(
+        "# Wiki Index\n\n## Concept\n\n- [[long-page|Long]] — `concepts/long-page.md`\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "concepts").mkdir()
+    (tmp_path / "concepts" / "long-page.md").write_text(
+        f"---\nslug: long-page\n---\n\n{long_line}\n",
+        encoding="utf-8",
+    )
+    g = graph_mod.build(tmp_path)
+    summary = g.nodes["long-page"]["summary"]
+    assert len(summary) <= 121  # 120 chars + ellipsis char
+    assert summary.endswith("…")
 
 
 # -- BFS shortest-path --------------------------------------------------

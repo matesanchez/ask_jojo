@@ -267,7 +267,6 @@ def test_lint_metrics_empty(client, monkeypatch, tmp_path):
 
 def test_lint_weekly_no_api_key(monkeypatch, tmp_path):
     """POST /api/ops/lint/weekly returns 200 with api_key_required stubs when no key."""
-    import yaml
 
     wiki = tmp_path / "wiki"
     wiki.mkdir()
@@ -278,6 +277,7 @@ def test_lint_weekly_no_api_key(monkeypatch, tmp_path):
     monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
 
     from fastapi.testclient import TestClient
+
     from backend.main import app
 
     c = TestClient(app)
@@ -308,6 +308,7 @@ def test_lint_history_scope_filter(monkeypatch, tmp_path):
     monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
 
     from fastapi.testclient import TestClient
+
     from backend.main import app
 
     c = TestClient(app)
@@ -333,6 +334,7 @@ def test_lint_history_days_excludes_old_runs(monkeypatch, tmp_path):
     monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
 
     from fastapi.testclient import TestClient
+
     from backend.main import app
 
     c = TestClient(app)
@@ -365,6 +367,7 @@ def test_lint_metrics_with_seeded_history(monkeypatch, tmp_path):
     monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
 
     from fastapi.testclient import TestClient
+
     from backend.main import app
 
     c = TestClient(app)
@@ -389,6 +392,7 @@ def test_lint_registry_error_returns_500(monkeypatch, tmp_path):
     monkeypatch.setattr(reg, "run_nightly", lambda wiki: (_ for _ in ()).throw(RuntimeError("boom")))
 
     from fastapi.testclient import TestClient
+
     from backend.main import app
 
     c = TestClient(app)
