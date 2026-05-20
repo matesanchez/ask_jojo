@@ -5,7 +5,8 @@ get their own suite in `test_ingest_endpoints.py` so this file stays focused
 on what's intentionally 501 until its owning phase lands.
 
 Phase 3 update: wiki and ops endpoints are now implemented — removed from
-this 501 list. Lint (Phase 6) and viz (Phase 3) remain as stubs.
+this 501 list. Viz (Phase 3) remains a stub.
+Phase 6 update: lint endpoints are now implemented — removed from 501 list.
 """
 
 from __future__ import annotations
@@ -33,8 +34,6 @@ def test_health_returns_200() -> None:
         # Viz lands in a later phase.
         ("post", "/api/viz/marp"),
         ("post", "/api/viz/plot"),
-        # Lint triggers land in Phase 6.
-        ("post", "/api/ops/lint/nightly"),
         # Scheduler integration deferred to local-mode packaging pass.
         ("get",  "/api/ingest/schedule"),
         # Wiki write-back stub tested with path param in test_wiki_endpoints.py.

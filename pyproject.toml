@@ -64,6 +64,12 @@ qa = [
     "anthropic>=0.40",         # Messages API client (lights up on FU-10)
     "pydantic>=2.6",           # PlotSpec + format-classifier types
 ]
+# Lint tier (Phase 6) — wiki schema, orphan, stub, wikilink, bloat, quote-budget checks.
+# PyYAML is already in [ingest]; listed here for clarity so ``pip install .[lint]``
+# gives a fully self-contained install for CI-only runs.
+lint = [
+    "pyyaml>=6.0",
+]
 # Rich-output tier (Phase 5) — matplotlib sandbox + docx/pptx/pdf renderers.
 # All deterministic; no model dependency. The matplotlib subprocess
 # enforces resource limits (30 s CPU, 512 MB RAM) per

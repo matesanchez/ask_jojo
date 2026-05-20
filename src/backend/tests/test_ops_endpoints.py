@@ -173,9 +173,93 @@ def test_events_returns_sse_content_type():
     assert "text/event-stream" in ct
 
 
-# -------------------------------------------------------------------- /lint (501 stub)
+# -------------------------------------------------------------------- /lint (Phase 6 real implementation)
 
-def test_lint_returns_501(client):
-    r = client.post("/api/ops/lint/nightly")
-    assert r.status_code == 501
-    assert "Phase 6" in r.json()["detail"]
+def test_lint_nightly_runs(client, monkeypatch, tmp_path):
+    """POST /api/ops/lint/nightly returns 200 and valid result shape."""
+    import yaml
+
+    # Build a minimal wiki
+    wiki = tmp_path / "wiki"
+    wiki.mkdir()
+    (wiki / "concepts").mkdir()
+    fm = {
+        "title": "Test Concept",
+        "type": "concept",
+        "slug": "test-concept",
+        "created": "2026-01-01",
+        "last_updated": "2026-04-01",
+        "last_reviewed": "2026-04-01",
+        "schema_version": "0.2.0",
+        "confidence": "high",
+        "corpus": "protein-sciences",
+        "sources": [{"path": "raw/x.md", "hash": "abc", "ingested": "2026-01-01"}],
+    }
+    page = wiki / "concepts" / "test-concept.md"
+    page.write_text(f"---\n{yaml.dump(fm)}---\n\nBody.\n", encoding="utf-8")
+    (wiki / "_index.md").write_text(
+        "# Wiki Index\n- [[test-concept|Test Concept]] — `concepts/test-concept.md`\n",
+        encoding="utf-8",
+    )
+
+    hist = tmp_path / "hist"
+    monkeypatch.setenv("JOJO_WIKI_ROOT", str(wiki))
+    monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
+
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+
+    c = TestClient(app)
+    r = c.post("/api/ops/lint/nightly")
+    assert r.status_code == 200, r.text
+    body = r.json()
+    assert body["status"] == "ok"
+    assert body["scope"] == "nightly"
+    assert isinstance(body["results"], list)
+    assert len(body["results"]) == 6  # 6 nightly checks
+    for result in body["results"]:
+        assert "check_name" in result
+        assert "status" in result
+        assert "findings" in result
+
+
+def test_lint_invalid_scope(client):
+    """POST /api/ops/lint/invalid returns 400."""
+    r = client.post("/api/ops/lint/invalid")
+    assert r.status_code == 400
+    assert "nightly" in r.json()["detail"] or "weekly" in r.json()["detail"]
+
+
+def test_lint_history_empty(client, monkeypatch, tmp_path):
+    """GET /api/ops/lint/history returns 200 and runs: [] when no history."""
+    hist = tmp_path / "empty_hist"
+    monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
+
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+
+    c = TestClient(app)
+    r = c.get("/api/ops/lint/history")
+    assert r.status_code == 200
+    body = r.json()
+    assert "runs" in body
+    assert body["runs"] == []
+
+
+def test_lint_metrics_empty(client, monkeypatch, tmp_path):
+    """GET /api/ops/lint/metrics returns 200 and series key when no history."""
+    hist = tmp_path / "empty_hist2"
+    monkeypatch.setenv("JOJO_LINT_HISTORY_DIR", str(hist))
+
+    from fastapi.testclient import TestClient
+
+    from backend.main import app
+
+    c = TestClient(app)
+    r = c.get("/api/ops/lint/metrics")
+    assert r.status_code == 200
+    body = r.json()
+    assert "series" in body
+    assert isinstance(body["series"], list)

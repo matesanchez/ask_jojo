@@ -23,11 +23,13 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
+import os
 from collections.abc import AsyncGenerator
 from datetime import datetime, timezone
+from pathlib import Path
 from typing import Any
 
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Query
 from starlette.responses import StreamingResponse
 
 from jojo_core import config
@@ -35,6 +37,26 @@ from jojo_core import config
 log = logging.getLogger("jojo.ops_router")
 
 router = APIRouter()
+
+
+# -------------------------------------------------------------------- lint helpers
+
+def _wiki_root() -> Path:
+    """Resolve the wiki root — mirrors qa_router._wiki_root()."""
+    default = str(Path(__file__).resolve().parents[4] / "ask_jojo_wiki")
+    env_val = os.environ.get("JOJO_WIKI_ROOT")
+    if env_val:
+        return Path(env_val).resolve()
+    return Path(config.get("wiki_root", default)).resolve()
+
+
+def _history_dir() -> Path:
+    """Resolve the lint history directory."""
+    default = str(Path.home() / "AppData" / "Local" / "JojoBot" / "lint-history")
+    env_val = os.environ.get("JOJO_LINT_HISTORY_DIR")
+    if env_val:
+        return Path(env_val).resolve()
+    return Path(default)
 
 
 # -------------------------------------------------------------------- helpers
@@ -221,13 +243,81 @@ def stream_events() -> StreamingResponse:
 
 
 @router.post("/lint/{scope}")
-def trigger_lint(scope: str) -> None:
-    """Lint run trigger — Phase 6."""
-    _ = scope
-    raise HTTPException(
-        status_code=501,
-        detail=(
-            "Lint triggers land in Phase 6 (lint infrastructure). "
-            "See ask_jojo/PLAN.md §6 Phase 6."
-        ),
-    )
+def trigger_lint(scope: str) -> dict[str, Any]:
+    """Trigger a lint run for the given scope.
+
+    Args:
+        scope: ``"nightly"`` or ``"weekly"``.
+
+    Returns:
+        ``{"status": "ok", "scope": scope, "results": [...]}``
+
+    Raises:
+        400: when ``scope`` is not ``"nightly"`` or ``"weekly"``.
+    """
+    if scope not in ("nightly", "weekly"):
+        raise HTTPException(
+            status_code=400,
+            detail=f"scope must be 'nightly' or 'weekly', got {scope!r}",
+        )
+
+    from jojo_lint import history as lint_history
+    from jojo_lint import registry as lint_registry
+
+    wiki = _wiki_root()
+    hist_dir = _history_dir()
+
+    try:
+        if scope == "nightly":
+            results = lint_registry.run_nightly(wiki)
+        else:
+            results = lint_registry.run_weekly(wiki)
+
+        lint_history.append_run(scope, results, history_dir=hist_dir)
+
+        return {
+            "status": "ok",
+            "scope": scope,
+            "results": [r.to_dict() for r in results],
+        }
+    except Exception as exc:  # noqa: BLE001
+        log.error("Lint run failed: %s", exc, exc_info=True)
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+
+
+@router.get("/lint/history")
+def get_lint_history(
+    scope: str | None = Query(None, description="Filter by scope: nightly or weekly"),
+    days: int = Query(30, ge=1, le=365, description="Look-back window in days"),
+) -> dict[str, Any]:
+    """Return recent lint run history.
+
+    Query params:
+        scope: optional filter (``"nightly"`` or ``"weekly"``).
+        days: look-back window in days (default 30).
+
+    Returns:
+        ``{"runs": [...]}``
+    """
+    from jojo_lint import history as lint_history
+
+    runs = lint_history.load_runs(scope=scope, days=days, history_dir=_history_dir())
+    return {"runs": runs}
+
+
+@router.get("/lint/metrics")
+def get_lint_metrics(
+    days: int = Query(30, ge=1, le=365, description="Look-back window in days"),
+) -> dict[str, Any]:
+    """Return the 30-day rolling lint metrics series.
+
+    Query params:
+        days: look-back window in days (default 30).
+
+    Returns:
+        ``{"series": [...]}``
+    """
+    from jojo_lint import history as lint_history
+
+    series = lint_history.metrics_series(days=days, history_dir=_history_dir())
+    return {"series": series}
