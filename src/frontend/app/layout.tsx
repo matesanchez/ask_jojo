@@ -8,11 +8,12 @@ export const metadata: Metadata = {
 };
 
 const TABS: { href: string; label: string }[] = [
-  { href: "/chat",  label: "Chat" },
-  { href: "/wiki",  label: "Wiki" },
-  { href: "/raw",   label: "Raw" },
-  { href: "/graph", label: "Graph" },
-  { href: "/ops",   label: "Ops" },
+  { href: "/chat",     label: "Chat" },
+  { href: "/wiki",     label: "Wiki" },
+  { href: "/raw",      label: "Raw" },
+  { href: "/graph",    label: "Graph" },
+  { href: "/ops",      label: "Ops" },
+  { href: "/settings", label: "Settings" },
 ];
 
 export default function RootLayout({
