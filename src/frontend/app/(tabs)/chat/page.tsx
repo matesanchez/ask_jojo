@@ -65,6 +65,13 @@ function nowIso(): string {
   return new Date().toISOString();
 }
 
+function formatRelativeTime(iso: string): string {
+  const diff = Date.now() - new Date(iso).getTime();
+  if (diff < 60_000) return "just now";
+  if (diff < 3_600_000) return `${Math.floor(diff / 60_000)} min ago`;
+  return new Date(iso).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+}
+
 function routeBadgeClass(route: Route | undefined): string {
   if (!route) return "chat-badge chat-badge-neutral";
   return route === "v1" ? "chat-badge chat-badge-v1" : "chat-badge chat-badge-wiki";
@@ -128,6 +135,7 @@ export default function ChatPage() {
   const [busy, setBusy] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
   const [showBundle, setShowBundle] = useState<Record<string, boolean>>({});
+  const [fileBackModal, setFileBackModal] = useState<{ turn: ChatTurn; title: string } | null>(null);
 
   // -- background polling for qmd + api-key status -------------------------
 
@@ -260,13 +268,18 @@ export default function ChatPage() {
 
   // -- file-back handler --------------------------------------------------
 
-  const fileBack = useCallback(async (turn: ChatTurn) => {
+  const fileBack = useCallback((turn: ChatTurn) => {
     if (!turn.answer) return;
-    const title = window.prompt(
-      "Title for the derived page",
-      `Cowork answer: ${turn.question.slice(0, 60)}`,
-    );
-    if (!title) return;
+    setFileBackModal({
+      turn,
+      title: `Answer: ${turn.question.slice(0, 60)}`,
+    });
+  }, []);
+
+  const submitFileBack = useCallback(async () => {
+    if (!fileBackModal) return;
+    const { turn, title } = fileBackModal;
+    setFileBackModal(null);
     try {
       const res = await fetchJSON<FileBackResponse>("/api/qa/file-back", {
         method: "POST",
@@ -278,11 +291,15 @@ export default function ChatPage() {
           confidence: "low",
         }),
       });
-      window.alert(`Filed to ${res.path}\n${res.next_step}`);
+      setTurns((prev) =>
+        prev.map((t) =>
+          t.id === turn.id ? { ...t, fileBackResult: res.path } : t,
+        ),
+      );
     } catch (e) {
-      window.alert(`File-back failed: ${e instanceof Error ? e.message : String(e)}`);
+      setError(`File-back failed: ${e instanceof Error ? e.message : String(e)}`);
     }
-  }, []);
+  }, [fileBackModal]);
 
   // -- output file-back handler ------------------------------------------
 
@@ -399,7 +416,7 @@ export default function ChatPage() {
                 : "API key not configured — synthesis returns api_key_required; use the Cowork handoff."
             }
           >
-            {apiKeyConfigured ? "API key: ready" : "API key: pending (FU-10)"}
+            {apiKeyConfigured ? "API key: ready" : "API key: not configured"}
           </span>
           {qmdStatus && (
             <span
@@ -417,11 +434,13 @@ export default function ChatPage() {
         {turns.length === 0 && (
           <div className="chat-empty">
             <p>Ask a question about Nurix programs, targets, decisions, or methods.</p>
-            <p>
-              Until the Anthropic API key lands (see <code>FU-10</code>), questions return
-              the deterministic retrieval bundle and a Cowork handoff. v1.0 routes
-              (AKTA, UNICORN, chromatography, buffer prep) get a routing slip.
-            </p>
+            {!apiKeyConfigured && (
+              <p>
+                Add your Anthropic API key in{" "}
+                <a href="/settings" className="chat-link">Settings</a>{" "}
+                to enable live synthesis.
+              </p>
+            )}
           </div>
         )}
         {turns.map((turn) => (
@@ -461,6 +480,15 @@ export default function ChatPage() {
           {busy ? "Asking..." : "Ask"}
         </button>
       </form>
+
+      {fileBackModal && (
+        <FileBackModal
+          modal={fileBackModal}
+          onTitleChange={(t) => setFileBackModal((m) => m ? { ...m, title: t } : null)}
+          onConfirm={submitFileBack}
+          onCancel={() => setFileBackModal(null)}
+        />
+      )}
     </div>
   );
 }
@@ -483,7 +511,7 @@ function ChatTurnView(props: ChatTurnViewProps) {
         <div className="chat-avatar-user" aria-label="You">You</div>
         <div className="chat-question">
           <div className="chat-question-header">
-            <span className="chat-asked-at">{turn.asked_at}</span>
+            <span className="chat-asked-at">{formatRelativeTime(turn.asked_at)}</span>
             {turn.routeResponse && (
               <span className={routeBadgeClass(turn.routeResponse.route)}>
                 {turn.routeResponse.route}
@@ -597,18 +625,15 @@ function RoutingState() {
 function V1Handoff({ turn }: { turn: ChatTurn }) {
   return (
     <div className="chat-v1-handoff">
-      <h3>Routing slip — v1.0 / AKTA path</h3>
+      <h3>Routed to chromatography system</h3>
       <p>
-        This question routes to the v1.0 ÄKTA / UNICORN system (legacy chromatography
-        path). The wiki has near-zero AKTA content today; v1.0 has the answer.
+        This question is best answered by the ÄKTA / UNICORN system. The JoJo wiki
+        has limited chromatography content; please re-ask in the chromatography
+        knowledge base.
       </p>
-      <p>
-        <em>{turn.routeResponse?.reason}</em>
-      </p>
-      <p>
-        Open the v1.0 chat surface and re-ask there, or wait for the migration trigger
-        described in <code>docs/qa/qa-prompt.md</code> &ldquo;Routing edge cases&rdquo;.
-      </p>
+      {turn.routeResponse?.reason && (
+        <p className="chat-v1-reason"><em>{turn.routeResponse.reason}</em></p>
+      )}
     </div>
   );
 }
@@ -629,9 +654,9 @@ function ApiKeyRequired({
   return (
     <div className="chat-api-key-required">
       <div className="chat-banner chat-banner-info">
-        <strong>API key pending (FU-10).</strong> The deterministic retrieval bundle
-        below is ready for a Cowork handoff: paste it into a fresh session running
-        <code> docs/qa/qa-prompt.md</code> to produce a gold answer.
+        <strong>API key not configured.</strong> The retrieval bundle below shows which
+        wiki pages were selected. Add your Anthropic API key in{" "}
+        <a href="/settings" className="chat-link">Settings</a> to get a synthesized answer.
       </div>
 
       {bundle && (
@@ -773,6 +798,9 @@ function AnsweredView({
         >
           File this to wiki/derived/
         </button>
+        {turn.fileBackResult && (
+          <span className="chat-filed-badge">Filed → {turn.fileBackResult}</span>
+        )}
 
         {/* Rich-output file-back button. Only shown for non-markdown formats. */}
         {isRichOutput && (
@@ -797,6 +825,50 @@ function AnsweredView({
             {turn.outputFileBackError}
           </span>
         )}
+      </div>
+    </div>
+  );
+}
+
+// ================================================================ FileBackModal
+
+function FileBackModal({
+  modal,
+  onTitleChange,
+  onConfirm,
+  onCancel,
+}: {
+  modal: { turn: ChatTurn; title: string };
+  onTitleChange: (t: string) => void;
+  onConfirm: () => void;
+  onCancel: () => void;
+}) {
+  return (
+    <div className="chat-modal-overlay" role="dialog" aria-modal="true" aria-label="File answer">
+      <div className="chat-modal">
+        <h3 className="chat-modal-title">File this answer to the wiki</h3>
+        <label className="chat-modal-label">
+          Page title
+          <input
+            className="chat-modal-input"
+            value={modal.title}
+            onChange={(e) => onTitleChange(e.target.value)}
+            autoFocus
+          />
+        </label>
+        <div className="chat-modal-actions">
+          <button type="button" className="chat-btn chat-btn-secondary" onClick={onCancel}>
+            Cancel
+          </button>
+          <button
+            type="button"
+            className="chat-btn chat-btn-primary"
+            onClick={onConfirm}
+            disabled={!modal.title.trim()}
+          >
+            File to wiki
+          </button>
+        </div>
       </div>
     </div>
   );

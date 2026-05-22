@@ -127,9 +127,22 @@ def main() -> None:
 
     log.info("Waiting for server to become ready …")
     if not _wait_ready(port):
-        log.error(
-            "Server did not respond within 45 s. See full log at %s", _log_file
-        )
+        log.error("Server did not respond within 45 s. See full log at %s", _log_file)
+        try:
+            from PySide6.QtWidgets import QApplication, QMessageBox
+
+            QApplication.instance() or QApplication(sys.argv)
+            box = QMessageBox()
+            box.setWindowTitle("JoJo Bot — Startup Failed")
+            box.setIcon(QMessageBox.Icon.Critical)
+            box.setText("JoJo Bot could not start.")
+            box.setInformativeText(
+                f"The backend server did not respond within 45 seconds.\n\n"
+                f"Check the log for details:\n{_log_file}"
+            )
+            box.exec()
+        except Exception:
+            pass
         return
 
     log.info("Server ready. Opening window at http://127.0.0.1:%d", port)

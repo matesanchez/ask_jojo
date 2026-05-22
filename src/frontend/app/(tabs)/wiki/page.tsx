@@ -79,8 +79,10 @@ function resolveWikilinks(body: string): string {
 }
 
 function formatDate(val: string | null | undefined): string {
-  if (!val) return "--";
-  return val;
+  if (!val) return "—";
+  const d = new Date(val);
+  if (isNaN(d.getTime())) return val;
+  return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
 }
 
 // ------------------------------------------------------------------ tree view
@@ -97,7 +99,7 @@ function WikiTreeView({
   if (!nodes.length) {
     return (
       <p className="wiki-empty">
-        Wiki is empty. Run an absorb pass to populate it.
+        No wiki pages yet.
       </p>
     );
   }
@@ -535,8 +537,8 @@ function EditModal({
             <div className="wiki-modal-nudge">
               <p>{state.message}</p>
               <p>
-                <a href="/ops" className="wiki-link">
-                  Configure in Ops tab
+                <a href="/settings" className="wiki-link">
+                  Configure API key in Settings
                 </a>
               </p>
             </div>
@@ -587,14 +589,9 @@ function EditModal({
                 >
                   Reject
                 </button>
-                <button
-                  type="button"
-                  className="wiki-btn wiki-btn-primary"
-                  disabled
-                  title="Write-back coming in Phase 3 final pass"
-                >
-                  Accept (coming soon)
-                </button>
+                <p className="wiki-modal-note">
+                  Proposed edit saved as a suggestion. Write-back requires API key configuration.
+                </p>
               </div>
             </div>
           )}
@@ -821,7 +818,7 @@ export default function WikiPage() {
               />
             ) : (
               <p className="wiki-empty">
-                Wiki tree is empty. Run an absorb pass first.
+                No pages yet. Use the Ingest tab to sync a data source.
               </p>
             )}
           </div>

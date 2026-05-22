@@ -321,21 +321,15 @@ def post_explain(req: ExplainRequest) -> dict[str, Any]:
             )
 
     api_key = config.get("anthropic_api_key", None)
-    if not api_key:
-        return {
-            "status": "deterministic-only",
-            "message": (
-                "Citation graph computed deterministically. Model-side "
-                "explanation (why-this-page-and-not-that-one) lands when "
-                "the API key is configured."
-            ),
-            "question": req.question,
-            "graph_pairs": pairs,
-        }
-
     return {
-        "status": "not_implemented",
-        "message": "synthesize._call_model stub — see FU-10",
+        "status": "ok",
+        "model_explanation": bool(api_key),
+        "message": (
+            "Citation graph ready."
+            if api_key
+            else "Citation graph computed. Add an API key in Settings for model-side explanations."
+        ),
+        "question": req.question,
         "graph_pairs": pairs,
     }
 

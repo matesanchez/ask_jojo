@@ -27,6 +27,14 @@ const SECTIONS: { key: SectionKey; label: string; anchor: string }[] = [
   { key: "lint", label: "Lint cadence", anchor: "#lint" },
 ];
 
+const SECTION_STATUS_KEY: Record<SectionKey, keyof SettingsStatus> = {
+  "api-key": "api_key",
+  "models": "models",
+  "graph": "graph",
+  "connectors": "connectors",
+  "lint": "lint",
+};
+
 function StatusIcon({ ok, detail }: { ok: boolean; detail: string }) {
   if (ok) {
     return (
@@ -109,7 +117,20 @@ export default function SettingsPage() {
     } catch {
       // Expected — server is going down.
     }
-    setTimeout(() => window.location.reload(), 10_000);
+    // Poll /health until the server comes back, then reload.
+    const poll = setInterval(async () => {
+      try {
+        const r = await fetch("/health", { cache: "no-store" });
+        if (r.ok) {
+          clearInterval(poll);
+          window.location.reload();
+        }
+      } catch {
+        // Still down — keep polling.
+      }
+    }, 1_000);
+    // Safety net: reload after 30 s regardless.
+    setTimeout(() => { clearInterval(poll); window.location.reload(); }, 30_000);
   }
 
   return (
@@ -148,9 +169,7 @@ export default function SettingsPage() {
           <h3 className="settings-sidebar-title">Status</h3>
           <div className="settings-status-list">
             {SECTIONS.map((s) => {
-              const entry = settingsStatus
-                ? settingsStatus[s.key === "api-key" ? "api_key" : s.key === "graph" ? "graph" : s.key === "connectors" ? "connectors" : s.key === "lint" ? "lint" : "models"]
-                : null;
+              const entry = settingsStatus ? settingsStatus[SECTION_STATUS_KEY[s.key]] : null;
               return (
                 <button
                   key={s.key}

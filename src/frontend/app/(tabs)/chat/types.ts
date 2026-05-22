@@ -204,4 +204,6 @@ export interface ChatTurn {
   outputFileBackStatus?: OutputFileBackStatus;
   /** Error message from the output file-back call if it fails. */
   outputFileBackError?: string;
+  /** Path returned after a successful Q&A file-back. */
+  fileBackResult?: string;
 }

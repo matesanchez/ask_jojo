@@ -54,7 +54,7 @@ export default function WelcomePage() {
 
     async function fetchStatus() {
       try {
-        const res = await fetch("/api/ops/status");
+        const res = await fetch("/api/settings/status");
         if (!res.ok) {
           throw new Error(`HTTP ${res.status}`);
         }
@@ -66,7 +66,7 @@ export default function WelcomePage() {
         // Redirect when every section is green.
         const allGreen = STATUS_KEYS.every((key) => data[key].ok);
         if (allGreen) {
-          router.push("/");
+          router.replace("/chat");
         }
       } catch (err) {
         if (cancelled) return;
