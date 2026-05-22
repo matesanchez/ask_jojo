@@ -1,11 +1,15 @@
 # -*- mode: python ; coding: utf-8 -*-
-"""PyInstaller spec for JoJo Bot v2.0 double-click exe.
+"""PyInstaller spec for JoJo Bot v2.0 desktop application.
 
 Build with:
     cd C:\\Users\\mdelosrios\\Claude_Local\\jojo_bot_v2.0\\ask_jojo
     python -m PyInstaller ops/installer/JojoBot.spec
 
 Output: dist/JojoBot/JojoBot.exe  (+  dist/JojoBot/_internal/)
+
+After the build, Build-JojoExe.ps1 copies:
+    ask_jojo_wiki/  →  dist/JojoBot/wiki/
+    ask_jojo_raw/   →  dist/JojoBot/raw/
 """
 import sys
 from pathlib import Path
@@ -28,6 +32,11 @@ for pkg in ["jojo_core", "jojo_qa", "jojo_ingest", "jojo_compile",
 
 # Backend routers (Python source must be in sys.path; --add-data for templates/static)
 datas.append((str(REPO / "src" / "backend"), "backend"))
+
+# App icon (placed at _internal/ so the launcher can find it by relative path)
+_ico = REPO / "src" / "frontend" / "public" / "jojo.ico"
+if _ico.exists():
+    datas.append((str(_ico), "."))
 
 # ---- Hidden imports (dynamic imports PyInstaller misses) ---------------------
 hiddenimports = []
@@ -67,6 +76,21 @@ hiddenimports += [
     "email.mime.multipart",
 ]
 
+# PySide6 — native Qt window (QWebEngineView).
+# PyInstaller 6.x has built-in PySide6 hooks that copy Qt DLLs and
+# QtWebEngineProcess.exe automatically; we just need to list the modules.
+hiddenimports += [
+    "PySide6.QtCore",
+    "PySide6.QtGui",
+    "PySide6.QtWidgets",
+    "PySide6.QtWebEngineWidgets",
+    "PySide6.QtWebEngineCore",
+    "PySide6.QtNetwork",
+    "PySide6.QtWebChannel",
+    "PySide6.QtPositioning",
+    "shiboken6",
+]
+
 # ---- Excludes (heavy optional tiers not needed in the exe) -------------------
 excludes = [
     # Fine-tune tier (ML training; not needed in the daily-use exe)
@@ -78,6 +102,8 @@ excludes = [
     "weasyprint", "cairo", "pangocffi",
     # Test frameworks
     "pytest", "pytest_cov", "pytest_httpx",
+    # pywebview (not used; PySide6 is the window backend)
+    "webview",
 ]
 
 # ---- Analysis ----------------------------------------------------------------
@@ -110,13 +136,13 @@ exe = EXE(
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
-    console=True,   # Console window: user sees logs + "KEEP THIS WINDOW OPEN" message
+    console=False,   # No console window — pure GUI app. Logs go to %LOCALAPPDATA%\JojoBot\launcher.log
     disable_windowed_traceback=False,
     argv_emulation=False,
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=None,      # Add: icon=str(REPO / "src" / "frontend" / "public" / "jojo.ico") once icon exists
+    icon=str(_ico) if _ico.exists() else None,
 )
 
 coll = COLLECT(

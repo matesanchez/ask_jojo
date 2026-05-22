@@ -80,6 +80,11 @@ finetune = [
     "trl>=0.8",
     "datasets>=2.18",
 ]
+# Desktop launcher — native Qt window (QWebEngineView) instead of browser tab.
+# Requires Python 3.11+ and WebView2 runtime (ships with Windows 10/11 since 2022).
+desktop = [
+    "PySide6>=6.7",         # Qt6 native window with embedded Chromium engine
+]
 # Rich-output tier (Phase 5) — matplotlib sandbox + docx/pptx/pdf renderers.
 # All deterministic; no model dependency. The matplotlib subprocess
 # enforces resource limits (30 s CPU, 512 MB RAM) per
