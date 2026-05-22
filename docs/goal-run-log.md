@@ -345,3 +345,17 @@ None currently. All blockers are human-only (credentials, external infra) and ar
 - FU-23 — pymupdf AGPL-3.0 + html2text GPL-3.0 Legal review
 
 **Goal complete.** All phases 0–8 🟢. v2.0.0 tagged.
+
+---
+
+## 2026-05-21 — Post-tag patch: test isolation
+
+**Root cause identified:** `jojo_core.config.get()` reads `%APPDATA%\JojoBot\config.json` before checking env vars. Tests that called `monkeypatch.delenv("JOJO_ONEDRIVE_PATH")` etc. were not redirecting config.json reads, so the real operator config bled into test assertions. This caused 13+ failures across `jojo_ingest` and backend ingest endpoint tests whenever run after `test_settings_endpoints.py::test_post_connectors_saves_paths` (which writes `onedrive_path` / `graph_access_token` to the real config.json before resetting `_override_path` to `None`).
+
+**Fix:**
+- `packages/jojo_ingest/tests/conftest.py` — new file; `autouse` fixture redirects all config I/O to `tmp_path / "config.json"` for every `jojo_ingest` test.
+- `src/backend/tests/test_ingest_endpoints.py` — `client_with_raw_root` fixture converted from `return` to `yield`/`try-finally`; calls `jojo_config.set_config_path_for_tests(tmp_path / "config.json")` on setup and `set_config_path_for_tests(None)` on teardown.
+
+**Verification:** 618 passed, 0 failed (full suite). Pre-existing 8 `jojo_graph`/`jojo_qa` failures from prior session are now resolved (total failure count dropped from 13+ to 0).
+
+**Deliverable spot-check (confirming prior completion):** ADRs 0012–0014 present; `docs/reviews/2026-05-19-phase-7b-review.md` + `2026-05-20-phase-8-review.md` present; `ops/installer/Build-JojoBotRelease.ps1` present; `packages/jojo_finetune/` installable; `v2.0.0` tag confirmed on `ask_jojo`. No re-tag.

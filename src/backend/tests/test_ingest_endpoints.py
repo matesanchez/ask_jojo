@@ -14,6 +14,8 @@ from pathlib import Path
 import pytest
 from fastapi.testclient import TestClient
 
+from jojo_core import config as jojo_config
+
 
 @pytest.fixture
 def client_with_raw_root(tmp_path: Path, monkeypatch):
@@ -21,6 +23,8 @@ def client_with_raw_root(tmp_path: Path, monkeypatch):
 
     We reload the router module so the module-level env-var reads pick up
     our tmp path rather than whatever the dev env had when pytest started.
+    Config I/O is redirected to a tmp file so the real %APPDATA%\\JojoBot\\config.json
+    (which may have onedrive_path, graph tokens, etc.) doesn't bleed into tests.
     """
     raw = tmp_path / "ask_jojo_raw"
     monkeypatch.setenv("JOJO_RAW_ROOT", str(raw))
@@ -28,14 +32,19 @@ def client_with_raw_root(tmp_path: Path, monkeypatch):
     # Force Redis URL to a port nothing's listening on — we want the inproc
     # fallback to kick in deterministically.
     monkeypatch.setenv("JOJO_REDIS_URL", "redis://127.0.0.1:1/0")
+    monkeypatch.setenv("JOJO_CONFIG_FORCE_PLAINTEXT", "1")
 
-    from backend import main
-    from backend.routers import ingest_router
+    jojo_config.set_config_path_for_tests(tmp_path / "config.json")
+    try:
+        from backend import main
+        from backend.routers import ingest_router
 
-    importlib.reload(ingest_router)
-    importlib.reload(main)
+        importlib.reload(ingest_router)
+        importlib.reload(main)
 
-    return TestClient(main.app), raw
+        yield TestClient(main.app), raw
+    finally:
+        jojo_config.set_config_path_for_tests(None)
 
 
 def test_connectors_endpoint_lists_known_connectors(client_with_raw_root, monkeypatch):
