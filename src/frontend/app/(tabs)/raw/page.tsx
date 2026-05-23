@@ -485,6 +485,13 @@ export default function RawPage() {
 
   // ------------------------------------------------------------- effects
   useEffect(() => {
+    try {
+      const saved = localStorage.getItem("rawSelectedId");
+      if (saved) setSelectedId(saved);
+    } catch { /* non-fatal */ }
+  }, []);
+
+  useEffect(() => {
     refreshTreeAndSummary();
     refreshConnectors();
     refreshJobs();
@@ -494,6 +501,13 @@ export default function RawPage() {
     }, POLL_INTERVAL_MS);
     return () => clearInterval(id);
   }, [refreshTreeAndSummary, refreshConnectors, refreshJobs]);
+
+  useEffect(() => {
+    try {
+      if (selectedId) localStorage.setItem("rawSelectedId", selectedId);
+      else localStorage.removeItem("rawSelectedId");
+    } catch { /* non-fatal */ }
+  }, [selectedId]);
 
   useEffect(() => {
     if (!selectedId) {

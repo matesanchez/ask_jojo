@@ -117,10 +117,10 @@ export default function SettingsPage() {
     } catch {
       // Expected — server is going down.
     }
-    // Poll /health until the server comes back, then reload.
+    // Poll /api/ops/status until the server comes back, then reload.
     const poll = setInterval(async () => {
       try {
-        const r = await fetch("/health", { cache: "no-store" });
+        const r = await fetch("/api/ops/status", { cache: "no-store" });
         if (r.ok) {
           clearInterval(poll);
           window.location.reload();

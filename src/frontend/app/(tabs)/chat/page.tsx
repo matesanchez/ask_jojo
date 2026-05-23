@@ -150,7 +150,39 @@ export default function ChatPage() {
   const [error, setError] = useState<string | null>(null);
   const [showBundle, setShowBundle] = useState<Record<string, boolean>>({});
   const [fileBackModal, setFileBackModal] = useState<{ turn: ChatTurn; title: string } | null>(null);
+  const [fileBackSubmitting, setFileBackSubmitting] = useState(false);
   const conversationEndRef = useRef<HTMLDivElement>(null);
+
+  // -- localStorage history persistence ----------------------------------
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem("jojo-chat-turns");
+      if (saved) {
+        const parsed: ChatTurn[] = JSON.parse(saved);
+        setTurns(parsed.filter((t) => t.status !== "routing"));
+      }
+    } catch { /* non-fatal */ }
+  }, []);
+
+  useEffect(() => {
+    if (turns.length === 0) return;
+    try {
+      const lightweight = turns
+        .filter((t) => t.status !== "routing")
+        .slice(-30)
+        .map(({ id, question, asked_at, status, answer, citedSlugs, confidence, followUps, error, depth, routeHint, fileBackResult }) => ({
+          id, question, asked_at, status, answer, citedSlugs, confidence, followUps, error, depth, routeHint, fileBackResult,
+        }));
+      localStorage.setItem("jojo-chat-turns", JSON.stringify(lightweight));
+    } catch { /* non-fatal */ }
+  }, [turns]);
+
+  const clearChat = useCallback(() => {
+    setTurns([]);
+    setError(null);
+    try { localStorage.removeItem("jojo-chat-turns"); } catch { /* non-fatal */ }
+  }, []);
 
   // -- background polling for qmd + api-key status -------------------------
 
@@ -299,9 +331,9 @@ export default function ChatPage() {
   }, []);
 
   const submitFileBack = useCallback(async () => {
-    if (!fileBackModal) return;
+    if (!fileBackModal || fileBackSubmitting) return;
     const { turn, title } = fileBackModal;
-    // Don't close the modal yet — keep it open during the request
+    setFileBackSubmitting(true);
     try {
       const res = await fetchJSON<FileBackResponse>("/api/qa/file-back", {
         method: "POST",
@@ -313,17 +345,19 @@ export default function ChatPage() {
           confidence: "low",
         }),
       });
-      setFileBackModal(null); // Only close on success
+      setFileBackModal(null);
       setTurns((prev) =>
         prev.map((t) =>
           t.id === turn.id ? { ...t, fileBackResult: res.path } : t,
         ),
       );
     } catch (e) {
-      setFileBackModal(null); // Close modal even on error
+      setFileBackModal(null);
       setError(`File-back failed: ${e instanceof Error ? e.message : String(e)}`);
+    } finally {
+      setFileBackSubmitting(false);
     }
-  }, [fileBackModal]);
+  }, [fileBackModal, fileBackSubmitting]);
 
   // -- output file-back handler ------------------------------------------
 
@@ -429,6 +463,16 @@ export default function ChatPage() {
           </label>
         </div>
         <div className="chat-status">
+          {turns.length > 0 && (
+            <button
+              type="button"
+              className="chat-clear-btn"
+              onClick={clearChat}
+              title="Clear conversation history"
+            >
+              Clear
+            </button>
+          )}
           <span
             className={
               "chat-badge " +
@@ -458,7 +502,7 @@ export default function ChatPage() {
         {turns.length === 0 && (
           <div className="chat-empty">
             <p>Ask a question about Nurix programs, targets, decisions, or methods.</p>
-            {!apiKeyConfigured && (
+            {apiKeyConfigured === false && (
               <p>
                 Add your Anthropic API key in{" "}
                 <a href="/settings" className="chat-link">Settings</a>{" "}
@@ -491,6 +535,10 @@ export default function ChatPage() {
             onToggleBundle={() => toggleBundle(turn.id)}
             onFileBack={() => fileBack(turn)}
             onFileOutput={() => fileOutput(turn)}
+            onRetry={(q) => {
+              setTurns((prev) => prev.filter((t) => t.id !== turn.id));
+              setDraft(q);
+            }}
           />
         ))}
         {error && <div className="chat-error">{error}</div>}
@@ -531,9 +579,10 @@ export default function ChatPage() {
       {fileBackModal && (
         <FileBackModal
           modal={fileBackModal}
+          submitting={fileBackSubmitting}
           onTitleChange={(t) => setFileBackModal((m) => m ? { ...m, title: t } : null)}
           onConfirm={submitFileBack}
-          onCancel={() => setFileBackModal(null)}
+          onCancel={() => { if (!fileBackSubmitting) setFileBackModal(null); }}
         />
       )}
     </div>
@@ -548,17 +597,18 @@ interface ChatTurnViewProps {
   onToggleBundle: () => void;
   onFileBack: () => void;
   onFileOutput: () => void;
+  onRetry: (question: string) => void;
 }
 
 function ChatTurnView(props: ChatTurnViewProps) {
-  const { turn, showBundle, onToggleBundle, onFileBack, onFileOutput } = props;
+  const { turn, showBundle, onToggleBundle, onFileBack, onFileOutput, onRetry } = props;
   return (
     <div className={"chat-turn chat-turn-" + turn.status}>
       <div className="chat-q-row">
         <div className="chat-avatar-user" aria-label="You">You</div>
         <div className="chat-question">
           <div className="chat-question-header">
-            <span className="chat-asked-at">{formatRelativeTime(turn.asked_at)}</span>
+            <span className="chat-asked-at" title={new Date(turn.asked_at).toLocaleString()}>{formatRelativeTime(turn.asked_at)}</span>
             {turn.routeResponse && (
               <span className={routeBadgeClass(turn.routeResponse.route)}>
                 {turn.routeResponse.route}
@@ -609,7 +659,16 @@ function ChatTurnView(props: ChatTurnViewProps) {
             />
           )}
           {turn.status === "error" && (
-            <div className="chat-error">{turn.error ?? "Unknown error"}</div>
+            <div className="chat-error">
+              {turn.error ?? "Unknown error"}
+              <button
+                type="button"
+                className="chat-retry-btn"
+                onClick={() => onRetry(turn.question)}
+              >
+                Retry
+              </button>
+            </div>
           )}
         </div>
       </div>
@@ -900,17 +959,33 @@ function AnsweredView({
 
 function FileBackModal({
   modal,
+  submitting,
   onTitleChange,
   onConfirm,
   onCancel,
 }: {
   modal: { turn: ChatTurn; title: string };
+  submitting: boolean;
   onTitleChange: (t: string) => void;
   onConfirm: () => void;
   onCancel: () => void;
 }) {
+  useEffect(() => {
+    function onKey(e: KeyboardEvent) {
+      if (e.key === "Escape" && !submitting) onCancel();
+    }
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [onCancel, submitting]);
+
   return (
-    <div className="chat-modal-overlay" role="dialog" aria-modal="true" aria-label="File answer">
+    <div
+      className="chat-modal-overlay"
+      role="dialog"
+      aria-modal="true"
+      aria-label="File answer"
+      onClick={(e) => { if (e.target === e.currentTarget && !submitting) onCancel(); }}
+    >
       <div className="chat-modal">
         <h3 className="chat-modal-title">File this answer to the wiki</h3>
         <label className="chat-modal-label">
@@ -923,16 +998,16 @@ function FileBackModal({
           />
         </label>
         <div className="chat-modal-actions">
-          <button type="button" className="chat-btn chat-btn-secondary" onClick={onCancel}>
+          <button type="button" className="chat-btn chat-btn-secondary" onClick={onCancel} disabled={submitting}>
             Cancel
           </button>
           <button
             type="button"
             className="chat-btn chat-btn-primary"
             onClick={onConfirm}
-            disabled={!modal.title.trim()}
+            disabled={!modal.title.trim() || submitting}
           >
-            File to wiki
+            {submitting ? "Filing…" : "File to wiki"}
           </button>
         </div>
       </div>

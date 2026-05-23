@@ -462,6 +462,14 @@ function EditModal({
   const [instruction, setInstruction] = useState("");
   const [state, setState] = useState<EditModalState>({ kind: "idle" });
 
+  useEffect(() => {
+    function onKey(e: KeyboardEvent) {
+      if (e.key === "Escape" && state.kind !== "loading") onClose();
+    }
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [onClose, state.kind]);
+
   async function handleAskJoJo() {
     if (!instruction.trim()) return;
     setState({ kind: "loading" });
@@ -491,7 +499,12 @@ function EditModal({
   }
 
   return (
-    <div className="wiki-modal-overlay" role="dialog" aria-modal="true">
+    <div
+      className="wiki-modal-overlay"
+      role="dialog"
+      aria-modal="true"
+      onClick={(e) => { if (e.target === e.currentTarget && state.kind !== "loading") onClose(); }}
+    >
       <div className="wiki-modal">
         <div className="wiki-modal-header">
           <h2 className="wiki-modal-title">
@@ -627,6 +640,9 @@ export default function WikiPage() {
   // Edit modal
   const [showEditModal, setShowEditModal] = useState(false);
 
+  // Tracks whether the initial ?slug= URL param has been handled.
+  const slugHandledRef = useRef(false);
+
   // --------------------------------------------------------- loaders
 
   const refreshTree = useCallback(async () => {
@@ -703,6 +719,17 @@ export default function WikiPage() {
       cancelled = true;
     };
   }, [selectedPath]);
+
+  // Honor ?slug= URL param once the tree is loaded.
+  useEffect(() => {
+    if (slugHandledRef.current || !tree.length) return;
+    const params = new URLSearchParams(window.location.search);
+    const slug = params.get("slug");
+    if (!slug) return;
+    slugHandledRef.current = true;
+    const found = findBySlug(tree as WikiTreeNode[], slug);
+    if (found) setSelectedPath(found);
+  }, [tree]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Debounced search.
   useEffect(() => {
