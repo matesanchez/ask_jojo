@@ -87,6 +87,7 @@ def _open_window(url: str) -> None:
     """Block until the Qt window closes."""
     from PySide6.QtCore import QUrl
     from PySide6.QtGui import QIcon
+    from PySide6.QtWebEngineCore import QWebEngineSettings
     from PySide6.QtWebEngineWidgets import QWebEngineView
     from PySide6.QtWidgets import QApplication
 
@@ -101,6 +102,13 @@ def _open_window(url: str) -> None:
         qt_app.setWindowIcon(QIcon(str(ico)))
 
     view = QWebEngineView()
+
+    # Allow the page to read and write the system clipboard (copy-to-clipboard
+    # buttons need this; WebEngine restricts it by default).
+    s = view.settings()
+    s.setAttribute(QWebEngineSettings.WebAttribute.JavascriptCanAccessClipboard, True)
+    s.setAttribute(QWebEngineSettings.WebAttribute.JavascriptCanPasteFromClipboard, True)
+
     view.setWindowTitle("JoJo Bot")
     view.resize(1440, 900)
     view.setMinimumSize(960, 600)

@@ -40,6 +40,16 @@ import type {
   TreeResponse,
 } from "./types";
 
+// ------------------------------------------------------------------ useDebounce
+function useDebounce<T>(value: T, delayMs: number): T {
+  const [debounced, setDebounced] = useState(value);
+  useEffect(() => {
+    const t = setTimeout(() => setDebounced(value), delayMs);
+    return () => clearTimeout(t);
+  }, [value, delayMs]);
+  return debounced;
+}
+
 // ------------------------------------------------------------------ API helpers
 // Thin wrappers so retries, error shaping, and the base URL live in one spot.
 
@@ -96,6 +106,22 @@ function connectorStatusClass(status: string): string {
   if (status === "needs-token") return "raw-badge raw-badge-warn";
   if (status === "needs-path") return "raw-badge raw-badge-warn";
   return "raw-badge";
+}
+
+// ------------------------------------------------------------------ filterTree
+// Recursively prunes tree nodes that don't match the query.
+// Uses the `kind` discriminator from TreeNode (not `type`).
+function filterTree(nodes: TreeNode[], query: string): TreeNode[] {
+  if (!query) return nodes;
+  const q = query.toLowerCase();
+  return nodes.flatMap<TreeNode>((node) => {
+    if (node.kind === "file") {
+      return node.name.toLowerCase().includes(q) ? [node] : [];
+    }
+    const children = filterTree(node.children, q);
+    if (children.length === 0 && !node.name.toLowerCase().includes(q)) return [];
+    return [{ ...node, children }];
+  });
 }
 
 // ------------------------------------------------------------------ tree view
@@ -418,6 +444,8 @@ export default function RawPage() {
   const [fileError, setFileError] = useState<string | null>(null);
   const [resyncing, setResyncing] = useState<string | null>(null);
   const [treeError, setTreeError] = useState<string | null>(null);
+  const [treeSearch, setTreeSearch] = useState("");
+  const debouncedSearch = useDebounce(treeSearch, 200);
 
   // ------------------------------------------------------------- loaders
   const refreshTreeAndSummary = useCallback(async () => {
@@ -524,6 +552,10 @@ export default function RawPage() {
 
   // ------------------------------------------------------------- render
   const hasTree = useMemo(() => tree.length > 0, [tree]);
+  const filteredTree = useMemo(
+    () => filterTree(tree, debouncedSearch),
+    [tree, debouncedSearch]
+  );
 
   return (
     <section className="raw-page">
@@ -538,9 +570,16 @@ export default function RawPage() {
         <aside className="raw-pane raw-pane-tree">
           <header className="raw-pane-header">Tree</header>
           <div className="raw-pane-body">
+            <input
+              type="search"
+              className="raw-search"
+              placeholder="Filter files…"
+              value={treeSearch}
+              onChange={(e) => setTreeSearch(e.target.value)}
+            />
             {hasTree ? (
               <TreeView
-                nodes={tree}
+                nodes={filteredTree}
                 selectedId={selectedId}
                 onSelect={setSelectedId}
               />

@@ -62,7 +62,8 @@ interface RebuildResponse {
 async function fetchJSON<T>(url: string, init?: RequestInit): Promise<T> {
   const r = await fetch(url, { cache: "no-store", ...init });
   if (!r.ok) {
-    throw new Error(`${r.status} ${r.statusText}`);
+    const text = await r.text().catch(() => "");
+    throw new Error(`${r.status} ${r.statusText}${text ? ` — ${text}` : ""}`);
   }
   return r.json() as Promise<T>;
 }
@@ -85,6 +86,7 @@ function GraphPageInner() {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [iframeKey, setIframeKey] = useState(0);
+  const [iframeReady, setIframeReady] = useState(false);
   const iframeRef = useRef<HTMLIFrameElement | null>(null);
 
   const refresh = useCallback(async () => {
@@ -131,9 +133,16 @@ function GraphPageInner() {
     }
   }, [refresh]);
 
-  // Pass highlight slugs to the iframe (D3 view only).
+  // Reset iframeReady when the iframe is rebuilt so the onLoad handler
+  // re-arms before we send postMessage.
   useEffect(() => {
-    if (!highlight || !iframeRef.current) return;
+    setIframeReady(false);
+  }, [iframeKey]);
+
+  // Pass highlight slugs to the iframe (D3 view only).
+  // Gated on iframeReady so the message is not sent before the content loads.
+  useEffect(() => {
+    if (!highlight || !iframeReady || !iframeRef.current) return;
     const slugs = highlight
       .split(",")
       .map((s) => s.trim())
@@ -141,7 +150,7 @@ function GraphPageInner() {
     const target = iframeRef.current.contentWindow;
     if (!target) return;
     target.postMessage({ type: "highlight", slugs }, "*");
-  }, [highlight, iframeKey]);
+  }, [highlight, iframeReady]);
 
   // ---------------------------------------------------------------------------
   // View toggle helpers
@@ -234,6 +243,7 @@ function GraphPageInner() {
             src="/api/graph/html"
             className="graph-iframe"
             title="Wiki knowledge graph"
+            onLoad={() => setIframeReady(true)}
           />
           <aside className="graph-sidebar">
             <h3>Graph report</h3>

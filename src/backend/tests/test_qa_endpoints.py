@@ -282,7 +282,8 @@ def test_explain_deterministic_no_key(client_with_wiki) -> None:
     )
     assert r.status_code == 200
     body = r.json()
-    assert body["status"] == "deterministic-only"
+    assert body["status"] == "ok"
+    assert body["model_explanation"] == False  # no API key configured
     # Three slugs -> three pairs.
     assert len(body["graph_pairs"]) == 3
 

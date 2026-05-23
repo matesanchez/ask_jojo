@@ -27,7 +27,9 @@
 
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 import type {
   ChatTurn,
@@ -77,11 +79,23 @@ function routeBadgeClass(route: Route | undefined): string {
   return route === "v1" ? "chat-badge chat-badge-v1" : "chat-badge chat-badge-wiki";
 }
 
-function copyToClipboard(text: string): Promise<void> {
+async function copyToClipboard(text: string): Promise<void> {
   if (typeof navigator !== "undefined" && navigator.clipboard) {
-    return navigator.clipboard.writeText(text);
+    try {
+      return await navigator.clipboard.writeText(text);
+    } catch {
+      // Fall through to execCommand fallback
+    }
   }
-  return Promise.resolve();
+  const textarea = document.createElement("textarea");
+  textarea.value = text;
+  textarea.style.cssText = "position:fixed;opacity:0;pointer-events:none";
+  document.body.appendChild(textarea);
+  textarea.focus();
+  textarea.select();
+  try { document.execCommand("copy"); } finally {
+    document.body.removeChild(textarea);
+  }
 }
 
 /**
@@ -136,6 +150,7 @@ export default function ChatPage() {
   const [error, setError] = useState<string | null>(null);
   const [showBundle, setShowBundle] = useState<Record<string, boolean>>({});
   const [fileBackModal, setFileBackModal] = useState<{ turn: ChatTurn; title: string } | null>(null);
+  const conversationEndRef = useRef<HTMLDivElement>(null);
 
   // -- background polling for qmd + api-key status -------------------------
 
@@ -163,9 +178,17 @@ export default function ChatPage() {
     return () => clearInterval(t);
   }, [refreshStatus]);
 
+  // Auto-scroll to bottom when turns are added or the last turn's status changes.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const lastTurnStatus = turns[turns.length - 1]?.status;
+  useEffect(() => {
+    conversationEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [turns.length, lastTurnStatus]); // eslint-disable-line react-hooks/exhaustive-deps
+
   // -- ask handler --------------------------------------------------------
 
   const ask = useCallback(async () => {
+    setError(null);
     const question = draft.trim();
     if (!question || busy) return;
 
@@ -186,7 +209,6 @@ export default function ChatPage() {
     setTurns((prev) => [...prev, initialTurn]);
     setDraft("");
     setBusy(true);
-    setError(null);
 
     try {
       // 1) Run the regex router + format classifier (synchronous-fast, parallel).
@@ -279,7 +301,7 @@ export default function ChatPage() {
   const submitFileBack = useCallback(async () => {
     if (!fileBackModal) return;
     const { turn, title } = fileBackModal;
-    setFileBackModal(null);
+    // Don't close the modal yet — keep it open during the request
     try {
       const res = await fetchJSON<FileBackResponse>("/api/qa/file-back", {
         method: "POST",
@@ -291,12 +313,14 @@ export default function ChatPage() {
           confidence: "low",
         }),
       });
+      setFileBackModal(null); // Only close on success
       setTurns((prev) =>
         prev.map((t) =>
           t.id === turn.id ? { ...t, fileBackResult: res.path } : t,
         ),
       );
     } catch (e) {
+      setFileBackModal(null); // Close modal even on error
       setError(`File-back failed: ${e instanceof Error ? e.message : String(e)}`);
     }
   }, [fileBackModal]);
@@ -441,6 +465,22 @@ export default function ChatPage() {
                 to enable live synthesis.
               </p>
             )}
+            <div className="chat-starters">
+              {[
+                "What is CBL-B and why does it matter for our programs?",
+                "Compare NX-0479 and NX-1607",
+                "What are our active programs targeting IRAK4?",
+              ].map((q) => (
+                <button
+                  key={q}
+                  type="button"
+                  className="chat-starter-btn"
+                  onClick={() => setDraft(q)}
+                >
+                  {q}
+                </button>
+              ))}
+            </div>
           </div>
         )}
         {turns.map((turn) => (
@@ -454,6 +494,7 @@ export default function ChatPage() {
           />
         ))}
         {error && <div className="chat-error">{error}</div>}
+        <div ref={conversationEndRef} aria-hidden />
       </div>
 
       {/* ---------------- input ---------------- */}
@@ -468,7 +509,13 @@ export default function ChatPage() {
           className="chat-textarea"
           value={draft}
           onChange={(e) => setDraft(e.target.value)}
-          placeholder="Ask JoJo a question..."
+          onKeyDown={(e) => {
+            if (e.key === "Enter" && !e.shiftKey) {
+              e.preventDefault();
+              ask();
+            }
+          }}
+          placeholder="Ask a question… (Enter to send, Shift+Enter for newline)"
           rows={2}
           disabled={busy}
         />
@@ -606,6 +653,11 @@ function BotAvatar({ status }: { status: string }) {
 // ---------------- routing state ----------------
 
 function RoutingState() {
+  const [secs, setSecs] = useState(0);
+  useEffect(() => {
+    const t = setInterval(() => setSecs((s) => s + 1), 1000);
+    return () => clearInterval(t);
+  }, []);
   return (
     <div className="chat-routing">
       {[0, 1, 2].map((i) => (
@@ -616,6 +668,9 @@ function RoutingState() {
           transition={{ duration: 0.65, repeat: Infinity, delay: i * 0.14, ease: "easeInOut" }}
         />
       ))}
+      {secs > 3 && (
+        <span className="chat-routing-timer">{secs}s</span>
+      )}
     </div>
   );
 }
@@ -759,9 +814,20 @@ function AnsweredView({
         </span>
       </div>
       <div className="chat-answer-body">
-        {/* Render markdown lazily; for now show as preformatted text. */}
-        <pre className="chat-answer-text">{turn.answer}</pre>
+        <div className="chat-answer-prose">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            {turn.answer ?? ""}
+          </ReactMarkdown>
+        </div>
       </div>
+      <button
+        type="button"
+        className="chat-copy-btn"
+        title="Copy answer"
+        onClick={() => copyToClipboard(turn.answer ?? "")}
+      >
+        Copy
+      </button>
       {turn.citedSlugs && turn.citedSlugs.length > 0 && (
         <div className="chat-cited">
           <strong>Cited:</strong>{" "}

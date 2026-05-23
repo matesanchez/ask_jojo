@@ -238,11 +238,13 @@ function JobQueuePanel({
   apiKeyConfigured,
   onAbsorb,
   absorbing,
+  sseConnected,
 }: {
   queue: QueueInfo | null;
   apiKeyConfigured: boolean | null;
   onAbsorb: () => void;
   absorbing: boolean;
+  sseConnected: boolean;
 }) {
   const btnLabel =
     apiKeyConfigured === false
@@ -251,7 +253,12 @@ function JobQueuePanel({
 
   return (
     <div className="ops-card ops-card-queue">
-      <h3 className="ops-card-title">Job Queue</h3>
+      <h3 className="ops-card-title">
+        Job Queue{" "}
+        <span className={`ops-live-badge ${sseConnected ? "ops-live-badge-on" : "ops-live-badge-off"}`}>
+          {sseConnected ? "● live" : "○ polled"}
+        </span>
+      </h3>
       {!queue ? (
         <p className="ops-loading">Loading…</p>
       ) : (
@@ -351,6 +358,8 @@ export default function OpsPage() {
   const [error, setError] = useState<string | null>(null);
   const [absorbing, setAbsorbing] = useState(false);
   const [toast, setToast] = useState<string | null>(null);
+  const [sseRetry, setSseRetry] = useState(0);
+  const [sseConnected, setSseConnected] = useState(false);
   const toastTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // ---------------------------------------------------------------- data loading
@@ -394,11 +403,18 @@ export default function OpsPage() {
   }, [loadStatus, loadJobs]);
 
   // ---------------------------------------------------------------- SSE
+  // Reconnects with exponential backoff on error. retryMs is derived from
+  // sseRetry so each increment of the counter doubles the delay (up to 30s).
 
   useEffect(() => {
     const es = new EventSource("/api/ops/events");
 
+    es.onopen = () => {
+      setSseConnected(true);
+    };
+
     es.addEventListener("job_update", (ev: MessageEvent) => {
+      setSseConnected(true);
       try {
         const data = JSON.parse(ev.data) as { jobs: JobRecord[] };
         if (Array.isArray(data.jobs)) {
@@ -412,12 +428,17 @@ export default function OpsPage() {
     });
 
     es.onerror = () => {
-      // Connection lost — polled fallback keeps data fresh.
+      setSseConnected(false);
       es.close();
+      // Derive delay from retry count so backoff is durable across re-renders.
+      const retryMs = Math.min(2000 * 2 ** sseRetry, 30_000);
+      setTimeout(() => {
+        setSseRetry((n) => n + 1);
+      }, retryMs);
     };
 
     return () => es.close();
-  }, [loadStatus]);
+  }, [loadStatus, sseRetry]);
 
   // ---------------------------------------------------------------- absorb
 
@@ -484,6 +505,7 @@ export default function OpsPage() {
         apiKeyConfigured={status?.api_key_configured ?? null}
         onAbsorb={handleAbsorb}
         absorbing={absorbing}
+        sseConnected={sseConnected}
       />
 
       {/* ── recent jobs ────────────────────────────────────────────── */}
