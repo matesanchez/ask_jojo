@@ -1,12 +1,12 @@
 # ask_jojo
 
-This repository holds the **application code** for JoJo Bot — the Nurix internal knowledge assistant. It is one of three sibling repositories that together make up the system; the other two (`ask_jojo_wiki/` for the compiled knowledge wiki, `ask_jojo_raw/` for the immutable raw source snapshots) are designed to be cloned alongside this one in the same workspace folder.
+This repository holds the **application code** for JoJo Bot. It is one of three sibling repositories that together make up the system; the other two (`ask_jojo_wiki/` for the compiled knowledge wiki, `ask_jojo_raw/` for the immutable raw source snapshots) are designed to be cloned alongside this one in the same workspace folder.
 
 ## What JoJo Bot Is
 
-JoJo Bot v1.0, already in production, is a Cytiva ÄKTA / protein-purification expert. It answers questions grounded in 232 Cytiva manuals plus a handful of Nurix SOPs, using a retrieval-augmented-generation pipeline built on ChromaDB + Claude + GPT-4o, packaged as a Windows `.exe`. That app is not going away; it will continue to answer chromatography questions after v2.0 ships and will sit behind a query router when Phase 4 lands.
+JoJo Bot v1.0, already in production, is a Cytiva ÄKTA / protein-purification expert. It answers questions grounded in 232 Cytiva manuals plus a handful of SOPs, using a retrieval-augmented-generation pipeline built on ChromaDB + Claude + GPT-4o, packaged as a Windows `.exe`. That app is not going away; it will continue to answer chromatography questions after v2.0 ships and will sit behind a query router when Phase 4 lands.
 
-JoJo Bot v2.0, being built here, is a broader Nurix knowledge hub. Instead of RAG-ing over PDFs at query time, it *compiles* a persistent markdown wiki from SharePoint, OneDrive, the Public Drive, and NurixNet using Claude as the author — and then answers questions by reading the compiled wiki. The wiki is plain markdown in a git repo, so everything is human-inspectable, version-controlled, and portable. See [`PLAN.md`](./PLAN.md) for the full architecture; see the [frozen ADR](./docs/ADR/0000-v2-roadmap.md) for the ratified plan as of 2026-04-22.
+JoJo Bot v2.0, being built here, is a broader knowledge hub. Instead of RAG-ing over PDFs at query time, it *compiles* a persistent markdown wiki from SharePoint, OneDrive, the Public Drive, and then answers questions by reading the compiled wiki. The wiki is plain markdown in a git repo, so everything is human-inspectable, version-controlled, and portable. See [`PLAN.md`](./PLAN.md) for the full architecture; see the [frozen ADR](./docs/ADR/0000-v2-roadmap.md) for the ratified plan as of 2026-04-22.
 
 ## Where Things Live
 
