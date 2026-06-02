@@ -1,0 +1,328 @@
+{
+  "assignment": "lcms-analytical-wave4",
+  "wiki_dir": "methods",
+  "wave": "wave4",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-cbd9020c7d",
+      "sha16": "befef34659555b14",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-cbd9020c7d.md",
+      "title": "HPLC Instruments IQ V.3.7 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.7 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-cbfae58812",
+      "sha16": "45acb1adde2de8fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-cbfae58812.md",
+      "title": "HPLC OQ PQ V.8.13 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.13 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-ce9deb4483",
+      "sha16": "6b258fa213754862",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-ce9deb4483.md",
+      "title": "HPLC Instruments IQ V.3.12 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.12 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-cfa3096560",
+      "sha16": "16c91dd182ccafd5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-cfa3096560.md",
+      "title": "HPLC OQ PQ V.8.14 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.14 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-d11f0dc068",
+      "sha16": "dd428c7f8285d65a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-d11f0dc068.md",
+      "title": "HPLC OQ PQ V.8.11 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.11 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e258ee3e45",
+      "sha16": "04a3dda97c2ada3c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e258ee3e45.md",
+      "title": "HPLC Instruments IQ V.3.6 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.6 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e2c743e98a",
+      "sha16": "271e1ff19e037538",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e2c743e98a.md",
+      "title": "HPLC OQ PQ V.8.7 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.7 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e436487525",
+      "sha16": "d4d43b80b8d76b3e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e436487525.md",
+      "title": "HPLC Instruments IQ V.3.4 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.4 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e6994ae8f0",
+      "sha16": "b730d2f92a348aea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e6994ae8f0.md",
+      "title": "HPLC OQ PQ V.9.2 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.9.2 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e75e894c4a",
+      "sha16": "b983a1537b0ba284",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-e75e894c4a.md",
+      "title": "HPLC OQ PQ V.8.12 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.12 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-f9f8c36b72",
+      "sha16": "e1f82cf1ad5c77de",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-f9f8c36b72.md",
+      "title": "OI-HPLC-OQ-PQ-DOC4828-3250A-9-2-Annex-A",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/OI-HPLC-OQ-PQ-DOC4828-3250A-9-2-Annex-A.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-fa9d731985",
+      "sha16": "deab4be86b7598b2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-fa9d731985.md",
+      "title": "HPLC OQ PQ V.8.15 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.15 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-fc92b526ba",
+      "sha16": "ac7048f89a9a323e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-fc92b526ba.md",
+      "title": "HPLC Instruments IQ V.5.1 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.5.1 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-ff3fd3bb78",
+      "sha16": "24bf85c6b551ea46",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-ff3fd3bb78.md",
+      "title": "HPLC OQ PQ v.7.2 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ v.7.2 - Release Notes.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20220618-hplc-dual-ph-gradient-pka-sh-and-jk-pptx",
+      "sha16": "151b04fb22a6a675",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-powerpoints-20220618-hplc-dual-ph-gradient-pka-sh-and-jk-pptx.md",
+      "title": "20220618 HPLC dual pH gradient pKa SH and JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/powerpoints/20220618 HPLC dual pH gradient pKa SH and JK.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20220711-hplc-cad-pka-pptx",
+      "sha16": "cc6b39e7b1375668",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-powerpoints-20220711-hplc-cad-pka-pptx.md",
+      "title": "20220711 HPLC CAD PKA",
+      "source_id": "Analytical Chemistry/Jon K - Public/powerpoints/20220711 HPLC CAD PKA.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-kernseh-03jchtb-lcmsprofilitngmethod-pdf",
+      "sha16": "54fa2ac4e9574077",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-kernseh-03jchtb-lcmsprofilitngmethod-pdf.md",
+      "title": "KernsEH_03JChtB_LCMSProfilitngMethod",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/KernsEH_03JChtB_LCMSProfilitngMethod.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-biomimetic-hplc-review-paper-jpba-2016-2-pdf",
+      "sha16": "0d02a77f673d8970",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-biomimetic-hplc-review-paper-jpba-2016-2-pdf.md",
+      "title": "Biomimetic HPLC review paper JPBA     2016 (2)",
+      "source_id": "Analytical Chemistry/Jose L - public/Davis-Plate/Davis/Biomimetic HPLC review paper JPBA     2016 (2).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-biomimetic-hplc-review-paper-jpba-2016-2-pdf",
+      "sha16": "0d02a77f673d8970",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-biomimetic-hplc-review-paper-jpba-2016-2-pdf.md",
+      "title": "Biomimetic HPLC review paper JPBA     2016 (2)",
+      "source_id": "Analytical Chemistry/Jose L - public/Davis-Plate/Davis Summer/Biomimetic HPLC review paper JPBA     2016 (2).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-013-aa-lcms-pdf",
+      "sha16": "c040c7c6fa55b0d1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-013-aa-lcms-pdf.md",
+      "title": "NX-0255-013-AA_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255-013-AA/NX-0255-013-AA_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-uplc-ms-pdf",
+      "sha16": "9559effa520d1385",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-uplc-ms-pdf.md",
+      "title": "NX-1607-007-AA_UPLC_MS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/17Nov2020/NX-1607-007-AA_UPLC_MS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-003-aa-nx-1647-lcms-pdf",
+      "sha16": "f5a283bfa5affcdf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-003-aa-nx-1647-lcms-pdf.md",
+      "title": "NX-1647_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/003-AA/NX-1647_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-1-nx-1650-lcms-pdf",
+      "sha16": "671aede393788942",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-1-nx-1650-lcms-pdf.md",
+      "title": "(1)NX-1650_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1650/(1)NX-1650_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-nx-1650-lcms-pdf",
+      "sha16": "f97fffad0231a8a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-nx-1650-lcms-pdf.md",
+      "title": "NX-1650_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1650/NX-1650_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-nx-4422-ames-lcms-pdf",
+      "sha16": "c20f8feca1c7a519",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-nx-4422-ames-lcms-pdf.md",
+      "title": "NX-4422_AMES_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/AMES Study (007-AA)/NX-4422_AMES_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-nx-5948-009-aa-uplc-ms-pdf",
+      "sha16": "42ec23ffe33d2afe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-nx-5948-009-aa-uplc-ms-pdf.md",
+      "title": "NX-5948-009-AA_UPLC-MS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/NX-5948-009-AA/NX-5948-009-AA_UPLC-MS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-v2-nx-5948-lcms-pdf",
+      "sha16": "0f0919d684c1332d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-v2-nx-5948-lcms-pdf.md",
+      "title": "NX-5948_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/NX-5948-009-AA/v2/NX-5948_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rp-hplc-nurix-nrx-0391607-002-9abef2aacf",
+      "sha16": "50898f20d078ef5b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rp-hplc-nurix-nrx-0391607-002-9abef2aacf.md",
+      "title": "NRX-0391607-002-AA_Phenyl_QC",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-002-AA/RP-HPLC Nurix/NRX-0391607-002-AA_Phenyl_QC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rp-hplc-nurix-nrx-0391607-002-e0e4c89e5d",
+      "sha16": "1418f009988be6f2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rp-hplc-nurix-nrx-0391607-002-e0e4c89e5d.md",
+      "title": "NRX-0391607-002-AA_CSHC18_QC",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-002-AA/RP-HPLC Nurix/NRX-0391607-002-AA_CSHC18_QC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-nx-1607-003-aa-lcms-pdf",
+      "sha16": "2e58bd8d61453d69",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-nx-1607-003-aa-lcms-pdf.md",
+      "title": "NX-1607-003-AA_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-003-AA/NX-1607-003-AA_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-beh-7df325601c",
+      "sha16": "b369465ee2c21db2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-beh-7df325601c.md",
+      "title": "NRX-0392127-008-AA_BEH Phenyl_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Nurix/NRX-0392127-008-AA_BEH Phenyl_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-beh-c1aad12d1b",
+      "sha16": "4732e798c951ff44",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-beh-c1aad12d1b.md",
+      "title": "NRX-0392127-008-AA_BEH_C18_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Nurix/NRX-0392127-008-AA_BEH_C18_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-nrx-0392936-008-aa-behc18-lcms-pdf",
+      "sha16": "bd1f2566e0e8a16f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-nrx-0392936-008-aa-behc18-lcms-pdf.md",
+      "title": "NRX-0392936-008-AA_BEHC18_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-008-AA/NRX-0392936-008-AA_BEHC18_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-nrx-0392936-008-aa-behphenyl-lcms-pdf",
+      "sha16": "b3c97e3fbfdd915f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-nrx-0392936-008-aa-behphenyl-lcms-pdf.md",
+      "title": "NRX-0392936-008-AA_BEHPhenyl_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-008-AA/NRX-0392936-008-AA_BEHPhenyl_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-nx-0255-013-aa-lcms-pdf",
+      "sha16": "c040c7c6fa55b0d1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-nx-0255-013-aa-lcms-pdf.md",
+      "title": "NX-0255-013-AA_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-0255-AA-013/NX-0255-013-AA_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkap040-optimaldryinghplcfractions-pdf",
+      "sha16": "e0c5d2c4de1e458d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkap040-optimaldryinghplcfractions-pdf.md",
+      "title": "MKAP040_OptimalDryingHPLCFractions",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Genevac/MKAP040_OptimalDryingHPLCFractions.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-chromacademy-theory-of-hplc-introduction-pdf",
+      "sha16": "378920ecd54c1b5c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-chromacademy-theory-of-hplc-introduction-pdf.md",
+      "title": "theory_of_hplc_introduction",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Chromacademy/theory_of_hplc_introduction.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-uplc-h-class-system-guide-pdf",
+      "sha16": "cfe82f18ac8cabd6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-uplc-h-class-system-guide-pdf.md",
+      "title": "acquity_uplc_h-class_system_guide",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/acquity_uplc_h-class_system_guide.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-hplc-getting-started-pdf",
+      "sha16": "c848c3ac3a2a5a35",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-hplc-getting-started-pdf.md",
+      "title": "HPLC Getting Started",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/HPLC Getting Started.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-controlling-contamination-lcms-systems-pdf",
+      "sha16": "0e5e22185ac99c97",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-controlling-contamination-lcms-systems-pdf.md",
+      "title": "Controlling Contamination LCMS Systems",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/Controlling Contamination LCMS Systems.pdf",
+      "confidence": "high"
+    }
+  ]
+}

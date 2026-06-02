@@ -1,0 +1,328 @@
+{
+  "assignment": "jose-gomez-immunotherapy-wave4",
+  "wiki_dir": "references",
+  "wave": "wave4",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/references/.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-atranscriptionally-distinct-cxcl13-cd103-cd8-t-cell-population-is-associated-with-b-cell-recruitment-and-neoantigen-load-in-human-cancer-pdf",
+      "sha16": "82eebf40c8e9d158",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-atranscriptionally-distinct-cxcl13-cd103-cd8-t-cell-population-is-associated-with-b-cell-recruitment-and-neoantigen-load-in-human-cancer-pdf.md",
+      "title": "ATranscriptionally Distinct CXCL13\u00feCD103\u00feCD8\u00fe T-cell Population Is Associated with B-cell Recruitment and Neoantigen Load in Human Cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/ATranscriptionally Distinct CXCL13\u00feCD103\u00feCD8\u00fe T-cell Population Is Associated with B-cell Recruitment and Neoantigen Load in Human Cancer.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf",
+      "sha16": "b8eaf767c9f6d2e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf.md",
+      "title": "Dendritic cells direct circadian anti-tumor immune responses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/Dendritic cells direct circadian anti-tumor immune responses.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-eradication-of-spontaneous-malignancy-by-local-immunotherapy-pdf",
+      "sha16": "442d40f97e96ce93",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-eradication-of-spontaneous-malignancy-by-local-immunotherapy-pdf.md",
+      "title": "Eradication of spontaneous malignancy by local immunotherapy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/Eradication of spontaneous malignancy by local immunotherapy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-inhaledtlr9agonistrenderslungtumors-permissivetopd-1blockadebypromoting-optimalcd4-andcd8-t-cellinterplay-pdf",
+      "sha16": "22af4db48ecbeafc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-inhaledtlr9agonistrenderslungtumors-permissivetopd-1blockadebypromoting-optimalcd4-andcd8-t-cellinterplay-pdf.md",
+      "title": "InhaledTLR9AgonistRendersLungTumors PermissivetoPD-1BlockadebyPromoting OptimalCD4\u00feandCD8\u00feT-cellInterplay",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/InhaledTLR9AgonistRendersLungTumors PermissivetoPD-1BlockadebyPromoting OptimalCD4\u00feandCD8\u00feT-cellInterplay.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-discoveryofmacrocycle-basedhpk1inhibitorsfort-cell-based-immunotherapy-pdf",
+      "sha16": "53b5ba612279427b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-discoveryofmacrocycle-basedhpk1inhibitorsfort-cell-based-immunotherapy-pdf.md",
+      "title": "DiscoveryofMacrocycle-BasedHPK1InhibitorsforT\u2011Cell-Based Immunotherapy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/DiscoveryofMacrocycle-BasedHPK1InhibitorsforT\u2011Cell-Based Immunotherapy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf",
+      "sha16": "420739739ced5a8f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf.md",
+      "title": "LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-neoantigen-driven-b-cell-and-cd4-t-follicular-helper-cell-collaboration-promotes-anti-tumor-cd8-t-cell-responses-pdf",
+      "sha16": "6f34c559684ee254",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-neoantigen-driven-b-cell-and-cd4-t-follicular-helper-cell-collaboration-promotes-anti-tumor-cd8-t-cell-responses-pdf.md",
+      "title": "Neoantigen-driven B cell and CD4 T follicular helper cell collaboration promotes anti-tumor CD8 T cell responses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/Neoantigen-driven B cell and CD4 T follicular helper cell collaboration promotes anti-tumor CD8 T cell responses.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf",
+      "sha16": "a08861f168276dfa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dnam-cd155-on-tumor-cells-drives-resistance-to-immunotherapy-by-inducing-the-degradation-of-the-activating-receptor-cd226-in-cd8-t-cells-pdf",
+      "sha16": "9ada58ffa199fcd0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dnam-cd155-on-tumor-cells-drives-resistance-to-immunotherapy-by-inducing-the-degradation-of-the-activating-receptor-cd226-in-cd8-t-cells-pdf.md",
+      "title": "CD155 on Tumor Cells Drives Resistance to Immunotherapy by Inducing the Degradation of the Activating Receptor CD226 in CD8+ T Cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/DNAM/CD155 on Tumor Cells Drives Resistance to Immunotherapy by Inducing the Degradation of the Activating Receptor CD226 in CD8+ T Cells.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dnam-cd155-on-tumorcells-drives-resistance-to-immunotherapy-by-inducing-the-degradation-of-the-activating-receptor-cd226-in-cd8-t-cells-pdf",
+      "sha16": "1a298975ce7baea2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dnam-cd155-on-tumorcells-drives-resistance-to-immunotherapy-by-inducing-the-degradation-of-the-activating-receptor-cd226-in-cd8-t-cells-pdf.md",
+      "title": "CD155 on TumorCells Drives Resistance to Immunotherapy by Inducing the Degradation of the Activating Receptor CD226 in CD8+ T Cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/DNAM/CD155 on TumorCells Drives Resistance to Immunotherapy by Inducing the Degradation of the Activating Receptor CD226 in CD8+ T Cells.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dnam-eomes-dependent-loss-of-the-co-activating-receptor-cd226-restrains-cd8-t-cell-anti-tumor-functions-and-limits-the-efficacy-of-cancer-immunotherapy-pdf",
+      "sha16": "2d9835993e6ca115",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dnam-eomes-dependent-loss-of-the-co-activating-receptor-cd226-restrains-cd8-t-cell-anti-tumor-functions-and-limits-the-efficacy-of-cancer-immunotherapy-pdf.md",
+      "title": "Eomes-Dependent Loss of the Co-activating Receptor CD226 Restrains CD8 + T Cell Anti-tumor Functions and Limits the Efficacy of Cancer Immunotherapy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/DNAM/Eomes-Dependent Loss of the Co-activating Receptor CD226 Restrains CD8 + T Cell Anti-tumor Functions and Limits the Efficacy of Cancer Immunotherapy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-tim-3-mediates-t-cell-trogocytosis-to-limit-antitumor-immunity-pdf",
+      "sha16": "073838433ade1c1b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-tim-3-mediates-t-cell-trogocytosis-to-limit-antitumor-immunity-pdf.md",
+      "title": "Tim-3 mediates T cell trogocytosis to limit antitumor immunity",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/24AUG22/Tim-3 mediates T cell trogocytosis to limit antitumor immunity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-a-novel-blockade-cd47-antibody-with-therapeutic-potential-for-cancer-pdf",
+      "sha16": "a3cf37d17a7b0f6b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-a-novel-blockade-cd47-antibody-with-therapeutic-potential-for-cancer-pdf.md",
+      "title": "A Novel Blockade CD47 Antibody With Therapeutic Potential for Cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/A Novel Blockade CD47 Antibody With Therapeutic Potential for Cancer.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-intratumoral-sirp--deficient-macrophages-activate-pdf",
+      "sha16": "8bd332f50ff64dd7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-intratumoral-sirp--deficient-macrophages-activate-pdf.md",
+      "title": "Intratumoral SIRP\u03b1-deficient macrophages activate",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/Intratumoral SIRP\u03b1-deficient macrophages activate.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-the-pd-1-pd-l1-checkpoint-restrains-t-cell-pdf",
+      "sha16": "8c9b1ff60b2353d6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-the-pd-1-pd-l1-checkpoint-restrains-t-cell-pdf.md",
+      "title": "The PD-1_PD-L1-Checkpoint Restrains T cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/The PD-1_PD-L1-Checkpoint Restrains T cell.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-restoring-il-2-to-its-cancer-immunotherapy-glory-pdf",
+      "sha16": "d23890c924d7b8af",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-restoring-il-2-to-its-cancer-immunotherapy-glory-pdf.md",
+      "title": "Restoring IL-2 to its cancer immunotherapy glory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Restoring IL-2 to its cancer immunotherapy glory.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-yale-inducible-de-novo-expression-of-neoantigens-in-pdf",
+      "sha16": "42618804f71290c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-yale-inducible-de-novo-expression-of-neoantigens-in-pdf.md",
+      "title": "Yale Inducible de novo expression of neoantigens in",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Yale Inducible de novo expression of neoantigens in.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-arid1a-mutation-plus-cxcl13-expression-act-as-combinatorial-biomarkers-to-predict-responses-to-immune-checkpoint-therapy-in-mucc-pdf",
+      "sha16": "57fe4248a2cd31be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-arid1a-mutation-plus-cxcl13-expression-act-as-combinatorial-biomarkers-to-predict-responses-to-immune-checkpoint-therapy-in-mucc-pdf.md",
+      "title": "ARID1A mutation plus CXCL13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mUCC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/ARID1A mutation plus CXCL13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mUCC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf",
+      "sha16": "b8eaf767c9f6d2e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf.md",
+      "title": "Dendritic cells direct circadian anti-tumor immune responses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Dendritic cells direct circadian anti-tumor immune responses.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-domatinostat-favors-the-immunotherapy-response-by-modulating-the-tumor-immune-microenvironment-time-pdf",
+      "sha16": "be38f6cc436be067",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-domatinostat-favors-the-immunotherapy-response-by-modulating-the-tumor-immune-microenvironment-time-pdf.md",
+      "title": "Domatinostat favors the immunotherapy response by modulating the tumor immune microenvironment (TIME)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Domatinostat favors the immunotherapy response by modulating the tumor immune microenvironment (TIME).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-eradication-of-spontaneous-malignancy-by-local-immunotherapy-pdf",
+      "sha16": "442d40f97e96ce93",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-eradication-of-spontaneous-malignancy-by-local-immunotherapy-pdf.md",
+      "title": "Eradication of spontaneous malignancy by local immunotherapy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Eradication of spontaneous malignancy by local immunotherapy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-inhaledtlr9agonistrenderslungtumors-permissivetopd-1blockadebypromoting-optimalcd4-andcd8-t-cellinterplay-pdf",
+      "sha16": "22af4db48ecbeafc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-inhaledtlr9agonistrenderslungtumors-permissivetopd-1blockadebypromoting-optimalcd4-andcd8-t-cellinterplay-pdf.md",
+      "title": "InhaledTLR9AgonistRendersLungTumors PermissivetoPD-1BlockadebyPromoting OptimalCD4\u00feandCD8\u00feT-cellInterplay",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/InhaledTLR9AgonistRendersLungTumors PermissivetoPD-1BlockadebyPromoting OptimalCD4\u00feandCD8\u00feT-cellInterplay.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-intratumoral-injection-of-a-cpg-oligonucleotidereverts-resistance-to-pd-1-blockade-by-expandingmultifunctional-cd8-t-cells-pdf",
+      "sha16": "e7b02669ad6313c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-intratumoral-injection-of-a-cpg-oligonucleotidereverts-resistance-to-pd-1-blockade-by-expandingmultifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotidereverts resistance to PD-1 blockade by expandingmultifunctional CD8+T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Intratumoral injection of a CpG oligonucleotidereverts resistance to PD-1 blockade by expandingmultifunctional CD8+T cells.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-lsd1-ablation-stimulates-anti-tumor-immunity-pdf",
+      "sha16": "7a2339207930e7a4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-lsd1-ablation-stimulates-anti-tumor-immunity-pdf.md",
+      "title": "LSD1 Ablation Stimulates Anti-tumor Immunity ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/LSD1 Ablation Stimulates Anti-tumor Immunity .pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf",
+      "sha16": "ff7cbe3dea6c1f30",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf.md",
+      "title": "Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-the-pellino1-pkc-signaling-axis-is-an-essential-target-for-improving-antitumor-cd8-t-lymphocyte-function-pdf",
+      "sha16": "0ad29ec04649f75b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-the-pellino1-pkc-signaling-axis-is-an-essential-target-for-improving-antitumor-cd8-t-lymphocyte-function-pdf.md",
+      "title": "The Pellino1\u2013PKC\u03b8 Signaling Axis Is an Essential Target for Improving Antitumor CD8+ T-lymphocyte Function",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/The Pellino1\u2013PKC\u03b8 Signaling Axis Is an Essential Target for Improving Antitumor CD8+ T-lymphocyte Function.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf",
+      "sha16": "420739739ced5a8f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf.md",
+      "title": "LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-a-dna-hypomethylation-signature-predicts-antitumor-activity-of-lsd1-inhibitors-in-sclc-pdf",
+      "sha16": "cf93171cae570ded",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-a-dna-hypomethylation-signature-predicts-antitumor-activity-of-lsd1-inhibitors-in-sclc-pdf.md",
+      "title": "A DNA Hypomethylation Signature Predicts Antitumor Activity of LSD1 Inhibitors in SCLC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/A DNA Hypomethylation Signature Predicts Antitumor Activity of LSD1 Inhibitors in SCLC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-discoveryofmacrocycle-basedhpk1inhibitorsfort-cell-based-immunotherapy-pdf",
+      "sha16": "53b5ba612279427b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-discoveryofmacrocycle-basedhpk1inhibitorsfort-cell-based-immunotherapy-pdf.md",
+      "title": "DiscoveryofMacrocycle-BasedHPK1InhibitorsforT\u2011Cell-Based Immunotherapy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/DiscoveryofMacrocycle-BasedHPK1InhibitorsforT\u2011Cell-Based Immunotherapy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf",
+      "sha16": "420739739ced5a8f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf.md",
+      "title": "LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-neoantigen-driven-b-cell-and-cd4-t-follicular-helper-cell-collaboration-promotes-anti-tumor-cd8-t-cell-responses-pdf",
+      "sha16": "6f34c559684ee254",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-neoantigen-driven-b-cell-and-cd4-t-follicular-helper-cell-collaboration-promotes-anti-tumor-cd8-t-cell-responses-pdf.md",
+      "title": "Neoantigen-driven B cell and CD4 T follicular helper cell collaboration promotes anti-tumor CD8 T cell responses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Neoantigen-driven B cell and CD4 T follicular helper cell collaboration promotes anti-tumor CD8 T cell responses.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-intratumoral-injection-of-a-cpg-oligonucleotide-pdf",
+      "sha16": "79baefcf1d38cef0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-intratumoral-injection-of-a-cpg-oligonucleotide-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotide",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/Intratumoral injection of a CpG oligonucleotide.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf",
+      "sha16": "a08861f168276dfa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf",
+      "sha16": "a08861f168276dfa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-blockade-of-the-checkpoint-receptor-tigit-prevents-nk-cell-exhaustion-and-elicits-potent-anti-tumor-immunity-pdf",
+      "sha16": "cfad6be1da2554fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-blockade-of-the-checkpoint-receptor-tigit-prevents-nk-cell-exhaustion-and-elicits-potent-anti-tumor-immunity-pdf.md",
+      "title": "Blockade of the checkpoint receptor TIGIT prevents NK cell exhaustion and elicits potent anti-tumor immunity",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Blockade of the checkpoint receptor TIGIT prevents NK cell exhaustion and elicits potent anti-tumor immunity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf",
+      "sha16": "ff7cbe3dea6c1f30",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf.md",
+      "title": "Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/24AUG22/Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-tim-3-mediates-t-cell-trogocytosis-to-limit-antitumor-immunity-pdf",
+      "sha16": "073838433ade1c1b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-tim-3-mediates-t-cell-trogocytosis-to-limit-antitumor-immunity-pdf.md",
+      "title": "Tim-3 mediates T cell trogocytosis to limit antitumor immunity",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/24AUG22/Tim-3 mediates T cell trogocytosis to limit antitumor immunity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-a-novel-blockade-cd47-antibody-with-therapeutic-potential-for-cancer-pdf",
+      "sha16": "a3cf37d17a7b0f6b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-a-novel-blockade-cd47-antibody-with-therapeutic-potential-for-cancer-pdf.md",
+      "title": "A Novel Blockade CD47 Antibody With Therapeutic Potential for Cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/A Novel Blockade CD47 Antibody With Therapeutic Potential for Cancer.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-cd47-blockade-triggers-t-cell-mediated-destruction-of-immunogenic-tumors-pdf",
+      "sha16": "4465649c6c6a6842",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-cd47-blockade-triggers-t-cell-mediated-destruction-of-immunogenic-tumors-pdf.md",
+      "title": "CD47 Blockade Triggers T cell-mediated Destruction of Immunogenic Tumors",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/CD47 Blockade Triggers T cell-mediated Destruction of Immunogenic Tumors.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-intratumoral-sirp--deficient-macrophages-activate-pdf",
+      "sha16": "8bd332f50ff64dd7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-intratumoral-sirp--deficient-macrophages-activate-pdf.md",
+      "title": "Intratumoral SIRP\u03b1-deficient macrophages activate",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/Intratumoral SIRP\u03b1-deficient macrophages activate.pdf",
+      "confidence": "high"
+    }
+  ]
+}

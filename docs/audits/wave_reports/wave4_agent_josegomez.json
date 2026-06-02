@@ -1,0 +1,13 @@
+{
+  "agent": "jose-gomez-immunotherapy-wave4",
+  "pages": [
+    "ask_jojo_wiki/references/cxcl13-tls-neoantigen-adaptive-immunity-literature.md",
+    "ask_jojo_wiki/references/cd226-cd155-dnam-immune-evasion-literature.md",
+    "ask_jojo_wiki/references/in-situ-vaccination-cpg-ox40-literature.md",
+    "ask_jojo_wiki/references/hpk1-pellino1-t-cell-signaling-literature.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "4 new reference pages: CXCL13/TLS/neoantigen-adaptive, CD226/CD155/DNAM immune evasion, in-situ vaccination CpG/OX40, HPK1/Pellino1 T-cell signaling. Many entries map to existing pages via sha duplication."
+}

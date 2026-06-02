@@ -1,0 +1,8 @@
+{
+  "agent": "rna-seq-tpd-mixed-wave4",
+  "pages": ["ask_jojo_wiki/protocols/nx-1607-cbl-b-syngeneic-in-vivo-efficacy-protocol-family.md","ask_jojo_wiki/protocols/pmel1-b16ova-adoptive-transfer-nv351.md","ask_jojo_wiki/protocols/nv880-smarca2-calu6-xenograft-pd-screen.md","ask_jojo_wiki/platforms/protac-degrader-literature.md","ask_jojo_wiki/concepts/mouse-tumor-models-and-rnaseq-methods.md"],
+  "n_covered": 39,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "3 new protocol pages: NX-1607 CBL-B syngeneic efficacy family, Pmel-1/B16-OVA NV351 ACT, NV880 SMARCA2 Calu-6 xenograft. 2 existing pages updated (RNAseq+mouse-tumor-models with Choi 2022 MDSC, protac-degrader-literature with Hendrick D2B). All 39 entries effectively absorbed."
+}

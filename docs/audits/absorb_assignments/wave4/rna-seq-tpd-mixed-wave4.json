@@ -1,0 +1,328 @@
+{
+  "assignment": "rna-seq-tpd-mixed-wave4",
+  "wiki_dir": "methods",
+  "wave": "wave4",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-2023-cbl-murigenics-nurix-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-1-nurix-murigenics-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-docx",
+      "sha16": "e4b9119f98eb244f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-2023-cbl-murigenics-nurix-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-1-nurix-murigenics-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-docx.md",
+      "title": "1. Nurix_Murigenics_0XX_ Efficacy_CT26_NX-1607_7.5-15-30mpk",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/2023_Cbl_Murigenics _Nurix_0XX_Efficacy_CT26_NX-1607_7.5-15-30mpk/1. Nurix_Murigenics_0XX_ Efficacy_CT26_NX-1607_7.5-15-30mpk.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf",
+      "sha16": "04077071140a364f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf.md",
+      "title": "SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final .pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-2023-cbl-murigenics-nurix-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-1-nurix-murigenics-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-docx",
+      "sha16": "e4b9119f98eb244f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-2023-cbl-murigenics-nurix-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-1-nurix-murigenics-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-docx.md",
+      "title": "1. Nurix_Murigenics_0XX_ Efficacy_CT26_NX-1607_7.5-15-30mpk",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/2023_Cbl_Murigenics _Nurix_0XX_Efficacy_CT26_NX-1607_7.5-15-30mpk/1. Nurix_Murigenics_0XX_ Efficacy_CT26_NX-1607_7.5-15-30mpk.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-mouse-tumors-rnaseq-novaseq-s1-002-pdf",
+      "sha16": "b3b4f271d2f9b713",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-mouse-tumors-rnaseq-novaseq-s1-002-pdf.md",
+      "title": "Mouse Tumors RNAseq NovaSeq S1 (002)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Mouse Tumors RNAseq NovaSeq S1 (002).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf",
+      "sha16": "04077071140a364f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf.md",
+      "title": "SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final .pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-s2-pdf",
+      "sha16": "4a1e4239c3a2c5c4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-s2-pdf.md",
+      "title": "SEQ21-SQ1066 42 Mouse Tumors RNAseq NovaSeq S2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 42 Mouse Tumors RNAseq NovaSeq S2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-amended-42-mouse-tumors-rnaseq-211111-2211-pdf",
+      "sha16": "b26c52b84731e746",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-amended-42-mouse-tumors-rnaseq-211111-2211-pdf.md",
+      "title": "SEQ21-SQ1066_Amended_42 Mouse Tumors RNAseq ..._211111_2211",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_Amended_42 Mouse Tumors RNAseq ..._211111_2211.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s1-pdf",
+      "sha16": "8b112e9d9f14b508",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s1-pdf.md",
+      "title": "SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s2-final-pdf",
+      "sha16": "ce42cf62aedc3210",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s2-final-pdf.md",
+      "title": "SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S2_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S2_Final.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-mdscs-from-4t-1-tumor-model-pdf",
+      "sha16": "a3fe36cfc50ffadd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-mdscs-from-4t-1-tumor-model-pdf.md",
+      "title": "MDSCs from 4T-1 tumor model",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/MDSCs from 4T-1 tumor model.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-the-mouse-mammary-carcinoma-4t1-characterization-of-the-pdf",
+      "sha16": "32d266038c6c311b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-the-mouse-mammary-carcinoma-4t1-characterization-of-the-pdf.md",
+      "title": "The mouse mammary carcinoma 4T1 characterization of the",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/The mouse mammary carcinoma 4T1 characterization of the.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-2023-cbl-murigenics-nurix-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-1-nurix-murigenics-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-docx",
+      "sha16": "e4b9119f98eb244f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-2023-cbl-murigenics-nurix-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-1-nurix-murigenics-0xx-efficacy-ct26-nx-1607-7-5-15-30mpk-docx.md",
+      "title": "1. Nurix_Murigenics_0XX_ Efficacy_CT26_NX-1607_7.5-15-30mpk",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/2023_Cbl_Murigenics _Nurix_0XX_Efficacy_CT26_NX-1607_7.5-15-30mpk/1. Nurix_Murigenics_0XX_ Efficacy_CT26_NX-1607_7.5-15-30mpk.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-mouse-tumors-rnaseq-novaseq-s1-002-pdf",
+      "sha16": "b3b4f271d2f9b713",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-mouse-tumors-rnaseq-novaseq-s1-002-pdf.md",
+      "title": "Mouse Tumors RNAseq NovaSeq S1 (002)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Mouse Tumors RNAseq NovaSeq S1 (002).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf",
+      "sha16": "04077071140a364f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf.md",
+      "title": "SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final .pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-s2-pdf",
+      "sha16": "4a1e4239c3a2c5c4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-s2-pdf.md",
+      "title": "SEQ21-SQ1066 42 Mouse Tumors RNAseq NovaSeq S2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 42 Mouse Tumors RNAseq NovaSeq S2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-amended-42-mouse-tumors-rnaseq-211111-2211-pdf",
+      "sha16": "b26c52b84731e746",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-amended-42-mouse-tumors-rnaseq-211111-2211-pdf.md",
+      "title": "SEQ21-SQ1066_Amended_42 Mouse Tumors RNAseq ..._211111_2211",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_Amended_42 Mouse Tumors RNAseq ..._211111_2211.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s1-pdf",
+      "sha16": "8b112e9d9f14b508",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s1-pdf.md",
+      "title": "SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s2-final-pdf",
+      "sha16": "ce42cf62aedc3210",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s2-final-pdf.md",
+      "title": "SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S2_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S2_Final.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-mdscs-from-4t-1-tumor-model-pdf",
+      "sha16": "a3fe36cfc50ffadd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-mdscs-from-4t-1-tumor-model-pdf.md",
+      "title": "MDSCs from 4T-1 tumor model",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/MDSCs from 4T-1 tumor model.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-the-mouse-mammary-carcinoma-4t1-characterization-of-the-pdf",
+      "sha16": "32d266038c6c311b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-the-mouse-mammary-carcinoma-4t1-characterization-of-the-pdf.md",
+      "title": "The mouse mammary carcinoma 4T1 characterization of the",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/The mouse mammary carcinoma 4T1 characterization of the.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-1-2021-cbl-nv402-ct26-ventral-vs-mid-flank-implant-final-v2-protocol-19feb21-updated-for-new-protocol-docx",
+      "sha16": "7b8fa42b2ba4b9e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-1-2021-cbl-nv402-ct26-ventral-vs-mid-flank-implant-final-v2-protocol-19feb21-updated-for-new-protocol-docx.md",
+      "title": "1.2021_Cbl_NV402_CT26_Ventral_vs_Mid_Flank_Implant (Final V2 Protocol 19FEB21) updated for new protocol",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/1.2021_Cbl_NV402_CT26_Ventral_vs_Mid_Flank_Implant (Final V2 Protocol 19FEB21) updated for new protocol.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-nv410-cbl-mc38-nx1607-antictla-efficacy-study-protocol-draft-docx",
+      "sha16": "750c8f13725fa97e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-nv410-cbl-mc38-nx1607-antictla-efficacy-study-protocol-draft-docx.md",
+      "title": "NV410_Cbl_ MC38 NX1607 antiCTLA efficacy study protocol_draft",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/NV410_Cbl_ MC38 NX1607 antiCTLA efficacy study protocol_draft.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-the-protactable-genome-pdf",
+      "sha16": "790317b31779123d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-the-protactable-genome-pdf.md",
+      "title": "The PROTACtable genome",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/The PROTACtable genome.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf",
+      "sha16": "f3a2ffaafd8c871e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf.md",
+      "title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-nv880-calu-6-xenograft-oral-screen-6-pptx",
+      "sha16": "d30fe765be99409e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-nv880-calu-6-xenograft-oral-screen-6-pptx.md",
+      "title": "NV880 Calu-6 Xenograft Oral screen 6",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/download/NV880 Calu-6 Xenograft Oral screen 6.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-2022-protac-cad-paper-supplement-pdf",
+      "sha16": "48a60bb6807d27ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-2022-protac-cad-paper-supplement-pdf.md",
+      "title": "2022 PROTAC cad paper supplement",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/2022 PROTAC cad paper supplement.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-fundamental-aspects-of-dmpk-optimization-of-targe-dcdc17a2bc",
+      "sha16": "f3a2ffaafd8c871e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-fundamental-aspects-of-dmpk-optimization-of-targe-dcdc17a2bc.md",
+      "title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-hendrick-et-al-2022-direct-to-biology-accelerates-5a3e11e9b4",
+      "sha16": "1dc81fc357ddd931",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-hendrick-et-al-2022-direct-to-biology-accelerates-5a3e11e9b4.md",
+      "title": "hendrick-et-al-2022-direct-to-biology-accelerates-protac-synthesis-and-the-evaluation-of-linker-effects-on-permeability",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/hendrick-et-al-2022-direct-to-biology-accelerates-protac-synthesis-and-the-evaluation-of-linker-effects-on-permeability.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-proteolysis-targeting-chimeras--protacs----past-2-bbf149bc11",
+      "sha16": "7ef8c752ef9d3c57",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-proteolysis-targeting-chimeras--protacs----past-2-bbf149bc11.md",
+      "title": "PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-proteolysis-targeting-chimeras--protacs--for-e-20-c796224057",
+      "sha16": "0a4807f4e02f330b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-proteolysis-targeting-chimeras--protacs--for-e-20-c796224057.md",
+      "title": "Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-small-molecule-protacs--an-emerging-and-promising-90cb1129a6",
+      "sha16": "2d70378d0b8cf8a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-small-molecule-protacs--an-emerging-and-promising-90cb1129a6.md",
+      "title": "Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf",
+      "sha16": "f3a2ffaafd8c871e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf.md",
+      "title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-proteolysis-targeting-chimeras--protacs----past-2019-drug-discovery-today--t-pdf",
+      "sha16": "7ef8c752ef9d3c57",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-proteolysis-targeting-chimeras--protacs----past-2019-drug-discovery-today--t-pdf.md",
+      "title": "PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-proteolysis-targeting-chimeras--protacs--for-e-2020-current-opinion-in-chemi-pdf",
+      "sha16": "0a4807f4e02f330b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-proteolysis-targeting-chimeras--protacs--for-e-2020-current-opinion-in-chemi-pdf.md",
+      "title": "Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-small-molecule-protacs--an-emerging-and-promising-approach-for--2018-ebiomed-pdf",
+      "sha16": "2d70378d0b8cf8a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-small-molecule-protacs--an-emerging-and-promising-approach-for--2018-ebiomed-pdf.md",
+      "title": "Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-permeability-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf",
+      "sha16": "f3a2ffaafd8c871e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-permeability-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf.md",
+      "title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Permeability/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-2020-cbl-nv351-pmel-b16ova-final-v2-docx",
+      "sha16": "2df47028cb4615aa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-2020-cbl-nv351-pmel-b16ova-final-v2-docx.md",
+      "title": "1. 2020_Cbl_NV351_Pmel_B16OVA_FINAL V2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/1. 2020_Cbl_NV351_Pmel_B16OVA_FINAL V2.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-2020-cbl-nv351-pmel-b16ova-final-v2-docx",
+      "sha16": "2df47028cb4615aa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-2020-cbl-nv351-pmel-b16ova-final-v2-docx.md",
+      "title": "1. 2020_Cbl_NV351_Pmel_B16OVA_FINAL V2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/1. 2020_Cbl_NV351_Pmel_B16OVA_FINAL V2.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-2020-cbl-nv351-pmel-b16ova-final-v2-docx",
+      "sha16": "2df47028cb4615aa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-2020-cbl-nv351-pmel-b16ova-final-v2-docx.md",
+      "title": "1. 2020_Cbl_NV351_Pmel_B16OVA_FINAL V2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/1. 2020_Cbl_NV351_Pmel_B16OVA_FINAL V2.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-1-2021-cbl-nv472-1607-4t1-ventral-tapwater-vs-nurixwater-final-docx",
+      "sha16": "70eb3d95532b5290",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-1-2021-cbl-nv472-1607-4t1-ventral-tapwater-vs-nurixwater-final-docx.md",
+      "title": "1.2021_Cbl_NV472_1607_4T1_Ventral_TapWater_vs_NurixWater_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/1.2021_Cbl_NV472_1607_4T1_Ventral_TapWater_vs_NurixWater_Final.docx",
+      "confidence": "medium"
+    }
+  ]
+}

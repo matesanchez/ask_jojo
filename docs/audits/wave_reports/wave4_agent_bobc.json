@@ -1,0 +1,169 @@
+{
+  "agent": "bob-c-analytical-wave4",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 40,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-1st-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-2nd-2-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-2nd-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-3rd-2-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-3rd-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-4th-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-5th-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-6th-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-7th-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-1-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-2-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-fs-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-main-peak-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus1-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus10-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus11-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus12-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus13-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus14-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus15-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus16-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus17-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus2-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus3-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus4-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus5-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus6-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus7-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus8-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus9-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-13-38-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-13-9min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-14-65min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-15-3min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-19-994min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-20-984min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-25-328min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-25-88min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-31-25min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nx-2127-lot60426-21-001-1-18-s1a-q1hres-15-3min-pdf",
+      "bucket": "mechanical-data"
+    }
+  ],
+  "notes": "All 40 entries were per-sample chromatograms and Q1 high-res mass spectra from NX-2127 impurity ID campaigns, with body fully redacted to a single timestamp. No narrative content. Properly dropped."
+}

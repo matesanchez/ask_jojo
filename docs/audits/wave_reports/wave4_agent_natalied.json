@@ -1,0 +1,9 @@
+{
+  "agent": "natalie-d-analytical-wave4",
+  "pages": ["ask_jojo_wiki/methods/counterion-tfa-analysis.md","ask_jojo_wiki/methods/nx-2127-rrt0985-impurity-identification.md","ask_jojo_wiki/references/nx-1607-007-aa-certificate-of-testing.md","ask_jojo_wiki/references/nx-2127-019-aq-certificate-of-testing.md","ask_jojo_wiki/references/nx-5948-nmr-identity-dataset.md"],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "corpus_flag": "Agent used 'analytical-chemistry' corpus on 4 new pages; existing pages use 'protein-sciences'. Future cleanup needed.",
+  "notes": "Counterion TFA updated; new NX-2127 impurity ID page; 3 reference pages for CoAs/NMR datasets. Agent self-reported as: assignment described PAMPA/MDCK but cluster was actually analytical-chem QC."
+}

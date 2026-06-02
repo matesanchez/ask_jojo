@@ -1,0 +1,328 @@
+{
+  "assignment": "natalie-d-analytical-wave4",
+  "wiki_dir": "methods",
+  "wave": "wave4",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-fa-purity-pdf",
+      "sha16": "34bf5bf014cecbbd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-fa-purity-pdf.md",
+      "title": "0828 FA Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/0828 Purity/0828 FA Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-tfa-purity-pdf",
+      "sha16": "6e1764e460c527f8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-tfa-purity-pdf.md",
+      "title": "0828 TFA Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/0828 Purity/0828 TFA Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-14dec21-nx2127-impurity-id-pptx",
+      "sha16": "18342940482cc1fb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-14dec21-nx2127-impurity-id-pptx.md",
+      "title": "14Dec21_NX2127 Impurity ID",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/14Dec21_NX2127 Impurity ID.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-18min-imp-id-pdf",
+      "sha16": "6aea150ec167ea01",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-18min-imp-id-pdf.md",
+      "title": "NRX-2127 18min IMP ID",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 18min IMP ID.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-2127-pdf",
+      "sha16": "c916feae1b504dcf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-2127-pdf.md",
+      "title": "NRX-2127 55min 2127",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min 2127.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-1-pdf",
+      "sha16": "54dec11c0cc57989",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-1-pdf.md",
+      "title": "NRX-2127 55min imp-1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-2-pdf",
+      "sha16": "a5308580e9cdcd3d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-2-pdf.md",
+      "title": "NRX-2127 55min imp-2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-3-pdf",
+      "sha16": "21f3949376fab5e8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-3-pdf.md",
+      "title": "NRX-2127 55min imp-3",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-3.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-4-pdf",
+      "sha16": "9bbb2bfc6b857fce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-4-pdf.md",
+      "title": "NRX-2127 55min imp-4",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-4.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-5-pdf",
+      "sha16": "c6d6059ac75c9b77",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-5-pdf.md",
+      "title": "NRX-2127 55min imp-5",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-5.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-6-pdf",
+      "sha16": "a7ecd60c42ee14ae",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-6-pdf.md",
+      "title": "NRX-2127 55min imp-6",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-6.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-7-pdf",
+      "sha16": "ba7fb54d5006e298",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-7-pdf.md",
+      "title": "NRX-2127 55min imp-7",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-7.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-8-pdf",
+      "sha16": "dd4b108cd4054fae",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-8-pdf.md",
+      "title": "NRX-2127 55min imp-8",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-8.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-9-pdf",
+      "sha16": "8e049c0b810c303b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-9-pdf.md",
+      "title": "NRX-2127 55min imp-9",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min imp-9.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-id-pdf",
+      "sha16": "a977261e599857dc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-2127-purity-nrx-2127-55min-imp-id-pdf.md",
+      "title": "NRX-2127 55min IMP ID",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/2127 Purity/NRX-2127 55min IMP ID.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0391607-007-aa-nrx-0391607-007-aa-pdf",
+      "sha16": "222e30d50c7a6856",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0391607-007-aa-nrx-0391607-007-aa-pdf.md",
+      "title": "NRX-0391607-007-AA",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0391607-007-AA/NRX-0391607-007-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0391607-007-aa-nx-1607-007-aa-certificate-of-testing-docx",
+      "sha16": "3ce9a701781b20d7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0391607-007-aa-nx-1607-007-aa-certificate-of-testing-docx.md",
+      "title": "NX-1607-007-AA_Certificate_of_Testing",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0391607-007-AA/NX-1607-007-AA_Certificate_of_Testing.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0391607-007-aa-nx-1607-007-aa-certificate-of-testing-v02-docx",
+      "sha16": "a974fc044d0131e9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0391607-007-aa-nx-1607-007-aa-certificate-of-testing-v02-docx.md",
+      "title": "NX-1607-007-AA_Certificate_of_Testing_v02",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0391607-007-AA/NX-1607-007-AA_Certificate_of_Testing_v02.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0391607-007-aa-nx-1607-007-aa-certificate-of-testing-v02-si-5fe38ef3f4",
+      "sha16": "71202d0c693ab3be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0391607-007-aa-nx-1607-007-aa-certificate-of-testing-v02-si-5fe38ef3f4.md",
+      "title": "NX-1607-007-AA_Certificate_of_Testing_v02 signed Oct2021",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0391607-007-AA/NX-1607-007-AA_Certificate_of_Testing_v02 signed Oct2021.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0392127-019-aq-nrx-0392127-019-aq-pdf",
+      "sha16": "3b2f33e2a8a1345c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0392127-019-aq-nrx-0392127-019-aq-pdf.md",
+      "title": "NRX-0392127-019-AQ",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0392127-019-AQ/NRX-0392127-019-AQ.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0392127-019-aq-nx-2127-019-aq-certificate-of-testing-v01-docx",
+      "sha16": "6aa5fc6899b7bedd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0392127-019-aq-nx-2127-019-aq-certificate-of-testing-v01-docx.md",
+      "title": "NX-2127-019-AQ_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0392127-019-AQ/NX-2127-019-AQ_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0392127-019-aq-nx-2127-019-aq-certificate-of-testing-v02-docx",
+      "sha16": "c3af3f20d09048d5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0392127-019-aq-nx-2127-019-aq-certificate-of-testing-v02-docx.md",
+      "title": "NX-2127-019-AQ_Certificate_of_Testing_v02",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0392127-019-AQ/NX-2127-019-AQ_Certificate_of_Testing_v02.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-003-aa-10-pdata-1-email-nx-5948-003-aa-10-1-pdf",
+      "sha16": "b41420db3d125a54",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-003-aa-10-pdata-1-email-nx-5948-003-aa-10-1-pdf.md",
+      "title": "email_NX-5948-003-AA_10_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-003-AA/10/pdata/1/email_NX-5948-003-AA_10_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-003-aa-11-pdata-1-email-nx-5948-003-aa-11-1-pdf",
+      "sha16": "009711c29199e047",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-003-aa-11-pdata-1-email-nx-5948-003-aa-11-1-pdf.md",
+      "title": "email_NX-5948-003-AA_11_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-003-AA/11/pdata/1/email_NX-5948-003-AA_11_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-10-pdata-1-email-nx-5948-009-aa-10-1-pdf",
+      "sha16": "fc44bd520ab640e4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-10-pdata-1-email-nx-5948-009-aa-10-1-pdf.md",
+      "title": "email_NX-5948-009-AA_10_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA/10/pdata/1/email_NX-5948-009-AA_10_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-11-pdata-1-email-nx-5948-009-aa-11-1-pdf",
+      "sha16": "4e1146864c50925c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-11-pdata-1-email-nx-5948-009-aa-11-1-pdf.md",
+      "title": "email_NX-5948-009-AA_11_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA/11/pdata/1/email_NX-5948-009-AA_11_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-20-pdata-1-email-nx-5948-009-aa-20-1-pdf",
+      "sha16": "392698299f63fb06",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-20-pdata-1-email-nx-5948-009-aa-20-1-pdf.md",
+      "title": "email_NX-5948-009-AA_20_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA/20/pdata/1/email_NX-5948-009-AA_20_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-30-pdata-1-email-nx-5948-009-aa-30-1-pdf",
+      "sha16": "57f39325f1b84c10",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-30-pdata-1-email-nx-5948-009-aa-30-1-pdf.md",
+      "title": "email_NX-5948-009-AA_30_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA/30/pdata/1/email_NX-5948-009-AA_30_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-fbcap-10-pdata-1-email-nx-5948-009-aa-fbcap-10-1-pdf",
+      "sha16": "f932b75fe02ca3ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-fbcap-10-pdata-1-email-nx-5948-009-aa-fbcap-10-1-pdf.md",
+      "title": "email_NX-5948-009-AA_FBCap_10_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_FBCap/10/pdata/1/email_NX-5948-009-AA_FBCap_10_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-fbcap-11-pdata-1-email-nx-5948-009-aa-fbcap-11-1-pdf",
+      "sha16": "7d195132fc8e91b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-fbcap-11-pdata-1-email-nx-5948-009-aa-fbcap-11-1-pdf.md",
+      "title": "email_NX-5948-009-AA_FBCap_11_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_FBCap/11/pdata/1/email_NX-5948-009-AA_FBCap_11_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-10-pdata-1-email-nx-5948-009-aa-strel-10-1-pdf",
+      "sha16": "d41f46668434112f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-10-pdata-1-email-nx-5948-009-aa-strel-10-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_10_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/10/pdata/1/email_NX-5948-009-AA_StrEl_10_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-11-pdata-1-email-nx-5948-009-aa-strel-11-1-pdf",
+      "sha16": "2aa625a1dca41a42",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-11-pdata-1-email-nx-5948-009-aa-strel-11-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_11_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/11/pdata/1/email_NX-5948-009-AA_StrEl_11_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-12-pdata-1-email-nx-5948-009-aa-strel-12-1-pdf",
+      "sha16": "9ca252aa8938c9cc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-12-pdata-1-email-nx-5948-009-aa-strel-12-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_12_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/12/pdata/1/email_NX-5948-009-AA_StrEl_12_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-13-pdata-1-email-nx-5948-009-aa-strel-13-1-pdf",
+      "sha16": "5010029bd1d11c4e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-13-pdata-1-email-nx-5948-009-aa-strel-13-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_13_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/13/pdata/1/email_NX-5948-009-AA_StrEl_13_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-14-pdata-1-email-nx-5948-009-aa-strel-14-1-pdf",
+      "sha16": "bbc235341617edd3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-14-pdata-1-email-nx-5948-009-aa-strel-14-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_14_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/14/pdata/1/email_NX-5948-009-AA_StrEl_14_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-15-pdata-1-email-nx-5948-009-aa-strel-15-1-pdf",
+      "sha16": "fa2f0ab8fe382fb9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-15-pdata-1-email-nx-5948-009-aa-strel-15-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_15_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/15/pdata/1/email_NX-5948-009-AA_StrEl_15_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-16-pdata-1-email-nx-5948-009-aa-strel-16-1-pdf",
+      "sha16": "21ab8bf062f43fd5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-16-pdata-1-email-nx-5948-009-aa-strel-16-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_16_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/16/pdata/1/email_NX-5948-009-AA_StrEl_16_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-17-pdata-1-email-nx-5948-009-aa-strel-17-1-pdf",
+      "sha16": "e8d09cfab9815187",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-17-pdata-1-email-nx-5948-009-aa-strel-17-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_17_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/17/pdata/1/email_NX-5948-009-AA_StrEl_17_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-19-pdata-1-email-nx-5948-009-aa-strel-19-1-pdf",
+      "sha16": "b25866c8983fd155",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-009-aa-strel-19-pdata-1-email-nx-5948-009-aa-strel-19-1-pdf.md",
+      "title": "email_NX-5948-009-AA_StrEl_19_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-009-AA_StrEl/19/pdata/1/email_NX-5948-009-AA_StrEl_19_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-012-ah-10-pdata-1-email-nx-5948-012-ah-10-1-pdf",
+      "sha16": "b3dc034f227d2abf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-012-ah-10-pdata-1-email-nx-5948-012-ah-10-1-pdf.md",
+      "title": "email_NX-5948-012-AH_10_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-012-AH/10/pdata/1/email_NX-5948-012-AH_10_1.pdf",
+      "confidence": "high"
+    }
+  ]
+}

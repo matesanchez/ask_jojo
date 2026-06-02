@@ -1,0 +1,110 @@
+{
+  "agent": "lcms-analytical-wave4",
+  "pages": [
+    "ask_jojo_wiki/methods/chromeleon-hplc-iq-release-notes-archive.md",
+    "ask_jojo_wiki/methods/chromeleon-hplc-oq-pq-release-notes-archive.md",
+    "ask_jojo_wiki/methods/lcms-contamination-control-best-practices.md",
+    "ask_jojo_wiki/references/kerns-2003-lcms-profiling-lipophilicity-integrity.md"
+  ],
+  "n_covered": 16,
+  "n_reclassed": 24,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-013-aa-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-nx-0255-013-aa-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-uplc-ms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-003-aa-nx-1647-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-1-nx-1650-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-nx-1650-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-nx-4422-ames-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-nx-5948-009-aa-uplc-ms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-v2-nx-5948-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rp-hplc-nurix-nrx-0391607-002-9abef2aacf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rp-hplc-nurix-nrx-0391607-002-e0e4c89e5d",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-nx-1607-003-aa-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-beh-7df325601c",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-beh-c1aad12d1b",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-nrx-0392936-008-aa-behc18-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-nrx-0392936-008-aa-behphenyl-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-chromacademy-theory-of-hplc-introduction-pdf",
+      "bucket": "generic_educational"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-uplc-h-class-system-guide-pdf",
+      "bucket": "vendor_manual_generic"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-hplc-getting-started-pdf",
+      "bucket": "vendor_manual_generic"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20220711-hplc-cad-pka-pptx",
+      "bucket": "duplicate_existing"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-biomimetic-hplc-review-paper-jpba-2016-2-pdf",
+      "bucket": "duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-biomimetic-hplc-review-paper-jpba-2016-2-pdf",
+      "bucket": "duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkap040-optimaldryinghplcfractions-pdf",
+      "bucket": "duplicate_existing"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20220618-hplc-dual-ph-gradient-pka-sh-and-jk-pptx",
+      "bucket": "duplicate_existing"
+    }
+  ],
+  "notes": "4 pages: Chromeleon IQ + OQ/PQ release-notes archives, LCMS contamination control, Kerns 2003 reference. 16 raw chromatogram PDFs reclassified."
+}

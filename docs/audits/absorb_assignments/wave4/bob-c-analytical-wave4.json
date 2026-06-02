@@ -1,0 +1,328 @@
+{
+  "assignment": "bob-c-analytical-wave4",
+  "wiki_dir": "methods",
+  "wave": "wave4",
+  "guidance": "Synthesize Bob C analytical-chemistry entries into ~3-5 method/reference pages.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-1st-pdf",
+      "sha16": "8ead9bae09123443",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-1st-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_1st",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_1st.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-2nd-2-pdf",
+      "sha16": "bb0d85994e29914f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-2nd-2-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_2nd-2",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_2nd-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-2nd-pdf",
+      "sha16": "590b65f1e4f3f847",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-2nd-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_2nd",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_2nd.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-3rd-2-pdf",
+      "sha16": "2f633dd70873a299",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-3rd-2-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_3rd-2",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_3rd-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-3rd-pdf",
+      "sha16": "de7bab2b3da99132",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-3rd-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_3rd",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_3rd.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-4th-pdf",
+      "sha16": "e6c766329adf4fd8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-4th-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_4th",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_4th.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-5th-pdf",
+      "sha16": "43579a74c8b4a5b2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-5th-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_5th",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_5th.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-6th-pdf",
+      "sha16": "158194f7835ae230",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-6th-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_6th",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_6th.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-7th-pdf",
+      "sha16": "ee88326e638ccddc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nrx-0394092lot60571-30-06-7th-pdf.md",
+      "title": "NRX-0394092lot60571-30-06_7th",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NRX-0394092lot60571-30-06_7th.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-1-pdf",
+      "sha16": "f113db609fc4e0df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-1-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_1",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-2-pdf",
+      "sha16": "aeb529cd5330358a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-2-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_2",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-fs-pdf",
+      "sha16": "27c82289cb53e7d1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-fs-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_FS",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_FS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-main-peak-pdf",
+      "sha16": "13dd9a6bf6f004db",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-main-peak-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_main peak",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_main peak.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus1-pdf",
+      "sha16": "2a9de644d558114b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus1-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus1",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus10-pdf",
+      "sha16": "9f332cf7767d6ae8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus10-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus10",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus10.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus11-pdf",
+      "sha16": "4f3823860e842b0f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus11-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus11",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus11.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus12-pdf",
+      "sha16": "7f3c6d505237a618",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus12-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus12",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus12.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus13-pdf",
+      "sha16": "f169c461c5648d9b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus13-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus13",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus13.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus14-pdf",
+      "sha16": "73973fda4d7fc2e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus14-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus14",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus14.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus15-pdf",
+      "sha16": "86b587b67ff6cf64",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus15-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus15",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus15.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus16-pdf",
+      "sha16": "c7e2805c0cbad742",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus16-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus16",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus16.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus17-pdf",
+      "sha16": "3b71c9b903eb65a9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus17-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus17",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus17.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus2-pdf",
+      "sha16": "2c692871e6d957eb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus2-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus2",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus3-pdf",
+      "sha16": "f21115c373282d6e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus3-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus3",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus3.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus4-pdf",
+      "sha16": "97e0ffe13ef76ef2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus4-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus4",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus4.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus5-pdf",
+      "sha16": "0903b64ae7c8387f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus5-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus5",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus5.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus6-pdf",
+      "sha16": "60b069dea9d243ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus6-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus6",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus6.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus7-pdf",
+      "sha16": "a3547030d8134467",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus7-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus7",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus7.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus8-pdf",
+      "sha16": "7f260e1662e2c6ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus8-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus8",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus8.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus9-pdf",
+      "sha16": "1edbdec9ca9ddffe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-3may2021-nx-2127-lotr00071-05-24-minus9-pdf.md",
+      "title": "NX-2127_lotR00071-05-24_minus9",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/3May2021/NX-2127_lotR00071-05-24_minus9.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-13-38-pdf",
+      "sha16": "0df2d91e3d6e337a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-13-38-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_13.38",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_13.38.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-13-9min-pdf",
+      "sha16": "8f05585f473c3284",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-13-9min-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_13.9min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_13.9min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-14-65min-pdf",
+      "sha16": "7d97469aafd5df4d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-14-65min-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_14.65min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_14.65min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-15-3min-pdf",
+      "sha16": "2e66fe0419b95580",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-15-3min-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_15.3min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_15.3min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-19-994min-pdf",
+      "sha16": "daf1fc9dbdf2c96a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-19-994min-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_19.994min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_19.994min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-20-984min-pdf",
+      "sha16": "48fcf8bc2d152856",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-20-984min-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_20.984min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_20.984min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-25-328min-pdf",
+      "sha16": "023eec9d87574add",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-25-328min-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_25.328min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_25.328min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-25-88min-pdf",
+      "sha16": "14b9c918cf2f83ae",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-25-88min-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_25.88min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_25.88min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-31-25min-pdf",
+      "sha16": "bada3568f1a4213a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nrx-0394902-lot60426-a21-001-q1hres-31-25min-pdf.md",
+      "title": "NRX-0394902 Lot60426-A21-001_Q1HRes_31.25min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NRX-0394902 Lot60426-A21-001_Q1HRes_31.25min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nx-2127-lot60426-21-001-1-18-s1a-q1hres-15-3min-pdf",
+      "sha16": "99ff7f6323b453e0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-2127-impurityid-6june2021-nx-2127-lot60426-21-001-1-18-s1a-q1hres-15-3min-pdf.md",
+      "title": "NX-2127 Lot60426-21-001-1-18-S1A_Q1HRes_15.3min",
+      "source_id": "Analytical Chemistry/Bob C - Public/2127 impurityID/6June2021/NX-2127 Lot60426-21-001-1-18-S1A_Q1HRes_15.3min.pdf",
+      "confidence": "high"
+    }
+  ]
+}

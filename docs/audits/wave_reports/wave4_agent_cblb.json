@@ -1,0 +1,15 @@
+{
+  "agent": "cbl-b-additional-wave4",
+  "pages": [],
+  "n_covered": 34,
+  "n_reclassed": 5,
+  "duplicate_sweep": true,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-tcr-signaling-of-cbl-b-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-tcr-signaling-of-cbl-b-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-tcr-signaling-of-cbl-b-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-science-literature-notes-notes-cbl-b-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-science-literature-notes-notes-cbl-b-docx","bucket":"personal"}
+  ],
+  "notes": "All 34 covered entries are sha-dupes of existing CBL-B wiki pages. 5 personal Q&A study notes reclassified."
+}
