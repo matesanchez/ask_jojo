@@ -1,0 +1,369 @@
+{
+  "assignment": "protein-purification-wave1",
+  "wiki_dir": "methods",
+  "topic_key": "protein-purification",
+  "wave": "wave1",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Group by sub-topic; do NOT create one page per entry. If you encounter an entry that is actually personal/software/blank/mechanical-only, drop it and list in reclassified_out.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-lyo-23feb2022-zoom-pdf",
+      "sha16": "65b715d84635c78d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-lyo-23feb2022-zoom-pdf.md",
+      "title": "NX2127 5ul in ACN TFA repurif Lyo 23Feb2022 zoom",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/Waters Acquity AC/ATF/NX2127 purity 23Feb/NX2127 5ul in ACN TFA repurif Lyo 23Feb2022 zoom.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-rota-23feb2022-pdf",
+      "sha16": "7d85bee67de2e27b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-rota-23feb2022-pdf.md",
+      "title": "NX2127 5ul in ACN TFA repurif Rota 23Feb2022",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/Waters Acquity AC/ATF/NX2127 purity 23Feb/NX2127 5ul in ACN TFA repurif Rota 23Feb2022.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-rota-23feb2022-zoom-pdf",
+      "sha16": "50b6363c3d5f8573",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-rota-23feb2022-zoom-pdf.md",
+      "title": "NX2127 5ul in ACN TFA repurif Rota 23Feb2022 zoom",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/Waters Acquity AC/ATF/NX2127 purity 23Feb/NX2127 5ul in ACN TFA repurif Rota 23Feb2022 zoom.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-chromatographic-logd-ht-protocol-docx",
+      "sha16": "1336a8aaa4115c42",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-chromatographic-logd-ht-protocol-docx.md",
+      "title": "Chromatographic LogD HT Protocol",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/Chromatographic LogD HT Protocol.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-20230411-logd-chromatographic-assay-pptx",
+      "sha16": "293b065b97636155",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-20230411-logd-chromatographic-assay-pptx.md",
+      "title": "20230411 LogD CHromatographic Assay",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/20230411 LogD CHromatographic Assay.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2023-tim-158-958-4-peak-purification-stage-1-whelk-o1-column-pptx",
+      "sha16": "a429561f7dd04501",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2023-tim-158-958-4-peak-purification-stage-1-whelk-o1-column-pptx.md",
+      "title": "Purification Stage 1 (Whelk O1 column)",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2023/Tim 158-958 4 peak/Purification Stage 1 (Whelk O1 column).pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-bc-chromatographic-logd-htp-protocol-docx",
+      "sha16": "5e7356a0ca0db5f0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-bc-chromatographic-logd-htp-protocol-docx.md",
+      "title": "BC_Chromatographic LogD HTP Protocol",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/BC_Chromatographic LogD HTP Protocol.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-hettiarachchi-et-al-2022-microscale-purification-with-direct-charged-aer-51dc7f4647",
+      "sha16": "b42e8345739398bc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-hettiarachchi-et-al-2022-microscale-purification-with-direct-charged-aer-51dc7f4647.md",
+      "title": "hettiarachchi-et-al-2022-microscale-purification-with-direct-charged-aerosol-detector-quantitation-using-selective",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/hettiarachchi-et-al-2022-microscale-purification-with-direct-charged-aerosol-detector-quantitation-using-selective.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220406-purification-plate-100-dmso-20-sample-pptx",
+      "sha16": "7da02e8a56c3b703",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220406-purification-plate-100-dmso-20-sample-pptx.md",
+      "title": "20220406 purification plate 100_DMSO 20_sample",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20220406 purification plate 100_DMSO 20_sample.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220412-purification-to-salt-quantitation-pptx",
+      "sha16": "e515efd2d489366c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220412-purification-to-salt-quantitation-pptx.md",
+      "title": "20220412 purification to salt quantitation",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20220412 purification to salt quantitation.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20230124-purification-sample-analysis-pptx",
+      "sha16": "bb001dc2cb751070",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20230124-purification-sample-analysis-pptx.md",
+      "title": "20230124 purification sample analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20230124 purification sample analysis.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20230411-logd-chromatographic-assay-pptx",
+      "sha16": "293b065b97636155",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20230411-logd-chromatographic-assay-pptx.md",
+      "title": "20230411 LogD CHromatographic Assay",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20230411 LogD CHromatographic Assay.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20230411-pka-chromatographic-assay-pptx",
+      "sha16": "65b20cf6e24361f2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20230411-pka-chromatographic-assay-pptx.md",
+      "title": "20230411 pKa CHromatographic Assay",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20230411 pKa CHromatographic Assay.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20240521-20230411-logd-chromatographic-assay-pptx",
+      "sha16": "b42bad33f4d5b82c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20240521-20230411-logd-chromatographic-assay-pptx.md",
+      "title": "20240521 20230411 LogD CHromatographic Assay",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20240521 20230411 LogD CHromatographic Assay.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-chromatography-on-immobilized-artificial-membrane-iam-pdf",
+      "sha16": "b238030383c0b363",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-chromatography-on-immobilized-artificial-membrane-iam-pdf.md",
+      "title": "Chromatography on Immobilized Artificial Membrane (IAM)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Chromatography on Immobilized Artificial Membrane (IAM).pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-improved-quantitation-of-lipid-classes-using-supe-6e90f352bd",
+      "sha16": "fe2a5a426419c01e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-improved-quantitation-of-lipid-classes-using-supe-6e90f352bd.md",
+      "title": "Improved quantitation of lipid classes using supercritical fluid chromatography with a charged aerosol detector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Improved quantitation of lipid classes using supercritical fluid chromatography with a charged aerosol detector.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-improved-quantitation-of-lipid-classes-using-supe-7db31472c6",
+      "sha16": "594c7cf1a30b94be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-improved-quantitation-of-lipid-classes-using-supe-7db31472c6.md",
+      "title": "Improved quantitation of lipid classes using supercritical fluid chromatography with a charged aerosol detector - Copy",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Improved quantitation of lipid classes using supercritical fluid chromatography with a charged aerosol detector - Copy.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-polarityextendedchromatography-withmassspectromet-a3497c0ebb",
+      "sha16": "93603d9874775e9f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-polarityextendedchromatography-withmassspectromet-a3497c0ebb.md",
+      "title": "PolarityExtendedChromatography withMassSpectrometricDetection methods",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/PolarityExtendedChromatography withMassSpectrometricDetection methods.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-polarityextendedchromatography-withmassspectromet-ea0009e3f3",
+      "sha16": "a3f93bd113fd0a2d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-polarityextendedchromatography-withmassspectromet-ea0009e3f3.md",
+      "title": "PolarityExtendedChromatography withMassSpectrometricDetection",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/PolarityExtendedChromatography withMassSpectrometricDetection.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220519-purification-plates-pdf",
+      "sha16": "91cc3828bf1abbb3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220519-purification-plates-pdf.md",
+      "title": "20220519 purification plates",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220519 purification plates.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230711-purification-400m-2-20230711-purification-400m-2-pdf",
+      "sha16": "ed84f1f88f0d4110",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230711-purification-400m-2-20230711-purification-400m-2-pdf.md",
+      "title": "20230711 purification 400m+2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20230711 purification 400m+2/20230711 purification 400m+2.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230711-purification-419m-2-20230711-purification-419m-2-pdf",
+      "sha16": "26a5461726b50a89",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230711-purification-419m-2-20230711-purification-419m-2-pdf.md",
+      "title": "20230711 purification 419m+2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20230711 purification 419m+2/20230711 purification 419m+2.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220519-purification-plates-report-pdf",
+      "sha16": "dc789d661569f171",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220519-purification-plates-report-pdf.md",
+      "title": "20220519 purification plates report",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20220519 purification plates report.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220618-solid-phase-library-crude-quantitation-703dadd356",
+      "sha16": "8fddc8117c6d0558",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220618-solid-phase-library-crude-quantitation-703dadd356.md",
+      "title": "20220618 Solid-phase library crude quantitation SPE purified",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20220618 Solid-phase library crude quantitation SPE purified.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-logd-chromatographic-assay-pptx",
+      "sha16": "293b065b97636155",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-logd-chromatographic-assay-pptx.md",
+      "title": "20230411 LogD CHromatographic Assay",
+      "source_id": "Analytical Chemistry/Jon K - Public/powerpoints/20230411 LogD CHromatographic Assay.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-pka-chromatographic-assay-pptx",
+      "sha16": "7cf530a3ecdfae83",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-pka-chromatographic-assay-pptx.md",
+      "title": "20230411 pKa CHromatographic Assay",
+      "source_id": "Analytical Chemistry/Jon K - Public/powerpoints/20230411 pKa CHromatographic Assay.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-chromatography-on-immobilized-artificial-membrane-iam-pdf",
+      "sha16": "b238030383c0b363",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-chromatography-on-immobilized-artificial-membrane-iam-pdf.md",
+      "title": "Chromatography on Immobilized Artificial Membrane (IAM)",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Chromatography on Immobilized Artificial Membrane (IAM).pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkaa008-drying-purification-fractions-pdf",
+      "sha16": "3f3060aeb8bdf60e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkaa008-drying-purification-fractions-pdf.md",
+      "title": "MKAA008_Drying Purification Fractions",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Genevac/MKAA008_Drying Purification Fractions.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-bbb-characterization-of-the-penetration-of-the-blood-brain-barrier-by-3d2753dd6f",
+      "sha16": "59088fa02b6a1d7b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-bbb-characterization-of-the-penetration-of-the-blood-brain-barrier-by-3d2753dd6f.md",
+      "title": "Characterization of the Penetration of the Blood Brain Barrier by High Performance Liquid Chromatography HPLC Using a Stationary Phase with an",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/BBB/Characterization of the Penetration of the Blood Brain Barrier by High Performance Liquid Chromatography HPLC Using a Stationary Phase with an.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-metabolism-of-verapamil-24-new-phase-i-and-phase-a5e3a953c2",
+      "sha16": "b8432c1f83ee300f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-metabolism-of-verapamil-24-new-phase-i-and-phase-a5e3a953c2.md",
+      "title": "Metabolism of verapamil 24 new phase I and phase II metabolites identified in cell cultures of rat hepatocytes by liquid chromatography\u2013tandem mass spectrometry",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Metabolism of verapamil 24 new phase I and phase II metabolites identified in cell cultures of rat hepatocytes by liquid chromatography\u2013tandem mass spectrometry.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-htpurifications-merck-pdf",
+      "sha16": "aaeec1e0859367c2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-htpurifications-merck-pdf.md",
+      "title": "HTPurifications Merck",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/HTPurifications Merck.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-chromatography-on-immobilized-artificial-membrane-iam-pdf",
+      "sha16": "1b67c0e5910df87a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-chromatography-on-immobilized-artificial-membrane-iam-pdf.md",
+      "title": "Chromatography on Immobilized Artificial Membrane (IAM)",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Chromatography on Immobilized Artificial Membrane (IAM).pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-hydrophobic-interaction-and-reverse-phase-chroma-145d6140aa",
+      "sha16": "919d0caa5e431c37",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-hydrophobic-interaction-and-reverse-phase-chroma-145d6140aa.md",
+      "title": "Hydrophobic Interaction and Reverse Phase Chromatography-GE Healthcare",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Hydrophobic Interaction and Reverse Phase Chromatography-GE Healthcare.PDF",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-ion-exchange-chromatography-ge-healthcare-pdf",
+      "sha16": "9d5835dc2f0f94a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-ion-exchange-chromatography-ge-healthcare-pdf.md",
+      "title": "Ion Exchange Chromatography-GE Healthcare",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Ion Exchange Chromatography-GE Healthcare.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-purification-of-biomolecules-tosoh-pdf",
+      "sha16": "0a8ba6ef1b22e941",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-purification-of-biomolecules-tosoh-pdf.md",
+      "title": "PURIFICATION OF BIOMOLECULES_TOSOH",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/PURIFICATION OF BIOMOLECULES_TOSOH.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-20181113-workshop-t-7ff019e611",
+      "sha16": "255b63204a2fd578",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-20181113-workshop-t-7ff019e611.md",
+      "title": "20181113_Workshop Theory of Purification Slides_Final",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Seminars and Presentations/Agilent Prep LC seminar/20181113_Workshop Theory of Purification Slides_Final.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-infinitylab-lc-puri-b161a24cef",
+      "sha16": "341d10d5cdb0f5e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-infinitylab-lc-puri-b161a24cef.md",
+      "title": "InfinityLab_LC_Purification_Solutions_L&L_Columns_RG",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Seminars and Presentations/Agilent Prep LC seminar/InfinityLab_LC_Purification_Solutions_L&L_Columns_RG.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-po-20432-nrx-for-princeton-chromatography-inc-pdf",
+      "sha16": "fb9791795e4056d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-po-20432-nrx-for-princeton-chromatography-inc-pdf.md",
+      "title": "PO #20432-NRX for Princeton Chromatography, Inc_",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/PO #20432-NRX for Princeton Chromatography, Inc_.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-other-20180622-ht-purifications-pptx",
+      "sha16": "128c641928a10a61",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-other-20180622-ht-purifications-pptx.md",
+      "title": "20180622_HT Purifications",
+      "source_id": "Analytical Chemistry/Jose L - public/Other/20180622_HT Purifications.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-htpurifications-merck-pdf",
+      "sha16": "aaeec1e0859367c2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-htpurifications-merck-pdf.md",
+      "title": "HTPurifications Merck",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Guides and Training/Purifications/HTPurifications Merck.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    }
+  ]
+}

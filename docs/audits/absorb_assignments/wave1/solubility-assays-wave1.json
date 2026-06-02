@@ -1,0 +1,369 @@
+{
+  "assignment": "solubility-assays-wave1",
+  "wiki_dir": "methods",
+  "topic_key": "solubility-assays",
+  "wave": "wave1",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Group by sub-topic; do NOT create one page per entry. If you encounter an entry that is actually personal/software/blank/mechanical-only, drop it and list in reclassified_out.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk-26-smarca2-n-a-nrx-0409172-005-aa-sgf-pdf",
+      "sha16": "05cbb1eb116807fb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk-26-smarca2-n-a-nrx-0409172-005-aa-sgf-pdf.md",
+      "title": "NRX-0409172-005-AA SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK 26 SMARCA2/n.a/NRX-0409172-005-AA SGF.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-ar-003093-wk13-nr4a1-ksol-pbs-cr-002043-pdf",
+      "sha16": "55872bd69226526e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-ar-003093-wk13-nr4a1-ksol-pbs-cr-002043-pdf.md",
+      "title": "AR-003093 WK13 NR4A1 KSOL PBS  _ CR-002043_",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK13/AR-003093/AR-003093 WK13 NR4A1 KSOL PBS  _ CR-002043_.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-ar-003093-wk13-nr4a1-ksol-pbs-pdf",
+      "sha16": "0366e7a823a8236f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-ar-003093-wk13-nr4a1-ksol-pbs-pdf.md",
+      "title": "AR-003093 WK13 NR4A1 KSOL PBS",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK13/AR-003093/AR-003093 WK13 NR4A1 KSOL PBS.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-nrx-0431538-001-aa-pdf",
+      "sha16": "a831ee24ff5c4e7a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-nrx-0431538-001-aa-pdf.md",
+      "title": "NRX-0431538-001-AA",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK13/AR-003093/NRX-0431538-001-AA.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-nrx-0431762-001-cf-pdf",
+      "sha16": "26a28aff956c52f8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-nrx-0431762-001-cf-pdf.md",
+      "title": "NRX-0431762-001-CF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK13/AR-003093/NRX-0431762-001-CF.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-wk13-nr4a1-ksol-pbs-stds-cr-002043-ar-003093-pdf",
+      "sha16": "7189daa0d297fc1e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-wk13-nr4a1-ksol-pbs-stds-cr-002043-ar-003093-pdf.md",
+      "title": "WK13 NR4A1 KSOL PBS STDs _ CR-002043_AR-003093",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK13/AR-003093/WK13 NR4A1 KSOL PBS STDs _ CR-002043_AR-003093.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk20-20230519-irf5-ksol-pbs-pdf",
+      "sha16": "51d5fcb52180597f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk20-20230519-irf5-ksol-pbs-pdf.md",
+      "title": "20230519 IRF5 KSOL PBS",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK20/20230519 IRF5 KSOL PBS.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk21-wk21-nr4a1-ksol-pbs-2023-may-27-ksol-pdf",
+      "sha16": "28d61d689d9d6045",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk21-wk21-nr4a1-ksol-pbs-2023-may-27-ksol-pdf.md",
+      "title": "2023_May_27 Ksol",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK21/WK21 NR4A1 KSOL PBS/2023_May_27 Ksol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk22-2023-may-31-ksol-wk22-hpk1-ksol-ar-003441-cr-002557-p-8d90ef5e8d",
+      "sha16": "6e07e372c0128598",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk22-2023-may-31-ksol-wk22-hpk1-ksol-ar-003441-cr-002557-p-8d90ef5e8d.md",
+      "title": "2023_May_31 Ksol WK22 HPK1 KSOL AR-003441 CR-002557 PBS FAS FES",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK22/2023_May_31 Ksol WK22 HPK1 KSOL AR-003441 CR-002557 PBS FAS FES.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk22-wk22-bcatenin-ksol-pbs-ar-003503-ar-003680-wk22-bcate-86b15dd3d5",
+      "sha16": "e8afd19ec025e571",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk22-wk22-bcatenin-ksol-pbs-ar-003503-ar-003680-wk22-bcate-86b15dd3d5.md",
+      "title": "WK22 bCatenin KSOL PBS AR-003503 AR-003680",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK22/WK22 bCatenin KSOL PBS AR-003503 AR-003680/WK22 bCatenin KSOL PBS AR-003503 AR-003680.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk29-usp18-snf07-wk30-ksol-usp18-pbs-gly-buffer-raw-data-pdf",
+      "sha16": "cf0d4bc1f645b346",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk29-usp18-snf07-wk30-ksol-usp18-pbs-gly-buffer-raw-data-pdf.md",
+      "title": "WK30 KSOL USP18 PBS GLY Buffer Raw Data",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK29 USP18-SNF07/WK30 KSOL USP18 PBS GLY Buffer Raw Data.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk31-irf5-bcatenin-pbs-wk31-ksol-irf5-bcatenin-pdf",
+      "sha16": "861b3b42143b6e32",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk31-irf5-bcatenin-pbs-wk31-ksol-irf5-bcatenin-pdf.md",
+      "title": "WK31 KSOL IRF5 bCatenin",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK31 IRF5 bCatenin PBS/WK31 KSOL IRF5 bCatenin.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk31-irf5-bcatenin-pbs-wk31-ksol-irf5-bcatenin-wk32-ksol-i-2d0707f037",
+      "sha16": "f8a2d37ec7a81cc0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk31-irf5-bcatenin-pbs-wk31-ksol-irf5-bcatenin-wk32-ksol-i-2d0707f037.md",
+      "title": "WK32 KSOL IRF5 bCatenin",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK31 IRF5 bCatenin PBS/WK31 KSOL IRF5 bCatenin/WK32 KSOL IRF5 bCatenin.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-irf5-ksol-ar-005042-01-pdf",
+      "sha16": "32b4cd9fb61d2dd4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-irf5-ksol-ar-005042-01-pdf.md",
+      "title": "WK32 IRF5 KSOL AR-005042-01",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK32 IRF5 HPK1 bCatenin PBS/Raw Data/WK32 IRF5 KSOL AR-005042-01.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fassif-fessif-fassgf-buffer-stability-dt201905-a01-pdf",
+      "sha16": "99d5e16c5528d777",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fassif-fessif-fassgf-buffer-stability-dt201905-a01-pdf.md",
+      "title": "FASSIF FESSIF FASSGF Buffer Stability DT201905_A01",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/FaSSIF, FeSSIF, FaSSGF, and V2s/FASSIF FESSIF FASSGF Buffer Stability DT201905_A01.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-kinetic-solubility-qhtp-microplate-assay-protocol-bc-robot-steps-docx",
+      "sha16": "04779ef51a72317e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-kinetic-solubility-qhtp-microplate-assay-protocol-bc-robot-steps-docx.md",
+      "title": "Kinetic Solubility qHTP Microplate Assay protocol BC Robot Steps",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Kinetic Solubility qHTP Microplate Assay protocol BC Robot Steps.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-ksol-based-protocol-pdf",
+      "sha16": "e3231c7a99869bd0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-ksol-based-protocol-pdf.md",
+      "title": "KSOL Based Protocol",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/KSOL Based Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-ksol-sop-docx",
+      "sha16": "0aa38af46c92d1df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-ksol-sop-docx.md",
+      "title": "KSOL SOP",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/KSOL SOP.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-ksol-sop-saved-docx",
+      "sha16": "d058f03430f0cd1c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-ksol-sop-saved-docx.md",
+      "title": "KSOL SOP saved",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/KSOL SOP saved.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-nurix-ksol-dilution-plate-automation-pdf-pdf",
+      "sha16": "f4736dab04887cd1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-nurix-ksol-dilution-plate-automation-pdf-pdf.md",
+      "title": "Nurix_Ksol_Dilution_Plate_Automation_PDF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Nurix_Ksol_Dilution_Plate_Automation_PDF.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-spectramax-plate-reader-plate-reader-solubility-pptx",
+      "sha16": "86043f8ea2908a98",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-spectramax-plate-reader-plate-reader-solubility-pptx.md",
+      "title": "Plate Reader Solubility",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Plate Reader/SpectraMax Plate Reader/Plate Reader Solubility.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-tecan-plate-reader-a-combination-turbidity-and-supernatant-s-299a1a2fc6",
+      "sha16": "1df872a96569461f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-tecan-plate-reader-a-combination-turbidity-and-supernatant-s-299a1a2fc6.md",
+      "title": "A_Combination_Turbidity_and_Supernatant solubility",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Plate Reader/Tecan Plate Reader/A_Combination_Turbidity_and_Supernatant solubility.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay---group-meeting-10-4-2023-pptx",
+      "sha16": "61325debd07a7ca5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay---group-meeting-10-4-2023-pptx.md",
+      "title": "KSOL Assay - Group meeting 10.4.2023",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Presentations/KSOL Assay - Group meeting 10.4.2023.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay---mac-meeting-pptx",
+      "sha16": "53d73c649f9ca181",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay---mac-meeting-pptx.md",
+      "title": "KSOL Assay - MAC Meeting",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Presentations/KSOL Assay - MAC Meeting.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay---mac-meeting-practice-p-drive-pptx",
+      "sha16": "e19179bf4f25f69b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay---mac-meeting-practice-p-drive-pptx.md",
+      "title": "KSOL Assay - MAC Meeting Practice P Drive",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Presentations/KSOL Assay - MAC Meeting Practice P Drive.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay---mac-meeting-practice-pptx",
+      "sha16": "aadace68453455ba",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay---mac-meeting-practice-pptx.md",
+      "title": "KSOL Assay - MAC Meeting Practice",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Presentations/KSOL Assay - MAC Meeting Practice.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay-pptx",
+      "sha16": "9d7bdd003d31b39d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-ksol-assay-pptx.md",
+      "title": "KSOL Assay",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Presentations/KSOL Assay.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-plate-reader-solubility-assay-updates-1-pptx",
+      "sha16": "5e50adbc8d80643e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-plate-reader-solubility-assay-updates-1-pptx.md",
+      "title": "Plate Reader Solubility Assay Updates_1",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Presentations/Plate Reader Solubility Assay Updates_1.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-plate-reader-solubility-assay-updates-30aug2023-pptx",
+      "sha16": "0ebf2a2067b5d0de",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-presentations-plate-reader-solubility-assay-updates-30aug2023-pptx.md",
+      "title": "Plate Reader Solubility Assay Updates_30Aug2023",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/Presentations/Plate Reader Solubility Assay Updates_30Aug2023.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-a-combination-turbidity-and-supernatant-solubility-pdf",
+      "sha16": "1df872a96569461f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-a-combination-turbidity-and-supernatant-solubility-pdf.md",
+      "title": "A_Combination_Turbidity_and_Supernatant solubility",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/A_Combination_Turbidity_and_Supernatant solubility.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-a-combination-turbidity-and-supernatant-solubility-pdf",
+      "sha16": "1df872a96569461f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-a-combination-turbidity-and-supernatant-solubility-pdf.md",
+      "title": "A_Combination_Turbidity_and_Supernatant solubility",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/A_Combination_Turbidity_and_Supernatant solubility.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-kinetic-solubility-qhtp-microplate-assay-protocol-docx",
+      "sha16": "f9a2cfaca4cf5e18",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-kinetic-solubility-qhtp-microplate-assay-protocol-docx.md",
+      "title": "Kinetic Solubility qHTP Microplate Assay protocol",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Kinetic Solubility qHTP Microplate Assay protocol.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nx-5948-cmc-21-007-pka-solubility-logd-1-pdf",
+      "sha16": "9fbc2021b372681f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nx-5948-cmc-21-007-pka-solubility-logd-1-pdf.md",
+      "title": "NX-5948-CMC-21-007_pKa solubility logD (1)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/NX-5948-CMC-21-007_pKa solubility logD (1).pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nx-5948-cmc-21-007-pka-solubility-logd-pdf",
+      "sha16": "960de2e8dc097cbf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nx-5948-cmc-21-007-pka-solubility-logd-pdf.md",
+      "title": "NX-5948-CMC-21-007_pKa solubility logD",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/NX-5948-CMC-21-007_pKa solubility logD.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quintara-discovery-thermodynamic-solubility-assay-protocol-1-pdf",
+      "sha16": "40f414b059b06c7d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quintara-discovery-thermodynamic-solubility-assay-protocol-1-pdf.md",
+      "title": "Quintara Discovery Thermodynamic Solubility Assay Protocol (1)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quintara Discovery Thermodynamic Solubility Assay Protocol (1).pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quintara-discovery-thermodynamic-solubility-assay-protocol-pdf",
+      "sha16": "5d3bad65e5d4a724",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quintara-discovery-thermodynamic-solubility-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Thermodynamic Solubility Assay Protocol",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quintara Discovery Thermodynamic Solubility Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-kinetic-solubility-qhtp-microplate-assay-protocol-docx",
+      "sha16": "e5c93fdd63474f7d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-kinetic-solubility-qhtp-microplate-assay-protocol-docx.md",
+      "title": "Kinetic Solubility qHTP Microplate Assay protocol",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Kinetic Solubility qHTP Microplate Assay protocol.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-meeting-materials-turbidimetric-solubility-assay-protocolfinal-tes-883ba15a02",
+      "sha16": "f89a4847d7a689f4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-meeting-materials-turbidimetric-solubility-assay-protocolfinal-tes-883ba15a02.md",
+      "title": "Turbidimetric solubility assay protocolFinal Test ArticleConcentration",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/meeting materials/Turbidimetric solubility assay protocolFinal Test ArticleConcentration.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-solubility-and-stability-of-snf05-ctms-in-assay-media-pptx",
+      "sha16": "81558ff45c9e8e2d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-solubility-and-stability-of-snf05-ctms-in-assay-media-pptx.md",
+      "title": "Solubility and stability of SNF05 CTMs in assay media",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/Solubility and stability of SNF05 CTMs in assay media.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-backup-tecan-data-files-tecan-plate-reader-breanna-a-combination-turbidity-and-supernatant-solubility-pdf",
+      "sha16": "1df872a96569461f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-backup-tecan-data-files-tecan-plate-reader-breanna-a-combination-turbidity-and-supernatant-solubility-pdf.md",
+      "title": "A_Combination_Turbidity_and_Supernatant solubility",
+      "source_id": "Analytical Chemistry/Jon K - Public/backup/TECAN Data Files/Tecan Plate Reader Breanna/A_Combination_Turbidity_and_Supernatant solubility.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    }
+  ]
+}

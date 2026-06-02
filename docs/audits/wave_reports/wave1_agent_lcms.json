@@ -1,0 +1,12 @@
+{
+  "agent": "lcms-and-hplc-methods",
+  "pages": ["ask_jojo_wiki/methods/hplc-pka-determination-dual-ph-gradient.md","ask_jojo_wiki/methods/hplc-logd-and-lipophilicity-methods.md","ask_jojo_wiki/methods/hplc-cad-quantitation-and-counterion-ic.md","ask_jojo_wiki/methods/hplc-uhplc-instrumentation-procurement.md"],
+  "n_covered": 37,
+  "n_reclassed": 3,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-software-development-kit-techn-0800d1be33","bucket":"software_confirmed"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-refurbished-quote-qu091322-1663076865-keller-thermo-uhplc-vwd-cad-pdf","bucket":"duplicate_of_already_absorbed"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-horizon-quote-keller-thermo-uhplc-vwd-cad-pdf","bucket":"duplicate_of_already_absorbed"}
+  ],
+  "notes": "4 pages: pKa dual-pH gradient, LogD/lipophilicity, CAD/IC counterion, UHPLC procurement. 1 software-only and 2 duplicate quote entries dropped."
+}

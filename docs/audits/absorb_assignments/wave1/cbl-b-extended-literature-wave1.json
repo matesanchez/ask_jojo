@@ -1,0 +1,369 @@
+{
+  "assignment": "cbl-b-extended-literature-wave1",
+  "wiki_dir": "references",
+  "topic_key": "cbl-b-additional",
+  "wave": "wave1",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/references/. Group by sub-topic; do NOT create one page per entry. If you encounter an entry that is actually personal/software/blank/mechanical-only, drop it and list in reclassified_out.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf",
+      "sha16": "0b532a2af45183ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf.md",
+      "title": "Deletion of Cbl-b inhibits CD8+",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Deletion of Cbl-b inhibits CD8+.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-and-cbl-b-in-t-cell-pdf",
+      "sha16": "7bd578e5a0dd6703",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-and-cbl-b-in-t-cell-pdf.md",
+      "title": "Cbl and Cbl-b in T-cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Cbl and Cbl-b in T-cell.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-and-cbl-b-in-t-cell-regulation-pdf",
+      "sha16": "775a01839307a588",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-and-cbl-b-in-t-cell-regulation-pdf.md",
+      "title": "Cbl and Cbl-b in T-cell regulation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Cbl and Cbl-b in T-cell regulation.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-b-is-a-negative-pdf",
+      "sha16": "8c675172117c6f12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-b-is-a-negative-pdf.md",
+      "title": "Cbl-b is a negative",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Cbl-b is a negative.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-cblb-aacr-2021-v4-003-pptx",
+      "sha16": "cf99479ba31cf940",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-cblb-aacr-2021-v4-003-pptx.md",
+      "title": "CBLB AACR 2021 v4 (003)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/CBLB AACR 2021 v4 (003).pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-cbl-b-deficiency-prevents-functional-but-not-phenotypic-t-cell-anergy-pdf",
+      "sha16": "d102f23e965f304f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-cbl-b-deficiency-prevents-functional-but-not-phenotypic-t-cell-anergy-pdf.md",
+      "title": "Cbl-b deficiency prevents functional but not phenotypic T cell anergy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Cbl-b deficiency prevents functional but not phenotypic T cell anergy.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf",
+      "sha16": "0b532a2af45183ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf.md",
+      "title": "Deletion of Cbl-b inhibits CD8+",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Deletion of Cbl-b inhibits CD8+.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-overproduction-of-ifng-by-cbl-bdeficient-cd8-t-cells-ohashi-2022-pdf",
+      "sha16": "4eb0e086151bbdfe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-overproduction-of-ifng-by-cbl-bdeficient-cd8-t-cells-ohashi-2022-pdf.md",
+      "title": "Overproduction of IFNg by Cbl-bDeficient CD8\u00fe T Cells.Ohashi.2022",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Overproduction of IFNg by Cbl-bDeficient CD8\u00fe T Cells.Ohashi.2022.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx",
+      "sha16": "f72604b29f8c7057",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx.md",
+      "title": "Slide for CBLB and cCBL DC-NK_crosstalkstory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/Slide for CBLB and cCBL DC-NK_crosstalkstory.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx",
+      "sha16": "371844ac71aa4f0c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx.md",
+      "title": "Slide for CBLB and cCBL DC-NK_crosstalkstory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Slide for CBLB and cCBL DC-NK_crosstalkstory.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf",
+      "sha16": "0148b12403956890",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf.md",
+      "title": "Abrogating Cbl-b in effector CD8",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Abrogating Cbl-b in effector CD8.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-pkc--modulates-the-strength-of-t-cell-responses-by-targeting-cbl-b-for-ubiquitination-and-degradation-pdf",
+      "sha16": "3daf004b9bd8d8d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-pkc--modulates-the-strength-of-t-cell-responses-by-targeting-cbl-b-for-ubiquitination-and-degradation-pdf.md",
+      "title": "PKC-\u03b8 Modulates the Strength of T Cell Responses by Targeting Cbl-b for Ubiquitination and Degradation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/PKC-\u03b8 Modulates the Strength of T Cell Responses by Targeting Cbl-b for Ubiquitination and Degradation.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-tyrosine-phosphorylation-and-complex-formation-of-cbl-b-upon-t-cell-pdf",
+      "sha16": "8475259a6b2fb67b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-tyrosine-phosphorylation-and-complex-formation-of-cbl-b-upon-t-cell-pdf.md",
+      "title": "Tyrosine phosphorylation and complex formation of Cbl-b upon T cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Tyrosine phosphorylation and complex formation of Cbl-b upon T cell.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-c-cbl-targets-pd-1-in-immune-cells-pdf",
+      "sha16": "bc1e5a5f8ec8bc29",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-c-cbl-targets-pd-1-in-immune-cells-pdf.md",
+      "title": "c-Cbl targets PD-1 in immune cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/c-Cbl targets PD-1 in immune cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-cbl-and-cbl-b-in-t-cell-pdf",
+      "sha16": "7bd578e5a0dd6703",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-cbl-and-cbl-b-in-t-cell-pdf.md",
+      "title": "Cbl and Cbl-b in T-cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/Cbl and Cbl-b in T-cell.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-cbl-and-cbl-b-in-t-cell-regulation-pdf",
+      "sha16": "775a01839307a588",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-cbl-and-cbl-b-in-t-cell-regulation-pdf.md",
+      "title": "Cbl and Cbl-b in T-cell regulation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/Cbl and Cbl-b in T-cell regulation.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-cbl-b-is-a-negative-pdf",
+      "sha16": "8c675172117c6f12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-cbl-b-is-a-negative-pdf.md",
+      "title": "Cbl-b is a negative",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/Cbl-b is a negative.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-cblb-aacr-2021-v4-003-pptx",
+      "sha16": "cf99479ba31cf940",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-cblb-aacr-2021-v4-003-pptx.md",
+      "title": "CBLB AACR 2021 v4 (003)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/CBLB AACR 2021 v4 (003).pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-cbl-b-deficiency-prevents-functional-but-not-phenotypic-t-cell-anergy-pdf",
+      "sha16": "d102f23e965f304f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-cbl-b-deficiency-prevents-functional-but-not-phenotypic-t-cell-anergy-pdf.md",
+      "title": "Cbl-b deficiency prevents functional but not phenotypic T cell anergy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Cbl-b deficiency prevents functional but not phenotypic T cell anergy.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf",
+      "sha16": "0b532a2af45183ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf.md",
+      "title": "Deletion of Cbl-b inhibits CD8+",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Deletion of Cbl-b inhibits CD8+.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-overproduction-of-ifng-by-cbl-bdeficient-cd8-t-cells-ohashi-2022-pdf",
+      "sha16": "4eb0e086151bbdfe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-overproduction-of-ifng-by-cbl-bdeficient-cd8-t-cells-ohashi-2022-pdf.md",
+      "title": "Overproduction of IFNg by Cbl-bDeficient CD8\u00fe T Cells.Ohashi.2022",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Overproduction of IFNg by Cbl-bDeficient CD8\u00fe T Cells.Ohashi.2022.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx",
+      "sha16": "f72604b29f8c7057",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx.md",
+      "title": "Slide for CBLB and cCBL DC-NK_crosstalkstory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/Slide for CBLB and cCBL DC-NK_crosstalkstory.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx",
+      "sha16": "371844ac71aa4f0c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx.md",
+      "title": "Slide for CBLB and cCBL DC-NK_crosstalkstory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Slide for CBLB and cCBL DC-NK_crosstalkstory.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf",
+      "sha16": "0148b12403956890",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf.md",
+      "title": "Abrogating Cbl-b in effector CD8",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/Abrogating Cbl-b in effector CD8.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-pkc--modulates-the-strength-of-t-cell-responses-by-targeting-cbl-b-for-ubiquitination-and-degradation-pdf",
+      "sha16": "3daf004b9bd8d8d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-pkc--modulates-the-strength-of-t-cell-responses-by-targeting-cbl-b-for-ubiquitination-and-degradation-pdf.md",
+      "title": "PKC-\u03b8 Modulates the Strength of T Cell Responses by Targeting Cbl-b for Ubiquitination and Degradation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/PKC-\u03b8 Modulates the Strength of T Cell Responses by Targeting Cbl-b for Ubiquitination and Degradation.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-tyrosine-phosphorylation-and-complex-formation-of-cbl-b-upon-t-cell-pdf",
+      "sha16": "8475259a6b2fb67b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-tyrosine-phosphorylation-and-complex-formation-of-cbl-b-upon-t-cell-pdf.md",
+      "title": "Tyrosine phosphorylation and complex formation of Cbl-b upon T cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/Tyrosine phosphorylation and complex formation of Cbl-b upon T cell.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-interferon-gamma-overproduction-of-ifng-by-cbl-b-deficient-cd8-t-cells-pdf",
+      "sha16": "ce72d45b6b4c2135",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-interferon-gamma-overproduction-of-ifng-by-cbl-b-deficient-cd8-t-cells-pdf.md",
+      "title": "Overproduction of IFNg by Cbl-b\u2013Deficient CD8\u00fe T Cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Interferon Gamma/Overproduction of IFNg by Cbl-b\u2013Deficient CD8\u00fe T Cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-cbl-b-and-nk-cells-journal-club-19feb21-final-pptx",
+      "sha16": "a21da5b306749c93",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-cbl-b-and-nk-cells-journal-club-19feb21-final-pptx.md",
+      "title": "Cbl-b and NK cells_Journal_Club_19FEB21_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Cbl-b and NK cells_Journal_Club_19FEB21_Final.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-cbl-b-affects-on-nk-cells-with-supplementary-pdf",
+      "sha16": "5399e2c26bd74cb8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-cbl-b-affects-on-nk-cells-with-supplementary-pdf.md",
+      "title": "cbl-b affects on nk cells with supplementary ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/cbl-b affects on nk cells with supplementary .pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-cbl-b-and-nk-cells-journal-club-19feb21-pptx",
+      "sha16": "7cbe7e53bb1d9c2a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-cbl-b-and-nk-cells-journal-club-19feb21-pptx.md",
+      "title": "Cbl-b and NK cells_Journal_Club_19FEB21",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/Cbl-b and NK cells_Journal_Club_19FEB21.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-cbl-b-is-upregulated-and-plays-a-negative-role-in-activated-human-nk-cells-pdf",
+      "sha16": "cf5927e16f32784b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-cbl-b-is-upregulated-and-plays-a-negative-role-in-activated-human-nk-cells-pdf.md",
+      "title": "Cbl-b Is Upregulated and Plays a Negative Role in Activated Human NK Cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/Cbl-b Is Upregulated and Plays a Negative Role in Activated Human NK Cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-desktop-011921-1-cbl-b-is-upregulated-and-plays-a-negative-role-in-activated-human-nk-cells-pdf",
+      "sha16": "cf5927e16f32784b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-desktop-011921-1-cbl-b-is-upregulated-and-plays-a-negative-role-in-activated-human-nk-cells-pdf.md",
+      "title": "Cbl-b Is Upregulated and Plays a Negative Role in Activated Human NK Cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/Desktop 011921 (1)/Cbl-b Is Upregulated and Plays a Negative Role in Activated Human NK Cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-cbl-b-and-nk-cells-journal-club-19feb21-final-pptx",
+      "sha16": "67629e9e1bf4de12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-cbl-b-and-nk-cells-journal-club-19feb21-final-pptx.md",
+      "title": "Cbl-b and NK cells_Journal_Club_19FEB21_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Cbl-b and NK cells_Journal_Club_19FEB21_Final.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-cbl-bko-resistance-to-tregs-and-tgf-beta-pdf",
+      "sha16": "bdb8ccf15020da9e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-cbl-bko-resistance-to-tregs-and-tgf-beta-pdf.md",
+      "title": "Cbl-bKO resistance to Tregs and TGF-Beta",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Cbl-bKO resistance to Tregs and TGF-Beta.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-cblb-deficient-t-cells-are-less-susceptible-to-pd-l1-mediated-pdf",
+      "sha16": "5c7c98642c3f69b5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-cblb-deficient-t-cells-are-less-susceptible-to-pd-l1-mediated-pdf.md",
+      "title": "Cblb-deficient T cells are less susceptible to PD-L1-mediated",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Cblb-deficient T cells are less susceptible to PD-L1-mediated.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-role-of-the-e3-ligase-cbl-b-in-mouse-dc-pdf",
+      "sha16": "1d09e7b030b46439",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-role-of-the-e3-ligase-cbl-b-in-mouse-dc-pdf.md",
+      "title": "Role of the E3 Ligase Cbl-B in mouse DC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Cbl/Role of the E3 Ligase Cbl-B in mouse DC.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-spontaneous-tumor-rejection-by-cbl-b-defi-cient-paper-pdf",
+      "sha16": "7e30200ba6c97fd5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-spontaneous-tumor-rejection-by-cbl-b-defi-cient-paper-pdf.md",
+      "title": "Spontaneous tumor rejection by cbl-b\u2013defi cient Paper",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Cbl/Spontaneous tumor rejection by cbl-b\u2013defi cient Paper.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-overproduction-of-il-2-by-cbl-b-deficient-cd4-t-cells-provides-resistance-against-regulatory-t-cells-pdf",
+      "sha16": "87c257d0d6885a20",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-overproduction-of-il-2-by-cbl-b-deficient-cd4-t-cells-provides-resistance-against-regulatory-t-cells-pdf.md",
+      "title": "Overproduction of IL 2 by Cbl b deficient CD4 T cells provides resistance against regulatory T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Overproduction of IL 2 by Cbl b deficient CD4 T cells provides resistance against regulatory T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-spontaneous-tumor-rejection-by-cbl-b-deficient-pdf",
+      "sha16": "4607e6be199ebc78",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-spontaneous-tumor-rejection-by-cbl-b-deficient-pdf.md",
+      "title": "Spontaneous tumor rejection by cbl-b\u2013deficient",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Spontaneous tumor rejection by cbl-b\u2013deficient.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-resistance-to-cd4cd25-regulatroy-t-cells-and-tgf-beta-in-cbl-b-ko-mice-pdf",
+      "sha16": "f1277258b867081d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-resistance-to-cd4cd25-regulatroy-t-cells-and-tgf-beta-in-cbl-b-ko-mice-pdf.md",
+      "title": "Resistance to CD4CD25 regulatroy T cells and TGF-Beta in Cbl-b KO mice",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Cbl/Resistance to CD4CD25 regulatroy T cells and TGF-Beta in Cbl-b KO mice.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "assignment": "checkpoint-inhibitor-literature-wave1",
+  "wiki_dir": "references",
+  "topic_key": "checkpoint-inhibitors",
+  "wave": "wave1",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/references/. Group by sub-topic; do NOT create one page per entry. If you encounter an entry that is actually personal/software/blank/mechanical-only, drop it and list in reclassified_out.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx",
+      "sha16": "eff1d6c7bace1c2f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx.md",
+      "title": "Nurix_063_ CT26_1607+ anti-PD1 + anti-TIGIT_Protocol_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Nurix_063_ CT26_1607+ anti-PD1 + anti-TIGIT_Protocol_Final.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-pptx",
+      "sha16": "9949084b8ec9a2a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-v2-pptx",
+      "sha16": "f2b4985bf81a5aea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-v2-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final V2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final V2.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-pptx",
+      "sha16": "4645d112c9817103",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-pdf",
+      "sha16": "e36aa166738c8524",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-pdf.md",
+      "title": "PD-1 combination therapy with IL-2 modifies",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-with-il-2-pdf",
+      "sha16": "f383e071d383624b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-with-il-2-pdf.md",
+      "title": "PD-1 combination with IL-2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination with IL-2.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-stemlike-cd8-t-cells-are-resident-in-lymphoid-tissues-during-persistent-lcmv-infection-pdf",
+      "sha16": "0eaf44a393105825",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-stemlike-cd8-t-cells-are-resident-in-lymphoid-tissues-during-persistent-lcmv-infection-pdf.md",
+      "title": "PD-1+ stemlike CD8 T cells are resident in lymphoid tissues during persistent LCMV infection",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1+ stemlike CD8 T cells are resident in lymphoid tissues during persistent LCMV infection.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-arid1a-mutation-plus-cxcl13-expression-act-as-combinatorial-biomarkers-to-predict-responses-to-immune-checkpoint-therapy-in-mucc-pdf",
+      "sha16": "57fe4248a2cd31be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-arid1a-mutation-plus-cxcl13-expression-act-as-combinatorial-biomarkers-to-predict-responses-to-immune-checkpoint-therapy-in-mucc-pdf.md",
+      "title": "ARID1A mutation plus CXCL13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mUCC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/ARID1A mutation plus CXCL13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mUCC.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf",
+      "sha16": "166f9272ca1a1e17",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf.md",
+      "title": "IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-intratumoral-injection-of-a-cpg-oligonucleotidereverts-resistance-to-pd-1-blockade-by-expandingmultifunctional-cd8-t-cells-pdf",
+      "sha16": "e7b02669ad6313c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-intratumoral-injection-of-a-cpg-oligonucleotidereverts-resistance-to-pd-1-blockade-by-expandingmultifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotidereverts resistance to PD-1 blockade by expandingmultifunctional CD8+T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/Intratumoral injection of a CpG oligonucleotidereverts resistance to PD-1 blockade by expandingmultifunctional CD8+T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-rescue-of-exhausted-cd8-t-cellsby-pd-1-targeted-therapies-iscd28-dependent-pdf",
+      "sha16": "23fb1f89f15f3998",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-rescue-of-exhausted-cd8-t-cellsby-pd-1-targeted-therapies-iscd28-dependent-pdf.md",
+      "title": "Rescue of exhausted CD8 T cellsby PD-1\u2013targeted therapies isCD28-dependent",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/Rescue of exhausted CD8 T cellsby PD-1\u2013targeted therapies isCD28-dependent.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf",
+      "sha16": "ff7cbe3dea6c1f30",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf.md",
+      "title": "Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf",
+      "sha16": "420739739ced5a8f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf.md",
+      "title": "LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf",
+      "sha16": "420739739ced5a8f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-lsd1-ablation-stimulates-anti-tumor-immunity-and-enables-checkpoint-blockade-pdf.md",
+      "title": "LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/LSD1 Ablation stimulates anti-tumor immunity and enables checkpoint blockade.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-simultaneous-inhibition-of-lsd1-and-tgf-enables-eradication-of-poorly-immunogenic-tumors-with-anti-pd-1-treatment-pdf",
+      "sha16": "6a5971038dcd6713",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-simultaneous-inhibition-of-lsd1-and-tgf-enables-eradication-of-poorly-immunogenic-tumors-with-anti-pd-1-treatment-pdf.md",
+      "title": "Simultaneous Inhibition of LSD1 and TGF\u03b2 Enables Eradication of Poorly Immunogenic Tumors with Anti-PD-1 Treatment",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/Simultaneous Inhibition of LSD1 and TGF\u03b2 Enables Eradication of Poorly Immunogenic Tumors with Anti-PD-1 Treatment.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-t-cell-costimulatory-receptor-cd28-is-a-primary-target-for-pd-1-mediated-inhibition-pdf",
+      "sha16": "fc080484a96d8ee5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-t-cell-costimulatory-receptor-cd28-is-a-primary-target-for-pd-1-mediated-inhibition-pdf.md",
+      "title": "T cell costimulatory receptor CD28 is a primary target for PD-1\u2013mediated inhibition",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/T cell costimulatory receptor CD28 is a primary target for PD-1\u2013mediated inhibition.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf",
+      "sha16": "a08861f168276dfa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf",
+      "sha16": "a08861f168276dfa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-intratumoral-injection-of-a-cpg-oligonucleotide-reverts-resistance-to-pd-1-blockade-by-expanding-multifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Intratumoral injection of a CpG oligonucleotide reverts resistance to PD-1 blockade by expanding multifunctional CD8+ T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-blockade-of-the-checkpoint-receptor-tigit-prevents-nk-cell-exhaustion-and-elicits-potent-anti-tumor-immunity-pdf",
+      "sha16": "cfad6be1da2554fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-blockade-of-the-checkpoint-receptor-tigit-prevents-nk-cell-exhaustion-and-elicits-potent-anti-tumor-immunity-pdf.md",
+      "title": "Blockade of the checkpoint receptor TIGIT prevents NK cell exhaustion and elicits potent anti-tumor immunity",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 23MAY23/Flow computer Desktop/Blockade of the checkpoint receptor TIGIT prevents NK cell exhaustion and elicits potent anti-tumor immunity.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-pd-1-expression-by-tumor-associated-macrophages-inhibits-phagocytosis-and-tumor-immunity-pdf",
+      "sha16": "8125368813b9985d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-pd-1-expression-by-tumor-associated-macrophages-inhibits-phagocytosis-and-tumor-immunity-pdf.md",
+      "title": "PD-1 expression by tumor-associated macrophages inhibits phagocytosis and tumor immunity",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 23MAY23/Flow computer Desktop/PD-1 expression by tumor-associated macrophages inhibits phagocytosis and tumor immunity.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-mechanistic-convergence-of-the-tigit-and-pd-1-pdf",
+      "sha16": "3952eba107130488",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-mechanistic-convergence-of-the-tigit-and-pd-1-pdf.md",
+      "title": "Mechanistic convergence of the TIGIT and PD-1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/24AUG22/Mechanistic convergence of the TIGIT and PD-1.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-pd-1-expression-by-tumour-associated-macrophages-pdf",
+      "sha16": "1b8bebf90f166b35",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-pd-1-expression-by-tumour-associated-macrophages-pdf.md",
+      "title": "PD-1 expression by tumour-associated macrophages",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/PD-1 expression by tumour-associated macrophages.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-dual-blockage-of-both-pd-l1-and-cd47-pdf",
+      "sha16": "0aa0181ab8e96893",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-dual-blockage-of-both-pd-l1-and-cd47-pdf.md",
+      "title": "Dual blockage of both PD-L1 and CD47",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Dual blockage of both PD-L1 and CD47.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-functional-hpv-specific-pd-1-tcf1-pdf",
+      "sha16": "b9abaf3fa61daa10",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-functional-hpv-specific-pd-1-tcf1-pdf.md",
+      "title": "Functional HPV-specific PD-1+TCF1+",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/Functional HPV-specific PD-1+TCF1+.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-the-pd-1-pd-l1-checkpoint-restrains-t-cell-pdf",
+      "sha16": "8c9b1ff60b2353d6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-the-pd-1-pd-l1-checkpoint-restrains-t-cell-pdf.md",
+      "title": "The PD-1_PD-L1-Checkpoint Restrains T cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/The PD-1_PD-L1-Checkpoint Restrains T cell.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx",
+      "sha16": "eff1d6c7bace1c2f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx.md",
+      "title": "Nurix_063_ CT26_1607+ anti-PD1 + anti-TIGIT_Protocol_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Nurix_063_ CT26_1607+ anti-PD1 + anti-TIGIT_Protocol_Final.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-intralesional-sd-101-in-combinationwithpembrolizumab-in-anti-pd-1-treatment-pdf",
+      "sha16": "d8f695445c719452",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-intralesional-sd-101-in-combinationwithpembrolizumab-in-anti-pd-1-treatment-pdf.md",
+      "title": "Intralesional SD-101 in CombinationwithPembrolizumab in Anti-PD-1 Treatment",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Intralesional SD-101 in CombinationwithPembrolizumab in Anti-PD-1 Treatment.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-pdf",
+      "sha16": "ff49ecf8393b01ac",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-pdf.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-003-pptx",
+      "sha16": "1724b7dd886201fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-003-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final (003)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final (003).pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-pptx",
+      "sha16": "9949084b8ec9a2a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-v2-pptx",
+      "sha16": "f2b4985bf81a5aea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-v2-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final V2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final V2.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-pptx",
+      "sha16": "4645d112c9817103",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-pdf",
+      "sha16": "e36aa166738c8524",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-pdf.md",
+      "title": "PD-1 combination therapy with IL-2 modifies",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-with-il-2-pdf",
+      "sha16": "f383e071d383624b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-with-il-2-pdf.md",
+      "title": "PD-1 combination with IL-2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination with IL-2.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-stemlike-cd8-t-cells-are-resident-in-lymphoid-tissues-during-persistent-lcmv-infection-pdf",
+      "sha16": "0eaf44a393105825",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-stemlike-cd8-t-cells-are-resident-in-lymphoid-tissues-during-persistent-lcmv-infection-pdf.md",
+      "title": "PD-1+ stemlike CD8 T cells are resident in lymphoid tissues during persistent LCMV infection",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1+ stemlike CD8 T cells are resident in lymphoid tissues during persistent LCMV infection.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-arid1a-mutation-plus-cxcl13-expression-act-as-combinatorial-biomarkers-to-predict-responses-to-immune-checkpoint-therapy-in-mucc-pdf",
+      "sha16": "57fe4248a2cd31be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-arid1a-mutation-plus-cxcl13-expression-act-as-combinatorial-biomarkers-to-predict-responses-to-immune-checkpoint-therapy-in-mucc-pdf.md",
+      "title": "ARID1A mutation plus CXCL13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mUCC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/ARID1A mutation plus CXCL13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mUCC.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf",
+      "sha16": "166f9272ca1a1e17",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf.md",
+      "title": "IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-intratumoral-injection-of-a-cpg-oligonucleotidereverts-resistance-to-pd-1-blockade-by-expandingmultifunctional-cd8-t-cells-pdf",
+      "sha16": "e7b02669ad6313c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-intratumoral-injection-of-a-cpg-oligonucleotidereverts-resistance-to-pd-1-blockade-by-expandingmultifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotidereverts resistance to PD-1 blockade by expandingmultifunctional CD8+T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Intratumoral injection of a CpG oligonucleotidereverts resistance to PD-1 blockade by expandingmultifunctional CD8+T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-rescue-of-exhausted-cd8-t-cellsby-pd-1-targeted-therapies-iscd28-dependent-pdf",
+      "sha16": "23fb1f89f15f3998",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-rescue-of-exhausted-cd8-t-cellsby-pd-1-targeted-therapies-iscd28-dependent-pdf.md",
+      "title": "Rescue of exhausted CD8 T cellsby PD-1\u2013targeted therapies isCD28-dependent",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Rescue of exhausted CD8 T cellsby PD-1\u2013targeted therapies isCD28-dependent.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf",
+      "sha16": "ff7cbe3dea6c1f30",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf.md",
+      "title": "Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    }
+  ]
+}

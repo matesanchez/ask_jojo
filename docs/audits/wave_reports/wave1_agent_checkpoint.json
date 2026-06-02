@@ -1,0 +1,11 @@
+{
+  "agent": "checkpoint-inhibitor-literature",
+  "pages": ["ask_jojo_wiki/references/pd-1-il-2-combination-therapy-literature.md","ask_jojo_wiki/references/exhausted-cd8-t-cell-subsets-icb-literature.md","ask_jojo_wiki/references/cd28-costimulation-pd-1-therapy-literature.md","ask_jojo_wiki/references/tigit-nk-cell-checkpoint-literature.md","ask_jojo_wiki/references/icb-response-resistance-reversal-literature.md"],
+  "n_covered": 37,
+  "n_reclassed": 2,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx","bucket":"protocol"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx","bucket":"protocol"}
+  ],
+  "notes": "5 pages, 37 entries covered, 2 Nurix-063 protocol docs reclassified."
+}

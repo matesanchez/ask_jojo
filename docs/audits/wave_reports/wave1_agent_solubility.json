@@ -1,0 +1,23 @@
+{
+  "agent": "solubility-assays",
+  "pages": ["ask_jojo_wiki/methods/kinetic-solubility-ksol.md","ask_jojo_wiki/methods/biorelevant-media-fassif-fessif-fassgf.md","ask_jojo_wiki/methods/plate-reader-solubility-assay.md","ask_jojo_wiki/methods/pion-sirius-physchem-pka-solubility-logp.md"],
+  "n_covered": 26,
+  "n_reclassed": 14,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk-26-smarca2-n-a-nrx-0409172-005-aa-sgf-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-ar-003093-wk13-nr4a1-ksol-pbs-cr-002043-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-ar-003093-wk13-nr4a1-ksol-pbs-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-nrx-0431538-001-aa-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-nrx-0431762-001-cf-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-wk13-nr4a1-ksol-pbs-stds-cr-002043-ar-003093-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk20-20230519-irf5-ksol-pbs-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk21-wk21-nr4a1-ksol-pbs-2023-may-27-ksol-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk22-2023-may-31-ksol-wk22-hpk1-ksol-ar-003441-cr-002557-p-8d90ef5e8d","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk22-wk22-bcatenin-ksol-pbs-ar-003503-ar-003680-wk22-bcate-86b15dd3d5","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk29-usp18-snf07-wk30-ksol-usp18-pbs-gly-buffer-raw-data-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk31-irf5-bcatenin-pbs-wk31-ksol-irf5-bcatenin-pdf","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk31-irf5-bcatenin-pbs-wk31-ksol-irf5-bcatenin-wk32-ksol-i-2d0707f037","bucket":"raw-data"},
+    {"entry_id":"publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-irf5-ksol-ar-005042-01-pdf","bucket":"raw-data"}
+  ],
+  "notes": "4 pages, 26 entries covered, 14 raw-data weekly chromatograms dropped."
+}

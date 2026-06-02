@@ -1,0 +1,264 @@
+{
+  "wave": "wave1",
+  "agents": [
+    {
+      "agent": "cbl-b-extended-literature",
+      "pages": [
+        "ask_jojo_wiki/references/cbl-b-and-nk-cell-biology.md",
+        "ask_jojo_wiki/references/cbl-b-treg-and-tgf-beta-resistance.md",
+        "ask_jojo_wiki/references/cbl-b-foundational-tumor-rejection-genetics.md",
+        "ask_jojo_wiki/references/cbl-b-in-dendritic-cells.md"
+      ],
+      "n_covered": 40,
+      "n_reclassed": 0,
+      "reclassified_out": [],
+      "notes": "4 pages: NK biology, Treg/TGF-beta resistance, foundational tumor-rejection genetics, DC biology."
+    },
+    {
+      "agent": "checkpoint-inhibitor-literature",
+      "pages": [
+        "ask_jojo_wiki/references/pd-1-il-2-combination-therapy-literature.md",
+        "ask_jojo_wiki/references/exhausted-cd8-t-cell-subsets-icb-literature.md",
+        "ask_jojo_wiki/references/cd28-costimulation-pd-1-therapy-literature.md",
+        "ask_jojo_wiki/references/tigit-nk-cell-checkpoint-literature.md",
+        "ask_jojo_wiki/references/icb-response-resistance-reversal-literature.md"
+      ],
+      "n_covered": 37,
+      "n_reclassed": 2,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx",
+          "bucket": "protocol"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx",
+          "bucket": "protocol"
+        }
+      ],
+      "notes": "5 pages, 37 entries covered, 2 Nurix-063 protocol docs reclassified."
+    },
+    {
+      "agent": "lcms-and-hplc-methods",
+      "pages": [
+        "ask_jojo_wiki/methods/hplc-pka-determination-dual-ph-gradient.md",
+        "ask_jojo_wiki/methods/hplc-logd-and-lipophilicity-methods.md",
+        "ask_jojo_wiki/methods/hplc-cad-quantitation-and-counterion-ic.md",
+        "ask_jojo_wiki/methods/hplc-uhplc-instrumentation-procurement.md"
+      ],
+      "n_covered": 37,
+      "n_reclassed": 3,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-software-development-kit-techn-0800d1be33",
+          "bucket": "software_confirmed"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-refurbished-quote-qu091322-1663076865-keller-thermo-uhplc-vwd-cad-pdf",
+          "bucket": "duplicate_of_already_absorbed"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-horizon-quote-keller-thermo-uhplc-vwd-cad-pdf",
+          "bucket": "duplicate_of_already_absorbed"
+        }
+      ],
+      "notes": "4 pages: pKa dual-pH gradient, LogD/lipophilicity, CAD/IC counterion, UHPLC procurement. 1 software-only and 2 duplicate quote entries dropped."
+    },
+    {
+      "agent": "pk-adme",
+      "pages": [
+        "ask_jojo_wiki/methods/charles-river-adme-request-workflow.md",
+        "ask_jojo_wiki/methods/quintara-adme-assay-menu.md",
+        "ask_jojo_wiki/methods/compound-pka-measurement-archive.md",
+        "ask_jojo_wiki/methods/metabolite-identification-by-hepatocyte-incubation.md",
+        "ask_jojo_wiki/methods/biomimetic-chromatography-iam-mbpb.md"
+      ],
+      "n_covered": 28,
+      "n_reclassed": 12,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-m8301-60158-m8301-60158-openlab-cs-lts-01-11-media-readme-jpn-pdf",
+          "bucket": "software-installer-readme"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-m8301-60158-m8301-60158-openlab-cs-lts-01-11-media-readme-zh-pdf",
+          "bucket": "software-installer-readme"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-support-ucl-readme-pdf",
+          "bucket": "software-installer-readme"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-test-readme-pdf",
+          "bucket": "software-installer-readme"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-m8490-10006-openlab-cds-2-6-download-setup-tools-support-56062ead50",
+          "bucket": "software-installer-readme"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-packages-16670c57e1",
+          "bucket": "software-installer-readme"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-packages-971ce25f3b",
+          "bucket": "software-installer-readme"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-support-ucl-readme-pdf",
+          "bucket": "software-installer-readme"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-pharmacokinetic-profiling-in-drug-research---biological-physicochemical-and-comput-6e55c64f05",
+          "bucket": "oversized-pdf-pending-resolution"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-adme-guide-pdf",
+          "bucket": "oversized-pdf-pending-resolution"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf",
+          "bucket": "image-only-no-extractable-text"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-nrx-0395948-transporter-assay-cofa-updated-nx-5948-lot-20-oc-fp-345-03262021-signed-pdf",
+          "bucket": "image-only-no-extractable-text"
+        }
+      ],
+      "notes": "5 pages, 28 entries covered, 12 software/oversized/image-only entries dropped."
+    },
+    {
+      "agent": "protein-purification",
+      "actual_topic": "small-molecule HTP / CAD / LogD / pKa / IAM / SFC",
+      "pages": [
+        "ask_jojo_wiki/methods/ht-small-molecule-purification-platform.md",
+        "ask_jojo_wiki/methods/cad-quantitation-for-purification-plates.md",
+        "ask_jojo_wiki/methods/chromatographic-logd-and-pka-assays.md",
+        "ask_jojo_wiki/methods/immobilized-artificial-membrane-chromatography.md",
+        "ask_jojo_wiki/methods/chiral-sfc-purification.md"
+      ],
+      "n_covered": 28,
+      "n_reclassed": 12,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-lyo-23feb2022-zoom-pdf",
+          "bucket": "mechanical-data-only"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-rota-23feb2022-pdf",
+          "bucket": "mechanical-data-only"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-rota-23feb2022-zoom-pdf",
+          "bucket": "mechanical-data-only"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-po-20432-nrx-for-princeton-chromatography-inc-pdf",
+          "bucket": "procurement-record"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-metabolism-of-verapamil-24-new-phase-i-and-phase-a5e3a953c2",
+          "bucket": "literature-pk-metabolism"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-ion-exchange-chromatography-ge-healthcare-pdf",
+          "bucket": "reference-library-generic"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-hydrophobic-interaction-and-reverse-phase-chroma-145d6140aa",
+          "bucket": "reference-library-generic"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-purification-of-biomolecules-tosoh-pdf",
+          "bucket": "reference-library-generic"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-improved-quantitation-of-lipid-classes-using-supe-6e90f352bd",
+          "bucket": "reference-library-generic"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-improved-quantitation-of-lipid-classes-using-supe-7db31472c6",
+          "bucket": "reference-library-generic"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-polarityextendedchromatography-withmassspectromet-a3497c0ebb",
+          "bucket": "reference-library-generic"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-polarityextendedchromatography-withmassspectromet-ea0009e3f3",
+          "bucket": "reference-library-generic"
+        }
+      ],
+      "notes": "5 pages on HTP, CAD, logD/pKa, IAM, chiral SFC. 12 entries declined as mechanical/procurement/generic."
+    },
+    {
+      "agent": "solubility-assays",
+      "pages": [
+        "ask_jojo_wiki/methods/kinetic-solubility-ksol.md",
+        "ask_jojo_wiki/methods/biorelevant-media-fassif-fessif-fassgf.md",
+        "ask_jojo_wiki/methods/plate-reader-solubility-assay.md",
+        "ask_jojo_wiki/methods/pion-sirius-physchem-pka-solubility-logp.md"
+      ],
+      "n_covered": 26,
+      "n_reclassed": 14,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk-26-smarca2-n-a-nrx-0409172-005-aa-sgf-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-ar-003093-wk13-nr4a1-ksol-pbs-cr-002043-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-ar-003093-wk13-nr4a1-ksol-pbs-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-nrx-0431538-001-aa-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-nrx-0431762-001-cf-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk13-ar-003093-wk13-nr4a1-ksol-pbs-stds-cr-002043-ar-003093-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk20-20230519-irf5-ksol-pbs-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk21-wk21-nr4a1-ksol-pbs-2023-may-27-ksol-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk22-2023-may-31-ksol-wk22-hpk1-ksol-ar-003441-cr-002557-p-8d90ef5e8d",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk22-wk22-bcatenin-ksol-pbs-ar-003503-ar-003680-wk22-bcate-86b15dd3d5",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk29-usp18-snf07-wk30-ksol-usp18-pbs-gly-buffer-raw-data-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk31-irf5-bcatenin-pbs-wk31-ksol-irf5-bcatenin-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk31-irf5-bcatenin-pbs-wk31-ksol-irf5-bcatenin-wk32-ksol-i-2d0707f037",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-irf5-ksol-ar-005042-01-pdf",
+          "bucket": "raw-data"
+        }
+      ],
+      "notes": "4 pages, 26 entries covered, 14 raw-data weekly chromatograms dropped."
+    }
+  ]
+}

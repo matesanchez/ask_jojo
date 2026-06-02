@@ -1,0 +1,22 @@
+{
+  "agent": "protein-purification",
+  "actual_topic": "small-molecule HTP / CAD / LogD / pKa / IAM / SFC",
+  "pages": ["ask_jojo_wiki/methods/ht-small-molecule-purification-platform.md","ask_jojo_wiki/methods/cad-quantitation-for-purification-plates.md","ask_jojo_wiki/methods/chromatographic-logd-and-pka-assays.md","ask_jojo_wiki/methods/immobilized-artificial-membrane-chromatography.md","ask_jojo_wiki/methods/chiral-sfc-purification.md"],
+  "n_covered": 28,
+  "n_reclassed": 12,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-lyo-23feb2022-zoom-pdf","bucket":"mechanical-data-only"},
+    {"entry_id":"publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-rota-23feb2022-pdf","bucket":"mechanical-data-only"},
+    {"entry_id":"publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-23feb-nx2127-5ul-in-acn-tfa-repurif-rota-23feb2022-zoom-pdf","bucket":"mechanical-data-only"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-po-20432-nrx-for-princeton-chromatography-inc-pdf","bucket":"procurement-record"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-metabolism-of-verapamil-24-new-phase-i-and-phase-a5e3a953c2","bucket":"literature-pk-metabolism"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-ion-exchange-chromatography-ge-healthcare-pdf","bucket":"reference-library-generic"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-hydrophobic-interaction-and-reverse-phase-chroma-145d6140aa","bucket":"reference-library-generic"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-purification-of-biomolecules-tosoh-pdf","bucket":"reference-library-generic"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-improved-quantitation-of-lipid-classes-using-supe-6e90f352bd","bucket":"reference-library-generic"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-improved-quantitation-of-lipid-classes-using-supe-7db31472c6","bucket":"reference-library-generic"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-polarityextendedchromatography-withmassspectromet-a3497c0ebb","bucket":"reference-library-generic"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-polarityextendedchromatography-withmassspectromet-ea0009e3f3","bucket":"reference-library-generic"}
+  ],
+  "notes": "5 pages on HTP, CAD, logD/pKa, IAM, chiral SFC. 12 entries declined as mechanical/procurement/generic."
+}

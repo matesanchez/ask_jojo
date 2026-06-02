@@ -1,0 +1,21 @@
+{
+  "agent": "pk-adme",
+  "pages": ["ask_jojo_wiki/methods/charles-river-adme-request-workflow.md","ask_jojo_wiki/methods/quintara-adme-assay-menu.md","ask_jojo_wiki/methods/compound-pka-measurement-archive.md","ask_jojo_wiki/methods/metabolite-identification-by-hepatocyte-incubation.md","ask_jojo_wiki/methods/biomimetic-chromatography-iam-mbpb.md"],
+  "n_covered": 28,
+  "n_reclassed": 12,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_analytical-chemistry-amber-g---public-m8301-60158-m8301-60158-openlab-cs-lts-01-11-media-readme-jpn-pdf","bucket":"software-installer-readme"},
+    {"entry_id":"publicdrive_analytical-chemistry-amber-g---public-m8301-60158-m8301-60158-openlab-cs-lts-01-11-media-readme-zh-pdf","bucket":"software-installer-readme"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-support-ucl-readme-pdf","bucket":"software-installer-readme"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-test-readme-pdf","bucket":"software-installer-readme"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-m8490-10006-openlab-cds-2-6-download-setup-tools-support-56062ead50","bucket":"software-installer-readme"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-packages-16670c57e1","bucket":"software-installer-readme"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-packages-971ce25f3b","bucket":"software-installer-readme"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-support-ucl-readme-pdf","bucket":"software-installer-readme"},
+    {"entry_id":"publicdrive_analytical-chemistry-alexandra-t---public-bibliography-pharmacokinetic-profiling-in-drug-research---biological-physicochemical-and-comput-6e55c64f05","bucket":"oversized-pdf-pending-resolution"},
+    {"entry_id":"publicdrive_analytical-chemistry-natalie-d-public-literature-adme-guide-pdf","bucket":"oversized-pdf-pending-resolution"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf","bucket":"image-only-no-extractable-text"},
+    {"entry_id":"publicdrive_analytical-chemistry-natalie-d-public-adme-nrx-0395948-transporter-assay-cofa-updated-nx-5948-lot-20-oc-fp-345-03262021-signed-pdf","bucket":"image-only-no-extractable-text"}
+  ],
+  "notes": "5 pages, 28 entries covered, 12 software/oversized/image-only entries dropped."
+}

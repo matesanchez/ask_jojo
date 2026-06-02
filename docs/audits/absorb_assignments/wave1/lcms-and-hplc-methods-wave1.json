@@ -1,0 +1,369 @@
+{
+  "assignment": "lcms-and-hplc-methods-wave1",
+  "wiki_dir": "methods",
+  "topic_key": "lcms-analytical",
+  "wave": "wave1",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Group by sub-topic; do NOT create one page per entry. If you encounter an entry that is actually personal/software/blank/mechanical-only, drop it and list in reclassified_out.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-20220711-hplc-cad-pka-pptx",
+      "sha16": "cc6b39e7b1375668",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-20220711-hplc-cad-pka-pptx.md",
+      "title": "20220711 HPLC CAD PKA",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/20220711 HPLC CAD PKA.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-hplc-pka-log-d-method-reference-pdf",
+      "sha16": "3e7f2667d99bd930",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-hplc-pka-log-d-method-reference-pdf.md",
+      "title": "hplc pka log D method reference",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/hplc pka log D method reference.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-jef-4422-shoulder-nrx-0404422-lcms-pdf",
+      "sha16": "cc62460dfd14419b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-jef-4422-shoulder-nrx-0404422-lcms-pdf.md",
+      "title": "NRX-0404422_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/Jef 4422 shoulder/NRX-0404422_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-jef-4422-shoulder-nrx-0404423-lcms-pdf",
+      "sha16": "e1aeca1a5cbfa419",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-jef-4422-shoulder-nrx-0404423-lcms-pdf.md",
+      "title": "NRX-0404423_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/Jef 4422 shoulder/NRX-0404423_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-10-1803-eln-10-1803-lcms-20251107081603019-pdf",
+      "sha16": "67acfc689a6f8fac",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-10-1803-eln-10-1803-lcms-20251107081603019-pdf.md",
+      "title": "ELN-10-1803_LCMS_20251107081603019",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/ELN-10-1803/ELN-10-1803_LCMS_20251107081603019.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-126-1938-eln-126-1938-pk-1-lcms-pdf",
+      "sha16": "c976b932a59bbb48",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-126-1938-eln-126-1938-pk-1-lcms-pdf.md",
+      "title": "ELN-126-1938 pk 1_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/ELN-126-1938/ELN-126-1938 pk 1_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-13-2019-eln-13-2019-lcms-pdf",
+      "sha16": "c47891caa9315bae",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-13-2019-eln-13-2019-lcms-pdf.md",
+      "title": "ELN-13-2019_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/ELN-13-2019/ELN-13-2019_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-13-2019-eln-13-2019-pk-1-lcms-pdf",
+      "sha16": "d5659cb36ad236c0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-13-2019-eln-13-2019-pk-1-lcms-pdf.md",
+      "title": "ELN-13-2019 pk 1_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/ELN-13-2019/ELN-13-2019 pk 1_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-13-2019-eln-13-2019-pk-2-lcms-pdf",
+      "sha16": "b99459c33986c94f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-13-2019-eln-13-2019-pk-2-lcms-pdf.md",
+      "title": "ELN-13-2019 pk 2_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/ELN-13-2019/ELN-13-2019 pk 2_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-222-840-eln-222-840-lcms-pdf",
+      "sha16": "84b698ead5171186",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-222-840-eln-222-840-lcms-pdf.md",
+      "title": "ELN-222-840_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/ELN-222-840/ELN-222-840_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-431-474-eln-431-474-pk-1-lcms-pdf",
+      "sha16": "fc17362477d468b5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-431-474-eln-431-474-pk-1-lcms-pdf.md",
+      "title": "ELN-431-474 pk 1_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/ELN-431-474/ELN-431-474 pk 1_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-431-474-eln-431-474-pk-2-lcms-pdf",
+      "sha16": "8c342f7a3e97d10a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-eln-431-474-eln-431-474-pk-2-lcms-pdf.md",
+      "title": "ELN-431-474 pk 2_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/ELN-431-474/ELN-431-474 pk 2_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-4209-nrx-4209-lcms-pdf",
+      "sha16": "94ec4373ad4caab9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-4209-nrx-4209-lcms-pdf.md",
+      "title": "NRX-4209_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/NRX-4209/NRX-4209_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-5307-nrx-5307-stg-2-pk-1-lcms-pdf",
+      "sha16": "cbddc78ca204be0a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-5307-nrx-5307-stg-2-pk-1-lcms-pdf.md",
+      "title": "NRX-5307 STG 2 pk 1_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/NRX-5307/NRX-5307 STG 2 pk 1_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-5307-nrx-5307-stg-2-pk-2-lcms-pdf",
+      "sha16": "ea53fe41b1cc47c4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-5307-nrx-5307-stg-2-pk-2-lcms-pdf.md",
+      "title": "NRX-5307 STG 2 pk 2_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/NRX-5307/NRX-5307 STG 2 pk 2_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-5307-nrx-5307-stg-2-pk-3-lcms-pdf",
+      "sha16": "a82c21989113830f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-5307-nrx-5307-stg-2-pk-3-lcms-pdf.md",
+      "title": "NRX-5307 STG 2 pk 3_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/NRX-5307/NRX-5307 STG 2 pk 3_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-5307-nrx-5307-stg-2-pk-4-lcms-pdf",
+      "sha16": "39ccc19c137c6468",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-nrx-5307-nrx-5307-stg-2-pk-4-lcms-pdf.md",
+      "title": "NRX-5307 STG 2 pk 4_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/NRX-5307/NRX-5307 STG 2 pk 4_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-13-2186-eln-13-2186-post-sfc-lcms-pdf",
+      "sha16": "4fcb39bc072af06f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-13-2186-eln-13-2186-post-sfc-lcms-pdf.md",
+      "title": "ELN-13-2186 post SFC_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-13-2186/ELN-13-2186 post SFC_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-207-1749-eln-207-1749-lcms-pdf",
+      "sha16": "6f7a5a61909dbba3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-207-1749-eln-207-1749-lcms-pdf.md",
+      "title": "ELN-207-1749_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-207-1749/ELN-207-1749_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3334-eln-261-3334-pk-1-lcms-pdf",
+      "sha16": "34d9c735f68c997b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3334-eln-261-3334-pk-1-lcms-pdf.md",
+      "title": "ELN-261-3334 pk 1_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3334/ELN-261-3334 pk 1_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3334-eln-261-3334-pk-2-lcms-pdf",
+      "sha16": "204c35a1547a9d3e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3334-eln-261-3334-pk-2-lcms-pdf.md",
+      "title": "ELN-261-3334 pk 2_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3334/ELN-261-3334 pk 2_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3334-eln-261-3334-pk-3-lcms-pdf",
+      "sha16": "72b8f44f60992897",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3334-eln-261-3334-pk-3-lcms-pdf.md",
+      "title": "ELN-261-3334 pk 3_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3334/ELN-261-3334 pk 3_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-542-10-eln-542-10-pk-1-lcms-pdf",
+      "sha16": "2ec9b2a49eecf5bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-542-10-eln-542-10-pk-1-lcms-pdf.md",
+      "title": "ELN-542-10 pk 1_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-542-10/ELN-542-10 pk 1_LCMS.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-nrx-0400939-lcms-pdf",
+      "sha16": "9b640c7dd24d1443",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-nrx-0400939-lcms-pdf.md",
+      "title": "NRX-0400939_LCMS",
+      "source_id": "Analytical Chemistry/Brent - Public/NRX-0400939_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-software-development-kit-techn-0800d1be33",
+      "sha16": "4c631e9c6e7b589f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-software-development-kit-techn-0800d1be33.md",
+      "title": "SDK-LCMSAETraining",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quant 10.2/Quant 10.2/Additional/Specials/Software Development Kit Technical Tutorial/SDKPresentation/SDK-LCMSAETraining.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-waters-specification-acquityuplch-classplussystemwithbsminstrument-720006416-pdf",
+      "sha16": "406015ae5808ff00",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-waters-specification-acquityuplch-classplussystemwithbsminstrument-720006416-pdf.md",
+      "title": "waters-specification-ACQUITYUPLCH-ClassPLUSSystemwithBSMInstrument-720006416",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/waters-specification-ACQUITYUPLCH-ClassPLUSSystemwithBSMInstrument-720006416.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241218-achiral-stability-lcms-pdf",
+      "sha16": "d3392e8bff3ae353",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241218-achiral-stability-lcms-pdf.md",
+      "title": "20241218 achiral stability LCMS",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/20241218 achiral stability LCMS.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0481511-004-aa-uv254nm-purity-and-lcms-pdf",
+      "sha16": "6d64afc765df2f08",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0481511-004-aa-uv254nm-purity-and-lcms-pdf.md",
+      "title": "NRX-0481511-004-AA UV254nm purity and LCMS",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0481511-004-AA UV254nm purity and LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-hplc-method-presentation-jk-edits-pptx",
+      "sha16": "b1967c4cc352bf27",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-hplc-method-presentation-jk-edits-pptx.md",
+      "title": "HPLC Method Presentation_JK edits",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/download/HPLC Method Presentation_JK edits.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-hplc-method-presentation-pptx",
+      "sha16": "83c2142360612402",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-hplc-method-presentation-pptx.md",
+      "title": "HPLC Method Presentation ",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/download/HPLC Method Presentation .pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-refurbished-quote-qu091322-1663076865-keller-thermo-uhplc-8f47e7af29",
+      "sha16": "8550357cf31d0b60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-refurbished-quote-qu091322-1663076865-keller-thermo-uhplc-8f47e7af29.md",
+      "title": "refurbished quote QU091322-1663076865, Keller, Thermo UHPLC-VWD, CAD",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/download/refurbished quote QU091322-1663076865, Keller, Thermo UHPLC-VWD, CAD.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220618-hplc-dual-ph-gradient-pka-pptx",
+      "sha16": "63bb5f9dca7d315e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220618-hplc-dual-ph-gradient-pka-pptx.md",
+      "title": "20220618 HPLC dual pH gradient pKa",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20220618 HPLC dual pH gradient pKa.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220618-hplc-dual-ph-gradient-pka-sh-and-jk-pptx",
+      "sha16": "43ddf89ee8c0298e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220618-hplc-dual-ph-gradient-pka-sh-and-jk-pptx.md",
+      "title": "20220618 HPLC dual pH gradient pKa SH and JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20220618 HPLC dual pH gradient pKa SH and JK.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220709-hplc-dual-ph-gradient-pka-sh-and-jk-pptx",
+      "sha16": "314a9a354d709df1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220709-hplc-dual-ph-gradient-pka-sh-and-jk-pptx.md",
+      "title": "20220709 HPLC dual pH gradient pKa SH and JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20220709 HPLC dual pH gradient pKa SH and JK.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220711-hplc-cad-pka-pptx",
+      "sha16": "c389c39ded74c094",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-20220711-hplc-cad-pka-pptx.md",
+      "title": "20220711 HPLC CAD PKA",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/20220711 HPLC CAD PKA.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-3-hplc-lipophilicity-methods-pptx",
+      "sha16": "5123f72801f36e51",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-3-hplc-lipophilicity-methods-pptx.md",
+      "title": "3 HPLC lipophilicity methods",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/3 HPLC lipophilicity methods.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-hplc-logd-method-pptx",
+      "sha16": "6537218918a09340",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-hplc-logd-method-pptx.md",
+      "title": "HPLC logd Method",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/HPLC logd Method.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-hplc-method-presentation-jk-edits-pptx",
+      "sha16": "a6f556c6acb31af4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-powerpoints-hplc-method-presentation-jk-edits-pptx.md",
+      "title": "HPLC Method Presentation_JK edits",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/powerpoints/HPLC Method Presentation_JK edits.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-horizon-quote-keller-thermo-uhplc-vwd-cad-pdf",
+      "sha16": "acb00ac71ced6788",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-horizon-quote-keller-thermo-uhplc-vwd-cad-pdf.md",
+      "title": "Horizon quote, Keller, Thermo UHPLC-VWD, CAD",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Horizon quote, Keller, Thermo UHPLC-VWD, CAD.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-refurbished-quote-qu091322-1663076865-keller-thermo-uhplc-vwd-cad-pdf",
+      "sha16": "8550357cf31d0b60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-refurbished-quote-qu091322-1663076865-keller-thermo-uhplc-vwd-cad-pdf.md",
+      "title": "refurbished quote QU091322-1663076865, Keller, Thermo UHPLC-VWD, CAD",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/refurbished quote QU091322-1663076865, Keller, Thermo UHPLC-VWD, CAD.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    }
+  ]
+}

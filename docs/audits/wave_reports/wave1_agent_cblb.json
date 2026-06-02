@@ -1,0 +1,8 @@
+{
+  "agent": "cbl-b-extended-literature",
+  "pages": ["ask_jojo_wiki/references/cbl-b-and-nk-cell-biology.md","ask_jojo_wiki/references/cbl-b-treg-and-tgf-beta-resistance.md","ask_jojo_wiki/references/cbl-b-foundational-tumor-rejection-genetics.md","ask_jojo_wiki/references/cbl-b-in-dendritic-cells.md"],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "4 pages: NK biology, Treg/TGF-beta resistance, foundational tumor-rejection genetics, DC biology."
+}

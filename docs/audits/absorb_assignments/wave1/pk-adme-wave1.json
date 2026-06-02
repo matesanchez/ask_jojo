@@ -1,0 +1,369 @@
+{
+  "assignment": "pk-adme-wave1",
+  "wiki_dir": "methods",
+  "topic_key": "pk-adme",
+  "wave": "wave1",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Group by sub-topic; do NOT create one page per entry. If you encounter an entry that is actually personal/software/blank/mechanical-only, drop it and list in reclassified_out.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-pharmacokinetic-profiling-in-drug-research---biological-physicochemical-and-comput-6e55c64f05",
+      "sha16": "751e87d41c0498c2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-pharmacokinetic-profiling-in-drug-research---biological-physicochemical-and-comput-6e55c64f05.md",
+      "title": "Pharmacokinetic Profiling in Drug Research - Biological, Physicochemical, and Computational Strategies",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Pharmacokinetic Profiling in Drug Research - Biological, Physicochemical, and Computational Strategies.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-m8301-60158-m8301-60158-openlab-cs-lts-01-11-media-readme-jpn-pdf",
+      "sha16": "cfd1aecd74b7e6f1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-m8301-60158-m8301-60158-openlab-cs-lts-01-11-media-readme-jpn-pdf.md",
+      "title": "ReadMe_jpn",
+      "source_id": "Analytical Chemistry/Amber G - Public/M8301-60158/M8301-60158 OpenLab CS LTS 01.11 Media/ReadMe_jpn.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-m8301-60158-m8301-60158-openlab-cs-lts-01-11-media-readme-zh-pdf",
+      "sha16": "ce47b17c8fdf2323",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-m8301-60158-m8301-60158-openlab-cs-lts-01-11-media-readme-zh-pdf.md",
+      "title": "ReadMe_zh",
+      "source_id": "Analytical Chemistry/Amber G - Public/M8301-60158/M8301-60158 OpenLab CS LTS 01.11 Media/ReadMe_zh.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-2020-adme-requests-adme-assay-process-joel-april-2020-pptx",
+      "sha16": "8a93be5a44f812d5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-2020-adme-requests-adme-assay-process-joel-april-2020-pptx.md",
+      "title": "ADME Assay Process Joel April 2020",
+      "source_id": "Analytical Chemistry/Charles River/2020 ADME Requests/ADME Assay Process Joel April 2020.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-10-20-2020-pptx",
+      "sha16": "d8bc59538d715cd9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-10-20-2020-pptx.md",
+      "title": "Proposed ADME 10-20-2020",
+      "source_id": "Analytical Chemistry/Charles River/2020 ADME Requests/Proposed ADME 10-20-2020.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-10-28-2020-pptx",
+      "sha16": "b4e04605af30be67",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-10-28-2020-pptx.md",
+      "title": "Proposed ADME 10-28-2020",
+      "source_id": "Analytical Chemistry/Charles River/2020 ADME Requests/Proposed ADME 10-28-2020.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-11-04-2020-pptx",
+      "sha16": "167a23b6dbeee6b6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-11-04-2020-pptx.md",
+      "title": "Proposed ADME 11-04-2020",
+      "source_id": "Analytical Chemistry/Charles River/2020 ADME Requests/Proposed ADME 11-04-2020.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-11-09-2020-pptx",
+      "sha16": "eb93c17ff21c7c71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-11-09-2020-pptx.md",
+      "title": "Proposed ADME 11-09-2020",
+      "source_id": "Analytical Chemistry/Charles River/2020 ADME Requests/Proposed ADME 11-09-2020.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-11-17-2020-pptx",
+      "sha16": "e9d22310029f3a13",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-11-17-2020-pptx.md",
+      "title": "Proposed ADME 11-17-2020",
+      "source_id": "Analytical Chemistry/Charles River/2020 ADME Requests/Proposed ADME 11-17-2020.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-12-08-2020-pptx",
+      "sha16": "8db4f18fe0b29d4e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-12-08-2020-pptx.md",
+      "title": "Proposed ADME 12-08-2020",
+      "source_id": "Analytical Chemistry/Charles River/2020 ADME Requests/Proposed ADME 12-08-2020.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-12-15-2020-pptx",
+      "sha16": "1349305142685d9b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-2020-adme-requests-proposed-adme-12-15-2020-pptx.md",
+      "title": "Proposed ADME 12-15-2020",
+      "source_id": "Analytical Chemistry/Charles River/2020 ADME Requests/Proposed ADME 12-15-2020.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-support-ucl-readme-pdf",
+      "sha16": "492e8f07d88812ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-support-ucl-readme-pdf.md",
+      "title": "Readme",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/Support/UCL/Readme.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-test-readme-pdf",
+      "sha16": "89654a33bd5c1656",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-test-readme-pdf.md",
+      "title": "ReadMe",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quant 10.2/Quant 10.2/Additional/Test/ReadMe.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-m8490-10006-openlab-cds-2-6-download-setup-tools-support-56062ead50",
+      "sha16": "492e8f07d88812ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-download-m8490-10006-openlab-cds-2-6-download-setup-tools-support-56062ead50.md",
+      "title": "Readme",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/download/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/Support/UCL/Readme.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-packages-16670c57e1",
+      "sha16": "0a55f836c0e0e78a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-packages-16670c57e1.md",
+      "title": "Readme ICF A.02.05",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Packages/Agilent Instrument Control Framework/Documentation/Agilent ICF A.02.05/Readme ICF A.02.05.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-packages-971ce25f3b",
+      "sha16": "0a55f836c0e0e78a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-packages-971ce25f3b.md",
+      "title": "Readme ICF A.02.05",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Packages/Agilent Chromeleon Drivers/Documentation/ICF/Readme ICF A.02.05.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-support-ucl-readme-pdf",
+      "sha16": "492e8f07d88812ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-support-ucl-readme-pdf.md",
+      "title": "Readme",
+      "source_id": "Analytical Chemistry/Jon K - Public/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/Support/UCL/Readme.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf",
+      "sha16": "d8569ae6ed9b383d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf.md",
+      "title": "Mimetas_Barrier Integrity Assay_V3.1",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/Mimetas/Mimetas_Barrier Integrity Assay_V3.1.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206083503-nrx-0387406-pka-uv3-pdf",
+      "sha16": "bbeaddd0b2a06b18",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206083503-nrx-0387406-pka-uv3-pdf.md",
+      "title": "180206083503_NRX-0387406_pKa_UV3",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180206083503_NRX-0387406_pKa_UV3.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206085358-nrx-0388798-pka-uv3-pdf",
+      "sha16": "a903a3f92a70665f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206085358-nrx-0388798-pka-uv3-pdf.md",
+      "title": "180206085358_NRX-0388798_pKa_UV3",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180206085358_NRX-0388798_pKa_UV3.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206101510-nrx-0388695-pka-uv-1-pdf",
+      "sha16": "5f81fca4cd4f0946",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206101510-nrx-0388695-pka-uv-1-pdf.md",
+      "title": "180206101510_NRX-0388695_pKa_UV_1",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180206101510_NRX-0388695_pKa_UV_1.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206102106-nrx-0388693-pka-uv-1-pdf",
+      "sha16": "bc244467e24fef71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206102106-nrx-0388693-pka-uv-1-pdf.md",
+      "title": "180206102106_NRX-0388693_pKa_UV_1",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180206102106_NRX-0388693_pKa_UV_1.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206102933-nrx-0388771-pka-uv-1-pdf",
+      "sha16": "7c620917f61adbf5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206102933-nrx-0388771-pka-uv-1-pdf.md",
+      "title": "180206102933_NRX-0388771_pKa_UV_1",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180206102933_NRX-0388771_pKa_UV_1.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206110423-nrx-0387697-pka-uv-2-pdf",
+      "sha16": "c9fbf081cbe346a2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206110423-nrx-0387697-pka-uv-2-pdf.md",
+      "title": "180206110423_NRX-0387697_pKa_UV_2",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180206110423_NRX-0387697_pKa_UV_2.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206145808-nrx-0388732-pka-uv-3-pdf",
+      "sha16": "65527391d0396193",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180206145808-nrx-0388732-pka-uv-3-pdf.md",
+      "title": "180206145808_NRX-0388732_pKa_UV_3",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180206145808_NRX-0388732_pKa_UV_3.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180208101424-nrx-0388852-pka-uv1-pdf",
+      "sha16": "aef3c141feca8571",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180208101424-nrx-0388852-pka-uv1-pdf.md",
+      "title": "180208101424_NRX-0388852_pKa_UV1",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180208101424_NRX-0388852_pKa_UV1.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180208103421-nrx-0388845-pka-uv1-pdf",
+      "sha16": "90303b73d3008045",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180208103421-nrx-0388845-pka-uv1-pdf.md",
+      "title": "180208103421_NRX-0388845_pKa_UV1",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180208103421_NRX-0388845_pKa_UV1.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180209085806-nrx-0388840-pka-uv-2-pdf",
+      "sha16": "3302629e90483c52",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180209085806-nrx-0388840-pka-uv-2-pdf.md",
+      "title": "180209085806_NRX-0388840_pKa_UV_2",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180209085806_NRX-0388840_pKa_UV_2.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180209090833-nrx-0388816-pka-uv-2-pdf",
+      "sha16": "6a1d0c403686c42d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180209090833-nrx-0388816-pka-uv-2-pdf.md",
+      "title": "180209090833_NRX-0388816_pKa_UV_2",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180209090833_NRX-0388816_pKa_UV_2.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180209091507-nrx-0388839-pka-uv-2-pdf",
+      "sha16": "bc46c1c5c12cdc18",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180209091507-nrx-0388839-pka-uv-2-pdf.md",
+      "title": "180209091507_NRX-0388839_pKa_UV_2",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180209091507_NRX-0388839_pKa_UV_2.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180212111614-nrx-0388750-pka-uvcs-01-pdf",
+      "sha16": "f90d7597540b7cb1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180212111614-nrx-0388750-pka-uvcs-01-pdf.md",
+      "title": "180212111614_NRX-0388750_pKa_UVCS_01",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180212111614_NRX-0388750_pKa_UVCS_01.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180212112904-nrx-0388846-pka-uv-01-pdf",
+      "sha16": "e8cc389490e7a9bc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180212112904-nrx-0388846-pka-uv-01-pdf.md",
+      "title": "180212112904_NRX-0388846_pKa_UV_01",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180212112904_NRX-0388846_pKa_UV_01.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180212113449-nrx-0388858-pka-uv-01-pdf",
+      "sha16": "e63d9048f845016b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180212113449-nrx-0388858-pka-uv-01-pdf.md",
+      "title": "180212113449_NRX-0388858_pKa_UV_01",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180212113449_NRX-0388858_pKa_UV_01.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180212114046-nrx-0388862-pka-uv-01-pdf",
+      "sha16": "3db6352c43d353de",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-pka-pka-data---180220-180212114046-nrx-0388862-pka-uv-01-pdf.md",
+      "title": "180212114046_NRX-0388862_pKa_UV_01",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/pKa/pka data - 180220/180212114046_NRX-0388862_pKa_UV_01.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-admet-dmpk-biomimetic-paper-pdf",
+      "sha16": "68e90fe73b849451",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-admet-dmpk-biomimetic-paper-pdf.md",
+      "title": "ADMET DMPK Biomimetic paper",
+      "source_id": "Analytical Chemistry/Jose L - public/Davis-Plate/Davis/ADMET DMPK Biomimetic paper.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-other-2018-04-10-pharmaron-adme-adme-nux-metid-nu1005-pdf",
+      "sha16": "7ca311c4c12b8101",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-other-2018-04-10-pharmaron-adme-adme-nux-metid-nu1005-pdf.md",
+      "title": "2018-04-10 Pharmaron ADME ADME-NUX-MetID-NU1005",
+      "source_id": "Analytical Chemistry/Jose L - public/Other/2018-04-10 Pharmaron ADME ADME-NUX-MetID-NU1005.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-nrx-0395948-transporter-assay-cofa-updated-nx-5948-lot-20-oc-fp-345-03262021-signed-pdf",
+      "sha16": "b44aa6c66d67d7f2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-nrx-0395948-transporter-assay-cofa-updated-nx-5948-lot-20-oc-fp-345-03262021-signed-pdf.md",
+      "title": "CofA Updated-NX-5948-Lot 20-OC-FP-345-03262021-Signed",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/NRX-0395948 Transporter Assay/CofA Updated-NX-5948-Lot 20-OC-FP-345-03262021-Signed.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-adme-guide-pdf",
+      "sha16": "c48db83c56ff1272",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-adme-guide-pdf.md",
+      "title": "ADME Guide",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/ADME Guide.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-adme-assay-request-workflow-bcadds-docx",
+      "sha16": "fafff9815b43e90e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-adme-assay-request-workflow-bcadds-docx.md",
+      "title": "ADME assay request workflow_BCadds",
+      "source_id": "Analytical Chemistry/Quintara/2022/ADME assay request workflow_BCadds.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v1-pdf",
+      "sha16": "2de49f951052a239",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v1-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v1",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v1.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    }
+  ]
+}
