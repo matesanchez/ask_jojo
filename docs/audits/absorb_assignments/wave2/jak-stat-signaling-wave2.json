@@ -1,0 +1,369 @@
+{
+  "assignment": "jak-stat-signaling-wave2",
+  "wiki_dir": "concepts",
+  "topic_key": "jak-stat-signaling",
+  "wave": "wave2",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/concepts/. Group by sub-topic; do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-ar-3774-ar-3776-2023-may-27-ksol-cr-2539-a-66326a31e5",
+      "sha16": "9746b48436fdde4e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-ar-3774-ar-3776-2023-may-27-ksol-cr-2539-a-66326a31e5.md",
+      "title": "2023_May_27 Ksol_CR-2539_AR-3774_3776",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK21/WK21 AR-3774 AR-3776/2023_May_27 Ksol_CR-2539_AR-3774_3776.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-stat6-ar-003445-ksol-pbs-fassif-fessif-fas-c033965f9c",
+      "sha16": "ba5473120b53b2df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-stat6-ar-003445-ksol-pbs-fassif-fessif-fas-c033965f9c.md",
+      "title": "WK21 STAT6 AR-003445 KSOL PBS FASSIF FESSIF FASSGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK21/WK21 STAT6 AR-003445 KSOL PBS FASSIF FESSIF FASSGF/WK21 STAT6 AR-003445 KSOL PBS FASSIF FESSIF FASSGF.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-stat6-ar-003663-ksol-pbs-fassif-fessif-fas-dba0761b40",
+      "sha16": "5699ba720e9ccbbd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-stat6-ar-003663-ksol-pbs-fassif-fessif-fas-dba0761b40.md",
+      "title": "2023_May_27 Ksol",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK21/WK21 STAT6 AR-003663 KSOL PBS FASSIF FESSIF FASSGF/2023_May_27 Ksol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk29-wk29-data-stat6-pbs-2sif-sgf-2023-jul-19-ksol-w-8af50deaa7",
+      "sha16": "07c1f3af26819153",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk29-wk29-data-stat6-pbs-2sif-sgf-2023-jul-19-ksol-w-8af50deaa7.md",
+      "title": "2023_Jul_19 KSOL WK29 STAT6 PBS 2SIF SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK29/WK29 Data STAT6 PBS 2SIF SGF/2023_Jul_19 KSOL WK29 STAT6 PBS 2SIF SGF.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk07-stat6-hpk1-akt-nr4a1-usp18-20240223-wk07-nrx-0465304-002-aa-sta-9ccb206153",
+      "sha16": "f17096389b1b6a68",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk07-stat6-hpk1-akt-nr4a1-usp18-20240223-wk07-nrx-0465304-002-aa-sta-9ccb206153.md",
+      "title": "20240223_WK07 NRX-0465304-002-AA STAT6 FASSIF FESSIF FASSGF - Copy",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2024/WK07 STAT6 HPK1 AKT NR4A1 USP18/20240223_WK07 NRX-0465304-002-AA STAT6 FASSIF FESSIF FASSGF - Copy.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk07-stat6-hpk1-akt-nr4a1-usp18-20240223-wk07-nrx-0467993-002-aa-sta-b00602d547",
+      "sha16": "122da9a256c7c1b0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk07-stat6-hpk1-akt-nr4a1-usp18-20240223-wk07-nrx-0467993-002-aa-sta-b00602d547.md",
+      "title": "20240223_WK07 NRX-0467993-002-AA STAT6 FASSIF FESSIF FASSGF - Copy (2)",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2024/WK07 STAT6 HPK1 AKT NR4A1 USP18/20240223_WK07 NRX-0467993-002-AA STAT6 FASSIF FESSIF FASSGF - Copy (2).pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk10-stat6-akt-20240223-wk07-nrx-0465304-002-aa-stat6-fassif-fessif-013640f22c",
+      "sha16": "f17096389b1b6a68",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk10-stat6-akt-20240223-wk07-nrx-0465304-002-aa-stat6-fassif-fessif-013640f22c.md",
+      "title": "20240223_WK07 NRX-0465304-002-AA STAT6 FASSIF FESSIF FASSGF - Copy",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2024/WK10 STAT6 AKT/20240223_WK07 NRX-0465304-002-AA STAT6 FASSIF FESSIF FASSGF - Copy.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk10-stat6-akt-20240223-wk07-nrx-0467993-002-aa-stat6-fassif-fessif-708b8bf0d3",
+      "sha16": "122da9a256c7c1b0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk10-stat6-akt-20240223-wk07-nrx-0467993-002-aa-stat6-fassif-fessif-708b8bf0d3.md",
+      "title": "20240223_WK07 NRX-0467993-002-AA STAT6 FASSIF FESSIF FASSGF - Copy (2)",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2024/WK10 STAT6 AKT/20240223_WK07 NRX-0467993-002-AA STAT6 FASSIF FESSIF FASSGF - Copy (2).pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220920-stat6-25-samples-quantitation-and-salt-eq-pdf",
+      "sha16": "21dbb7eba97a0045",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220920-stat6-25-samples-quantitation-and-salt-eq-pdf.md",
+      "title": "20220920 STAT6 25 samples quantitation and salt EQ",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220920 STAT6 25 samples quantitation and salt EQ.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220915-stat6-6-priority-compounds-ic-gradient-pdf",
+      "sha16": "9581ba1878b7186e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220915-stat6-6-priority-compounds-ic-gradient-pdf.md",
+      "title": "20220915 STAT6 6 priority compounds IC gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220915 STAT6 6 priority compounds IC gradient.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220915-stat6-6-priority-compounds-ic-isocratic-pdf",
+      "sha16": "3ccee17fe61efafb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220915-stat6-6-priority-compounds-ic-isocratic-pdf.md",
+      "title": "20220915 STAT6 6 priority compounds IC isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220915 STAT6 6 priority compounds IC isocratic.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-dfa---dose-formulation-analysis-wk35-stat6-nv859-nv860-pdf",
+      "sha16": "1bca3ffa69791a4f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-dfa---dose-formulation-analysis-wk35-stat6-nv859-nv860-pdf.md",
+      "title": "NV859 NV860",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/DFA - Dose Formulation Analysis/WK35 STAT6/NV859 NV860.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ic---ion-chromatography-and-salt-equivalent-20230424-stat6-tfa-for-barbjon-gradient-pdf",
+      "sha16": "f765b52f829342ff",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ic---ion-chromatography-and-salt-equivalent-20230424-stat6-tfa-for-barbjon-gradient-pdf.md",
+      "title": "20230424 STAT6 TFA for BarbJon gradient",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/IC - Ion Chromatography and Salt Equivalent/20230424 STAT6 TFA for BarbJon gradient.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-fes-nrx-0433055-001-cn-20230428-wk17-stat6-hpk1-29b5d8c39e",
+      "sha16": "badc0b84471a7818",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-fes-nrx-0433055-001-cn-20230428-wk17-stat6-hpk1-29b5d8c39e.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/FES NRX-0433055-001-CN/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0417351-006-cn-200um-20230428-wk17-stat6-hp-c9289d879c",
+      "sha16": "dbf93b9a7a3b0b1a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0417351-006-cn-200um-20230428-wk17-stat6-hp-c9289d879c.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0417351-006-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432906-001-cn-200um-20230428-wk17-stat6-hp-812a9761fc",
+      "sha16": "5afd1aa7959ca1b8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432906-001-cn-200um-20230428-wk17-stat6-hp-812a9761fc.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0432906-001-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432907-001-cn-200um-20230428-wk17-stat6-hp-68ceea4a0b",
+      "sha16": "852ffabc92dfbd8a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432907-001-cn-200um-20230428-wk17-stat6-hp-68ceea4a0b.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0432907-001-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432962-001-cf-200um-20230428-wk17-stat6-hp-c2ef011e7f",
+      "sha16": "c65b05220563c2b2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432962-001-cf-200um-20230428-wk17-stat6-hp-c2ef011e7f.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0432962-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432963-001-cf-200um-20230428-wk17-stat6-hp-7b8c1eed07",
+      "sha16": "275ce587a153c751",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432963-001-cf-200um-20230428-wk17-stat6-hp-7b8c1eed07.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0432963-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432974-001-cn-200um-20230428-wk17-stat6-hp-98cfa55ebb",
+      "sha16": "5dd325f8820af3a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432974-001-cn-200um-20230428-wk17-stat6-hp-98cfa55ebb.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0432974-001-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433055-001-cn-200um-20230428-wk17-stat6-hp-a4267315b6",
+      "sha16": "cf64090938a859ab",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433055-001-cn-200um-20230428-wk17-stat6-hp-a4267315b6.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433055-001-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433056-001-cn-200um-20230428-wk17-stat6-hp-a4a9b8d48f",
+      "sha16": "12dc7ed1e8de524e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433056-001-cn-200um-20230428-wk17-stat6-hp-a4a9b8d48f.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433056-001-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433057-001-cn-200um-20230428-wk17-stat6-hp-2b2ba542bc",
+      "sha16": "8ef688ee5f035d43",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433057-001-cn-200um-20230428-wk17-stat6-hp-2b2ba542bc.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433057-001-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433439-001-cf-200um-20230428-wk17-stat6-hp-f72f1b5247",
+      "sha16": "8d77e07b1d6cae25",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433439-001-cf-200um-20230428-wk17-stat6-hp-f72f1b5247.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433439-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433506-001-cn-50um-20230428-wk17-stat6-hpk-15870341e8",
+      "sha16": "74d17ec1d3308e31",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433506-001-cn-50um-20230428-wk17-stat6-hpk-15870341e8.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433506-001-CN 50uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433532-001-cn-200um-20230428-wk17-stat6-hp-8fb37c8758",
+      "sha16": "848b043a2c63314c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433532-001-cn-200um-20230428-wk17-stat6-hp-8fb37c8758.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433532-001-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433539-001-cf-200um-20230428-wk17-stat6-hp-d34ebc0de0",
+      "sha16": "9e0889be38ddc985",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433539-001-cf-200um-20230428-wk17-stat6-hp-d34ebc0de0.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433539-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433540-001-cf-200um-20230428-wk17-stat6-hp-1953895922",
+      "sha16": "97934aa2023c206c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433540-001-cf-200um-20230428-wk17-stat6-hp-1953895922.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433540-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433542-001-cf-200um-20230428-wk17-stat6-hp-b2bfec9aec",
+      "sha16": "3384f9a897d80d1d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433542-001-cf-200um-20230428-wk17-stat6-hp-b2bfec9aec.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433542-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433942-001-cf-200um-20230428-wk17-stat6-hp-39bc796fd8",
+      "sha16": "d4c84402eaa249b4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433942-001-cf-200um-20230428-wk17-stat6-hp-39bc796fd8.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0433942-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434013-001-cf-200um-20230428-wk17-stat6-hp-219075478f",
+      "sha16": "7df24d48dcfcade0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434013-001-cf-200um-20230428-wk17-stat6-hp-219075478f.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0434013-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434014-001-cf-200um-20230428-wk17-stat6-hp-962540f9ec",
+      "sha16": "c826fef58300c975",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434014-001-cf-200um-20230428-wk17-stat6-hp-962540f9ec.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0434014-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434155-001-cf-200um-20230428-wk17-stat6-hp-8626985e60",
+      "sha16": "98a8048d6ef7666a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434155-001-cf-200um-20230428-wk17-stat6-hp-8626985e60.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/NRX-0434155-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-wk17-stat6-fassif-fessif-fassgf-pbs-pdf",
+      "sha16": "fe8af61747b1b221",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-wk17-stat6-fassif-fessif-fassgf-pbs-pdf.md",
+      "title": "WK17 STAT6 FASSIF FESSIF FASSGF PBS",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK17/WK17 STAT6 FASSIF FESSIF FASSGF PBS.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk23-jun-08-wk23-stat6-cr-2617-pdf",
+      "sha16": "5178fc15824d8952",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk23-jun-08-wk23-stat6-cr-2617-pdf.md",
+      "title": "Jun_08 WK23 STAT6 CR-2617",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK23/Jun_08 WK23 STAT6 CR-2617.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk32-wk32-stat6-pbs-sif-sgf-pdf",
+      "sha16": "29ef6358153ceff1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk32-wk32-stat6-pbs-sif-sgf-pdf.md",
+      "title": "WK32 STAT6 PBS SIF SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/STAT6/WK32/WK32 STAT6 PBS SIF SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0418126-002-aa-200um-20230428-wk17-stat6-hpk1-std-7f3a9a1826",
+      "sha16": "25cee419811b78ec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0418126-002-aa-200um-20230428-wk17-stat6-hpk1-std-7f3a9a1826.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK17/NRX-0418126-002-AA 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0431553-001-aa-200um-20230428-wk17-stat6-hpk1-std-363c7337f3",
+      "sha16": "1ba88d255da9d97c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0431553-001-aa-200um-20230428-wk17-stat6-hpk1-std-363c7337f3.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK17/NRX-0431553-001-AA 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0432877-001-cf-200um-20230428-wk17-stat6-hpk1-std-41feddc780",
+      "sha16": "fead282a945c9adf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0432877-001-cf-200um-20230428-wk17-stat6-hpk1-std-41feddc780.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK17/NRX-0432877-001-CF 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0433917-001-cn-200um-20230428-wk17-stat6-hpk1-std-c157a394b6",
+      "sha16": "e93c767d8d74fbba",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0433917-001-cn-200um-20230428-wk17-stat6-hpk1-std-c157a394b6.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/KSOL - Kinetic Solubility/2023 KSOL Data/WK17/NRX-0433917-001-CN 200uM/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    }
+  ]
+}

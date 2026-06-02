@@ -1,0 +1,376 @@
+{
+  "wave": "wave2",
+  "agents": [
+    {
+      "agent": "jak-stat-signaling",
+      "cluster_mislabel": "regex matched 'stat6' to JAK-STAT but entries are Nurix internal STAT6 program analytical-chemistry raw data",
+      "pages": [
+        "ask_jojo_wiki/programs/stat6-program.md"
+      ],
+      "n_covered": 5,
+      "n_reclassed": 35,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-ar-3774-ar-3776-2023-may-27-ksol-cr-2539-a-66326a31e5",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-stat6-ar-003445-ksol-pbs-fassif-fessif-fas-c033965f9c",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-stat6-ar-003663-ksol-pbs-fassif-fessif-fas-dba0761b40",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk29-wk29-data-stat6-pbs-2sif-sgf-2023-jul-19-ksol-w-8af50deaa7",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk07-stat6-hpk1-akt-nr4a1-usp18-20240223-wk07-nrx-0467993-002-aa-sta-b00602d547",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk10-stat6-akt-20240223-wk07-nrx-0465304-002-aa-stat6-fassif-fessif-013640f22c",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk10-stat6-akt-20240223-wk07-nrx-0467993-002-aa-stat6-fassif-fessif-708b8bf0d3",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ic---ion-chromatography-and-salt-equivalent-20230424-stat6-tfa-for-barbjon-gradient-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-fes-nrx-0433055-001-cn-20230428-wk17-stat6-hpk1-29b5d8c39e",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0417351-006-cn-200um-20230428-wk17-stat6-hp-c9289d879c",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432906-001-cn-200um-20230428-wk17-stat6-hp-812a9761fc",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432907-001-cn-200um-20230428-wk17-stat6-hp-68ceea4a0b",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432962-001-cf-200um-20230428-wk17-stat6-hp-c2ef011e7f",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432963-001-cf-200um-20230428-wk17-stat6-hp-7b8c1eed07",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432974-001-cn-200um-20230428-wk17-stat6-hp-98cfa55ebb",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433055-001-cn-200um-20230428-wk17-stat6-hp-a4267315b6",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433056-001-cn-200um-20230428-wk17-stat6-hp-a4a9b8d48f",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433057-001-cn-200um-20230428-wk17-stat6-hp-2b2ba542bc",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433439-001-cf-200um-20230428-wk17-stat6-hp-f72f1b5247",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433506-001-cn-50um-20230428-wk17-stat6-hpk-15870341e8",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433532-001-cn-200um-20230428-wk17-stat6-hp-8fb37c8758",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433539-001-cf-200um-20230428-wk17-stat6-hp-d34ebc0de0",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433540-001-cf-200um-20230428-wk17-stat6-hp-1953895922",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433542-001-cf-200um-20230428-wk17-stat6-hp-b2bfec9aec",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433942-001-cf-200um-20230428-wk17-stat6-hp-39bc796fd8",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434013-001-cf-200um-20230428-wk17-stat6-hp-219075478f",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434014-001-cf-200um-20230428-wk17-stat6-hp-962540f9ec",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434155-001-cf-200um-20230428-wk17-stat6-hp-8626985e60",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-wk17-stat6-fassif-fessif-fassgf-pbs-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk23-jun-08-wk23-stat6-cr-2617-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk32-wk32-stat6-pbs-sif-sgf-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0418126-002-aa-200um-20230428-wk17-stat6-hpk1-std-7f3a9a1826",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0431553-001-aa-200um-20230428-wk17-stat6-hpk1-std-363c7337f3",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0432877-001-cf-200um-20230428-wk17-stat6-hpk1-std-41feddc780",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0433917-001-cn-200um-20230428-wk17-stat6-hpk1-std-c157a394b6",
+          "bucket": "raw-data"
+        }
+      ],
+      "notes": "Remediated: deleted assays/ksol-kinetic-solubility.md (invalid SCHEMA dir+type, redundant with wave-1 page). Only stat6-program.md retained. 35 entries reclassified as raw-data."
+    },
+    {
+      "agent": "metabolic-stability",
+      "pages": [
+        "ask_jojo_wiki/methods/microsomal-stability-assay.md",
+        "ask_jojo_wiki/methods/cyp450-inhibition-assay.md",
+        "ask_jojo_wiki/methods/hepatocyte-stability-assay.md",
+        "ask_jojo_wiki/methods/adme-assay-principles-and-reference-library.md"
+      ],
+      "n_covered": 32,
+      "n_reclassed": 8,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-plasma-stabillity-of-nrx-compounds-by-lc-msms-docx",
+          "bucket": "mislabeled-source"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-plasma-stabillity-of-nrx-compounds-by-lc-msms-docx",
+          "bucket": "mislabeled-source"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-metabolic-reprogramming-of-terminally-exhausted-pdf",
+          "bucket": "immunology-literature"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-metabolic-rewiring-of-macrophages-by-cpg-pdf",
+          "bucket": "immunology-literature"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-metabolism-t-and-b-cell-metabolism-in-older-adults-pdf",
+          "bucket": "immunology-literature"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-10-create-a-new-metabolika-267de0d6c1",
+          "bucket": "software-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-hepatocyte-protein-binding-assay-protocol-pdf",
+          "bucket": "image-only-no-extractable-content"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-microsomal-protein-binding-assay-protocol-pdf",
+          "bucket": "image-only-no-extractable-content"
+        }
+      ],
+      "notes": "3 new + 1 updated. ADME-principles page expanded with DMPK literature."
+    },
+    {
+      "agent": "permeability-assays",
+      "pages": [
+        "ask_jojo_wiki/methods/caco-2-bidirectional-permeability-assay.md",
+        "ask_jojo_wiki/methods/pampa-permeability-screening.md",
+        "ask_jojo_wiki/methods/mdck-bbb-permeability-models.md"
+      ],
+      "n_covered": 40,
+      "n_reclassed": 0,
+      "reclassified_out": [],
+      "notes": "3 pages: Caco-2 bidirectional, PAMPA screening, MDCK/BBB models. All 40 entries absorbed."
+    },
+    {
+      "agent": "rna-seq-methods",
+      "pages": [
+        "ask_jojo_wiki/methods/scrna-seq-a20-nx-1607-efficacy-protocol.md",
+        "ask_jojo_wiki/methods/seqmatic-bulk-rnaseq-services.md",
+        "ask_jojo_wiki/methods/scrna-seq-mtdna-qc-thresholds.md",
+        "ask_jojo_wiki/methods/scrna-seq-human-t-cell-reference-atlas.md"
+      ],
+      "n_covered": 33,
+      "n_reclassed": 3,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-cd28-and-mitocondrial-pdf",
+          "bucket": "immunology-literature"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-cd28-and-mitocondrial-pdf",
+          "bucket": "immunology-literature"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-mitochondria-master-reglators-of-danger-signaling-pdf",
+          "bucket": "immunology-literature"
+        }
+      ],
+      "notes": "4 pages: A20/NX-1607 scRNA protocol, Seqmatic services, mtDNA QC, human T-cell reference atlas. 3 immunology papers misfiled by regex; recommend future absorb wave pick them up."
+    },
+    {
+      "agent": "t-cell-exhaustion",
+      "pages": [
+        "ask_jojo_wiki/concepts/t-cell-exhaustion.md",
+        "ask_jojo_wiki/concepts/tox-transcription-factor.md",
+        "ask_jojo_wiki/concepts/tcf1-stem-like-cd8-t-cells.md",
+        "ask_jojo_wiki/concepts/t-cell-exhaustion-reversal-strategies.md"
+      ],
+      "n_covered": 27,
+      "n_reclassed_offtopic": 13,
+      "notes": "Agent's JSON omitted entry_id lists; absorbed entries will be derived from page sources blocks at checkpoint.",
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stem-like-progenitor-intratumoral-tcf1-pd1cd8-t-cells-w-stem-cells-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf1-expression-marks-self-renewing-human-cd8-t-cells-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-heptotox-cell-assay-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-stability-study-genetox-study-shipping-manifest-docx",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-analy-2f28dfd289",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-analy-d2d75c135e",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-testi-abe04bd9cb",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-testing-v01-docx",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nx-1647-005-aa-lcms-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nx-1647-lot-005-beh-c18-lc-uv-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nrx-0404422-005-aa-certificate-of-analy-8f277d17f4",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nrx-0404422-005-aa-certificate-of-testing-v01-docx",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-005-aa-cot-signed-10-27-2021-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lcms-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lot-beh-c18-lc-uv-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lot-csh-c18-lc-uv-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-4-the-epigenetic-landscape-of-t-cell-exhaustion-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regualtor-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regulator-paper-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf-1--zeyu-chen-john-wherry-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-t-cell-exhaustion-molecular-and-cellular-insight-into-t-cell-exhasution-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-heptox-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-20210571-pdf",
+          "bucket": "raw-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-duong-natalie-1129202113448-pdf",
+          "bucket": "raw-data"
+        }
+      ],
+      "n_reclassed": 27
+    },
+    {
+      "agent": "tils-biology",
+      "pages": [
+        "ask_jojo_wiki/concepts/ot1-adoptive-transfer-eg7-ova-protocol.md",
+        "ask_jojo_wiki/concepts/til-adoptive-immunotherapy-foundations.md",
+        "ask_jojo_wiki/concepts/til-tcr-repertoire-and-cd28-costimulation.md"
+      ],
+      "n_covered": 23,
+      "n_reclassed": 0,
+      "reclassified_out": [],
+      "notes": "3 pages covering NV323/NV786/NV446 OT-1/EG7-OVA protocol family, Rosenberg 1986 TIL ACT foundations, and Valpione TCR repertoire + Beckermann CD28 metabolic rescue."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "agent": "tils-biology",
+  "pages": ["ask_jojo_wiki/concepts/ot1-adoptive-transfer-eg7-ova-protocol.md","ask_jojo_wiki/concepts/til-adoptive-immunotherapy-foundations.md","ask_jojo_wiki/concepts/til-tcr-repertoire-and-cd28-costimulation.md"],
+  "n_covered": 23,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "3 pages covering NV323/NV786/NV446 OT-1/EG7-OVA protocol family, Rosenberg 1986 TIL ACT foundations, and Valpione TCR repertoire + Beckermann CD28 metabolic rescue."
+}

@@ -385,3 +385,4 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - The wiki-repo commit left stale `.git/index.lock` and `.git/HEAD.lock` that the Linux sandbox could not unlink (Windows-mount permission quirk). They must be removed on Windows before the next git op in `ask_jojo_wiki`.
 - The Edit/Write file tools intermittently corrupted files with NUL bytes on the Windows mount; affected files (`registry.py`, `coverage_check.py`) were rewritten via shell and verified (0 NULs, parse + tests green).
 - 2026-06-01 wave1: +145 absorbed, +43 reclassified; 27 new pages
+- 2026-06-01 wave2: +146 absorbed, +62 reclassified; 19 pages

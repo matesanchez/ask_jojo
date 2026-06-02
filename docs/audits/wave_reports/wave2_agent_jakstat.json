@@ -1,0 +1,152 @@
+{
+  "agent": "jak-stat-signaling",
+  "cluster_mislabel": "regex matched 'stat6' to JAK-STAT but entries are Nurix internal STAT6 program analytical-chemistry raw data",
+  "pages": [
+    "ask_jojo_wiki/programs/stat6-program.md"
+  ],
+  "n_covered": 5,
+  "n_reclassed": 35,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-ar-3774-ar-3776-2023-may-27-ksol-cr-2539-a-66326a31e5",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-stat6-ar-003445-ksol-pbs-fassif-fessif-fas-c033965f9c",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk21-wk21-stat6-ar-003663-ksol-pbs-fassif-fessif-fas-dba0761b40",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk29-wk29-data-stat6-pbs-2sif-sgf-2023-jul-19-ksol-w-8af50deaa7",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk07-stat6-hpk1-akt-nr4a1-usp18-20240223-wk07-nrx-0467993-002-aa-sta-b00602d547",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk10-stat6-akt-20240223-wk07-nrx-0465304-002-aa-stat6-fassif-fessif-013640f22c",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-wk10-stat6-akt-20240223-wk07-nrx-0467993-002-aa-stat6-fassif-fessif-708b8bf0d3",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ic---ion-chromatography-and-salt-equivalent-20230424-stat6-tfa-for-barbjon-gradient-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-fes-nrx-0433055-001-cn-20230428-wk17-stat6-hpk1-29b5d8c39e",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0417351-006-cn-200um-20230428-wk17-stat6-hp-c9289d879c",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432906-001-cn-200um-20230428-wk17-stat6-hp-812a9761fc",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432907-001-cn-200um-20230428-wk17-stat6-hp-68ceea4a0b",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432962-001-cf-200um-20230428-wk17-stat6-hp-c2ef011e7f",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432963-001-cf-200um-20230428-wk17-stat6-hp-7b8c1eed07",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0432974-001-cn-200um-20230428-wk17-stat6-hp-98cfa55ebb",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433055-001-cn-200um-20230428-wk17-stat6-hp-a4267315b6",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433056-001-cn-200um-20230428-wk17-stat6-hp-a4a9b8d48f",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433057-001-cn-200um-20230428-wk17-stat6-hp-2b2ba542bc",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433439-001-cf-200um-20230428-wk17-stat6-hp-f72f1b5247",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433506-001-cn-50um-20230428-wk17-stat6-hpk-15870341e8",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433532-001-cn-200um-20230428-wk17-stat6-hp-8fb37c8758",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433539-001-cf-200um-20230428-wk17-stat6-hp-d34ebc0de0",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433540-001-cf-200um-20230428-wk17-stat6-hp-1953895922",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433542-001-cf-200um-20230428-wk17-stat6-hp-b2bfec9aec",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0433942-001-cf-200um-20230428-wk17-stat6-hp-39bc796fd8",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434013-001-cf-200um-20230428-wk17-stat6-hp-219075478f",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434014-001-cf-200um-20230428-wk17-stat6-hp-962540f9ec",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-nrx-0434155-001-cf-200um-20230428-wk17-stat6-hp-8626985e60",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk17-wk17-stat6-fassif-fessif-fassgf-pbs-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk23-jun-08-wk23-stat6-cr-2617-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-stat6-wk32-wk32-stat6-pbs-sif-sgf-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0418126-002-aa-200um-20230428-wk17-stat6-hpk1-std-7f3a9a1826",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0431553-001-aa-200um-20230428-wk17-stat6-hpk1-std-363c7337f3",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0432877-001-cf-200um-20230428-wk17-stat6-hpk1-std-41feddc780",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-nrx-0433917-001-cn-200um-20230428-wk17-stat6-hpk1-std-c157a394b6",
+      "bucket": "raw-data"
+    }
+  ],
+  "notes": "Remediated: deleted assays/ksol-kinetic-solubility.md (invalid SCHEMA dir+type, redundant with wave-1 page). Only stat6-program.md retained. 35 entries reclassified as raw-data."
+}

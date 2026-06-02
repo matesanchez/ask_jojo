@@ -1,0 +1,12 @@
+{
+  "agent": "permeability-assays",
+  "pages": [
+    "ask_jojo_wiki/methods/caco-2-bidirectional-permeability-assay.md",
+    "ask_jojo_wiki/methods/pampa-permeability-screening.md",
+    "ask_jojo_wiki/methods/mdck-bbb-permeability-models.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "3 pages: Caco-2 bidirectional, PAMPA screening, MDCK/BBB models. All 40 entries absorbed."
+}

@@ -1,0 +1,369 @@
+{
+  "assignment": "metabolic-stability-wave2",
+  "wiki_dir": "methods",
+  "topic_key": "metabolic-stability",
+  "wave": "wave2",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Group by sub-topic; do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance-docs-in-vitro-metabolism--and-transporter--mediated-drug-drug-interac-ae6d4eacd9",
+      "sha16": "293ab5e74a56c061",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance-docs-in-vitro-metabolism--and-transporter--mediated-drug-drug-interac-ae6d4eacd9.md",
+      "title": "In-Vitro-Metabolism--and-Transporter--Mediated-Drug-Drug-Interaction-Studies-Guidance-for-Industry",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/FDA Guidance docs/In-Vitro-Metabolism--and-Transporter--Mediated-Drug-Drug-Interaction-Studies-Guidance-for-Industry.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-10-create-a-new-metabolika-267de0d6c1",
+      "sha16": "1d0dc882509cd802",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-10-create-a-new-metabolika-267de0d6c1.md",
+      "title": "10-Create a New Metabolika Pathway",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/MassFrontier-8.1/MassFrontier-8.1-RTM/Manuals/10-Create a New Metabolika Pathway.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-drug-metabolism-and-pharmacokinetics-in-drug-disc-24c46ba614",
+      "sha16": "e111b2375042b7a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-drug-metabolism-and-pharmacokinetics-in-drug-disc-24c46ba614.md",
+      "title": "Drug metabolism and pharmacokinetics in drug discovery a primer for bioanalytical chemists part i",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Drug metabolism and pharmacokinetics in drug discovery a primer for bioanalytical chemists part i.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-drugtransportersinpharmacokinetics-pdf",
+      "sha16": "c2ccd73e4b46d9e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-drugtransportersinpharmacokinetics-pdf.md",
+      "title": "DrugTransportersInPharmacokinetics",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/DrugTransportersInPharmacokinetics.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-equilibrium-dialysis-and-ultracentrifugation-comp-9f967975fc",
+      "sha16": "a97661b80929eadb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-equilibrium-dialysis-and-ultracentrifugation-comp-9f967975fc.md",
+      "title": "Equilibrium Dialysis and Ultracentrifugation Compared for Determining Plasma Protein Binding Characteristics of Valproic acid",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Equilibrium Dialysis and Ultracentrifugation Compared for Determining Plasma Protein Binding Characteristics of Valproic acid.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-methods-to-measure-the-intracellular-concentratio-a5b426a3b7",
+      "sha16": "aa652746e59d2c2b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-methods-to-measure-the-intracellular-concentratio-a5b426a3b7.md",
+      "title": "Methods to measure the intracellular concentration of unlabeled compounds",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Methods to measure the intracellular concentration of unlabeled compounds.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-optimization-and-qualification-of-ultracentrifuga-d9d46e3ad4",
+      "sha16": "e2770ce481a4257a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-optimization-and-qualification-of-ultracentrifuga-d9d46e3ad4.md",
+      "title": "Optimization and Qualification of Ultracentrifugation for Protein Binding Determination",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Optimization and Qualification of Ultracentrifugation for Protein Binding Determination.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-pharmacokinetics-of-ractopamine-and-its-organ-dis-e7e20c204f",
+      "sha16": "146147b6f42b093d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-pharmacokinetics-of-ractopamine-and-its-organ-dis-e7e20c204f.md",
+      "title": "Pharmacokinetics of Ractopamine and its organ distribution in rats",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Pharmacokinetics of Ractopamine and its organ distribution in rats.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-simultaneous-screening-of-glutathione-and-cyanide-29a7b49ea4",
+      "sha16": "0be277e6fcc34798",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-simultaneous-screening-of-glutathione-and-cyanide-29a7b49ea4.md",
+      "title": "Simultaneous Screening of glutathione and cyanide adducts using precursor ion and neutral loss scans-dependent product ion",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Simultaneous Screening of glutathione and cyanide adducts using precursor ion and neutral loss scans-dependent product ion.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-translational-pharmacokinetics-and-pharmacodynami-deba455041",
+      "sha16": "f86365e8e495a96d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-translational-pharmacokinetics-and-pharmacodynami-deba455041.md",
+      "title": "Translational pharmacokinetics and pharmacodynamics of monoclonal antibodies",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Translational pharmacokinetics and pharmacodynamics of monoclonal antibodies.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-drug-metabolism-and-pharmacokinetics-in-drug-discovery-a-primer-for-bi-bbf9c95607",
+      "sha16": "e111b2375042b7a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-drug-metabolism-and-pharmacokinetics-in-drug-discovery-a-primer-for-bi-bbf9c95607.md",
+      "title": "Drug metabolism and pharmacokinetics in drug discovery a primer for bioanalytical chemists part i",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Drug metabolism and pharmacokinetics in drug discovery a primer for bioanalytical chemists part i.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-drugtransportersinpharmacokinetics-pdf",
+      "sha16": "c2ccd73e4b46d9e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-drugtransportersinpharmacokinetics-pdf.md",
+      "title": "DrugTransportersInPharmacokinetics",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/DrugTransportersInPharmacokinetics.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-equilibrium-dialysis-and-ultracentrifugation-compared-for-determining-8df96ed6e6",
+      "sha16": "a97661b80929eadb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-equilibrium-dialysis-and-ultracentrifugation-compared-for-determining-8df96ed6e6.md",
+      "title": "Equilibrium Dialysis and Ultracentrifugation Compared for Determining Plasma Protein Binding Characteristics of Valproic acid",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Equilibrium Dialysis and Ultracentrifugation Compared for Determining Plasma Protein Binding Characteristics of Valproic acid.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-methods-to-measure-the-intracellular-concentration-of-unlabeled-compounds-pdf",
+      "sha16": "aa652746e59d2c2b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-methods-to-measure-the-intracellular-concentration-of-unlabeled-compounds-pdf.md",
+      "title": "Methods to measure the intracellular concentration of unlabeled compounds",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Methods to measure the intracellular concentration of unlabeled compounds.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-optimization-and-qualification-of-ultracentrifugation-for-protein-bind-8b27bf3c0c",
+      "sha16": "e2770ce481a4257a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-optimization-and-qualification-of-ultracentrifugation-for-protein-bind-8b27bf3c0c.md",
+      "title": "Optimization and Qualification of Ultracentrifugation for Protein Binding Determination",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Optimization and Qualification of Ultracentrifugation for Protein Binding Determination.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-pharmacokinetics-of-ractopamine-and-its-organ-distribution-in-rats-pdf",
+      "sha16": "146147b6f42b093d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-pharmacokinetics-of-ractopamine-and-its-organ-distribution-in-rats-pdf.md",
+      "title": "Pharmacokinetics of Ractopamine and its organ distribution in rats",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Pharmacokinetics of Ractopamine and its organ distribution in rats.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-simultaneous-screening-of-glutathione-and-cyanide-adducts-using-precur-17cd5af3c1",
+      "sha16": "0be277e6fcc34798",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-simultaneous-screening-of-glutathione-and-cyanide-adducts-using-precur-17cd5af3c1.md",
+      "title": "Simultaneous Screening of glutathione and cyanide adducts using precursor ion and neutral loss scans-dependent product ion",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Simultaneous Screening of glutathione and cyanide adducts using precursor ion and neutral loss scans-dependent product ion.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-translational-pharmacokinetics-and-pharmacodynamics-of-monoclonal-antibodies-pdf",
+      "sha16": "f86365e8e495a96d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-translational-pharmacokinetics-and-pharmacodynamics-of-monoclonal-antibodies-pdf.md",
+      "title": "Translational pharmacokinetics and pharmacodynamics of monoclonal antibodies",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Translational pharmacokinetics and pharmacodynamics of monoclonal antibodies.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-cyp-inhibition-assay-protocol-pdf",
+      "sha16": "3cd0c20908510016",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-cyp-inhibition-assay-protocol-pdf.md",
+      "title": "Quintara Discovery CYP Inhibition Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery CYP Inhibition Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-hepatocyte-protein-binding-assay-protocol-pdf",
+      "sha16": "35a5086337b51dfc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-hepatocyte-protein-binding-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Hepatocyte Protein Binding Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Hepatocyte Protein Binding Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-hepatocyte-stability-assay-protocol-pdf",
+      "sha16": "6ffe6c19c0d33777",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-hepatocyte-stability-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Hepatocyte Stability Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Hepatocyte Stability Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-microsomal-protein-binding-assay-protocol-pdf",
+      "sha16": "daa42d76912aa630",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-microsomal-protein-binding-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Microsomal Protein Binding Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Microsomal Protein Binding Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-microsomal-stability-assay-protocol-pdf",
+      "sha16": "77fee56675600b98",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-microsomal-stability-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Microsomal Stability Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Microsomal Stability Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-hepatocyte-stability-automation-docx",
+      "sha16": "98af5e68c8958d77",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-hepatocyte-stability-automation-docx.md",
+      "title": "Hepatocyte Stability (Automation)",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Automation Protocols/Hepatocyte Stability (Automation).docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-microsomal-stability-automation-docx",
+      "sha16": "5e396faf20357237",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-microsomal-stability-automation-docx.md",
+      "title": "Microsomal Stability (Automation)",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Automation Protocols/Microsomal Stability (Automation).docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-2023-chiral-2023-hpk1-chiral-2023-hpk1-nrx-0446452-chiral-hepatocyte-interconversion-pptx",
+      "sha16": "bc3504c9dd94061f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-2023-chiral-2023-hpk1-chiral-2023-hpk1-nrx-0446452-chiral-hepatocyte-interconversion-pptx.md",
+      "title": "2023 HPK1 NRX-0446452 Chiral Hepatocyte Interconversion",
+      "source_id": "Analytical Chemistry/Trinity H - Public/2023 Chiral/2023 HPK1 Chiral/2023 HPK1 NRX-0446452 Chiral Hepatocyte Interconversion.pptx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-2023-chiral-2023-hpk1-chiral-20231206-hpk1-nrx-0446452-ar-005709-chiral-plasma-and-hepatocyte-int-81fcf04b3c",
+      "sha16": "4d104e5ad8bfeaea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-2023-chiral-2023-hpk1-chiral-20231206-hpk1-nrx-0446452-ar-005709-chiral-plasma-and-hepatocyte-int-81fcf04b3c.md",
+      "title": "20231206_HPK1_NRX-0446452_AR-005709_Chiral Plasma and Hepatocyte Interconversion",
+      "source_id": "Analytical Chemistry/Trinity H - Public/2023 Chiral/2023 HPK1 Chiral/20231206_HPK1_NRX-0446452_AR-005709_Chiral Plasma and Hepatocyte Interconversion.pptx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-interconvension-assessment-9961-0479-0479-3381-hepatocyte-stability-report-pptx",
+      "sha16": "5a8a68ef5a91cc54",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-interconvension-assessment-9961-0479-0479-3381-hepatocyte-stability-report-pptx.md",
+      "title": "0479 & 3381 Hepatocyte Stability Report",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Interconvension Assessment 9961 0479/0479 & 3381 Hepatocyte Stability Report.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-drug-metabolism-and-pharmacokinetics-in-drug-discovery-a-primer-for-bioanalytical-chem-51c42d5ef4",
+      "sha16": "e111b2375042b7a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-drug-metabolism-and-pharmacokinetics-in-drug-discovery-a-primer-for-bioanalytical-chem-51c42d5ef4.md",
+      "title": "Drug metabolism and pharmacokinetics in drug discovery a primer for bioanalytical chemists part i",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Drug metabolism and pharmacokinetics in drug discovery a primer for bioanalytical chemists part i.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-microsomal-stability-microsomal-stability-app-features-pptx",
+      "sha16": "8089e4f7d50dc9e0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-microsomal-stability-microsomal-stability-app-features-pptx.md",
+      "title": "Microsomal Stability App Features",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Microsomal Stability/Microsomal Stability App Features.pptx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-microsomal-stability-optimization-of-a-higher-throughput-microsomal-stability-screening-assay-for-f1223a6722",
+      "sha16": "de8a25ead714f55d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-microsomal-stability-optimization-of-a-higher-throughput-microsomal-stability-screening-assay-for-f1223a6722.md",
+      "title": "Optimization of a Higher Throughput Microsomal Stability Screening Assay for Profiling Drug Discovery Candidates",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Microsomal Stability/Optimization of a Higher Throughput Microsomal Stability Screening Assay for Profiling Drug Discovery Candidates.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-protocol-hepatocyte-stability-automation-docx",
+      "sha16": "e79931308b2ffd80",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-protocol-hepatocyte-stability-automation-docx.md",
+      "title": "Hepatocyte Stability (Automation)",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Protocol/Hepatocyte Stability (Automation).docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-protocol-hepatocyte-stability-docx",
+      "sha16": "133acfe14511274d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-protocol-hepatocyte-stability-docx.md",
+      "title": "Hepatocyte Stability",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Protocol/Hepatocyte Stability.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-protocol-hepatocyte-stability-editsth-docx",
+      "sha16": "ede4d76a281737a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-protocol-hepatocyte-stability-editsth-docx.md",
+      "title": "Hepatocyte Stability_editsTH",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Protocol/Hepatocyte Stability_editsTH.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-protocol-microsomal-stability-docx",
+      "sha16": "2a20a38fd48a31ef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-protocol-microsomal-stability-docx.md",
+      "title": "Microsomal Stability",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Protocol/Microsomal Stability.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-plasma-stabillity-of-nrx-compounds-by-lc-msms-docx",
+      "sha16": "e2571027191898a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-plasma-stabillity-of-nrx-compounds-by-lc-msms-docx.md",
+      "title": "Plasma Stabillity of NRX Compounds by LC-MSMS",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Plasma Metabolic Stability/Plasma Stabillity of NRX Compounds by LC-MSMS.docx",
+      "confidence": "medium",
+      "notes": "science topic token present"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-plasma-stabillity-of-nrx-compounds-by-lc-msms-docx",
+      "sha16": "e2571027191898a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-plasma-stabillity-of-nrx-compounds-by-lc-msms-docx.md",
+      "title": "Plasma Stabillity of NRX Compounds by LC-MSMS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/Plasma Metabolic Stability/Plasma Stabillity of NRX Compounds by LC-MSMS.docx",
+      "confidence": "medium",
+      "notes": "science topic token present"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-metabolic-reprogramming-of-terminally-exhausted-pdf",
+      "sha16": "13ced34c7615579b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-metabolic-reprogramming-of-terminally-exhausted-pdf.md",
+      "title": "Metabolic reprogramming of terminally exhausted",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Metabolic reprogramming of terminally exhausted.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-metabolic-rewiring-of-macrophages-by-cpg-pdf",
+      "sha16": "fd7ec40fe28ce2c2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-metabolic-rewiring-of-macrophages-by-cpg-pdf.md",
+      "title": "Metabolic rewiring of macrophages by CpG",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Metabolic rewiring of macrophages by CpG.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-metabolism-t-and-b-cell-metabolism-in-older-adults-pdf",
+      "sha16": "c3aeec6551d62512",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-metabolism-t-and-b-cell-metabolism-in-older-adults-pdf.md",
+      "title": "T and B Cell Metabolism in Older Adults",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Metabolism/T and B Cell Metabolism in Older Adults.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    }
+  ]
+}

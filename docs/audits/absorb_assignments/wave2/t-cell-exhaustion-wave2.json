@@ -1,0 +1,369 @@
+{
+  "assignment": "t-cell-exhaustion-wave2",
+  "wiki_dir": "concepts",
+  "topic_key": "t-cell-exhaustion",
+  "wave": "wave2",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/concepts/. Group by sub-topic; do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-androgen-conspires-with-the-cd8-t-cell-exhaustion-program-and-contributes-to-sex-bias-in-cancer-pdf",
+      "sha16": "0196a46645406f18",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-androgen-conspires-with-the-cd8-t-cell-exhaustion-program-and-contributes-to-sex-bias-in-cancer-pdf.md",
+      "title": "Androgen conspires with the CD8+ T cell exhaustion program and contributes to sex bias in cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Androgen conspires with the CD8+ T cell exhaustion program and contributes to sex bias in cancer.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-intravenous-nanoparticle-vaccination-generates-stem-like-tcf1-neoantigen-specific-cd8-t-cells-pdf",
+      "sha16": "4d735f68ad905892",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-intravenous-nanoparticle-vaccination-generates-stem-like-tcf1-neoantigen-specific-cd8-t-cells-pdf.md",
+      "title": "Intravenous nanoparticle vaccination generates stem-like TCF1+ neoantigen-specific CD8+ T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/Intravenous nanoparticle vaccination generates stem-like TCF1+ neoantigen-specific CD8+ T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-stem-like-progenitor-intratumoral-tcf1-pd1cd8-t-cells-w-stem-cells-pdf",
+      "sha16": "567dba5fe5a73773",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-stem-like-progenitor-intratumoral-tcf1-pd1cd8-t-cells-w-stem-cells-pdf.md",
+      "title": "Intratumoral Tcf1 PD1CD8 T cells w STem cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Stem Like Progenitor/Intratumoral Tcf1 PD1CD8 T cells w STem cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf1-expression-marks-self-renewing-human-cd8-t-cells-pdf",
+      "sha16": "d0565dc34a0f0e70",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf1-expression-marks-self-renewing-human-cd8-t-cells-pdf.md",
+      "title": "TCF1 expression marks self-renewing human CD8+ T cells.",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Stemness CD8+/TCF1 expression marks self-renewing human CD8+ T cells..pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stem-like-progenitor-intratumoral-tcf1-pd1cd8-t-cells-w-stem-cells-pdf",
+      "sha16": "567dba5fe5a73773",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stem-like-progenitor-intratumoral-tcf1-pd1cd8-t-cells-w-stem-cells-pdf.md",
+      "title": "Intratumoral Tcf1 PD1CD8 T cells w STem cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Stem Like Progenitor/Intratumoral Tcf1 PD1CD8 T cells w STem cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf1-expression-marks-self-renewing-human-cd8-t-cells-pdf",
+      "sha16": "d0565dc34a0f0e70",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf1-expression-marks-self-renewing-human-cd8-t-cells-pdf.md",
+      "title": "TCF1 expression marks self-renewing human CD8+ T cells.",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Stemness CD8+/TCF1 expression marks self-renewing human CD8+ T cells..pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-tox-tox-is-expressed-by-exhausted-and-polyfunctional-human-effector-memory-cd8-t-cells-pdf",
+      "sha16": "f1e6dea293ee3fdf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-tox-tox-is-expressed-by-exhausted-and-polyfunctional-human-effector-memory-cd8-t-cells-pdf.md",
+      "title": "Tox is expressed by exhausted and polyfunctional human effector memory cd8 T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/TOX/Tox is expressed by exhausted and polyfunctional human effector memory cd8 T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-heptotox-cell-assay-pdf",
+      "sha16": "8e761ce2851bf80f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-heptotox-cell-assay-pdf.md",
+      "title": "heptotox cell assay",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/heptotox cell assay.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-stability-study-genetox-study-shipping-manifest-docx",
+      "sha16": "2e5cf4aa17b6a661",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-stability-study-genetox-study-shipping-manifest-docx.md",
+      "title": "stability study & genetox study shipping manifest",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Thermo UV CAD MS/stability study & genetox study shipping manifest.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-analy-2f28dfd289",
+      "sha16": "1561a90bb5a7f050",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-analy-2f28dfd289.md",
+      "title": "NRX-0401647-005-AA_Certificate_of_Analysis_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/005-AA (Tox Lot)/NRX-0401647-005-AA_Certificate_of_Analysis_v01.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-analy-d2d75c135e",
+      "sha16": "4f5bcb5cb18c5ca7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-analy-d2d75c135e.md",
+      "title": "NRX-0401647-005-AA Certificate of Analysis Signed 01-07-2022",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/005-AA (Tox Lot)/NRX-0401647-005-AA Certificate of Analysis Signed 01-07-2022.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-testi-abe04bd9cb",
+      "sha16": "7734200f60adaf31",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-testi-abe04bd9cb.md",
+      "title": "NRX-0401647-005-AA Certificate of Testing Signed 16Nov2021",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/005-AA (Tox Lot)/NRX-0401647-005-AA Certificate of Testing Signed 16Nov2021.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-testing-v01-docx",
+      "sha16": "60c0b643dfcd1589",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-testing-v01-docx.md",
+      "title": "NRX-0401647-005-AA_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/005-AA (Tox Lot)/NRX-0401647-005-AA_Certificate_of_Testing_v01.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nx-1647-005-aa-lcms-pdf",
+      "sha16": "3633e42fd18b5de3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nx-1647-005-aa-lcms-pdf.md",
+      "title": "NX-1647-005-AA LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/005-AA (Tox Lot)/NX-1647-005-AA LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nx-1647-lot-005-beh-c18-lc-uv-pdf",
+      "sha16": "90592c5d3e53e93e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nx-1647-lot-005-beh-c18-lc-uv-pdf.md",
+      "title": "NX-1647 Lot 005 BEH C18 LC-UV",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/005-AA (Tox Lot)/NX-1647 Lot 005 BEH C18 LC-UV.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nrx-0404422-005-aa-certificate-of-analy-8f277d17f4",
+      "sha16": "4671a9c4875ea9af",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nrx-0404422-005-aa-certificate-of-analy-8f277d17f4.md",
+      "title": "NRX-0404422-005-AA_Certificate_of_Analysis_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/NRX-0404422-005-AA_Certificate_of_Analysis_v01.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nrx-0404422-005-aa-certificate-of-testing-v01-docx",
+      "sha16": "e25439d341b079f0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nrx-0404422-005-aa-certificate-of-testing-v01-docx.md",
+      "title": "NRX-0404422-005-AA_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/NRX-0404422-005-AA_Certificate_of_Testing_v01.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-005-aa-cot-signed-10-27-2021-pdf",
+      "sha16": "332cfb40ce42dc75",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-005-aa-cot-signed-10-27-2021-pdf.md",
+      "title": "NX-4422-005-AA CoT Signed 10-27-2021",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/NX-4422-005-AA CoT Signed 10-27-2021.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lcms-pdf",
+      "sha16": "1af27bffe2e9a849",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lcms-pdf.md",
+      "title": "NX-4422_TOX_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/NX-4422_TOX_LCMS.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lot-beh-c18-lc-uv-pdf",
+      "sha16": "1557cf37c72c08be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lot-beh-c18-lc-uv-pdf.md",
+      "title": "NX-4422 Tox Lot BEH C18 LC-UV",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/NX-4422 Tox Lot BEH C18 LC-UV.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lot-csh-c18-lc-uv-pdf",
+      "sha16": "cfffd5b15ee65acf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lot-csh-c18-lc-uv-pdf.md",
+      "title": "NX-4422 Tox Lot CSH C18 LC-UV",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/NX-4422 Tox Lot CSH C18 LC-UV.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-4-1bb-costimulation-ameliorates-t-cell-exhaustion-pdf",
+      "sha16": "b65df017812b1a6d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-4-1bb-costimulation-ameliorates-t-cell-exhaustion-pdf.md",
+      "title": "4-1BB costimulation ameliorates T cell exhaustion",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/4-1BB costimulation ameliorates T cell exhaustion.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+      "sha16": "508c2bbcb31fb979",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf.md",
+      "title": "TOX memory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Desktop Stuff 08JUL20/TOX memory.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-4-the-epigenetic-landscape-of-t-cell-exhaustion-pdf",
+      "sha16": "e03db7d4ea459ee5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-4-the-epigenetic-landscape-of-t-cell-exhaustion-pdf.md",
+      "title": "Paper 4 the epigenetic landscape of T cell exhaustion",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Emilie Paper/Paper 4 the epigenetic landscape of T cell exhaustion.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regualtor-pdf",
+      "sha16": "b6de4ef89dc2fcb9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regualtor-pdf.md",
+      "title": "Single Cell RNA seq revals TOX as a key regualtor",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/scRNA/Single Cell RNA seq revals TOX as a key regualtor.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regulator-paper-pdf",
+      "sha16": "766235d66b546147",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regulator-paper-pdf.md",
+      "title": "Single Cell RNA seq revals TOX as a key regulator (Paper)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/scRNA/Single Cell RNA seq revals TOX as a key regulator (Paper).pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf-1--zeyu-chen-john-wherry-pdf",
+      "sha16": "1a6bad982784c537",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf-1--zeyu-chen-john-wherry-pdf.md",
+      "title": "TCF-1- Zeyu Chen-John Wherry",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Stemness CD8+/TCF-1- Zeyu Chen-John Wherry.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-t-cell-exhaustion-molecular-and-cellular-insight-into-t-cell-exhasution-pdf",
+      "sha16": "be07f4ebc7668252",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-t-cell-exhaustion-molecular-and-cellular-insight-into-t-cell-exhasution-pdf.md",
+      "title": "Molecular and cellular insight into T cell exhasution",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/T Cell Exhaustion/Molecular and cellular insight into T cell exhasution.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-human-effector-t-cells-express-tox-not-so-tox-ic-pdf",
+      "sha16": "10cf0cd130c367e8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-human-effector-t-cells-express-tox-not-so-tox-ic-pdf.md",
+      "title": "Human effector T cells express TOX\u2014Not so \u201cTOX\u201dic",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Human effector T cells express TOX\u2014Not so \u201cTOX\u201dic.pdf",
+      "confidence": "low",
+      "notes": "PDF with publication-style title -- likely literature, needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-tox-memory-pdf",
+      "sha16": "508c2bbcb31fb979",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-tox-memory-pdf.md",
+      "title": "TOX memory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/TOX memory.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+      "sha16": "508c2bbcb31fb979",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf.md",
+      "title": "TOX memory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Desktop Stuff 08JUL20/TOX memory.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-4-the-epigenetic-landscape-of-t-cell-exhaustion-pdf",
+      "sha16": "e03db7d4ea459ee5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-4-the-epigenetic-landscape-of-t-cell-exhaustion-pdf.md",
+      "title": "Paper 4 the epigenetic landscape of T cell exhaustion",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Emilie Paper/Paper 4 the epigenetic landscape of T cell exhaustion.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regualtor-pdf",
+      "sha16": "b6de4ef89dc2fcb9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regualtor-pdf.md",
+      "title": "Single Cell RNA seq revals TOX as a key regualtor",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/scRNA/Single Cell RNA seq revals TOX as a key regualtor.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regulator-paper-pdf",
+      "sha16": "766235d66b546147",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regulator-paper-pdf.md",
+      "title": "Single Cell RNA seq revals TOX as a key regulator (Paper)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/scRNA/Single Cell RNA seq revals TOX as a key regulator (Paper).pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf-1--zeyu-chen-john-wherry-pdf",
+      "sha16": "1a6bad982784c537",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf-1--zeyu-chen-john-wherry-pdf.md",
+      "title": "TCF-1- Zeyu Chen-John Wherry",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Stemness CD8+/TCF-1- Zeyu Chen-John Wherry.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-t-cell-exhaustion-molecular-and-cellular-insight-into-t-cell-exhasution-pdf",
+      "sha16": "be07f4ebc7668252",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-t-cell-exhaustion-molecular-and-cellular-insight-into-t-cell-exhasution-pdf.md",
+      "title": "Molecular and cellular insight into T cell exhasution",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/T Cell Exhaustion/Molecular and cellular insight into T cell exhasution.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+      "sha16": "508c2bbcb31fb979",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf.md",
+      "title": "TOX memory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/TOX memory.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-heptox-pdf",
+      "sha16": "941699884155a69a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-heptox-pdf.md",
+      "title": "heptox",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/heptox.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-20210571-pdf",
+      "sha16": "3c63855b7fee12e9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-20210571-pdf.md",
+      "title": "20210571",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/005-AA (Tox Lot)/20210571.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-duong-natalie-1129202113448-pdf",
+      "sha16": "c0baabe440ad9bf0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-duong-natalie-1129202113448-pdf.md",
+      "title": "Duong_Natalie_1129202113448",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1647/005-AA (Tox Lot)/Duong_Natalie_1129202113448.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    }
+  ]
+}

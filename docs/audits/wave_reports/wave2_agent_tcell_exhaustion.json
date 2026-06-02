@@ -1,0 +1,123 @@
+{
+  "agent": "t-cell-exhaustion",
+  "pages": [
+    "ask_jojo_wiki/concepts/t-cell-exhaustion.md",
+    "ask_jojo_wiki/concepts/tox-transcription-factor.md",
+    "ask_jojo_wiki/concepts/tcf1-stem-like-cd8-t-cells.md",
+    "ask_jojo_wiki/concepts/t-cell-exhaustion-reversal-strategies.md"
+  ],
+  "n_covered": 27,
+  "n_reclassed_offtopic": 13,
+  "notes": "Agent's JSON omitted entry_id lists; absorbed entries will be derived from page sources blocks at checkpoint.",
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stem-like-progenitor-intratumoral-tcf1-pd1cd8-t-cells-w-stem-cells-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf1-expression-marks-self-renewing-human-cd8-t-cells-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-heptotox-cell-assay-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-stability-study-genetox-study-shipping-manifest-docx",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-analy-2f28dfd289",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-analy-d2d75c135e",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-testi-abe04bd9cb",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nrx-0401647-005-aa-certificate-of-testing-v01-docx",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nx-1647-005-aa-lcms-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-nx-1647-lot-005-beh-c18-lc-uv-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nrx-0404422-005-aa-certificate-of-analy-8f277d17f4",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nrx-0404422-005-aa-certificate-of-testing-v01-docx",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-005-aa-cot-signed-10-27-2021-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lcms-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lot-beh-c18-lc-uv-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-nx-4422-tox-lot-csh-c18-lc-uv-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-4-the-epigenetic-landscape-of-t-cell-exhaustion-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regualtor-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-scrna-single-cell-rna-seq-revals-tox-as-a-key-regulator-paper-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-tcf-1--zeyu-chen-john-wherry-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-t-cell-exhaustion-molecular-and-cellular-insight-into-t-cell-exhasution-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-tox-memory-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-heptox-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-20210571-pdf",
+      "bucket": "raw-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-005-aa-tox-lot-duong-natalie-1129202113448-pdf",
+      "bucket": "raw-data"
+    }
+  ],
+  "n_reclassed": 27
+}

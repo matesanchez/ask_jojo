@@ -1,0 +1,315 @@
+{
+  "assignment": "rna-seq-methods-wave2",
+  "wiki_dir": "methods",
+  "topic_key": "rna-seq-methods",
+  "wave": "wave2",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Group by sub-topic; do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-nurix-murigenics-scrna-efficacy-a20-nx-1607-protocol-docx",
+      "sha16": "e3e4f4c6daa9bc65",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-nurix-murigenics-scrna-efficacy-a20-nx-1607-protocol-docx.md",
+      "title": "1. Nurix_Murigenics_scRNA_ Efficacy_A20_NX-1607  Protocol_",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/1. Nurix_Murigenics_scRNA_ Efficacy_A20_NX-1607  Protocol_.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq0988-nurix---300-cell-pellets---mrnaseq-pdf",
+      "sha16": "26ec2dc8f16b20ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq0988-nurix---300-cell-pellets---mrnaseq-pdf.md",
+      "title": "SEQ21-SQ0988 Nurix - 300 cell pellets - mRNAseq",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ0988 Nurix - 300 cell pellets - mRNAseq.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf",
+      "sha16": "04077071140a364f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf.md",
+      "title": "SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final .pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-nurix-murigenics-scrna-a20-nx-1607-protocol-1-nurix-murigenics-scrna-efficacy-a20-nx-1607-protocol-docx",
+      "sha16": "e3e4f4c6daa9bc65",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-nurix-murigenics-scrna-a20-nx-1607-protocol-1-nurix-murigenics-scrna-efficacy-a20-nx-1607-protocol-docx.md",
+      "title": "1. Nurix_Murigenics_scRNA_ Efficacy_A20_NX-1607  Protocol_",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Nurix_Murigenics_scRNA_A20_NX-1607 Protocol/1. Nurix_Murigenics_scRNA_ Efficacy_A20_NX-1607  Protocol_.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-1-2022-cbl-nv-scrna-efficacy-a20-nx-1607-protocol-final-docx",
+      "sha16": "2f6e2932de5a7199",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-1-2022-cbl-nv-scrna-efficacy-a20-nx-1607-protocol-final-docx.md",
+      "title": "1. 2022_Cbl_NV!!!_scRNA_ Efficacy_A20_NX-1607_Protocol_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/1. 2022_Cbl_NV!!!_scRNA_ Efficacy_A20_NX-1607_Protocol_Final.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-1-2022-cbl-nv763-scrna-efficacy-a20-nx-1607-protocol-final-docx",
+      "sha16": "e75007d08f950128",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-1-2022-cbl-nv763-scrna-efficacy-a20-nx-1607-protocol-final-docx.md",
+      "title": "1. 2022_Cbl_NV763_scRNA_ Efficacy_A20_NX-1607_Protocol_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/1. 2022_Cbl_NV763_scRNA_ Efficacy_A20_NX-1607_Protocol_Final.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-1-2022-cbl-nv732-scrna-efficacy-a20-nx-1607-protocol-docx",
+      "sha16": "425f438cd7457df9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-1-2022-cbl-nv732-scrna-efficacy-a20-nx-1607-protocol-docx.md",
+      "title": "1. 2022_Cbl_NV732_scRNA_ Efficacy_A20_NX-1607  Protocol_",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/1. 2022_Cbl_NV732_scRNA_ Efficacy_A20_NX-1607  Protocol_.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-1-2022-cbl-nvnew-scrna-efficacy-a20-nx-1607-protocol-docx",
+      "sha16": "95cb642944205ac3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-1-2022-cbl-nvnew-scrna-efficacy-a20-nx-1607-protocol-docx.md",
+      "title": "1. 2022_Cbl_NVNEW_scRNA_ Efficacy_A20_NX-1607  Protocol_",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/1. 2022_Cbl_NVNEW_scRNA_ Efficacy_A20_NX-1607  Protocol_.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-nurix-murigenics-scrna-efficacy-a20-nx-1607-protocol-docx",
+      "sha16": "e3e4f4c6daa9bc65",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-nurix-murigenics-scrna-efficacy-a20-nx-1607-protocol-docx.md",
+      "title": "1. Nurix_Murigenics_scRNA_ Efficacy_A20_NX-1607  Protocol_",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/1. Nurix_Murigenics_scRNA_ Efficacy_A20_NX-1607  Protocol_.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-mouse-tumors-rnaseq-novaseq-s1-002-pdf",
+      "sha16": "b3b4f271d2f9b713",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-mouse-tumors-rnaseq-novaseq-s1-002-pdf.md",
+      "title": "Mouse Tumors RNAseq NovaSeq S1 (002)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Mouse Tumors RNAseq NovaSeq S1 (002).pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq0988-nurix---300-cell-pellets---mrnaseq-pdf",
+      "sha16": "26ec2dc8f16b20ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq0988-nurix---300-cell-pellets---mrnaseq-pdf.md",
+      "title": "SEQ21-SQ0988 Nurix - 300 cell pellets - mRNAseq",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ0988 Nurix - 300 cell pellets - mRNAseq.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf",
+      "sha16": "04077071140a364f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf.md",
+      "title": "SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final .pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-s2-pdf",
+      "sha16": "4a1e4239c3a2c5c4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-s2-pdf.md",
+      "title": "SEQ21-SQ1066 42 Mouse Tumors RNAseq NovaSeq S2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 42 Mouse Tumors RNAseq NovaSeq S2.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-amended-42-mouse-tumors-rnaseq-211111-2211-pdf",
+      "sha16": "b26c52b84731e746",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-amended-42-mouse-tumors-rnaseq-211111-2211-pdf.md",
+      "title": "SEQ21-SQ1066_Amended_42 Mouse Tumors RNAseq ..._211111_2211",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_Amended_42 Mouse Tumors RNAseq ..._211111_2211.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s1-pdf",
+      "sha16": "8b112e9d9f14b508",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s1-pdf.md",
+      "title": "SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S1.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s2-final-pdf",
+      "sha16": "ce42cf62aedc3210",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s2-final-pdf.md",
+      "title": "SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S2_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S2_Final.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-1-2022-cbl-nv-scrna-efficacy-a20-nx-1607-protocol-final-docx",
+      "sha16": "2f6e2932de5a7199",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-1-2022-cbl-nv-scrna-efficacy-a20-nx-1607-protocol-final-docx.md",
+      "title": "1. 2022_Cbl_NV!!!_scRNA_ Efficacy_A20_NX-1607_Protocol_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/1. 2022_Cbl_NV!!!_scRNA_ Efficacy_A20_NX-1607_Protocol_Final.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-1-2022-cbl-nv763-scrna-efficacy-a20-nx-1607-protocol-final-docx",
+      "sha16": "e75007d08f950128",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-1-2022-cbl-nv763-scrna-efficacy-a20-nx-1607-protocol-final-docx.md",
+      "title": "1. 2022_Cbl_NV763_scRNA_ Efficacy_A20_NX-1607_Protocol_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/1. 2022_Cbl_NV763_scRNA_ Efficacy_A20_NX-1607_Protocol_Final.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-1-2022-cbl-nv732-scrna-efficacy-a20-nx-1607-protocol-docx",
+      "sha16": "425f438cd7457df9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-1-2022-cbl-nv732-scrna-efficacy-a20-nx-1607-protocol-docx.md",
+      "title": "1. 2022_Cbl_NV732_scRNA_ Efficacy_A20_NX-1607  Protocol_",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/1. 2022_Cbl_NV732_scRNA_ Efficacy_A20_NX-1607  Protocol_.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-1-2022-cbl-nvnew-scrna-efficacy-a20-nx-1607-protocol-docx",
+      "sha16": "95cb642944205ac3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-1-2022-cbl-nvnew-scrna-efficacy-a20-nx-1607-protocol-docx.md",
+      "title": "1. 2022_Cbl_NVNEW_scRNA_ Efficacy_A20_NX-1607  Protocol_",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/1. 2022_Cbl_NVNEW_scRNA_ Efficacy_A20_NX-1607  Protocol_.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-nurix-murigenics-scrna-efficacy-a20-nx-1607-protocol-docx",
+      "sha16": "e3e4f4c6daa9bc65",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-1-nurix-murigenics-scrna-efficacy-a20-nx-1607-protocol-docx.md",
+      "title": "1. Nurix_Murigenics_scRNA_ Efficacy_A20_NX-1607  Protocol_",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/1. Nurix_Murigenics_scRNA_ Efficacy_A20_NX-1607  Protocol_.docx",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-mouse-tumors-rnaseq-novaseq-s1-002-pdf",
+      "sha16": "b3b4f271d2f9b713",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-mouse-tumors-rnaseq-novaseq-s1-002-pdf.md",
+      "title": "Mouse Tumors RNAseq NovaSeq S1 (002)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Mouse Tumors RNAseq NovaSeq S1 (002).pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq0988-nurix---300-cell-pellets---mrnaseq-pdf",
+      "sha16": "26ec2dc8f16b20ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq0988-nurix---300-cell-pellets---mrnaseq-pdf.md",
+      "title": "SEQ21-SQ0988 Nurix - 300 cell pellets - mRNAseq",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ0988 Nurix - 300 cell pellets - mRNAseq.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf",
+      "sha16": "04077071140a364f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf.md",
+      "title": "SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_42 Mouse Tumors RNAseq NovaSeq_Final .pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-s2-pdf",
+      "sha16": "4a1e4239c3a2c5c4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-s2-pdf.md",
+      "title": "SEQ21-SQ1066 42 Mouse Tumors RNAseq NovaSeq S2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 42 Mouse Tumors RNAseq NovaSeq S2.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-amended-42-mouse-tumors-rnaseq-211111-2211-pdf",
+      "sha16": "b26c52b84731e746",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-amended-42-mouse-tumors-rnaseq-211111-2211-pdf.md",
+      "title": "SEQ21-SQ1066_Amended_42 Mouse Tumors RNAseq ..._211111_2211",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066_Amended_42 Mouse Tumors RNAseq ..._211111_2211.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s1-pdf",
+      "sha16": "8b112e9d9f14b508",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s1-pdf.md",
+      "title": "SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S1.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s2-final-pdf",
+      "sha16": "ce42cf62aedc3210",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-jose-gomez-42-mouse-tumors-rnaseq-novaseq-s2-final-pdf.md",
+      "title": "SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S2_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/SEQ21-SQ1066 Jose Gomez 42 Mouse Tumors RNAseq NovaSeq S2_Final.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-cd28-and-mitocondrial-pdf",
+      "sha16": "ea30c4a36abede07",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-cd28-and-mitocondrial-pdf.md",
+      "title": "CD28 and mitocondrial",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/paper to understand scrnaseq/CD28 and mitocondrial.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-scrna-seq-single-cell-paper-example-pdf",
+      "sha16": "e04c6e688cd620e1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-scrna-seq-single-cell-paper-example-pdf.md",
+      "title": "Single cell paper example",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/paper to understand scrnaseq/scRNA seq/Single cell paper example.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-cd28-and-mitocondrial-pdf",
+      "sha16": "ea30c4a36abede07",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-cd28-and-mitocondrial-pdf.md",
+      "title": "CD28 and mitocondrial",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/paper to understand scrnaseq/CD28 and mitocondrial.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-mitochondria-master-reglators-of-danger-signaling-pdf",
+      "sha16": "5b64ac9a7bb8524f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-mitochondria-master-reglators-of-danger-signaling-pdf.md",
+      "title": "Mitochondria Master reglators of danger signaling",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/paper to understand scrnaseq/Mitochondria Master reglators of danger signaling.pdf",
+      "confidence": "low",
+      "notes": "PDF with publication-style title -- likely literature, needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-scrna-seq-single-cell-paper-example-pdf",
+      "sha16": "e04c6e688cd620e1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-scrna-seq-single-cell-paper-example-pdf.md",
+      "title": "Single cell paper example",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/paper to understand scrnaseq/scRNA seq/Single cell paper example.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-systematic-determination-of-the-mitochondrial-pdf",
+      "sha16": "8cf0de0d2cd98d8c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-systematic-determination-of-the-mitochondrial-pdf.md",
+      "title": "Systematic determination of the mitochondrial",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/paper to understand scrnaseq/Systematic determination of the mitochondrial.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "assignment": "tils-biology-wave2",
+  "wiki_dir": "concepts",
+  "topic_key": "tils-biology",
+  "wave": "wave2",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/concepts/. Group by sub-topic; do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v2-docx",
+      "sha16": "1d01cec25e3334ed",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v2-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v2.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2020-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "394b2fb1a274e3e7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2020-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2020_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2020_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "e6e6f751fc412e7d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v2-docx",
+      "sha16": "1d01cec25e3334ed",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v2-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v2.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-the-t-cell-receptor-repertoire-of-tumor-infiltrating-pdf",
+      "sha16": "f33236c700fd0150",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-the-t-cell-receptor-repertoire-of-tumor-infiltrating-pdf.md",
+      "title": "The T cell receptor repertoire of tumor infiltrating",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/The T cell receptor repertoire of tumor infiltrating.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2020-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "394b2fb1a274e3e7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2020-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2020_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/2020_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "e6e6f751fc412e7d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v2-docx",
+      "sha16": "1d01cec25e3334ed",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v2-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v2.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-the-t-cell-receptor-repertoire-of-tumor-infiltrating-pdf",
+      "sha16": "f33236c700fd0150",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-the-t-cell-receptor-repertoire-of-tumor-infiltrating-pdf.md",
+      "title": "The T cell receptor repertoire of tumor infiltrating",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/The T cell receptor repertoire of tumor infiltrating.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-a-new-approach-to-the-adoptive-immunotherapy-of-cancer-with-tumor-infiltrating-lymphocytes-pdf",
+      "sha16": "bcc02f2783dd2723",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-a-new-approach-to-the-adoptive-immunotherapy-of-cancer-with-tumor-infiltrating-lymphocytes-pdf.md",
+      "title": "A new approach to the adoptive immunotherapy of cancer with tumor-infiltrating lymphocytes",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/A new approach to the adoptive immunotherapy of cancer with tumor-infiltrating lymphocytes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-cd28-costimulation-drives-tumor-infiltrating-t-cell-glycolysis-to-promote-inflammation-pdf",
+      "sha16": "9dfc198fc27d7095",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-cd28-costimulation-drives-tumor-infiltrating-t-cell-glycolysis-to-promote-inflammation-pdf.md",
+      "title": "CD28 costimulation drives tumor-infiltrating T cell glycolysis to promote inflammation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/CD28 costimulation drives tumor-infiltrating T cell glycolysis to promote inflammation.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-1-2021-cbl-nv446-til-ot1-combotx-expanded-eg7-ova-pd-invivo-tx-il2-and-or-1607-v3-docx",
+      "sha16": "ec59cc5cc9f24037",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-1-2021-cbl-nv446-til-ot1-combotx-expanded-eg7-ova-pd-invivo-tx-il2-and-or-1607-v3-docx.md",
+      "title": "1. 2021_Cbl_NV446_TIL_OT1_comboTX_Expanded_EG7-OVA_PD_invivo_tx_+IL2 and_or_1607_V3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/1. 2021_Cbl_NV446_TIL_OT1_comboTX_Expanded_EG7-OVA_PD_invivo_tx_+IL2 and_or_1607_V3.docx",
+      "confidence": "medium",
+      "notes": "science topic token present"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-science-literature-notes-ctla-4-blockade-boosts-the-expansion-of-the-tils-docx",
+      "sha16": "8235f4b3500b801d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-science-literature-notes-ctla-4-blockade-boosts-the-expansion-of-the-tils-docx.md",
+      "title": "CTLA-4 blockade boosts the expansion of the TILS",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Science Literature Notes/CTLA-4 blockade boosts the expansion of the TILS.docx",
+      "confidence": "medium",
+      "notes": "science topic token present"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-pmel-ex-vivo-tils-expansion-pdf",
+      "sha16": "6cc82887250f17a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-pmel-ex-vivo-tils-expansion-pdf.md",
+      "title": "pmel ex-vivo TILs expansion",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/pmel ex-vivo TILs expansion.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    }
+  ]
+}

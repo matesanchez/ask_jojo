@@ -1,0 +1,17 @@
+{
+  "agent": "rna-seq-methods",
+  "pages": [
+    "ask_jojo_wiki/methods/scrna-seq-a20-nx-1607-efficacy-protocol.md",
+    "ask_jojo_wiki/methods/seqmatic-bulk-rnaseq-services.md",
+    "ask_jojo_wiki/methods/scrna-seq-mtdna-qc-thresholds.md",
+    "ask_jojo_wiki/methods/scrna-seq-human-t-cell-reference-atlas.md"
+  ],
+  "n_covered": 33,
+  "n_reclassed": 3,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-cd28-and-mitocondrial-pdf","bucket":"immunology-literature"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-cd28-and-mitocondrial-pdf","bucket":"immunology-literature"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-paper-to-understand-scrnaseq-mitochondria-master-reglators-of-danger-signaling-pdf","bucket":"immunology-literature"}
+  ],
+  "notes": "4 pages: A20/NX-1607 scRNA protocol, Seqmatic services, mtDNA QC, human T-cell reference atlas. 3 immunology papers misfiled by regex; recommend future absorb wave pick them up."
+}

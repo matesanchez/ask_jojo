@@ -1,0 +1,369 @@
+{
+  "assignment": "permeability-assays-wave2",
+  "wiki_dir": "methods",
+  "topic_key": "permeability-assays",
+  "wave": "wave2",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Group by sub-topic; do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-iam-literature-permeability-data-estimating-human-drug-oral-absorption-kinetics-from-caco-2-per-bfeb2f9da9",
+      "sha16": "c9c96df3c99e6ca6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-iam-literature-permeability-data-estimating-human-drug-oral-absorption-kinetics-from-caco-2-per-bfeb2f9da9.md",
+      "title": "Estimating Human Drug Oral Absorption Kinetics from Caco-2 Permeability Using Absorption Disosition Model",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/IAM/Literature Permeability Data/Estimating Human Drug Oral Absorption Kinetics from Caco-2 Permeability Using Absorption Disosition Model.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-slide-deckmimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf",
+      "sha16": "386dcfda8197b2fe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-slide-deckmimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf.md",
+      "title": "SLIDE DECKMimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/Mimetas/SLIDE DECKMimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-estimating-human-drug-oral-absorption-kinetics-from-caco-f91bc41b6f",
+      "sha16": "c9c96df3c99e6ca6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-estimating-human-drug-oral-absorption-kinetics-from-caco-f91bc41b6f.md",
+      "title": "Estimating Human Drug Oral Absorption Kinetics from Caco-2 Permeability Using Absorption Disosition Model",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Estimating Human Drug Oral Absorption Kinetics from Caco-2 Permeability Using Absorption Disosition Model.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-development-of-cassette-pampa-for-permeability-screening-pdf",
+      "sha16": "cab83933b5fd29c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-development-of-cassette-pampa-for-permeability-screening-pdf.md",
+      "title": "Development of Cassette PAMPA for Permeability Screening",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/PAMPA/Development of Cassette PAMPA for Permeability Screening.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-presentations-09feb2021-adme-update-pptx",
+      "sha16": "2a5a696b4392245c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-presentations-09feb2021-adme-update-pptx.md",
+      "title": "09Feb2021_ADME_Update",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/Presentations/09Feb2021_ADME_Update.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-presentations-23nov2020-adme-update-v2-pptx",
+      "sha16": "5f9e0393a433e7b6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-presentations-23nov2020-adme-update-v2-pptx.md",
+      "title": "23Nov2020_ADME_Update v2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/Presentations/23Nov2020_ADME_Update v2.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf",
+      "sha16": "0188a3b4e5d3a605",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf.md",
+      "title": "Mimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Mimetas/Mimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-pampa-development-of-cassette-pampa-for-permeability-screening-pdf",
+      "sha16": "cab83933b5fd29c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-pampa-development-of-cassette-pampa-for-permeability-screening-pdf.md",
+      "title": "Development of Cassette PAMPA for Permeability Screening",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/PAMPA/Development of Cassette PAMPA for Permeability Screening.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-caco-2-bi-directional-transport-assay-protocol-pdf",
+      "sha16": "30612788cacea468",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-caco-2-bi-directional-transport-assay-protocol-pdf.md",
+      "title": "QDI Caco-2 Bi-Directional Transport Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/QDI Caco-2 Bi-Directional Transport Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf",
+      "sha16": "0188a3b4e5d3a605",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf.md",
+      "title": "Mimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Mimetas/Mimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-pampa-09feb2021-adme-update-pptx",
+      "sha16": "2a5a696b4392245c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-pampa-09feb2021-adme-update-pptx.md",
+      "title": "09Feb2021_ADME_Update",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/PAMPA/09Feb2021_ADME_Update.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-pampa-23nov2020-adme-update-v2-pptx",
+      "sha16": "5f9e0393a433e7b6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-pampa-23nov2020-adme-update-v2-pptx.md",
+      "title": "23Nov2020_ADME_Update v2",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/PAMPA/23Nov2020_ADME_Update v2.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-pampa-development-of-cassette-pampa-for-permeability-screening-pdf",
+      "sha16": "cab83933b5fd29c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-pampa-development-of-cassette-pampa-for-permeability-screening-pdf.md",
+      "title": "Development of Cassette PAMPA for Permeability Screening",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/PAMPA/Development of Cassette PAMPA for Permeability Screening.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-iam-literature-permeability-data-a-novel-design-of-artificial-membrane-for-improving-the-pampa-model-pdf",
+      "sha16": "853207a23d99eb96",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-iam-literature-permeability-data-a-novel-design-of-artificial-membrane-for-improving-the-pampa-model-pdf.md",
+      "title": "A Novel Design of Artificial Membrane for Improving the PAMPA Model",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/IAM/Literature Permeability Data/A Novel Design of Artificial Membrane for Improving the PAMPA Model.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-4004-400b-caco-2-tubule-seeding-v1-1-pdf",
+      "sha16": "092ae08087a84208",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-4004-400b-caco-2-tubule-seeding-v1-1-pdf.md",
+      "title": "4004-400B Caco-2 tubule seeding_V1.1",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/Mimetas/4004-400B Caco-2 tubule seeding_V1.1.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-organoplate--caco-2-in-a-nutshell-pdf",
+      "sha16": "a4ecef10dcfd6764",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-organoplate--caco-2-in-a-nutshell-pdf.md",
+      "title": "OrganoPlate- Caco-2 in a nutshell",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/Mimetas/OrganoPlate- Caco-2 in a nutshell.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-organoready-caco-2-unpacking-instructions-pdf",
+      "sha16": "99b384ea996e4c56",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-organoready-caco-2-unpacking-instructions-pdf.md",
+      "title": "OrganoReady Caco-2 Unpacking Instructions",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/Mimetas/OrganoReady Caco-2 Unpacking Instructions.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-bbb-mdck-phamdr-pdf",
+      "sha16": "6f566223c62143c3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-bbb-mdck-phamdr-pdf.md",
+      "title": "BBB_MDCK-pHaMDR",
+      "source_id": "Analytical Chemistry/Jose L - public/Davis-Plate/Davis Summer/BBB_MDCK-pHaMDR.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-novel-pampa-pdf",
+      "sha16": "b11aad9778cdc4fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-novel-pampa-pdf.md",
+      "title": "Novel_PAMPA",
+      "source_id": "Analytical Chemistry/Jose L - public/Davis-Plate/Davis Summer/Novel_PAMPA.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-bbb-separation-methods-that-are-capable-of-revealing-blood-brain-barri-a58de2e41a",
+      "sha16": "d214d496646558e2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-bbb-separation-methods-that-are-capable-of-revealing-blood-brain-barri-a58de2e41a.md",
+      "title": "Separation methods that are capable of revealing blood-brain barrier permeability",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/BBB/Separation methods that are capable of revealing blood-brain barrier permeability.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-determination-of-drug-permeability-and-prediction-347074bdae",
+      "sha16": "15c5be360de24e6a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-determination-of-drug-permeability-and-prediction-347074bdae.md",
+      "title": "Determination of drug permeability and prediction of drug absorption in caco-2 monolayers",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Determination of drug permeability and prediction of drug absorption in caco-2 monolayers.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-drug-membrane-permeability-across-chemical-space-pdf",
+      "sha16": "f9408045b3e613e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-drug-membrane-permeability-across-chemical-space-pdf.md",
+      "title": "Drug membrane permeability across chemical space",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Drug membrane permeability across chemical space.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-intestinal-permeability-regulation-by-tight-junction-impl-611dcc5f9e",
+      "sha16": "dc631fab853afe60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-intestinal-permeability-regulation-by-tight-junction-impl-611dcc5f9e.md",
+      "title": "Intestinal Permeability Regulation by Tight Junction Implication on Inflammatory Bowel Diseases",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Intestinal Permeability Regulation by Tight Junction Implication on Inflammatory Bowel Diseases.pdf",
+      "confidence": "low",
+      "notes": "PDF with publication-style title -- likely literature, needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-a-novel-design-of-artificial-membrane-for-improving-the-pampa-model-pdf",
+      "sha16": "853207a23d99eb96",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-a-novel-design-of-artificial-membrane-for-improving-the-pampa-model-pdf.md",
+      "title": "A Novel Design of Artificial Membrane for Improving the PAMPA Model",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/PAMPA/A Novel Design of Artificial Membrane for Improving the PAMPA Model.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-an-dl-gt-053-automation-of-pre-coated-pampa-plates-improves-pred-6f321a7ca0",
+      "sha16": "f5b811c32f7134ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-an-dl-gt-053-automation-of-pre-coated-pampa-plates-improves-pred-6f321a7ca0.md",
+      "title": "an_DL_GT_053_Automation_of_Pre-coated_PAMPA_Plates_Improves_Predictability_Reproducibility_Efficiency",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/PAMPA/an_DL_GT_053_Automation_of_Pre-coated_PAMPA_Plates_Improves_Predictability_Reproducibility_Efficiency.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-an-dl-gt-057-novel-design-of-artificial-membrane-for-improving-p-c7f6627e36",
+      "sha16": "c017b75c5107db07",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-an-dl-gt-057-novel-design-of-artificial-membrane-for-improving-p-c7f6627e36.md",
+      "title": "an_DL_GT_057_Novel_Design_of_Artificial_Membrane_for_Improving__PAMPA_Model",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/PAMPA/an_DL_GT_057_Novel_Design_of_Artificial_Membrane_for_Improving__PAMPA_Model.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-cls-dl-gt-023-rev1-pdf",
+      "sha16": "375190e44b6b0c85",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-cls-dl-gt-023-rev1-pdf.md",
+      "title": "CLS_DL_GT_023_REV1",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/PAMPA/CLS_DL_GT_023_REV1.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-webinar-2008-08-pampa101-pdf",
+      "sha16": "435227c54a54cc01",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-pampa-webinar-2008-08-pampa101-pdf.md",
+      "title": "webinar_2008_08_PAMPA101",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/PAMPA/webinar_2008_08_PAMPA101.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-corning-permeable-supports-selection-guide-pdf",
+      "sha16": "c0389fbb610d487e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-corning-permeable-supports-selection-guide-pdf.md",
+      "title": "Corning Permeable Supports Selection Guide",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Corning Permeable Supports Selection Guide.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---corning-hclass3q-h-class-data-pampa-plate-pdf",
+      "sha16": "fb757388da41314d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---corning-hclass3q-h-class-data-pampa-plate-pdf.md",
+      "title": "PAMPA Plate",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/PAMPA - Corning HClass3Q/H Class Data/PAMPA Plate.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---corning-hclass3q-h-class-data-pbs-standards-pdf",
+      "sha16": "ab7eacbdbefb0405",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---corning-hclass3q-h-class-data-pbs-standards-pdf.md",
+      "title": "PBS Standards",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/PAMPA - Corning HClass3Q/H Class Data/PBS Standards.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---corning-hclass3q-h-class-data-pbsdmso-standards-pdf",
+      "sha16": "5cd7a9c6d22deef0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---corning-hclass3q-h-class-data-pbsdmso-standards-pdf.md",
+      "title": "PBSDMSO Standards",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/PAMPA - Corning HClass3Q/H Class Data/PBSDMSO Standards.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-automation-of-pampa-poster-pdf",
+      "sha16": "917abf58a98ba35a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-automation-of-pampa-poster-pdf.md",
+      "title": "Automation of PAMPA Poster",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/PAMPA - PION/Gutbox Literature/Automation of PAMPA Poster.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-gut-box-instruction-manual-pdf",
+      "sha16": "c4abe84d895e4f9b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-gut-box-instruction-manual-pdf.md",
+      "title": "Gut Box Instruction Manual",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/PAMPA - PION/Gutbox Literature/Gut Box Instruction Manual.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-highly-predictive-and-interpretable-models-fo-e5bdaa1d11",
+      "sha16": "ad2a322a63daf6c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-highly-predictive-and-interpretable-models-fo-e5bdaa1d11.md",
+      "title": "Highly Predictive and Interpretable Models for PAMPA Permeability",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/PAMPA - PION/Gutbox Literature/Highly Predictive and Interpretable Models for PAMPA Permeability.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-pampa-explorer-im-ver-4-git-bbb-pdf",
+      "sha16": "43ef1d346a899df0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-pampa-explorer-im-ver-4-git-bbb-pdf.md",
+      "title": "PAMPA Explorer-IM-Ver 4 GIT BBB",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/PAMPA - PION/Gutbox Literature/PAMPA Explorer-IM-Ver 4 GIT BBB.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-bbb-bbb-pampa-pdf",
+      "sha16": "6d6e1dee9626d5cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-bbb-bbb-pampa-pdf.md",
+      "title": "BBB-PAMPA",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/BBB/BBB-PAMPA.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-caco-2-pdf",
+      "sha16": "18a60f49accef562",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-caco-2-pdf.md",
+      "title": "Caco-2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Caco-2.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-determination-of-drug-permeability-and-prediction-of-drug-absorption-i-969987d6fc",
+      "sha16": "15c5be360de24e6a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-determination-of-drug-permeability-and-prediction-of-drug-absorption-i-969987d6fc.md",
+      "title": "Determination of drug permeability and prediction of drug absorption in caco-2 monolayers",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Determination of drug permeability and prediction of drug absorption in caco-2 monolayers.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-drug-membrane-permeability-across-chemical-space-pdf",
+      "sha16": "f9408045b3e613e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-drug-membrane-permeability-across-chemical-space-pdf.md",
+      "title": "Drug membrane permeability across chemical space",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Drug membrane permeability across chemical space.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "agent": "metabolic-stability",
+  "pages": [
+    "ask_jojo_wiki/methods/microsomal-stability-assay.md",
+    "ask_jojo_wiki/methods/cyp450-inhibition-assay.md",
+    "ask_jojo_wiki/methods/hepatocyte-stability-assay.md",
+    "ask_jojo_wiki/methods/adme-assay-principles-and-reference-library.md"
+  ],
+  "n_covered": 32,
+  "n_reclassed": 8,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-plasma-stabillity-of-nrx-compounds-by-lc-msms-docx","bucket":"mislabeled-source"},
+    {"entry_id":"publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-plasma-stabillity-of-nrx-compounds-by-lc-msms-docx","bucket":"mislabeled-source"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-metabolic-reprogramming-of-terminally-exhausted-pdf","bucket":"immunology-literature"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-metabolic-rewiring-of-macrophages-by-cpg-pdf","bucket":"immunology-literature"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-metabolism-t-and-b-cell-metabolism-in-older-adults-pdf","bucket":"immunology-literature"},
+    {"entry_id":"publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-10-create-a-new-metabolika-267de0d6c1","bucket":"software-documentation"},
+    {"entry_id":"publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-hepatocyte-protein-binding-assay-protocol-pdf","bucket":"image-only-no-extractable-content"},
+    {"entry_id":"publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-microsomal-protein-binding-assay-protocol-pdf","bucket":"image-only-no-extractable-content"}
+  ],
+  "notes": "3 new + 1 updated. ADME-principles page expanded with DMPK literature."
+}
