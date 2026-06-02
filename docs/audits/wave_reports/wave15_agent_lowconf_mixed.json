@@ -1,0 +1,13 @@
+{
+  "agent": "low-conf-mixed-wave15",
+  "pages": [
+    "ask_jojo_wiki/references/sciex-qtrap-6500plus-cg24361711.md",
+    "ask_jojo_wiki/references/waters-acquity-ac-atf-chiral-blank-runs-2022.md",
+    "ask_jojo_wiki/references/agilent-g6125b-prep-lcms-tune-records.md",
+    "ask_jojo_wiki/references/nx-2127-impurity-id-campaign-2021.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "4 new pages: SCIEX QTRAP 6500+, Waters Acquity ATF chiral blanks 2022, Agilent G6125B prep-LCMS tune records, NX-2127 impurity ID campaign 2021. All 40 absorbed across 9-12 sources each."
+}

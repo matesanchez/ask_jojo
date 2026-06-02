@@ -1,0 +1,327 @@
+{
+  "assignment": "low-conf-jon-k-wave15",
+  "wiki_dir": "references",
+  "wave": "wave15",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-quickref-shortcuts-pdf",
+      "sha16": "93c278e534473526",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-quickref-shortcuts-pdf.md",
+      "title": "QuickRef_Shortcuts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/EFS/QuickRef_Shortcuts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-tracefinder-labdirector-pdf",
+      "sha16": "409d7c4533bb0738",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-tracefinder-labdirector-pdf.md",
+      "title": "TraceFinder_LabDirector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/EFS/TraceFinder_LabDirector.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-tracefinder-user-pdf",
+      "sha16": "9292f8ec66cc5a2b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-tracefinder-user-pdf.md",
+      "title": "TraceFinder_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/EFS/TraceFinder_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-administrator-pdf",
+      "sha16": "c2f349e8cdf5e075",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-administrator-pdf.md",
+      "title": "Administrator",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Forensic/Administrator.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-quickref-acquisition-pdf",
+      "sha16": "760d80727f8b27bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-quickref-acquisition-pdf.md",
+      "title": "QuickRef_Acquisition",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Forensic/QuickRef_Acquisition.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-quickref-analysis-pdf",
+      "sha16": "b99901c185db2db6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-quickref-analysis-pdf.md",
+      "title": "QuickRef_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Forensic/QuickRef_Analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-quickref-shortcuts-pdf",
+      "sha16": "c92377c8860982d7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-quickref-shortcuts-pdf.md",
+      "title": "QuickRef_Shortcuts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Forensic/QuickRef_Shortcuts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-tracefinder-lab-9f98458b6a",
+      "sha16": "72fc6830da1c0eb5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-tracefinder-lab-9f98458b6a.md",
+      "title": "TraceFinder_LabDirector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Forensic/TraceFinder_LabDirector.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-tracefinder-user-pdf",
+      "sha16": "c4be03725ff47470",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-forensic-tracefinder-user-pdf.md",
+      "title": "TraceFinder_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Forensic/TraceFinder_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-administrator-pdf",
+      "sha16": "c2f349e8cdf5e075",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-administrator-pdf.md",
+      "title": "Administrator",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/General/Administrator.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-quickref-acquisition-pdf",
+      "sha16": "9e59473b8301fba4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-quickref-acquisition-pdf.md",
+      "title": "QuickRef_Acquisition",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/General/QuickRef_Acquisition.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-quickref-analysis-pdf",
+      "sha16": "ed68bc0d9e825310",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-quickref-analysis-pdf.md",
+      "title": "QuickRef_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/General/QuickRef_Analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-quickref-shortcuts-pdf",
+      "sha16": "9fb0e6893f90f2c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-quickref-shortcuts-pdf.md",
+      "title": "QuickRef_Shortcuts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/General/QuickRef_Shortcuts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-tracefinder-labdirector-pdf",
+      "sha16": "21e84a78eb609268",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-tracefinder-labdirector-pdf.md",
+      "title": "TraceFinder_LabDirector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/General/TraceFinder_LabDirector.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-tracefinder-user-pdf",
+      "sha16": "f6c8bda6c5aa5f60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-general-tracefinder-user-pdf.md",
+      "title": "TraceFinder_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/General/TraceFinder_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-nist-nistms-ver23man-pdf",
+      "sha16": "9b1b51a75e904dc2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-nist-nistms-ver23man-pdf.md",
+      "title": "nistms_ver23man",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/NIST/nistms_ver23man.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tsq-series-ii-preinstallation-requirements-guide-jk-pdf",
+      "sha16": "86c5b75301103796",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tsq-series-ii-preinstallation-requirements-guide-jk-pdf.md",
+      "title": "TSQ Series II Preinstallation Requirements Guide (JK)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TSQ Series II Preinstallation Requirements Guide (JK).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-vsp-plan-b-12-12-24--10--25-1-pdf",
+      "sha16": "877138f354049de9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-vsp-plan-b-12-12-24--10--25-1-pdf.md",
+      "title": "VSP Plan B 12_12_24 -10_-25 (1)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/VSP Plan B 12_12_24 -10_-25 (1).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-vsp-plan-b-12-12-24--10--25-pdf",
+      "sha16": "ec2520eb91b59466",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-vsp-plan-b-12-12-24--10--25-pdf.md",
+      "title": "VSP Plan B 12_12_24 -10_-25",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/VSP Plan B 12_12_24 -10_-25.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-wybot-return-label-pdf",
+      "sha16": "75aab6ceb6eaa11f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-wybot-return-label-pdf.md",
+      "title": "wybot return label",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/wybot return label.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-26615219f7",
+      "sha16": "7037f140198b099d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-26615219f7.md",
+      "title": "Xcalibur47_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/Release Notes/Xcalibur47_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-ae5d32b6cb",
+      "sha16": "35f173f32bbc1d80",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-ae5d32b6cb.md",
+      "title": "Xcalibur4.7_EULA",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/Release Notes/Xcalibur4.7_EULA.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-bba27d3c7b",
+      "sha16": "2852f5b33d865698",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-bba27d3c7b.md",
+      "title": "AuditTrailUsers_AccessDB_VulnerabilityDisclossure",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/AuditTrailUsers_AccessDB_VulnerabilityDisclossure.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-bf0ee79631",
+      "sha16": "bc9287fc8ae6199b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-bf0ee79631.md",
+      "title": "mzVault23SP1RevB_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/Release Notes/mzVault23SP1RevB_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-c0b3e2507a",
+      "sha16": "254d0b0a2ccfa928",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-document-c0b3e2507a.md",
+      "title": "FreeStyle1.8SP2 QF1_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/Release Notes/FreeStyle1.8SP2 QF1_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-09994c4d9c",
+      "sha16": "7242ba2f4f140897",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-09994c4d9c.md",
+      "title": "Xcalibur_Library_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Xcalibur_Library_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-0d4adf7f8d",
+      "sha16": "d900ff0b7cd0fe02",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-0d4adf7f8d.md",
+      "title": "FreeStyle_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/FreeStyle_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-158905dab4",
+      "sha16": "4f262868208ef046",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-158905dab4.md",
+      "title": "Xcalibur_XReport_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Xcalibur_XReport_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-29df84f480",
+      "sha16": "9d333e5d672f0b6b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-29df84f480.md",
+      "title": "Xcalibur_Start",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Xcalibur_Start.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-a506f7ad0c",
+      "sha16": "a105f7ca6c80fa4e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-a506f7ad0c.md",
+      "title": "Xcalibur_AQ_Proc_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Xcalibur_AQ_Proc_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-c0da9c5c13",
+      "sha16": "874f5eb6ea0dab22",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-c0da9c5c13.md",
+      "title": "Xcalibur_Quan_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Xcalibur_Quan_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-ef8a69f437",
+      "sha16": "502b91631a7aba1d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-ef8a69f437.md",
+      "title": "Xcalibur_Qual_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Xcalibur_Qual_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-f930f9740f",
+      "sha16": "50974f160ddb33d7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-f930f9740f.md",
+      "title": "Foundation_Admin_2023",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Foundation_Admin_2023.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-fe38a53a42",
+      "sha16": "5ea1eb4a12e154f9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-1-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-fe38a53a42.md",
+      "title": "Xcalibur_QuickStart",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7 (1)/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Xcalibur_QuickStart.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-2601931efe",
+      "sha16": "7037f140198b099d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-2601931efe.md",
+      "title": "Xcalibur47_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/Release Notes/Xcalibur47_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-3d6cf4d0d4",
+      "sha16": "bc9287fc8ae6199b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-3d6cf4d0d4.md",
+      "title": "mzVault23SP1RevB_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/Release Notes/mzVault23SP1RevB_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-915f3c20dc",
+      "sha16": "254d0b0a2ccfa928",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-915f3c20dc.md",
+      "title": "FreeStyle1.8SP2 QF1_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/Release Notes/FreeStyle1.8SP2 QF1_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-a353a28e13",
+      "sha16": "35f173f32bbc1d80",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-a353a28e13.md",
+      "title": "Xcalibur4.7_EULA",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/Release Notes/Xcalibur4.7_EULA.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-f8d8a6f430",
+      "sha16": "2852f5b33d865698",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-documentat-f8d8a6f430.md",
+      "title": "AuditTrailUsers_AccessDB_VulnerabilityDisclossure",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Documentation/AuditTrailUsers_AccessDB_VulnerabilityDisclossure.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-m-38848c3689",
+      "sha16": "9d333e5d672f0b6b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-xcalibur-4-7-rm0085-er-4-7-69-testline-db-xcalibur-v4-7-69-37-xcalibur-m-38848c3689.md",
+      "title": "Xcalibur_Start",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Xcalibur 4.7/RM0085-ER-4.7.69-Testline-DB-Xcalibur-v4.7.69.37/Xcalibur/Manuals/English/Xcalibur_Start.pdf",
+      "confidence": "low"
+    }
+  ]
+}

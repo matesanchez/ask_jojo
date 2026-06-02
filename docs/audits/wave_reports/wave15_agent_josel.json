@@ -1,0 +1,12 @@
+{
+  "agent": "jose-l-wave15",
+  "pages": [
+    "ask_jojo_wiki/references/nrx-0474-2017-jg-stability-calibration-series.md",
+    "ask_jojo_wiki/references/nrx-1152-2017-jg-stability-calibration-series.md",
+    "ask_jojo_wiki/references/nrx-9393-2017-jg-stability-calibration-series.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "Wave 15 produced NRX-1152 and NRX-9393 new stability pages plus updates to NRX-0474. All 40 entries absorbed across 11 cited pages (7 created this session, 4 from prior). Per-compound stability calibration series."
+}

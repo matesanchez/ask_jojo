@@ -1,0 +1,11 @@
+{
+  "agent": "jose-gomez-low-conf-wave15",
+  "pages": [
+    "ask_jojo_wiki/references/cbl-b-and-nk-cell-biology.md",
+    "ask_jojo_wiki/references/t-cell-biology-literature.md"
+  ],
+  "n_covered": 2,
+  "n_reclassed": 38,
+  "reclassified_out": [],
+  "notes": "2 existing pages enriched (UTX/NK sex-differences -> cbl-b-and-nk-cell-biology; Tfh germinal center review -> t-cell-biology-literature). 38 reclassified: 9 receipts, 4 tax/financial, 7 art-admin, 3 vendor-admin, 2 image-only, 1 internal procurement, 3 SARS-CoV-2, 4 off-topic bio, 1 reagent UG, 1 order form."
+}
