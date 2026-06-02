@@ -1,0 +1,327 @@
+{
+  "assignment": "low-conf-jon-k-wave13",
+  "wiki_dir": "references",
+  "wave": "wave13",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-pone-0129749-pdf",
+      "sha16": "acd334e02b6fb479",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-pone-0129749-pdf.md",
+      "title": "pone.0129749",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/pone.0129749.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-librarydataset-10-0-pdf",
+      "sha16": "5a2eccba4a6b7c20",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-librarydataset-10-0-pdf.md",
+      "title": "LibraryDataSet_10_0",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quant 10.2/Quant 10.2/Additional/Schema/LibraryDataSet_10_0.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-unknownsanalysisdataset-10-1-pdf",
+      "sha16": "027fb2af08e8ec45",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-unknownsanalysisdataset-10-1-pdf.md",
+      "title": "UnknownsAnalysisDataSet_10_1",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quant 10.2/Quant 10.2/Additional/Schema/UnknownsAnalysisDataSet_10_1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-qrs-agilent-masshunter-quant-aeef65d017",
+      "sha16": "4aacc13367e1ca41",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-qrs-agilent-masshunter-quant-aeef65d017.md",
+      "title": "Agilent MassHunter Quant - Quantitative Report System - QRS Excel-based trend charts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quant 10.2/Quant 10.2/Additional/Specials/QRS/Agilent MassHunter Quant - Quantitative Report System - QRS Excel-based trend charts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-rfg-astm-d-5769---mh-data-mh-q-d85a6e5271",
+      "sha16": "39e88750270ca5d1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-rfg-astm-d-5769---mh-data-mh-q-d85a6e5271.md",
+      "title": "RFG_AromaticsQuant",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quant 10.2/Quant 10.2/Additional/Specials/RFG/ASTM D-5769 - MH/Data-MH/QuantReports/test/RFG_AromaticsQuant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-rfg-astm-d-5769---mh-data-mh-q-fa62cadf50",
+      "sha16": "5b57ff31610cb9c5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-rfg-astm-d-5769---mh-data-mh-q-fa62cadf50.md",
+      "title": "RFG_AromaticsQuant",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quant 10.2/Quant 10.2/Additional/Specials/RFG/ASTM D-5769 - MH/Data-MH/QuantReports/test-1/RFG_AromaticsQuant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-support-certificate-masshunter-quant-10-2-declarat-120bf4e8f1",
+      "sha16": "49561f088a7bbaf5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-support-certificate-masshunter-quant-10-2-declarat-120bf4e8f1.md",
+      "title": "MassHunter Quant 10.2_DeclarationSoftwareQuality",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quant 10.2/Quant 10.2/Support/Certificate/MassHunter Quant 10.2_DeclarationSoftwareQuality.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quote-summary---progressive-pdf",
+      "sha16": "ab24642613e2b73b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quote-summary---progressive-pdf.md",
+      "title": "Quote Summary - Progressive",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Quote Summary - Progressive.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-robertson-microlit-labs-rml-master-sow-nov-2-pdf",
+      "sha16": "fc5112f8678e7822",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-robertson-microlit-labs-rml-master-sow-nov-2-pdf.md",
+      "title": "Robertson Microlit Labs (RML)_Master SOW_(Nov 2...",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Robertson Microlit Labs (RML)_Master SOW_(Nov 2....pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-emax-plus-user-guide-pdf",
+      "sha16": "a5bf59c2ac022eec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-emax-plus-user-guide-pdf.md",
+      "title": "Emax_Plus_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/Emax_Plus_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-emax-vmax-user-guide-pdf",
+      "sha16": "d9e87c2b2550b54d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-emax-vmax-user-guide-pdf.md",
+      "title": "Emax_Vmax_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/Emax_Vmax_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-filtermax-user-guide-pdf",
+      "sha16": "35c3de0be43839ff",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-filtermax-user-guide-pdf.md",
+      "title": "FilterMax_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/FilterMax_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-flexstation-3-user-guide-pdf",
+      "sha16": "902a7e990729d123",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-flexstation-3-user-guide-pdf.md",
+      "title": "FlexStation_3_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/FlexStation_3_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-gemini-user-guide-pdf",
+      "sha16": "0a5c9316a9fbae09",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-gemini-user-guide-pdf.md",
+      "title": "Gemini_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/Gemini_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmax-pro-formula-reference-guide-pdf",
+      "sha16": "51aa42dbb54f33ac",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmax-pro-formula-reference-guide-pdf.md",
+      "title": "SoftMax_Pro_Formula_Reference_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SoftMax_Pro_Formula_Reference_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmax-pro-user-guide-pdf",
+      "sha16": "0cd65877b79cfeff",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmax-pro-user-guide-pdf.md",
+      "title": "SoftMax_Pro_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SoftMax_Pro_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmaxproautomationapirefguide-pdf",
+      "sha16": "5d03329e90361cdf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmaxproautomationapirefguide-pdf.md",
+      "title": "SoftMaxProAutomationAPIRefGuide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SoftMaxProAutomationAPIRefGuide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-abs-user-guide-pdf",
+      "sha16": "2c5464871354e388",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-abs-user-guide-pdf.md",
+      "title": "SpectraMax_ABS_User Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_ABS_User Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-i3-user-guide-pdf",
+      "sha16": "c176879fa0f65187",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-i3-user-guide-pdf.md",
+      "title": "SpectraMax_i3_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_i3_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-i3x-user-guide-pdf",
+      "sha16": "726bfdb6657db62e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-i3x-user-guide-pdf.md",
+      "title": "SpectraMax_i3x_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_i3x_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id3-installation-guide-imposed-pdf",
+      "sha16": "9069646dd8fc91d1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id3-installation-guide-imposed-pdf.md",
+      "title": "SpectraMax iD3 Installation Guide-Imposed",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax iD3 Installation Guide-Imposed.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id3-user-guide-pdf",
+      "sha16": "293223334aa20be2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id3-user-guide-pdf.md",
+      "title": "SpectraMax_iD3_User Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_iD3_User Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id5-user-guide-pdf",
+      "sha16": "c64f31eaa8c5ba1e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id5-user-guide-pdf.md",
+      "title": "SpectraMax_iD5_User Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_iD5_User Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-l-userguide-pdf",
+      "sha16": "0dfd82c7e5ca7408",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-l-userguide-pdf.md",
+      "title": "SpectraMax_L_UserGuide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_L_UserGuide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-m2-m2e-user-guide-pdf",
+      "sha16": "ab0faef8e1c1f960",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-m2-m2e-user-guide-pdf.md",
+      "title": "SpectraMax_M2_M2e_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_M2_M2e_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-m3-m4-m5-m5e-user-guide-pdf",
+      "sha16": "95ea9005b2a44f23",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-m3-m4-m5-m5e-user-guide-pdf.md",
+      "title": "SpectraMax_M3_M4_M5_M5e_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_M3_M4_M5_M5e_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-paradigm-safety-guide-pdf",
+      "sha16": "7858c0b1cb460c14",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-paradigm-safety-guide-pdf.md",
+      "title": "SpectraMax_Paradigm_Safety_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_Paradigm_Safety_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-paradigm-user-guide-pdf",
+      "sha16": "da0ffaef278c4c0e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-paradigm-user-guide-pdf.md",
+      "title": "SpectraMax_Paradigm_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_Paradigm_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-plus384-190-340pc384-versamax-pdf",
+      "sha16": "69558ffa02b679a2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-plus384-190-340pc384-versamax-pdf.md",
+      "title": "SpectraMax_Plus384_190_340PC384_VersaMax",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMax_Plus384_190_340PC384_VersaMax.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramaxlluminometeruserguide-pdf",
+      "sha16": "d58c545bdce722a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramaxlluminometeruserguide-pdf.md",
+      "title": "SpectraMaxLLuminometerUserGuide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/SpectraMaxLLuminometerUserGuide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-stakmax-user-manual-pdf",
+      "sha16": "ec453fae5706746c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-stakmax-user-manual-pdf.md",
+      "title": "StakMax User Manual",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/StakMax User Manual.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-stakmax-userguide-pdf",
+      "sha16": "c8f20b27d4b47d11",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-stakmax-userguide-pdf.md",
+      "title": "StakMax_UserGuide",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/SoftMax Pro 7.1.2/User Guides/StakMax_UserGuide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-special-offers-and-discounts-pdf",
+      "sha16": "f831637140941b57",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-special-offers-and-discounts-pdf.md",
+      "title": "Special_Offers_and_Discounts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Special_Offers_and_Discounts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-1-pdf",
+      "sha16": "d392c787e472a0a9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-1-pdf.md",
+      "title": "Thermo_Electron_Quote_CPQ-00666567 (1)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Thermo_Electron_Quote_CPQ-00666567 (1).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-2-pdf",
+      "sha16": "6d1731e400a5ae3f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-2-pdf.md",
+      "title": "Thermo_Electron_Quote_CPQ-00666567 (2)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Thermo_Electron_Quote_CPQ-00666567 (2).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-3-pdf",
+      "sha16": "52f06d217f254d68",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-3-pdf.md",
+      "title": "Thermo_Electron_Quote_CPQ-00666567 (3)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Thermo_Electron_Quote_CPQ-00666567 (3).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-4-pdf",
+      "sha16": "cc80d56fb1fa4bca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-4-pdf.md",
+      "title": "Thermo_Electron_Quote_CPQ-00666567 (4)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Thermo_Electron_Quote_CPQ-00666567 (4).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-pdf",
+      "sha16": "b5159616999f2316",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-pdf.md",
+      "title": "Thermo_Electron_Quote_CPQ-00666567",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/Thermo_Electron_Quote_CPQ-00666567.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-freestyle-user-pdf",
+      "sha16": "ac3f1ee4035b32eb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-freestyle-user-pdf.md",
+      "title": "FreeStyle_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Documentation/FreeStyle_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-freestyle1-7-relea-bc6dd3bfe5",
+      "sha16": "8eabb228f7a62d96",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-freestyle1-7-relea-bc6dd3bfe5.md",
+      "title": "FreeStyle1.7_Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Documentation/FreeStyle1.7_Release Notes.pdf",
+      "confidence": "low"
+    }
+  ]
+}

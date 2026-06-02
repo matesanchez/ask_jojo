@@ -1,0 +1,16 @@
+{
+  "agent": "low-conf-mixed-wave13",
+  "pages": [
+    "ask_jojo_wiki/references/toxicol-pathol-1995-pk-toxicology-supplement.md",
+    "ask_jojo_wiki/references/dmpk-transporter-clearance-case-studies.md",
+    "ask_jojo_wiki/references/target-engagement-bret-nanoluc.md",
+    "ask_jojo_wiki/references/analytical-chemistry-instruments-and-drivers.md",
+    "ask_jojo_wiki/references/tissue-specific-tregs-cancer-bibliography.md",
+    "ask_jojo_wiki/references/analytical-chemistry-bibliography-misc-2021.md",
+    "ask_jojo_wiki/references/lipid-based-oral-delivery-bibliography.md"
+  ],
+  "n_covered": 38,
+  "n_reclassed": 2,
+  "reclassified_out": [],
+  "notes": "5 new + 2 updated (4 page-edits including sha256 fixes). 30 absorbed, 8 sha-dupes of LCGC mag, 2 license texts skipped."
+}

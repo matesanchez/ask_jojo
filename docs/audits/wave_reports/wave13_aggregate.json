@@ -1,0 +1,236 @@
+{
+  "wave": "wave13",
+  "agents": [
+    {
+      "agent": "low-conf-jon-k-wave13",
+      "pages": [],
+      "n_covered": 0,
+      "n_reclassed": 40,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-pone-0129749-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-librarydataset-10-0-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-unknownsanalysisdataset-10-1-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-qrs-agilent-masshunter-quant-aeef65d017",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-rfg-astm-d-5769---mh-data-mh-q-d85a6e5271",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-specials-rfg-astm-d-5769---mh-data-mh-q-fa62cadf50",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-support-certificate-masshunter-quant-10-2-declarat-120bf4e8f1",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quote-summary---progressive-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-robertson-microlit-labs-rml-master-sow-nov-2-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-emax-plus-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-emax-vmax-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-filtermax-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-flexstation-3-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-gemini-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmax-pro-formula-reference-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmax-pro-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-softmaxproautomationapirefguide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-abs-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-i3-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-i3x-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id3-installation-guide-imposed-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id3-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-id5-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-l-userguide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-m2-m2e-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-m3-m4-m5-m5e-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-paradigm-safety-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-paradigm-user-guide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramax-plus384-190-340pc384-versamax-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-spectramaxlluminometeruserguide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-stakmax-user-manual-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-softmax-pro-7-1-2-user-guides-stakmax-userguide-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-special-offers-and-discounts-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-1-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-2-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-3-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-4-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-thermo-electron-quote-cpq-00666567-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-freestyle-user-pdf",
+          "bucket": "vendor-or-personal"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-freestyle1-7-relea-bc6dd3bfe5",
+          "bucket": "vendor-or-personal"
+        }
+      ],
+      "notes": "All 40 reclassified: 15 SoftMax Pro vendor manuals, 2 software schema docs, 5 vendor quotes, 1 CRO SOW boilerplate, 2 TraceFinder/FreeStyle docs, demo/sample data, vendor offers, 1 external PLOS ONE paper unrelated."
+    },
+    {
+      "agent": "jose-gomez-low-conf-wave13",
+      "pages": [
+        "ask_jojo_wiki/references/tlr9-agonist-pd-1-blockade-combination-literature.md",
+        "ask_jojo_wiki/references/lit-survey-dendritic-cells-cancer-immunity.md"
+      ],
+      "n_covered": 2,
+      "n_reclassed": 38,
+      "reclassified_out": [],
+      "notes": "2 existing pages enriched with new sources (TLR9+PD-1 with Cohen 2022 Phase II SD-101+pembro; DC lit-survey with Kirkling 2018 Notch DL1). 38 reclassified: 9 personal-academic, 6 receipts, 3 vendor-quotes, 1 unreadable, 5 external-no-tie, 5 already-absorbed-sha-dupes, 3 admin, 1 quote dupe."
+    },
+    {
+      "agent": "jose-l-wave13",
+      "pages": [
+        "ask_jojo_wiki/references/nrx-0390492-006-aa-behphenyl-purity-chromatograms.md",
+        "ask_jojo_wiki/references/nx-5948-multibatch-purity-check-apr2021.md",
+        "ask_jojo_wiki/references/medchem-sfc-chiral-screening-190916-hirokot.md",
+        "ask_jojo_wiki/references/nx-2127-peak4-impurity-nmr-elucidation.md",
+        "ask_jojo_wiki/references/nrx-0387470-rac-chiral-method-development.md"
+      ],
+      "n_covered": 35,
+      "n_reclassed": 5,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0474-0-0005um-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0474-0-0015um-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0474-0-0046um-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0474-0-0137um-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-nmr-2019-nmr-shimming-procedure-docx",
+          "bucket": "mechanical"
+        }
+      ],
+      "notes": "5 new ref pages: NRX-0390492-006-AA chromatograms, NX-5948 multi-batch purity check, SFC chiral screening, NX-2127 peak-4 impurity NMR, NRX-0387470 chiral method dev."
+    },
+    {
+      "agent": "low-conf-mixed-wave13",
+      "pages": [
+        "ask_jojo_wiki/references/toxicol-pathol-1995-pk-toxicology-supplement.md",
+        "ask_jojo_wiki/references/dmpk-transporter-clearance-case-studies.md",
+        "ask_jojo_wiki/references/target-engagement-bret-nanoluc.md",
+        "ask_jojo_wiki/references/analytical-chemistry-instruments-and-drivers.md",
+        "ask_jojo_wiki/references/tissue-specific-tregs-cancer-bibliography.md",
+        "ask_jojo_wiki/references/analytical-chemistry-bibliography-misc-2021.md",
+        "ask_jojo_wiki/references/lipid-based-oral-delivery-bibliography.md"
+      ],
+      "n_covered": 38,
+      "n_reclassed": 2,
+      "reclassified_out": [],
+      "notes": "5 new + 2 updated (4 page-edits including sha256 fixes). 30 absorbed, 8 sha-dupes of LCGC mag, 2 license texts skipped."
+    }
+  ]
+}

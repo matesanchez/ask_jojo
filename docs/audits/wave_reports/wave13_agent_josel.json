@@ -1,0 +1,20 @@
+{
+  "agent": "jose-l-wave13",
+  "pages": [
+    "ask_jojo_wiki/references/nrx-0390492-006-aa-behphenyl-purity-chromatograms.md",
+    "ask_jojo_wiki/references/nx-5948-multibatch-purity-check-apr2021.md",
+    "ask_jojo_wiki/references/medchem-sfc-chiral-screening-190916-hirokot.md",
+    "ask_jojo_wiki/references/nx-2127-peak4-impurity-nmr-elucidation.md",
+    "ask_jojo_wiki/references/nrx-0387470-rac-chiral-method-development.md"
+  ],
+  "n_covered": 35,
+  "n_reclassed": 5,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0474-0-0005um-pdf","bucket":"mechanical"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0474-0-0015um-pdf","bucket":"mechanical"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0474-0-0046um-pdf","bucket":"mechanical"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0474-0-0137um-pdf","bucket":"mechanical"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-medchem-support-nmr-2019-nmr-shimming-procedure-docx","bucket":"mechanical"}
+  ],
+  "notes": "5 new ref pages: NRX-0390492-006-AA chromatograms, NX-5948 multi-batch purity check, SFC chiral screening, NX-2127 peak-4 impurity NMR, NRX-0387470 chiral method dev."
+}
