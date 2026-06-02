@@ -359,3 +359,28 @@ None currently. All blockers are human-only (credentials, external infra) and ar
 **Verification:** 618 passed, 0 failed (full suite). Pre-existing 8 `jojo_graph`/`jojo_qa` failures from prior session are now resolved (total failure count dropped from 13+ to 0).
 
 **Deliverable spot-check (confirming prior completion):** ADRs 0012–0014 present; `docs/reviews/2026-05-19-phase-7b-review.md` + `2026-05-20-phase-8-review.md` present; `ops/installer/Build-JojoBotRelease.ps1` present; `packages/jojo_finetune/` installable; `v2.0.0` tag confirmed on `ask_jojo`. No re-tag.
+
+---
+
+## 2026-06-01 — Wiki coverage recovery run (FU-20 / FU-21 / FU-22), partial
+
+Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep first pass. This run is content + lint only; no app/installer/frontend changes.
+
+**FU-20 — reclassification + first absorb batch.**
+- Task 1.1: reclassified both over-skipped populations at entry level. `departed_individual` (2,955) + `individual_user_data` (5,495) → buckets in `docs/audits/fu-20-reclassification.jsonl` (+ summary). After a reviewer-driven correction pass, combined `knowledge_promote` = 5,636 (departed 45.9%, individual_user_data 77.8%), matching the FU-20 audit's ~5,700 / 43% / 80% ground truth.
+- Reviewer (Opus, independent) audited the first pass and returned **FAIL (Blocking, 26% misclassification)** — the low-confidence `knowledge_promote` stratum swept personal/desktop-backup and installer trees into promotion. Correction pass added folder-level personal signals, installer-path signals, blank/test detection, and fixed the compound-ID regex (underscore boundary). Re-verification: all 10 flagged failures fixed; residual contamination on a fresh 40-sample = 2.5%. Report: `docs/reviews/2026-06-01-fu-20-reclassification-review.md` (Round 1 FAIL → Round 2 PASS-with-caveats).
+- Task 1.3 (first absorb batch): promoted 13 confirmed-knowledge entries into 3 source-grounded wiki pages — `references/cbl-b-immuno-oncology-literature.md`, `methods/turbidimetric-solubility-assay.md`, `methods/analytical-chemistry-adme-and-stability.md`. Entries ticked in `queue.md` with `<!-- absorbed-via: fu-20-recovery -->`. Committed to the wiki repo (`absorb(protein-sciences): 3 pages touched, 3 created`).
+- **Remaining:** the bulk of the ~5,636 `knowledge_promote` entries are not yet absorbed — this is the multi-session FU-20 backlog. High-confidence stratum (~2,200) is the priority set.
+
+**FU-21 — literature index (started).**
+- Clustered the 2,060 `external_literature` entries into 12 topics → `docs/audits/fu-21-literature-clustering.jsonl`. Built the landing page `references/literature-index/_index.md` with the topic map and build status. One topic page (CBL-B immuno-oncology) is built (shared with FU-20). **Remaining:** ~10–12 topic pages + sub-splitting the oversized oncology cluster — the FU-21 build backlog.
+
+**FU-22 — absorbed-but-invisible tail audit (complete).**
+- Stratified n=200 trace → `docs/audits/fu-22-trace.jsonl` + summary. Unintegrated = 2.5% (threshold 20%) → **DEFENSIBLE**. The 59K absorbed tail is 76.5% low-signal bulk data; only ~2.5% is missed knowledge. Filed missed slice as **FU-23**. Report: `docs/reviews/2026-06-01-fu-22-closure.md`.
+
+**Sub-phase 4 — coverage lint check (complete).**
+- Added `packages/jojo_lint/checks/coverage_check.py`, registered in `WEEKLY_CHECKS`, with 8 unit tests (all green; full lint suite green). Against the real queue it exempts 37 mechanical/bulk categories and flags 12 person/folder-name categories (departed_individual, individual_user_data, external_literature, safety_binders, admin_records, ...) for entry-level review — the durable guard against categorical over-skipping (FU-20 recommendation #2).
+
+**Environment notes.**
+- The wiki-repo commit left stale `.git/index.lock` and `.git/HEAD.lock` that the Linux sandbox could not unlink (Windows-mount permission quirk). They must be removed on Windows before the next git op in `ask_jojo_wiki`.
+- The Edit/Write file tools intermittently corrupted files with NUL bytes on the Windows mount; affected files (`registry.py`, `coverage_check.py`) were rewritten via shell and verified (0 NULs, parse + tests green).

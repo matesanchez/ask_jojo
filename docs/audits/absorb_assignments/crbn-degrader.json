@@ -1,0 +1,181 @@
+{
+"assignment": "crbn-degrader",
+"wiki_dir": "platforms",
+"entries": [
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-the-protactable-genome-pdf",
+"sha16": "790317b31779123d",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-the-protactable-genome-pdf.md",
+"title": "The PROTACtable genome",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/The PROTACtable genome.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-the-protactable-genome-pdf",
+"sha16": "790317b31779123d",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-the-protactable-genome-pdf.md",
+"title": "The PROTACtable genome",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/The PROTACtable genome.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf",
+"sha16": "f3a2ffaafd8c871e",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf.md",
+"title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+"source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-proteolysis-targeting-chimeras--protacs----past-2019-drug-discovery-today--t-pdf",
+"sha16": "7ef8c752ef9d3c57",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-proteolysis-targeting-chimeras--protacs----past-2019-drug-discovery-today--t-pdf.md",
+"title": "PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T",
+"source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-proteolysis-targeting-chimeras--protacs--for-e-2020-current-opinion-in-chemi-pdf",
+"sha16": "0a4807f4e02f330b",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-proteolysis-targeting-chimeras--protacs--for-e-2020-current-opinion-in-chemi-pdf.md",
+"title": "Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi",
+"source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-small-molecule-protacs--an-emerging-and-promising-approach-for--2018-ebiomed-pdf",
+"sha16": "2d70378d0b8cf8a7",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-small-molecule-protacs--an-emerging-and-promising-approach-for--2018-ebiomed-pdf.md",
+"title": "Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed",
+"source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-2022-protac-cad-paper-supplement-pdf",
+"sha16": "48a60bb6807d27ce",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-2022-protac-cad-paper-supplement-pdf.md",
+"title": "2022 PROTAC cad paper supplement",
+"source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/2022 PROTAC cad paper supplement.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf",
+"sha16": "f3a2ffaafd8c871e",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf.md",
+"title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+"source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-2022-nih-protac-article-pdf",
+"sha16": "4835daac8d53df9d",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-2022-nih-protac-article-pdf.md",
+"title": "2022 NIH protac article",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/2022 NIH protac article.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-2022-protac-cad-paper-supplement-pdf",
+"sha16": "48a60bb6807d27ce",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-2022-protac-cad-paper-supplement-pdf.md",
+"title": "2022 PROTAC cad paper supplement",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/2022 PROTAC cad paper supplement.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-direct-to-biology-accelerates-protac-synthesis-an-6645fd282f",
+"sha16": "f640ce4a8483ef42",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-direct-to-biology-accelerates-protac-synthesis-an-6645fd282f.md",
+"title": "Direct-to-Biology Accelerates PROTAC Synthesis and the Evaluation of Linker Effects on Permeability and Degradation",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Direct-to-Biology Accelerates PROTAC Synthesis and the Evaluation of Linker Effects on Permeability and Degradation.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-direct-to-biology-protac-cad-merc-pdf",
+"sha16": "27d830c2e4faea8d",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-direct-to-biology-protac-cad-merc-pdf.md",
+"title": "Direct to Biology PROTAC CAD merc",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Direct to Biology PROTAC CAD merc.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-exploring-the-features-and-challenges-of-proteoly-1d0c60e5f1",
+"sha16": "305c07fb654bc2a9",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-exploring-the-features-and-challenges-of-proteoly-1d0c60e5f1.md",
+"title": "Exploring the Features and Challenges of Proteolysis Targeting Chimera (Protac) Development",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Exploring the Features and Challenges of Proteolysis Targeting Chimera (Protac) Development.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-fundamental-aspects-of-dmpk-optimization-of-targe-dcdc17a2bc",
+"sha16": "f3a2ffaafd8c871e",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-fundamental-aspects-of-dmpk-optimization-of-targe-dcdc17a2bc.md",
+"title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-hendrick-et-al-2022-direct-to-biology-accelerates-5a3e11e9b4",
+"sha16": "1dc81fc357ddd931",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-hendrick-et-al-2022-direct-to-biology-accelerates-5a3e11e9b4.md",
+"title": "hendrick-et-al-2022-direct-to-biology-accelerates-protac-synthesis-and-the-evaluation-of-linker-effects-on-permeability",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/hendrick-et-al-2022-direct-to-biology-accelerates-protac-synthesis-and-the-evaluation-of-linker-effects-on-permeability.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-pest-management-science---2023---leon---protac-fo-974f6cf622",
+"sha16": "8be0532f4b0380c7",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-pest-management-science---2023---leon---protac-fo-974f6cf622.md",
+"title": "Pest Management Science - 2023 - Leon - PROTAC for agriculture  learning from human medicine to generate new",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Pest Management Science - 2023 - Leon - PROTAC for agriculture  learning from human medicine to generate new.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-proteolysis-targeting-chimeras--protacs----past-2-bbf149bc11",
+"sha16": "7ef8c752ef9d3c57",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-proteolysis-targeting-chimeras--protacs----past-2-bbf149bc11.md",
+"title": "PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-proteolysis-targeting-chimeras--protacs--for-e-20-c796224057",
+"sha16": "0a4807f4e02f330b",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-proteolysis-targeting-chimeras--protacs--for-e-20-c796224057.md",
+"title": "Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-small-molecule-protacs--an-emerging-and-promising-90cb1129a6",
+"sha16": "2d70378d0b8cf8a7",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-small-molecule-protacs--an-emerging-and-promising-90cb1129a6.md",
+"title": "Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed",
+"source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf",
+"sha16": "f3a2ffaafd8c871e",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf.md",
+"title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+"source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-proteolysis-targeting-chimeras--protacs----past-2019-drug-discovery-today--t-pdf",
+"sha16": "7ef8c752ef9d3c57",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-proteolysis-targeting-chimeras--protacs----past-2019-drug-discovery-today--t-pdf.md",
+"title": "PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T",
+"source_id": "Analytical Chemistry/Jon K - Public/Reading Material/PROteolysis-TArgeting-Chimeras--PROTACs----Past_2019_Drug-Discovery-Today--T.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-proteolysis-targeting-chimeras--protacs--for-e-2020-current-opinion-in-chemi-pdf",
+"sha16": "0a4807f4e02f330b",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-proteolysis-targeting-chimeras--protacs--for-e-2020-current-opinion-in-chemi-pdf.md",
+"title": "Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi",
+"source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Proteolysis-targeting-chimeras--PROTACs--for-e_2020_Current-Opinion-in-Chemi.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-small-molecule-protacs--an-emerging-and-promising-approach-for--2018-ebiomed-pdf",
+"sha16": "2d70378d0b8cf8a7",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-small-molecule-protacs--an-emerging-and-promising-approach-for--2018-ebiomed-pdf.md",
+"title": "Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed",
+"source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Small-molecule-PROTACs--An-emerging-and-promising-approach-for-_2018_EBioMed.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-permeability-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf",
+"sha16": "f3a2ffaafd8c871e",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-permeability-fundamental-aspects-of-dmpk-optimization-of-targeted-protein-degraders-pdf.md",
+"title": "Fundamental aspects of DMPK optimization of targeted protein degraders",
+"source_id": "Analytical Chemistry/Natalie D-Public/Literature/Permeability/Fundamental aspects of DMPK optimization of targeted protein degraders.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-permeability-understanding-and-improving-the-membrane-permeability-of-vh032-based-protacs-pdf",
+"sha16": "a5b1bf978fc744b9",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-permeability-understanding-and-improving-the-membrane-permeability-of-vh032-based-protacs-pdf.md",
+"title": "Understanding and Improving the Membrane Permeability of VH032-Based PROTACs",
+"source_id": "Analytical Chemistry/Natalie D-Public/Literature/Permeability/Understanding and Improving the Membrane Permeability of VH032-Based PROTACs.pdf"
+}
+]
+}

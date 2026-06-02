@@ -1,0 +1,286 @@
+{
+"assignment": "mass-spec-proteomics",
+"wiki_dir": "methods",
+"entries": [
+{
+"entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-mass-spec-lcmsms-matrix-effects-pdf",
+"sha16": "ae62f354ec74afb2",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-mass-spec-lcmsms-matrix-effects-pdf.md",
+"title": "LCMSMS&matrix_effects",
+"source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Mass Spec/LCMSMS&matrix_effects.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-mass-spec-peg400-lcmsms-suppression-pdf",
+"sha16": "2898f1afbe1c5e40",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-mass-spec-peg400-lcmsms-suppression-pdf.md",
+"title": "PEG400_LCMSMS_suppression",
+"source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Mass Spec/PEG400_LCMSMS_suppression.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-capex-2025-lcms-6500-plus-sale-291-pdf",
+"sha16": "9af080b2941a2f14",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-capex-2025-lcms-6500-plus-sale-291-pdf.md",
+"title": "LCMS_6500 Plus Sale-291",
+"source_id": "Analytical Chemistry/Alexandra T - Public/CapEx 2025/LCMS_6500 Plus Sale-291.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-pd-by-lcms-normalization-proteins-peptide-analyzing-tool-dddiaalvvdngsgmck-bactin1-pdf",
+"sha16": "e412808d66471670",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-pd-by-lcms-normalization-proteins-peptide-analyzing-tool-dddiaalvvdngsgmck-bactin1-pdf.md",
+"title": "Peptide Analyzing Tool_DDDIAALVVDNGSGMCK_bActin1",
+"source_id": "Analytical Chemistry/Alexandra T - Public/PD by LCMS/Normalization proteins/Peptide Analyzing Tool_DDDIAALVVDNGSGMCK_bActin1.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-amber-g---public-eln-126-3285-reports-eln-126-3285-vial1-lcms-pdf",
+"sha16": "ac23e41621800b26",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-eln-126-3285-reports-eln-126-3285-vial1-lcms-pdf.md",
+"title": "ELN-126-3285 VIAL1_LCMS",
+"source_id": "Analytical Chemistry/Amber G - Public/ELN-126-3285 Reports/ELN-126-3285 VIAL1_LCMS.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-amber-g---public-eln-126-3285-reports-eln-126-3285-vial2-lcms-pdf",
+"sha16": "d221d2a62c0c97bc",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-eln-126-3285-reports-eln-126-3285-vial2-lcms-pdf.md",
+"title": "ELN-126-3285 VIAL2_LCMS",
+"source_id": "Analytical Chemistry/Amber G - Public/ELN-126-3285 Reports/ELN-126-3285 VIAL2_LCMS.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-amber-g---public-masshunter-walkup-lcms-guide-pdf",
+"sha16": "d2c50c948c8c0c2b",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-masshunter-walkup-lcms-guide-pdf.md",
+"title": "MassHunter Walkup LCMS Guide",
+"source_id": "Analytical Chemistry/Amber G - Public/MassHunter Walkup LCMS Guide.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0398160-pdf",
+"sha16": "c03997d18854aa27",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0398160-pdf.md",
+"title": "NRX-0398160",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0398160.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0398194-pdf",
+"sha16": "86ea07ec9ee54915",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0398194-pdf.md",
+"title": "NRX-0398194",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0398194.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400138-pdf",
+"sha16": "e76e17f9571c9ba7",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400138-pdf.md",
+"title": "NRX-0400138",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400138.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400141-pdf",
+"sha16": "f44757ef28c8f797",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400141-pdf.md",
+"title": "NRX-0400141",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400141.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400146-pdf",
+"sha16": "c581da01d14bf97a",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400146-pdf.md",
+"title": "NRX-0400146",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400146.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400149-pdf",
+"sha16": "98bf663bccce9fe0",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400149-pdf.md",
+"title": "NRX-0400149",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400149.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400157f-pdf",
+"sha16": "641e52ec37564a8d",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400157f-pdf.md",
+"title": "NRX-0400157f",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400157f.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400198-pdf",
+"sha16": "023a6b4f484bc681",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400198-pdf.md",
+"title": "NRX-0400198",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400198.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400203-pdf",
+"sha16": "31b5e67b7c75ee50",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400203-pdf.md",
+"title": "NRX-0400203",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400203.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400214-pdf",
+"sha16": "8db89c05199f4478",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400214-pdf.md",
+"title": "NRX-0400214",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400214.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400218-pdf",
+"sha16": "55daed3f11a9a7db",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400218-pdf.md",
+"title": "NRX-0400218",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400218.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400695-pdf",
+"sha16": "99e90ba71c85a1eb",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400695-pdf.md",
+"title": "NRX-0400695",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400695.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400709-pdf",
+"sha16": "009022c51030c3c3",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400709-pdf.md",
+"title": "NRX-0400709",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400709.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400732-pdf",
+"sha16": "5e0f3171b79e57e2",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400732-pdf.md",
+"title": "NRX-0400732",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400732.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400733-pdf",
+"sha16": "8edc0744ae7282c1",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400733-pdf.md",
+"title": "NRX-0400733",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400733.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400734-pdf",
+"sha16": "0cde9bcf5052c39f",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400734-pdf.md",
+"title": "NRX-0400734",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400734.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400735-pdf",
+"sha16": "ea49aab6b4999fa8",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400735-pdf.md",
+"title": "NRX-0400735",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400735.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400737-pdf",
+"sha16": "b54969db97b981f5",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400737-pdf.md",
+"title": "NRX-0400737",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400737.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400738-pdf",
+"sha16": "6267b60823f2b6d9",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0400738-pdf.md",
+"title": "NRX-0400738",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0400738.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0401170-2-pdf",
+"sha16": "0e45d05664bf9ad4",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0401170-2-pdf.md",
+"title": "NRX-0401170_2",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0401170_2.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0401170-3-pdf",
+"sha16": "ef28ea623a817adc",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0401170-3-pdf.md",
+"title": "NRX-0401170_3",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0401170_3.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0401170-pdf",
+"sha16": "5100cd9011feccae",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0401170-pdf.md",
+"title": "NRX-0401170",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0401170.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0402111-pdf",
+"sha16": "b54a8c2070cdea86",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0402111-pdf.md",
+"title": "NRX-0402111",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0402111.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403540-pdf",
+"sha16": "5b1da9a85247d30b",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403540-pdf.md",
+"title": "NRX-0403540",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0403540.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403543-pdf",
+"sha16": "f8fa2fba50b97690",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403543-pdf.md",
+"title": "NRX-0403543",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0403543.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403553-pdf",
+"sha16": "c5eb1ac3956c0bb5",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403553-pdf.md",
+"title": "NRX-0403553",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0403553.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403558-pdf",
+"sha16": "428403657e04672a",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403558-pdf.md",
+"title": "NRX-0403558",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0403558.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403559-pdf",
+"sha16": "8d12be8f99d1b2fc",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-31aug2021-lcmsuv-qc-nrx-0403559-pdf.md",
+"title": "NRX-0403559",
+"source_id": "Analytical Chemistry/Bob C - Public/31Aug2021_LCMSUV_QC/NRX-0403559.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-log-d-gradient-kernseh-03jchtb-lcmsprofilitngmethod-pdf",
+"sha16": "76a713c9788515f5",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-log-d-gradient-kernseh-03jchtb-lcmsprofilitngmethod-pdf.md",
+"title": "LOG D gradient KernsEH_03JChtB_LCMSProfilitngMethod",
+"source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/LOG D gradient KernsEH_03JChtB_LCMSProfilitngMethod.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-brent---public-2127-isolation-2127-peak-4-2127-imp-p4-lcms-pdf",
+"sha16": "5af4599a388ec40f",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-2127-isolation-2127-peak-4-2127-imp-p4-lcms-pdf.md",
+"title": "2127_IMP_P4_LCMS",
+"source_id": "Analytical Chemistry/Brent - Public/2127 Isolation/2127 Peak 4/2127_IMP_P4_LCMS.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-4422-lot-qc-nrx4422-002-lcms-pdf",
+"sha16": "71bad2e69238b412",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-4422-lot-qc-nrx4422-002-lcms-pdf.md",
+"title": "NRX4422 002_LCMS",
+"source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/4422 lot QC/NRX4422 002_LCMS.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-4422-lot-qc-nrx4422-003-lcms-pdf",
+"sha16": "37ab26474aaf48c5",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-4422-lot-qc-nrx4422-003-lcms-pdf.md",
+"title": "NRX4422 003_LCMS",
+"source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/4422 lot QC/NRX4422 003_LCMS.pdf"
+},
+{
+"entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-4422-lot-qc-nrx4422-004-cold-lcms-pdf",
+"sha16": "b76ce27a24239144",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-4422-lot-qc-nrx4422-004-cold-lcms-pdf.md",
+"title": "NRX4422 004 Cold_LCMS",
+"source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/4422 lot QC/NRX4422 004 Cold_LCMS.pdf"
+}
+]
+}

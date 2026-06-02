@@ -1,0 +1,286 @@
+{
+"assignment": "t-cell-immunology",
+"wiki_dir": "references",
+"entries": [
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-bystander-t-cells-bystander-t-cells-in-cancer-immunology-and-therapy-pdf",
+"sha16": "19fee674f991ebf0",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-bystander-t-cells-bystander-t-cells-in-cancer-immunology-and-therapy-pdf.md",
+"title": "Bystander T cells in cancer immunology and therapy",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Bystander T cells/Bystander T cells in cancer immunology and therapy.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd29-cd29-cd4-t-cells-pdf",
+"sha16": "0c634d111f0d1fa2",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd29-cd29-cd4-t-cells-pdf.md",
+"title": "CD29 CD4 T cells",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/CD29/CD29 CD4 T cells.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd47-anti-gd2-synergizes-with-cd47-blockade-to-mediate-tumor-eradication-pdf",
+"sha16": "96b399b3d7e4a587",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd47-anti-gd2-synergizes-with-cd47-blockade-to-mediate-tumor-eradication-pdf.md",
+"title": "Anti-GD2 synergizes with CD47 blockade to mediate tumor eradication",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/CD47/Anti-GD2 synergizes with CD47 blockade to mediate tumor eradication.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd47-dual-blockage-of-both-pd-l1-and-cd47-pdf",
+"sha16": "0aa0181ab8e96893",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd47-dual-blockage-of-both-pd-l1-and-cd47-pdf.md",
+"title": "Dual blockage of both PD-L1 and CD47",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/CD47/Dual blockage of both PD-L1 and CD47.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd8-t-cells-stem-cells-a-human-memory-t-cell-subset-with-stem-cell-like-properties-pdf",
+"sha16": "c5fd2bb50bf87fc4",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd8-t-cells-stem-cells-a-human-memory-t-cell-subset-with-stem-cell-like-properties-pdf.md",
+"title": "A human memory T-cell subset with stem cell-like properties",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/CD8+ T cells Stem cells/A human memory T-cell subset with stem cell-like properties.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd8-t-cells-stem-cells-a-reservoir-of-stem-like-cd8-t-cells-in-the-tumor-draining-pdf",
+"sha16": "197e86aaefc3107e",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-cd8-t-cells-stem-cells-a-reservoir-of-stem-like-cd8-t-cells-in-the-tumor-draining-pdf.md",
+"title": "A reservoir of stem-like CD8+ T cells in the tumor-draining",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/CD8+ T cells Stem cells/A reservoir of stem-like CD8+ T cells in the tumor-draining.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-dendritic-cells-can-prime-anti-tumor-cd8-t-cell-responses-through-major-histocompatibility-complex-pdf",
+"sha16": "2b767b9750fb7e1d",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-dendritic-cells-can-prime-anti-tumor-cd8-t-cell-responses-through-major-histocompatibility-complex-pdf.md",
+"title": "Dendritic cells can prime anti tumor CD8 T cell responses through major histocompatibility complex",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Dendritic cells/Dendritic cells can prime anti tumor CD8 T cell responses through major histocompatibility complex.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-lack-of-cd8-t-cell-effector-differentiation-during-priming-mediates-checkpoint-blockade-resistance-in-non-small-cell-lung-cancer-pdf",
+"sha16": "cc271f57501e2732",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-lack-of-cd8-t-cell-effector-differentiation-during-priming-mediates-checkpoint-blockade-resistance-in-non-small-cell-lung-cancer-pdf.md",
+"title": "Lack of CD8+T cell effector differentiation during priming mediates checkpoint blockade resistance in non-small cell lung cancer",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Dendritic cells/Lack of CD8+T cell effector differentiation during priming mediates checkpoint blockade resistance in non-small cell lung cancer.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-tumor-residing-batf3-dendritic-cells-are-required-for-effector-t-cell-trafficking-and-adoptive-t-cell-therapy-pdf",
+"sha16": "33e36b1e2f82de6a",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-tumor-residing-batf3-dendritic-cells-are-required-for-effector-t-cell-trafficking-and-adoptive-t-cell-therapy-pdf.md",
+"title": "Tumor-Residing Batf3 Dendritic Cells Are Required for Effector T Cell Trafficking and Adoptive T Cell Therapy",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Dendritic cells/Tumor-Residing Batf3 Dendritic Cells Are Required for Effector T Cell Trafficking and Adoptive T Cell Therapy.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-visualizing-synaptic-transfer-of-tumor-antigens-among-dendritic-cells-pdf",
+"sha16": "a198a1f2c5bacd77",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-visualizing-synaptic-transfer-of-tumor-antigens-among-dendritic-cells-pdf.md",
+"title": "Visualizing Synaptic Transfer of Tumor Antigens among Dendritic Cells",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Dendritic cells/Visualizing Synaptic Transfer of Tumor Antigens among Dendritic Cells.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-costimulatory-regulation-of-t-cell-functio-pdf",
+"sha16": "cc6028241ff30576",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-costimulatory-regulation-of-t-cell-functio-pdf.md",
+"title": "Costimulatory regulation of T-cell functio",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/Costimulatory regulation of T-cell functio.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-mechanistic-convergence-of-the-tigit-and-pd-1-pdf",
+"sha16": "3952eba107130488",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-mechanistic-convergence-of-the-tigit-and-pd-1-pdf.md",
+"title": "Mechanistic convergence of the TIGIT and PD-1",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/24AUG22/Mechanistic convergence of the TIGIT and PD-1.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf",
+"sha16": "ff7cbe3dea6c1f30",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-subsets-of-exhausted-cd8-t-cells-differentially-mediate-tumor-control-and-respond-to-checkpoint-blockade-pdf.md",
+"title": "Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/24AUG22/Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-tim-3-mediates-t-cell-trogocytosis-to-limit-antitumor-immunity-pdf",
+"sha16": "073838433ade1c1b",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-tim-3-mediates-t-cell-trogocytosis-to-limit-antitumor-immunity-pdf.md",
+"title": "Tim-3 mediates T cell trogocytosis to limit antitumor immunity",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/24AUG22/Tim-3 mediates T cell trogocytosis to limit antitumor immunity.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-a-novel-blockade-cd47-antibody-with-therapeutic-potential-for-cancer-pdf",
+"sha16": "a3cf37d17a7b0f6b",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-a-novel-blockade-cd47-antibody-with-therapeutic-potential-for-cancer-pdf.md",
+"title": "A Novel Blockade CD47 Antibody With Therapeutic Potential for Cancer",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/A Novel Blockade CD47 Antibody With Therapeutic Potential for Cancer.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-cd47-blockade-triggers-t-cell-mediated-destruction-of-immunogenic-tumors-pdf",
+"sha16": "4465649c6c6a6842",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-cd47-blockade-triggers-t-cell-mediated-destruction-of-immunogenic-tumors-pdf.md",
+"title": "CD47 Blockade Triggers T cell-mediated Destruction of Immunogenic Tumors",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/CD47 Blockade Triggers T cell-mediated Destruction of Immunogenic Tumors.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-intratumoral-sirp--deficient-macrophages-activate-pdf",
+"sha16": "8bd332f50ff64dd7",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-intratumoral-sirp--deficient-macrophages-activate-pdf.md",
+"title": "Intratumoral SIRP\u03b1-deficient macrophages activate",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/Intratumoral SIRP\u03b1-deficient macrophages activate.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-pd-1-expression-by-tumour-associated-macrophages-pdf",
+"sha16": "1b8bebf90f166b35",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-pd-1-expression-by-tumour-associated-macrophages-pdf.md",
+"title": "PD-1 expression by tumour-associated macrophages",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/PD-1 expression by tumour-associated macrophages.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-dual-blockage-of-both-pd-l1-and-cd47-pdf",
+"sha16": "0aa0181ab8e96893",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-dual-blockage-of-both-pd-l1-and-cd47-pdf.md",
+"title": "Dual blockage of both PD-L1 and CD47",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Dual blockage of both PD-L1 and CD47.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-nurix-murigenics-040-a20-anticd47-nx-1607-quote-docx",
+"sha16": "98cae389cb728194",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-nurix-murigenics-040-a20-anticd47-nx-1607-quote-docx.md",
+"title": "Nurix_Murigenics_040_ A20_AntiCD47+ NX-1607_quote",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Nurix_Murigenics_040_ A20_AntiCD47+ NX-1607_quote.docx"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-nv446-act-nurix-029-nx-1607-anti-ctla4-summary-findings-pptx",
+"sha16": "0222f6e4459100f1",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-nv446-act-nurix-029-nx-1607-anti-ctla4-summary-findings-pptx.md",
+"title": "Nurix_029_NX-1607+anti-CTLA4_Summary_Findings ",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/NV446_Act/Nurix_029_NX-1607+anti-CTLA4_Summary_Findings .pptx"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-a-t-cell-resilience-model-assoicated-with-response-to-immunotherapy-in-multiple-tumor-types-pdf",
+"sha16": "5ef9a3661f063758",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-a-t-cell-resilience-model-assoicated-with-response-to-immunotherapy-in-multiple-tumor-types-pdf.md",
+"title": "A t cell resilience model assoicated with response to immunotherapy in multiple tumor types",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/A t cell resilience model assoicated with response to immunotherapy in multiple tumor types.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-allogeneic-double-negative-car-t-cells-inhibit-tumor-growth-without-off-tumor-toxicities-pdf",
+"sha16": "7218a52ac3d3c5c0",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-allogeneic-double-negative-car-t-cells-inhibit-tumor-growth-without-off-tumor-toxicities-pdf.md",
+"title": "Allogeneic double-negative CAR-T cells inhibit tumor growth without off-tumor toxicities",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Allogeneic double-negative CAR-T cells inhibit tumor growth without off-tumor toxicities.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-androgen-conspires-with-the-cd8-t-cell-exhaustion-program-and-contributes-to-sex-bias-in-cancer-pdf",
+"sha16": "0196a46645406f18",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-androgen-conspires-with-the-cd8-t-cell-exhaustion-program-and-contributes-to-sex-bias-in-cancer-pdf.md",
+"title": "Androgen conspires with the CD8+ T cell exhaustion program and contributes to sex bias in cancer",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Androgen conspires with the CD8+ T cell exhaustion program and contributes to sex bias in cancer.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-autocrine-and-paracrine-il-2-signals-collaborate-to-regulate-distinct-phases-of-cd8-t-cell-memory-pdf",
+"sha16": "d6205b07c4455e5a",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-autocrine-and-paracrine-il-2-signals-collaborate-to-regulate-distinct-phases-of-cd8-t-cell-memory-pdf.md",
+"title": "Autocrine and paracrine IL-2 signals collaborate to regulate distinct phases of CD8 T cell memory",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Autocrine and paracrine IL-2 signals collaborate to regulate distinct phases of CD8 T cell memory.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-cdc1-prime-and-are-licensed-by-cd4-t-cells-to-induce-anti-tumour-immunity-pdf",
+"sha16": "7e6bc7410539c566",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-cdc1-prime-and-are-licensed-by-cd4-t-cells-to-induce-anti-tumour-immunity-pdf.md",
+"title": "cDC1 prime and are licensed by CD4+ T\u00a0cells to induce anti-tumour immunity",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/cDC1 prime and are licensed by CD4+ T\u00a0cells to induce anti-tumour immunity.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cd8-cd8-and-plasmacytoid-dendritic-cell-generation-in-vitro-using-flt3-ligand-pdf",
+"sha16": "157455ae0cdf3be0",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cd8-cd8-and-plasmacytoid-dendritic-cell-generation-in-vitro-using-flt3-ligand-pdf.md",
+"title": "CD8+, CD8\u2212, and Plasmacytoid Dendritic Cell Generation In Vitro Using flt3 Ligand",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/CD8+, CD8\u2212, and Plasmacytoid Dendritic Cell Generation In Vitro Using flt3 Ligand.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-functional-hpv-specific-pd-1-tcf1-pdf",
+"sha16": "b9abaf3fa61daa10",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-functional-hpv-specific-pd-1-tcf1-pdf.md",
+"title": "Functional HPV-specific PD-1+TCF1+",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/Functional HPV-specific PD-1+TCF1+.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-in-vivo-depletion-of-cd4--and-unit-4-1-pdf",
+"sha16": "76b20194d08950fe",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-in-vivo-depletion-of-cd4--and-unit-4-1-pdf.md",
+"title": "In Vivo Depletion of CD4- and UNIT 4.1",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/In Vivo Depletion of CD4- and UNIT 4.1.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-the-pd-1-pd-l1-checkpoint-restrains-t-cell-pdf",
+"sha16": "8c9b1ff60b2353d6",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-the-pd-1-pd-l1-checkpoint-restrains-t-cell-pdf.md",
+"title": "The PD-1_PD-L1-Checkpoint Restrains T cell",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/The PD-1_PD-L1-Checkpoint Restrains T cell.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-the-t-cell-receptor-repertoire-of-tumor-infiltrating-pdf",
+"sha16": "f33236c700fd0150",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-the-t-cell-receptor-repertoire-of-tumor-infiltrating-pdf.md",
+"title": "The T cell receptor repertoire of tumor infiltrating",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/The T cell receptor repertoire of tumor infiltrating.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-human-cytomegalovirus-expands-a-cd8-pdf",
+"sha16": "024fc08df1f67ebd",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-human-cytomegalovirus-expands-a-cd8-pdf.md",
+"title": "Human cytomegalovirus expands a CD8+",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Human cytomegalovirus expands a CD8+.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-stem-like-precursors-are-the-fount-to-sustain-persistent-cd8-t-cell-responses-pdf",
+"sha16": "3fed549dad836a18",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-stem-like-precursors-are-the-fount-to-sustain-persistent-cd8-t-cell-responses-pdf.md",
+"title": "\u2018Stem-like\u2019 precursors are the fount to sustain persistent CD8+ T cell responses",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/\u2018Stem-like\u2019 precursors are the fount to sustain persistent CD8+ T cell responses.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-intralesional-sd-101-in-combinationwithpembrolizumab-in-anti-pd-1-treatment-pdf",
+"sha16": "d8f695445c719452",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-intralesional-sd-101-in-combinationwithpembrolizumab-in-anti-pd-1-treatment-pdf.md",
+"title": "Intralesional SD-101 in CombinationwithPembrolizumab in Anti-PD-1 Treatment",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Intralesional SD-101 in CombinationwithPembrolizumab in Anti-PD-1 Treatment.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-pdf",
+"sha16": "ff49ecf8393b01ac",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-pdf.md",
+"title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion.pdf"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-003-pptx",
+"sha16": "1724b7dd886201fa",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-003-pptx.md",
+"title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final (003)",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final (003).pptx"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-pptx",
+"sha16": "9949084b8ec9a2a6",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-pptx.md",
+"title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final.pptx"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-v2-pptx",
+"sha16": "f2b4985bf81a5aea",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-v2-pptx.md",
+"title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final V2",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final V2.pptx"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-pptx",
+"sha16": "4645d112c9817103",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-pptx.md",
+"title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program.pptx"
+},
+{
+"entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-pdf",
+"sha16": "e36aa166738c8524",
+"raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-pdf.md",
+"title": "PD-1 combination therapy with IL-2 modifies",
+"source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies.pdf"
+}
+]
+}

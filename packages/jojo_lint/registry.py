@@ -10,6 +10,7 @@ from jojo_core import config as _config
 from .checks import (
     bloat_check,
     contradiction_check,
+    coverage_check,
     missing_articles_check,
     orphan_check,
     quote_budget_check,
@@ -35,6 +36,7 @@ WEEKLY_CHECKS: list[str] = [
     "staleness",
     "missing_articles",
     "suggested_questions",
+    "coverage",
 ]
 
 
@@ -91,6 +93,13 @@ def run_check(name: str, wiki_root: Path | str, **kwargs: Any) -> CheckResult:
     if name == "suggested_questions":
         api_key = kwargs.get("api_key", _api_key())
         return suggested_questions_check.run(wiki_root, api_key=api_key)
+    if name == "coverage":
+        cov_kw = {
+            k: v
+            for k, v in kwargs.items()
+            if k in ("queue_path", "manifest_path", "sample_size", "seed", "threshold", "min_population")
+        }
+        return coverage_check.run(wiki_root, **cov_kw)
 
     raise ValueError(f"Unknown check: {name!r}. Known checks: {NIGHTLY_CHECKS + WEEKLY_CHECKS}")
 
