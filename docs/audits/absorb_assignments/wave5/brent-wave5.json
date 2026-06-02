@@ -1,0 +1,328 @@
+{
+  "assignment": "brent-wave5",
+  "wiki_dir": "methods",
+  "wave": "wave5",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-0400792-nrx-0400792-id-acn-ipa-1-1-neat-isocratic-60-6mlmin-40oc-100bar-pdf",
+      "sha16": "865baa9e1e6cfaa1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-0400792-nrx-0400792-id-acn-ipa-1-1-neat-isocratic-60-6mlmin-40oc-100bar-pdf.md",
+      "title": "NRX-0400792_ID_ACN_IPA (1_1) neat_Isocratic_60_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/0400792/NRX-0400792_ID_ACN_IPA (1_1) neat_Isocratic_60_6mLmin_40oC_100bar.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-gradient-20-80-meoh-3mlmin-40oc-100bar-12min-pdf",
+      "sha16": "f4fee21e2d64e6eb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-gradient-20-80-meoh-3mlmin-40oc-100bar-12min-pdf.md",
+      "title": "NRX-0401485_Gradient_20_80_MeOH_3mLmin_40oC_100bar_12min",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/NRX-0401485 Reports/NRX-0401485_Gradient_20_80_MeOH_3mLmin_40oC_100bar_12min.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-ih-isocratic-60-3mlmin-40oc-100bar-pdf",
+      "sha16": "46c4535aacde2402",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-ih-isocratic-60-3mlmin-40oc-100bar-pdf.md",
+      "title": "NRX-0401485_IH_Isocratic_60_3mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/NRX-0401485 Reports/NRX-0401485_IH_Isocratic_60_3mLmin_40oC_100bar.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-whelk-o1-isocratic-60-3mlmin-40oc-100bar-pdf",
+      "sha16": "43d5bbfbed9147d9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-whelk-o1-isocratic-60-3mlmin-40oc-100bar-pdf.md",
+      "title": "NRX-0401485_Whelk-O1_Isocratic_60_3mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/NRX-0401485 Reports/NRX-0401485_Whelk-O1_Isocratic_60_3mLmin_40oC_100bar.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-nrx-0403532-0403531-overlay-pdf",
+      "sha16": "2e464b12059c87ff",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-nrx-0403532-0403531-overlay-pdf.md",
+      "title": "NRX-0403532+0403531_Overlay",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2022/NRX-0404408/NRX-0403532+0403531_Overlay.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-nrx-0403532-0403531-stack-pdf",
+      "sha16": "ac05450fb5197eef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-nrx-0403532-0403531-stack-pdf.md",
+      "title": "NRX-0403532+0403531_Stack",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2022/NRX-0404408/NRX-0403532+0403531_Stack.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2024-2024-chiral-analysis-files-nrx-0408509-od-ipa-60-acn-0-1-nh3oh-isocratic-80-6mlmi-6bd652459e",
+      "sha16": "04aa3cee29c98df8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2024-2024-chiral-analysis-files-nrx-0408509-od-ipa-60-acn-0-1-nh3oh-isocratic-80-6mlmi-6bd652459e.md",
+      "title": "NRX-0408509_OD_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_80_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2024/2024 chiral analysis files/NRX-0408509_OD_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_80_6mLmin_40oC_100bar.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-comparison-nrx-0522275-pdf",
+      "sha16": "1cd97c9a80132fad",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-comparison-nrx-0522275-pdf.md",
+      "title": "SFC_Comparison_NRX-0522275",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/NRX-0522275_GLD03/SFC_Comparison_NRX-0522275.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-report-nrx-0522275-pk1-pdf",
+      "sha16": "825128bc69969afb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-report-nrx-0522275-pk1-pdf.md",
+      "title": "SFC_Report_NRX-0522275_PK1",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/NRX-0522275_GLD03/SFC_Report_NRX-0522275_PK1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-report-nrx-0522275-pk2-pdf",
+      "sha16": "54598fbf3eee4df2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-report-nrx-0522275-pk2-pdf.md",
+      "title": "SFC_Report_NRX-0522275_PK2",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/NRX-0522275_GLD03/SFC_Report_NRX-0522275_PK2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-comparison-nrx-0522287-pdf",
+      "sha16": "6f2293684213471f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-comparison-nrx-0522287-pdf.md",
+      "title": "SFC_Comparison_NRX-0522287",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/NRX-0522287_GLD03/SFC_Comparison_NRX-0522287.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-report-nrx-0522287-pk1-pdf",
+      "sha16": "56686e483ab5635b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-report-nrx-0522287-pk1-pdf.md",
+      "title": "SFC_Report_NRX-0522287_PK1",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/NRX-0522287_GLD03/SFC_Report_NRX-0522287_PK1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-report-nrx-0522287-pk2-pdf",
+      "sha16": "2ffe8c919d265fde",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-report-nrx-0522287-pk2-pdf.md",
+      "title": "SFC_Report_NRX-0522287_PK2",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/NRX-0522287_GLD03/SFC_Report_NRX-0522287_PK2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-052347-001-gld06-sfc-report-nrx-0523479-001-all-peaks-pdf",
+      "sha16": "41ad786a1885a30d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-052347-001-gld06-sfc-report-nrx-0523479-001-all-peaks-pdf.md",
+      "title": "SFC_Report_NRX-0523479-001_ALL PEAKS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/NRX-052347-001_GLD06/SFC_Report_NRX-0523479-001_ALL PEAKS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-052347-001-gld06-sfc-report-nrx-0523479-001-prd-peaks-pdf",
+      "sha16": "0e4def052be808a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-052347-001-gld06-sfc-report-nrx-0523479-001-prd-peaks-pdf.md",
+      "title": "SFC_Report_NRX-0523479-001_PRD PEAKS",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/NRX-052347-001_GLD06/SFC_Report_NRX-0523479-001_PRD PEAKS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-nrx-0392938-ph7-4-5day-pdf",
+      "sha16": "90e446924699c13a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-nrx-0392938-ph7-4-5day-pdf.md",
+      "title": "NRX-0392938-pH7.4 5day",
+      "source_id": "Analytical Chemistry/Brent - Public/NRX-0392938-pH7.4 5day.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-prep-sfc-methods-nrx-0387470-prep-sfc-docx",
+      "sha16": "527e519451063605",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-prep-sfc-methods-nrx-0387470-prep-sfc-docx.md",
+      "title": "NRX-0387470 Prep SFC",
+      "source_id": "Analytical Chemistry/Brent - Public/Prep SFC Methods/NRX-0387470 Prep SFC.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-2127-isolation-2127-peak-4-2127-imp-p4-t2-1-pdf",
+      "sha16": "7e62b883f0582287",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-2127-isolation-2127-peak-4-2127-imp-p4-t2-1-pdf.md",
+      "title": "2127_IMP_P4_T2.1",
+      "source_id": "Analytical Chemistry/Brent - Public/2127 Isolation/2127 Peak 4/2127_IMP_P4_T2.1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-2127-isolation-2127-peak-4-2127-imp-p4-t2-75-pdf",
+      "sha16": "001fed99d2889192",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-2127-isolation-2127-peak-4-2127-imp-p4-t2-75-pdf.md",
+      "title": "2127_IMP_P4_T2.75",
+      "source_id": "Analytical Chemistry/Brent - Public/2127 Isolation/2127 Peak 4/2127_IMP_P4_T2.75.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-2127-repure-pdf",
+      "sha16": "98b666bce5acd32f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-2127-repure-pdf.md",
+      "title": "2127_RePure",
+      "source_id": "Analytical Chemistry/Brent - Public/2127_RePure.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-0389493-0389498-1-ic-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "sha16": "e8436ed22066ee19",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-0389493-0389498-1-ic-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf.md",
+      "title": "0389498-1_IC_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/0389493/0389498-1_IC_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-871-eln-13-1224-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "sha16": "12a115e5894a038c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-871-eln-13-1224-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf.md",
+      "title": "ELN-13-1224_AS_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/ELN-10-871/ELN-13-1224_AS_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-884-eln-10-884-2-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "sha16": "d2a354db9d2c0081",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-884-eln-10-884-2-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf.md",
+      "title": "ELN-10-884-2_AS IPA + 60% ACN+ 0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/ELN-10-884/ELN-10-884-2_AS IPA + 60% ACN+ 0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-884-eln-10-884-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "sha16": "d4ceccc332d2018f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-884-eln-10-884-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf.md",
+      "title": "ELN-10-884_AS_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/ELN-10-884/ELN-10-884_AS_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401647a-5r-5s-1647-a5s-whek-o1-ipa-60-acn-0-1-nh3oh-isocratic-40-6mlmin-40oc-100bar-pdf",
+      "sha16": "c55d962becb465f2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401647a-5r-5s-1647-a5s-whek-o1-ipa-60-acn-0-1-nh3oh-isocratic-40-6mlmin-40oc-100bar-pdf.md",
+      "title": "1647-A5S_Whek-O1_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_40_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/NRX-0401647A-5R-5S/1647-A5S_Whek-O1_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_40_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-pharma-0401647b-13b-0403795-004-aa-ad-meoh-50acn-0-1-nh3oh-isocratic-50-6mlmin-40-b68b45fbbd",
+      "sha16": "b5fc2e6b6b0843c5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-pharma-0401647b-13b-0403795-004-aa-ad-meoh-50acn-0-1-nh3oh-isocratic-50-6mlmin-40-b68b45fbbd.md",
+      "title": "0403795-004-AA_AD_MeOH+50ACN+0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/Pharma 0401647B-13B/0403795-004-AA_AD_MeOH+50ACN+0.1% NH3OH_Isocratic_50_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-pharmaron-6830-check-0387597-6830-ad-meoh-50acn-0-1-nh3oh-isocratic-35-6mlmin-40o-e4bc7d07a7",
+      "sha16": "1da9c62f2a776d65",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-pharmaron-6830-check-0387597-6830-ad-meoh-50acn-0-1-nh3oh-isocratic-35-6mlmin-40o-e4bc7d07a7.md",
+      "title": "0387597-6830_AD_MeOH+50ACN+0.1% NH3OH_Isocratic_35_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2021/Pharmaron 6830 check/0387597-6830_AD_MeOH+50ACN+0.1% NH3OH_Isocratic_35_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-0404408-2-ih-acn-ipa-1-1-neat-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "sha16": "8295a013f2094733",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-0404408-2-ih-acn-ipa-1-1-neat-isocratic-50-6mlmin-40oc-100bar-pdf.md",
+      "title": "0404408-2_IH_ACN_IPA (1_1) neat_Isocratic_50_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2022/NRX-0404408/0404408-2_IH_ACN_IPA (1_1) neat_Isocratic_50_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2023-4422-combined-4422-pk2-whelk-o1-ipa-60-acn-0-1-nh3oh-isocratic-60-6mlmin-40oc-100bar-pdf",
+      "sha16": "a20ac894bb062b63",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2023-4422-combined-4422-pk2-whelk-o1-ipa-60-acn-0-1-nh3oh-isocratic-60-6mlmin-40oc-100bar-pdf.md",
+      "title": "4422 pk2_Whelk-O1_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_60_6mLmin_40oC_100bar",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2023/4422 combined/4422 pk2_Whelk-O1_IPA + 60% ACN+ 0.1% NH3OH_Isocratic_60_6mLmin_40oC_100bar.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-stat6-chiral-analysis-3488-distomer-ad-ipa-10-acn-0-1-nh4oh-iso-40-6mlmin-40c-12min-pdf",
+      "sha16": "9008d7bd02021814",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-stat6-chiral-analysis-3488-distomer-ad-ipa-10-acn-0-1-nh4oh-iso-40-6mlmin-40c-12min-pdf.md",
+      "title": "3488 Distomer_AD_IPA + 10%ACN + 0.1% NH4OH_Iso_40_6mLmin_40C_12min",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/STAT6 Chiral Analysis/3488 Distomer_AD_IPA + 10%ACN + 0.1% NH4OH_Iso_40_6mLmin_40C_12min.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-stat6-chiral-analysis-4807-4808-ad-h-iso-40-pdf",
+      "sha16": "d988b514126651b7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-stat6-chiral-analysis-4807-4808-ad-h-iso-40-pdf.md",
+      "title": "4807 4808 AD-H Iso_40",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/2025/STAT6 Chiral Analysis/4807 4808 AD-H Iso_40.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-126-2386-sfc-report-eln-126-2386-pdf",
+      "sha16": "63b09854e8a1c177",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-126-2386-sfc-report-eln-126-2386-pdf.md",
+      "title": "SFC_Report_ELN-126-2386",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-126-2386/SFC_Report_ELN-126-2386.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-207-1749-sfc-comparison-eln-207-1749-pdf",
+      "sha16": "ce77d370d91e6b20",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-207-1749-sfc-comparison-eln-207-1749-pdf.md",
+      "title": "SFC_Comparison_ELN-207-1749",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-207-1749/SFC_Comparison_ELN-207-1749.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-comparison-eln-261-3462-pdf",
+      "sha16": "3efe615a96b29591",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-comparison-eln-261-3462-pdf.md",
+      "title": "SFC_Comparison_ELN-261-3462",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3462/SFC_Comparison_ELN-261-3462.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-report-eln-261-3462-pk1-pdf",
+      "sha16": "e07aa98d22e97f60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-report-eln-261-3462-pk1-pdf.md",
+      "title": "SFC_Report_ELN-261-3462_PK1",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3462/SFC_Report_ELN-261-3462_PK1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-report-eln-261-3462-pk2-pdf",
+      "sha16": "839122eeb9f6ab89",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-report-eln-261-3462-pk2-pdf.md",
+      "title": "SFC_Report_ELN-261-3462_PK2",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3462/SFC_Report_ELN-261-3462_PK2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-report-eln-261-3464-pk1-pdf",
+      "sha16": "23b8920ef4352919",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-report-eln-261-3464-pk1-pdf.md",
+      "title": "SFC_Report_ELN-261-3464_PK1",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3464/SFC_Report_ELN-261-3464_PK1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-report-eln-261-3464-pk2-pdf",
+      "sha16": "e22a465c526f2e2f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-report-eln-261-3464-pk2-pdf.md",
+      "title": "SFC_Report_ELN-261-3464_PK2",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3464/SFC_Report_ELN-261-3464_PK2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-summary-eln-261-3464-pdf",
+      "sha16": "f001a79e4bc1cc7d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-summary-eln-261-3464-pdf.md",
+      "title": "SFC_Summary_ELN-261-3464",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-261-3464/SFC_Summary_ELN-261-3464.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2590-sfc-report-eln-400-2590-stg2-pdf",
+      "sha16": "2ab91086e44c0359",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2590-sfc-report-eln-400-2590-stg2-pdf.md",
+      "title": "SFC_Report_ELN-400-2590_STG2",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-400-2590/SFC_Report_ELN-400-2590_STG2.pdf",
+      "confidence": "low"
+    }
+  ]
+}

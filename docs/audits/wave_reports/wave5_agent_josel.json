@@ -1,0 +1,161 @@
+{
+  "agent": "jose-l-analytical-wave5",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 37,
+  "deferred_pages": [
+    "ask_jojo_wiki/references/chiral-separations-hplc-macrocyclic-glycopeptide-csps.md (Ilisz 2013)",
+    "ask_jojo_wiki/equipment/opentrons-ot2.md (vendor docs x2)"
+  ],
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395373-001-cn-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395665-003-cn-may262021-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395665-003-cn-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0400828-001-cn-may182021-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0400828-001-cn-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395373-002-cn-210607analysis-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395665-006-cn-210607analysis-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395665-006-cn-210607dmsoprepfrompowder-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0400828-003-cn-210607analysis-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399618-003-cn-nrx-0399618-003-cn-certificate-of-testing-v01-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-004-cn-nrx-0399964-004-cn-certificate-of-testing-v01-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-005-aa-rml-analysis-request-nx-9964-005-free-base-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0400223-003-cn-nrx-0400223-003-cn-certificate-of-testing-v01-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nrx-0390255-013-aa-key-compd-characteri-48c5ed6ee6",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-013-aa-1hnmr-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-certificate-of-testing-v02-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-001-certificate-of-testing-v01-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-001-certificate-of-testing-v01-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-002-certificate-of-testing-v01-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-002-certificate-of-testing-v01-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-crl-ref-01187010-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-1hnmr-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-certificate-of-testing-v01-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-certificate-of-testing-v01-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-key-compd-characterization-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-rml-forms-and-quotes-rml-general-analys-cf2b182d20",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-1hnmr-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-behc18-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-certificate-of-testing-v01-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-certificate-of-testing-v02-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-cshc18-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-key-compound-characteriz-647963a531",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-gc-form-2017-nx-73bc64f2ee",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-general-analysi-4975aba098",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-thermal-form-20-c4ab304e3b",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-1hnmr-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-certificate-of-4209182cc6",
+      "bucket": "mechanical"
+    }
+  ],
+  "notes": "Cluster heavily mechanical (DMSO stock chromatograms, CoAs, NMR, RML forms). 37/40 reclassified. 3 entries deferred for future absorption (Ilisz 2013 chiral CSP literature, 2x Opentrons docs)."
+}

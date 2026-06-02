@@ -1,0 +1,328 @@
+{
+  "assignment": "jose-l-analytical-wave5",
+  "wiki_dir": "methods",
+  "wave": "wave5",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-chiralseparations-methodsinmolecularbiology970137-163-pdf",
+      "sha16": "24ba9bfae430062d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-chiralseparations-methodsinmolecularbiology970137-163-pdf.md",
+      "title": "ChiralSeparations-MethodsinMolecularBiology970137-163",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/RP Chiral Separations/ChiralSeparations-MethodsinMolecularBiology970137-163.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-automation-manuals-using-labware-in-your-protocols-opentrons-help-center-pdf",
+      "sha16": "316f77b69878bd04",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-automation-manuals-using-labware-in-your-protocols-opentrons-help-center-pdf.md",
+      "title": "Using labware in your protocols _ Opentrons Help Center",
+      "source_id": "Analytical Chemistry/Jose L - public/Automation/Manuals/Using labware in your protocols _ Opentrons Help Center.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-automation-manuals-write-and-simulate-protocols-on-windows-10-opentrons-help-center-pdf",
+      "sha16": "48bb2a94d4d2c2ae",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-automation-manuals-write-and-simulate-protocols-on-windows-10-opentrons-help-center-pdf.md",
+      "title": "Write and Simulate Protocols on Windows 10 _ Opentrons Help Center",
+      "source_id": "Analytical Chemistry/Jose L - public/Automation/Manuals/Write and Simulate Protocols on Windows 10 _ Opentrons Help Center.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395373-001-cn-pdf",
+      "sha16": "22e9d86032e88682",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395373-001-cn-pdf.md",
+      "title": "NRX-0395373-001-CN",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210602 DMSO Stock/NRX-0395373-001-CN.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395665-003-cn-may262021-pdf",
+      "sha16": "a0accb8972741aad",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395665-003-cn-may262021-pdf.md",
+      "title": "NRX-0395665-003-CN May262021",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210602 DMSO Stock/NRX-0395665-003-CN May262021.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395665-003-cn-pdf",
+      "sha16": "a30a236682c656af",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0395665-003-cn-pdf.md",
+      "title": "NRX-0395665-003-CN",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210602 DMSO Stock/NRX-0395665-003-CN.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0400828-001-cn-may182021-pdf",
+      "sha16": "03588d590e5fa351",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0400828-001-cn-may182021-pdf.md",
+      "title": "NRX-0400828-001-CN May182021",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210602 DMSO Stock/NRX-0400828-001-CN May182021.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0400828-001-cn-pdf",
+      "sha16": "f54c331633d87b84",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210602-dmso-stock-nrx-0400828-001-cn-pdf.md",
+      "title": "NRX-0400828-001-CN",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210602 DMSO Stock/NRX-0400828-001-CN.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395373-002-cn-210607analysis-pdf",
+      "sha16": "1d83018f3a6e3a18",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395373-002-cn-210607analysis-pdf.md",
+      "title": "NRX-0395373-002-CN_210607analysis",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210607 DMSO Stock/NRX-0395373-002-CN_210607analysis.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395665-006-cn-210607analysis-pdf",
+      "sha16": "b396d2bff993baec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395665-006-cn-210607analysis-pdf.md",
+      "title": "NRX-0395665-006-CN_210607analysis",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210607 DMSO Stock/NRX-0395665-006-CN_210607analysis.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395665-006-cn-210607dmsoprepfrompowder-pdf",
+      "sha16": "8482c21082fee748",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0395665-006-cn-210607dmsoprepfrompowder-pdf.md",
+      "title": "NRX-0395665-006-CN_210607DMSOPrepfromPowder",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210607 DMSO Stock/NRX-0395665-006-CN_210607DMSOPrepfromPowder.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0400828-003-cn-210607analysis-pdf",
+      "sha16": "db2cd11446e32da2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-biology-support-210607-dmso-stock-nrx-0400828-003-cn-210607analysis-pdf.md",
+      "title": "NRX-0400828-003-CN_210607analysis",
+      "source_id": "Analytical Chemistry/Jose L - public/Biology Support/210607 DMSO Stock/NRX-0400828-003-CN_210607analysis.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399618-003-cn-nrx-0399618-003-cn-certificate-of-testing-v01-docx",
+      "sha16": "3f33e3f5374a3886",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399618-003-cn-nrx-0399618-003-cn-certificate-of-testing-v01-docx.md",
+      "title": "NRX-0399618-003-CN_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0399618-003-CN/NRX-0399618-003-CN_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-004-cn-nrx-0399964-004-cn-certificate-of-testing-v01-docx",
+      "sha16": "be583c1945ddf1f0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-004-cn-nrx-0399964-004-cn-certificate-of-testing-v01-docx.md",
+      "title": "NRX-0399964-004-CN_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0399964-004-CN/NRX-0399964-004-CN_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-005-aa-rml-analysis-request-nx-9964-005-free-base-pdf",
+      "sha16": "91239fd2f960eb25",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-005-aa-rml-analysis-request-nx-9964-005-free-base-pdf.md",
+      "title": "RML Analysis Request_NX-9964-005-free base",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0399964-005-AA/RML Analysis Request_NX-9964-005-free base.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0400223-003-cn-nrx-0400223-003-cn-certificate-of-testing-v01-docx",
+      "sha16": "5ad6bafafe9637a2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0400223-003-cn-nrx-0400223-003-cn-certificate-of-testing-v01-docx.md",
+      "title": "NRX-0400223-003-CN_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0400223-003-CN/NRX-0400223-003-CN_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nrx-0390255-013-aa-key-compd-characteri-48c5ed6ee6",
+      "sha16": "de8a6fc519bd22be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nrx-0390255-013-aa-key-compd-characteri-48c5ed6ee6.md",
+      "title": "NRX-0390255-013-AA_Key_Compd_Characterization_01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255-013-AA/NRX-0390255-013-AA_Key_Compd_Characterization_01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-013-aa-1hnmr-pdf",
+      "sha16": "c36084d88c3c8b10",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-013-aa-1hnmr-pdf.md",
+      "title": "NX-0255-013-AA_1HNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255-013-AA/NX-0255-013-AA_1HNMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-certificate-of-testing-v02-docx",
+      "sha16": "9089e53ec4eb93fc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-nx-0255-certificate-of-testing-v02-docx.md",
+      "title": "NX-0255_Certificate_of_Testing_v02",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255-013-AA/NX-0255_Certificate_of_Testing_v02.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-001-certificate-of-testing-v01-docx",
+      "sha16": "91b06dec7d928405",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-001-certificate-of-testing-v01-docx.md",
+      "title": "NX-0255_20068A_001_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255_CRL_DK/NX-0255_20068A_001_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-001-certificate-of-testing-v01-pdf",
+      "sha16": "207ba091171410a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-001-certificate-of-testing-v01-pdf.md",
+      "title": "NX-0255_20068A_001_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255_CRL_DK/NX-0255_20068A_001_Certificate_of_Testing_v01.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-002-certificate-of-testing-v01-docx",
+      "sha16": "6b7fb485c35774a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-002-certificate-of-testing-v01-docx.md",
+      "title": "NX-0255_20068A_002_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255_CRL_DK/NX-0255_20068A_002_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-002-certificate-of-testing-v01-pdf",
+      "sha16": "300241c74f1a0138",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-20068a-002-certificate-of-testing-v01-pdf.md",
+      "title": "NX-0255_20068A_002_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255_CRL_DK/NX-0255_20068A_002_Certificate_of_Testing_v01.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-crl-ref-01187010-pdf",
+      "sha16": "d12f422eb7964361",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-crl-dk-nx-0255-crl-ref-01187010-pdf.md",
+      "title": "NX-0255 CRL Ref 01187010",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255_CRL_DK/NX-0255 CRL Ref 01187010.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-1hnmr-pdf",
+      "sha16": "125c6dc963ffbaaa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-1hnmr-pdf.md",
+      "title": "NX-1607-003-AA_1HNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-003-AA/NX-1607-003-AA_1HNMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-certificate-of-testing-v01-docx",
+      "sha16": "675600438f9a03d3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-certificate-of-testing-v01-docx.md",
+      "title": "NX-1607-003-AA_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-003-AA/NX-1607-003-AA_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-certificate-of-testing-v01-pdf",
+      "sha16": "91e1424e83cb94a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-certificate-of-testing-v01-pdf.md",
+      "title": "NX-1607-003-AA_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-003-AA/NX-1607-003-AA_Certificate_of_Testing_v01.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-key-compd-characterization-docx",
+      "sha16": "a046bcb316759a7a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-nx-1607-003-aa-key-compd-characterization-docx.md",
+      "title": "NX-1607-003-AA_Key_Compd_Characterization",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-003-AA/NX-1607-003-AA_Key_Compd_Characterization.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-rml-forms-and-quotes-rml-general-analys-cf2b182d20",
+      "sha16": "5ed0962febfb4af1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-rml-forms-and-quotes-rml-general-analys-cf2b182d20.md",
+      "title": "RML General Analysis Request_NX-1607-003-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-003-AA/RML Forms and Quotes/RML General Analysis Request_NX-1607-003-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-1hnmr-pdf",
+      "sha16": "cb68dafd6e2ad04b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-1hnmr-pdf.md",
+      "title": "NX-1607-006-AA_1HNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-006-AA/NX-1607-006-AA_1HNMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-behc18-pdf",
+      "sha16": "e3d759bd772b0d87",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-behc18-pdf.md",
+      "title": "NX-1607-006-AA_BEHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-006-AA/NX-1607-006-AA_BEHC18.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-certificate-of-testing-v01-docx",
+      "sha16": "d1c01e22f456fd5c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-certificate-of-testing-v01-docx.md",
+      "title": "NX-1607-006-AA_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-006-AA/NX-1607-006-AA_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-certificate-of-testing-v02-pdf",
+      "sha16": "7eb388d38ca7f6a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-certificate-of-testing-v02-pdf.md",
+      "title": "NX-1607-006-AA_Certificate_of_Testing_v02",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-006-AA/NX-1607-006-AA_Certificate_of_Testing_v02.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-cshc18-pdf",
+      "sha16": "f1b50df601c8b1a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-cshc18-pdf.md",
+      "title": "NX-1607-006-AA_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-006-AA/NX-1607-006-AA_CSHC18.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-key-compound-characteriz-647963a531",
+      "sha16": "29e45a313903169d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-006-aa-nx-1607-006-aa-key-compound-characteriz-647963a531.md",
+      "title": "NX-1607-006-AA_Key Compound Characterization Report",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-006-AA/NX-1607-006-AA_Key Compound Characterization Report.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-gc-form-2017-nx-73bc64f2ee",
+      "sha16": "14a2e4c19eb9f33c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-gc-form-2017-nx-73bc64f2ee.md",
+      "title": "RML GC Form 2017_NX-1607-007-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/01Feb2021/RML Forms/RML GC Form 2017_NX-1607-007-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-general-analysi-4975aba098",
+      "sha16": "8a648d14310cc096",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-general-analysi-4975aba098.md",
+      "title": "RML General Analysis Request_NX-1607-007-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/01Feb2021/RML Forms/RML General Analysis Request_NX-1607-007-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-thermal-form-20-c4ab304e3b",
+      "sha16": "b2c9f6b3a9ef5cde",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-01feb2021-rml-forms-rml-thermal-form-20-c4ab304e3b.md",
+      "title": "RML Thermal Form 2017_NX-1607-007-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/01Feb2021/RML Forms/RML Thermal Form 2017_NX-1607-007-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-1hnmr-pdf",
+      "sha16": "cc94a95d09551cfb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-1hnmr-pdf.md",
+      "title": "NX-1607-007-AA_1HNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/17Nov2020/NX-1607-007-AA_1HNMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-certificate-of-4209182cc6",
+      "sha16": "9b858b3c6ce1a5c0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-nx-1607-007-aa-certificate-of-4209182cc6.md",
+      "title": "NX-1607-007-AA_Certificate_of_Testing_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/17Nov2020/NX-1607-007-AA_Certificate_of_Testing_v01.docx",
+      "confidence": "high"
+    }
+  ]
+}

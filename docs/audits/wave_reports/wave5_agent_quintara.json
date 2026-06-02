@@ -1,0 +1,16 @@
+{
+  "agent": "quintara-wave5",
+  "pages": [
+    "ask_jojo_wiki/methods/lysosome-stability-assay.md",
+    "ask_jojo_wiki/methods/cyp450-time-dependent-inhibition-kinetics-assay.md",
+    "ask_jojo_wiki/methods/cyp450-induction-assay.md",
+    "ask_jojo_wiki/methods/glutathione-reactivity-assay.md",
+    "ask_jojo_wiki/methods/gsh-trapping-assay.md",
+    "ask_jojo_wiki/methods/blood-to-plasma-ratio-assay.md",
+    "ask_jojo_wiki/methods/buffer-stability-assay.md"
+  ],
+  "n_covered": 24,
+  "n_reclassed": 16,
+  "reclassified_out": [],
+  "notes": "7 new method pages from Quintara protocols: lysosome stability, CYP TDI kinetics, CYP induction, GSH reactivity, GSH trapping, B/P ratio, buffer stability. 16 SOWs/POs/image-only protocols/duplicates dropped."
+}

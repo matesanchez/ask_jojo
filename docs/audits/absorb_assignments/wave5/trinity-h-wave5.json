@@ -1,0 +1,328 @@
+{
+  "assignment": "trinity-h-wave5",
+  "wiki_dir": "methods",
+  "wave": "wave5",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-2023-chiral-2023-braf-chiral-20231220-nrx-0439381-nrx-0434411-ar-005591-braf-chiral-pptx",
+      "sha16": "effa5ee1c47d6853",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-2023-chiral-2023-braf-chiral-20231220-nrx-0439381-nrx-0434411-ar-005591-braf-chiral-pptx.md",
+      "title": "20231220 NRX-0439381 NRX-0434411 AR-005591 BRAF Chiral",
+      "source_id": "Analytical Chemistry/Trinity H - Public/2023 Chiral/2023 BRAF Chiral/20231220 NRX-0439381 NRX-0434411 AR-005591 BRAF Chiral.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-2023-chiral-2023-braf-chiral-draft-20231220-nrx-0439381-nrx-0434411-ar-005591-braf-chiral-pptx",
+      "sha16": "62d150013fad91f0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-2023-chiral-2023-braf-chiral-draft-20231220-nrx-0439381-nrx-0434411-ar-005591-braf-chiral-pptx.md",
+      "title": "(DRAFT) 20231220 NRX-0439381 & NRX-0434411 AR-005591 BRAF Chiral",
+      "source_id": "Analytical Chemistry/Trinity H - Public/2023 Chiral/2023 BRAF Chiral/(DRAFT) 20231220 NRX-0439381 & NRX-0434411 AR-005591 BRAF Chiral.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-braf-2023-stability-and-binding-assay-conditons-tumor-cells-binding-pptx",
+      "sha16": "f82c9cab53ba7204",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-braf-2023-stability-and-binding-assay-conditons-tumor-cells-binding-pptx.md",
+      "title": "Assay Conditons Tumor Cells Binding",
+      "source_id": "Analytical Chemistry/Trinity H - Public/BRAF 2023 Stability and Binding/Assay Conditons Tumor Cells Binding.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-braf-2023-stability-and-binding-braf-a375-cell-lines-binding-red-pptx",
+      "sha16": "b07ffd898b82d745",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-braf-2023-stability-and-binding-braf-a375-cell-lines-binding-red-pptx.md",
+      "title": "BRAF A375 Cell Lines Binding RED",
+      "source_id": "Analytical Chemistry/Trinity H - Public/BRAF 2023 Stability and Binding/BRAF A375 Cell Lines Binding RED.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-in-house-adme-assays-next-steps-pptx",
+      "sha16": "891f69395888974d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-in-house-adme-assays-next-steps-pptx.md",
+      "title": "In-house ADME Assays Next Steps",
+      "source_id": "Analytical Chemistry/Trinity H - Public/In-house ADME Assays Next Steps.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-logd-chromatography-on-immobilized-artificial-membrane-iam-pdf",
+      "sha16": "1b67c0e5910df87a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-logd-chromatography-on-immobilized-artificial-membrane-iam-pdf.md",
+      "title": "Chromatography on Immobilized Artificial Membrane (IAM)",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/logD/Chromatography on Immobilized Artificial Membrane (IAM).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-logd-iam-screening-instructions-pdf",
+      "sha16": "b966b68b6497918b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-logd-iam-screening-instructions-pdf.md",
+      "title": "IAM Screening Instructions",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/logD/IAM Screening Instructions.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-mass-spectrometry-def-springer-pdf",
+      "sha16": "25b847e00342fd7e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-mass-spectrometry-def-springer-pdf.md",
+      "title": "Mass_spectrometry_Def_Springer",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Mass_spectrometry_Def_Springer.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf",
+      "sha16": "0188a3b4e5d3a605",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf.md",
+      "title": "Mimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Mimetas/Mimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf",
+      "sha16": "d8569ae6ed9b383d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf.md",
+      "title": "Mimetas_Barrier Integrity Assay_V3.1",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Mimetas/Mimetas_Barrier Integrity Assay_V3.1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-new-methodology-for-determining-plasma-protein-binding-kinetics-using-an-enzyme-report-58d45e73af",
+      "sha16": "edb07aa66dc77747",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-new-methodology-for-determining-plasma-protein-binding-kinetics-using-an-enzyme-report-58d45e73af.md",
+      "title": "New Methodology for Determining Plasma Protein Binding Kinetics Using an Enzyme Reporter Assay Coupling with High-Resolution Mass Spectrometry",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/New Methodology for Determining Plasma Protein Binding Kinetics Using an Enzyme Reporter Assay Coupling with High-Resolution Mass Spectrometry.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-theory-of-hplc-introduction-pdf",
+      "sha16": "378920ecd54c1b5c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-theory-of-hplc-introduction-pdf.md",
+      "title": "theory_of_hplc_introduction",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/theory_of_hplc_introduction.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plasma-stability-app-update-315-meeting-pptx",
+      "sha16": "eee50e2cf56156e0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plasma-stability-app-update-315-meeting-pptx.md",
+      "title": "Plasma Stability App Update 315 Meeting",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/Plasma Stability App Update 315 Meeting.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plasma-stability-changes-to-protocol-atf-pptx",
+      "sha16": "1431498287565dd9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plasma-stability-changes-to-protocol-atf-pptx.md",
+      "title": "Plasma stability_changes to protocol_ATF",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/Plasma stability_changes to protocol_ATF.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0399614-mrm-pdf",
+      "sha16": "27b52b384d96969e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0399614-mrm-pdf.md",
+      "title": "NRX-0399614_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0399614_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0399614-pdf",
+      "sha16": "41877ce7fc2c20db",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0399614-pdf.md",
+      "title": "NRX-0399614",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0399614.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0399964-mrm-pdf",
+      "sha16": "e9bda4d14804a33d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0399964-mrm-pdf.md",
+      "title": "NRX-0399964_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0399964_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0399964-pdf",
+      "sha16": "adc2486ccdf5a57f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0399964-pdf.md",
+      "title": "NRX-0399964",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0399964.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400827-mrm-pdf",
+      "sha16": "d8a9e2f360c043b3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400827-mrm-pdf.md",
+      "title": "NRX-0400827_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0400827_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400827-pdf",
+      "sha16": "831531414fe284a2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400827-pdf.md",
+      "title": "NRX-0400827",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0400827.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400828-mrm-pdf",
+      "sha16": "da7f9ce424630373",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400828-mrm-pdf.md",
+      "title": "NRX-0400828_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0400828_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400828-pdf",
+      "sha16": "9311320f9d29eee4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400828-pdf.md",
+      "title": "NRX-0400828",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0400828.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400960-mrm-pdf",
+      "sha16": "a216fea6e94ab5ed",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400960-mrm-pdf.md",
+      "title": "NRX-0400960_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0400960_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400960-pdf",
+      "sha16": "948ea757fccdf745",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0400960-pdf.md",
+      "title": "NRX-0400960",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0400960.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401646-mrm-pdf",
+      "sha16": "2d6fd1d8e6c47ce0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401646-mrm-pdf.md",
+      "title": "NRX-0401646_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401646_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401646-pdf",
+      "sha16": "77c18c369b59f475",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401646-pdf.md",
+      "title": "NRX-0401646",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401646.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401647-mrm-2-pdf",
+      "sha16": "003650d72b032c05",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401647-mrm-2-pdf.md",
+      "title": "NRX-0401647 MRM-2",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401647 MRM-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401647-mrm-pdf",
+      "sha16": "58c6b6b05590c23b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401647-mrm-pdf.md",
+      "title": "NRX-0401647_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401647_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401647-pdf",
+      "sha16": "90a1560ce4b544b0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401647-pdf.md",
+      "title": "NRX-0401647",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401647.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401649-mrm-pdf",
+      "sha16": "47e4b182da56cf34",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401649-mrm-pdf.md",
+      "title": "NRX-0401649_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401649_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401649-pdf",
+      "sha16": "d45e331a8db2ec8c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401649-pdf.md",
+      "title": "NRX-0401649",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401649.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401650-mrm-pdf",
+      "sha16": "3a0d02bb71406ba1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401650-mrm-pdf.md",
+      "title": "NRX-0401650_MRM",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401650_MRM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401650-pdf",
+      "sha16": "ebe1c120f7cba7e2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210824---lead-compounds-nrx-0401650-pdf.md",
+      "title": "NRX-0401650",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210824 - Lead Compounds/NRX-0401650.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210914-nrx-0399129---multi-sample-summary-pdf",
+      "sha16": "1f5664060caed69d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2021-210914-nrx-0399129---multi-sample-summary-pdf.md",
+      "title": "NRX-0399129 - Multi Sample Summary",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2021/210914/NRX-0399129 - Multi Sample Summary.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2023-uploaded-230302-chemical-structures-of-non-behaving-compounds-pptx",
+      "sha16": "f13647469a337e13",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2023-uploaded-230302-chemical-structures-of-non-behaving-compounds-pptx.md",
+      "title": "Chemical Structures of Non-behaving Compounds",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2023/UPLOADED/230302/Chemical Structures of Non-behaving Compounds.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2023-uploaded-230726-plasma-stability-july-2023-app-feedback-pptx",
+      "sha16": "2329d5b5ac093f4a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2023-uploaded-230726-plasma-stability-july-2023-app-feedback-pptx.md",
+      "title": "Plasma Stability July 2023 App Feedback",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2023/UPLOADED/230726/Plasma Stability July 2023 App Feedback.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2023-uploaded-230726-plasma-stability-july-2023-pptx",
+      "sha16": "dc0217b8ac1336d8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2023-uploaded-230726-plasma-stability-july-2023-pptx.md",
+      "title": "Plasma Stability July 2023",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2023/UPLOADED/230726/Plasma Stability July 2023.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2023-uploaded-230726-plasma-stability-july-2023-qc-pptx",
+      "sha16": "2aeeb1a0f6f8a8b1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2023-uploaded-230726-plasma-stability-july-2023-qc-pptx.md",
+      "title": "Plasma Stability July 2023 QC",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2023/UPLOADED/230726/Plasma Stability July 2023 QC.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2024-240126-nrx-0468028-and-nrx-0468046-pptx",
+      "sha16": "ffd79ce7d195d46c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-plst-2024-240126-nrx-0468028-and-nrx-0468046-pptx.md",
+      "title": "NRX-0468028 and NRX-0468046",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/PlSt 2024/240126/NRX-0468028 and NRX-0468046.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-presentation-pptx",
+      "sha16": "db780521cd978de7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-presentation-pptx.md",
+      "title": "Plasma Stability Presentation",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability Presentation.pptx",
+      "confidence": "high"
+    }
+  ]
+}

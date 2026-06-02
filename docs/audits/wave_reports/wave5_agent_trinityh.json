@@ -1,0 +1,32 @@
+{
+  "agent": "trinity-h-wave5",
+  "pages": [
+    "ask_jojo_wiki/methods/chiral-interconversion-assay.md",
+    "ask_jojo_wiki/methods/a375-tumor-cell-red-binding-assay.md",
+    "ask_jojo_wiki/methods/plasma-stability-assay.md",
+    "ask_jojo_wiki/methods/immobilized-artificial-membrane-chromatography.md",
+    "ask_jojo_wiki/methods/adme-plasma-stability-data-processing-automation.md",
+    "ask_jojo_wiki/references/yan-2023-dynamic-free-fraction-ppb-kinetics.md"
+  ],
+  "n_covered": 36,
+  "n_reclassed": 4,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-mass-spectrometry-def-springer-pdf",
+      "bucket": "off-topic-or-image-only"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf",
+      "bucket": "off-topic-or-image-only"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf",
+      "bucket": "off-topic-or-image-only"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-theory-of-hplc-introduction-pdf",
+      "bucket": "off-topic-or-image-only"
+    }
+  ],
+  "notes": "3 new + 3 enriched pages: chiral interconversion, A375 cell-binding, plasma-stability stub upgraded, IAM chromatography enriched, plasma-stability automation, Yan 2023 PPB. 4 skipped (geochronology, image-only, generic training)."
+}

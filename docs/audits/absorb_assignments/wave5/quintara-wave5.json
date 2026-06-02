@@ -1,0 +1,328 @@
+{
+  "assignment": "quintara-wave5",
+  "wiki_dir": "methods",
+  "wave": "wave5",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-other-nrx-0388766-quintara-report-mid-report-20180726-pdf",
+      "sha16": "d1c0e6d98c192244",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-other-nrx-0388766-quintara-report-mid-report-20180726-pdf.md",
+      "title": "NRX-0388766 Quintara report MID report 20180726",
+      "source_id": "Analytical Chemistry/Jose L - public/Other/NRX-0388766 Quintara report MID report 20180726.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-invoices-2022-r-d-04-nx2127-nx5948-2022-08-31-invoice---nurix-qd120488-pdf",
+      "sha16": "c4726b7be357c087",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-invoices-2022-r-d-04-nx2127-nx5948-2022-08-31-invoice---nurix-qd120488-pdf.md",
+      "title": "04_NX2127_NX5948_2022-08-31_Invoice_-_Nurix_QD120488",
+      "source_id": "Analytical Chemistry/Quintara/2022/Invoices/2022/R&D/04_NX2127_NX5948_2022-08-31_Invoice_-_Nurix_QD120488.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-nurix-lysosome-stability-assay-protocol-docx",
+      "sha16": "7fdfefc9d0bb4c27",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-nurix-lysosome-stability-assay-protocol-docx.md",
+      "title": "Nurix Lysosome Stability Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Nurix Lysosome Stability Assay Protocol.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-cyp-time-dependent-inhibition-kinetics-assay-protocol-pdf",
+      "sha16": "8d22a34594a516c2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-cyp-time-dependent-inhibition-kinetics-assay-protocol-pdf.md",
+      "title": "QDI CYP Time-Dependent Inhibition Kinetics Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/QDI CYP Time-Dependent Inhibition Kinetics Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-glutathione-reactivity-assay-protocol-pdf",
+      "sha16": "3bcdd1c0dd5c4b19",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-glutathione-reactivity-assay-protocol-pdf.md",
+      "title": "QDI Glutathione Reactivity Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/QDI Glutathione Reactivity Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-gsh-trapping-assay-protocol-updated-2024-pdf",
+      "sha16": "744087a827939e44",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-gsh-trapping-assay-protocol-updated-2024-pdf.md",
+      "title": "QDI GSH Trapping Assay Protocol updated 2024",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/QDI GSH Trapping Assay Protocol updated 2024.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-lysosome-stability-assay-protocol-nurix-pdf",
+      "sha16": "6dd8f04dffa2f448",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-lysosome-stability-assay-protocol-nurix-pdf.md",
+      "title": "QDI Lysosome Stability Assay Protocol (Nurix)",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/QDI Lysosome Stability Assay Protocol (Nurix).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-pxr-cyp3a4-induction-assay-protocol-pdf",
+      "sha16": "be338c831ac8792e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-qdi-pxr-cyp3a4-induction-assay-protocol-pdf.md",
+      "title": "QDI PXR CYP3A4 Induction Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/QDI PXR CYP3A4 Induction Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-blood-to-plasma-ratio-assay-protocol-pdf",
+      "sha16": "286cc469bbe6f513",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-blood-to-plasma-ratio-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Blood-to-Plasma Ratio Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Blood-to-Plasma Ratio Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-buffer-stability-assay-protocol-pdf",
+      "sha16": "412302c47b853235",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-buffer-stability-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Buffer Stability Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Buffer Stability Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-cyp-induction-assay-protocol-mrna-and-functional-pdf",
+      "sha16": "28fe7c6b4800bee6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-cyp-induction-assay-protocol-mrna-and-functional-pdf.md",
+      "title": "Quintara Discovery CYP Induction Assay Protocol_mRNA and Functional",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery CYP Induction Assay Protocol_mRNA and Functional.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-cyp-time-dependent-inhibition-assay-protocol-pdf",
+      "sha16": "854637459a0ad4bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-cyp-time-dependent-inhibition-assay-protocol-pdf.md",
+      "title": "Quintara Discovery CYP Time-Dependent Inhibition Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery CYP Time-Dependent Inhibition Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-logd-assay-protocol-pdf",
+      "sha16": "63a56508cacf8614",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-logd-assay-protocol-pdf.md",
+      "title": "Quintara Discovery LogD Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery LogD Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-plasma-protein-binding-ultracentrifugation-assay-protocol-pdf",
+      "sha16": "d14846cf8f02c4ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-plasma-protein-binding-ultracentrifugation-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Plasma Protein Binding Ultracentrifugation Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Plasma Protein Binding Ultracentrifugation Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-plasma-stability-assay-protocol-pdf",
+      "sha16": "1a4310bdb6e35e06",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-plasma-stability-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Plasma Stability Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Plasma Stability Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9260-nurix-05202022-ic50-study-report-pdf",
+      "sha16": "4dc6350dd87d2a8a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9260-nurix-05202022-ic50-study-report-pdf.md",
+      "title": "QDI Quotation - QA-9260 Nurix 05202022_IC50 study report",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-9260 Nurix 05202022_IC50 study report.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9345-nurix-06172022-melanin-binding-pdf",
+      "sha16": "2b8c553b089ab305",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9345-nurix-06172022-melanin-binding-pdf.md",
+      "title": "QDI Quotation - QA-9345 Nurix 06172022_melanin binding",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-9345 Nurix 06172022_melanin binding.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9396-nurix-07122022-5-compounds-melanin-pdf",
+      "sha16": "50928956c9e9ab12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9396-nurix-07122022-5-compounds-melanin-pdf.md",
+      "title": "QDI Quotation - QA-9396 Nurix 07122022_5 compounds_melanin",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-9396 Nurix 07122022_5 compounds_melanin.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-nx-5948-quintara-sow-qa-10386-sep-2023-8885-nx-5948-pdf",
+      "sha16": "8b917ef6d941455f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-nx-5948-quintara-sow-qa-10386-sep-2023-8885-nx-5948-pdf.md",
+      "title": "Quintara_SOW QA-10386_(Sep 2023)_8885_NX-5948",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/NX-5948/Quintara_SOW QA-10386_(Sep 2023)_8885_NX-5948.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-quote-lysosome-stability---qdi-quotation---qa-10533-nurix-12112023-pdf",
+      "sha16": "d349113428e5abc2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-quote-lysosome-stability---qdi-quotation---qa-10533-nurix-12112023-pdf.md",
+      "title": "Lysosome Stability - QDI Quotation - QA-10533 Nurix 12112023",
+      "source_id": "Analytical Chemistry/Quintara/2023/Quote/Lysosome Stability - QDI Quotation - QA-10533 Nurix 12112023.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-10117-nurix-04242023-nx-2127-pdf",
+      "sha16": "aa0c1faefa0df755",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-10117-nurix-04242023-nx-2127-pdf.md",
+      "title": "QDI Quotation - QA-10117 Nurix 04242023_NX-2127",
+      "source_id": "Analytical Chemistry/Quintara/2023/Quote/QDI Quotation - QA-10117 Nurix 04242023_NX-2127.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-10252-nurix-07112023-nx-2127-ppb-in-media-pdf",
+      "sha16": "3a9b390342f68cc7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-10252-nurix-07112023-nx-2127-ppb-in-media-pdf.md",
+      "title": "QDI Quotation - QA-10252 Nurix 07112023_NX-2127 PPB in media",
+      "source_id": "Analytical Chemistry/Quintara/2023/Quote/QDI Quotation - QA-10252 Nurix 07112023_NX-2127 PPB in media.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-10386-nurix-09182023-nx-5948-ppb-in-media-pdf",
+      "sha16": "cf4bdfcbf36ee578",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-10386-nurix-09182023-nx-5948-ppb-in-media-pdf.md",
+      "title": "QDI Quotation - QA-10386 Nurix 09182023_NX-5948 PPB in media",
+      "source_id": "Analytical Chemistry/Quintara/2023/Quote/QDI Quotation - QA-10386 Nurix 09182023_NX-5948 PPB in media.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-results-media-binding-nrx-0395948-nurix-uc-serum-protein-binding-report-v1-049-docx",
+      "sha16": "907097f7e39ae9f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-results-media-binding-nrx-0395948-nurix-uc-serum-protein-binding-report-v1-049-docx.md",
+      "title": "NRX-0395948 Nurix UC Serum Protein Binding Report v1_049",
+      "source_id": "Analytical Chemistry/Quintara/2023/Results/Media Binding/NRX-0395948 Nurix UC Serum Protein Binding Report v1_049.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-results-ppb-uc-nx-2127-ppb-uc-report-nrx-0397030-nrx-0397031-nrx-0419595-and-nrx-0419596-nurix-uc-plas-a380baf5ac",
+      "sha16": "2a0a74820838edfd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-results-ppb-uc-nx-2127-ppb-uc-report-nrx-0397030-nrx-0397031-nrx-0419595-and-nrx-0419596-nurix-uc-plas-a380baf5ac.md",
+      "title": "NRX-0397030, NRX-0397031, NRX-0419595, and NRX-0419596 Nurix UC Plasma Protein Binding Report v1",
+      "source_id": "Analytical Chemistry/Quintara/2023/Results/PPB UC/NX-2127 PPB UC report/NRX-0397030, NRX-0397031, NRX-0419595, and NRX-0419596 Nurix UC Plasma Protein Binding Report v1.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2024-quote-old-quote-with-lysosomal-stability-pdf",
+      "sha16": "d345e6cdc09edb49",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2024-quote-old-quote-with-lysosomal-stability-pdf.md",
+      "title": "Quote with Lysosomal Stability",
+      "source_id": "Analytical Chemistry/Quintara/2024/Quote/Old/Quote with Lysosomal Stability.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2025-quote-dac-lp-lysosomal-stability-quote-pdf",
+      "sha16": "d865f876e7f4dbd9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2025-quote-dac-lp-lysosomal-stability-quote-pdf.md",
+      "title": "DAC-LP Lysosomal Stability Quote",
+      "source_id": "Analytical Chemistry/Quintara/2025/Quote/DAC-LP Lysosomal Stability Quote.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-quintara-discovery-plasma-stability-assay-protocol-pdf",
+      "sha16": "1a4310bdb6e35e06",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-quintara-discovery-plasma-stability-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Plasma Stability Assay Protocol",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability/Quintara Discovery Plasma Stability Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-stat6-quintara-qdi-quotation---qa-8811-nurix-12222021-pdf",
+      "sha16": "e25a39e0b1e41197",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-stat6-quintara-qdi-quotation---qa-8811-nurix-12222021-pdf.md",
+      "title": "QDI Quotation - QA-8811 Nurix 12222021",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/STAT6 Quintara/QDI Quotation - QA-8811 Nurix 12222021.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-stat6-quintara-qdi-quotation---qa-8812-nurix-12222021-pdf",
+      "sha16": "0fed52c34f5a5741",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-stat6-quintara-qdi-quotation---qa-8812-nurix-12222021-pdf.md",
+      "title": "QDI Quotation - QA-8812 Nurix 12222021",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/STAT6 Quintara/QDI Quotation - QA-8812 Nurix 12222021.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-covid-sow-1-quintara-master-sow-quintara-c-feb-2022-6448-covid-pdf",
+      "sha16": "880d29e426866c9b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-covid-sow-1-quintara-master-sow-quintara-c-feb-2022-6448-covid-pdf.md",
+      "title": "#1_Quintara_Master SOW (QUINTARA-C)_(Feb 2022)_6448_COVID",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/COVID SOW/#1_Quintara_Master SOW (QUINTARA-C)_(Feb 2022)_6448_COVID.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-covid-sow-2-quintara-master-sow-quintara-c-2-apr-2022-6714-200k-covid-pdf",
+      "sha16": "b6b34aa5a1549728",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-covid-sow-2-quintara-master-sow-quintara-c-2-apr-2022-6714-200k-covid-pdf.md",
+      "title": "#2_Quintara_Master SOW (QUINTARA C-2)_(Apr 2022)_6714_200k_COVID",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/COVID SOW/#2_Quintara_Master SOW (QUINTARA C-2)_(Apr 2022)_6714_200k_COVID.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-covid-sow-3-quintara-master-sow-quintara-c-3-jul-2022-7117-pdf",
+      "sha16": "55b2d29876261d5c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-covid-sow-3-quintara-master-sow-quintara-c-3-jul-2022-7117-pdf.md",
+      "title": "#3_Quintara_Master SOW (QUINTARA C-3)_(Jul 2022)_7117",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/COVID SOW/#3_Quintara_Master SOW (QUINTARA C-3)_(Jul 2022)_7117.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-1-quintara-master-sow-quintara-b-feb-2022-6449-gilead-pdf",
+      "sha16": "575e83f1e5be2f25",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-1-quintara-master-sow-quintara-b-feb-2022-6449-gilead-pdf.md",
+      "title": "#1_Quintara_Master SOW (QUINTARA-B)_(Feb 2022)_6449_Gilead",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/Gilead SOW/#1_Quintara_Master SOW (QUINTARA-B)_(Feb 2022)_6449_Gilead.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-2-quintara-master-sow-quintara-b-2-apr-2022-6715-250k-gilead-pdf",
+      "sha16": "76d91aab11b8f187",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-2-quintara-master-sow-quintara-b-2-apr-2022-6715-250k-gilead-pdf.md",
+      "title": "#2_Quintara_Master SOW (QUINTARA B-2)_(Apr 2022)_6715_250K_Gilead",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/Gilead SOW/#2_Quintara_Master SOW (QUINTARA B-2)_(Apr 2022)_6715_250K_Gilead.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-3-quintara-master-sow-qa-8320-june-2022-7021-250k-gilead-pdf",
+      "sha16": "7ba95cb20fa0c245",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-3-quintara-master-sow-qa-8320-june-2022-7021-250k-gilead-pdf.md",
+      "title": "#3_Quintara_Master SOW QA-8320_(June 2022)_7021_250K_Gilead",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/Gilead SOW/#3_Quintara_Master SOW QA-8320_(June 2022)_7021_250K_Gilead.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-4-quintara-master-sow-quintara-a-3-oct-2022-7459-250k-gilead-pdf",
+      "sha16": "193eaba35880061e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-4-quintara-master-sow-quintara-a-3-oct-2022-7459-250k-gilead-pdf.md",
+      "title": "#4_Quintara_Master SOW (QUINTARA A-3)_(Oct 2022)_7459_250k_Gilead",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/Gilead SOW/#4_Quintara_Master SOW (QUINTARA A-3)_(Oct 2022)_7459_250k_Gilead.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-5-quintara-master-sow-quintara-a-4-dec-2022-7726-70k-pdf",
+      "sha16": "ccdc222c3a0bf630",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-gilead-sow-5-quintara-master-sow-quintara-a-4-dec-2022-7726-70k-pdf.md",
+      "title": "#5_Quintara_Master SOW (QUINTARA A-4)_(Dec 2022)_7726_70k",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/Gilead SOW/#5_Quintara_Master SOW (QUINTARA A-4)_(Dec 2022)_7726_70k.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-r-d-sow-1-quintara-master-sow-quintara-e-feb-2022-6451-nonspecific-r-d-pdf",
+      "sha16": "bfe0ad9aaa900763",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-r-d-sow-1-quintara-master-sow-quintara-e-feb-2022-6451-nonspecific-r-d-pdf.md",
+      "title": "#1_Quintara_Master SOW (QUINTARA-E)_(Feb 2022)_6451_NonSpecific R&D",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/R&D SOW/#1_Quintara_Master SOW (QUINTARA-E)_(Feb 2022)_6451_NonSpecific R&D.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-r-d-sow-2-sow-quintara-d-2-aug-2022-7234-nonspecific-r-d-pdf",
+      "sha16": "b289eaa195aaf2d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-2022-blanket-po-sow-r-d-sow-2-sow-quintara-d-2-aug-2022-7234-nonspecific-r-d-pdf.md",
+      "title": "#2_SOW (QUINTARA-D-2)_(Aug 2022)_7234_NonSpecific R&D",
+      "source_id": "Analytical Chemistry/Quintara/2022/2022 Blanket PO_SOW/R&D SOW/#2_SOW (QUINTARA-D-2)_(Aug 2022)_7234_NonSpecific R&D.pdf",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "agent": "jose-gomez-extended-wave5",
+  "pages": [
+    "ask_jojo_wiki/references/lsd1-kdm1a-tumor-immunity-literature.md",
+    "ask_jojo_wiki/references/masked-cytokine-engineering-literature.md",
+    "ask_jojo_wiki/references/protab-antibody-receptor-degradation-literature.md",
+    "ask_jojo_wiki/references/bd-rhapsody-abseq-protocol-literature.md",
+    "ask_jojo_wiki/references/tlr9-agonist-pd-1-blockade-combination-literature.md",
+    "ask_jojo_wiki/references/t-cell-tolerance-anergy-foundations-literature.md"
+  ],
+  "n_covered": 27,
+  "n_reclassed": 13,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-cell-therapy-in-vivo-program-18oct21-pptx","bucket":"pptx_presentation"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-cblb-aacr-2021-v4-003-pptx","bucket":"pptx_presentation"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf","bucket":"internal_data"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-2023-nv713-pk-nx-1607-vs-nx-1607-tartrate-in-balbc-jackson-mice-docx","bucket":"internal_data"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-dc-cell-protocol-docx","bucket":"protocol_internal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-flt3-diff-dcs-protocol-docx","bucket":"protocol_internal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-h11-cell-culture-protocol-docx","bucket":"protocol_internal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-nurix-058-1-nurix-murigenics-058-efficacy-a20-nx-1607-3-10-15-30-60mpk-protocol-final-docx","bucket":"protocol_internal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-a-causal-mechanism-for-childhood-acute-lymphoblastic-leukaemia-pdf","bucket":"tangential_external"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-efficient-transplantation-via-antibody-based-clearance-pdf","bucket":"pending_future_absorption"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-cross-dressing-an-alternative-mechanism-for-antigen-presentation-pdf","bucket":"pending_future_absorption"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf","bucket":"pending_future_absorption"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-double-positive-cd4-cd8-tumor-t-cells-tumor-induced-double-positive-t-cells-display-pdf","bucket":"pending_future_absorption"}
+  ],
+  "rule_violation": "Hard Rule #1: agent used Write tool instead of bash heredoc for all 6 pages. Pages verified NUL+YAML clean.",
+  "notes": "6 new reference pages: LSD1/KDM1A tumor immunity, masked cytokine engineering, PROTAB, BD Rhapsody Abseq, TLR9+PD-1 combo, T-cell tolerance/anergy foundations."
+}

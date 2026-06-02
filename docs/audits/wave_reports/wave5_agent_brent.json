@@ -1,0 +1,169 @@
+{
+  "agent": "brent-wave5",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 40,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-0400792-nrx-0400792-id-acn-ipa-1-1-neat-isocratic-60-6mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-gradient-20-80-meoh-3mlmin-40oc-100bar-12min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-ih-isocratic-60-3mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401485-reports-nrx-0401485-whelk-o1-isocratic-60-3mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-nrx-0403532-0403531-overlay-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-nrx-0403532-0403531-stack-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2024-2024-chiral-analysis-files-nrx-0408509-od-ipa-60-acn-0-1-nh3oh-isocratic-80-6mlmi-6bd652459e",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-comparison-nrx-0522275-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-report-nrx-0522275-pk1-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522275-gld03-sfc-report-nrx-0522275-pk2-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-comparison-nrx-0522287-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-report-nrx-0522287-pk1-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-0522287-gld03-sfc-report-nrx-0522287-pk2-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-052347-001-gld06-sfc-report-nrx-0523479-001-all-peaks-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-nrx-052347-001-gld06-sfc-report-nrx-0523479-001-prd-peaks-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-nrx-0392938-ph7-4-5day-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-prep-sfc-methods-nrx-0387470-prep-sfc-docx",
+      "bucket": "pending-absorption-knowledge-bearing"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-2127-isolation-2127-peak-4-2127-imp-p4-t2-1-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-2127-isolation-2127-peak-4-2127-imp-p4-t2-75-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-2127-repure-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-0389493-0389498-1-ic-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-871-eln-13-1224-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-884-eln-10-884-2-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-eln-10-884-eln-10-884-as-ipa-60-acn-0-1-nh3oh-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-nrx-0401647a-5r-5s-1647-a5s-whek-o1-ipa-60-acn-0-1-nh3oh-isocratic-40-6mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-pharma-0401647b-13b-0403795-004-aa-ad-meoh-50acn-0-1-nh3oh-isocratic-50-6mlmin-40-b68b45fbbd",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2021-pharmaron-6830-check-0387597-6830-ad-meoh-50acn-0-1-nh3oh-isocratic-35-6mlmin-40o-e4bc7d07a7",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2022-nrx-0404408-0404408-2-ih-acn-ipa-1-1-neat-isocratic-50-6mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2023-4422-combined-4422-pk2-whelk-o1-ipa-60-acn-0-1-nh3oh-isocratic-60-6mlmin-40oc-100bar-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-stat6-chiral-analysis-3488-distomer-ad-ipa-10-acn-0-1-nh4oh-iso-40-6mlmin-40c-12min-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-2025-stat6-chiral-analysis-4807-4808-ad-h-iso-40-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-126-2386-sfc-report-eln-126-2386-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-207-1749-sfc-comparison-eln-207-1749-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-comparison-eln-261-3462-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-report-eln-261-3462-pk1-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3462-sfc-report-eln-261-3462-pk2-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-report-eln-261-3464-pk1-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-report-eln-261-3464-pk2-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-261-3464-sfc-summary-eln-261-3464-pdf",
+      "bucket": "mechanical-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2590-sfc-report-eln-400-2590-stg2-pdf",
+      "bucket": "mechanical-data"
+    }
+  ],
+  "notes": "39 SFC chromatograms reclassified as mechanical-data; 1 NRX-0387470 prep SFC method document (AD-H column, 35% MeOH) is knowledge-bearing but skipped this wave \u2014 flagged for absorption into chiral-sfc-purification.md in a future pass."
+}
