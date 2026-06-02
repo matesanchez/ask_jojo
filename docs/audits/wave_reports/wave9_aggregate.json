@@ -1,0 +1,195 @@
+{
+  "wave": "wave9",
+  "agents": [
+    {
+      "agent": "jon-k-extended-wave9",
+      "pages": [
+        "ask_jojo_wiki/methods/nurix-coa-cot-document-standard.md",
+        "ask_jojo_wiki/methods/robertson-microlit-external-analytical-services.md"
+      ],
+      "n_covered": 19,
+      "n_reclassed": 21,
+      "reclassified_out": [],
+      "notes": "2 aggregate-knowledge pages: Nurix CoA/CoT document standard, Robertson Microlit external analytical services. 21 entries reclassified as records."
+    },
+    {
+      "agent": "jose-gomez-wave9",
+      "pages": [
+        "ask_jojo_wiki/references/cross-dressing-antigen-presentation-literature.md",
+        "ask_jojo_wiki/references/hsc-niche-clearance-antibody-conditioning-literature.md"
+      ],
+      "n_covered": 34,
+      "n_reclassed": 4,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-2023-nv713-pk-nx-1607-vs-nx-1607-tartrate-in-balbc-jackson-mice-docx",
+          "bucket": "internal_protocol"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-nurix-058-1-nurix-murigenics-058-efficacy-a20-nx-1607-3-10-15-30-60mpk-protocol-final-docx",
+          "bucket": "internal_protocol"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+          "bucket": "internal_protocol"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-cell-therapy-in-vivo-program-18oct21-pptx",
+          "bucket": "internal_protocol"
+        }
+      ],
+      "notes": "2 new ref pages (cross-dressing antigen presentation, HSC niche clearance). 34 sha-dupes covered. 4 internal Nurix protocols reclassified."
+    },
+    {
+      "agent": "jose-l-bibliography-wave9",
+      "pages": [
+        "ask_jojo_wiki/references/nrx-0388766-aa-007-key-compound-characterization.md",
+        "ask_jojo_wiki/references/nrx-0388766-aa-008-key-compound-characterization.md",
+        "ask_jojo_wiki/references/nrx-0390255-009-aa-lot-characterization.md",
+        "ask_jojo_wiki/references/nrx-0390255-013-aa-key-compound-characterization.md",
+        "ask_jojo_wiki/references/nrx-0390255-014-aa-lot-characterization.md",
+        "ask_jojo_wiki/references/nrx-0391607-002-aa-lot-characterization.md",
+        "ask_jojo_wiki/references/nx-1607-003-aa-key-compound-characterization.md",
+        "ask_jojo_wiki/references/nrx-0392127-005-aa-lot-characterization.md"
+      ],
+      "n_covered": 37,
+      "n_reclassed": 3,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0390255-19-01307-2-nrx-0390255-1-ad-gradient-94986ed32a",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0390255-19-01307-2-nrx-0390255-2-ad-gradient-ae6d722092",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0391220-003-and-004-aa-nrx-0391220-pd-contle-a5e7fea8dc",
+          "bucket": "mechanical"
+        }
+      ],
+      "notes": "8 lot-characterization reference pages covering NRX-0388766 (2 lots), NRX-0390255 (3 lots), NX-1607 (2 lots), NRX-0392127 (1 lot). 3 chromatograms reclassified."
+    },
+    {
+      "agent": "low-conf-sample-wave9",
+      "pages": [
+        "ask_jojo_wiki/references/lit-survey-t-cell-subsets-tumor-immunity.md",
+        "ask_jojo_wiki/references/lit-survey-dendritic-cells-cancer-immunity.md",
+        "ask_jojo_wiki/references/lit-survey-tumor-microenvironment-external-factors.md"
+      ],
+      "n_covered": 13,
+      "n_reclassed": 27,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-05may22-1-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-05may22-2-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-11-90-22oct22-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-14-93-22oct22-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-16oct22-13-93-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-16oct22-13-98-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-20-99-24oct22-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-28oct-13-99-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-28oct-14-19-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-31oct-15-99-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-aug12-12-96-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-aug30-10-97-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-aug30-11-93-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-aug30-12-92-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-amazon-wellness-pdf",
+          "bucket": "receipt"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-beckman-coulter-cytobank-software-license-agr-221111-0011-1-pdf",
+          "bucket": "vendor_contract"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-44954-np-nurix-romo-multiome-101722-v4-pdf",
+          "bucket": "vendor_quote"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-active-motif-quote-price-pdf",
+          "bucket": "vendor_quote"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-active-motif-quote-18nov22-pdf",
+          "bucket": "vendor_quote"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-cytobank-quote-2022-pdf",
+          "bucket": "vendor_quote"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-cytobank-quote-pdf",
+          "bucket": "vendor_quote"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-grading-basis-collage-pdf",
+          "bucket": "personal_coursework"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-grading-basis-collage-5-pdf",
+          "bucket": "personal_coursework"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-grading-basis-principles-of-sustainability-pdf",
+          "bucket": "personal_coursework"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-grading-basis-drawing-fundamentals-pdf",
+          "bucket": "personal_coursework"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-principles-of-sustainability-pdf",
+          "bucket": "personal_coursework"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-collage-the-art-of-sustainability-pdf",
+          "bucket": "personal_coursework"
+        }
+      ],
+      "notes": "3 lit-survey pages. 15 receipts + 6 vendor quotes + 1 vendor contract + 5 personal coursework reclassified."
+    }
+  ]
+}

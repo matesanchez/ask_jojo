@@ -1,0 +1,11 @@
+{
+  "agent": "jon-k-extended-wave9",
+  "pages": [
+    "ask_jojo_wiki/methods/nurix-coa-cot-document-standard.md",
+    "ask_jojo_wiki/methods/robertson-microlit-external-analytical-services.md"
+  ],
+  "n_covered": 19,
+  "n_reclassed": 21,
+  "reclassified_out": [],
+  "notes": "2 aggregate-knowledge pages: Nurix CoA/CoT document standard, Robertson Microlit external analytical services. 21 entries reclassified as records."
+}

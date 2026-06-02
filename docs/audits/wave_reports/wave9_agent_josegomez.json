@@ -1,0 +1,16 @@
+{
+  "agent": "jose-gomez-wave9",
+  "pages": [
+    "ask_jojo_wiki/references/cross-dressing-antigen-presentation-literature.md",
+    "ask_jojo_wiki/references/hsc-niche-clearance-antibody-conditioning-literature.md"
+  ],
+  "n_covered": 34,
+  "n_reclassed": 4,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-2023-nv713-pk-nx-1607-vs-nx-1607-tartrate-in-balbc-jackson-mice-docx","bucket":"internal_protocol"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-nurix-058-1-nurix-murigenics-058-efficacy-a20-nx-1607-3-10-15-30-60mpk-protocol-final-docx","bucket":"internal_protocol"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx","bucket":"internal_protocol"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-cell-therapy-in-vivo-program-18oct21-pptx","bucket":"internal_protocol"}
+  ],
+  "notes": "2 new ref pages (cross-dressing antigen presentation, HSC niche clearance). 34 sha-dupes covered. 4 internal Nurix protocols reclassified."
+}

@@ -1,0 +1,121 @@
+{
+  "agent": "low-conf-sample-wave9",
+  "pages": [
+    "ask_jojo_wiki/references/lit-survey-t-cell-subsets-tumor-immunity.md",
+    "ask_jojo_wiki/references/lit-survey-dendritic-cells-cancer-immunity.md",
+    "ask_jojo_wiki/references/lit-survey-tumor-microenvironment-external-factors.md"
+  ],
+  "n_covered": 13,
+  "n_reclassed": 27,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-05may22-1-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-05may22-2-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-11-90-22oct22-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-14-93-22oct22-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-16oct22-13-93-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-16oct22-13-98-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-20-99-24oct22-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-28oct-13-99-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-28oct-14-19-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-31oct-15-99-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-aug12-12-96-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-aug30-10-97-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-aug30-11-93-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-aug30-12-92-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-amazon-wellness-pdf",
+      "bucket": "receipt"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-beckman-coulter-cytobank-software-license-agr-221111-0011-1-pdf",
+      "bucket": "vendor_contract"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-44954-np-nurix-romo-multiome-101722-v4-pdf",
+      "bucket": "vendor_quote"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-active-motif-quote-price-pdf",
+      "bucket": "vendor_quote"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-active-motif-quote-18nov22-pdf",
+      "bucket": "vendor_quote"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-cytobank-quote-2022-pdf",
+      "bucket": "vendor_quote"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-cytobank-quote-pdf",
+      "bucket": "vendor_quote"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-grading-basis-collage-pdf",
+      "bucket": "personal_coursework"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-grading-basis-collage-5-pdf",
+      "bucket": "personal_coursework"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-grading-basis-principles-of-sustainability-pdf",
+      "bucket": "personal_coursework"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-grading-basis-drawing-fundamentals-pdf",
+      "bucket": "personal_coursework"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-not-for-credit-principles-of-sustainability-pdf",
+      "bucket": "personal_coursework"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-collage-the-art-of-sustainability-pdf",
+      "bucket": "personal_coursework"
+    }
+  ],
+  "notes": "3 lit-survey pages. 15 receipts + 6 vendor quotes + 1 vendor contract + 5 personal coursework reclassified."
+}

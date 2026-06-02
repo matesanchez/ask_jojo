@@ -1,0 +1,21 @@
+{
+  "agent": "jose-l-bibliography-wave9",
+  "pages": [
+    "ask_jojo_wiki/references/nrx-0388766-aa-007-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nrx-0388766-aa-008-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nrx-0390255-009-aa-lot-characterization.md",
+    "ask_jojo_wiki/references/nrx-0390255-013-aa-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nrx-0390255-014-aa-lot-characterization.md",
+    "ask_jojo_wiki/references/nrx-0391607-002-aa-lot-characterization.md",
+    "ask_jojo_wiki/references/nx-1607-003-aa-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nrx-0392127-005-aa-lot-characterization.md"
+  ],
+  "n_covered": 37,
+  "n_reclassed": 3,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0390255-19-01307-2-nrx-0390255-1-ad-gradient-94986ed32a","bucket":"mechanical"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0390255-19-01307-2-nrx-0390255-2-ad-gradient-ae6d722092","bucket":"mechanical"},
+    {"entry_id":"publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0391220-003-and-004-aa-nrx-0391220-pd-contle-a5e7fea8dc","bucket":"mechanical"}
+  ],
+  "notes": "8 lot-characterization reference pages covering NRX-0388766 (2 lots), NRX-0390255 (3 lots), NX-1607 (2 lots), NRX-0392127 (1 lot). 3 chromatograms reclassified."
+}
