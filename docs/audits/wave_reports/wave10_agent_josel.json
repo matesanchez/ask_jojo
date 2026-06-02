@@ -1,0 +1,51 @@
+{
+  "agent": "jose-l-bibliography-wave10",
+  "pages": [
+    "ask_jojo_wiki/references/nx-2127-018-aa-certificate-of-testing.md",
+    "ask_jojo_wiki/references/nrx-0392936-007-aa-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nrx-0392936-008-aa-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nx-1607-006-aa-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nx-0255-013-aa-lot-characterization.md"
+  ],
+  "n_covered": 31,
+  "n_reclassed": 9,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-nrx-0390255-1-ad-gradient-94986ed32a",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-nrx-0390255-2-ad-gradient-ae6d722092",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-2127-enantiomers-nx-2127-pk1-nbs102566-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-2127-enantiomers-nx-2127-pk2-nbs102565-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391220-003-and-004-aa-nrx-0391220-pd-contle-a5e7fea8dc",
+      "bucket": "request_form"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-2019-nmr-shimming-procedure-docx",
+      "bucket": "off_topic"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-potencymr-external-webinar-slides-update-pdf",
+      "bucket": "off_topic"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-bbb-characteristics-of-compounds-that-cross-the-blood-brain-barrier-pdf",
+      "bucket": "off_topic"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-high-throughput-microplate-assay-for-the-determination-of-f9d81e7e21",
+      "bucket": "off_topic"
+    }
+  ],
+  "notes": "5 lot/key-compound characterization pages (NX-2127-018-AA, NRX-0392936-007-AA, NRX-0392936-008-AA, NX-1607-006-AA, NX-0255-013-AA). 4 mechanical chromatograms + 4 off-topic + 1 request form dropped. NX-1607 formula transcription typo flagged in page."
+}

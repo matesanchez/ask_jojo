@@ -1,0 +1,327 @@
+{
+  "assignment": "low-conf-sample-2-wave10",
+  "wiki_dir": "references",
+  "wave": "wave10",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-acs-jmedchem-7b00717-pdf",
+      "sha16": "a73a3ad594111fb9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-acs-jmedchem-7b00717-pdf.md",
+      "title": "acs.jmedchem.7b00717",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/acs.jmedchem.7b00717.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-acsmedchemlett-0c00556-pdf",
+      "sha16": "92cb4999af8e1ee3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-acsmedchemlett-0c00556-pdf.md",
+      "title": "acsmedchemlett.0c00556",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/acsmedchemlett.0c00556.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-art-3a10-1007-2fs10337-014-2695-8-pdf",
+      "sha16": "b9e7d93121ebd458",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-art-3a10-1007-2fs10337-014-2695-8-pdf.md",
+      "title": "art%3A10.1007%2Fs10337-014-2695-8",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/art%3A10.1007%2Fs10337-014-2695-8.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-bi400110b-pdf",
+      "sha16": "673505161c154491",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-bi400110b-pdf.md",
+      "title": "bi400110b",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/bi400110b.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-bio-2019-0032-pdf",
+      "sha16": "d79bf19db95984c4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-bio-2019-0032-pdf.md",
+      "title": "bio-2019-0032",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/bio-2019-0032.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-biotools-determiningabsoluteconfig-pdf",
+      "sha16": "0ef791583ca665d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-biotools-determiningabsoluteconfig-pdf.md",
+      "title": "BioTools_determiningAbsoluteConfig",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/BioTools_determiningAbsoluteConfig.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-bro5-oral-review-pdf",
+      "sha16": "ae464bc509bef370",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-bro5-oral-review-pdf.md",
+      "title": "bro5&oral_review",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/bro5&oral_review.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-chamberlain-2019-targetedproteindeg-pdf",
+      "sha16": "c7a7a38b5cb8247c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-chamberlain-2019-targetedproteindeg-pdf.md",
+      "title": "chamberlain_2019_targetedProteinDeg",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/chamberlain_2019_targetedProteinDeg.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-cromm-crews2018-pdf",
+      "sha16": "cbd9f02800a8c551",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-cromm-crews2018-pdf.md",
+      "title": "Cromm&Crews2018",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Cromm&Crews2018.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-dmpkoftpds-drugdiscovapril2020-pdf",
+      "sha16": "08e76c8aabb922b2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-dmpkoftpds-drugdiscovapril2020-pdf.md",
+      "title": "DMPKofTPDs_DrugDiscovApril2020",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/DMPKofTPDs_DrugDiscovApril2020.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-1999-obach-1350-9-pdf",
+      "sha16": "dbb874d7e554f95c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-1999-obach-1350-9-pdf.md",
+      "title": "Drug Metab Dispos-1999-Obach-1350-9",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Drug Metab Dispos-1999-Obach-1350-9.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-2003-mager-510-8-pdf",
+      "sha16": "3b03fc41f00acaab",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-2003-mager-510-8-pdf.md",
+      "title": "Drug Metab Dispos-2003-Mager-510-8",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Drug Metab Dispos-2003-Mager-510-8.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-2013-chan-dmd-113-053397-pdf",
+      "sha16": "b25121860a296811",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-2013-chan-dmd-113-053397-pdf.md",
+      "title": "Drug Metab Dispos-2013-Chan-dmd.113.053397",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Drug Metab Dispos-2013-Chan-dmd.113.053397.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-2013-karlsson-dmd-113-051664-pdf",
+      "sha16": "10fb96b5020f5035",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-2013-karlsson-dmd-113-051664-pdf.md",
+      "title": "Drug Metab Dispos-2013-Karlsson-dmd.113.051664",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Drug Metab Dispos-2013-Karlsson-dmd.113.051664.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-2013-pfeifer-dmd-113-052134-pdf",
+      "sha16": "ab87dc484145ca9d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-metab-dispos-2013-pfeifer-dmd-113-052134-pdf.md",
+      "title": "Drug Metab Dispos-2013-Pfeifer-dmd.113.052134",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Drug Metab Dispos-2013-Pfeifer-dmd.113.052134.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-solubilization-behavior-during-in-v-1-pdf",
+      "sha16": "957d9632a1f71a19",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drug-solubilization-behavior-during-in-v-1-pdf.md",
+      "title": "Drug_Solubilization_Behavior_During_in_V (1)",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Drug_Solubilization_Behavior_During_in_V (1).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drugdelivery-2019-pdf",
+      "sha16": "6b0f6f2724c582db",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-drugdelivery-2019-pdf.md",
+      "title": "DrugDelivery_2019",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/DrugDelivery_2019.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-dti-7-2013-027-pdf",
+      "sha16": "f59273b27f77862a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-dti-7-2013-027-pdf.md",
+      "title": "dti-7-2013-027",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/dti-7-2013-027.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance-docs-ddisnapshot-pdf",
+      "sha16": "b72f99f6851f3762",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance-docs-ddisnapshot-pdf.md",
+      "title": "DDIsnapshot",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/FDA Guidance docs/DDIsnapshot.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance-docs-download-pdf",
+      "sha16": "96960f789ae9656f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance-docs-download-pdf.md",
+      "title": "download",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/FDA Guidance docs/download.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance-docs-exposureresponserelationships-pdf",
+      "sha16": "c1ca64acd272185b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance-docs-exposureresponserelationships-pdf.md",
+      "title": "ExposureResponseRelationships",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/FDA Guidance docs/ExposureResponseRelationships.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance4industry-m3-pdf",
+      "sha16": "525ca7819bb8fb26",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-fda-guidance4industry-m3-pdf.md",
+      "title": "FDA_Guidance4Industry_M3",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/FDA_Guidance4Industry_M3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-formulation-form-strategies-pdf",
+      "sha16": "bfc0aa1073f14f71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-formulation-form-strategies-pdf.md",
+      "title": "form strategies",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/formulation/form strategies.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-from-sewer-to-saviour---targeting-the-ly-1-pdf",
+      "sha16": "0c4f44821c783e6a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-from-sewer-to-saviour---targeting-the-ly-1-pdf.md",
+      "title": "From_sewer_to_saviour_-_targeting_the_ly (1)",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/From_sewer_to_saviour_-_targeting_the_ly (1).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-gitbiotrans-2008-pdf",
+      "sha16": "71209e0951b700eb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-gitbiotrans-2008-pdf.md",
+      "title": "GITbiotrans_2008",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/GITbiotrans_2008.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-horak102-pdf",
+      "sha16": "80dcd8234d8b0eea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-horak102-pdf.md",
+      "title": "horak102",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/horak102.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-2016-cynoref-baselines-pdf",
+      "sha16": "f01d77aab7a80e2a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-2016-cynoref-baselines-pdf.md",
+      "title": "2016_cynoRef_baselines",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/In vivo/2016_cynoRef_baselines.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-bloodremoval-pdf",
+      "sha16": "097ec34c43d7569f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-bloodremoval-pdf.md",
+      "title": "BloodRemoval",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/In vivo/BloodRemoval.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-methods-for-drug-absorption-comp-1-pdf",
+      "sha16": "9d51fb6cef91f3d3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-methods-for-drug-absorption-comp-1-pdf.md",
+      "title": "In_vivo_methods_for_drug_absorption_Comp (1)",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/In_vivo_methods_for_drug_absorption_Comp (1).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-pysiologial-parameters-in-lab-animals-and-human-pdf",
+      "sha16": "5454b1412b8c81cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-pysiologial-parameters-in-lab-animals-and-human-pdf.md",
+      "title": "pysiologial parameters in lab animals and human",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/In vivo/pysiologial parameters in lab animals and human.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-solubilizing-excipients-in-oral-and-injectable-formulations-strickley-pdf",
+      "sha16": "e100841aca3bfa36",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-in-vivo-solubilizing-excipients-in-oral-and-injectable-formulations-strickley-pdf.md",
+      "title": "Solubilizing Excipients in Oral and Injectable Formulations Strickley",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/In vivo/Solubilizing Excipients in Oral and Injectable Formulations Strickley.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-indeliverytothecnsdhuriaetal2010-pdf",
+      "sha16": "a8e42025f4e83f86",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-indeliverytothecnsdhuriaetal2010-pdf.md",
+      "title": "INDeliverytotheCNSDhuriaetal2010",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/INDeliverytotheCNSDhuriaetal2010.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-jm300684u-pdf",
+      "sha16": "754a54df3169739a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-jm300684u-pdf.md",
+      "title": "jm300684u",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/jm300684u.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-kin-sol-2013-pdf",
+      "sha16": "b57e8255c583b189",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-kin-sol-2013-pdf.md",
+      "title": "Kin_Sol_2013",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/Kin_Sol_2013.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-l-bo-seltet-j-chem-inf-model-2019595-1826-1838-pdf",
+      "sha16": "2075a5dca4c53619",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-l-bo-seltet-j-chem-inf-model-2019595-1826-1838-pdf.md",
+      "title": "L. Bo\u0308seltet_J. Chem. Inf. Model. 2019595 1826-1838",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/L. Bo\u0308seltet_J. Chem. Inf. Model. 2019595 1826-1838.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-april2021-4-pdf",
+      "sha16": "2da5d3f452fc34eb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-april2021-4-pdf.md",
+      "title": "LCGC_NAmerica_April2021(4)",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/LCGC_NAmerica_April2021(4).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-august2021-pdf",
+      "sha16": "15aa586955543d08",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-august2021-pdf.md",
+      "title": "LCGC_NAmerica_August2021",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/LCGC_NAmerica_August2021.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-february2021-2-pdf",
+      "sha16": "630ef09610f8c051",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-february2021-2-pdf.md",
+      "title": "LCGC_NAmerica_February2021(2)",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/LCGC_NAmerica_February2021(2).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-january2021-pdf",
+      "sha16": "9d6349327a1ca9f4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-january2021-pdf.md",
+      "title": "LCGC_NAmerica_January2021",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/LCGC_NAmerica_January2021.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-july2021-pdf",
+      "sha16": "126361e7af3f3077",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-alexandra-t---public-bibliography-lcgc-namerica-july2021-pdf.md",
+      "title": "LCGC_NAmerica_July2021",
+      "source_id": "Analytical Chemistry/Alexandra T - Public/bibliography/LCGC_NAmerica_July2021.pdf",
+      "confidence": "low"
+    }
+  ]
+}

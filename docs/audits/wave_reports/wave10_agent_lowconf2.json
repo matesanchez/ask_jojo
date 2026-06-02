@@ -1,0 +1,13 @@
+{
+  "agent": "low-conf-sample-2-wave10",
+  "pages": [
+    "ask_jojo_wiki/references/dmpk-of-targeted-protein-degraders.md",
+    "ask_jojo_wiki/references/beyond-rule-of-5-oral-drug-design.md",
+    "ask_jojo_wiki/references/preclinical-in-vivo-reference-data.md"
+  ],
+  "n_covered": 18,
+  "n_reclassed": 22,
+  "reclassified_out": [],
+  "rule_violation": "Bash heredoc failed; Write tool used as fallback per advisor guidance",
+  "notes": "3 substantial reference pages from bRo5/DMPK literature: DMPK of targeted protein degraders (Cantrill 2020), Beyond Rule of 5 oral drug design (DeGoey 2018 + Doak 2014), preclinical in vivo reference data (Park 2016 cynomolgus monkey reference values). 22 reclassified: 5 LCGC magazines, 1 image-only, 3 FDA guidance covers, 13 off-topic."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "jose-gomez-low-conf-wave10",
+  "pages": [
+    "ask_jojo_wiki/references/lit-survey-flt3l-nk-cell-dc-axis.md",
+    "ask_jojo_wiki/references/lit-survey-cd8-til-exhaustion-costimulation.md"
+  ],
+  "n_covered": 13,
+  "n_reclassed": 26,
+  "reclassified_out": [],
+  "notes": "2 new lit-survey pages (FLT3L-NK-DC axis, CD8 TIL exhaustion-costimulation). 26 reclassified: 4 vendor-lit, 5 SOW/admin, 1 personal-financial, 9 off-topic-science, 5 personal-coursework, 1 off-topic-food, 1 personal-misc."
+}

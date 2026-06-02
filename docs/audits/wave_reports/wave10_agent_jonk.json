@@ -1,0 +1,169 @@
+{
+  "agent": "jon-k-extended-wave10",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 40,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-analysis-nrx-0468599-013-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-analysis-nrx-0468599-013-aa-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-analysis-nrx-0468599-020-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-testing-d3-5948-nrx-0412453-001-aa-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-testing-nrx-0400828-013-aq-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-testing-nrx-0472023-003-aa-updated-template-jk-8c57fb3d5f",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-testing-nrx-0472023-003-aa-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-nrx-0391607-010-aa-certificate-of-analysis-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-nrx-0473911-012-aa-uv-254nm-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-nrx-0473911-012-certificate-of-testing-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-nrx-2453-002-certificate-of-testing-v01-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-10-1603-3-uv-purity-and-tic-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241118-eln-771-el-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-60-1356-1000-g-ml-uv254nm-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-60-1360-1000-g-ml-uv254nm-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-60-1361-1000-g-ml-uv254nm-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-8599-025-uv-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-analysis-nrx-0464972-006-cn-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0464972-004-aq-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0464972-004-aq-uv-profile-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0464972-006-cn-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0468535-006-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0468599-002-aq-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0468599-002-aq-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0468599-004-aq-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0468599-004-aq-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0468599-009-aq-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0468599-012-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0470305-019-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0472023-004-aa-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0472603-003-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0472604-003-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0472606-002-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0472606-004-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-003-aa-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-003-aa-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-004-aa-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-1-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-coa-nx-5948-fumarate-lot-22-oc-fp-039-pdf",
+      "bucket": "image-only"
+    }
+  ],
+  "notes": "All 40 entries are CoA/CoT records using template covered by methods/nurix-coa-cot-document-standard.md. No narrative content."
+}
