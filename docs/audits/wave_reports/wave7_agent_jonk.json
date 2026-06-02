@@ -1,0 +1,12 @@
+{
+  "agent": "jon-k-extended-wave7",
+  "pages": [
+    "ask_jojo_wiki/methods/massfrontier-fish-fragment-ion-search.md",
+    "ask_jojo_wiki/methods/nx-1607-rat-pk-study-nrx187-mur-rpk.md",
+    "ask_jojo_wiki/methods/pierce-bca-protein-assay.md"
+  ],
+  "n_covered": 3,
+  "n_reclassed": 37,
+  "reclassified_out": [],
+  "notes": "3 pages from deferred wave-6 candidates. 37 mechanical CoT/CoA reclassified (per agent's commit message cb3ddea). Full reclassed list not returned — derive at checkpoint by union of (assignment entries minus page sources)."
+}

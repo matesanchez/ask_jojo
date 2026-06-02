@@ -1,0 +1,12 @@
+{
+  "agent": "lcms-checkpoint-cbl-mixed-wave7",
+  "pages": [
+    "ask_jojo_wiki/methods/forced-degradation-lcms-nrx-1251.md",
+    "ask_jojo_wiki/methods/lcms-openlynx-troubleshooting.md"
+  ],
+  "n_covered": 3,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "agent_hit_rate_limit": true,
+  "notes": "2 LCMS pages written before agent hit Anthropic session rate limit. Most checkpoint+CBL entries likely sha-dupes; not formally captured."
+}

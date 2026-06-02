@@ -1,0 +1,9 @@
+{
+  "agent": "car-t-treg-mixed-wave7",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "agent_hit_rate_limit": true,
+  "notes": "Agent hit rate limit before producing output. 37 entries remain unprocessed in wave7 assignment."
+}

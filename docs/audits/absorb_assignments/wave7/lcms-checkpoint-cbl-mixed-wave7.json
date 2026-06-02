@@ -1,0 +1,327 @@
+{
+  "assignment": "lcms-checkpoint-cbl-mixed-wave7",
+  "wiki_dir": "methods",
+  "wave": "wave7",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-lcms-guide---common-problems-pdf",
+      "sha16": "6621bc2592ec692a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-lcms-guide---common-problems-pdf.md",
+      "title": "LCMS guide - common problems",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/LCMS guide - common problems.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-prep-hplc-pdf",
+      "sha16": "0abd5e1b00b8a7df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-prep-hplc-pdf.md",
+      "title": "Waters_Prep_HPLC",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/Waters_Prep_HPLC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx-1251-100c-t0-lcms-pdf",
+      "sha16": "06cec5827d20426f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx-1251-100c-t0-lcms-pdf.md",
+      "title": "NRX-1251_100C_t0_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2019/190326_NRX0391251/NRX-1251_100C_t0_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx-1251-100c-t24-lcms-pdf",
+      "sha16": "79b9cbf7b8461801",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx-1251-100c-t24-lcms-pdf.md",
+      "title": "NRX-1251_100C_t24_LCMS",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2019/190326_NRX0391251/NRX-1251_100C_t24_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-other-uplc-long-method-conditions-pdf",
+      "sha16": "720a04a9d6c9a73e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-other-uplc-long-method-conditions-pdf.md",
+      "title": "UPLC_Long_Method_Conditions",
+      "source_id": "Analytical Chemistry/Jose L - public/Other/UPLC_Long_Method_Conditions.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-1-lcms-pdf",
+      "sha16": "baf7f74613271839",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-1-lcms-pdf.md",
+      "title": "JLB-207-404-1_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-1_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-10-lcms-pdf",
+      "sha16": "f5bdc3092d68cccf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-10-lcms-pdf.md",
+      "title": "JLB-207-404-10_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-10_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-11-lcms-pdf",
+      "sha16": "b6dd589bf5812d5a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-11-lcms-pdf.md",
+      "title": "JLB-207-404-11_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-11_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-12-lcms-pdf",
+      "sha16": "2b1ccb70cb2d80c6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-12-lcms-pdf.md",
+      "title": "JLB-207-404-12_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-12_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-13-lcms-pdf",
+      "sha16": "533d49befa86fbcd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-13-lcms-pdf.md",
+      "title": "JLB-207-404-13_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-13_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-14-lcms-pdf",
+      "sha16": "358f8bc2befd5af1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-14-lcms-pdf.md",
+      "title": "JLB-207-404-14_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-14_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-15-lcms-pdf",
+      "sha16": "4de72c7568d34982",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-15-lcms-pdf.md",
+      "title": "JLB-207-404-15_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-15_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-16-lcms-pdf",
+      "sha16": "905a38c8b9f99cec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-16-lcms-pdf.md",
+      "title": "JLB-207-404-16_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-16_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-17-lcms-pdf",
+      "sha16": "bd4b633ee0c03599",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-17-lcms-pdf.md",
+      "title": "JLB-207-404-17_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-17_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-18-lcms-pdf",
+      "sha16": "c71383e8826c074d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-18-lcms-pdf.md",
+      "title": "JLB-207-404-18_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-18_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf",
+      "sha16": "0b532a2af45183ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf.md",
+      "title": "Deletion of Cbl-b inhibits CD8+",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Deletion of Cbl-b inhibits CD8+.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-and-cbl-b-in-t-cell-pdf",
+      "sha16": "7bd578e5a0dd6703",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-and-cbl-b-in-t-cell-pdf.md",
+      "title": "Cbl and Cbl-b in T-cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Cbl and Cbl-b in T-cell.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-and-cbl-b-in-t-cell-regulation-pdf",
+      "sha16": "775a01839307a588",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-and-cbl-b-in-t-cell-regulation-pdf.md",
+      "title": "Cbl and Cbl-b in T-cell regulation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Cbl and Cbl-b in T-cell regulation.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-b-is-a-negative-pdf",
+      "sha16": "8c675172117c6f12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-cbl-b-is-a-negative-pdf.md",
+      "title": "Cbl-b is a negative",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Cbl-b is a negative.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-cbl-b-deficiency-prevents-functional-but-not-phenotypic-t-cell-anergy-pdf",
+      "sha16": "d102f23e965f304f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-cbl-b-deficiency-prevents-functional-but-not-phenotypic-t-cell-anergy-pdf.md",
+      "title": "Cbl-b deficiency prevents functional but not phenotypic T cell anergy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Cbl-b deficiency prevents functional but not phenotypic T cell anergy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf",
+      "sha16": "0b532a2af45183ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-deletion-of-cbl-b-inhibits-cd8-pdf.md",
+      "title": "Deletion of Cbl-b inhibits CD8+",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Deletion of Cbl-b inhibits CD8+.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-overproduction-of-ifng-by-cbl-bdeficient-cd8-t-cells-ohashi-2022-pdf",
+      "sha16": "4eb0e086151bbdfe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-overproduction-of-ifng-by-cbl-bdeficient-cd8-t-cells-ohashi-2022-pdf.md",
+      "title": "Overproduction of IFNg by Cbl-bDeficient CD8\u00fe T Cells.Ohashi.2022",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Overproduction of IFNg by Cbl-bDeficient CD8\u00fe T Cells.Ohashi.2022.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx",
+      "sha16": "f72604b29f8c7057",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx.md",
+      "title": "Slide for CBLB and cCBL DC-NK_crosstalkstory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/Slide for CBLB and cCBL DC-NK_crosstalkstory.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx",
+      "sha16": "371844ac71aa4f0c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-slide-for-cblb-and-ccbl-dc-nk-crosstalkstory-pptx.md",
+      "title": "Slide for CBLB and cCBL DC-NK_crosstalkstory",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Slide for CBLB and cCBL DC-NK_crosstalkstory.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf",
+      "sha16": "0148b12403956890",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf.md",
+      "title": "Abrogating Cbl-b in effector CD8",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Abrogating Cbl-b in effector CD8.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-pd-1-expression-by-tumor-associated-macrophages-inhibits-phagocytosis-and-tumor-immunity-pdf",
+      "sha16": "8125368813b9985d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-pd-1-expression-by-tumor-associated-macrophages-inhibits-phagocytosis-and-tumor-immunity-pdf.md",
+      "title": "PD-1 expression by tumor-associated macrophages inhibits phagocytosis and tumor immunity",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 23MAY23/Flow computer Desktop/PD-1 expression by tumor-associated macrophages inhibits phagocytosis and tumor immunity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-mechanistic-convergence-of-the-tigit-and-pd-1-pdf",
+      "sha16": "3952eba107130488",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-24aug22-mechanistic-convergence-of-the-tigit-and-pd-1-pdf.md",
+      "title": "Mechanistic convergence of the TIGIT and PD-1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/24AUG22/Mechanistic convergence of the TIGIT and PD-1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-pd-1-expression-by-tumour-associated-macrophages-pdf",
+      "sha16": "1b8bebf90f166b35",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-anti-cd47-pd-1-expression-by-tumour-associated-macrophages-pdf.md",
+      "title": "PD-1 expression by tumour-associated macrophages",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/ANTI-CD47/PD-1 expression by tumour-associated macrophages.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-dual-blockage-of-both-pd-l1-and-cd47-pdf",
+      "sha16": "0aa0181ab8e96893",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-dual-blockage-of-both-pd-l1-and-cd47-pdf.md",
+      "title": "Dual blockage of both PD-L1 and CD47",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/24JAN21/Dual blockage of both PD-L1 and CD47.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-the-pd-1-pd-l1-checkpoint-restrains-t-cell-pdf",
+      "sha16": "8c9b1ff60b2353d6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-the-pd-1-pd-l1-checkpoint-restrains-t-cell-pdf.md",
+      "title": "The PD-1_PD-L1-Checkpoint Restrains T cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/The PD-1_PD-L1-Checkpoint Restrains T cell.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-intralesional-sd-101-in-combinationwithpembrolizumab-in-anti-pd-1-treatment-pdf",
+      "sha16": "d8f695445c719452",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-intralesional-sd-101-in-combinationwithpembrolizumab-in-anti-pd-1-treatment-pdf.md",
+      "title": "Intralesional SD-101 in CombinationwithPembrolizumab in Anti-PD-1 Treatment",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Intralesional SD-101 in CombinationwithPembrolizumab in Anti-PD-1 Treatment.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-pptx",
+      "sha16": "9949084b8ec9a2a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-v2-pptx",
+      "sha16": "f2b4985bf81a5aea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-final-v2-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final V2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program_Final V2.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-pptx",
+      "sha16": "4645d112c9817103",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-cd8-t-cell-exhaustion-program-pptx.md",
+      "title": "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-pdf",
+      "sha16": "e36aa166738c8524",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-therapy-with-il-2-modifies-pdf.md",
+      "title": "PD-1 combination therapy with IL-2 modifies",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination therapy with IL-2 modifies.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-with-il-2-pdf",
+      "sha16": "f383e071d383624b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-combination-with-il-2-pdf.md",
+      "title": "PD-1 combination with IL-2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1 combination with IL-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-stemlike-cd8-t-cells-are-resident-in-lymphoid-tissues-during-persistent-lcmv-infection-pdf",
+      "sha16": "0eaf44a393105825",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-pd-1-stemlike-cd8-t-cells-are-resident-in-lymphoid-tissues-during-persistent-lcmv-infection-pdf.md",
+      "title": "PD-1+ stemlike CD8 T cells are resident in lymphoid tissues during persistent LCMV infection",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/PD-1+ stemlike CD8 T cells are resident in lymphoid tissues during persistent LCMV infection.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-arid1a-mutation-plus-cxcl13-expression-act-as-combinatorial-biomarkers-to-predict-responses-to-immune-checkpoint-therapy-in-mucc-pdf",
+      "sha16": "57fe4248a2cd31be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-arid1a-mutation-plus-cxcl13-expression-act-as-combinatorial-biomarkers-to-predict-responses-to-immune-checkpoint-therapy-in-mucc-pdf.md",
+      "title": "ARID1A mutation plus CXCL13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mUCC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/ARID1A mutation plus CXCL13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mUCC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf",
+      "sha16": "166f9272ca1a1e17",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf.md",
+      "title": "IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-intratumoral-injection-of-a-cpg-oligonucleotidereverts-resistance-to-pd-1-blockade-by-expandingmultifunctional-cd8-t-cells-pdf",
+      "sha16": "e7b02669ad6313c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-intratumoral-injection-of-a-cpg-oligonucleotidereverts-resistance-to-pd-1-blockade-by-expandingmultifunctional-cd8-t-cells-pdf.md",
+      "title": "Intratumoral injection of a CpG oligonucleotidereverts resistance to PD-1 blockade by expandingmultifunctional CD8+T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Intratumoral injection of a CpG oligonucleotidereverts resistance to PD-1 blockade by expandingmultifunctional CD8+T cells.pdf",
+      "confidence": "high"
+    }
+  ]
+}
