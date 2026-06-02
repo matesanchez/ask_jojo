@@ -1,0 +1,12 @@
+{
+  "agent": "jose-gomez-low-conf-wave11",
+  "pages": [
+    "ask_jojo_wiki/references/nx-1607-murigenics-in-vivo-sow-template.md",
+    "ask_jojo_wiki/references/seqmatic-ngs-vendor-sows.md",
+    "ask_jojo_wiki/references/active-motif-single-cell-multiome-quote.md"
+  ],
+  "n_covered": 3,
+  "n_reclassed": 37,
+  "reclassified_out": [],
+  "notes": "3 reference pages from vendor SOWs/quotes. 37 reclassified: 32 external papers with no Nurix tie, 3 vendor terms, 1 receipt, 1 blank-admin-template."
+}

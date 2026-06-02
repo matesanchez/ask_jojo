@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-wave11",
+  "wiki_dir": "references",
+  "wave": "wave11",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-key-36d98cbb44",
+      "sha16": "67a7de048c92ede8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-key-36d98cbb44.md",
+      "title": "NRX-0392127-008-AA_Key_Compd_Characterization_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Nurix/NRX-0392127-008-AA_Key_Compd_Characterization_v01.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-key-51712fe7ae",
+      "sha16": "e921528f435af25a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-008-aa-key-51712fe7ae.md",
+      "title": "NRX-0392127-008-AA_Key_Compd_Characterization_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Nurix/NRX-0392127-008-AA_Key_Compd_Characterization_v01.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-018-aa-key-a2c5b3c2fb",
+      "sha16": "46850ee8def4da89",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-018-aa-key-a2c5b3c2fb.md",
+      "title": "NRX-0392127-018-AA_Key_Compd_Characterization_v02",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Nurix/NRX-0392127-018-AA_Key_Compd_Characterization_v02.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-018-aa-key-d2c1481c10",
+      "sha16": "cac9867bbf242931",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-nrx-0392127-018-aa-key-d2c1481c10.md",
+      "title": "NRX-0392127-018-AA_Key_Compd_Characterization_v02",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Nurix/NRX-0392127-018-AA_Key_Compd_Characterization_v02.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-forms-rml-3cb596a47d",
+      "sha16": "5b6c2a55639575f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-forms-rml-3cb596a47d.md",
+      "title": "RML GC Form 2017_NRX-0392127-018-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Robertson Microlit/Forms/RML GC Form 2017_NRX-0392127-018-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-forms-rml-c3901b8153",
+      "sha16": "ed1a2da65c929b5a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-forms-rml-c3901b8153.md",
+      "title": "RML Thermal Form 2017_NRX-03921278-018-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Robertson Microlit/Forms/RML Thermal Form 2017_NRX-03921278-018-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-forms-rml-cfdd29df80",
+      "sha16": "ae10e8b5176e469f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-forms-rml-cfdd29df80.md",
+      "title": "RML General Analysis Request Form 2017_NRX-0392127-018-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Robertson Microlit/Forms/RML General Analysis Request Form 2017_NRX-0392127-018-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-nrx-0392936-007-aa-cshc18-purity-ms-pdf",
+      "sha16": "14c275babbda5bdf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-nrx-0392936-007-aa-cshc18-purity-ms-pdf.md",
+      "title": "NRX-0392936-007-AA_CSHC18_Purity_MS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/NRX-0392936-007-AA_CSHC18_Purity_MS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-nrx-0392936-007-aa-nmr-pdf",
+      "sha16": "82fcb6604350c911",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-nrx-0392936-007-aa-nmr-pdf.md",
+      "title": "NRX-0392936-007-AA_NMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/NRX-0392936-007-AA_NMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-nrx-0392936-007-aa-phenyl-purity-ms-pdf",
+      "sha16": "75a845bffb506031",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-nrx-0392936-007-aa-phenyl-purity-ms-pdf.md",
+      "title": "NRX-0392936-007-AA_Phenyl_Purity_MS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/NRX-0392936-007-AA_Phenyl_Purity_MS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-rml-request-forms-rml-gc-form-4e8f1f15b9",
+      "sha16": "45c46eba158d82a1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-rml-request-forms-rml-gc-form-4e8f1f15b9.md",
+      "title": "RML GC Form 2017_NRX-0392936-007-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/RML Request Forms/RML GC Form 2017_NRX-0392936-007-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-rml-request-forms-rml-general-ddc8715de4",
+      "sha16": "656eed675d4e778e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-rml-request-forms-rml-general-ddc8715de4.md",
+      "title": "RML General Analysis Request Form 2017_NRX-0392936-007-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/RML Request Forms/RML General Analysis Request Form 2017_NRX-0392936-007-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-rml-request-forms-rml-thermal-0ce82c1754",
+      "sha16": "b36863987c63b6cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-rml-request-forms-rml-thermal-0ce82c1754.md",
+      "title": "RML Thermal Form 2017_NRX-0392936-007-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/RML Request Forms/RML Thermal Form 2017_NRX-0392936-007-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-nrx-0392936-008-aa-key-compd-d3fd3f849d",
+      "sha16": "5d3bc81cfa003316",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-nrx-0392936-008-aa-key-compd-d3fd3f849d.md",
+      "title": "NRX-0392936-008-AA_Key_Compd_Characterization_v01",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-008-AA/NRX-0392936-008-AA_Key_Compd_Characterization_v01.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-forms-rml-gc-form-2017-nr-db0abad40f",
+      "sha16": "5bddfdf27ad9f139",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-forms-rml-gc-form-2017-nr-db0abad40f.md",
+      "title": "RML GC Form 2017_NRX-0392936-008-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-008-AA/RML Forms/RML GC Form 2017_NRX-0392936-008-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-forms-rml-general-analysi-091c97b5b5",
+      "sha16": "d1e134807e813ca6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-forms-rml-general-analysi-091c97b5b5.md",
+      "title": "RML General Analysis Request Form 2017_NRX-0392936-008-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-008-AA/RML Forms/RML General Analysis Request Form 2017_NRX-0392936-008-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-forms-rml-thermal-form-20-503d8c5152",
+      "sha16": "a29dcf38d21e8e20",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-forms-rml-thermal-form-20-503d8c5152.md",
+      "title": "RML Thermal Form 2017_NRX-0392936-008-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-008-AA/RML Forms/RML Thermal Form 2017_NRX-0392936-008-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-nx-0255-013-aa-1hnmr-pdf",
+      "sha16": "c36084d88c3c8b10",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-nx-0255-013-aa-1hnmr-pdf.md",
+      "title": "NX-0255-013-AA_1HNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-0255-AA-013/NX-0255-013-AA_1HNMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-nx-0255-013-aa-rml-general-analys-c4fa97c96f",
+      "sha16": "2f7bc2c791aa6aad",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-nx-0255-013-aa-rml-general-analys-c4fa97c96f.md",
+      "title": "NX-0255-013-AA_RML General Analysis Request Form",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-0255-AA-013/NX-0255-013-AA_RML General Analysis Request Form.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-1hnmr-nurix-nx-1607-006-aa-1hnmr-pdf",
+      "sha16": "cb68dafd6e2ad04b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-1hnmr-nurix-nx-1607-006-aa-1hnmr-pdf.md",
+      "title": "NX-1607-006-AA_1HNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/1HNMR_Nurix/NX-1607-006-AA_1HNMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-nurix-data-nx-1607-006-aa-behc18-pdf",
+      "sha16": "e3d759bd772b0d87",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-nurix-data-nx-1607-006-aa-behc18-pdf.md",
+      "title": "NX-1607-006-AA_BEHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/Nurix Data/NX-1607-006-AA_BEHC18.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-nurix-data-nx-1607-006-aa-comp1-docx",
+      "sha16": "d4713b6699bfe3ba",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-nurix-data-nx-1607-006-aa-comp1-docx.md",
+      "title": "NX-1607-006-AA_Comp1",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/Nurix Data/NX-1607-006-AA_Comp1.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-nurix-data-nx-1607-006-aa-cshc18-pdf",
+      "sha16": "f1b50df601c8b1a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-nurix-data-nx-1607-006-aa-cshc18-pdf.md",
+      "title": "NX-1607-006-AA_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/Nurix Data/NX-1607-006-AA_CSHC18.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-data-rml-nur00-nx-1607-006-aa-pdf",
+      "sha16": "b73f5c8ae0c3750e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-data-rml-nur00-nx-1607-006-aa-pdf.md",
+      "title": "RML-NUR00-NX-1607-006-AA",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/RML Data/RML-NUR00-NX-1607-006-AA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-forms-nx-1607-006-aa-rml-ther-0639e75092",
+      "sha16": "a8b08bec7d6f1b71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-forms-nx-1607-006-aa-rml-ther-0639e75092.md",
+      "title": "NX-1607-006-AA_RML_Thermal form",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/RML Forms/NX-1607-006-AA_RML_Thermal form.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-forms-nx-1607-006-aa-rmlgenanalysis-pdf",
+      "sha16": "05c259390f5d76a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-forms-nx-1607-006-aa-rmlgenanalysis-pdf.md",
+      "title": "NX-1607-006-AA_RMLGenAnalysis",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/RML Forms/NX-1607-006-AA_RMLGenAnalysis.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-organic-anion-transporting-polypeptide-transporter-expres-cf9aa6f452",
+      "sha16": "a5824d5d3620928e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-organic-anion-transporting-polypeptide-transporter-expres-cf9aa6f452.md",
+      "title": "Organic anion transporting polypeptide transporter expression localization and function in the human intestine",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Organic anion transporting polypeptide transporter expression localization and function in the human intestine.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-mass-spectrometry-def-springer-pdf",
+      "sha16": "25b847e00342fd7e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-mass-spectrometry-def-springer-pdf.md",
+      "title": "Mass_spectrometry_Def_Springer",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Mass_spectrometry_Def_Springer.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-sqd2-calibration-intellistart-pdf",
+      "sha16": "b411c7d03a8001ba",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-sqd2-calibration-intellistart-pdf.md",
+      "title": "SQD2 Calibration IntelliStart",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/SQD2 Calibration IntelliStart.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-nrx-0390492-multiple-batches-impurity-analysis-pdf",
+      "sha16": "c0effa1e78acbc79",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-nrx-0390492-multiple-batches-impurity-analysis-pdf.md",
+      "title": "NRX-0390492_Multiple Batches_Impurity Analysis",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/NRX-0390492_Multiple Batches_Impurity Analysis.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-nx-2127-013-aq-behc18-pdf",
+      "sha16": "beaa527c23bdf259",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-nx-2127-013-aq-behc18-pdf.md",
+      "title": "NX-2127-013-AQ_BEHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/NX-2127-013-AQ_BEHC18.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx-1251-100c-t24hr-ms-pdf",
+      "sha16": "8a53921995ff961e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx-1251-100c-t24hr-ms-pdf.md",
+      "title": "NRX-1251_100C_t24hr_MS",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2019/190326_NRX0391251/NRX-1251_100C_t24hr_MS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx1251-100c-incubations-dry-meohrecon-pdf",
+      "sha16": "618a3fdf72ee97e7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx1251-100c-incubations-dry-meohrecon-pdf.md",
+      "title": "NRX1251_100C_Incubations_Dry_MeOHRecon",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2019/190326_NRX0391251/NRX1251_100C_Incubations_Dry_MeOHRecon.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx1251-100c-incubations-pdf",
+      "sha16": "516defbfb3726b62",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx1251-100c-incubations-pdf.md",
+      "title": "NRX1251_100C_Incubations",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2019/190326_NRX0391251/NRX1251_100C_Incubations.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx1251-37c-incubations-pdf",
+      "sha16": "b11d90feb1fcda22",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx1251-37c-incubations-pdf.md",
+      "title": "NRX1251_37C_Incubations",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2019/190326_NRX0391251/NRX1251_37C_Incubations.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx1251-80c-incubations-pdf",
+      "sha16": "5ac7b29030171138",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2019-190326-nrx0391251-nrx1251-80c-incubations-pdf.md",
+      "title": "NRX1251_80C_Incubations",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2019/190326_NRX0391251/NRX1251_80C_Incubations.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-nmr-pdfs-nrx-0390091-patheon-lot18-11798-hnmr-pdf",
+      "sha16": "1e5daec8041b485f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-nmr-pdfs-nrx-0390091-patheon-lot18-11798-hnmr-pdf.md",
+      "title": "NRX-0390091-Patheon_Lot18-11798_HNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_NMR/PDFs/NRX-0390091-Patheon_Lot18-11798_HNMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-nmr-pdfs-nrx-0390255-008-aa-nmr-pdf",
+      "sha16": "32db10ca7ee1167a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-nmr-pdfs-nrx-0390255-008-aa-nmr-pdf.md",
+      "title": "NRX-0390255-008-AA_NMR",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_NMR/PDFs/NRX-0390255-008-AA_NMR.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-nmr-pdfs-nrx-0390255-crop-1-isolated-solid-pdf",
+      "sha16": "0a09ed54a0027937",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-nmr-pdfs-nrx-0390255-crop-1-isolated-solid-pdf.md",
+      "title": "NRX-0390255_Crop 1_Isolated_Solid",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_NMR/PDFs/NRX-0390255_Crop 1_Isolated_Solid.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-nmr-pdfs-nrx-0392127-008-aa-hnmr-pdf",
+      "sha16": "e37d716e900dd38c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-nmr-pdfs-nrx-0392127-008-aa-hnmr-pdf.md",
+      "title": "NRX-0392127-008-AA HNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_NMR/PDFs/NRX-0392127-008-AA HNMR.pdf",
+      "confidence": "high"
+    }
+  ]
+}

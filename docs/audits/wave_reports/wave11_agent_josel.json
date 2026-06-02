@@ -1,0 +1,17 @@
+{
+  "agent": "jose-l-wave11",
+  "pages": [
+    "ask_jojo_wiki/references/nrx-0392127-018-aa-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nrx-0390492-multiple-batches-impurity-analysis.md",
+    "ask_jojo_wiki/equipment/waters-sqd2-single-quadrupole-detector.md",
+    "ask_jojo_wiki/references/medchem-nmr-archive-standalone-spectra.md",
+    "ask_jojo_wiki/references/oatp-intestinal-transporter-review-oswald-2018.md",
+    "ask_jojo_wiki/references/mass-spectrometry-def-springer-geoscience.md",
+    "ask_jojo_wiki/methods/forced-degradation-lcms-nrx-1251.md",
+    "ask_jojo_wiki/references/nx-2127-019-aq-certificate-of-testing.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "6 new pages + 2 updated. NRX-0392127-018-AA KCC, NRX-0390492 multi-batch impurity, Waters SQD2 equipment, MedChem NMR archive, OATP review (Oswald 2018), geoscience MS def stub. All 40 absorbed."
+}

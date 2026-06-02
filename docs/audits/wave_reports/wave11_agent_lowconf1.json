@@ -1,0 +1,13 @@
+{
+  "agent": "low-conf-mixed-1-wave11",
+  "pages": [
+    "ask_jojo_wiki/references/protac-adme-permeability.md",
+    "ask_jojo_wiki/references/targeted-protein-degradation-mechanisms.md",
+    "ask_jojo_wiki/references/dmpk-preclinical-assays-bibliography.md",
+    "ask_jojo_wiki/references/lipid-based-oral-delivery-bibliography.md"
+  ],
+  "n_covered": 18,
+  "n_reclassed": 22,
+  "reclassified_out": [],
+  "notes": "4 reference pages: PROTAC ADME permeability, TPD mechanisms, DMPK preclinical assays bibliography, lipid-based oral delivery bibliography. 22 reclassified mechanical."
+}

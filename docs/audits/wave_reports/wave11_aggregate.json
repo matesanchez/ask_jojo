@@ -1,0 +1,216 @@
+{
+  "wave": "wave11",
+  "agents": [
+    {
+      "agent": "jose-gomez-low-conf-wave11",
+      "pages": [
+        "ask_jojo_wiki/references/nx-1607-murigenics-in-vivo-sow-template.md",
+        "ask_jojo_wiki/references/seqmatic-ngs-vendor-sows.md",
+        "ask_jojo_wiki/references/active-motif-single-cell-multiome-quote.md"
+      ],
+      "n_covered": 3,
+      "n_reclassed": 37,
+      "reclassified_out": [],
+      "notes": "3 reference pages from vendor SOWs/quotes. 37 reclassified: 32 external papers with no Nurix tie, 3 vendor terms, 1 receipt, 1 blank-admin-template."
+    },
+    {
+      "agent": "jose-l-wave11",
+      "pages": [
+        "ask_jojo_wiki/references/nrx-0392127-018-aa-key-compound-characterization.md",
+        "ask_jojo_wiki/references/nrx-0390492-multiple-batches-impurity-analysis.md",
+        "ask_jojo_wiki/equipment/waters-sqd2-single-quadrupole-detector.md",
+        "ask_jojo_wiki/references/medchem-nmr-archive-standalone-spectra.md",
+        "ask_jojo_wiki/references/oatp-intestinal-transporter-review-oswald-2018.md",
+        "ask_jojo_wiki/references/mass-spectrometry-def-springer-geoscience.md",
+        "ask_jojo_wiki/methods/forced-degradation-lcms-nrx-1251.md",
+        "ask_jojo_wiki/references/nx-2127-019-aq-certificate-of-testing.md"
+      ],
+      "n_covered": 40,
+      "n_reclassed": 0,
+      "reclassified_out": [],
+      "notes": "6 new pages + 2 updated. NRX-0392127-018-AA KCC, NRX-0390492 multi-batch impurity, Waters SQD2 equipment, MedChem NMR archive, OATP review (Oswald 2018), geoscience MS def stub. All 40 absorbed."
+    },
+    {
+      "agent": "low-conf-mixed-1-wave11",
+      "pages": [
+        "ask_jojo_wiki/references/protac-adme-permeability.md",
+        "ask_jojo_wiki/references/targeted-protein-degradation-mechanisms.md",
+        "ask_jojo_wiki/references/dmpk-preclinical-assays-bibliography.md",
+        "ask_jojo_wiki/references/lipid-based-oral-delivery-bibliography.md"
+      ],
+      "n_covered": 18,
+      "n_reclassed": 22,
+      "reclassified_out": [],
+      "notes": "4 reference pages: PROTAC ADME permeability, TPD mechanisms, DMPK preclinical assays bibliography, lipid-based oral delivery bibliography. 22 reclassified mechanical."
+    },
+    {
+      "agent": "low-conf-mixed-2-wave11",
+      "pages": [],
+      "n_covered": 0,
+      "n_reclassed": 40,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20220808-jb-quant-behc18-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20230407-0433896-dfa-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-1200-infinity-series-universal-interface-box-pdf-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-1290-infinity-ii-lc-system-manual-and-quick-reference-pdf-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-20240824dhelia-enantiomer-1-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-20240824dhelia-enantiomer-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-20250119-eric-incorrect-mass-chromatograms-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-20250129-rm-probe-ms-peak-tic-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-20250627-vl-2-sample-quant-qc-a1-b1-2025-06-27-17-15-52-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-20250915-gld02-hpk1-8399-014-cot-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-20250916-gld02-hpk1-8399-015-cot-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-240255594-2-redacted-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-240255594-3-redacted-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-240255594-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-50093493fnl-m10-bioanalytical-method-validation-and-study-sample-analysi-34e940d6d9",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-720008229-fr-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-781801-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-bbt-dental-high-plan-with-ortho-1-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-bbt-dental-high-plan-with-ortho-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-bc-premier-ppo-ded-250-ov-10-10--rx-10-25-40-20-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-billing-summary-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-christopher-chhin-cv-2-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-christopher-chhin-cv-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-closing-letter-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-confirmation-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-cover-letter-1-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-cover-letter-2-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-cover-letter-3-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-cover-letter-4-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-cover-letter-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-declarations-page-1-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-declarations-page-2-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-declarations-page-3-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-declarations-page-4-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-declarations-page-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-determination-of-solute-lipophilicity-bibutyl-column-as-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-doc01005520240508104623-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-drive-download-20240528t195053z-001-2024-toyota-tacoma-sr5-double-cab-5-78ee9402c4",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-drive-download-20240528t195053z-001-smartpath-toyota-higher-lease-payment-pdf",
+          "bucket": "personal-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-ebill-5-18-2024-fzixyd-pdf",
+          "bucket": "personal-or-mechanical"
+        }
+      ],
+      "notes": "All 40 entries reclassified. Jon K PC backup Downloads folder is a personal-documents dump: cover letters, dental/medical/car insurance, utility bills, Toyota listings, vendor manuals, FDA cover pages, Chromeleon chromatograms. Zero Nurix-relevant knowledge."
+    }
+  ]
+}
