@@ -1,0 +1,82 @@
+{
+  "agent": "extended-adme-wave3",
+  "pages": [
+    "ask_jojo_wiki/methods/quintara-frontage-adme-vendor-history.md",
+    "ask_jojo_wiki/methods/supersaturation-turbidity-supernatant-microplate-assay.md",
+    "ask_jojo_wiki/methods/kinetic-solubility-early-protocols-uplc-cad.md",
+    "ask_jojo_wiki/methods/adme-plasma-stability-data-processing-automation.md",
+    "ask_jojo_wiki/methods/plasma-stability-assay.md"
+  ],
+  "n_covered": 24,
+  "n_reclassed": 16,
+  "stub_pages_for_review": [
+    "plasma-stability-assay.md - low confidence stub for wikilink target"
+  ],
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-pdf-drug-like-properties-concepts-structure-design-and-methods-from-adme-to-toxicity-optimization-pdf",
+      "bucket": "textbook-cover-image-only"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-adme-automation-proposal-pptx",
+      "bucket": "blank-presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-cad-quantitation-of-6-aurora-compounds-20220613-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0401352-008-solubility-report-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0401352-009-solubility-report-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0404048-002-cn-solubility-report-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410339-001-cn-solubility-report-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410360-001-cn-solubility-report-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410400-001cn-solubility-report-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410447-001-cf-solubility-report-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410857-001-cf-solubility-report-pdf",
+      "bucket": "raw-compound-data"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-absorption-and-drug-development---solubility-permeability-and-ch-6e807a9ad8",
+      "bucket": "textbook-cover-image-only"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-kinetic-solubility-assay-protocol-pdf",
+      "bucket": "image-only"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-thermodynamic-solubility-assay-protocol-pdf",
+      "bucket": "image-only"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-11june2021-stab-7178-pis-pdf",
+      "bucket": "image-only"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-11june2021-stab-7178-t0-pdf",
+      "bucket": "image-only"
+    }
+  ],
+  "notes": "5 new methods pages including a low-confidence plasma-stability-assay stub. 16 raw/image-only entries dropped."
+}

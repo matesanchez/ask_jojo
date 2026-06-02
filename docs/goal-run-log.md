@@ -386,3 +386,4 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - The Edit/Write file tools intermittently corrupted files with NUL bytes on the Windows mount; affected files (`registry.py`, `coverage_check.py`) were rewritten via shell and verified (0 NULs, parse + tests green).
 - 2026-06-01 wave1: +145 absorbed, +43 reclassified; 27 new pages
 - 2026-06-01 wave2: +146 absorbed, +62 reclassified; 19 pages
+- 2026-06-01 wave3: +49 absorbed, +87 reclassified; 20 pages

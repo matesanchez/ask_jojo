@@ -1,0 +1,368 @@
+{
+  "assignment": "immuno-oncology-concepts-wave3",
+  "wiki_dir": "concepts",
+  "wave": "wave3",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/concepts/. Do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-masking-the-immunotoxicity-of-interleukin-12-pdf",
+      "sha16": "d2e19b4ce1a7c2cf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-masking-the-immunotoxicity-of-interleukin-12-pdf.md",
+      "title": "Masking the immunotoxicity of interleukin-12",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Masking the immunotoxicity of interleukin-12.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-masking-the-immunotoxicity-of-interleukin-12-pdf",
+      "sha16": "d2e19b4ce1a7c2cf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-masking-the-immunotoxicity-of-interleukin-12-pdf.md",
+      "title": "Masking the immunotoxicity of interleukin-12",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Masking the immunotoxicity of interleukin-12.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interferon--and-cancer-mechanisms-of-action-and-new-perspectives-of-clinical-use-pdf",
+      "sha16": "427038591c610e1b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interferon--and-cancer-mechanisms-of-action-and-new-perspectives-of-clinical-use-pdf.md",
+      "title": "Interferon-\u03b1 and cancer Mechanisms of action and new perspectives of clinical use",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Interferon-\u03b1 and cancer Mechanisms of action and new perspectives of clinical use.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interferon-a-and-cancer-mechanisms-of-action-and-new-pdf",
+      "sha16": "b414f543b9954c7c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interferon-a-and-cancer-mechanisms-of-action-and-new-pdf.md",
+      "title": "Interferon a and cancer Mechanisms of action and new",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Interferon a and cancer Mechanisms of action and new.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-masking-the-immunotoxicity-of-interleukin-12-pdf",
+      "sha16": "d2e19b4ce1a7c2cf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-masking-the-immunotoxicity-of-interleukin-12-pdf.md",
+      "title": "Masking the immunotoxicity of interleukin-12",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Masking the immunotoxicity of interleukin-12.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interferon--and-cancer-mechanisms-of-action-and-new-perspectives-of-clinical-use-pdf",
+      "sha16": "427038591c610e1b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interferon--and-cancer-mechanisms-of-action-and-new-perspectives-of-clinical-use-pdf.md",
+      "title": "Interferon-\u03b1 and cancer Mechanisms of action and new perspectives of clinical use",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/Interferon-\u03b1 and cancer Mechanisms of action and new perspectives of clinical use.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interferon-a-and-cancer-mechanisms-of-action-and-new-pdf",
+      "sha16": "b414f543b9954c7c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interferon-a-and-cancer-mechanisms-of-action-and-new-pdf.md",
+      "title": "Interferon a and cancer Mechanisms of action and new",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/Interferon a and cancer Mechanisms of action and new.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-nv627-cytokine-assessment-of-in-vitro-stimulated-cbl-drug-resistant-mutants-t-cells-w-stim-final-docx",
+      "sha16": "8c1b9b330831127c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-nv627-cytokine-assessment-of-in-vitro-stimulated-cbl-drug-resistant-mutants-t-cells-w-stim-final-docx.md",
+      "title": "NV627_Cytokine assessment of In Vitro stimulated Cbl drug resistant mutants' T cells w stim_Final",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/NV627_Cytokine assessment of In Vitro stimulated Cbl drug resistant mutants' T cells w stim_Final.docx",
+      "confidence": "medium",
+      "notes": "science topic token present"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf",
+      "sha16": "b8eaf767c9f6d2e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf.md",
+      "title": "Dendritic cells direct circadian anti-tumor immune responses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/Dendritic cells direct circadian anti-tumor immune responses.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cd8-cd8-and-plasmacytoid-dendritic-cell-generation-in-vitro-using-flt3-ligand-pdf",
+      "sha16": "157455ae0cdf3be0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cd8-cd8-and-plasmacytoid-dendritic-cell-generation-in-vitro-using-flt3-ligand-pdf.md",
+      "title": "CD8+, CD8\u2212, and Plasmacytoid Dendritic Cell Generation In Vitro Using flt3 Ligand",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/CD8+, CD8\u2212, and Plasmacytoid Dendritic Cell Generation In Vitro Using flt3 Ligand.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf",
+      "sha16": "b8eaf767c9f6d2e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf.md",
+      "title": "Dendritic cells direct circadian anti-tumor immune responses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Dendritic cells direct circadian anti-tumor immune responses.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cd8-cd8-and-plasmacytoid-dendritic-cell-generation-in-vitro-using-flt3-ligand-pdf",
+      "sha16": "157455ae0cdf3be0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cd8-cd8-and-plasmacytoid-dendritic-cell-generation-in-vitro-using-flt3-ligand-pdf.md",
+      "title": "CD8+, CD8\u2212, and Plasmacytoid Dendritic Cell Generation In Vitro Using flt3 Ligand",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/CD8+, CD8\u2212, and Plasmacytoid Dendritic Cell Generation In Vitro Using flt3 Ligand.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf",
+      "sha16": "b8eaf767c9f6d2e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-dendritic-cells-direct-circadian-anti-tumor-immune-responses-pdf.md",
+      "title": "Dendritic cells direct circadian anti-tumor immune responses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/Dendritic cells direct circadian anti-tumor immune responses.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-evir-chimeric-receptors-that-enhance-dendritic-cell-cross-dressing-with-tumor-antigens-pdf",
+      "sha16": "f5a290a0408a6581",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-evir-chimeric-receptors-that-enhance-dendritic-cell-cross-dressing-with-tumor-antigens-pdf.md",
+      "title": "EVIR chimeric receptors that enhance dendritic cell cross dressing with tumor antigens",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/EVIR chimeric receptors that enhance dendritic cell cross dressing with tumor antigens.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-human-dendritic-cells-in-cancer-pdf",
+      "sha16": "c0ce09dde308beba",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-human-dendritic-cells-in-cancer-pdf.md",
+      "title": "Human Dendritic Cells in Cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Dendritic cells/Human Dendritic Cells in Cancer.pdf",
+      "confidence": "low",
+      "notes": "PDF with publication-style title -- likely literature, needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-intestinal-cd103-but-not-cx3cr1-pdf",
+      "sha16": "a5b88f711e8f791f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-intestinal-cd103-but-not-cx3cr1-pdf.md",
+      "title": "Intestinal CD103+, but not CX3CR1+",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Dendritic cells/Intestinal CD103+, but not CX3CR1+.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-scaffolding-lsd1-inhibitors-impair-nk-cell-metabolism-and-cytotoxic-function-through-depletion-of-glutathione-pdf",
+      "sha16": "2cb127ba868f313a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-scaffolding-lsd1-inhibitors-impair-nk-cell-metabolism-and-cytotoxic-function-through-depletion-of-glutathione-pdf.md",
+      "title": "Scaffolding LSD1 Inhibitors Impair NK Cell Metabolism and Cytotoxic Function Through Depletion of Glutathione",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/Scaffolding LSD1 Inhibitors Impair NK Cell Metabolism and Cytotoxic Function Through Depletion of Glutathione.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-scaffolding-lsd1-inhibitors-impair-nk-cell-metabolism-and-cytotoxic-function-through-depletion-of-glutathione-pdf",
+      "sha16": "2cb127ba868f313a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-scaffolding-lsd1-inhibitors-impair-nk-cell-metabolism-and-cytotoxic-function-through-depletion-of-glutathione-pdf.md",
+      "title": "Scaffolding LSD1 Inhibitors Impair NK Cell Metabolism and Cytotoxic Function Through Depletion of Glutathione",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/Scaffolding LSD1 Inhibitors Impair NK Cell Metabolism and Cytotoxic Function Through Depletion of Glutathione.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-lsd1-literature-scaffolding-lsd1-inhibitors-impair-nk-cell-metabolism-and-cytotoxic-function-through-depletion-of-glutathione-pdf",
+      "sha16": "2cb127ba868f313a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-lsd1-literature-scaffolding-lsd1-inhibitors-impair-nk-cell-metabolism-and-cytotoxic-function-through-depletion-of-glutathione-pdf.md",
+      "title": "Scaffolding LSD1 Inhibitors Impair NK Cell Metabolism and Cytotoxic Function Through Depletion of Glutathione",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/LSD1 Literature/Scaffolding LSD1 Inhibitors Impair NK Cell Metabolism and Cytotoxic Function Through Depletion of Glutathione.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-nk-cells-a-team-effort-natural-killer-cells-on-the-first-leg-of-the-tumor-immunity-relay-race-pdf",
+      "sha16": "138e5257257feb81",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-nk-cells-a-team-effort-natural-killer-cells-on-the-first-leg-of-the-tumor-immunity-relay-race-pdf.md",
+      "title": "A team effort natural killer cells on the first leg of the tumor immunity relay race",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/NK cells/A team effort natural killer cells on the first leg of the tumor immunity relay race.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-natural-killer-cell-engagers-in-cancer-immunotherapy-next-generation-of-immuno-oncology-treatments-pdf",
+      "sha16": "225f28135561c11f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-natural-killer-cell-engagers-in-cancer-immunotherapy-next-generation-of-immuno-oncology-treatments-pdf.md",
+      "title": "Natural killer cell engagers in cancer immunotherapy Next generation of immuno-oncology treatments",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Natural killer cell engagers in cancer immunotherapy Next generation of immuno-oncology treatments.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-cbl-on-nk-cells-pdf",
+      "sha16": "3464f4c374a3db60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-cbl-on-nk-cells-pdf.md",
+      "title": "cbl on NK cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/cbl on NK cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-natural-killer-cell-engagers-in-cancer-immunotherapy-next-generation-of-immuno-oncology-treatments-pdf",
+      "sha16": "225f28135561c11f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-natural-killer-cell-engagers-in-cancer-immunotherapy-next-generation-of-immuno-oncology-treatments-pdf.md",
+      "title": "Natural killer cell engagers in cancer immunotherapy Next generation of immuno-oncology treatments",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Natural killer cell engagers in cancer immunotherapy Next generation of immuno-oncology treatments.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-a-natural-killer-dendritic-cell-axis-defines-pdf",
+      "sha16": "54cb71383bba5744",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-a-natural-killer-dendritic-cell-axis-defines-pdf.md",
+      "title": "A natural killer\u2013dendritic cell axis defines ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/A natural killer\u2013dendritic cell axis defines .pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx.md",
+      "title": "2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/2023_Cbl_NV786_TIL EG7-OVA with expanded OT1 protocol_FINAL.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_v3.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "sha16": "feeb9ba0f7bea828",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx.md",
+      "title": "2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/2023_Cbl_NV323_TIL EG7-OVA with expanded OT1 protocol_FINAL_V4.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-jurkat-t-cells-and-development-of-the-t-cell-receptor-signalling-paradigm-pdf",
+      "sha16": "567a8cf7dd6a8f6e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-jurkat-t-cells-and-development-of-the-t-cell-receptor-signalling-paradigm-pdf.md",
+      "title": "Jurkat T cells and development of the T-cell receptor signalling paradigm",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/Jurkat T cells and development of the T-cell receptor signalling paradigm.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-jurkat-t-cells-and-development-of-the-t-cell-receptor-signalling-paradigm-pdf",
+      "sha16": "567a8cf7dd6a8f6e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-jurkat-t-cells-and-development-of-the-t-cell-receptor-signalling-paradigm-pdf.md",
+      "title": "Jurkat T cells and development of the T-cell receptor signalling paradigm",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Jurkat T cells and development of the T-cell receptor signalling paradigm.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-jurkat-t-cells-and-development-of-the-t-cell-receptor-signalling-paradigm-pdf",
+      "sha16": "567a8cf7dd6a8f6e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-jurkat-t-cells-and-development-of-the-t-cell-receptor-signalling-paradigm-pdf.md",
+      "title": "Jurkat T cells and development of the T-cell receptor signalling paradigm",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/Jurkat T cells and development of the T-cell receptor signalling paradigm.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-cish-actively-silences-tcr-signaling-in-cd8-t-cells-pdf",
+      "sha16": "e221888d10893d8e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-cish-actively-silences-tcr-signaling-in-cd8-t-cells-pdf.md",
+      "title": "Cish actively silences TCR signaling in CD8+ T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Cish actively silences TCR signaling in CD8+ T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-cish-actively-silences-tcr-signaling-in-cd8-t-cells-pdf",
+      "sha16": "69d701527561c351",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-cish-actively-silences-tcr-signaling-in-cd8-t-cells-pdf.md",
+      "title": "Cish actively silences TCR signaling in CD8+ T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Cish actively silences TCR signaling in CD8+ T cells.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-t-cell-receptor-tcr-signaling-in-health-and-disease-pdf",
+      "sha16": "b6367f90c51a7ade",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-t-cell-receptor-tcr-signaling-in-health-and-disease-pdf.md",
+      "title": "T cell receptor (TCR) signaling in health and disease",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/T cell receptor (TCR) signaling in health and disease.pdf",
+      "confidence": "low",
+      "notes": "PDF with publication-style title -- likely literature, needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-vav1-a-key-signal-transducer-downstream-of-the-tcr-pdf",
+      "sha16": "b6c4baa74f78c7cc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-vav1-a-key-signal-transducer-downstream-of-the-tcr-pdf.md",
+      "title": "Vav1 a key signal transducer downstream of the TCR",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/Vav1 a key signal transducer downstream of the TCR.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-t-cell-receptor-tcr-signaling-in-health-and-disease-pdf",
+      "sha16": "b6367f90c51a7ade",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-t-cell-receptor-tcr-signaling-in-health-and-disease-pdf.md",
+      "title": "T cell receptor (TCR) signaling in health and disease",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/T cell receptor (TCR) signaling in health and disease.pdf",
+      "confidence": "low",
+      "notes": "PDF with publication-style title -- likely literature, needs entry-level review"
+    }
+  ]
+}

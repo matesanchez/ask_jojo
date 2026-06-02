@@ -1,0 +1,456 @@
+{
+  "wave": "wave3",
+  "agents": [
+    {
+      "agent": "cbl-b-additional-wave3",
+      "pages": [
+        "ask_jojo_wiki/references/nx-1607-aacr-2021-poster.md",
+        "ask_jojo_wiki/references/nx-1607-cblb-resistant-strain-study.md",
+        "ask_jojo_wiki/references/cblb-knockout-car-t-bluebird-2018.md"
+      ],
+      "n_covered": 29,
+      "n_reclassed": 5,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-tcr-signaling-of-cbl-b-docx",
+          "bucket": "personal_study_notes"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-tcr-signaling-of-cbl-b-docx",
+          "bucket": "personal_study_notes"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-tcr-signaling-of-cbl-b-docx",
+          "bucket": "personal_study_notes"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-notes-cbl-b-docx",
+          "bucket": "personal_study_notes"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-notes-cbl-b-docx",
+          "bucket": "personal_study_notes"
+        }
+      ],
+      "notes": "3 new pages: NX-1607 AACR 2021 poster, NX-1607 CBL-B-resistant strain study, CBLB-KO CAR-T Bluebird 2018. 5 personal scratch notes dropped."
+    },
+    {
+      "agent": "checkpoint-inhibitors-wave3",
+      "pages": [],
+      "n_covered": 39,
+      "n_reclassed": 1,
+      "duplicate_sweep_of_wave1": true,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-nurix-063-ct26-1607-anti-pd1-anti-tigit-protocol-final-docx",
+          "bucket": "protocols"
+        }
+      ],
+      "notes": "All 39 covered entries map to sha-hashes already absorbed in wave-1 reference pages. No new pages needed. Sha256-expansion at checkpoint will tick them."
+    },
+    {
+      "agent": "extended-adme-wave3",
+      "pages": [
+        "ask_jojo_wiki/methods/quintara-frontage-adme-vendor-history.md",
+        "ask_jojo_wiki/methods/supersaturation-turbidity-supernatant-microplate-assay.md",
+        "ask_jojo_wiki/methods/kinetic-solubility-early-protocols-uplc-cad.md",
+        "ask_jojo_wiki/methods/adme-plasma-stability-data-processing-automation.md",
+        "ask_jojo_wiki/methods/plasma-stability-assay.md"
+      ],
+      "n_covered": 24,
+      "n_reclassed": 16,
+      "stub_pages_for_review": [
+        "plasma-stability-assay.md - low confidence stub for wikilink target"
+      ],
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-pdf-drug-like-properties-concepts-structure-design-and-methods-from-adme-to-toxicity-optimization-pdf",
+          "bucket": "textbook-cover-image-only"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-adme-automation-proposal-pptx",
+          "bucket": "blank-presentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-cad-quantitation-of-6-aurora-compounds-20220613-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0401352-008-solubility-report-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0401352-009-solubility-report-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0404048-002-cn-solubility-report-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410339-001-cn-solubility-report-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410360-001-cn-solubility-report-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410400-001cn-solubility-report-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410447-001-cf-solubility-report-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410857-001-cf-solubility-report-pdf",
+          "bucket": "raw-compound-data"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-absorption-and-drug-development---solubility-permeability-and-ch-6e807a9ad8",
+          "bucket": "textbook-cover-image-only"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-kinetic-solubility-assay-protocol-pdf",
+          "bucket": "image-only"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-thermodynamic-solubility-assay-protocol-pdf",
+          "bucket": "image-only"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-11june2021-stab-7178-pis-pdf",
+          "bucket": "image-only"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-11june2021-stab-7178-t0-pdf",
+          "bucket": "image-only"
+        }
+      ],
+      "notes": "5 new methods pages including a low-confidence plasma-stability-assay stub. 16 raw/image-only entries dropped."
+    },
+    {
+      "agent": "immuno-oncology-concepts-wave3",
+      "pages": [
+        "ask_jojo_wiki/concepts/cytokines-in-cancer-immunotherapy.md",
+        "ask_jojo_wiki/concepts/dendritic-cells-in-anti-tumor-immunity.md",
+        "ask_jojo_wiki/concepts/nk-cells-in-tumor-immunity.md",
+        "ask_jojo_wiki/concepts/tcr-signaling-foundations.md"
+      ],
+      "n_covered": 29,
+      "n_reclassed": 11,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-nv627-cytokine-assessment-of-in-vitro-stimulated-cbl-drug-resistant-mutants-t-cells-w-stim-final-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+          "bucket": "protocols"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-intestinal-cd103-but-not-cx3cr1-pdf",
+          "bucket": "mucosal-immunology"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-vav1-a-key-signal-transducer-downstream-of-the-tcr-pdf",
+          "bucket": "drop-corrupted"
+        }
+      ],
+      "notes": "4 new concept pages: cytokines, DCs, NK cells, TCR signaling. Many sha-duplicates of OT1 protocols already covered."
+    },
+    {
+      "agent": "lcms-analytical-wave3",
+      "pages": [
+        "ask_jojo_wiki/methods/chromeleon-hplc-instrument-iq-qualification.md",
+        "ask_jojo_wiki/methods/chromeleon-hplc-oq-pq-qualification.md"
+      ],
+      "n_covered": 10,
+      "n_reclassed": 30,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-log-d-gradient-kernseh-03jchtb-lcmsprofilitngmethod-pdf",
+          "bucket": "duplicate-coverage"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-18d7536497",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-226cb4ca37",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-228fd82ed8",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-36f6bbcd1c",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3ca2f79b0a",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3d4e168f25",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-45214b2f4e",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-459ad4c70c",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4a8d94b3b0",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4cb8a3b0a9",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4fd154443b",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5424aeeab1",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5932544618",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5ded97806d",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-6d83a9cb4e",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7a4fcf2d89",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7a80a46c35",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7aa993fb6e",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-8e999ad171",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-8ffd071269",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-a4e999e952",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-ac6f3d62e4",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b739587c8d",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b8ff015a3a",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-bdde892719",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-be6a88b1dc",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c2e04fa6f2",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c5eff8407f",
+          "bucket": "vendor-software-changelog"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c9aba12158",
+          "bucket": "vendor-software-changelog"
+        }
+      ],
+      "notes": "2 pages: Chromeleon IQ + OQ/PQ qualifications. 29 vendor changelog half-page release notes dropped."
+    },
+    {
+      "agent": "small-molecule-purification-wave3",
+      "pages": [
+        "ask_jojo_wiki/methods/prep-lc-method-development-and-fraction-selection.md",
+        "ask_jojo_wiki/methods/genevac-fraction-drying-procedure.md",
+        "ask_jojo_wiki/methods/post-purification-lcms-purity-check.md",
+        "ask_jojo_wiki/methods/chromatographic-logd-and-pka-assays.md",
+        "ask_jojo_wiki/methods/chiral-sfc-purification.md",
+        "ask_jojo_wiki/methods/ht-small-molecule-purification-platform.md"
+      ],
+      "n_covered": 11,
+      "n_reclassed": 29,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-519-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-1-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-2-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-3-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-1-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-2-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-3-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-951-impurity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-951-impurity2-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-6-531-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-1-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-2-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-3-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-4-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-5-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-6-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-7-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-1-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-2-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-3-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-4-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-5-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-p4-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk1-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk2-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk4-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-start-2127-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-metabolism-of-verapamil-24-new-phase-i-and-phase-ii-metabolites-identi-ffb2429093",
+          "bucket": "papers"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-nrx-0392127-purification-docx",
+          "bucket": "unreadable-oversize"
+        }
+      ],
+      "notes": "3 new pages: prep-LC method dev, Genevac drying, post-purification purity check. 3 existing pages updated (LogD/pKa, chiral SFC, HT small-mol purif). 27 ELN purity chromatograms reclassified."
+    }
+  ]
+}

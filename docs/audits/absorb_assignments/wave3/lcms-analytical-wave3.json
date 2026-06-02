@@ -1,0 +1,368 @@
+{
+  "assignment": "lcms-analytical-wave3",
+  "wiki_dir": "methods",
+  "wave": "wave3",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-log-d-gradient-kernseh-03jchtb-lcmsprofilitngmethod-pdf",
+      "sha16": "76a713c9788515f5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-log-d-gradient-kernseh-03jchtb-lcmsprofilitngmethod-pdf.md",
+      "title": "LOG D gradient KernsEH_03JChtB_LCMSProfilitngMethod",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/LOG D gradient KernsEH_03JChtB_LCMSProfilitngMethod.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-06b1e4eded",
+      "sha16": "084695de7a2737f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-06b1e4eded.md",
+      "title": "HPLC OQ PQ V.8.1 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.1 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-0d51aef8c7",
+      "sha16": "e384d2e3dbdd03e9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-0d51aef8c7.md",
+      "title": "HPLC Instruments IQ V.5.0 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.5.0 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-18d7536497",
+      "sha16": "c360d9fa4620f6df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-18d7536497.md",
+      "title": "HPLC Instruments IQ V.3.14 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.14 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-226cb4ca37",
+      "sha16": "6182ea60a2fa2dfb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-226cb4ca37.md",
+      "title": "HPLC Instruments IQ V.3.2 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.2 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-228fd82ed8",
+      "sha16": "a246595a767191c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-228fd82ed8.md",
+      "title": "HPLC Instruments IQ V.3.5 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.5 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-32085e7528",
+      "sha16": "f672f04a8d8bacfc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-32085e7528.md",
+      "title": "HPLC Instruments IQ V 3 0 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V 3 0 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-36f6bbcd1c",
+      "sha16": "ea7b6a07798ae30d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-36f6bbcd1c.md",
+      "title": "HPLC OQ PQ V.8.9 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.9 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3a1f88c767",
+      "sha16": "e8741e770dcc21cf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3a1f88c767.md",
+      "title": "HPLC OQ PQ V.9.3 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.9.3 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3ca2f79b0a",
+      "sha16": "b093c5b90be054f5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3ca2f79b0a.md",
+      "title": "HPLC Instruments IQ V.3.9 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.9 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3d4e168f25",
+      "sha16": "14e1a442fd74fc10",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3d4e168f25.md",
+      "title": "HPLC OQ PQ V.8.6 - Release Notes - CM7",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.6 - Release Notes - CM7.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-43ac170b48",
+      "sha16": "f3855645f7501fe5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-43ac170b48.md",
+      "title": "Annex_HPLC_OQ_PQ_OI_V8_16",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/Annex_HPLC_OQ_PQ_OI_V8_16.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-45214b2f4e",
+      "sha16": "d4a5e8cf87d39ceb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-45214b2f4e.md",
+      "title": "HPLC OQ PQ v.7.4 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ v.7.4 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-459ad4c70c",
+      "sha16": "1a79d6b0314be9c0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-459ad4c70c.md",
+      "title": "HPLC OQ PQ V.8.6 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.6 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4a8d94b3b0",
+      "sha16": "6e6daba89cb2cce3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4a8d94b3b0.md",
+      "title": "HPLC OQ PQ v.7.1 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ v.7.1 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4cb8a3b0a9",
+      "sha16": "37b29a4880f3a345",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4cb8a3b0a9.md",
+      "title": "HPLC Instruments IQ V.3.3 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.3 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4fd154443b",
+      "sha16": "91ae8d0927c39250",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4fd154443b.md",
+      "title": "HPLC OQ PQ V.8.4 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.4 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5424aeeab1",
+      "sha16": "5394de584c26cd56",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5424aeeab1.md",
+      "title": "HPLC Instruments IQ V.3.8 - Release Notes_CM7",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.8 - Release Notes_CM7.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5932544618",
+      "sha16": "a93723e6f878b3d5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5932544618.md",
+      "title": "HPLC OQ PQ v.8.0 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ v.8.0 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5ded97806d",
+      "sha16": "a48657260e0fbdbe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5ded97806d.md",
+      "title": "HPLC OQ PQ V.8.5 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.5 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5fb7c3ebc3",
+      "sha16": "32c84a03d8d0e9a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5fb7c3ebc3.md",
+      "title": "HPLC Instruments IQ V 4 00 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V 4 00 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-6658448fa8",
+      "sha16": "0dcd286aa5f4e671",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-6658448fa8.md",
+      "title": "HPLC Instruments IQ V.5.5 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/HPLC Instruments IQ V.5.5 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-6d83a9cb4e",
+      "sha16": "7342668bf3357f12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-6d83a9cb4e.md",
+      "title": "HPLC OQ PQ V.8.3 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.3 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7a4fcf2d89",
+      "sha16": "8833b70302aa0f78",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7a4fcf2d89.md",
+      "title": "HPLC Instruments IQ V.3.10 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.10 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7a80a46c35",
+      "sha16": "282a9fc1e289e8f9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7a80a46c35.md",
+      "title": "HPLC Instruments IQ V.5.4 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.5.4 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7aa993fb6e",
+      "sha16": "54f18a672a415240",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7aa993fb6e.md",
+      "title": "HPLC Instruments IQ V.3.8 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.8 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-85220938eb",
+      "sha16": "662677dbbafd7d29",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-85220938eb.md",
+      "title": "Annex_HPLC_Instruments_IQ_OI_E_V3_16",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/Annex_HPLC_Instruments_IQ_OI_E_V3_16.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-8e999ad171",
+      "sha16": "19354fe48d89e4d3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-8e999ad171.md",
+      "title": "HPLC OQ PQ V.8.10 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.10 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-8ffd071269",
+      "sha16": "3afcbe9cb602df93",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-8ffd071269.md",
+      "title": "HPLC Instruments IQ V.5.2 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.5.2 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-a4e999e952",
+      "sha16": "0f306908dc3d0adb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-a4e999e952.md",
+      "title": "HPLC OQ PQ V.8.8 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.8 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-ac6f3d62e4",
+      "sha16": "daa86a96ed816262",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-ac6f3d62e4.md",
+      "title": "HPLC Instruments IQ V.5.3 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.5.3 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b2aa2594ae",
+      "sha16": "ad7a3b9a06369d68",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b2aa2594ae.md",
+      "title": "HPLC OQ PQ V 9 00 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V 9 00 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b739587c8d",
+      "sha16": "a713ba0b60d1f26f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b739587c8d.md",
+      "title": "HPLC Instruments IQ V.3.13 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.13 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b8ff015a3a",
+      "sha16": "27e2eed1a00e3c0d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b8ff015a3a.md",
+      "title": "HPLC OQ PQ V.8.8 - Release Notes - CM7",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.8 - Release Notes - CM7.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-bd3b28ea27",
+      "sha16": "11e018000c0a9d03",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-bd3b28ea27.md",
+      "title": "HPLC OQ PQ V.9.5 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/HPLC OQ PQ V.9.5 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-bdde892719",
+      "sha16": "f06d32acfd6ae6c6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-bdde892719.md",
+      "title": "HPLC Instruments IQ V.3.11 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.11 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-be6a88b1dc",
+      "sha16": "5c917fe9b10b86c9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-be6a88b1dc.md",
+      "title": "HPLC OQ PQ V.8.2 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.8.2 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c2e04fa6f2",
+      "sha16": "a77e8fa76c40830b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c2e04fa6f2.md",
+      "title": "HPLC OQ PQ v.7.3 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ v.7.3 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c5eff8407f",
+      "sha16": "aa77f4c0705abe2d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c5eff8407f.md",
+      "title": "HPLC OQ PQ V.9.4 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC OQ PQ V.9.4 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c9aba12158",
+      "sha16": "7c9ae66c5eb23192",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c9aba12158.md",
+      "title": "HPLC Instruments IQ V.3.1 - Release Notes",
+      "source_id": "Analytical Chemistry/Jon K - Public/Chromeleon-Full-7.3.0.60919-5efd55c28726aa174740e3ad3b435409b51aa6a1.en-US.Release.CM7.Setup/Documents/Previous Versions/HPLC Instruments IQ V.3.1 - Release Notes.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    }
+  ]
+}

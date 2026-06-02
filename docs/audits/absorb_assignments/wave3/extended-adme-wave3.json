@@ -1,0 +1,368 @@
+{
+  "assignment": "extended-adme-wave3",
+  "wiki_dir": "methods",
+  "wave": "wave3",
+  "guidance": "Synthesize into ~3-6 wiki pages under ask_jojo_wiki/methods/. Do NOT create one page per entry.",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v10-pdf",
+      "sha16": "0e2f2bc5bc7f50b1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v10-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v10",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v10.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v2-pdf",
+      "sha16": "69174c3776f4228d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v2-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v2",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v2.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v3-pdf",
+      "sha16": "09b92890a35d99cc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v3-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v3",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v3.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v4-pdf",
+      "sha16": "b5a2ad132b341d69",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v4-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v4",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v4.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v5-pdf",
+      "sha16": "a255d33fd9400631",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v5-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v5",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v5.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v6-pdf",
+      "sha16": "efbab360f331e6b0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v6-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v6",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v6.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v7-pdf",
+      "sha16": "0bb165c0a718b8cf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v7-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v7",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v7.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v8-pdf",
+      "sha16": "597cdac421bdcf58",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v8-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v8",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v8.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v9-pdf",
+      "sha16": "9901ca0d7add6f61",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-8320-nurix-07302021-adme-v9-pdf.md",
+      "title": "QDI Quotation - QA-8320 Nurix 07302021 ADME v9",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-8320 Nurix 07302021 ADME v9.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-quote-nx-2127-quintara-sow-qa-10117-apr-2023-8268-nx-2127-adme-report-pdf",
+      "sha16": "aefd4af575ab67c5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-quote-nx-2127-quintara-sow-qa-10117-apr-2023-8268-nx-2127-adme-report-pdf.md",
+      "title": "Quintara_SOW QA-10117_(Apr 2023)_8268_NX-2127 ADME report",
+      "source_id": "Analytical Chemistry/Quintara/2023/Quote/NX-2127/Quintara_SOW QA-10117_(Apr 2023)_8268_NX-2127 ADME report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-9818-nurix-12192022-adme-gnr-2023-v2-pdf",
+      "sha16": "2e461f432549cbbf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-9818-nurix-12192022-adme-gnr-2023-v2-pdf.md",
+      "title": "QDI Quotation - QA-9818 Nurix 12192022 ADME GNR 2023 v2",
+      "source_id": "Analytical Chemistry/Quintara/2023/Quote/QDI Quotation - QA-9818 Nurix 12192022 ADME GNR 2023 v2.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-9818-nurix-12192022-adme-gnr-2023-v3-pdf",
+      "sha16": "76bba03f959b0928",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-9818-nurix-12192022-adme-gnr-2023-v3-pdf.md",
+      "title": "QDI Quotation - QA-9818 Nurix 12192022 ADME GNR 2023_V3",
+      "source_id": "Analytical Chemistry/Quintara/2023/Quote/QDI Quotation - QA-9818 Nurix 12192022 ADME GNR 2023_V3.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2024-quote-frontage---q-10609-nurix-082924-adme-gnr-2024-pdf",
+      "sha16": "de933b87eec739a2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2024-quote-frontage---q-10609-nurix-082924-adme-gnr-2024-pdf.md",
+      "title": "Frontage - Q-10609 Nurix 082924 ADME GNR 2024",
+      "source_id": "Analytical Chemistry/Quintara/2024/Quote/Frontage - Q-10609 Nurix 082924 ADME GNR 2024.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2024-quote-old-frontage---q-10609-nurix-010524-adme-gnr-2024-pdf",
+      "sha16": "cdfa0c5e6a33e9d4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2024-quote-old-frontage---q-10609-nurix-010524-adme-gnr-2024-pdf.md",
+      "title": "Frontage - Q-10609 Nurix 010524 ADME GNR 2024",
+      "source_id": "Analytical Chemistry/Quintara/2024/Quote/Old/Frontage - Q-10609 Nurix 010524 ADME GNR 2024.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2024-quote-old-frontage---q-10609-nurix-061024-adme-gnr-2024-pdf",
+      "sha16": "3eeb02a4f2cb429c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2024-quote-old-frontage---q-10609-nurix-061024-adme-gnr-2024-pdf.md",
+      "title": "Frontage - Q-10609 Nurix 061024 ADME GNR 2024",
+      "source_id": "Analytical Chemistry/Quintara/2024/Quote/Old/Frontage - Q-10609 Nurix 061024 ADME GNR 2024.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2025-quote-frontage---q-12460-nurix-011725-adme-ba-gnr-2025-pdf",
+      "sha16": "87ec23ec704973c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2025-quote-frontage---q-12460-nurix-011725-adme-ba-gnr-2025-pdf.md",
+      "title": "Frontage - Q-12460 Nurix 011725 ADME BA GNR 2025",
+      "source_id": "Analytical Chemistry/Quintara/2025/Quote/Frontage - Q-12460 Nurix 011725 ADME BA GNR 2025.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2025-quote-frontage---q-12460-nurix-081325-adme-ba-gnr-2025-pdf",
+      "sha16": "65c51c3c3fc40639",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2025-quote-frontage---q-12460-nurix-081325-adme-ba-gnr-2025-pdf.md",
+      "title": "Frontage - Q-12460 Nurix 081325 ADME BA GNR 2025",
+      "source_id": "Analytical Chemistry/Quintara/2025/Quote/Frontage - Q-12460 Nurix 081325 ADME BA GNR 2025.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-pdf-drug-like-properties-concepts-structure-design-and-methods-from-adme-to-toxicity-optimization-pdf",
+      "sha16": "9f885a4f44025a95",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-pdf-drug-like-properties-concepts-structure-design-and-methods-from-adme-to-toxicity-optimization-pdf.md",
+      "title": "PDF Drug-like Properties Concepts Structure Design and Methods from ADME to Toxicity Optimization",
+      "source_id": "Analytical Chemistry/Shayla - Public/PDF Drug-like Properties Concepts Structure Design and Methods from ADME to Toxicity Optimization.pdf",
+      "confidence": "high",
+      "notes": "scientific PDF (literature)"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-2024-315-adme-data-processing-update--trinity-h-pptx",
+      "sha16": "e010615b436f8e3e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-2024-315-adme-data-processing-update--trinity-h-pptx.md",
+      "title": "2024-315 ADME Data Processing Update -Trinity H",
+      "source_id": "Analytical Chemistry/Trinity H - Public/2024-315 ADME Data Processing Update -Trinity H.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-adme-automation-proposal-pptx",
+      "sha16": "190ff3f6224ddcde",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-adme-automation-proposal-pptx.md",
+      "title": "ADME Automation Proposal",
+      "source_id": "Analytical Chemistry/Trinity H - Public/ADME Automation Proposal.pptx",
+      "confidence": "high",
+      "notes": "internal scientific presentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-a-combination-turbidity-and-supernatant-solubility-pdf",
+      "sha16": "1df872a96569461f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-a-combination-turbidity-and-supernatant-solubility-pdf.md",
+      "title": "A_Combination_Turbidity_and_Supernatant solubility",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/A_Combination_Turbidity_and_Supernatant solubility.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-a-combination-turbidity-and-supernatant-solubility-pdf",
+      "sha16": "1df872a96569461f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-a-combination-turbidity-and-supernatant-solubility-pdf.md",
+      "title": "A_Combination_Turbidity_and_Supernatant solubility",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/A_Combination_Turbidity_and_Supernatant solubility.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-backup-tecan-data-files-tecan-plate-reader-breanna-a-combination-turbidity-and-supernatant-solubility-pdf",
+      "sha16": "1df872a96569461f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-backup-tecan-data-files-tecan-plate-reader-breanna-a-combination-turbidity-and-supernatant-solubility-pdf.md",
+      "title": "A_Combination_Turbidity_and_Supernatant solubility",
+      "source_id": "Analytical Chemistry/Jon K - Public/backup/TECAN Data Files/Tecan Plate Reader Breanna/A_Combination_Turbidity_and_Supernatant solubility.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-backup-tecan-susan-backup-tecan-plate-reader-a-combination-turbidity-and-supernatant-solubility-pdf",
+      "sha16": "1df872a96569461f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-backup-tecan-susan-backup-tecan-plate-reader-a-combination-turbidity-and-supernatant-solubility-pdf.md",
+      "title": "A_Combination_Turbidity_and_Supernatant solubility",
+      "source_id": "Analytical Chemistry/Jon K - Public/backup/TECAN (susan) backup/Tecan Plate Reader/A_Combination_Turbidity_and_Supernatant solubility.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-cad-quantitation-of-6-aurora-compounds-20220613-pdf",
+      "sha16": "4e2b2f9353497ebf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-cad-quantitation-of-6-aurora-compounds-20220613-pdf.md",
+      "title": "CAD quantitation of 6 aurora compounds 20220613",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/CAD quantitation of 6 aurora compounds 20220613.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0401352-008-solubility-report-pdf",
+      "sha16": "0168a7cb9ca49a9e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0401352-008-solubility-report-pdf.md",
+      "title": "NRX-0401352-008 solubility report",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/NRX-0401352-008 solubility report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0401352-009-solubility-report-pdf",
+      "sha16": "ed51ecce7608ebb4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0401352-009-solubility-report-pdf.md",
+      "title": "NRX-0401352-009 solubility report",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/NRX-0401352-009 solubility report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0404048-002-cn-solubility-report-pdf",
+      "sha16": "6e7bcdbce07e0684",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0404048-002-cn-solubility-report-pdf.md",
+      "title": "NRX-0404048-002-CN solubility report",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/NRX-0404048-002-CN solubility report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410339-001-cn-solubility-report-pdf",
+      "sha16": "bf951618a376b777",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410339-001-cn-solubility-report-pdf.md",
+      "title": "NRX-0410339-001-CN solubility report",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/NRX-0410339-001-CN solubility report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410360-001-cn-solubility-report-pdf",
+      "sha16": "87ed2ddeb5fc3298",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410360-001-cn-solubility-report-pdf.md",
+      "title": "NRX-0410360-001-CN solubility report",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/NRX-0410360-001-CN solubility report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410400-001cn-solubility-report-pdf",
+      "sha16": "b6e98e1b3c6b2dac",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410400-001cn-solubility-report-pdf.md",
+      "title": "NRX-0410400-001CN solubility report",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/NRX-0410400-001CN solubility report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410447-001-cf-solubility-report-pdf",
+      "sha16": "d5f475f9f371a637",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410447-001-cf-solubility-report-pdf.md",
+      "title": "NRX-0410447-001-CF solubility report",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/NRX-0410447-001-CF solubility report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410857-001-cf-solubility-report-pdf",
+      "sha16": "fcc89b86219c91b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-solubility-output-nrx-0410857-001-cf-solubility-report-pdf.md",
+      "title": "NRX-0410857-001-CF solubility report",
+      "source_id": "Analytical Chemistry/Jon K - Public/Solubility Output/NRX-0410857-001-CF solubility report.pdf",
+      "confidence": "high",
+      "notes": "named Nurix compound id"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-kinetic-solubility-ksol-method-development-kinetic-solubility-studies-kinetic-solubility-of-nrx-949027a7d1",
+      "sha16": "df119b62fffe357b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-kinetic-solubility-ksol-method-development-kinetic-solubility-studies-kinetic-solubility-of-nrx-949027a7d1.md",
+      "title": "Kinetic Solubility of NRX Compounds Protocol",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Kinetic Solubility/Ksol Method Development/Kinetic Solubility Studies/Kinetic Solubility of NRX Compounds Protocol.docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-absorption-and-drug-development---solubility-permeability-and-ch-6e807a9ad8",
+      "sha16": "294575b5220490e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-absorption-and-drug-development---solubility-permeability-and-ch-6e807a9ad8.md",
+      "title": "Absorption and Drug Development - Solubility, Permeability, and Charge State",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Books/Absorption and Drug Development - Solubility, Permeability, and Charge State.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-kinetic-solubility-assay-protocol-pdf",
+      "sha16": "76c9ecac6ab688b2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-kinetic-solubility-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Kinetic Solubility Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Kinetic Solubility Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-thermodynamic-solubility-assay-protocol-pdf",
+      "sha16": "5d3bad65e5d4a724",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-thermodynamic-solubility-assay-protocol-pdf.md",
+      "title": "Quintara Discovery Thermodynamic Solubility Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery Thermodynamic Solubility Assay Protocol.pdf",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-protocol-kinetic-solubility-docx",
+      "sha16": "080515e8478804c2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-protocol-kinetic-solubility-docx.md",
+      "title": "Kinetic Solubility ",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Protocol/Kinetic Solubility .docx",
+      "confidence": "high",
+      "notes": "protocol/assay/method document"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-11june2021-stab-7178-pis-pdf",
+      "sha16": "842c1656f8a34781",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-11june2021-stab-7178-pis-pdf.md",
+      "title": "7178 PIS",
+      "source_id": "Analytical Chemistry/Bob C - Public/HiBit Solubility/11June2021_Stab/7178 PIS.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-11june2021-stab-7178-t0-pdf",
+      "sha16": "0b7c473c7f606feb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-11june2021-stab-7178-t0-pdf.md",
+      "title": "7178 T0",
+      "source_id": "Analytical Chemistry/Bob C - Public/HiBit Solubility/11June2021_Stab/7178 T0.pdf",
+      "confidence": "low",
+      "notes": "PDF with no decisive signal -- needs entry-level review"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "agent": "small-molecule-purification-wave3",
+  "pages": [
+    "ask_jojo_wiki/methods/prep-lc-method-development-and-fraction-selection.md",
+    "ask_jojo_wiki/methods/genevac-fraction-drying-procedure.md",
+    "ask_jojo_wiki/methods/post-purification-lcms-purity-check.md",
+    "ask_jojo_wiki/methods/chromatographic-logd-and-pka-assays.md",
+    "ask_jojo_wiki/methods/chiral-sfc-purification.md",
+    "ask_jojo_wiki/methods/ht-small-molecule-purification-platform.md"
+  ],
+  "n_covered": 11,
+  "n_reclassed": 29,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-519-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-1-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-2-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-3-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-1-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-2-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-3-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-951-impurity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-951-impurity2-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-6-531-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-1-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-2-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-3-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-4-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-5-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-6-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-7-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-1-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-2-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-3-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-4-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-5-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-p4-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk1-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk2-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk4-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-start-2127-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-metabolism-of-verapamil-24-new-phase-i-and-phase-ii-metabolites-identi-ffb2429093",
+      "bucket": "papers"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-nrx-0392127-purification-docx",
+      "bucket": "unreadable-oversize"
+    }
+  ],
+  "notes": "3 new pages: prep-LC method dev, Genevac drying, post-purification purity check. 3 existing pages updated (LogD/pKa, chiral SFC, HT small-mol purif). 27 ELN purity chromatograms reclassified."
+}

@@ -1,0 +1,14 @@
+{
+  "agent": "cbl-b-additional-wave3",
+  "pages": ["ask_jojo_wiki/references/nx-1607-aacr-2021-poster.md","ask_jojo_wiki/references/nx-1607-cblb-resistant-strain-study.md","ask_jojo_wiki/references/cblb-knockout-car-t-bluebird-2018.md"],
+  "n_covered": 29,
+  "n_reclassed": 5,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-tcr-signaling-of-cbl-b-docx","bucket":"personal_study_notes"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-tcr-signaling-of-cbl-b-docx","bucket":"personal_study_notes"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-tcr-signaling-of-cbl-b-docx","bucket":"personal_study_notes"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-notes-cbl-b-docx","bucket":"personal_study_notes"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-notes-cbl-b-docx","bucket":"personal_study_notes"}
+  ],
+  "notes": "3 new pages: NX-1607 AACR 2021 poster, NX-1607 CBL-B-resistant strain study, CBLB-KO CAR-T Bluebird 2018. 5 personal scratch notes dropped."
+}

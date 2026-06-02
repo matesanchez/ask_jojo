@@ -1,0 +1,132 @@
+{
+  "agent": "lcms-analytical-wave3",
+  "pages": [
+    "ask_jojo_wiki/methods/chromeleon-hplc-instrument-iq-qualification.md",
+    "ask_jojo_wiki/methods/chromeleon-hplc-oq-pq-qualification.md"
+  ],
+  "n_covered": 10,
+  "n_reclassed": 30,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-log-d-gradient-kernseh-03jchtb-lcmsprofilitngmethod-pdf",
+      "bucket": "duplicate-coverage"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-18d7536497",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-226cb4ca37",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-228fd82ed8",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-36f6bbcd1c",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3ca2f79b0a",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-3d4e168f25",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-45214b2f4e",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-459ad4c70c",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4a8d94b3b0",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4cb8a3b0a9",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-4fd154443b",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5424aeeab1",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5932544618",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-5ded97806d",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-6d83a9cb4e",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7a4fcf2d89",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7a80a46c35",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-7aa993fb6e",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-8e999ad171",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-8ffd071269",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-a4e999e952",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-ac6f3d62e4",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b739587c8d",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-b8ff015a3a",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-bdde892719",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-be6a88b1dc",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c2e04fa6f2",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c5eff8407f",
+      "bucket": "vendor-software-changelog"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-chromeleon-full-7-3-0-60919-5efd55c28726aa174740e3ad3b435409b51aa6a1-en-us-release-cm7-setup-document-c9aba12158",
+      "bucket": "vendor-software-changelog"
+    }
+  ],
+  "notes": "2 pages: Chromeleon IQ + OQ/PQ qualifications. 29 vendor changelog half-page release notes dropped."
+}

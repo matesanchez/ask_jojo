@@ -1,0 +1,58 @@
+{
+  "agent": "immuno-oncology-concepts-wave3",
+  "pages": [
+    "ask_jojo_wiki/concepts/cytokines-in-cancer-immunotherapy.md",
+    "ask_jojo_wiki/concepts/dendritic-cells-in-anti-tumor-immunity.md",
+    "ask_jojo_wiki/concepts/nk-cells-in-tumor-immunity.md",
+    "ask_jojo_wiki/concepts/tcr-signaling-foundations.md"
+  ],
+  "n_covered": 29,
+  "n_reclassed": 11,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-nv627-cytokine-assessment-of-in-vitro-stimulated-cbl-drug-resistant-mutants-t-cells-w-stim-final-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-2023-cbl-nv786-til-eg7-ova-with-expanded-ot1-protocol-final-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v3-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-2023-cbl-nv323-til-eg7-ova-with-expanded-ot1-protocol-final-v4-docx",
+      "bucket": "protocols"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-dendritic-cells-intestinal-cd103-but-not-cx3cr1-pdf",
+      "bucket": "mucosal-immunology"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-vav1-a-key-signal-transducer-downstream-of-the-tcr-pdf",
+      "bucket": "drop-corrupted"
+    }
+  ],
+  "notes": "4 new concept pages: cytokines, DCs, NK cells, TCR signaling. Many sha-duplicates of OT1 protocols already covered."
+}
