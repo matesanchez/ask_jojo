@@ -1,0 +1,170 @@
+{
+  "agent": "alexandra-t-wave6",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 40,
+  "agent_returned_plan_not_writes": true,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-degradation-kinetics-acschembio-0c00380-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-targeted-protein-degradation--from-chemical-biology-to-2017-cell-chemical-bi-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-targeted-protein-degradation-in-vivo-with-proteolysis--2019-drug-discovery-t-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-the-advantages-of-targeted-protein-degradation-over-inhi-2018-cell-chemical--pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-projects-hpk1-nrx-0472260-method-docx",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-sciex-os-license-sciex-os-3-1-6-instrument-settings-converter-instrument-settings-converter-rel-a827c8feef",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-ibn-25feb2022-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-ibn-25feb2022-table-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-ibn-minus-blank-1-peaks-25feb2022-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-ibn-minus-blank-1-peaks-25feb2022-table-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-whelk-o1-25feb2022-minus-blank-4-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-whelk-o1-25feb2022-minus-blank-4-table-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-whelk-o1-25feb2022-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-whelk-o1-25feb2022-table-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-03march2022-nx2127-030322-zoom-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-analyst-data-jan-2023-projects-api-instrument-fsdc-data-customer-system-information-b8cfb9966d",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-analyst-data-jan-2023-projects-api-instrument-fsdc-data-installation-data-report-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-clean-qjet-6-19-2024-msms-pos-ppg-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-clean-qjet-6-19-2024-q1-pos-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-clean-qjet-6-19-2024-q3-pos-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-mass-rail-4-25-2024-lm-msms-pos-ppg-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-mass-rail-4-25-2024-lm-q1-pos-ppg-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-mass-rail-4-25-2024-lm-q1-pos-ppg-200-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-mass-rail-4-25-2024-lm-q3-pos-ppg-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-rail-4-30-2024-lm-q1-pos-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-rail-4-30-2024-lm-q3-pos-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-rail-4-30-2024-msms-pos-ppg-10-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-12248-2009-article-9103-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-1414-431x-bjmbr-1414-431x20165646-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2006-review-invitro-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2016-nonclin-part2-andrade-et-al-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2018-in4braintargeting-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2020-az-pk-predictions-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2020daneliusetal-solconformations-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2020ding-bbbtransport-nanp-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2021-rweready-jimenez-et-al-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-4-453-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-40262-2015-article-351-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-a-review-on-self-emulsified-drug-deliver-1-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-abbvie-pk-pdf",
+      "bucket": "deferred-bibliography-or-mechanical"
+    }
+  ],
+  "notes": "Agent returned plan to enrich targeted-protein-degradation.md (4 TPD papers) + adme-assay-principles (13 DMPK refs) + create protac-in-vivo-pk-pd-principles.md, but NO actual writes happened. 23 entries planned reclassified as per_compound_mechanical / instrument_maintenance / software_vendor_docs."
+}

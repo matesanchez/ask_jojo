@@ -1,0 +1,170 @@
+{
+  "agent": "jose-l-extended-wave6",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 40,
+  "agent_returned_plan_not_writes": true,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-chiralseparations-methodsinmolecularbiology970137-163-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-automation-manuals-using-labware-in-your-protocols-opentrons-help-center-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-automation-manuals-write-and-simulate-protocols-on-windows-10-opentrons-help-center-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-008-tartrate-rml-forms-rml-gc-form-2017-nx-160-3763885d52",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-008-tartrate-rml-forms-rml-general-analysis-re-f6c381fa75",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-008-tartrate-rml-forms-rml-thermal-form-2017-n-bea25a2384",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-009-tartrate-rml-forms-rml-gc-form-2017-nx-160-49e07a6941",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-009-tartrate-rml-forms-rml-general-analysis-re-7510e86b06",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-009-tartrate-rml-forms-rml-thermal-form-2017-n-efc5302226",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-gc-form-2017-nx-1607-010-aa-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-general-analysis-request-2d76bac34d",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-thermal-form-2017-nx-1607-010-aa-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-crl-ref-01187010-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log20031c-001-certificate-of-te-2605c48839",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log20031c-001-certificate-of-te-3e99b61b69",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log20031c-002-certificate-of-te-4cbec50fb8",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log20031c-002-certificate-of-te-4edc3c127d",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log2004c1-001-certificate-of-te-4d1afe37ff",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log2004c1-001-certificate-of-te-f34c13ae03",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log2004c1-002-certificate-of-te-1ac8f8e28f",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log2004c1-002-certificate-of-te-ee20e66afd",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-003-aa-nx-1647-lot-003-beh-c18-lc-uv-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-003-aa-nx-1647-lot-003-csh-c18-lc-uv-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-007-aa-nrx-0401650-007-aa-certificate-of-testing-v01-docx",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-007-aa-nx-1650-lot-007-beh-c18-lc-uv-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-nrx-0401650-008-aa-certificate-of-testing-v01-docx",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-nrx-0401650-008-aa-lc-uv-ms-spectra-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-nx-1650-008-aa-certificate-of-testing---signed-5c8f057905",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-nx-1650-lot-006-beh-c18-lc-uv-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-nx-1650-lot-006-csh-c18-lc-uv-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-15oct2021-nrx-0392127-019-aq-v2-nx-2127-019-aq-certifi-6a9bd515e2",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-nx-2127-019-aq-behc18-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-nx-2127-019-aq-certificate-of-testing-v-ba4f253f82",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-nx-2127-019-aq-certificate-of-testing-v02-docx",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-nx-2127-019-aq-csh-c18-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-rml-forms-rml-gc-form-2017-nx-2127-019-aq-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-rml-forms-rml-general-analysis-request-9c4f999d67",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-rml-forms-rml-thermal-form-2017-nx-2127-019-aq-pdf",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-nrx-0404422-007-aa-certificate-of-an-3e9bb06271",
+      "bucket": "deferred-lot-documentation"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-nrx-0404422-007-aa-certificate-of-an-7a534ebfab",
+      "bucket": "deferred-lot-documentation"
+    }
+  ],
+  "notes": "Agent returned detailed page plan (7 candidate pages: chiral-CSP, Opentrons, NX-1607 RML, NX-1607 CRL, NX-1647, NX-1650, NX-4422; plus 8 entries to attach to existing nx-2127 page) but did NOT actually write any pages. All 40 entries flagged as lot-documentation candidates needing future absorption."
+}

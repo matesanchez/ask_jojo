@@ -1,0 +1,162 @@
+{
+  "agent": "jon-k-extended-wave6",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 37,
+  "deferred_candidates": [
+    "massfrontier-fish-fragment-ion-search",
+    "nx-1607-nrx-0473911-rat-pk-study",
+    "pierce-bca-protein-assay"
+  ],
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0472603-004-aa-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0472603-004-aa-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0472604-003-aa-no-highlighted-text-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0472604-003-aa-no-highlighted-text-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-003-aa-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-003-aa-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-004-aa-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-1-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-1-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-final-1-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-final-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-final-no-highlight-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-final-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0488122-002-cn-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0488122-002-cn-modified-ew-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx0477062-002-aa-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx0477062-002-aa-updated-template-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx0477062-003-aa-updated-template-jk-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-cot-nrx-0468599-004-aq-updated-template-with-ic-2-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-chs-help-firew-40f3e81370",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-chs-help-ossettings-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-enu-help-firew-62e1fe9326",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-enu-help-ossettings-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-jpn-help-firew-58765b2119",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-jpn-help-ossettings-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0465304-002-aa-cot-jk-bc-1-1-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0465304-002-aa-cot-jk-bc-1-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0467993-001-cf-cot-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0472091-002-aa-cot-jk-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0473911-012-aa-uv-254nm-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-04793911-016-uv-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-8599-004-aq-quantiation-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-8599-009-purity-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-quantitationdataset-10-1-docx",
+      "bucket": "mechanical"
+    }
+  ],
+  "notes": "0 pages written. 37 mechanical CoT/CoA/install-guide PDFs reclassified. 3 candidates flagged for future absorption."
+}

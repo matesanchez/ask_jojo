@@ -1,0 +1,15 @@
+{
+  "agent": "jose-gomez-extended-wave6",
+  "pages": ["ask_jojo_wiki/references/wang-2018-pd-1-gitr-mpec.md"],
+  "n_covered": 29,
+  "n_reclassed": 6,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf","bucket":"mechanical"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-cell-therapy-in-vivo-program-18oct21-pptx","bucket":"internal_data"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-a-causal-mechanism-for-childhood-acute-lymphoblastic-leukaemia-pdf","bucket":"off_topic"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-dc-cell-protocol-docx","bucket":"internal_protocol"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-flt3-diff-dcs-protocol-docx","bucket":"internal_protocol"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-efficient-transplantation-via-antibody-based-clearance-pdf","bucket":"off_topic"}
+  ],
+  "notes": "1 new page (Wang 2018 PD-1+GITR MPEC). 29 sha-dupes of existing pages. 6 reclassified."
+}

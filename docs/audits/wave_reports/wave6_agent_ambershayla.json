@@ -1,0 +1,174 @@
+{
+  "agent": "amber-g-shayla-mixed-wave6",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 40,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-nrx-0485356-001-cn-preparative-method-docx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate-edited-pptx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate-pptx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate2-pptx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-powerpoints-nrx-5127-method-pptx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-powerpoints-virscidianworkflow-pptx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-purification-lit-club2-pptx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-bmax-kd-0-1-mg-ml-docx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-bmax-kd-docx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-koff-method-docx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-project-summaries-skin-protein-binding-details-docx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-power-degraders-docx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-things-to-be-wrapped-up-july2023-docx",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-23-08-22-31-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-24-11-12-42-checktune-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-main-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk1-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk2-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk3-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-2-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-main-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk1-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk2-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk3-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-2-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-checkout-uvwfc-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-fluidx-sample-storage-catalogue-aug-2017-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-hw-diag-dad-wavelength-cal-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-neg10k-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-neg5k-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-pos10k-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-pos5k-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-neg-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-pos-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-autotune-neg-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-autotune-pos-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-checkout-uvwfc-pdf",
+      "bucket": "mechanical-or-duplicate"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-fluidx-sample-storage-catalogue-aug-2017-pdf",
+      "bucket": "mechanical-or-duplicate"
+    }
+  ],
+  "deferred_candidates": [
+    "virscidian-aspro-htp-workflow",
+    "melanin-binding-assay sources",
+    "chiral-sfc-purification sources"
+  ],
+  "notes": "Mostly Agilent SFC tune reports + duplicate backups + posters in wrong dir. 3 source-append candidates for existing pages flagged for future absorption."
+}

@@ -1,0 +1,327 @@
+{
+  "assignment": "amber-g-shayla-mixed-wave6",
+  "wiki_dir": "methods",
+  "wave": "wave6",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-nrx-0485356-001-cn-preparative-method-docx",
+      "sha16": "6b2cafac4d751685",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-nrx-0485356-001-cn-preparative-method-docx.md",
+      "title": "NRX-0485356-001-CN Preparative Method",
+      "source_id": "Analytical Chemistry/Shayla - Public/NRX-0485356-001-CN Preparative Method.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate-edited-pptx",
+      "sha16": "4f63df36039a86d6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate-edited-pptx.md",
+      "title": "PurificationPosterTemplate-Edited",
+      "source_id": "Analytical Chemistry/Shayla - Public/Poster 2024/PurificationPosterTemplate-Edited.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate-pptx",
+      "sha16": "5c1b3e1189debf30",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate-pptx.md",
+      "title": "PurificationPosterTemplate",
+      "source_id": "Analytical Chemistry/Shayla - Public/Poster 2024/PurificationPosterTemplate.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate2-pptx",
+      "sha16": "993a92dbe14c069c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate2-pptx.md",
+      "title": "PurificationPosterTemplate2",
+      "source_id": "Analytical Chemistry/Shayla - Public/Poster 2024/PurificationPosterTemplate2.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-powerpoints-nrx-5127-method-pptx",
+      "sha16": "b3d298581d4ddbd2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-powerpoints-nrx-5127-method-pptx.md",
+      "title": "NRX-5127 Method",
+      "source_id": "Analytical Chemistry/Shayla - Public/Powerpoints/NRX-5127 Method.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-powerpoints-virscidianworkflow-pptx",
+      "sha16": "ee386d39ebd13de4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-powerpoints-virscidianworkflow-pptx.md",
+      "title": "VirscidianWorkflow",
+      "source_id": "Analytical Chemistry/Shayla - Public/Powerpoints/VirscidianWorkflow.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-purification-lit-club2-pptx",
+      "sha16": "a1b13b8bd924a70c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-purification-lit-club2-pptx.md",
+      "title": "Purification Lit Club2",
+      "source_id": "Analytical Chemistry/Shayla - Public/Purification Lit Club2.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-bmax-kd-0-1-mg-ml-docx",
+      "sha16": "54b9168cd5e633de",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-bmax-kd-0-1-mg-ml-docx.md",
+      "title": "Melanin binding Bmax Kd 0.1 mg-mL",
+      "source_id": "Analytical Chemistry/Mitchell L - Public/Melanin/Melanin binding Bmax Kd 0.1 mg-mL.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-bmax-kd-docx",
+      "sha16": "6f613d502b6339cd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-bmax-kd-docx.md",
+      "title": "Melanin binding Bmax Kd",
+      "source_id": "Analytical Chemistry/Mitchell L - Public/Melanin/Melanin binding Bmax Kd.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-koff-method-docx",
+      "sha16": "a73024eb7b3fd204",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-koff-method-docx.md",
+      "title": "Melanin binding Koff Method",
+      "source_id": "Analytical Chemistry/Mitchell L - Public/Melanin/Melanin binding Koff Method.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-project-summaries-skin-protein-binding-details-docx",
+      "sha16": "5df4966e7e3ab4b3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-mitchell-l---public-project-summaries-skin-protein-binding-details-docx.md",
+      "title": "Skin Protein Binding Details",
+      "source_id": "Analytical Chemistry/Mitchell L - Public/Project Summaries/Skin Protein Binding Details.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-power-degraders-docx",
+      "sha16": "19ac65d0c04a9434",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-miscellaneous-power-degraders-docx.md",
+      "title": "Power degraders",
+      "source_id": "Analytical Chemistry/Shayla - Public/Miscellaneous/Power degraders.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-things-to-be-wrapped-up-july2023-docx",
+      "sha16": "920546c3a01ec93f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-miscellaneous-things-to-be-wrapped-up-july2023-docx.md",
+      "title": "Things to be wrapped up-July2023",
+      "source_id": "Analytical Chemistry/Shayla - Public/Miscellaneous/Things to be wrapped up-July2023.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-23-08-22-31-pdf",
+      "sha16": "09460e0df523c101",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-23-08-22-31-pdf.md",
+      "title": "23 08_22_31",
+      "source_id": "Analytical Chemistry/Amber G - Public/23 08_22_31.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-24-11-12-42-checktune-pdf",
+      "sha16": "fd25a628135a4993",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-24-11-12-42-checktune-pdf.md",
+      "title": "24 11_12_42_checktune",
+      "source_id": "Analytical Chemistry/Amber G - Public/24 11_12_42_checktune.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-main-pdf",
+      "sha16": "e1765c33a6f58e21",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-main-pdf.md",
+      "title": "2127 stage 1_MAIN",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/2127 stage 1_MAIN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pdf",
+      "sha16": "571dcefbefd6b6dd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pdf.md",
+      "title": "2127 stage 1",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/2127 stage 1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk1-pdf",
+      "sha16": "3b83fe676a24bbc5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk1-pdf.md",
+      "title": "2127 stage 1_PK1",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/2127 stage 1_PK1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk2-pdf",
+      "sha16": "8f23445ca7e4a0c0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk2-pdf.md",
+      "title": "2127 stage 1_PK2",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/2127 stage 1_PK2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk3-pdf",
+      "sha16": "2cde7babe55e914a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk3-pdf.md",
+      "title": "2127 stage 1_PK3",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/2127 stage 1_PK3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-2-pdf",
+      "sha16": "b5cb16d0e8ef199f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-2-pdf.md",
+      "title": "2127 stage 2",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/2127 stage 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-main-pdf",
+      "sha16": "e1765c33a6f58e21",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-main-pdf.md",
+      "title": "2127 stage 1_MAIN",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/2127 stage 1_MAIN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pdf",
+      "sha16": "571dcefbefd6b6dd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pdf.md",
+      "title": "2127 stage 1",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/2127 stage 1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk1-pdf",
+      "sha16": "3b83fe676a24bbc5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk1-pdf.md",
+      "title": "2127 stage 1_PK1",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/2127 stage 1_PK1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk2-pdf",
+      "sha16": "8f23445ca7e4a0c0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk2-pdf.md",
+      "title": "2127 stage 1_PK2",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/2127 stage 1_PK2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk3-pdf",
+      "sha16": "2cde7babe55e914a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk3-pdf.md",
+      "title": "2127 stage 1_PK3",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/2127 stage 1_PK3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-2-pdf",
+      "sha16": "b5cb16d0e8ef199f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-2-pdf.md",
+      "title": "2127 stage 2",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/2127 stage 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-checkout-uvwfc-pdf",
+      "sha16": "f4389b75efb72ef2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-checkout-uvwfc-pdf.md",
+      "title": "Checkout_UVwFC",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Checkout_UVwFC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-fluidx-sample-storage-catalogue-aug-2017-pdf",
+      "sha16": "6bda1359d37f3bb8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-fluidx-sample-storage-catalogue-aug-2017-pdf.md",
+      "title": "fluidX Sample Storage Catalogue_Aug 2017",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/fluidX Sample Storage Catalogue_Aug 2017.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-hw-diag-dad-wavelength-cal-pdf",
+      "sha16": "8a945bfbd9b33e73",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-hw-diag-dad-wavelength-cal-pdf.md",
+      "title": "dad wavelength cal",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/hw diag/dad wavelength cal.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-neg10k-pdf",
+      "sha16": "d0703770f7e42c1d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-neg10k-pdf.md",
+      "title": "Atune_FS_neg10k",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Tune Reports/Atune_FS_neg10k.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-neg5k-pdf",
+      "sha16": "65cec5cb370d1e59",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-neg5k-pdf.md",
+      "title": "Atune_FS_neg5k",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Tune Reports/Atune_FS_neg5k.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-pos10k-pdf",
+      "sha16": "5b888d3710f1001d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-pos10k-pdf.md",
+      "title": "Atune_FS_pos10k",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Tune Reports/Atune_FS_pos10k.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-pos5k-pdf",
+      "sha16": "6fa1a52615d9500f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-pos5k-pdf.md",
+      "title": "Atune_FS_pos5k",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Tune Reports/Atune_FS_pos5k.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-neg-pdf",
+      "sha16": "467e9ea8e41b644b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-neg-pdf.md",
+      "title": "Atune_Neg",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Tune Reports/Atune_Neg.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-pos-pdf",
+      "sha16": "c06112ae7b3a31e4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-pos-pdf.md",
+      "title": "Atune_Pos",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Tune Reports/Atune_Pos.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-autotune-neg-pdf",
+      "sha16": "0a3303d464cdd149",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-autotune-neg-pdf.md",
+      "title": "Autotune_Neg",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Tune Reports/Autotune_Neg.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-autotune-pos-pdf",
+      "sha16": "c56ba6f6e376af88",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-autotune-pos-pdf.md",
+      "title": "Autotune_Pos",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/BACKUP/DESKTOP/Tune Reports/Autotune_Pos.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-checkout-uvwfc-pdf",
+      "sha16": "f4389b75efb72ef2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-checkout-uvwfc-pdf.md",
+      "title": "Checkout_UVwFC",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/Checkout_UVwFC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-fluidx-sample-storage-catalogue-aug-2017-pdf",
+      "sha16": "6bda1359d37f3bb8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-amber-g---public-agilent-dump-fluidx-sample-storage-catalogue-aug-2017-pdf.md",
+      "title": "fluidX Sample Storage Catalogue_Aug 2017",
+      "source_id": "Analytical Chemistry/Amber G - Public/AGILENT DUMP/fluidX Sample Storage Catalogue_Aug 2017.pdf",
+      "confidence": "low"
+    }
+  ]
+}

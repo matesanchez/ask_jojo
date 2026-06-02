@@ -1,0 +1,122 @@
+{
+  "agent": "breanna-c-wave6",
+  "pages": [],
+  "n_covered": 1,
+  "n_reclassed": 27,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-backup-data-20220916-nrx-0404048-003-cn-quantitation-and-salt-eq-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-backup-breanna-c-assays-backup-data-20220916-nrx-0404048-003-cn-quantitation-and-salt-eq-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-sn05-sn05-9min-10ul-test3-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk-26-smarca2-ksol-smarca2-pbs-sgf-n-a-200ugml-1-verapamil-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-wk17-hpk1-fassif-fessif-pbs-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk24-wk24-cdk12-cr-2680-wk24-cdk12-cr-2680-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk29-usp18-snf07-wk29-snf07-gly-buffer-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-bcatenin-pbs-sif-sgf-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-hpk1-pbs-sif-sgf-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-stat6-pbs-sif-sgf-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-2024-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fassgf-1-0l-07jun2024-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fassgf-1-0l-23feb2024-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fessif-0-25l-22feb2024-1-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fessif-v2-1-0l-09mar2023-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-tecan-plate-reader-tecan-data-files-bc-plate-reader-11-aug-2-066285c74f",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-tecan-plate-reader-tecan-data-files-bc-plate-reader-4-aug-20-44fa855520",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-tecan-plate-reader-tecan-data-files-bc-plate-reader-early-ex-9c7ea0a657",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk08---stat6-bcl-hpk1-20240306-wk09-logd-stat6-hpk1-bcl-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk19---bcl-stat6-20240612-logd-bcl-stat6-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk19---bcl-stat6-take-2-20240612-logd-bcl-stat6-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk19---bcl-stat6-take-3-20240612-logd-bcl-stat6-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk20---stat6-20240626-logd-stat6-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-log-sheets-assay-request-and-information-log-docx",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-dfa---dose-formulation-analysis-wk25-braf-result-mur041nrx-and-mur042nrx-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-dfa---dose-formulation-analysis-wk25-braf-result-mur041nrx-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-spectramax-plate-reader-pka-pdf",
+      "bucket": "mechanical"
+    }
+  ],
+  "deferred_candidates": [
+    "compound-management-ksol-logd-logistics",
+    "dfa-dose-formulation-analysis"
+  ],
+  "cross_link_recommendations": "8 LogD reference papers + 1 CAD method-transfer poster need cross-linking to existing hplc-logd-and-lipophilicity-methods + hplc-cad-quantitation-and-counterion-ic pages.",
+  "notes": "Mostly mechanical Chromeleon/Tecan runs. 2 candidates flagged, 1 sha already covered."
+}

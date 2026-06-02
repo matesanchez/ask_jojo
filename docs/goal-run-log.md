@@ -389,3 +389,4 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - 2026-06-01 wave3: +49 absorbed, +87 reclassified; 20 pages
 - 2026-06-01 wave4: +136 absorbed, +69 reclassified; 18 pages
 - 2026-06-01 wave5: +108 absorbed, +131 reclassified; 21 pages
+- 2026-06-01 wave6: +8 absorbed, +190 reclassified; 1 pages

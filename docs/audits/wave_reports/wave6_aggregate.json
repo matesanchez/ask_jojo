@@ -1,0 +1,838 @@
+{
+  "wave": "wave6",
+  "agents": [
+    {
+      "agent": "alexandra-t-wave6",
+      "pages": [],
+      "n_covered": 0,
+      "n_reclassed": 40,
+      "agent_returned_plan_not_writes": true,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-degradation-kinetics-acschembio-0c00380-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-targeted-protein-degradation--from-chemical-biology-to-2017-cell-chemical-bi-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-targeted-protein-degradation-in-vivo-with-proteolysis--2019-drug-discovery-t-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-the-advantages-of-targeted-protein-degradation-over-inhi-2018-cell-chemical--pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-projects-hpk1-nrx-0472260-method-docx",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-sciex-os-license-sciex-os-3-1-6-instrument-settings-converter-instrument-settings-converter-rel-a827c8feef",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-ibn-25feb2022-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-ibn-25feb2022-table-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-ibn-minus-blank-1-peaks-25feb2022-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-ibn-minus-blank-1-peaks-25feb2022-table-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-whelk-o1-25feb2022-minus-blank-4-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-whelk-o1-25feb2022-minus-blank-4-table-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-whelk-o1-25feb2022-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-25feb2022-nx2127-5ul-whelk-o1-25feb2022-table-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-waters-acquity-ac-atf-nx2127-purity-03march2022-nx2127-030322-zoom-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-analyst-data-jan-2023-projects-api-instrument-fsdc-data-customer-system-information-b8cfb9966d",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-analyst-data-jan-2023-projects-api-instrument-fsdc-data-installation-data-report-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-clean-qjet-6-19-2024-msms-pos-ppg-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-clean-qjet-6-19-2024-q1-pos-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-clean-qjet-6-19-2024-q3-pos-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-mass-rail-4-25-2024-lm-msms-pos-ppg-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-mass-rail-4-25-2024-lm-q1-pos-ppg-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-mass-rail-4-25-2024-lm-q1-pos-ppg-200-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-mass-rail-4-25-2024-lm-q3-pos-ppg-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-rail-4-30-2024-lm-q1-pos-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-rail-4-30-2024-lm-q3-pos-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-65-d-drive-july-2024-support-cmion-repair-clean-rail-4-30-2024-msms-pos-ppg-10-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-12248-2009-article-9103-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-1414-431x-bjmbr-1414-431x20165646-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2006-review-invitro-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2016-nonclin-part2-andrade-et-al-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2018-in4braintargeting-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2020-az-pk-predictions-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2020daneliusetal-solconformations-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2020ding-bbbtransport-nanp-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-2021-rweready-jimenez-et-al-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-4-453-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-40262-2015-article-351-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-a-review-on-self-emulsified-drug-deliver-1-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-alexandra-t---public-bibliography-abbvie-pk-pdf",
+          "bucket": "deferred-bibliography-or-mechanical"
+        }
+      ],
+      "notes": "Agent returned plan to enrich targeted-protein-degradation.md (4 TPD papers) + adme-assay-principles (13 DMPK refs) + create protac-in-vivo-pk-pd-principles.md, but NO actual writes happened. 23 entries planned reclassified as per_compound_mechanical / instrument_maintenance / software_vendor_docs."
+    },
+    {
+      "agent": "amber-g-shayla-mixed-wave6",
+      "pages": [],
+      "n_covered": 0,
+      "n_reclassed": 40,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-nrx-0485356-001-cn-preparative-method-docx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate-edited-pptx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate-pptx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-poster-2024-purificationpostertemplate2-pptx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-powerpoints-nrx-5127-method-pptx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-powerpoints-virscidianworkflow-pptx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-purification-lit-club2-pptx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-bmax-kd-0-1-mg-ml-docx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-bmax-kd-docx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-melanin-melanin-binding-koff-method-docx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-mitchell-l---public-project-summaries-skin-protein-binding-details-docx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-power-degraders-docx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-things-to-be-wrapped-up-july2023-docx",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-23-08-22-31-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-24-11-12-42-checktune-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-main-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk1-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk2-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-1-pk3-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-2127-stage-2-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-main-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk1-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk2-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-1-pk3-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-2127-stage-2-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-checkout-uvwfc-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-fluidx-sample-storage-catalogue-aug-2017-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-hw-diag-dad-wavelength-cal-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-neg10k-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-neg5k-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-pos10k-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-fs-pos5k-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-neg-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-atune-pos-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-autotune-neg-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-backup-desktop-tune-reports-autotune-pos-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-checkout-uvwfc-pdf",
+          "bucket": "mechanical-or-duplicate"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-amber-g---public-agilent-dump-fluidx-sample-storage-catalogue-aug-2017-pdf",
+          "bucket": "mechanical-or-duplicate"
+        }
+      ],
+      "deferred_candidates": [
+        "virscidian-aspro-htp-workflow",
+        "melanin-binding-assay sources",
+        "chiral-sfc-purification sources"
+      ],
+      "notes": "Mostly Agilent SFC tune reports + duplicate backups + posters in wrong dir. 3 source-append candidates for existing pages flagged for future absorption."
+    },
+    {
+      "agent": "breanna-c-wave6",
+      "pages": [],
+      "n_covered": 1,
+      "n_reclassed": 27,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-backup-data-20220916-nrx-0404048-003-cn-quantitation-and-salt-eq-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-backup-breanna-c-assays-backup-data-20220916-nrx-0404048-003-cn-quantitation-and-salt-eq-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-sn05-sn05-9min-10ul-test3-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk-26-smarca2-ksol-smarca2-pbs-sgf-n-a-200ugml-1-verapamil-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk17-wk17-hpk1-fassif-fessif-pbs-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk24-wk24-cdk12-cr-2680-wk24-cdk12-cr-2680-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk29-usp18-snf07-wk29-snf07-gly-buffer-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-bcatenin-pbs-sif-sgf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-hpk1-pbs-sif-sgf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2023-ksol-data-wk32-irf5-hpk1-bcatenin-pbs-raw-data-wk32-stat6-pbs-sif-sgf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-2024-2024-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fassgf-1-0l-07jun2024-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fassgf-1-0l-23feb2024-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fessif-0-25l-22feb2024-1-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-fassif-fessif-fassgf-and-v2s-fessif-v2-1-0l-09mar2023-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-tecan-plate-reader-tecan-data-files-bc-plate-reader-11-aug-2-066285c74f",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-tecan-plate-reader-tecan-data-files-bc-plate-reader-4-aug-20-44fa855520",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-tecan-plate-reader-tecan-data-files-bc-plate-reader-early-ex-9c7ea0a657",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk08---stat6-bcl-hpk1-20240306-wk09-logd-stat6-hpk1-bcl-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk19---bcl-stat6-20240612-logd-bcl-stat6-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk19---bcl-stat6-take-2-20240612-logd-bcl-stat6-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk19---bcl-stat6-take-3-20240612-logd-bcl-stat6-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-2024-logd-data-wk20---stat6-20240626-logd-stat6-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-log-sheets-assay-request-and-information-log-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-dfa---dose-formulation-analysis-wk25-braf-result-mur041nrx-and-mur042nrx-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-dfa---dose-formulation-analysis-wk25-braf-result-mur041nrx-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-ksol---kinetic-solubility-plate-reader-spectramax-plate-reader-pka-pdf",
+          "bucket": "mechanical"
+        }
+      ],
+      "deferred_candidates": [
+        "compound-management-ksol-logd-logistics",
+        "dfa-dose-formulation-analysis"
+      ],
+      "cross_link_recommendations": "8 LogD reference papers + 1 CAD method-transfer poster need cross-linking to existing hplc-logd-and-lipophilicity-methods + hplc-cad-quantitation-and-counterion-ic pages.",
+      "notes": "Mostly mechanical Chromeleon/Tecan runs. 2 candidates flagged, 1 sha already covered."
+    },
+    {
+      "agent": "jon-k-extended-wave6",
+      "pages": [],
+      "n_covered": 0,
+      "n_reclassed": 37,
+      "deferred_candidates": [
+        "massfrontier-fish-fragment-ion-search",
+        "nx-1607-nrx-0473911-rat-pk-study",
+        "pierce-bca-protein-assay"
+      ],
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0472603-004-aa-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0472603-004-aa-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0472604-003-aa-no-highlighted-text-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0472604-003-aa-no-highlighted-text-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-003-aa-updated-template-jk-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-003-aa-updated-template-jk-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-004-aa-updated-template-jk-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-1-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-1-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-final-1-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-final-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-final-no-highlight-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-final-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0473911-012-aa-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0488122-002-cn-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx-0488122-002-cn-modified-ew-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx0477062-002-aa-updated-template-jk-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx0477062-002-aa-updated-template-jk-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-certificate-of-testing-nrx0477062-003-aa-updated-template-jk-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-cot-nrx-0468599-004-aq-updated-template-with-ic-2-jk-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-chs-help-firew-40f3e81370",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-chs-help-ossettings-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-enu-help-firew-62e1fe9326",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-enu-help-ossettings-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-jpn-help-firew-58765b2119",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-jpn-help-ossettings-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0465304-002-aa-cot-jk-bc-1-1-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0465304-002-aa-cot-jk-bc-1-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0467993-001-cf-cot-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0472091-002-aa-cot-jk-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-0473911-012-aa-uv-254nm-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-04793911-016-uv-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-8599-004-aq-quantiation-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nrx-8599-009-purity-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-quantitationdataset-10-1-docx",
+          "bucket": "mechanical"
+        }
+      ],
+      "notes": "0 pages written. 37 mechanical CoT/CoA/install-guide PDFs reclassified. 3 candidates flagged for future absorption."
+    },
+    {
+      "agent": "jose-gomez-extended-wave6",
+      "pages": [
+        "ask_jojo_wiki/references/wang-2018-pd-1-gitr-mpec.md"
+      ],
+      "n_covered": 29,
+      "n_reclassed": 6,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-seq21-sq1066-42-mouse-tumors-rnaseq-novaseq-final-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-cell-therapy-in-vivo-program-18oct21-pptx",
+          "bucket": "internal_data"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-a-causal-mechanism-for-childhood-acute-lymphoblastic-leukaemia-pdf",
+          "bucket": "off_topic"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-dc-cell-protocol-docx",
+          "bucket": "internal_protocol"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-flt3-diff-dcs-protocol-docx",
+          "bucket": "internal_protocol"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-24jan21-efficient-transplantation-via-antibody-based-clearance-pdf",
+          "bucket": "off_topic"
+        }
+      ],
+      "notes": "1 new page (Wang 2018 PD-1+GITR MPEC). 29 sha-dupes of existing pages. 6 reclassified."
+    },
+    {
+      "agent": "jose-l-extended-wave6",
+      "pages": [],
+      "n_covered": 0,
+      "n_reclassed": 40,
+      "agent_returned_plan_not_writes": true,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-chiralseparations-methodsinmolecularbiology970137-163-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-automation-manuals-using-labware-in-your-protocols-opentrons-help-center-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-automation-manuals-write-and-simulate-protocols-on-windows-10-opentrons-help-center-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-008-tartrate-rml-forms-rml-gc-form-2017-nx-160-3763885d52",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-008-tartrate-rml-forms-rml-general-analysis-re-f6c381fa75",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-008-tartrate-rml-forms-rml-thermal-form-2017-n-bea25a2384",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-009-tartrate-rml-forms-rml-gc-form-2017-nx-160-49e07a6941",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-009-tartrate-rml-forms-rml-general-analysis-re-7510e86b06",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-009-tartrate-rml-forms-rml-thermal-form-2017-n-efc5302226",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-gc-form-2017-nx-1607-010-aa-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-general-analysis-request-2d76bac34d",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-thermal-form-2017-nx-1607-010-aa-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-crl-ref-01187010-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log20031c-001-certificate-of-te-2605c48839",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log20031c-001-certificate-of-te-3e99b61b69",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log20031c-002-certificate-of-te-4cbec50fb8",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log20031c-002-certificate-of-te-4edc3c127d",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log2004c1-001-certificate-of-te-4d1afe37ff",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log2004c1-001-certificate-of-te-f34c13ae03",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log2004c1-002-certificate-of-te-1ac8f8e28f",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-crl-dk-nx-1607-log2004c1-002-certificate-of-te-ee20e66afd",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-003-aa-nx-1647-lot-003-beh-c18-lc-uv-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1647-003-aa-nx-1647-lot-003-csh-c18-lc-uv-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-007-aa-nrx-0401650-007-aa-certificate-of-testing-v01-docx",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-007-aa-nx-1650-lot-007-beh-c18-lc-uv-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-nrx-0401650-008-aa-certificate-of-testing-v01-docx",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-nrx-0401650-008-aa-lc-uv-ms-spectra-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-nx-1650-008-aa-certificate-of-testing---signed-5c8f057905",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-nx-1650-lot-006-beh-c18-lc-uv-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-nx-1650-lot-006-csh-c18-lc-uv-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-15oct2021-nrx-0392127-019-aq-v2-nx-2127-019-aq-certifi-6a9bd515e2",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-nx-2127-019-aq-behc18-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-nx-2127-019-aq-certificate-of-testing-v-ba4f253f82",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-nx-2127-019-aq-certificate-of-testing-v02-docx",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-nx-2127-019-aq-csh-c18-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-rml-forms-rml-gc-form-2017-nx-2127-019-aq-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-rml-forms-rml-general-analysis-request-9c4f999d67",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-rml-forms-rml-thermal-form-2017-nx-2127-019-aq-pdf",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-nrx-0404422-007-aa-certificate-of-an-3e9bb06271",
+          "bucket": "deferred-lot-documentation"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-nrx-0404422-007-aa-certificate-of-an-7a534ebfab",
+          "bucket": "deferred-lot-documentation"
+        }
+      ],
+      "notes": "Agent returned detailed page plan (7 candidate pages: chiral-CSP, Opentrons, NX-1607 RML, NX-1607 CRL, NX-1647, NX-1650, NX-4422; plus 8 entries to attach to existing nx-2127 page) but did NOT actually write any pages. All 40 entries flagged as lot-documentation candidates needing future absorption."
+    }
+  ]
+}
