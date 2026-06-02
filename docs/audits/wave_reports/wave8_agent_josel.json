@@ -1,0 +1,17 @@
+{
+  "agent": "jose-l-bibliography-retry-wave8",
+  "pages": [
+    "ask_jojo_wiki/references/nx-5948-009-aa-certificate-of-testing.md",
+    "ask_jojo_wiki/references/nx-5948-013-aa-ames-ivmn-certificate-of-analysis.md",
+    "ask_jojo_wiki/references/nx-5948-003-aa-certificate-of-testing.md",
+    "ask_jojo_wiki/references/nx-5948-20-oc-fp-345-certificate-of-testing.md",
+    "ask_jojo_wiki/references/nx-5948-nrx-05-46-cot.md",
+    "ask_jojo_wiki/references/nx-4422-ames-lot-chromatograms.md",
+    "ask_jojo_wiki/references/nrx-0388766-010-aa-key-compound-characterization.md",
+    "ask_jojo_wiki/references/nrx-0388766-aa-007-nmr.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "8 new reference pages covering NX-5948 lot CoTs (4 lots), NX-5948 NRX-05-46 CoT, NX-4422 AMES lot chromatograms, NRX-0388766 key compound characterization, NRX-0388766 NMR."
+}

@@ -1,0 +1,30 @@
+{
+  "agent": "low-conf-bibliography-wave8",
+  "pages": [
+    "ask_jojo_wiki/references/nx-1607-ct26-checkpoint-combination-sows.md",
+    "ask_jojo_wiki/references/nx-1607-4t1-combination-in-vivo-sows.md",
+    "ask_jojo_wiki/references/ot-1-cd8-act-expansion-and-rechallenge.md",
+    "ask_jojo_wiki/references/mek-cd8-t-cell-memory-stem-cells.md",
+    "ask_jojo_wiki/references/nx-1607-cblb-dc-differentiation-nv609.md"
+  ],
+  "n_covered": 24,
+  "n_reclassed": 16,
+  "reclassified_out": [
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-interview-notes-for-immunology-phd-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-the-atlantic-readings-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interview-notes-for-immunology-phd-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-the-atlantic-readings-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interview-notes-for-immunology-phd-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-the-atlantic-readings-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-pdx-models-for-immuno-oncology-docx","bucket":"unreadable"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-mount-sinai-phd-immunology-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-phd-immunology-murium-merad-bio-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-short-bio-for-inspriation-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-immunotherapeutics-video-advance-immunology-session-docx","bucket":"personal-lecture-notes"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rna-expression-profiling-of-tumor-biopsies-material-and-methods-docx","bucket":"thin-fragment"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-mount-sinai-phd-immunology-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-phd-immunology-murium-merad-bio-docx","bucket":"personal"},
+    {"entry_id":"publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-short-bio-for-inspriation-docx","bucket":"personal"}
+  ],
+  "notes": "5 new reference pages (CT26 checkpoint SOWs, 4T1 SOWs, OT-1 ACT, MEK CD8 memory, NV609 DC). 16 personal/grad-school/lecture-notes/thin-fragment entries dropped."
+}

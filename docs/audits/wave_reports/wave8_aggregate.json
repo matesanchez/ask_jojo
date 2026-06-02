@@ -1,0 +1,348 @@
+{
+  "wave": "wave8",
+  "agents": [
+    {
+      "agent": "jon-k-retry-wave8",
+      "pages": [
+        "ask_jojo_wiki/methods/rp-c18-cad-quantitation-method-2025.md"
+      ],
+      "n_covered": 1,
+      "n_reclassed": 39,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-20250602-db-compound-qc-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-20250701-2603-uv-purity-97-5-and-tic-identification-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-jkeller-nrx-0464972-004-aq-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-jkeller-nrx-0473911-008-aa-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0473275-001-aa-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0475810-001-aa-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0490756-001-cf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0490803-001-cf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0490805-001-cf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0490806-001-cf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0496320-001-cn-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0496326-001-cf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0496343-001-cf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0496368-001-cf-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0496376-001-cn-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ar-015222-nrx-0496389-001-cn-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0485398-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0485399-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0485400-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0485402-1-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0485402-13-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0485403-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0486278-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0486279-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0486280-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0486284-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0486289-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-nrx-0486290-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-certificate-of-testing-nrx-0440305-020-aa-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-certificate-of-testing-nrx-0468535-006-aa-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-certificate-of-testing-nrx-0488122-002-cn-modified-ew-v2-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-certificate-of-testing-nrx-0498399-010-aa-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-coa-raw-data-jkeller-nrx-0478599-011-aa-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-analysis-nrx-0392127-022-aa-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-analysis-nrx-0468599-011-aa-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-analysis-nrx-0468599-011-aa-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-20230402-current-analytical-chemistry-assay-parameters-docx",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-quant-10-2-quant-10-2-additional-schema-quantitationdataset-10-1-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-20250626-el-impurity-separation-and-quantitation-pdf",
+          "bucket": "mechanical"
+        }
+      ],
+      "notes": "1 new page (RP-C18 CAD quantitation method 2025). 39 mechanical CoT/CoA/PDF outputs reclassified."
+    },
+    {
+      "agent": "jose-l-bibliography-retry-wave8",
+      "pages": [
+        "ask_jojo_wiki/references/nx-5948-009-aa-certificate-of-testing.md",
+        "ask_jojo_wiki/references/nx-5948-013-aa-ames-ivmn-certificate-of-analysis.md",
+        "ask_jojo_wiki/references/nx-5948-003-aa-certificate-of-testing.md",
+        "ask_jojo_wiki/references/nx-5948-20-oc-fp-345-certificate-of-testing.md",
+        "ask_jojo_wiki/references/nx-5948-nrx-05-46-cot.md",
+        "ask_jojo_wiki/references/nx-4422-ames-lot-chromatograms.md",
+        "ask_jojo_wiki/references/nrx-0388766-010-aa-key-compound-characterization.md",
+        "ask_jojo_wiki/references/nrx-0388766-aa-007-nmr.md"
+      ],
+      "n_covered": 40,
+      "n_reclassed": 0,
+      "reclassified_out": [],
+      "notes": "8 new reference pages covering NX-5948 lot CoTs (4 lots), NX-5948 NRX-05-46 CoT, NX-4422 AMES lot chromatograms, NRX-0388766 key compound characterization, NRX-0388766 NMR."
+    },
+    {
+      "agent": "lcms-checkpoint-cbl-retry-wave8",
+      "pages": [
+        "ask_jojo_wiki/equipment/waters-autopurification-system.md",
+        "ask_jojo_wiki/methods/uplc-long-method-conditions.md"
+      ],
+      "n_covered": 22,
+      "n_reclassed": 18,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-1-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-2-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-3-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-4-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-10-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-11-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-12-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-13-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-14-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-15-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-16-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-17-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-18-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-19-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-20-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-21-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-22-lcms-pdf",
+          "bucket": "mechanical"
+        },
+        {
+          "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-23-lcms-pdf",
+          "bucket": "mechanical"
+        }
+      ],
+      "notes": "2 new pages (Waters AutoPurification system equipment, UPLC long method). 18 JLB-207-404 sample-level Agilent LCMS crude QC runs reclassified. 20 CBL-B/checkpoint sha-dupes covered."
+    },
+    {
+      "agent": "low-conf-bibliography-wave8",
+      "pages": [
+        "ask_jojo_wiki/references/nx-1607-ct26-checkpoint-combination-sows.md",
+        "ask_jojo_wiki/references/nx-1607-4t1-combination-in-vivo-sows.md",
+        "ask_jojo_wiki/references/ot-1-cd8-act-expansion-and-rechallenge.md",
+        "ask_jojo_wiki/references/mek-cd8-t-cell-memory-stem-cells.md",
+        "ask_jojo_wiki/references/nx-1607-cblb-dc-differentiation-nv609.md"
+      ],
+      "n_covered": 24,
+      "n_reclassed": 16,
+      "reclassified_out": [
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-interview-notes-for-immunology-phd-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-the-atlantic-readings-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interview-notes-for-immunology-phd-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-the-atlantic-readings-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interview-notes-for-immunology-phd-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-the-atlantic-readings-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-pdx-models-for-immuno-oncology-docx",
+          "bucket": "unreadable"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-mount-sinai-phd-immunology-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-phd-immunology-murium-merad-bio-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-short-bio-for-inspriation-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-immunotherapeutics-video-advance-immunology-session-docx",
+          "bucket": "personal-lecture-notes"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rna-expression-profiling-of-tumor-biopsies-material-and-methods-docx",
+          "bucket": "thin-fragment"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-mount-sinai-phd-immunology-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-phd-immunology-murium-merad-bio-docx",
+          "bucket": "personal"
+        },
+        {
+          "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-graduate-medical-school-short-bio-for-inspriation-docx",
+          "bucket": "personal"
+        }
+      ],
+      "notes": "5 new reference pages (CT26 checkpoint SOWs, 4T1 SOWs, OT-1 ACT, MEK CD8 memory, NV609 DC). 16 personal/grad-school/lecture-notes/thin-fragment entries dropped."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "agent": "lcms-checkpoint-cbl-retry-wave8",
+  "pages": [
+    "ask_jojo_wiki/equipment/waters-autopurification-system.md",
+    "ask_jojo_wiki/methods/uplc-long-method-conditions.md"
+  ],
+  "n_covered": 22,
+  "n_reclassed": 18,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-1-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-2-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-3-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-4-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-10-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-11-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-12-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-13-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-14-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-15-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-16-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-17-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-18-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-19-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-20-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-21-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-22-lcms-pdf",
+      "bucket": "mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-23-lcms-pdf",
+      "bucket": "mechanical"
+    }
+  ],
+  "notes": "2 new pages (Waters AutoPurification system equipment, UPLC long method). 18 JLB-207-404 sample-level Agilent LCMS crude QC runs reclassified. 20 CBL-B/checkpoint sha-dupes covered."
+}
