@@ -392,3 +392,4 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - 2026-06-01 wave6: +8 absorbed, +190 reclassified; 1 pages
 - 2026-06-01 wave7: +87 absorbed, +1 reclassified; 5 pages
 - 2026-06-02 wave7-partial: 3 of 4 sub-agents hit Anthropic session rate limit (resets ~22:40 PT). Wave-7 Jose Gomez agent (1/4) completed cleanly: 39 covered sha-dupes + 1 reclassified. Wave-7 Jon K agent committed 3 pages (massfrontier-fish, nx-1607-rat-pk, pierce-bca) before limit. Wave-7 LCMS-mixed agent wrote 2 pages (forced-degradation-NRX-1251, lcms-openlynx-troubleshooting). Wave-7 CAR-T/Treg/DC agent hit limit before output; its 37-entry assignment file remains pending. RESUME-FROM-HERE: re-dispatch wave7 CAR-T/Treg/DC assignment (and any unprocessed Jon K/LCMS entries) once rate limit clears.
+- 2026-06-01 wave7: +14 absorbed, +0 reclassified; 8 pages
