@@ -1,0 +1,11 @@
+{
+  "agent": "jose-gomez-low-conf-wave12",
+  "pages": [
+    "ask_jojo_wiki/references/lit-survey-dc-hematopoietic-biology.md",
+    "ask_jojo_wiki/references/nx-1607-murigenics-in-vivo-sow-template.md"
+  ],
+  "n_covered": 3,
+  "n_reclassed": 37,
+  "reclassified_out": [],
+  "notes": "1 new lit-survey (DC hematopoietic biology) + 1 SOW page enriched. 37 reclassified: 8 personal-financial, 5 vendor docs, 7 personal-coursework, 12 off-topic, 5 sha-duplicates."
+}

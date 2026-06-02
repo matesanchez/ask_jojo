@@ -1,0 +1,14 @@
+{
+  "agent": "jose-l-wave12",
+  "pages": [
+    "ask_jojo_wiki/references/medchem-pka-potentiometric-series-2019.md",
+    "ask_jojo_wiki/references/nrx-0388766-aa-005-purity-report.md",
+    "ask_jojo_wiki/references/nrx-0390255-aa-004-purity-report.md",
+    "ask_jojo_wiki/references/nrx-0390255-aa-006-purity-chromatograms.md",
+    "ask_jojo_wiki/references/nrx-0390492-006-aa-purity-chromatograms.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "5 new pages (medchem pKa potentiometric series 2019, 4 lot purity reports). 21 absorbed newly + 19 covered by existing pages."
+}

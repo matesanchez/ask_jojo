@@ -1,0 +1,169 @@
+{
+  "agent": "low-conf-jon-k-wave12",
+  "pages": [],
+  "n_covered": 0,
+  "n_reclassed": 40,
+  "reclassified_out": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-employee-assistance-resources-1-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-employee-assistance-resources-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-fassgf-1-0l-08oct2024-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-fassif-1-0l-26sep2024-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-fassif-v2-0-25l-12feb2025-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-fassif-v2-1-1l-26sep2024-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-freestyle-1-8-sp2-qf1-freestyle-1-8-sw-release-certificate-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-freestyle-1-8-sp2-qf1-freestyle-user-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-freestyle-1-8-sp2-qf1-freestyle1-8sp2-qf1-relnotes-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-jb-eln-126-2095-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-joseph-collins-2024-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-jpm5876-1-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-jpm5876-2-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-jpm5876-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-03-mass-frontier-8-1-user-guide-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-04-auto-annotation-of-spec-53a3f534e7",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-05-curate-spectral-trees-f-1e1a0c4e98",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-06-save-components-to-spec-43b22e046b",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-08-identify-unknowns-by-li-f6cf2e0c17",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-manuals-09-identify-unknowns-by-li-ccc3336d62",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-massfrontier-8-1-massfrontier-8-1-rtm-mass-frontier-8-1-installation-ins-9c98a9bc0a",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-ml300326v-si-001-1-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-ml300326v-si-001-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-molecular-properties-including-chameleonicity-as-e-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-motorcycle-2018-suzuki-gsxr1000-declaration-of-coverage-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-motorcycle-coverage-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-mzvault-2-3-sp1-mzvault-2-3-sp1-mzvault-quickstart-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-mzvault-2-3-sp1-mzvault-2-3-sp1-mzvault-user-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-mzvault-2-3-sp1-mzvault-2-3-sp1-mzvault23sp1-relnotes-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-mzvault-2-3-sp1-mzvault-2-3-sp1-xcali-96042-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nano-quantity-analyse-detector-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nsa-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nurix-therapeutics-inc-cpq-00666567-rev-1-00-1-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nurix-therapeutics-inc-cpq-00666567-rev-1-00-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-nurix-therapeutics-inc-cpq-00666917-rev-1-00-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-onedrive-1-6-17-2025-email-20250617-2603-17-1-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-onedrive-1-6-17-2025-email-20250617-2604-18-1-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-onedrive-1-6-17-2025-email-20250617-2606-19-1-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-plrp-epsa-hydrogen-bond-pdf",
+      "bucket": "personal-or-mechanical"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-policy-contract---5980-02-19-pdf",
+      "bucket": "personal-or-mechanical"
+    }
+  ],
+  "notes": "All 40 reclassified: 6 personal docs, 3 vendor quotes, 15 vendor software manuals, 1 chromatogram, 4 media prep recipes, 3 email PDFs, 8 external literature (Fukazawa NSA x4, chameleonicity, IMHB/EPSA, pKa UV SI x2). Per generous-reclassify directive."
+}

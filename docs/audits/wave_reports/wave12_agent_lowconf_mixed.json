@@ -1,0 +1,13 @@
+{
+  "agent": "low-conf-mixed-wave12",
+  "pages": [
+    "ask_jojo_wiki/references/protein-quantitation-lc-ms-bibliography.md",
+    "ask_jojo_wiki/references/pharmacometrics-pk-pd-modeling-bibliography.md",
+    "ask_jojo_wiki/references/analytical-chemistry-bibliography-misc-2021.md",
+    "ask_jojo_wiki/references/lipid-based-oral-delivery-bibliography.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "3 new bibliography pages (protein quant LC-MS, pharmacometrics PK/PD, AC misc 2021) + 1 updated (lipid-based oral delivery). All 40 covered."
+}
