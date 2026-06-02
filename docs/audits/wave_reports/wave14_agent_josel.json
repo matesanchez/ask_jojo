@@ -1,0 +1,11 @@
+{
+  "agent": "jose-l-wave14",
+  "pages": [
+    "ask_jojo_wiki/methods/nmr-shimming-procedure-bruker.md",
+    "ask_jojo_wiki/references/nrx-0474-2017-jg-stability-calibration-series.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "2 new pages (NMR shimming procedure, NRX-0474 2017 JG stability calibration series). 38 sha-duplicates of existing lot-characterization pages."
+}

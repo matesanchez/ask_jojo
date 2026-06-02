@@ -1,0 +1,11 @@
+{
+  "agent": "jose-gomez-low-conf-wave14",
+  "pages": [
+    "ask_jojo_wiki/references/lit-survey-cd8-til-exhaustion-costimulation.md",
+    "ask_jojo_wiki/references/active-motif-single-cell-multiome-quote.md"
+  ],
+  "n_covered": 2,
+  "n_reclassed": 38,
+  "reclassified_out": [],
+  "notes": "2 existing pages enriched. 38 reclassified: 7 personal receipts, 3 tax/financial, 4 personal-admin, 8 art-class-admin, 3 vendor-admin, 1 image-only, 3 SARS-CoV-2 papers (off-topic), 4 other off-topic biology, 1 reagent UG. Note: Many of these were already reclassified in prior wave-9/12 attempts."
+}

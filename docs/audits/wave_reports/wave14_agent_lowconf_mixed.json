@@ -1,0 +1,12 @@
+{
+  "agent": "low-conf-mixed-wave14",
+  "pages": [
+    "ask_jojo_wiki/references/lcgc-north-america-2021-bibliography.md",
+    "ask_jojo_wiki/references/pd-by-lcms-normalization-housekeeping-peptides.md",
+    "ask_jojo_wiki/references/analytical-chemistry-instruments-and-drivers.md"
+  ],
+  "n_covered": 40,
+  "n_reclassed": 0,
+  "reclassified_out": [],
+  "notes": "2 new + 1 updated. LCGC 2021 bibliography, PD by LCMS normalization, AC instruments/drivers update."
+}

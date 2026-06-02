@@ -1,0 +1,327 @@
+{
+  "assignment": "low-conf-jon-k-wave14",
+  "wiki_dir": "references",
+  "wave": "wave14",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-mzvault23-relnotes-pdf",
+      "sha16": "fa925485e4f6e597",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-mzvault23-relnotes-pdf.md",
+      "title": "mzVault23_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Documentation/mzVault23_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-tracefinder5-1-sp3-3e720a865d",
+      "sha16": "8e6d2ce29ec13b9a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-tracefinder5-1-sp3-3e720a865d.md",
+      "title": "TraceFinder5.1_SP3_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Documentation/TraceFinder5.1_SP3_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-xcalibur44-relnotes-pdf",
+      "sha16": "776b1c13aeb3a2f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-documentation-xcalibur44-relnotes-pdf.md",
+      "title": "Xcalibur44_RelNotes",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Documentation/Xcalibur44_RelNotes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-adm-365a62b749",
+      "sha16": "c2f349e8cdf5e075",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-adm-365a62b749.md",
+      "title": "Administrator",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Clinical/Administrator.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-qui-0054751e25",
+      "sha16": "9c5281bc6db181a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-qui-0054751e25.md",
+      "title": "QuickRef_Acquisition",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Clinical/QuickRef_Acquisition.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-qui-99b38bb47d",
+      "sha16": "6bd19efdd853b68f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-qui-99b38bb47d.md",
+      "title": "QuickRef_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Clinical/QuickRef_Analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-qui-d474d8da01",
+      "sha16": "e8d8f88c15f59c05",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-qui-d474d8da01.md",
+      "title": "QuickRef_Shortcuts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Clinical/QuickRef_Shortcuts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-tra-115face9ee",
+      "sha16": "ce5612c413215284",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-tra-115face9ee.md",
+      "title": "TraceFinder_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Clinical/TraceFinder_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-tra-3b7c9460be",
+      "sha16": "070096d6836176b0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-tra-3b7c9460be.md",
+      "title": "TraceFinder_LabDirector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Clinical/TraceFinder_LabDirector.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-tra-5cdefdc64e",
+      "sha16": "9c131413c9ba7455",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-clinical-tra-5cdefdc64e.md",
+      "title": "TraceFinder_Install",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Clinical/TraceFinder_Install.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-administrator-pdf",
+      "sha16": "c2f349e8cdf5e075",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-administrator-pdf.md",
+      "title": "Administrator",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/EFS/Administrator.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-quickref-079498d2ef",
+      "sha16": "93c278e534473526",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-quickref-079498d2ef.md",
+      "title": "QuickRef_Shortcuts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/EFS/QuickRef_Shortcuts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-quickref-660c9e8cfa",
+      "sha16": "f10c62a8e760c6b6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-quickref-660c9e8cfa.md",
+      "title": "QuickRef_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/EFS/QuickRef_Analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-quickref-d1c522bbe2",
+      "sha16": "0485e90cc0e74572",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-quickref-d1c522bbe2.md",
+      "title": "QuickRef_Acquisition",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/EFS/QuickRef_Acquisition.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-tracefin-49df3b3e4a",
+      "sha16": "9c131413c9ba7455",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-tracefin-49df3b3e4a.md",
+      "title": "TraceFinder_Install",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/EFS/TraceFinder_Install.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-tracefin-d083b69f9c",
+      "sha16": "409d7c4533bb0738",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-tracefin-d083b69f9c.md",
+      "title": "TraceFinder_LabDirector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/EFS/TraceFinder_LabDirector.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-tracefin-f2d06cca2a",
+      "sha16": "9292f8ec66cc5a2b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-efs-tracefin-f2d06cca2a.md",
+      "title": "TraceFinder_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/EFS/TraceFinder_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-adm-17321daebc",
+      "sha16": "c2f349e8cdf5e075",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-adm-17321daebc.md",
+      "title": "Administrator",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Forensic/Administrator.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-qui-36c41b1df3",
+      "sha16": "760d80727f8b27bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-qui-36c41b1df3.md",
+      "title": "QuickRef_Acquisition",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Forensic/QuickRef_Acquisition.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-qui-59e82e0e41",
+      "sha16": "b99901c185db2db6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-qui-59e82e0e41.md",
+      "title": "QuickRef_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Forensic/QuickRef_Analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-qui-b9025e029b",
+      "sha16": "c92377c8860982d7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-qui-b9025e029b.md",
+      "title": "QuickRef_Shortcuts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Forensic/QuickRef_Shortcuts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-tra-01529cb9c7",
+      "sha16": "c4be03725ff47470",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-tra-01529cb9c7.md",
+      "title": "TraceFinder_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Forensic/TraceFinder_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-tra-375f0d513a",
+      "sha16": "72fc6830da1c0eb5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-tra-375f0d513a.md",
+      "title": "TraceFinder_LabDirector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Forensic/TraceFinder_LabDirector.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-tra-aaf004ef8c",
+      "sha16": "9c131413c9ba7455",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-forensic-tra-aaf004ef8c.md",
+      "title": "TraceFinder_Install",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/Forensic/TraceFinder_Install.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-admi-2d2f70ff45",
+      "sha16": "c2f349e8cdf5e075",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-admi-2d2f70ff45.md",
+      "title": "Administrator",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/General/Administrator.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-quic-9c96a18dd5",
+      "sha16": "ed68bc0d9e825310",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-quic-9c96a18dd5.md",
+      "title": "QuickRef_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/General/QuickRef_Analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-quic-a3b6eeac90",
+      "sha16": "9fb0e6893f90f2c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-quic-a3b6eeac90.md",
+      "title": "QuickRef_Shortcuts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/General/QuickRef_Shortcuts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-quic-b57e4e29ae",
+      "sha16": "9e59473b8301fba4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-quic-b57e4e29ae.md",
+      "title": "QuickRef_Acquisition",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/General/QuickRef_Acquisition.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-trac-3638121700",
+      "sha16": "f6c8bda6c5aa5f60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-trac-3638121700.md",
+      "title": "TraceFinder_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/General/TraceFinder_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-trac-7e46b8c67e",
+      "sha16": "21e84a78eb609268",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-trac-7e46b8c67e.md",
+      "title": "TraceFinder_LabDirector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/General/TraceFinder_LabDirector.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-trac-abc1567048",
+      "sha16": "9c131413c9ba7455",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-exampledata-manuals-general-trac-abc1567048.md",
+      "title": "TraceFinder_Install",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/ExampleData/Manuals/General/TraceFinder_Install.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-administrator-pdf",
+      "sha16": "c2f349e8cdf5e075",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-administrator-pdf.md",
+      "title": "Administrator",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Clinical/Administrator.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-quickref-acquisition-pdf",
+      "sha16": "9c5281bc6db181a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-quickref-acquisition-pdf.md",
+      "title": "QuickRef_Acquisition",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Clinical/QuickRef_Acquisition.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-quickref-analysis-pdf",
+      "sha16": "6bd19efdd853b68f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-quickref-analysis-pdf.md",
+      "title": "QuickRef_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Clinical/QuickRef_Analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-quickref-shortcuts-pdf",
+      "sha16": "e8d8f88c15f59c05",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-quickref-shortcuts-pdf.md",
+      "title": "QuickRef_Shortcuts",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Clinical/QuickRef_Shortcuts.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-tracefinder-lab-398cecae1a",
+      "sha16": "070096d6836176b0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-tracefinder-lab-398cecae1a.md",
+      "title": "TraceFinder_LabDirector",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Clinical/TraceFinder_LabDirector.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-tracefinder-user-pdf",
+      "sha16": "ce5612c413215284",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-clinical-tracefinder-user-pdf.md",
+      "title": "TraceFinder_User",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/Clinical/TraceFinder_User.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-administrator-pdf",
+      "sha16": "c2f349e8cdf5e075",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-administrator-pdf.md",
+      "title": "Administrator",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/EFS/Administrator.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-quickref-acquisition-pdf",
+      "sha16": "0485e90cc0e74572",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-quickref-acquisition-pdf.md",
+      "title": "QuickRef_Acquisition",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/EFS/QuickRef_Acquisition.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-quickref-analysis-pdf",
+      "sha16": "f10c62a8e760c6b6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-downloads-tracefinder-5-1-sp3-tracefinder-5-1-sp3-manuals-efs-quickref-analysis-pdf.md",
+      "title": "QuickRef_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/Downloads/TraceFinder 5.1 SP3/TraceFinder 5.1 SP3/Manuals/EFS/QuickRef_Analysis.pdf",
+      "confidence": "low"
+    }
+  ]
+}
