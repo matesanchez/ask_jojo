@@ -406,3 +406,4 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - 2026-06-03 wave18: +18 absorbed, +190 reclassified; 7 pages (cd47-sirpa, il2-cd8-stemness, cd8-t-cell-stemness-memory, cytokine-cell-therapy, nx-1607-4t1-study, plasma-stability-ot2-automation, ksol-opentrons-automation). Remaining KP: 2737 (364 high).
 - 2026-06-03 wave19: +38 absorbed, +97 reclassified; 12 pages (PPB-UC, TPD-lit x3, immune-bio x3, jose-gomez-5). Remaining KP: 2602 (260 high, 2311 low).
 - 2026-06-03 wave20: +12 absorbed, +228 reclassified; 5 pages (flt3-aml-lit, t-cell-act-checkpoint, charles-river-adme, spe-peptide-btk, dose-formulation-dfa). Remaining KP: 2362 (143 high, 2206 low).
+- 2026-06-03 wave21: +5 absorbed, +235 reclassified; 1 page (lsd1-kdm1a-hematopoiesis). Reviewer gate PASS (minor: hash field format, 3 unsourced terms). Remaining KP: 2122 (63 high, 2046 low).
