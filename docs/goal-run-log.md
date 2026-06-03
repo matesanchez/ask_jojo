@@ -403,3 +403,4 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - 2026-06-01 wave15: +82 absorbed, +40 reclassified; 9 pages
 - 2026-06-03 wave16: +10 absorbed, +150 reclassified; 3 pages (lit-survey-sars-cov2-t-cell-cross-reactivity, xcalibur-lc-ms-data-system, thermo-foundation-platform). Remaining KP: 3138 (765 high).
 - 2026-06-03 wave17: +50 absorbed, +143 reclassified; 12 pages (ctla4/checkpoint, chemotherapy-checkpoint, novel-checkpoint, pd1-il2-cd8-reprogramming, cbl-b-tcr-signaling, lsd1-epigenetic-immuno, checkpoint-combination, nrx-0260474/0261152-stability, nrx-0388766-metid, icb-resistance, chiral-sfc update). Remaining KP: 2945 (572 high).
+- 2026-06-03 wave18: +18 absorbed, +190 reclassified; 7 pages (cd47-sirpa, il2-cd8-stemness, cd8-t-cell-stemness-memory, cytokine-cell-therapy, nx-1607-4t1-study, plasma-stability-ot2-automation, ksol-opentrons-automation). Remaining KP: 2737 (364 high).
