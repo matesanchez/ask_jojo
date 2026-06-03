@@ -411,3 +411,4 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - 2026-06-03 wave23: +0 absorbed, +280 reclassified; 0 pages. Remaining KP: 1619 (all low-conf).
 - 2026-06-03 wave24: +9 absorbed, +271 reclassified; 5 pages (systemic-immune-macroenvironment, lsd1-mhc-i-antigen-sclc, htd-ppb-automation, hplc-standard-mix, tlr9-innate-immunity-lit). Remaining KP: 1339.
 - 2026-06-03 wave25: +0 absorbed, +280 reclassified; 0 pages. Remaining KP: 1059.
+- 2026-06-03 wave26-28: +3 absorbed, +797 reclassified; 3 pages (hpk1-si-2020-lit, ot2-buffer-addition, knauer-80p-sensor). Remaining KP: 259.
