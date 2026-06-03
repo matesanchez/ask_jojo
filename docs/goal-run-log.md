@@ -407,3 +407,4 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - 2026-06-03 wave19: +38 absorbed, +97 reclassified; 12 pages (PPB-UC, TPD-lit x3, immune-bio x3, jose-gomez-5). Remaining KP: 2602 (260 high, 2311 low).
 - 2026-06-03 wave20: +12 absorbed, +228 reclassified; 5 pages (flt3-aml-lit, t-cell-act-checkpoint, charles-river-adme, spe-peptide-btk, dose-formulation-dfa). Remaining KP: 2362 (143 high, 2206 low).
 - 2026-06-03 wave21: +5 absorbed, +235 reclassified; 1 page (lsd1-kdm1a-hematopoiesis). Reviewer gate PASS (minor: hash field format, 3 unsourced terms). Remaining KP: 2122 (63 high, 2046 low).
+- 2026-06-03 wave22: +0 absorbed, +223 reclassified; 0 pages. HIGH-CONF POOL CLEARED. Remaining KP: 1899 (all low-conf).
