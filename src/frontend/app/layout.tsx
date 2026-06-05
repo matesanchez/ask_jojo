@@ -1,22 +1,17 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { IBM_Plex_Sans, IBM_Plex_Mono } from "next/font/google";
+// Self-hosted IBM Plex (bundled at build via @fontsource - no network / Google Fonts needed).
+import "@fontsource/ibm-plex-sans/400.css";
+import "@fontsource/ibm-plex-sans/500.css";
+import "@fontsource/ibm-plex-sans/600.css";
+import "@fontsource/ibm-plex-sans/700.css";
+import "@fontsource/ibm-plex-mono/400.css";
+import "@fontsource/ibm-plex-mono/500.css";
+import "@fontsource/ibm-plex-mono/600.css";
 import "./globals.css";
 import NavLinks from "./NavLinks";
 import ThemeToggle from "./ThemeToggle";
 
-const plexSans = IBM_Plex_Sans({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  variable: "--font-plex-sans",
-  display: "swap",
-});
-const plexMono = IBM_Plex_Mono({
-  subsets: ["latin"],
-  weight: ["400", "500", "600"],
-  variable: "--font-plex-mono",
-  display: "swap",
-});
 
 export const metadata: Metadata = {
   title: "JoJo Bot v2.0",
@@ -32,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${plexSans.variable} ${plexMono.variable}`}>
+    <html lang="en">
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeInit }} />
       </head>

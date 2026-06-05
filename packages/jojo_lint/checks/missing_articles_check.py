@@ -11,8 +11,9 @@ from pathlib import Path
 from ._util import iter_wiki_pages, parse_frontmatter
 from .base import CheckResult
 
-# Simple word tokenizer for manifest titles — reuse jojo_qa's tokenize pattern
-_TOKEN_RE = re.compile(r"[A-Za-z0-9][A-Za-z0-9\-]+")
+# Word-level tokenizer: split on hyphens / non-alphanumerics so a title word
+# like "bacmid" matches a compound slug such as "baculovirus-2-bacmid-prep-qc".
+_TOKEN_RE = re.compile(r"[a-z0-9]{2,}")
 
 
 def _load_manifest_titles(manifest_path: Path) -> list[str]:
@@ -60,13 +61,14 @@ def run(
     wiki_root = Path(wiki_root)
     start = time.monotonic()
 
-    # Collect known slugs
-    known_slugs: set[str] = set()
+    # Word-level set of all slug tokens (split on hyphens), so a manifest title
+    # word matches even when the topic lives inside a compound slug.
+    known_slug_words: set[str] = set()
     for page_path in iter_wiki_pages(wiki_root):
         fm, _ = parse_frontmatter(page_path)
         slug = fm.get("slug")
         if slug:
-            known_slugs.add(str(slug).lower())
+            known_slug_words |= set(_TOKEN_RE.findall(str(slug).lower()))
 
     candidates: list[dict] = []
 
@@ -77,7 +79,7 @@ def run(
             for title in titles:
                 # Tokenize the title and check if any token matches a slug
                 tokens = _TOKEN_RE.findall(title.lower())
-                matched = any(tok in known_slugs for tok in tokens)
+                matched = any(tok in known_slug_words for tok in tokens)
                 if not matched and tokens:
                     candidates.append(
                         {

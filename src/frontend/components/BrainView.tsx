@@ -65,23 +65,23 @@ interface WikiStats {
 }
 
 // ---------------------------------------------------------------------------
-// Type-color palette (Karpathy minimalist monochrome accents)
+// Type-color palette (vibrant accents on deep navy; brand-cohesive)
 // ---------------------------------------------------------------------------
 
 const TYPE_COLORS: Record<string, string> = {
-  programs: "#4a90d9",
-  targets: "#e07b54",
-  methods: "#5cb85c",
-  platforms: "#9b59b6",
-  concepts: "#e8c84a",
-  decisions: "#e74c3c",
-  equipment: "#1abc9c",
-  references: "#95a5a6",
-  protocols: "#f39c12",
-  output: "#888888",
+  programs: "#4f9dff",
+  targets: "#ff7a45",
+  methods: "#4ade80",
+  platforms: "#c084fc",
+  concepts: "#fbbf24",
+  decisions: "#f87171",
+  equipment: "#2dd4bf",
+  references: "#a8b4c8",
+  protocols: "#fb923c",
+  output: "#a78bfa",
 };
 
-const DEFAULT_COLOR = "#888888";
+const DEFAULT_COLOR = "#8b97ad";
 
 function typeColor(type: string): string {
   return TYPE_COLORS[type] ?? DEFAULT_COLOR;
@@ -368,7 +368,7 @@ export default function BrainView({ highlight = "" }: BrainViewProps) {
       const renderer = new THREE.WebGLRenderer({ antialias: true });
       renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
       renderer.setSize(W, H);
-      renderer.setClearColor(0x0d0d0d, 1);
+      renderer.setClearColor(0x0a1026, 1);  // deep Nurix navy
       mount.appendChild(renderer.domElement);
       rendererRef.current = renderer;
 
@@ -469,8 +469,8 @@ export default function BrainView({ highlight = "" }: BrainViewProps) {
       const sphereMat = new THREE.MeshStandardMaterial({
         metalness: 0.3,
         roughness: 0.6,
-        emissive: new THREE.Color(0x222222),
-        emissiveIntensity: 0.3,
+        emissive: new THREE.Color(0x16213e),
+        emissiveIntensity: 0.5,
       });
       const count = data.nodes.length;
       const instancedMesh = new THREE.InstancedMesh(sphereGeo, sphereMat, count);

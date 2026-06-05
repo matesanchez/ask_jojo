@@ -85,3 +85,4 @@ ask_jojo_raw/
 ops/validation/reports/*.md
 ops/validation/reports/*.log
 !ops/validation/reports/.gitkeep
+*.zip

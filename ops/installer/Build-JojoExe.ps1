@@ -136,6 +136,15 @@ if ($SkipFrontend -and (Test-Path $frontendOut)) {
 Write-Host "[3/4] Running PyInstaller..." -ForegroundColor Cyan
 $specFile = Join-Path $PSScriptRoot "JojoBot.spec"
 
+# Pre-clean previous output. PyInstaller cleanup (shutil.rmtree) chokes on the
+# read-only git objects left when a prior build bundled wiki/raw .git folders;
+# rmdir /s /q force-removes them.
+$distJojo = Join-Path $RepoRoot "dist\JojoBot"
+if (Test-Path $distJojo) {
+    Write-Host "  Pre-cleaning previous dist\JojoBot ..." -ForegroundColor DarkGray
+    cmd /c "rmdir /s /q `"$distJojo`"" 2>$null
+}
+
 Push-Location $RepoRoot
 try {
     $prevEAP2 = $ErrorActionPreference; $ErrorActionPreference = "Continue"
@@ -158,7 +167,7 @@ Write-Host "  [ok] JojoBot.exe produced" -ForegroundColor Green
 Write-Host "[4/4] Copying knowledge base..." -ForegroundColor Cyan
 $distDir = Join-Path $RepoRoot "dist\JojoBot"
 
-# Wiki (always included — this IS the Q&A memory, ~1 MB)
+# Wiki (always included - this IS the Q&A memory, ~1 MB)
 $wikiResolved = $null
 try { $wikiResolved = (Resolve-Path $WikiRoot -ErrorAction Stop).Path } catch {}
 if ($wikiResolved -and (Test-Path $wikiResolved)) {
@@ -166,16 +175,17 @@ if ($wikiResolved -and (Test-Path $wikiResolved)) {
     Write-Host "  Copying wiki ($wikiResolved) ..."
     if (Test-Path $wikiDst) { Remove-Item $wikiDst -Recurse -Force }
     Copy-Item $wikiResolved $wikiDst -Recurse
+    Remove-Item (Join-Path $wikiDst ".git") -Recurse -Force -ErrorAction SilentlyContinue  # do not ship git history; read-only objects break rebuild cleanup
     $wikiMB = [math]::Round(
         (Get-ChildItem $wikiDst -Recurse | Measure-Object -Property Length -Sum).Sum / 1MB, 1
     )
-    Write-Host "  [ok] Wiki copied ($wikiMB MB) → $wikiDst" -ForegroundColor Green
+    Write-Host "  [ok] Wiki copied ($wikiMB MB) -> $wikiDst" -ForegroundColor Green
 } else {
-    Write-Host "  [warn] ask_jojo_wiki not found at '$WikiRoot' — skipping" -ForegroundColor Yellow
+    Write-Host "  [warn] ask_jojo_wiki not found at '$WikiRoot' - skipping" -ForegroundColor Yellow
     Write-Host "         Q&A will work but wiki pages will be empty." -ForegroundColor DarkGray
 }
 
-# Raw files (optional; can be large — 10-50+ GB)
+# Raw files (optional; can be large - 10-50+ GB)
 if (-not $SkipRaw) {
     $rawResolved = $null
     try { $rawResolved = (Resolve-Path $RawRoot -ErrorAction Stop).Path } catch {}
@@ -185,13 +195,14 @@ if (-not $SkipRaw) {
         $rawGB = [math]::Round(
             (Get-ChildItem $rawResolved -Recurse | Measure-Object -Property Length -Sum).Sum / 1GB, 2
         )
-        Write-Host "  Copying raw files ($rawGB GB, $rawFileCount files) — this may take several minutes ..."
+        Write-Host "  Copying raw files ($rawGB GB, $rawFileCount files) - this may take several minutes ..."
         Write-Host "  Source: $rawResolved"
         if (Test-Path $rawDst) { Remove-Item $rawDst -Recurse -Force }
         Copy-Item $rawResolved $rawDst -Recurse
-        Write-Host "  [ok] Raw files copied ($rawGB GB) → $rawDst" -ForegroundColor Green
+        Remove-Item (Join-Path $rawDst ".git") -Recurse -Force -ErrorAction SilentlyContinue  # do not ship git history
+        Write-Host "  [ok] Raw files copied ($rawGB GB) -> $rawDst" -ForegroundColor Green
     } else {
-        Write-Host "  [warn] ask_jojo_raw not found at '$RawRoot' — skipping" -ForegroundColor Yellow
+        Write-Host "  [warn] ask_jojo_raw not found at '$RawRoot' - skipping" -ForegroundColor Yellow
         Write-Host "         Raw tab will be empty; use -RawRoot to specify a different path." -ForegroundColor DarkGray
     }
 } else {

@@ -94,7 +94,7 @@ def _rebuild_via_graphify(wiki_root: Path, out_dir: Path) -> GraphArtifacts:
     """Spawn the graphify CLI. Falls back to ``_rebuild_fallback`` on error."""
     cmd = ["graphify", "build", str(wiki_root), "--output", str(out_dir)]
     try:
-        subprocess.run(cmd, check=True, capture_output=True, timeout=600)  # noqa: S603
+        subprocess.run(cmd, check=True, capture_output=True, timeout=600, creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))  # noqa: S603
     except (subprocess.CalledProcessError, subprocess.TimeoutExpired, FileNotFoundError):
         # graphify failed; fall back to the deterministic builder so the
         # Graph tab still has *something* to show.

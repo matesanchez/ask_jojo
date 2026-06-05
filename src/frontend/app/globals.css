@@ -4,9 +4,9 @@
    Brand identity preserved: Nurix navy (hue ~262) + gold (hue ~80).
    ============================================================================ */
 :root {
-  /* Type (families injected on <html> by next/font) */
-  --font-sans: var(--font-plex-sans), ui-sans-serif, system-ui, -apple-system, sans-serif;
-  --font-mono: var(--font-plex-mono), ui-monospace, "SF Mono", Consolas, monospace;
+  /* Type (IBM Plex self-hosted via @fontsource; see app/layout.tsx) */
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Consolas, monospace;
   --measure: 70ch;
 
   /* Brand - constant across themes */

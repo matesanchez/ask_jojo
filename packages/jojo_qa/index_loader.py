@@ -60,6 +60,14 @@ _INDEX_LINE_RE = re.compile(
 # "## Concept" -> "Concept" -> normalized "concept".
 _TYPE_HEADER_RE = re.compile(r"^##\s+(?P<type>[A-Za-z][A-Za-z0-9\- ]*)\s*$")
 
+# Tolerant entry parsing: the wikilink and the page path may be on the same
+# line (canonical compile-pipeline form) OR on two lines (rebuild-script form:
+#   - [[slug|Title]] (corpus, confidence) aliases: [...]
+#     _concepts\\slug.md_  ). Capture slug/title from the wikilink, then find
+# the .md path in backticks or italics on the same or next couple of lines.
+_WIKILINK_RE = re.compile(r"\[\[(?P<slug>[^|\]]+)(?:\|(?P<title>[^\]]+))?\]\]")
+_PATH_TOKEN_RE = re.compile(r"[`_](?P<path>[^`_\n]+?\.md)[`_]")
+
 
 @dataclass(frozen=True)
 class IndexEntry:
@@ -191,24 +199,29 @@ def load_index(
     entries: list[IndexEntry] = []
     current_type = ""
 
-    for raw_line in text.splitlines():
+    lines = text.splitlines()
+    for i, raw_line in enumerate(lines):
         type_m = _TYPE_HEADER_RE.match(raw_line)
         if type_m:
             current_type = type_m.group("type").strip().lower()
             continue
-        line_m = _INDEX_LINE_RE.match(raw_line)
-        if line_m and current_type:
-            slug = line_m.group("slug").strip()
-            title = (line_m.group("title") or slug).strip()
-            path = line_m.group("path").strip()
-            entries.append(
-                IndexEntry(
-                    slug=slug,
-                    title=title,
-                    path=path,
-                    type=current_type,
-                )
-            )
+        wl = _WIKILINK_RE.search(raw_line)
+        if not wl:
+            continue
+        slug = wl.group("slug").strip()
+        title = (wl.group("title") or slug).strip()
+        # Find the page path in backticks/italics on this line or the next two.
+        path = ""
+        for cand in (raw_line, *(lines[i + 1 : i + 3])):
+            pm = _PATH_TOKEN_RE.search(cand)
+            if pm:
+                path = pm.group("path").strip().replace("\\", "/")
+                break
+        if not path:
+            continue
+        entries.append(
+            IndexEntry(slug=slug, title=title, path=path, type=current_type)
+        )
 
     if enrich:
         entries = [_enrich_from_page(wiki_root, e) for e in entries]
@@ -260,14 +273,25 @@ def entries_by_slug_grouped(
 
 
 def _tokenize(text: str) -> set[str]:
-    """Cheap tokenizer: lowercased word-boundary tokens, length >= 2."""
-    return {
-        t for t in re.findall(r"[A-Za-z0-9][A-Za-z0-9\-]+", text.lower())
-        if len(t) >= 2
-    }
+    """Lowercased tokens of length >= 2, split on ANY non-alphanumeric
+    (including hyphens) so a query word like ``bacmid`` matches a compound
+    slug/title token such as ``baculovirus-2-bacmid-prep-qc`` / ``2-Bacmid``."""
+    return set(re.findall(r"[a-z0-9]{2,}", text.lower()))
 
 
-def _score(entry: IndexEntry, q_tokens: set[str]) -> int:
+def _entry_field_tokens(entry: "IndexEntry") -> tuple[set[str], set[str], set[str], set[str], set[str]]:
+    """Tokenized (slug, title, alias, type, tag) field sets for an entry."""
+    alias: set[str] = set()
+    for a in entry.aliases:
+        alias |= _tokenize(a)
+    tags: set[str] = set()
+    for tg in entry.tags:
+        tags |= _tokenize(tg)
+    return (_tokenize(entry.slug), _tokenize(entry.title), alias,
+            _tokenize(entry.type), tags)
+
+
+def _score(entry: IndexEntry, q_tokens: set[str], idf: dict[str, float]) -> float:
     """Score one entry against the question's token set.
 
     Heuristic:
@@ -286,28 +310,21 @@ def _score(entry: IndexEntry, q_tokens: set[str]) -> int:
     the index was loaded with ``enrich=True``. Unenriched entries score
     against slug + title + type only (preserving prior behavior).
     """
-    slug_tokens = _tokenize(entry.slug)
-    title_tokens = _tokenize(entry.title)
-    type_tokens = _tokenize(entry.type)
-    alias_tokens: set[str] = set()
-    for a in entry.aliases:
-        alias_tokens |= _tokenize(a)
-    tag_tokens: set[str] = set()
-    for t in entry.tags:
-        tag_tokens |= _tokenize(t)
+    slug_tokens, title_tokens, alias_tokens, type_tokens, tag_tokens = _entry_field_tokens(entry)
 
-    score = 0
+    score = 0.0
     for tok in q_tokens:
+        w = idf.get(tok, 1.0)  # rarer query terms (high idf) dominate common ones
         if tok in slug_tokens:
-            score += 3
+            score += 3 * w
         if tok in title_tokens:
-            score += 2
+            score += 2 * w
         if tok in alias_tokens:
-            score += 2
+            score += 2 * w
         if tok in type_tokens:
-            score += 1
+            score += 1 * w
         if tok in tag_tokens:
-            score += 1
+            score += 1 * w
     return score
 
 
@@ -326,15 +343,28 @@ def rank_candidates(
     consumer is expected to fall back to the raw-search path if the
     candidate list is empty.
     """
+    import math
+
+    entries = list(entries)
     q_tokens = _tokenize(question)
     if not q_tokens:
         return []
 
-    scored: list[tuple[int, int, IndexEntry]] = []
+    # Document frequency across all entries -> IDF, so distinctive query
+    # terms (e.g. "bacmid", "irak4") outweigh corpus-common ones
+    # (e.g. "purification", "protein", "sop").
+    df: dict[str, int] = {}
+    for entry in entries:
+        slug, title, alias, typ, tags = _entry_field_tokens(entry)
+        for tok in slug | title | alias | typ | tags:
+            df[tok] = df.get(tok, 0) + 1
+    n = len(entries) or 1
+    idf = {tok: math.log((n + 1) / (c + 1)) + 1.0 for tok, c in df.items()}
+
+    scored: list[tuple[float, int, IndexEntry]] = []
     for i, entry in enumerate(entries):
-        s = _score(entry, q_tokens)
+        s = _score(entry, q_tokens, idf)
         if s > 0:
-            # Negate the index for stable sort (lower index wins on tie).
             scored.append((-s, i, entry))
 
     scored.sort()

@@ -47,15 +47,14 @@ from typing import Literal
 V1_KEYWORDS: tuple[str, ...] = (
     "akta",
     "unicorn",
-    "chromatograph",
-    "purif",
-    "buffer",
 )
 
-# "chromatograph" and "purif" are prefix stems — they should match
-# "chromatography", "chromatographic", "purification", "purified" etc.
-# Exact-word keywords ("akta", "unicorn", "buffer") keep both boundaries.
-_STEM_KEYWORDS: frozenset[str] = frozenset({"chromatograph", "purif"})
+# Only the legacy v1.0 AKTA/UNICORN chromatography SYSTEM routes to v1.
+# General protein-science terms (purification, buffer, chromatography) were
+# removed 2026-06-05: the v2 wiki now holds extensive Protein Sciences SOP
+# content on exactly those topics, so questions about them must be answered
+# from the wiki rather than deflected to the legacy system.
+_STEM_KEYWORDS: frozenset[str] = frozenset()
 
 _V1_PATTERN: re.Pattern[str] = re.compile(
     "|".join(
@@ -179,10 +178,16 @@ def classify(
                 override_matched=True,
             )
 
-    # 3. v1 keyword matched, no override fired -> v1 route.
+    # v1 routing retired (2026-06-05): v2 is the single, all-encompassing
+    # knowledge surface. Even when legacy AKTA/UNICORN keywords match, the
+    # route stays "wiki" -- nothing is deflected to the legacy system.
+    # matched_keywords is still reported for the UI badge / debugging.
     return RouterResult(
-        route="v1",
-        reason=f"matched v1 trigger keyword(s): {', '.join(matches)}",
+        route="wiki",
+        reason=(
+            f"answered from the wiki (legacy keyword(s) {', '.join(matches)} no longer deflect)"
+            if matches else "answered from the wiki"
+        ),
         matched_keywords=matches,
     )
 

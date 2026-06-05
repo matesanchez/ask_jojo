@@ -237,6 +237,7 @@ def _run_subprocess(
             stderr=subprocess.PIPE,
             preexec_fn=preexec,
             env=env,
+            creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0),  # hide console window in frozen GUI build
         )
     except FileNotFoundError as e:
         return RenderResult(

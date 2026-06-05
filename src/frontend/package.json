@@ -2,7 +2,7 @@
   "name": "ask_jojo_frontend",
   "version": "0.1.0",
   "private": true,
-  "description": "JoJo Bot v2.0 frontend — Phase 0 skeleton. Next.js App Router.",
+  "description": "JoJo Bot v2.0 frontend \u2014 Phase 0 skeleton. Next.js App Router.",
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build",
@@ -11,6 +11,8 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
+    "@fontsource/ibm-plex-mono": "^5.1.1",
+    "@fontsource/ibm-plex-sans": "^5.1.1",
     "@marp-team/marp-core": "^4.0.0",
     "@types/three": "^0.184.1",
     "chart.js": "^4.5.1",

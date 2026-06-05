@@ -17,6 +17,13 @@ import threading
 import time
 from pathlib import Path
 
+# Windowed PyInstaller builds (console=False) leave sys.stdout/stderr as None;
+# uvicorn's log formatter calls stream.isatty(), so give them a real stream.
+if sys.stdout is None:
+    sys.stdout = open(os.devnull, "w", encoding="utf-8")
+if sys.stderr is None:
+    sys.stderr = open(os.devnull, "w", encoding="utf-8")
+
 # ── Logging ────────────────────────────────────────────────────────────────────
 _log_dir = Path(os.environ.get("LOCALAPPDATA", Path.home())) / "JojoBot"
 _log_dir.mkdir(parents=True, exist_ok=True)
@@ -76,7 +83,7 @@ def _run_server(port: int):
     from backend.main import app  # noqa: PLC0415
 
     server = uvicorn.Server(
-        uvicorn.Config(app, host="127.0.0.1", port=port, log_level="info")
+        uvicorn.Config(app, host="127.0.0.1", port=port, log_level="info", log_config=None)
     )
     thread = threading.Thread(target=server.run, daemon=True, name="uvicorn")
     thread.start()
@@ -106,8 +113,15 @@ def _open_window(url: str) -> None:
     # Allow the page to read and write the system clipboard (copy-to-clipboard
     # buttons need this; WebEngine restricts it by default).
     s = view.settings()
-    s.setAttribute(QWebEngineSettings.WebAttribute.JavascriptCanAccessClipboard, True)
-    s.setAttribute(QWebEngineSettings.WebAttribute.JavascriptCanPasteFromClipboard, True)
+    _WA = QWebEngineSettings.WebAttribute
+    s.setAttribute(_WA.JavascriptCanAccessClipboard, True)
+    # Paste-from-clipboard enum is named differently across Qt6 builds
+    # (JavascriptCanPaste vs JavascriptCanPasteFromClipboard); set whichever exists.
+    for _name in ("JavascriptCanPaste", "JavascriptCanPasteFromClipboard"):
+        _attr = getattr(_WA, _name, None)
+        if _attr is not None:
+            s.setAttribute(_attr, True)
+            break
 
     view.setWindowTitle("JoJo Bot")
     view.resize(1440, 900)

@@ -115,6 +115,7 @@ def wiki_stats(wiki_root: Path | None = None) -> dict[str, Any]:
             capture_output=True,
             text=True,
             timeout=5,
+            creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0),  # hide console window in frozen GUI build
         )
         if result.returncode == 0 and result.stdout.strip():
             parts = result.stdout.strip().split("|", 2)
@@ -353,11 +354,21 @@ def search(
         title: str = fm.get("title") or rel.stem
         slug: str = fm.get("slug") or rel.stem
         aliases: list[str] = fm.get("aliases") or []
+        tags: list[str] = fm.get("tags") or []
         hit = (
             q_lower in title.lower()
             or q_lower in slug.lower()
-            or any(q_lower in a.lower() for a in aliases)
+            or any(q_lower in str(a).lower() for a in aliases)
+            or any(q_lower in str(tag).lower() for tag in tags)
         )
+        # Fall back to a body-content scan so queries that aren't in the
+        # title/slug/aliases (e.g. a compound ID or method named only in prose)
+        # still surface their page. Cheap at a few hundred small markdown files.
+        if not hit:
+            try:
+                hit = q_lower in _full.read_text(encoding="utf-8", errors="replace").lower()
+            except OSError:
+                hit = False
         if hit:
             results.append(
                 {

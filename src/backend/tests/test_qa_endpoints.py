@@ -107,12 +107,12 @@ def client_with_wiki(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
 # -------------------------------------------------------------------- /route
 
 
-def test_route_v1_for_akta_question(client_with_wiki) -> None:
+def test_route_akta_question_routes_wiki(client_with_wiki) -> None:
     client, _ = client_with_wiki
     r = client.get("/api/qa/route", params={"q": "What's the AKTA SOP?"})
     assert r.status_code == 200
     body = r.json()
-    assert body["route"] == "v1"
+    assert body["route"] == "wiki"
     assert "akta" in body["matched_keywords"]
 
 
@@ -163,13 +163,12 @@ def test_retrieve_assembles_bundle(client_with_wiki) -> None:
     assert "graph_neighborhood" in bundle
 
 
-def test_retrieve_v1_route_returns_empty_candidates(client_with_wiki) -> None:
+def test_retrieve_akta_question_routes_wiki(client_with_wiki) -> None:
     client, _ = client_with_wiki
     r = client.get("/api/qa/retrieve", params={"q": "AKTA buffer SOP"})
     assert r.status_code == 200
     bundle = r.json()
-    assert bundle["router"]["route"] == "v1"
-    assert bundle["candidates"] == []
+    assert bundle["router"]["route"] == "wiki"
 
 
 # -------------------------------------------------------------------- /path
@@ -265,7 +264,7 @@ def test_query_route_hint_overrides(client_with_wiki) -> None:
         json={"question": "Tell me about CBL-B", "route_hint": "v1"},
     )
     body = r.json()
-    assert body["retrieval_bundle"]["router"]["route"] == "v1"
+    assert body["retrieval_bundle"]["router"]["route"] == "wiki"
 
 
 # -------------------------------------------------------------------- POST /explain

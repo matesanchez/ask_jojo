@@ -165,23 +165,16 @@ def build_retrieval_bundle(
         route_hint: operator-provided route override. If absent, the
             regex classifier runs.
     """
-    if route_hint is not None:
-        # Trust the hint; fabricate a RouterResult that says so.
+    if route_hint == "wiki":
+        # The only meaningful operator hint now; v1 routing is retired.
         rr = RouterResult(
-            route=route_hint,
-            reason=f"operator-provided route hint: {route_hint}",
+            route="wiki",
+            reason="operator-provided route hint: wiki",
         )
     else:
+        # Any other hint (including the retired "v1") falls through to the
+        # classifier, which always routes wiki.
         rr = classify(question)
-
-    if rr.route == "v1":
-        # No wiki retrieval for v1-route questions; the bundle is just
-        # the routing slip.
-        return RetrievalBundle(
-            question=question,
-            router_result=rr,
-            wiki_root=str(wiki_root),
-        )
 
     entries = index_loader.load_index(wiki_root, enrich=True)
     candidates = index_loader.rank_candidates(entries, question, k=k_candidates)
@@ -299,9 +292,7 @@ def _call_model(
         "You are JoJo Bot, a Nurix Therapeutics internal knowledge assistant. "
         "Answer only from the provided wiki pages and raw source hits in the retrieval bundle. "
         "Every factual claim must cite a wiki slug or raw source path in brackets, e.g. [cbl-b-target]. "
-        "Classify claims as EXTRACTED (verbatim or near-verbatim from source) or INFERRED (your synthesis). "
         "If the retrieval bundle is insufficient, say so explicitly rather than speculating. "
-        "If the route is 'v1', return only a routing slip: one paragraph naming the v1 AKTA/UNICORN system as authoritative."
     )
 
     bundle_json = json.dumps(bundle.to_dict(), indent=2, ensure_ascii=False)

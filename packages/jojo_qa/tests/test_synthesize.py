@@ -54,15 +54,13 @@ def fake_wiki(tmp_path: Path) -> Path:
     return tmp_path
 
 
-def test_build_bundle_v1_route_skips_wiki(fake_wiki: Path) -> None:
-    """``v1``-route questions don't load wiki candidates."""
+def test_build_bundle_akta_question_routes_wiki(fake_wiki: Path) -> None:
+    """v1 retired: AKTA/purification questions now answer from the wiki."""
     bundle = synthesize.build_retrieval_bundle(
         "What's the AKTA buffer SOP?",
         wiki_root=fake_wiki,
     )
-    assert bundle.router_result.route == "v1"
-    assert bundle.candidate_entries == []
-    assert bundle.candidate_bodies == {}
+    assert bundle.router_result.route == "wiki"
 
 
 def test_build_bundle_wiki_route_loads_candidates(fake_wiki: Path) -> None:
@@ -113,15 +111,14 @@ def test_build_bundle_truncates_long_bodies(fake_wiki: Path) -> None:
     assert "truncated" in body
 
 
-def test_build_bundle_route_hint_overrides_classifier(fake_wiki: Path) -> None:
-    """When the operator provides a route hint, the classifier is bypassed."""
+def test_build_bundle_v1_route_hint_is_retired(fake_wiki: Path) -> None:
+    """A 'v1' route hint is retired and ignored; everything routes wiki."""
     bundle = synthesize.build_retrieval_bundle(
         "What is the CBL-B Program?",
         wiki_root=fake_wiki,
         route_hint="v1",
     )
-    assert bundle.router_result.route == "v1"
-    assert "operator-provided" in bundle.router_result.reason
+    assert bundle.router_result.route == "wiki"
 
 
 def test_answer_returns_api_key_required_when_no_key(
