@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-gomez-low-batch3-wave22",
+  "wiki_dir": "references",
+  "wave": "wave22",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-lysine-specific-demethylase-1-restricts-hematopoietic-progenitor-proliferation-and-is-essential-for-terminal-differentiation-pdf",
+      "sha16": "7bfccc3e45d14280",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-lysine-specific-demethylase-1-restricts-hematopoietic-progenitor-proliferation-and-is-essential-for-terminal-differentiation-pdf.md",
+      "title": "Lysine-specific demethylase 1 restricts hematopoietic progenitor proliferation and is essential for terminal differentiation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/Lysine-specific demethylase 1 restricts hematopoietic progenitor proliferation and is essential for terminal differentiation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-sp-2577-seclidemstat-for-the-treatment-of-pdf",
+      "sha16": "fcc847bace09bd5b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-sp-2577-seclidemstat-for-the-treatment-of-pdf.md",
+      "title": "SP-2577 (Seclidemstat) for the Treatment of ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/SP-2577 (Seclidemstat) for the Treatment of .pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-the-zinc-finger-proto-oncogene-gfi-1b-is-essential-for-development-of-the-erythroid-and-megakaryocytic-lineages-pdf",
+      "sha16": "92f901811d502fef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-the-zinc-finger-proto-oncogene-gfi-1b-is-essential-for-development-of-the-erythroid-and-megakaryocytic-lineages-pdf.md",
+      "title": "The zinc-finger proto-oncogene Gfi-1b is essential for development of the erythroid and megakaryocytic lineages.",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/The zinc-finger proto-oncogene Gfi-1b is essential for development of the erythroid and megakaryocytic lineages..pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-modular-design-of-synthetic-receptors-for-programmed-gene-regulation-in-cell-therapies-pdf",
+      "sha16": "c048639ae9e38441",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-modular-design-of-synthetic-receptors-for-programmed-gene-regulation-in-cell-therapies-pdf.md",
+      "title": "Modular design of synthetic receptors for programmed gene regulation in cell therapies",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/Modular design of synthetic receptors for programmed gene regulation in cell therapies.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-t-cell-receptor-tcr-signaling-in-health-and-disease-pdf",
+      "sha16": "b6367f90c51a7ade",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-t-cell-receptor-tcr-signaling-in-health-and-disease-pdf.md",
+      "title": "T cell receptor (TCR) signaling in health and disease",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/T cell receptor (TCR) signaling in health and disease.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-1098-taxes-pt1-pdf",
+      "sha16": "72458420dba76190",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-1098-taxes-pt1-pdf.md",
+      "title": "1098_Taxes_pt1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/1098_Taxes_pt1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-1098-taxes-pt2-pdf",
+      "sha16": "9dd4d91839b3431a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-1098-taxes-pt2-pdf.md",
+      "title": "1098_Taxes_pt2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/1098_Taxes_pt2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-11554-163440-0-2022-2023-02-17-01-27-35-505-pdf",
+      "sha16": "bc649db0cbc9933a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-11554-163440-0-2022-2023-02-17-01-27-35-505-pdf.md",
+      "title": "11554-163440-0-2022-2023-02-17-01-27-35-505",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/11554-163440-0-2022-2023-02-17-01-27-35-505.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-cd97-promotes-spleen-dendritic-cell-homeostasis-through-the-mechanosensing-of-red-blood-cells-pdf",
+      "sha16": "815065ef7653c6cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-cd97-promotes-spleen-dendritic-cell-homeostasis-through-the-mechanosensing-of-red-blood-cells-pdf.md",
+      "title": "CD97 promotes spleen dendritic cell homeostasis through the mechanosensing of red blood cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/CD97 promotes spleen dendritic cell homeostasis through the mechanosensing of red blood cells.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-dna-double-strand-breaks-as-drivers-of-neural-genomic-change-function-pdf",
+      "sha16": "826ae86d1c13a74c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-dna-double-strand-breaks-as-drivers-of-neural-genomic-change-function-pdf.md",
+      "title": "DNA double-strand breaks as drivers of neural genomic change, function,",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/DNA double-strand breaks as drivers of neural genomic change, function,.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-gpr35-promotes-neutrophil-recruitment-in-response-pdf",
+      "sha16": "0d01b36a6361ea83",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-gpr35-promotes-neutrophil-recruitment-in-response-pdf.md",
+      "title": "GPR35 promotes neutrophil recruitment in response",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/GPR35 promotes neutrophil recruitment in response.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-interferon-gamma-constrains-type-2-lymphocyte-niche-boundaries-during-mixed-inflammation-pdf",
+      "sha16": "544198b776f397fd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-interferon-gamma-constrains-type-2-lymphocyte-niche-boundaries-during-mixed-inflammation-pdf.md",
+      "title": "Interferon gamma constrains type 2 lymphocyte niche boundaries during mixed inflammation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/Interferon gamma constrains type 2 lymphocyte niche boundaries during mixed inflammation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-irs-form-1099-2022-pdf",
+      "sha16": "e55739cf5f50c691",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-irs-form-1099-2022-pdf.md",
+      "title": "IRS Form 1099_2022",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/IRS Form 1099_2022.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-lymphocyte-egress-from-thymus-pdf",
+      "sha16": "1b01ec0c45583e59",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-lymphocyte-egress-from-thymus-pdf.md",
+      "title": "Lymphocyte egress from thymus",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/Lymphocyte egress from thymus.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-partek-price-quote-draft-220526-0105-pdf",
+      "sha16": "b0d9561927805969",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-partek-price-quote-draft-220526-0105-pdf.md",
+      "title": "Partek Price Quote_draft_220526_0105",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/Partek Price Quote_draft_220526_0105.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-sphingosine-1-phosphate-pdf",
+      "sha16": "84d4969ea8c1e984",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-sphingosine-1-phosphate-pdf.md",
+      "title": "Sphingosine-1-Phosphate",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/Sphingosine-1-Phosphate.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-systemic-dysfunction-and-plasticity-of-the-immune-macroenvironment-in-cancer-models-pdf",
+      "sha16": "7ffd2907df5341a9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-systemic-dysfunction-and-plasticity-of-the-immune-macroenvironment-in-cancer-models-pdf.md",
+      "title": "Systemic dysfunction and plasticity of the immune macroenvironment in cancer models",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/Systemic dysfunction and plasticity of the immune macroenvironment in cancer models.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-first-professor-1-pdf",
+      "sha16": "185e69ab8cca321b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-first-professor-1-pdf.md",
+      "title": "UW First professor _1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/UW First professor _1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-first-professor-2-pdf",
+      "sha16": "6b9e08570d75ca12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-first-professor-2-pdf.md",
+      "title": "UW First professor _2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/UW First professor _2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-first-professor-3-pdf",
+      "sha16": "b16ee682a5abba9a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-first-professor-3-pdf.md",
+      "title": "UW First professor _3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/UW First professor _3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-second-professor-1-pdf",
+      "sha16": "113aa4f7ac9110c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-second-professor-1-pdf.md",
+      "title": "UW Second Professor_1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/UW Second Professor_1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-second-professor-2-pdf",
+      "sha16": "e685241d4856f1c3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-uw-folder-uw-second-professor-2-pdf.md",
+      "title": "UW Second Professor_2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/UW folder/UW Second Professor_2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-mayan-exhibition-ofe-pdf",
+      "sha16": "8ed45ad4cda4f2b8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-mayan-exhibition-ofe-pdf.md",
+      "title": "Mayan Exhibition_Ofe",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Mayan Exhibition_Ofe.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-2022-e-file-authorizations-taxes-pdf",
+      "sha16": "3262655430e25dd0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-2022-e-file-authorizations-taxes-pdf.md",
+      "title": "2022 E-file Authorizations_TAXES",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 23MAY23/Flow computer Desktop/2022 E-file Authorizations_TAXES.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-a-comprehensive-review-of-lysine-specific-pdf",
+      "sha16": "276716ff74dadcc3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-23may23-flow-computer-desktop-a-comprehensive-review-of-lysine-specific-pdf.md",
+      "title": "A comprehensive review of lysine-specific",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 23MAY23/Flow computer Desktop/A comprehensive review of lysine-specific.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-chinese-calligraphy-not-for-credit-grading-basis-request-jose-pdf",
+      "sha16": "2194ce905bc7a5ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-chinese-calligraphy-not-for-credit-grading-basis-request-jose-pdf.md",
+      "title": "Chinese Calligraphy_Not-for-Credit_Grading_Basis_Request_Jose ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Chinese Calligraphy_Not-for-Credit_Grading_Basis_Request_Jose .pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-11-90-22oct22-pdf",
+      "sha16": "cc1b48ba6a380e01",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-11-90-22oct22-pdf.md",
+      "title": "11.90_22OCT22",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/11.90_22OCT22.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-14-93-22oct22-pdf",
+      "sha16": "d1209e6bcf8f05d8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-14-93-22oct22-pdf.md",
+      "title": "14.93_22OCT22",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/14.93_22OCT22.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-16oct22-13-93-pdf",
+      "sha16": "e3341c66cd2d78f4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-16oct22-13-93-pdf.md",
+      "title": "16OCT22_13.93",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/16OCT22_13.93.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-16oct22-13-98-pdf",
+      "sha16": "15de8aa7854c7e65",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-16oct22-13-98-pdf.md",
+      "title": "16OCT22_13.98",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/16OCT22_13.98.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-20-99-24oct22-pdf",
+      "sha16": "5a0f0fcf325b6a23",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-20-99-24oct22-pdf.md",
+      "title": "20.99_24OCT22",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/20.99_24OCT22.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-28oct-13-99-pdf",
+      "sha16": "c36be6f7a7155814",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-28oct-13-99-pdf.md",
+      "title": "28OCT_13.99",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/28OCT_13.99.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-28oct-14-19-pdf",
+      "sha16": "d471c6bf0ee0c756",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-28oct-14-19-pdf.md",
+      "title": "28OCT_14.19",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/28OCT_14.19.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-31oct-15-99-pdf",
+      "sha16": "acfdefae37e6911d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-31oct-15-99-pdf.md",
+      "title": "31OCT_15.99",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/31OCT_15.99.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-44954-np-nurix-romo-multiome-101722-v4-pdf",
+      "sha16": "30a1a7147f9171b5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-44954-np-nurix-romo-multiome-101722-v4-pdf.md",
+      "title": "44954_NP_Nurix_Romo_Multiome_101722_V4",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/44954_NP_Nurix_Romo_Multiome_101722_V4.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-aug12-12-96-pdf",
+      "sha16": "73bdfb8b4071bd72",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-aug12-12-96-pdf.md",
+      "title": "AUG12_12.96",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/AUG12_12.96.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-aug30-10-97-pdf",
+      "sha16": "7dff3c313d8898fc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-aug30-10-97-pdf.md",
+      "title": "AUG30_10.97",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/AUG30_10.97.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-aug30-11-93-pdf",
+      "sha16": "61b8e3e285417c85",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-aug30-11-93-pdf.md",
+      "title": "AUG30_11.93",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/AUG30_11.93.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-aug30-12-92-pdf",
+      "sha16": "d42627f781f8202f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-aug30-12-92-pdf.md",
+      "title": "AUG30_12.92",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/AUG30_12.92.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-beckman-coulter-cytobank-software-license-agr-221111-0011-1-pdf",
+      "sha16": "2927e4927b8917a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-beckman-coulter-cytobank-software-license-agr-221111-0011-1-pdf.md",
+      "title": "Beckman Coulter (Cytobank)_Software License Agr..._221111_0011 (1)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Beckman Coulter (Cytobank)_Software License Agr..._221111_0011 (1).pdf",
+      "confidence": "low"
+    }
+  ]
+}

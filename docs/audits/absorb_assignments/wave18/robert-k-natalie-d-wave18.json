@@ -1,0 +1,327 @@
+{
+  "assignment": "robert-k-natalie-d-wave18",
+  "wiki_dir": "references",
+  "wave": "wave18",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-012-ah-11-pdata-1-email-nx-5948-012-ah-11-1-pdf",
+      "sha16": "6998ffc0d9cc8fdc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-012-ah-11-pdata-1-email-nx-5948-012-ah-11-1-pdf.md",
+      "title": "email_NX-5948-012-AH_11_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-012-AH/11/pdata/1/email_NX-5948-012-AH_11_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-012-ah-fumaratecap-10-pdata-1-email-nx-5948-012-ah-fumaratecap-10-1-pdf",
+      "sha16": "dd51466ea5b74ff5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-012-ah-fumaratecap-10-pdata-1-email-nx-5948-012-ah-fumaratecap-10-1-pdf.md",
+      "title": "email_NX-5948-012-AH-FumarateCap_10_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-012-AH-FumarateCap/10/pdata/1/email_NX-5948-012-AH-FumarateCap_10_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-012-ah-fumaratecap-11-pdata-1-email-nx-5948-012-ah-fumaratecap-11-1-pdf",
+      "sha16": "6a865aac03a88e3c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-012-ah-fumaratecap-11-pdata-1-email-nx-5948-012-ah-fumaratecap-11-1-pdf.md",
+      "title": "email_NX-5948-012-AH-FumarateCap_11_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948-012-AH-FumarateCap/11/pdata/1/email_NX-5948-012-AH-FumarateCap_11_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-20-oc-fp-345-10-pdata-1-email-nx-5948-20-oc-fp-345-10-1-pdf",
+      "sha16": "9ddfc8c4e76c79f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-nrx-5948-nmr-data-nx-5948-20-oc-fp-345-10-pdata-1-email-nx-5948-20-oc-fp-345-10-1-pdf.md",
+      "title": "email_NX-5948 20-OC-FP-345_10_1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/NRX-5948 NMR DATA/NX-5948 20-OC-FP-345/10/pdata/1/email_NX-5948 20-OC-FP-345_10_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0399964-005-aa-rml-forms-pdf",
+      "sha16": "ba8becd59de1a1a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0399964-005-aa-rml-forms-pdf.md",
+      "title": "NRX-0399964-005-AA RML FORMS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/RML Forms/NRX-0399964-005-AA RML FORMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0401647-005-aa-rml-forms-pdf",
+      "sha16": "f90285ae968a5151",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0401647-005-aa-rml-forms-pdf.md",
+      "title": "NRX-0401647-005-AA RML FORMS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/RML Forms/NRX-0401647-005-AA RML FORMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0401650-rml-forms-pdf",
+      "sha16": "669cb6da26e0a12f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0401650-rml-forms-pdf.md",
+      "title": "NRX-0401650 RML FORMS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/RML Forms/NRX-0401650 RML FORMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0404422-007-aa-gc-form-pdf",
+      "sha16": "f28340c78d201f71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0404422-007-aa-gc-form-pdf.md",
+      "title": "NRX-0404422-007-AA GC FORM",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/RML Forms/NRX-0404422-007-AA GC FORM.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0404422-007-aa-rml-forms-pdf",
+      "sha16": "ca0b5fb6b45925c3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-rml-forms-nrx-0404422-007-aa-rml-forms-pdf.md",
+      "title": "NRX-0404422-007-AA RML FORMS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/RML Forms/NRX-0404422-007-AA RML FORMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-2021-nmr-shimming-procedure-docx",
+      "sha16": "ad94be27315282aa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-2021-nmr-shimming-procedure-docx.md",
+      "title": "2021_NMR_Shimming_Procedure",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Guides and Training/2021_NMR_Shimming_Procedure.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-bbb-characteristics-of-compounds-that-cross-the-blood-brain-barrier-pdf",
+      "sha16": "1b3ffcda737fda4b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-bbb-characteristics-of-compounds-that-cross-the-blood-brain-barrier-pdf.md",
+      "title": "Characteristics of Compounds that cross the blood brain barrier",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/BBB/Characteristics of Compounds that cross the blood brain barrier.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf",
+      "sha16": "0188a3b4e5d3a605",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-mimetas---gut-permeability-and-barrier-integrity---nurix---dec-7-2020-pdf.md",
+      "title": "Mimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Mimetas/Mimetas - Gut permeability and barrier integrity - Nurix - Dec 7 2020.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf",
+      "sha16": "d8569ae6ed9b383d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-mimetas-barrier-integrity-assay-v3-1-pdf.md",
+      "title": "Mimetas_Barrier Integrity Assay_V3.1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Mimetas/Mimetas_Barrier Integrity Assay_V3.1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-analytical-chemistry-robert-kettenstock-nurix-ot-2-onsite-protocol-developm-0886180201",
+      "sha16": "fce5b3018203f6a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-analytical-chemistry-robert-kettenstock-nurix-ot-2-onsite-protocol-developm-0886180201.md",
+      "title": "Robert Kettenstock Nurix OT-2 onsite protocol development updated",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Analytical Chemistry/Robert Kettenstock Nurix OT-2 onsite protocol development updated.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-nurix-ksol-dilution-plate-automation-docx",
+      "sha16": "104a6a2429aa7f2f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-nurix-ksol-dilution-plate-automation-docx.md",
+      "title": "Nurix_Ksol_Dilution_Plate_Automation",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Automation Protocols/Nurix_Ksol_Dilution_Plate_Automation.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-plasma-stability-automation-docx",
+      "sha16": "22afba0d5023f711",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-plasma-stability-automation-docx.md",
+      "title": "Plasma Stability (Automation)",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Automation Protocols/Plasma Stability (Automation).docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-robert-kettenstock-nurix-ot-2-onsite-protocol-updated-pdf",
+      "sha16": "2c6945005ec93e57",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-robert-kettenstock-nurix-ot-2-onsite-protocol-updated-pdf.md",
+      "title": "Robert Kettenstock Nurix OT-2 onsite protocol updated",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Quotes/Robert Kettenstock Nurix OT-2 onsite protocol updated.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1427-lcms-pdf",
+      "sha16": "eff191ab97d85d0c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1427-lcms-pdf.md",
+      "title": "ELN-207-1427_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1427_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1428-lcms-pdf",
+      "sha16": "c0bdd8ebd4199caf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1428-lcms-pdf.md",
+      "title": "ELN-207-1428_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1428_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1429-lcms-pdf",
+      "sha16": "45cc7f3506fa0308",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1429-lcms-pdf.md",
+      "title": "ELN-207-1429_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1429_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1430-lcms-pdf",
+      "sha16": "18e195ba3f42d7a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1430-lcms-pdf.md",
+      "title": "ELN-207-1430_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1430_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1431-lcms-pdf",
+      "sha16": "f28d7c90d599accf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1431-lcms-pdf.md",
+      "title": "ELN-207-1431_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1431_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1432-lcms-pdf",
+      "sha16": "1e04b6997a09427a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1432-lcms-pdf.md",
+      "title": "ELN-207-1432_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1432_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1434-lcms-pdf",
+      "sha16": "5c55d1f89dcbcdd8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1434-lcms-pdf.md",
+      "title": "ELN-207-1434_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1434_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1435-lcms-pdf",
+      "sha16": "c27f5815523f9ddd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1435-lcms-pdf.md",
+      "title": "ELN-207-1435_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1435_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1436-lcms-pdf",
+      "sha16": "ca65319ff653c041",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1436-lcms-pdf.md",
+      "title": "ELN-207-1436_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1436_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1437-lcms-pdf",
+      "sha16": "6272167a75980fee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1437-lcms-pdf.md",
+      "title": "ELN-207-1437_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1437_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1438-lcms-pdf",
+      "sha16": "d9c882d406a82d59",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1438-lcms-pdf.md",
+      "title": "ELN-207-1438_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1438_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1439-lcms-pdf",
+      "sha16": "a727ffcfe8ae4ff5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1439-lcms-pdf.md",
+      "title": "ELN-207-1439_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1439_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1440-lcms-pdf",
+      "sha16": "b4df476cc999c891",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1440-lcms-pdf.md",
+      "title": "ELN-207-1440_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1440_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1441-lcms-pdf",
+      "sha16": "f01167324982c1b1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1441-lcms-pdf.md",
+      "title": "ELN-207-1441_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1441_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1442-lcms-pdf",
+      "sha16": "f2ba553ae12e94cf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1442-lcms-pdf.md",
+      "title": "ELN-207-1442_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1442_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1443-lcms-pdf",
+      "sha16": "182a0c1c5888e658",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1443-lcms-pdf.md",
+      "title": "ELN-207-1443_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1443_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1444-lcms-20250124093530438-pdf",
+      "sha16": "5659a86da3a48909",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1444-lcms-20250124093530438-pdf.md",
+      "title": "ELN-207-1444_LCMS_20250124093530438",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1444_LCMS_20250124093530438.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1445-lcms-pdf",
+      "sha16": "1baf653f69b19f87",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1445-lcms-pdf.md",
+      "title": "ELN-207-1445_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1445_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1446-lcms-pdf",
+      "sha16": "fee1dd01885753be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1446-lcms-pdf.md",
+      "title": "ELN-207-1446_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1446_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1447-lcms-20250124093520158-pdf",
+      "sha16": "4093e05d7a8f7bcd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1447-lcms-20250124093520158-pdf.md",
+      "title": "ELN-207-1447_LCMS_20250124093520158",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1447_LCMS_20250124093520158.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1448-lcms-pdf",
+      "sha16": "4af3c11cc3a7cd70",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1448-lcms-pdf.md",
+      "title": "ELN-207-1448_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1448_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1449-lcms-pdf",
+      "sha16": "c42bd72c65359b93",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1449-lcms-pdf.md",
+      "title": "ELN-207-1449_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1449_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1450-lcms-20250124093529518-pdf",
+      "sha16": "789c27b77ed89b1a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1450-lcms-20250124093529518-pdf.md",
+      "title": "ELN-207-1450_LCMS_20250124093529518",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1450_LCMS_20250124093529518.pdf",
+      "confidence": "high"
+    }
+  ]
+}

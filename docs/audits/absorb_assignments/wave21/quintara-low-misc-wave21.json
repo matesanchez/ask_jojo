@@ -1,0 +1,327 @@
+{
+  "assignment": "quintara-low-misc-wave21",
+  "wiki_dir": "references",
+  "wave": "wave21",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-excel-files-week-1---project-1-antipyrene-qnmr-antipyrene-qnmr-set01-pdf",
+      "sha16": "83f1e2ec17a32711",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-excel-files-week-1---project-1-antipyrene-qnmr-antipyrene-qnmr-set01-pdf.md",
+      "title": "Antipyrene_qNMR_Set01",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Excel Files/Week 1 - Project 1/Antipyrene qNMR/Antipyrene_qNMR_Set01.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-excel-files-week-1---project-1-antipyrene-qnmr-cmcq-pdf",
+      "sha16": "54581c5fdde1b9c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-excel-files-week-1---project-1-antipyrene-qnmr-cmcq-pdf.md",
+      "title": "cmcq",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Excel Files/Week 1 - Project 1/Antipyrene qNMR/cmcq.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-excel-files-week-1---project-1-antipyrene-qnmr-mnova-for-qnmr-pdf",
+      "sha16": "5c0baab83e33e649",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-excel-files-week-1---project-1-antipyrene-qnmr-mnova-for-qnmr-pdf.md",
+      "title": "Mnova-for-qNMR",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Excel Files/Week 1 - Project 1/Antipyrene qNMR/Mnova-for-qNMR.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-excel-files-week-1---project-1-antipyrene-qnmr-qnmr-brochure-rjo-pdf",
+      "sha16": "3bc788879900b6a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-excel-files-week-1---project-1-antipyrene-qnmr-qnmr-brochure-rjo-pdf.md",
+      "title": "qnmr-brochure-rjo",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Excel Files/Week 1 - Project 1/Antipyrene qNMR/qnmr-brochure-rjo.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-acs-analchem-5b01181-pdf",
+      "sha16": "f051100dc602671c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-acs-analchem-5b01181-pdf.md",
+      "title": "acs.analchem.5b01181",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Q NMR Papers/acs.analchem.5b01181.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-cmcq-pdf",
+      "sha16": "54581c5fdde1b9c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-cmcq-pdf.md",
+      "title": "cmcq",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Q NMR Papers/cmcq.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-ed200433z-pdf",
+      "sha16": "bacab5e51deb94aa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-ed200433z-pdf.md",
+      "title": "ed200433z",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Q NMR Papers/ed200433z.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-ed200433z-si-001-pdf",
+      "sha16": "fe1788ce9b735f41",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-ed200433z-si-001-pdf.md",
+      "title": "ed200433z_si_001",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Q NMR Papers/ed200433z_si_001.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-ed200433z-si-003-pdf",
+      "sha16": "6e0f44079af10255",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-ed200433z-si-003-pdf.md",
+      "title": "ed200433z_si_003",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Q NMR Papers/ed200433z_si_003.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-mnova-for-qnmr-pdf",
+      "sha16": "5c0baab83e33e649",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-mnova-for-qnmr-pdf.md",
+      "title": "Mnova-for-qNMR",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Q NMR Papers/Mnova-for-qNMR.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-ol071129h-pdf",
+      "sha16": "77315657ee16fc6f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-ol071129h-pdf.md",
+      "title": "ol071129h",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Q NMR Papers/ol071129h.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-qnmr-brochure-rjo-pdf",
+      "sha16": "3bc788879900b6a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-davis-c-public-davis-summer-2020-q-nmr-papers-qnmr-brochure-rjo-pdf.md",
+      "title": "qnmr-brochure-rjo",
+      "source_id": "Analytical Chemistry/Davis C-Public/Davis Summer 2020/Q NMR Papers/qnmr-brochure-rjo.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-boc-46-pdf",
+      "sha16": "d282c11b9228811e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-boc-46-pdf.md",
+      "title": "BOC 46",
+      "source_id": "Analytical Chemistry/Ethan P-Public/BOC 46.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-boc-reaction-mixture-pdf",
+      "sha16": "043de6cfa9ec3589",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-boc-reaction-mixture-pdf.md",
+      "title": "Boc reaction mixture",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Boc reaction mixture.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-hardcopy-260-pdf",
+      "sha16": "d86ecb3653c6425e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-hardcopy-260-pdf.md",
+      "title": "Hardcopy_260",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Hardcopy_260.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-oasis-spe-cartridges-guide-pdf",
+      "sha16": "a1a9f407cc973ea9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-oasis-spe-cartridges-guide-pdf.md",
+      "title": "Oasis SPE Cartridges Guide",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Oasis SPE Cartridges Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-overnight-sample-uv-ms-experiment-1-ms-fail-jpg-pdf",
+      "sha16": "7347498e19db46f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-overnight-sample-uv-ms-experiment-1-ms-fail-jpg-pdf.md",
+      "title": "Experiment 1  MS fail.jpg",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Overnight Sample UV MS/Experiment 1  MS fail.jpg.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-overnight-sample-uv-ms-experiment-1-ms-fail-pdf",
+      "sha16": "b296b47c9f36c0be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-overnight-sample-uv-ms-experiment-1-ms-fail-pdf.md",
+      "title": "Experiment 1  MS fail",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Overnight Sample UV MS/Experiment 1  MS fail.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-overnight-sample-uv-ms-hardcopy-145-pdf",
+      "sha16": "4e85962d81773a1c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-overnight-sample-uv-ms-hardcopy-145-pdf.md",
+      "title": "Hardcopy_145",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Overnight Sample UV MS/Hardcopy_145.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-porapak-reaction-cartridges-pdf",
+      "sha16": "659a8ed1586159a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-porapak-reaction-cartridges-pdf.md",
+      "title": "PoraPak Reaction Cartridges",
+      "source_id": "Analytical Chemistry/Ethan P-Public/PoraPak Reaction Cartridges.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-porapak-rxn-cartridges-brochure-pdf",
+      "sha16": "808a3612f1612bd8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-porapak-rxn-cartridges-brochure-pdf.md",
+      "title": "PoraPak Rxn Cartridges Brochure",
+      "source_id": "Analytical Chemistry/Ethan P-Public/PoraPak Rxn Cartridges Brochure.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-poster-p-fluorous-phase-separation-pdf",
+      "sha16": "2ab0e9024978f3ae",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-poster-p-fluorous-phase-separation-pdf.md",
+      "title": "poster-p-fluorous-phase-separation",
+      "source_id": "Analytical Chemistry/Ethan P-Public/poster-p-fluorous-phase-separation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-quantitative-chemical-analysis-pdf",
+      "sha16": "b070a4b5e8ab08ec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-quantitative-chemical-analysis-pdf.md",
+      "title": "Quantitative Chemical Analysis",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Quantitative Chemical Analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-waters-at-column-dilution-guide-pdf",
+      "sha16": "2e769a0ab2dd832f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-waters-at-column-dilution-guide-pdf.md",
+      "title": "Waters At Column Dilution Guide",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Waters At Column Dilution Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-ethan-p-public-waters-spe-cartridges-guide-pdf",
+      "sha16": "21f864ab55db0840",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-ethan-p-public-waters-spe-cartridges-guide-pdf.md",
+      "title": "Waters SPE Cartridges Guide",
+      "source_id": "Analytical Chemistry/Ethan P-Public/Waters SPE Cartridges Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-a-2-apr-2022-6-ae603106cd",
+      "sha16": "df146656508a9ac9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-a-2-apr-2022-6-ae603106cd.md",
+      "title": "Quintara_Master SOW (QUINTARA A-2)_(Apr 2022)_6716_Sanofi",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/2022 Master SOW and PO/Initial SOW/Quintara_Master SOW (QUINTARA A-2)_(Apr 2022)_6716_Sanofi.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-a-feb-2022-644-b73c14cc55",
+      "sha16": "f3243484961f679e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-a-feb-2022-644-b73c14cc55.md",
+      "title": "Quintara_Master SOW (QUINTARA-A)_(Feb 2022)_6447_Sanofi",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/2022 Master SOW and PO/Initial SOW/Quintara_Master SOW (QUINTARA-A)_(Feb 2022)_6447_Sanofi.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-b-feb-2022-644-81ff82b811",
+      "sha16": "449197de7be9ec6b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-b-feb-2022-644-81ff82b811.md",
+      "title": "Quintara_Master SOW (QUINTARA-B)_(Feb 2022)_6449_Gilead",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/2022 Master SOW and PO/Initial SOW/Quintara_Master SOW (QUINTARA-B)_(Feb 2022)_6449_Gilead.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-c-feb-2022-6448-covid-pdf",
+      "sha16": "d0610a4a58b643fd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-c-feb-2022-6448-covid-pdf.md",
+      "title": "Quintara_Master SOW (QUINTARA-C)_(Feb 2022)_6448_COVID",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/2022 Master SOW and PO/Initial SOW/Quintara_Master SOW (QUINTARA-C)_(Feb 2022)_6448_COVID.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-e-feb-2022-645-924aedf5b3",
+      "sha16": "1dd294b71a8f7e35",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-2022-master-sow-and-po-initial-sow-quintara-master-sow-quintara-e-feb-2022-645-924aedf5b3.md",
+      "title": "Quintara_Master SOW (QUINTARA-E)_(Feb 2022)_6451_NonSpecific R&D",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/2022 Master SOW and PO/Initial SOW/Quintara_Master SOW (QUINTARA-E)_(Feb 2022)_6451_NonSpecific R&D.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-blanket-po-29519-with-quintara-gilead-pdf",
+      "sha16": "4b3616e131475cc2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-blanket-po-29519-with-quintara-gilead-pdf.md",
+      "title": "Blanket PO #29519 with Quintara [GILEAD]",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/Blanket PO #29519 with Quintara [GILEAD].pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9633-nurix-10122022-ugt-and-sult-pdf",
+      "sha16": "c60c6852702ab015",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9633-nurix-10122022-ugt-and-sult-pdf.md",
+      "title": "QDI Quotation - QA-9633 Nurix 10122022_UGT and SULT",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-9633 Nurix 10122022_UGT and SULT.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9676-nurix-11012022-rbc-partitioning-report-pdf",
+      "sha16": "0e57179c5f659b77",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-qdi-quotation---qa-9676-nurix-11012022-rbc-partitioning-report-pdf.md",
+      "title": "QDI Quotation - QA-9676 Nurix 11012022_RBC partitioning report",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/QDI Quotation - QA-9676 Nurix 11012022_RBC partitioning report.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-quintara-master-sow-qa-8320-pdf",
+      "sha16": "707e29d76de3c75a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-quintara-master-sow-qa-8320-pdf.md",
+      "title": "Quintara_Master_SOW_QA-8320_",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/Quintara_Master_SOW_QA-8320_.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-sow-october-2021-quintara-master-sow-qa-8320-aug-2021-5478-pdf",
+      "sha16": "6a7f8386b3941621",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-sow-october-2021-quintara-master-sow-qa-8320-aug-2021-5478-pdf.md",
+      "title": "Quintara_Master SOW QA-8320_(Aug 2021)_5478",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/SOW October 2021/Quintara_Master SOW QA-8320_(Aug 2021)_5478.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-stat6---barbara-qdi-quotation---qa-8811-nurix-12222021-20k-pdf",
+      "sha16": "5af78789becd5c0c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-stat6---barbara-qdi-quotation---qa-8811-nurix-12222021-20k-pdf.md",
+      "title": "QDI Quotation - QA-8811 Nurix 12222021_20k",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/STAT6 - Barbara/QDI Quotation - QA-8811 Nurix 12222021_20k.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-stat6---barbara-qdi-quotation---qa-8812-nurix-12222021-10k-pdf",
+      "sha16": "709afcb06013ea07",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-purchase-orders-and-sow-stat6---barbara-qdi-quotation---qa-8812-nurix-12222021-10k-pdf.md",
+      "title": "QDI Quotation - QA-8812 Nurix 12222021_10k",
+      "source_id": "Analytical Chemistry/Quintara/2022/Purchase Orders and SOW/STAT6 - Barbara/QDI Quotation - QA-8812 Nurix 12222021_10k.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-requests-detergentremoval-peptide-thermokit-002-pdf",
+      "sha16": "ca7b11cb39547bf6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-requests-detergentremoval-peptide-thermokit-002-pdf.md",
+      "title": "DetergentRemoval_Peptide_ThermoKit (002)",
+      "source_id": "Analytical Chemistry/Quintara/2022/Requests/DetergentRemoval_Peptide_ThermoKit (002).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-aurora-a-quintara-master-sow-quintara-d-3-feb-2023-7954-aurora-a-pdf",
+      "sha16": "4e925a8189b2f42a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-aurora-a-quintara-master-sow-quintara-d-3-feb-2023-7954-aurora-a-pdf.md",
+      "title": "Quintara_Master SOW (QUINTARA-D-3)_(Feb 2023)_7954_Aurora-A",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/Aurora-A/Quintara_Master SOW (QUINTARA-D-3)_(Feb 2023)_7954_Aurora-A.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-braf-01-quintara-master-sow-quintara-f-feb-2023-7953-braf-pdf",
+      "sha16": "3e8547b241902b05",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-braf-01-quintara-master-sow-quintara-f-feb-2023-7953-braf-pdf.md",
+      "title": "01_Quintara_Master SOW (QUINTARA-F)_(Feb 2023)_7953_BRAF",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/BRAF/01_Quintara_Master SOW (QUINTARA-F)_(Feb 2023)_7953_BRAF.pdf",
+      "confidence": "low"
+    }
+  ]
+}

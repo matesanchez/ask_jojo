@@ -1,0 +1,327 @@
+{
+  "assignment": "natalie-d-low-batch2-wave22",
+  "wiki_dir": "methods",
+  "wave": "wave22",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-fa-504-pdf",
+      "sha16": "c91cbaba5f51366c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-fa-504-pdf.md",
+      "title": "0828 FA 504",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/0828 Purity/0828 FA 504.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-fa-773-pdf",
+      "sha16": "6e2f05487d2a1e96",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-fa-773-pdf.md",
+      "title": "0828 FA 773",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/0828 Purity/0828 FA 773.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-tfa-504-pdf",
+      "sha16": "917ae24de6454b09",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-tfa-504-pdf.md",
+      "title": "0828 TFA 504",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/0828 Purity/0828 TFA 504.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-tfa-773-pdf",
+      "sha16": "ba7db7f4395a9507",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-0828-purity-0828-tfa-773-pdf.md",
+      "title": "0828 TFA 773",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/0828 Purity/0828 TFA 773.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0395948-009-aa-hardcopy-608-pdf",
+      "sha16": "3802649d46fde5d5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0395948-009-aa-hardcopy-608-pdf.md",
+      "title": "Hardcopy_608",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0395948-009-AA/Hardcopy_608.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0395948-009-aa-hardcopy-609-pdf",
+      "sha16": "b103557b42962480",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-certificate-of-analysis-nrx-0395948-009-aa-hardcopy-609-pdf.md",
+      "title": "Hardcopy_609",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Certificate of Analysis/NRX-0395948-009-AA/Hardcopy_609.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-solid-phase-extraction-oasis-spe-cartridges-guide-pdf",
+      "sha16": "a1a9f407cc973ea9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-solid-phase-extraction-oasis-spe-cartridges-guide-pdf.md",
+      "title": "Oasis SPE Cartridges Guide",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Solid Phase Extraction/Oasis SPE Cartridges Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-solid-phase-extraction-oasis-spe-cartridges-pdf",
+      "sha16": "2f43406d6fe182aa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-solid-phase-extraction-oasis-spe-cartridges-pdf.md",
+      "title": "Oasis SPE Cartridges",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/Solid Phase Extraction/Oasis SPE Cartridges.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-zap70-purity-checks-hardcopy-610-pdf",
+      "sha16": "2993062392343832",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-zap70-purity-checks-hardcopy-610-pdf.md",
+      "title": "Hardcopy_610",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/ZAP70 Purity Checks/Hardcopy_610.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-zap70-purity-checks-hardcopy-611-pdf",
+      "sha16": "b1af41a018b0f4c0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-zap70-purity-checks-hardcopy-611-pdf.md",
+      "title": "Hardcopy_611",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/ZAP70 Purity Checks/Hardcopy_611.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-zap70-purity-checks-hardcopy-612-pdf",
+      "sha16": "302c111b1c040f9b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-zap70-purity-checks-hardcopy-612-pdf.md",
+      "title": "Hardcopy_612",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/ZAP70 Purity Checks/Hardcopy_612.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-ac-projects-zap70-purity-checks-hardcopy-613-pdf",
+      "sha16": "2b2ad04e8ad2f12f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-ac-projects-zap70-purity-checks-hardcopy-613-pdf.md",
+      "title": "Hardcopy_613",
+      "source_id": "Analytical Chemistry/Natalie D-Public/AC Projects/ZAP70 Purity Checks/Hardcopy_613.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-iam-experiments-result-2402-pdf",
+      "sha16": "9315557e0a0bf7c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-iam-experiments-result-2402-pdf.md",
+      "title": "Result 2402",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/IAM Experiments/Result 2402.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-nrx-0395948-transporter-assay-signed-nurix-03-crp-pdf",
+      "sha16": "c7375fac9d09299d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-nrx-0395948-transporter-assay-signed-nurix-03-crp-pdf.md",
+      "title": "Signed Nurix-03 CRP",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/NRX-0395948 Transporter Assay/Signed Nurix-03 CRP.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-nrx-0395948-transporter-assay-solvo-nurix-03-docx-pdf",
+      "sha16": "b10fc0fed985fdde",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-nrx-0395948-transporter-assay-solvo-nurix-03-docx-pdf.md",
+      "title": "SOLVO-Nurix-03.docx",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/NRX-0395948 Transporter Assay/SOLVO-Nurix-03.docx.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-automation-of-pampa-poster-pdf",
+      "sha16": "917abf58a98ba35a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-pampa-experiments-pampa---pion-gutbox-literature-automation-of-pampa-poster-pdf.md",
+      "title": "Automation of PAMPA Poster",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/PAMPA Experiments/PAMPA - PION/Gutbox Literature/Automation of PAMPA Poster.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-literature-1-s2-0-s1359644620301197-main-pdf",
+      "sha16": "388f907289e8d1fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-literature-1-s2-0-s1359644620301197-main-pdf.md",
+      "title": "1-s2.0-S1359644620301197-main",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/Plasma Metabolic Stability/Literature/1-s2.0-S1359644620301197-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-literature-bookshelf-nbk326710-pdf",
+      "sha16": "0b42b30204d926b7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-literature-bookshelf-nbk326710-pdf.md",
+      "title": "Bookshelf_NBK326710",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/Plasma Metabolic Stability/Literature/Bookshelf_NBK326710.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-literature-doi-10-1016-j-ijpharm-2005-03-022-pdf",
+      "sha16": "804457e1486dcebc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-adme-plasma-metabolic-stability-literature-doi-10-1016-j-ijpharm-2005-03-022-pdf.md",
+      "title": "doi_10.1016_j.ijpharm.2005.03.022",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ADME/Plasma Metabolic Stability/Literature/doi_10.1016_j.ijpharm.2005.03.022.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-asms-posters-asms-2021-poster-covid-multiomics-pdf",
+      "sha16": "2f5c52a865bfb182",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-asms-posters-asms-2021-poster-covid-multiomics-pdf.md",
+      "title": "ASMS_2021_poster_COVID_multiomics",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ASMS Posters/ASMS_2021_poster_COVID_multiomics.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-asms-posters-cbd-asms2021-moo-youngkim-pdf",
+      "sha16": "ef2e3be819ac23ef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-asms-posters-cbd-asms2021-moo-youngkim-pdf.md",
+      "title": "CBD_ASMS2021_Moo-YoungKim",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ASMS Posters/CBD_ASMS2021_Moo-YoungKim.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-asms-posters-vilashini-rajaratnam-cv-nurix-therapeutics-pdf",
+      "sha16": "df8377d6dca798d7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-asms-posters-vilashini-rajaratnam-cv-nurix-therapeutics-pdf.md",
+      "title": "Vilashini Rajaratnam_CV_Nurix Therapeutics",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ASMS Posters/Vilashini Rajaratnam_CV_Nurix Therapeutics.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-asms-posters-vilashinirajaratnam-69thasms-pdf",
+      "sha16": "448e746a42be110a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-asms-posters-vilashinirajaratnam-69thasms-pdf.md",
+      "title": "vilashinirajaratnam_69thASMS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/ASMS Posters/vilashinirajaratnam_69thASMS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-lyophilization-pdf",
+      "sha16": "6aaabe0495105fce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-lyophilization-pdf.md",
+      "title": "Lyophilization",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Guides and Training/Purifications/Lyophilization.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-method-development-pdf",
+      "sha16": "f8a749280a8b4360",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-method-development-pdf.md",
+      "title": "Method Development",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Guides and Training/Purifications/Method Development.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-waters-ms-primer-pdf",
+      "sha16": "97d51faef4dc6ca3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-waters-ms-primer-pdf.md",
+      "title": "Waters MS Primer",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Guides and Training/Purifications/Waters MS Primer.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-at-column-dilution-waters-at-column-dilution-guide-pdf",
+      "sha16": "2e769a0ab2dd832f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-at-column-dilution-waters-at-column-dilution-guide-pdf.md",
+      "title": "Waters At Column Dilution Guide",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/At Column Dilution/Waters At Column Dilution Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-books-medicinal-chemistry-pdf",
+      "sha16": "81966d8e227fb679",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-books-medicinal-chemistry-pdf.md",
+      "title": "Medicinal Chemistry",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Books/Medicinal Chemistry.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-books-name-reactions-5thed-li-pdf",
+      "sha16": "38e12db593e98a46",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-books-name-reactions-5thed-li-pdf.md",
+      "title": "Name_Reactions_5thed_Li",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Books/Name_Reactions_5thed_Li.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-books-preclinical-development-handbook-pdf",
+      "sha16": "f32359f2307e6c6a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-books-preclinical-development-handbook-pdf.md",
+      "title": "Preclinical Development Handbook",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Books/Preclinical Development Handbook.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-colchicine-biotransformation-by-human-liver-microsomes-pdf",
+      "sha16": "a14ffa02ffa74f6a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-colchicine-biotransformation-by-human-liver-microsomes-pdf.md",
+      "title": "Colchicine biotransformation by human liver microsomes",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Colchicine biotransformation by human liver microsomes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-comprehensive-metabolite-identification-a-one-stop-solution-sciex-pdf",
+      "sha16": "3b8a87043ca73a08",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-comprehensive-metabolite-identification-a-one-stop-solution-sciex-pdf.md",
+      "title": "Comprehensive Metabolite Identification\u2013A One-Stop Solution Sciex",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Comprehensive Metabolite Identification\u2013A One-Stop Solution Sciex.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-drug-metabolism-in-drug-discoveryand-development-pdf",
+      "sha16": "e2c6840e47f20de0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-drug-metabolism-in-drug-discoveryand-development-pdf.md",
+      "title": "Drug metabolism in drug discoveryand development",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Drug metabolism in drug discoveryand development.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-estrogen-biosynthesis-phase-i-and-phase-ii-metabolism-and-action-in-en-9771d6b42f",
+      "sha16": "4f4da9c9bd74272a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-estrogen-biosynthesis-phase-i-and-phase-ii-metabolism-and-action-in-en-9771d6b42f.md",
+      "title": "Estrogen biosynthesis phase I and phase II metabolism and action in endometrial cancer",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Estrogen biosynthesis phase I and phase II metabolism and action in endometrial cancer.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-high-throughput-computer-assisted-specific-metid-a-revolution-for-drug-cb7984bbf9",
+      "sha16": "ac2250f57ab55669",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-high-throughput-computer-assisted-specific-metid-a-revolution-for-drug-cb7984bbf9.md",
+      "title": "High-throughput, computer assisted, specific MetID. A revolution for drug discovery",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/High-throughput, computer assisted, specific MetID. A revolution for drug discovery.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-mass-spectra-of-c-amino--and-c-azido-1-2-4-triazoles-pdf",
+      "sha16": "40d8321b682aa0df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-mass-spectra-of-c-amino--and-c-azido-1-2-4-triazoles-pdf.md",
+      "title": "Mass Spectra of C-Amino- and C-Azido-1,2,4-triazoles",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Mass Spectra of C-Amino- and C-Azido-1,2,4-triazoles.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-mass-spectrometric-methodologies-for-investigating-the-metabolic-pdf",
+      "sha16": "579855df4023df6f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-mass-spectrometric-methodologies-for-investigating-the-metabolic-pdf.md",
+      "title": "Mass Spectrometric Methodologies for Investigating the Metabolic",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Mass Spectrometric Methodologies for Investigating the Metabolic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-metabolism-biotransformation-ebook-pdf",
+      "sha16": "6f8bda1f3b4b4343",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-metabolism-biotransformation-ebook-pdf.md",
+      "title": "Metabolism-Biotransformation-eBook",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Metabolism-Biotransformation-eBook.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-preclinical-experimental-models-of-drug-metabolism-and-disposition-in-434a742538",
+      "sha16": "a125a8c9281fc2d2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-preclinical-experimental-models-of-drug-metabolism-and-disposition-in-434a742538.md",
+      "title": "Preclinical experimental models of drug metabolism and disposition in drug discovery and development",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Preclinical experimental models of drug metabolism and disposition in drug discovery and development.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-quantifying-molecular-partition-into-model-systems-of-biomembranes-an-aa5318ed7c",
+      "sha16": "a0799f69f6013331",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-quantifying-molecular-partition-into-model-systems-of-biomembranes-an-aa5318ed7c.md",
+      "title": "Quantifying molecular partition into model systems of biomembranes an emphasis on optical spectroscopic methods",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Quantifying molecular partition into model systems of biomembranes an emphasis on optical spectroscopic methods.pdf",
+      "confidence": "low"
+    }
+  ]
+}

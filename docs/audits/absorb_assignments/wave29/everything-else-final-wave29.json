@@ -1,0 +1,807 @@
+{
+  "assignment": "everything-else-final-wave29",
+  "wiki_dir": "references",
+  "wave": "wave29",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-pk1-pdf",
+      "sha16": "3b83fe676a24bbc5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-pk1-pdf.md",
+      "title": "2127 stage 1_PK1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/Agilent Chromatograms/2127 stage 1_PK1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-pk2-pdf",
+      "sha16": "8f23445ca7e4a0c0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-pk2-pdf.md",
+      "title": "2127 stage 1_PK2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/Agilent Chromatograms/2127 stage 1_PK2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-pk3-pdf",
+      "sha16": "2cde7babe55e914a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-pk3-pdf.md",
+      "title": "2127 stage 1_PK3",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/Agilent Chromatograms/2127 stage 1_PK3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk1-ms1-pdf",
+      "sha16": "4f0f822f8236d06a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk1-ms1-pdf.md",
+      "title": "STG1_PK1_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK1_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk1-ms2-pdf",
+      "sha16": "cd64c5c430542fd9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk1-ms2-pdf.md",
+      "title": "STG1_PK1_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK1_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk2-ms1-pdf",
+      "sha16": "bd237928a6618516",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk2-ms1-pdf.md",
+      "title": "STG1_PK2_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK2_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk2-ms2-pdf",
+      "sha16": "2b72086ed8dd546e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk2-ms2-pdf.md",
+      "title": "STG1_PK2_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK2_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk3-ms1-pdf",
+      "sha16": "8be6be58e7fc07cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk3-ms1-pdf.md",
+      "title": "STG1_PK3_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK3_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk3-ms2-pdf",
+      "sha16": "de7d5223a2c55933",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk3-ms2-pdf.md",
+      "title": "STG1_PK3_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK3_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk4-ms1-pdf",
+      "sha16": "94094524a1e6a97c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk4-ms1-pdf.md",
+      "title": "STG1_PK4_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK4_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk4-ms2-pdf",
+      "sha16": "3669d7c3650ee4b8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk4-ms2-pdf.md",
+      "title": "STG1_PK4_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK4_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-288-pdf",
+      "sha16": "dfecbabed91b886c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-288-pdf.md",
+      "title": "Hardcopy_288",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/2127PK2/Hardcopy_288.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-289-pdf",
+      "sha16": "858bf1a4d90d8e0f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-289-pdf.md",
+      "title": "Hardcopy_289",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/2127PK2/Hardcopy_289.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-290-pdf",
+      "sha16": "f3d0d1f6f4e7d631",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-290-pdf.md",
+      "title": "Hardcopy_290",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/2127PK2/Hardcopy_290.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-291-pdf",
+      "sha16": "5edfbf67aa52892f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-291-pdf.md",
+      "title": "Hardcopy_291",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/2127PK2/Hardcopy_291.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-292-pdf",
+      "sha16": "31ca1ae5cd1f461e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-292-pdf.md",
+      "title": "Hardcopy_292",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/2127PK2/Hardcopy_292.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-293-pdf",
+      "sha16": "e73001c971d0b85c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-293-pdf.md",
+      "title": "Hardcopy_293",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/2127PK2/Hardcopy_293.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-294-pdf",
+      "sha16": "2c26b9ebb4d8cd38",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-2127pk2-hardcopy-294-pdf.md",
+      "title": "Hardcopy_294",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/2127PK2/Hardcopy_294.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-agilent-chromatograms-2127-stage-2-pdf",
+      "sha16": "b5cb16d0e8ef199f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-agilent-chromatograms-2127-stage-2-pdf.md",
+      "title": "2127 stage 2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/Agilent Chromatograms/2127 stage 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk2-post-sfc-ms1-pdf",
+      "sha16": "5752c84c3a885f83",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk2-post-sfc-ms1-pdf.md",
+      "title": "STG2_PK2_POST SFC_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/STG2_PK2_POST SFC_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk2-post-sfc-ms2-pdf",
+      "sha16": "e6e979b5219e8237",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk2-post-sfc-ms2-pdf.md",
+      "title": "STG2_PK2_POST SFC_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/STG2_PK2_POST SFC_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk4-post-prep-ms1-pdf",
+      "sha16": "ad576b9075dabb71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk4-post-prep-ms1-pdf.md",
+      "title": "STG2_PK4_POST PREP_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/STG2_PK4_POST PREP_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk4-post-prep-ms2-pdf",
+      "sha16": "f24332c0956ce5c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk4-post-prep-ms2-pdf.md",
+      "title": "STG2_PK4_POST PREP_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/STG2_PK4_POST PREP_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-waste-nurix-chem-haz-sharps-waste-pdf",
+      "sha16": "b3b918d20416f7a4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-waste-nurix-chem-haz-sharps-waste-pdf.md",
+      "title": "Nurix Chem Haz Sharps Waste",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Waste/Nurix Chem Haz Sharps Waste.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-waste-nurix-chem-liquid-waste-pdf",
+      "sha16": "4193da8bee09de32",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-waste-nurix-chem-liquid-waste-pdf.md",
+      "title": "Nurix Chem  Liquid Waste",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Waste/Nurix Chem  Liquid Waste.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-waste-nurix-chem-solid-waste-pdf",
+      "sha16": "cff805dd1f16df12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-waste-nurix-chem-solid-waste-pdf.md",
+      "title": "Nurix Chem Solid Waste",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Waste/Nurix Chem Solid Waste.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-braf-02-quintara-master-sow-quintara-d-4-jun-2023-8461-braf-pdf",
+      "sha16": "55da49e1c01415fc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-braf-02-quintara-master-sow-quintara-d-4-jun-2023-8461-braf-pdf.md",
+      "title": "02_Quintara_Master SOW (QUINTARA D-4)_(Jun 2023)_8461_BRAF",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/BRAF/02_Quintara_Master SOW (QUINTARA D-4)_(Jun 2023)_8461_BRAF.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-braf-03-sow-quintara-d-5-nov-2023-9067-braf-pdf",
+      "sha16": "7a5dfdb180a51a03",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-braf-03-sow-quintara-d-5-nov-2023-9067-braf-pdf.md",
+      "title": "03_SOW (QUINTARA D-5)_(Nov 2023)_9067_BRAF",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/BRAF/03_SOW (QUINTARA D-5)_(Nov 2023)_9067_BRAF.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-gld-01-quintara-master-sow-quintara-a-5-feb-2023-7951-gld-pdf",
+      "sha16": "2ba34df47ac3f6a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-gld-01-quintara-master-sow-quintara-a-5-feb-2023-7951-gld-pdf.md",
+      "title": "01_Quintara_Master SOW (QUINTARA A-5)_(Feb 2023)_7951_GLD",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/GLD/01_Quintara_Master SOW (QUINTARA A-5)_(Feb 2023)_7951_GLD.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-gld-02-quintara-master-sow-quintara-a-7-sep-2023-8842-pdf",
+      "sha16": "e348d98f1a9c93f9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-gld-02-quintara-master-sow-quintara-a-7-sep-2023-8842-pdf.md",
+      "title": "02_Quintara_Master SOW (QUINTARA A-7)_(Sep 2023)_8842",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/GLD/02_Quintara_Master SOW (QUINTARA A-7)_(Sep 2023)_8842.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-gld-03-quintara-master-sow-quintara-b-6-nov-2023-9066-gld-pdf",
+      "sha16": "1a95714617c04a68",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-gld-03-quintara-master-sow-quintara-b-6-nov-2023-9066-gld-pdf.md",
+      "title": "03_Quintara_Master SOW (QUINTARA-B-6)_(Nov 2023)_9066_GLD",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/GLD/03_Quintara_Master SOW (QUINTARA-B-6)_(Nov 2023)_9066_GLD.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-nx-2127-quintara-sow-qa-10252-jul-2023-8550-pdf",
+      "sha16": "973c8886e21e926a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-nx-2127-quintara-sow-qa-10252-jul-2023-8550-pdf.md",
+      "title": "Quintara_SOW QA-10252_(Jul 2023)_8550",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/NX-2127/Quintara_SOW QA-10252_(Jul 2023)_8550.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-snf-01-quintara-master-sow-quintara-b-4-feb-2023-7952-snf-pdf",
+      "sha16": "7caf2ad2cdea036d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-snf-01-quintara-master-sow-quintara-b-4-feb-2023-7952-snf-pdf.md",
+      "title": "01_Quintara_Master SOW (QUINTARA-B-4)_(Feb 2023)_7952_SNF",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/SNF/01_Quintara_Master SOW (QUINTARA-B-4)_(Feb 2023)_7952_SNF.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-snf-02-quintara-master-sow-qa-9818-may-2023-8320-snf-pdf",
+      "sha16": "acc69d082727fea9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-snf-02-quintara-master-sow-qa-9818-may-2023-8320-snf-pdf.md",
+      "title": "02_Quintara_Master SOW QA-9818_(May 2023)_8320_SNF",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/SNF/02_Quintara_Master SOW QA-9818_(May 2023)_8320_SNF.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-snf-03-quintara-master-sow-quintara-b-5-jul-2023-8460-pdf",
+      "sha16": "f66a725f1dee5bd8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-snf-03-quintara-master-sow-quintara-b-5-jul-2023-8460-pdf.md",
+      "title": "03_Quintara_Master SOW (QUINTARA-B-5)_(Jul 2023)_8460",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/SNF/03_Quintara_Master SOW (QUINTARA-B-5)_(Jul 2023)_8460.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-snf-04-quintara-master-sow-quintara-a-6-sep-2023-8761-snf-pdf",
+      "sha16": "2578a93536fe19b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-snf-04-quintara-master-sow-quintara-a-6-sep-2023-8761-snf-pdf.md",
+      "title": "04_Quintara_Master SOW (QUINTARA A-6)_(Sep 2023)_8761_SNF",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/SNF/04_Quintara_Master SOW (QUINTARA A-6)_(Sep 2023)_8761_SNF.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-msow-snf-05-quintara-master-sow-quintara-a-8-nov-2023-9065-snf-pdf",
+      "sha16": "fe859578ba8475f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-msow-snf-05-quintara-master-sow-quintara-a-8-nov-2023-9065-snf-pdf.md",
+      "title": "05_Quintara_Master SOW (QUINTARA A-8)_(Nov 2023)_9065_SNF",
+      "source_id": "Analytical Chemistry/Quintara/2023/MSOW/SNF/05_Quintara_Master SOW (QUINTARA A-8)_(Nov 2023)_9065_SNF.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-10172-nurix-05262023-herg-pdf",
+      "sha16": "e865b8657289f88c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-quote-qdi-quotation---qa-10172-nurix-05262023-herg-pdf.md",
+      "title": "QDI Quotation - QA-10172 Nurix 05262023_hERG",
+      "source_id": "Analytical Chemistry/Quintara/2023/Quote/QDI Quotation - QA-10172 Nurix 05262023_hERG.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-balbc-mouse-hepaotcytes-gjc-s00493-pdf",
+      "sha16": "e3eead93cf8c63da",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-balbc-mouse-hepaotcytes-gjc-s00493-pdf.md",
+      "title": "Male Balbc Mouse Hepaotcytes GJC.S00493",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Hepatocytes/Male Balbc Mouse Hepaotcytes GJC.S00493.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-beagle-dog-hepatocytes-dhv-m00205-pdf",
+      "sha16": "7530d2e820beef83",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-beagle-dog-hepatocytes-dhv-m00205-pdf.md",
+      "title": "Male Beagle Dog Hepatocytes DHV.M00205",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Hepatocytes/Male Beagle Dog Hepatocytes DHV.M00205.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-c57bl6-mouse-hepatocytes-khz-s00463-pdf",
+      "sha16": "5014218d8238899a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-c57bl6-mouse-hepatocytes-khz-s00463-pdf.md",
+      "title": "Male C57BL6 Mouse Hepatocytes KHZ.S00463",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Hepatocytes/Male C57BL6 Mouse Hepatocytes KHZ.S00463.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-cyno-monkey-hepatocytes-kfv-m00305-pdf",
+      "sha16": "6059662ac3f78594",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-cyno-monkey-hepatocytes-kfv-m00305-pdf.md",
+      "title": "Male Cyno Monkey Hepatocytes KFV.M00305",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Hepatocytes/Male Cyno Monkey Hepatocytes KFV.M00305.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-sd-rat-hepatocytes-puf-m00005-pdf",
+      "sha16": "f0c6d778ae2f92f8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-male-sd-rat-hepatocytes-puf-m00005-pdf.md",
+      "title": "Male SD Rat Hepatocytes PUF.M00005",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Hepatocytes/Male SD Rat Hepatocytes PUF.M00005.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-mixed-gender-human-hepatocytes-asw-x008000-pdf",
+      "sha16": "9140747b21c01f64",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-hepatocytes-mixed-gender-human-hepatocytes-asw-x008000-pdf.md",
+      "title": "Mixed Gender Human Hepatocytes ASW.X008000",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Hepatocytes/Mixed Gender Human Hepatocytes ASW.X008000.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-balbc-mouse-lm-s00719-lot-gzi-pdf",
+      "sha16": "45bf6f269a720390",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-balbc-mouse-lm-s00719-lot-gzi-pdf.md",
+      "title": "Male Balbc Mouse LM S00719 Lot GZI",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Microsomes/Male Balbc Mouse LM S00719 Lot GZI.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-beagle-dog-lm-452601-lot-35357-pdf",
+      "sha16": "c57d37eed50bc1d8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-beagle-dog-lm-452601-lot-35357-pdf.md",
+      "title": "Male Beagle Dog LM 452601 Lot 35357",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Microsomes/Male Beagle Dog LM 452601 Lot 35357.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-c57bl6-mouse-lm-m00511-lot-zic-pdf",
+      "sha16": "6e998a9083348cc6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-c57bl6-mouse-lm-m00511-lot-zic-pdf.md",
+      "title": "Male C57BL6 Mouse LM M00511 Lot ZIC",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Microsomes/Male C57BL6 Mouse LM M00511 Lot ZIC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-cyno-monkey-lm-452413-lot-0041001cnc-pdf",
+      "sha16": "88fa2ef2db3faf58",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-cyno-monkey-lm-452413-lot-0041001cnc-pdf.md",
+      "title": "Male Cyno Monkey LM 452413 Lot 0041001CNC",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Microsomes/Male Cyno Monkey LM 452413 Lot 0041001CNC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-sd-rat-lm-452501-lot-1300002-pdf",
+      "sha16": "1954320cb79c1ec5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-sd-rat-lm-452501-lot-1300002-pdf.md",
+      "title": "Male SD Rat LM 452501 Lot 1300002",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Microsomes/Male SD Rat LM 452501 Lot 1300002.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-wh-rat-lm-452511-lot-0104002-pdf",
+      "sha16": "e29b59a26100d145",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-male-wh-rat-lm-452511-lot-0104002-pdf.md",
+      "title": "Male WH Rat LM 452511 Lot 0104002",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Microsomes/Male WH Rat LM 452511 Lot 0104002.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-pooled-human-lm-452117-lot-38297-pdf",
+      "sha16": "708fabefaca00475",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-microsomes-pooled-human-lm-452117-lot-38297-pdf.md",
+      "title": "Pooled Human LM 452117 Lot 38297",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Microsomes/Pooled Human LM 452117 Lot 38297.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-balbc-mouse-plasma-mse468881-pdf",
+      "sha16": "158a465f1f164acd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-balbc-mouse-plasma-mse468881-pdf.md",
+      "title": "Pooled BalbC Mouse Plasma MSE468881",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Plasma/Pooled BalbC Mouse Plasma MSE468881.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-beagle-dog-plasma-bgl144768-pdf",
+      "sha16": "2adfad229a8c0a7b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-beagle-dog-plasma-bgl144768-pdf.md",
+      "title": "Pooled Beagle Dog Plasma BGL144768",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Plasma/Pooled Beagle Dog Plasma BGL144768.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-c57bl6-mouse-plasma-mse425803-pdf",
+      "sha16": "50ac6711599d5dfa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-c57bl6-mouse-plasma-mse425803-pdf.md",
+      "title": "Pooled C57BL6 Mouse Plasma MSE425803",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Plasma/Pooled C57BL6 Mouse Plasma MSE425803.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-cyno-monkey-plasma-cyn359380-pdf",
+      "sha16": "900bd78e3b2db4a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-cyno-monkey-plasma-cyn359380-pdf.md",
+      "title": "Pooled Cyno Monkey Plasma CYN359380",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Plasma/Pooled Cyno Monkey Plasma CYN359380.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-human-plasma-hmn1085463-pdf",
+      "sha16": "f3691ebddc6c50ea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-human-plasma-hmn1085463-pdf.md",
+      "title": "Pooled Human Plasma HMN1085463",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Plasma/Pooled Human Plasma HMN1085463.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-human-plasma-hmn1103171-pdf",
+      "sha16": "2bafc736569069c9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-human-plasma-hmn1103171-pdf.md",
+      "title": "Pooled Human Plasma HMN1103171",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Plasma/Pooled Human Plasma HMN1103171.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-sd-rat-plasma-rat527894-pdf",
+      "sha16": "496e0c4a4af2f5ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-sd-rat-plasma-rat527894-pdf.md",
+      "title": "Pooled SD Rat Plasma RAT527894",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Plasma/Pooled SD Rat Plasma RAT527894.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-sd-rat-plasma-rat528849-pdf",
+      "sha16": "cad0c51a448afaec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2023-reagents-2023-10-30-nurix-coas-plasma-pooled-sd-rat-plasma-rat528849-pdf.md",
+      "title": "Pooled SD Rat Plasma RAT528849",
+      "source_id": "Analytical Chemistry/Quintara/2023/Reagents/2023-10-30 Nurix CoAs/Plasma/Pooled SD Rat Plasma RAT528849.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2024-quote-frontage-metid-quote-pdf",
+      "sha16": "70fae1ef008019c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2024-quote-frontage-metid-quote-pdf.md",
+      "title": "Frontage MetID Quote",
+      "source_id": "Analytical Chemistry/Quintara/2024/Quote/Frontage MetID Quote.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2025-quote-frontage---q-12570-nurix-021325-pdf",
+      "sha16": "87bc78f49d2ae457",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2025-quote-frontage---q-12570-nurix-021325-pdf.md",
+      "title": "Frontage - Q-12570 Nurix 021325",
+      "source_id": "Analytical Chemistry/Quintara/2025/Quote/Frontage - Q-12570 Nurix 021325.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2025-quote-frontage---q-12946-nurix-100925-pdf",
+      "sha16": "8f2aa9683db6525d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2025-quote-frontage---q-12946-nurix-100925-pdf.md",
+      "title": "Frontage - Q-12946 Nurix 100925",
+      "source_id": "Analytical Chemistry/Quintara/2025/Quote/Frontage - Q-12946 Nurix 100925.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2025-quote-frontage-met-id-pdf",
+      "sha16": "6cc4f7d5c5edb2be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2025-quote-frontage-met-id-pdf.md",
+      "title": "Frontage Met ID",
+      "source_id": "Analytical Chemistry/Quintara/2025/Quote/Frontage Met ID.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2026-quote-2026-menu-quote-pdf",
+      "sha16": "f4977f382f9859bf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2026-quote-2026-menu-quote-pdf.md",
+      "title": "2026 Menu Quote",
+      "source_id": "Analytical Chemistry/Quintara/2026/Quote/2026 Menu Quote.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-adme-20328521-02-q-ses-nurix-kettenstock-fluent780-pdf",
+      "sha16": "af49812b764c2d51",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-adme-20328521-02-q-ses-nurix-kettenstock-fluent780-pdf.md",
+      "title": "20328521-02-Q-SES-Nurix-Kettenstock-Fluent780",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/ADME/20328521-02-Q-SES-Nurix-Kettenstock-Fluent780.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-analytical-chemistry-robert-kettenstock-nurix-ot-2-only-updated-pdf",
+      "sha16": "8a051ee6e7e94fc7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-analytical-chemistry-robert-kettenstock-nurix-ot-2-only-updated-pdf.md",
+      "title": "Robert Kettenstock Nurix OT-2 Only updated",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Analytical Chemistry/Robert Kettenstock Nurix OT-2 Only updated.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-analytical-chemistry-robert-kettenstock-nurix-ot-2-tips-updated-pdf",
+      "sha16": "ceacc868617ffff1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-analytical-chemistry-robert-kettenstock-nurix-ot-2-tips-updated-pdf.md",
+      "title": "Robert Kettenstock Nurix OT-2 Tips updated",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Analytical Chemistry/Robert Kettenstock Nurix OT-2 Tips updated.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-20328521-01-q-ses-nurix-kettenstock-fluent780-pdf",
+      "sha16": "2b927f73188a3e60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-20328521-01-q-ses-nurix-kettenstock-fluent780-pdf.md",
+      "title": "20328521-01-Q-SES-Nurix-Kettenstock-Fluent780",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Quotes/20328521-01-Q-SES-Nurix-Kettenstock-Fluent780.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-092523-opentrons-quote-pdf",
+      "sha16": "078272627af82c0b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-092523-opentrons-quote-pdf.md",
+      "title": "092523_OpenTrons_Quote",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Quotes/Old Quotes/092523_OpenTrons_Quote.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-092623-tecan-quote-centrifuge-pdf",
+      "sha16": "8be41784d561247f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-092623-tecan-quote-centrifuge-pdf.md",
+      "title": "092623_Tecan_Quote_Centrifuge",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Quotes/Old Quotes/092623_Tecan_Quote_Centrifuge.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-100223-tecan-quote-no-centrifuge-pdf",
+      "sha16": "7d657bb3885fea5a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-100223-tecan-quote-no-centrifuge-pdf.md",
+      "title": "100223_Tecan_Quote_No_Centrifuge",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Quotes/Old Quotes/100223_Tecan_Quote_No_Centrifuge.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-20328521-01-q-ses-nurix-kettenstock-fluent780-pdf",
+      "sha16": "2b927f73188a3e60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-20328521-01-q-ses-nurix-kettenstock-fluent780-pdf.md",
+      "title": "20328521-01-Q-SES-Nurix-Kettenstock-Fluent780",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Quotes/Old Quotes/20328521-01-Q-SES-Nurix-Kettenstock-Fluent780.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-tecan-fluent-system-proposal-for-nurix---kettenstock-final-pdf",
+      "sha16": "4f1d17d130e19b18",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-quotes-old-quotes-tecan-fluent-system-proposal-for-nurix---kettenstock-final-pdf.md",
+      "title": "Tecan Fluent System Proposal for Nurix - Kettenstock (final)",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Quotes/Old Quotes/Tecan Fluent System Proposal for Nurix - Kettenstock (final).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-integra-integra-quotation-2200089020---02-nurix-therapeutics-inc-1-pdf",
+      "sha16": "e3ee2131320cb27f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-integra-integra-quotation-2200089020---02-nurix-therapeutics-inc-1-pdf.md",
+      "title": "INTEGRA-Quotation-2200089020 - 02-Nurix Therapeutics, Inc. (1)",
+      "source_id": "Analytical Chemistry/Robert K - Public/Integra/INTEGRA-Quotation-2200089020 - 02-Nurix Therapeutics, Inc. (1).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-temp-flashscan2d-quicksetupguide-v2-pdf",
+      "sha16": "0ecba1082d4b5690",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-temp-flashscan2d-quicksetupguide-v2-pdf.md",
+      "title": "FlashScan2D QuickSetupGuide V2",
+      "source_id": "Analytical Chemistry/Robert K - Public/Temp/FlashScan2D QuickSetupGuide V2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-temp-user-guide-flashscan2d-pdf",
+      "sha16": "4b5e917640d42bd1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-temp-user-guide-flashscan2d-pdf.md",
+      "title": "User Guide FlashScan2D",
+      "source_id": "Analytical Chemistry/Robert K - Public/Temp/User Guide FlashScan2D.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-2d-lc-paper-pdf",
+      "sha16": "f5c2ffa7945a3e99",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-2d-lc-paper-pdf.md",
+      "title": "2D-LC paper",
+      "source_id": "Analytical Chemistry/Shayla - Public/2D-LC paper.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-epsa-paper-pdf",
+      "sha16": "d826db96fbdeca7c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-epsa-paper-pdf.md",
+      "title": "EPSA paper",
+      "source_id": "Analytical Chemistry/Shayla - Public/EPSA paper.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-2024-1095-pdf",
+      "sha16": "a59786e85c18998c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-miscellaneous-2024-1095-pdf.md",
+      "title": "2024_1095",
+      "source_id": "Analytical Chemistry/Shayla - Public/Miscellaneous/2024_1095.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-2024-1099-pdf",
+      "sha16": "bd9bafd8bbb38ba5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-miscellaneous-2024-1099-pdf.md",
+      "title": "2024_1099",
+      "source_id": "Analytical Chemistry/Shayla - Public/Miscellaneous/2024_1099.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-daicel-chiral-tech-poster-feb-2024-final-pdf",
+      "sha16": "6d8194f47e36ebe8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-miscellaneous-daicel-chiral-tech-poster-feb-2024-final-pdf.md",
+      "title": "Daicel-Chiral-Tech-Poster-Feb-2024-FINAL",
+      "source_id": "Analytical Chemistry/Shayla - Public/Miscellaneous/Daicel-Chiral-Tech-Poster-Feb-2024-FINAL.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-phinney-2000-peer-reviewed-sfc-of-drug-enantiomers-pdf",
+      "sha16": "4fee01ddcf91ad09",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-miscellaneous-phinney-2000-peer-reviewed-sfc-of-drug-enantiomers-pdf.md",
+      "title": "phinney-2000-peer-reviewed-sfc-of-drug-enantiomers",
+      "source_id": "Analytical Chemistry/Shayla - Public/Miscellaneous/phinney-2000-peer-reviewed-sfc-of-drug-enantiomers.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-miscellaneous-scientist-ic-track-2025-pdf",
+      "sha16": "676d73efe5ade6c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-miscellaneous-scientist-ic-track-2025-pdf.md",
+      "title": "Scientist IC Track_2025",
+      "source_id": "Analytical Chemistry/Shayla - Public/Miscellaneous/Scientist IC Track_2025.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-nurix-trivia-pdf",
+      "sha16": "ce54928d4e71076b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-nurix-trivia-pdf.md",
+      "title": "Nurix Trivia",
+      "source_id": "Analytical Chemistry/Shayla - Public/Nurix Trivia.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-quote-s162421-daicel-pdf",
+      "sha16": "695e32362742c5b0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-quote-s162421-daicel-pdf.md",
+      "title": "Quote S162421_Daicel",
+      "source_id": "Analytical Chemistry/Shayla - Public/Quote S162421_Daicel.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-shayla---public-quote-s162421-regis-pdf",
+      "sha16": "f2e9d4c8cbe9ec2b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-shayla---public-quote-s162421-regis-pdf.md",
+      "title": "Quote S162421_Regis",
+      "source_id": "Analytical Chemistry/Shayla - Public/Quote S162421_Regis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-chromatogram-12-5-diltiazem-210623-pdf",
+      "sha16": "6a69c41eaefc7f34",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-chromatogram-12-5-diltiazem-210623-pdf.md",
+      "title": "12.5 Diltiazem_210623",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Chromatogram/12.5 Diltiazem_210623.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-chromatogram-37-5-propranolol-210623-pdf",
+      "sha16": "96a9332e72053a6c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-chromatogram-37-5-propranolol-210623-pdf.md",
+      "title": "37.5 Propranolol_210623",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Chromatogram/37.5 Propranolol_210623.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-chromatogram-result-210621-pdf",
+      "sha16": "53cd78de44985b2e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-chromatogram-result-210621-pdf.md",
+      "title": "Result_210621",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Chromatogram/Result_210621.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-chromatogram-result-210623-pdf",
+      "sha16": "a220190df14f4122",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-chromatogram-result-210623-pdf.md",
+      "title": "Result_210623",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Chromatogram/Result_210623.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-chromatogram-training-results-pdf",
+      "sha16": "a86d8222d91e911c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-chromatogram-training-results-pdf.md",
+      "title": "Training_results",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Chromatogram/Training_results.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-chromatogram-training2-result-1332-pdf",
+      "sha16": "0e5da6cf78f58bbd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-chromatogram-training2-result-1332-pdf.md",
+      "title": "Training2_Result 1332",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Chromatogram/Training2_Result 1332.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-a-review-of-waters-hybrid-particle-technology-part-3-csh-pdf",
+      "sha16": "289de8a0eff72edf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-a-review-of-waters-hybrid-particle-technology-part-3-csh-pdf.md",
+      "title": "A review of Waters Hybrid Particle Technology_Part 3_CSH",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/A review of Waters Hybrid Particle Technology_Part 3_CSH.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-books-medicinal-chemistry-pdf",
+      "sha16": "81966d8e227fb679",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-books-medicinal-chemistry-pdf.md",
+      "title": "Medicinal Chemistry",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Books/Medicinal Chemistry.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-books-name-reactions-5thed-li-pdf",
+      "sha16": "38e12db593e98a46",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-books-name-reactions-5thed-li-pdf.md",
+      "title": "Name_Reactions_5thed_Li",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Books/Name_Reactions_5thed_Li.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-books-preclinical-development-handbook-pdf",
+      "sha16": "f32359f2307e6c6a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-books-preclinical-development-handbook-pdf.md",
+      "title": "Preclinical Development Handbook",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Books/Preclinical Development Handbook.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-colchicine-biotransformation-by-human-liver-microsomes-pdf",
+      "sha16": "a14ffa02ffa74f6a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-colchicine-biotransformation-by-human-liver-microsomes-pdf.md",
+      "title": "Colchicine biotransformation by human liver microsomes",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Colchicine biotransformation by human liver microsomes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-comprehensive-metabolite-identification-a-one-stop-solution-sciex-pdf",
+      "sha16": "3b8a87043ca73a08",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-comprehensive-metabolite-identification-a-one-stop-solution-sciex-pdf.md",
+      "title": "Comprehensive Metabolite Identification\u2013A One-Stop Solution Sciex",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Comprehensive Metabolite Identification\u2013A One-Stop Solution Sciex.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-drug-metabolism-in-drug-discoveryand-development-pdf",
+      "sha16": "e2c6840e47f20de0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-drug-metabolism-in-drug-discoveryand-development-pdf.md",
+      "title": "Drug metabolism in drug discoveryand development",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Drug metabolism in drug discoveryand development.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-literature-fundamental-lc-ms-mass-analysers-pdf",
+      "sha16": "be21363f24a69050",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-literature-fundamental-lc-ms-mass-analysers-pdf.md",
+      "title": "Fundamental_LC-MS_Mass_Analysers",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Literature/Fundamental_LC-MS_Mass_Analysers.pdf",
+      "confidence": "low"
+    }
+  ]
+}

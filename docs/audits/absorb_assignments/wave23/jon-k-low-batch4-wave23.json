@@ -1,0 +1,327 @@
+{
+  "assignment": "jon-k-low-batch4-wave23",
+  "wiki_dir": "references",
+  "wave": "wave23",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-20240286-pdf",
+      "sha16": "4f894b0da3202932",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-20240286-pdf.md",
+      "title": "20240286",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/3911/20240286.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-20240287-pdf",
+      "sha16": "55522ecc905cb61e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-20240287-pdf.md",
+      "title": "20240287",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/3911/20240287.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-20240906-3911-003-tsol-report-pdf",
+      "sha16": "8d81a536d044e9fb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-20240906-3911-003-tsol-report-pdf.md",
+      "title": "20240906  3911-003 Tsol report",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/3911/20240906  3911-003 Tsol report.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-keller-jon-1030202485243-pdf",
+      "sha16": "56ebcf68b53d8bb0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-3911-keller-jon-1030202485243-pdf.md",
+      "title": "Keller_Jon_1030202485243",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/3911/Keller_Jon_1030202485243.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-8535-006-pdf",
+      "sha16": "d3defd6adac2bfb1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-8535-006-pdf.md",
+      "title": "8535-006",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/8535-006.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-20241212-ben-del-qc-pdf",
+      "sha16": "670c09c5650ccbf8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-20241212-ben-del-qc-pdf.md",
+      "title": "20241212 Ben DEL QC",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/ben/20241212 Ben DEL QC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-20241216-lc-cad-uv-tic-chromatograms-pdf",
+      "sha16": "fcce13e060ad2a20",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-20241216-lc-cad-uv-tic-chromatograms-pdf.md",
+      "title": "20241216 LC CAD UV TIC chromatograms",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/ben/20241216 LC CAD UV TIC chromatograms.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-unknown-pdf",
+      "sha16": "05bfa0052b31a40f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-ben-unknown-pdf.md",
+      "title": "Unknown",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/ben/Unknown.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-1607-rmi-solvent-ash-pdf",
+      "sha16": "6b7dc0964563d11e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-1607-rmi-solvent-ash-pdf.md",
+      "title": "1607 rmi solvent ash",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/1607 rmi solvent ash.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-1607-rmi-thermal-2-pdf",
+      "sha16": "cdc7353d0156d041",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-1607-rmi-thermal-2-pdf.md",
+      "title": "1607 rmi thermal 2",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/1607 rmi thermal 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-1607-rmi-thermal-pdf",
+      "sha16": "57528fe2ddf45cb1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-1607-rmi-thermal-pdf.md",
+      "title": "1607 rmi thermal",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/1607 rmi thermal.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-20220143-pdf",
+      "sha16": "d0a36c29a41634f2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-20220143-pdf.md",
+      "title": "20220143",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/20220143.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-20220144-pdf",
+      "sha16": "f50533657cc94845",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-20220144-pdf.md",
+      "title": "20220144",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/20220144.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-3911-0016-residual-solvents-pdf",
+      "sha16": "fc50fb31ce493f27",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-3911-0016-residual-solvents-pdf.md",
+      "title": "3911-0016 residual solvents",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/3911-0016 residual solvents.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-3911-0016-thermal-2-pdf",
+      "sha16": "0c60d0a057bc04e9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-3911-0016-thermal-2-pdf.md",
+      "title": "3911-0016 thermal 2",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/3911-0016 thermal 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-3911-0016-thermal-pdf",
+      "sha16": "ee5d5b462e1848ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-3911-0016-thermal-pdf.md",
+      "title": "3911-0016 thermal",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/3911-0016 thermal.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-coa-raw-data-20240316-pdf",
+      "sha16": "a92102131b2d37ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-coa-raw-data-20240316-pdf.md",
+      "title": "20240316",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/8599-012 CoA raw data/20240316.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-coa-raw-data-20240317-pdf",
+      "sha16": "01da9bfc426caf1c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-coa-raw-data-20240317-pdf.md",
+      "title": "20240317",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/8599-012 CoA raw data/20240317.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-coa-raw-data-keller-jon-1119202481022-pdf",
+      "sha16": "8f3b75470434481f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-coa-raw-data-keller-jon-1119202481022-pdf.md",
+      "title": "Keller_Jon_1119202481022",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/8599-012 CoA raw data/Keller_Jon_1119202481022.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-rnl-pdf",
+      "sha16": "feb26552ba3084fb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-8599-012-rnl-pdf.md",
+      "title": "8599-012 rnl",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/8599-012 rnl.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-analysis-2127-21-aa-pdf",
+      "sha16": "70559adac52279e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-certificate-of-analysis-2127-21-aa-pdf.md",
+      "title": "Certificate_of_Analysis_2127_21_AA",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/Certificate_of_Analysis_2127_21_AA.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-keller-jon-48202214269-pdf",
+      "sha16": "aa1329b5d7a5669b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-keller-jon-48202214269-pdf.md",
+      "title": "Keller_Jon_48202214269",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/Keller_Jon_48202214269.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-melting-pt-3911-008-pdf",
+      "sha16": "74c1b625eee1e2b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-melting-pt-3911-008-pdf.md",
+      "title": "melting pt 3911-008",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/melting pt 3911-008.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-gcms-1607-pdf",
+      "sha16": "8f3862d773add272",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-gcms-1607-pdf.md",
+      "title": "GCMS 1607",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/rmi request form/GCMS 1607.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-gcms-r1-2127-pdf",
+      "sha16": "b0aed4a85e4312f4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-gcms-r1-2127-pdf.md",
+      "title": "GCMS R1 2127",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/rmi request form/GCMS R1 2127.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-gcms-r1-pdf",
+      "sha16": "4088bb2ea3163277",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-gcms-r1-pdf.md",
+      "title": "GCMS R1",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/rmi request form/GCMS R1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-rml-general-analysis-request-r2-2127-pdf",
+      "sha16": "952ba9daade969af",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-rml-general-analysis-request-r2-2127-pdf.md",
+      "title": "RML General Analysis Request R2 2127",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/rmi request form/RML General Analysis Request R2 2127.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-rml-general-analysis-request-r2-pdf",
+      "sha16": "f66a4c06082fbe44",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-rml-general-analysis-request-r2-pdf.md",
+      "title": "RML General Analysis Request R2",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/rmi request form/RML General Analysis Request R2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-thermal-1607-pdf",
+      "sha16": "cbeb225d6577115d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-thermal-1607-pdf.md",
+      "title": "THERMAL 1607",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/rmi request form/THERMAL 1607.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-thermal-r1-2127-pdf",
+      "sha16": "2e0e63357bd4c9be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-thermal-r1-2127-pdf.md",
+      "title": "THERMAL R1 2127",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/rmi request form/THERMAL R1 2127.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-thermal-r1-pdf",
+      "sha16": "6254a0df4f9756ec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-rmi-request-form-thermal-r1-pdf.md",
+      "title": "THERMAL R1",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/rmi request form/THERMAL R1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-stat6-aurora-residual-solvents-keller-jon-115202413124-pdf",
+      "sha16": "5d7b7250f6ff80d1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-stat6-aurora-residual-solvents-keller-jon-115202413124-pdf.md",
+      "title": "STAT6 AURORA residual solvents Keller_Jon_115202413124",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/STAT6 AURORA residual solvents Keller_Jon_115202413124.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-thermal-3911-008-pdf",
+      "sha16": "2462f210cc7652b8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-coa-thermal-3911-008-pdf.md",
+      "title": "thermal 3911-008",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoA/thermal 3911-008.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-0479-005-uv-pdf",
+      "sha16": "fc923494032b9bef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-0479-005-uv-pdf.md",
+      "title": "0479-005 UV",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/0479-005 UV.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-13-1904-pdf",
+      "sha16": "abfc3e91718c5cb9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-13-1904-pdf.md",
+      "title": "13-1904",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/13-1904.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241030-4972-3911-gcsm-pdf",
+      "sha16": "03f02af42b0985e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241030-4972-3911-gcsm-pdf.md",
+      "title": "20241030 4972 3911 gcsm",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/20241030 4972 3911 gcsm.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241127-vl-qc-bcatenin-pdf",
+      "sha16": "349d0c39d11af90f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241127-vl-qc-bcatenin-pdf.md",
+      "title": "20241127 VL QC Bcatenin",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/20241127 VL QC Bcatenin.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241204-snf01-9136-pos-neg-result-qc-pdf",
+      "sha16": "a1504c18be087461",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241204-snf01-9136-pos-neg-result-qc-pdf.md",
+      "title": "20241204 SNF01 9136  pos neg result qc",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/20241204 SNF01 9136  pos neg result qc.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241212-ben-del-qc-pdf",
+      "sha16": "a837be499fc7c5fb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20241212-ben-del-qc-pdf.md",
+      "title": "20241212 Ben DEL QC",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/20241212 Ben DEL QC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20250107-ben-qc-sample-03-04-2025-01-08-00-53-05-pdf",
+      "sha16": "f9dad7b634127ca3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20250107-ben-qc-sample-03-04-2025-01-08-00-53-05-pdf.md",
+      "title": "20250107 Ben QC sample 03 04 2025-01-08 00-53-05",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/20250107 Ben QC sample 03 04 2025-01-08 00-53-05.pdf",
+      "confidence": "low"
+    }
+  ]
+}

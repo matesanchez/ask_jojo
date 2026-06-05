@@ -1,0 +1,327 @@
+{
+  "assignment": "misc-B-wave28",
+  "wiki_dir": "references",
+  "wave": "wave28",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220610-liquid-handler-quant-final-v2-pdf",
+      "sha16": "e90f2bc5066dd7e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220610-liquid-handler-quant-final-v2-pdf.md",
+      "title": "20220610 Liquid Handler Quant Final V2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220610 Liquid Handler Quant Final V2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220610-liquid-handler-qunatitaion-mgml-draft-pdf",
+      "sha16": "d73bfb029ebf8d97",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220610-liquid-handler-qunatitaion-mgml-draft-pdf.md",
+      "title": "20220610 liquid handler qunatitaion_mgml draft",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220610 liquid handler qunatitaion_mgml draft.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220707-liquid-handler-quant-final-pdf",
+      "sha16": "d085beb12ad9147a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220707-liquid-handler-quant-final-pdf.md",
+      "title": "20220707 Liquid Handler Quant Final",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220707 Liquid Handler Quant Final.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220720-nrx-0410497-lots-006-011-eln288-pdf",
+      "sha16": "0f54b69f17fc1c8d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220720-nrx-0410497-lots-006-011-eln288-pdf.md",
+      "title": "20220720 NRX 0410497 lots 006 011 ELN288",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220720 NRX 0410497 lots 006 011 ELN288.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220730-2127-quant-analysis-3months-old-pdf",
+      "sha16": "26c4737fccccccf8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220730-2127-quant-analysis-3months-old-pdf.md",
+      "title": "20220730 2127 quant analysis 3months old",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220730 2127 quant analysis 3months old.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220907-salt-eq-9-samples-js-pdf",
+      "sha16": "73b24cc57d443d52",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220907-salt-eq-9-samples-js-pdf.md",
+      "title": "20220907 Salt EQ 9 samples_JS",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220907 Salt EQ 9 samples_JS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220913-js-4-samples-salt-eq-pdf",
+      "sha16": "676974b3a636d82d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220913-js-4-samples-salt-eq-pdf.md",
+      "title": "20220913 JS 4 samples salt EQ",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220913 JS 4 samples salt EQ.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220915-0479-re-analysis-ds-906-pdf",
+      "sha16": "25c72286d33474b0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20220915-0479-re-analysis-ds-906-pdf.md",
+      "title": "20220915 0479 re analysis DS-906",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20220915 0479 re analysis DS-906.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20221011-sample-rk-robot-weighing-quant-pdf",
+      "sha16": "ed8b5e39a843c0ab",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20221011-sample-rk-robot-weighing-quant-pdf.md",
+      "title": "20221011 sample RK robot weighing quant",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20221011 sample RK robot weighing quant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20221022-aurora-priority-pdf",
+      "sha16": "6c65da96a35cb62b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20221022-aurora-priority-pdf.md",
+      "title": "20221022 AURORA priority",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20221022 AURORA priority.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-202230706-0418394-pdf",
+      "sha16": "9586aaaece3cd41d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-202230706-0418394-pdf.md",
+      "title": "202230706 0418394",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/202230706 0418394.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230425-2-ctm-old-new-quant-pdf",
+      "sha16": "d4990dafc17c914d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230425-2-ctm-old-new-quant-pdf.md",
+      "title": "20230425 2 CTM old_NEW quant",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20230425 2 CTM old_NEW quant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230501-ctm-curve-0-5-inj-vol-pdf",
+      "sha16": "9117b974070ef38d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230501-ctm-curve-0-5-inj-vol-pdf.md",
+      "title": "20230501  CTM curve 0.5 inj vol",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20230501  CTM curve 0.5 inj vol.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230501-ctm-curve-1-0-inj-vol-pdf",
+      "sha16": "edde8c7da1db3819",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230501-ctm-curve-1-0-inj-vol-pdf.md",
+      "title": "20230501 CTM curve 1.0 inj vol",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20230501 CTM curve 1.0 inj vol.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230601-aurora-quant-pdf",
+      "sha16": "995ff488c09696b1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230601-aurora-quant-pdf.md",
+      "title": "20230601 AURORA Quant",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20230601 AURORA Quant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-202306425-nrx-0418754-0418394-pdf",
+      "sha16": "6c20def8ec34f26a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-202306425-nrx-0418754-0418394-pdf.md",
+      "title": "202306425 NRX 0418754 0418394",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/202306425 NRX 0418754 0418394.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230925-tfa-salt-eq-report-pdf",
+      "sha16": "330f7aebdc3df9f4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-20230925-tfa-salt-eq-report-pdf.md",
+      "title": "20230925 TFA Salt EQ Report",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/20230925 TFA Salt EQ Report.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220815-solid-phase-library-crude-plate-1month-12b60c3033",
+      "sha16": "1d3bf81b561b8a7c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220815-solid-phase-library-crude-plate-1month-12b60c3033.md",
+      "title": "20220815 Solid-phase library crude plate 1month re analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20220815 Solid-phase library crude plate 1month re analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220815-solid-phase-library-spe-purified-1mont-43362a719e",
+      "sha16": "78490a7041eca275",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220815-solid-phase-library-spe-purified-1mont-43362a719e.md",
+      "title": "20220815 Solid-phase library SPE purified 1month re analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20220815 Solid-phase library SPE purified 1month re analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220907-salt-eq-9-samples-js-pdf",
+      "sha16": "6176f62b49b445a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20220907-salt-eq-9-samples-js-pdf.md",
+      "title": "20220907 Salt EQ 9 samples_JS",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20220907 Salt EQ 9 samples_JS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20221012-stat6-bi-weekly-salt-eq-analysis-pdf",
+      "sha16": "17c3e3dfa14a0a9f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20221012-stat6-bi-weekly-salt-eq-analysis-pdf.md",
+      "title": "20221012 STAT6 bi weekly salt EQ analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20221012 STAT6 bi weekly salt EQ analysis.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20221108-nrx-0417479-almac-0012-0015-pdf",
+      "sha16": "e7998f5109a78f6b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20221108-nrx-0417479-almac-0012-0015-pdf.md",
+      "title": "20221108 NRX 0417479 ALMAC 0012 & 0015",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20221108 NRX 0417479 ALMAC 0012 & 0015.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-202301027-smarca2-tfa-quant-pdf",
+      "sha16": "bdbf17dab40f3291",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-202301027-smarca2-tfa-quant-pdf.md",
+      "title": "202301027 SMARCA2 TFA quant",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/202301027 SMARCA2 TFA quant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20230207-cad-quant-salt-eq-stat6-pdf",
+      "sha16": "65b5062e0c40c89c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20230207-cad-quant-salt-eq-stat6-pdf.md",
+      "title": "20230207 CAD quant salt EQ STAT6",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20230207 CAD quant salt EQ STAT6.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20230522-nv817-dfa-pdf",
+      "sha16": "82f6b8e0b8c086ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20230522-nv817-dfa-pdf.md",
+      "title": "20230522 NV817 DFA",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20230522 NV817 DFA.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20231001-smarca2-tfa-quant-pdf",
+      "sha16": "da4b63950bb7401d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-20231001-smarca2-tfa-quant-pdf.md",
+      "title": "20231001 SMARCA2 TFA quant",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/20231001 SMARCA2 TFA quant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-nrx-0410497-lots-006-011-eln288-final-pdf",
+      "sha16": "9cb9452a79c2a20a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-nrx-0410497-lots-006-011-eln288-final-pdf.md",
+      "title": "NRX 0410497 lots 006 011 ELN288_FINAL",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/NRX 0410497 lots 006 011 ELN288_FINAL.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230424-stat6-tfa-combined-8dea7b9e25",
+      "sha16": "715d1a9c9eed3953",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230424-stat6-tfa-combined-8dea7b9e25.md",
+      "title": "20230424_STAT6_TFA combined CAD IC report file",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230424_STAT6_TFA combined CAD IC report file.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230424-stat6-tfa-for-barbj-16607e299e",
+      "sha16": "13e001c47fea2ce2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230424-stat6-tfa-for-barbj-16607e299e.md",
+      "title": "20230424 STAT6 TFA for BarbJon isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230424 STAT6 TFA for BarbJon isocratic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230424-stat6-tfa-for-barbj-790941e9f1",
+      "sha16": "80d597c6719e739a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230424-stat6-tfa-for-barbj-790941e9f1.md",
+      "title": "20230424 STAT6 TFA for BarbJon gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230424 STAT6 TFA for BarbJon gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230424-stat6-tfa-pdf",
+      "sha16": "019c921e7b1f136c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230424-stat6-tfa-pdf.md",
+      "title": "20230424_STAT6_TFA",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230424_STAT6_TFA.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230501-tfa-curve-pdf",
+      "sha16": "04c00ed2931666df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230501-tfa-curve-pdf.md",
+      "title": "20230501  TFA Curve",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230501  TFA Curve.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230830-stat6-tfa-eq-pdf",
+      "sha16": "751d0d1a6b640f90",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230830-stat6-tfa-eq-pdf.md",
+      "title": "20230830 STAT6 TFA Eq",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230830 STAT6 TFA Eq.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230830-stat6-tfa-eq-v2-pdf",
+      "sha16": "5105b6c8ad9140f7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230830-stat6-tfa-eq-v2-pdf.md",
+      "title": "20230830 STAT6 TFA Eq v2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230830 STAT6 TFA Eq v2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230830-stat6-tfa-eq-v3-pdf",
+      "sha16": "5b795ddec371c721",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230830-stat6-tfa-eq-v3-pdf.md",
+      "title": "20230830 STAT6 TFA Eq v3",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230830 STAT6 TFA Eq v3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230830-stat6-tfa-eq-v4-pdf",
+      "sha16": "d40b009eb1e63e1e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-final-versions-stat6-tfa-analysis-20230830-stat6-tfa-eq-v4-pdf.md",
+      "title": "20230830 STAT6 TFA Eq v4",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/FINAL versions/STAT6 TFA Analysis/20230830 STAT6 TFA Eq v4.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-liquid-handler-quant-mgml-in-leu-of-mm-pdf",
+      "sha16": "cc2461198df86f1a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-liquid-handler-quant-mgml-in-leu-of-mm-pdf.md",
+      "title": "Liquid Handler Quant mgml in leu of mM",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/Liquid Handler Quant mgml in leu of mM.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-naime-pka-17-samples-pdf",
+      "sha16": "a6c20e6e0ead514e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-naime-pka-17-samples-pdf.md",
+      "title": "Naime pKa 17 samples",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/Naime pKa 17 samples.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-rk-robot-dispense-2023-pdf",
+      "sha16": "2cb75161405890ff",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-quantitation-reports-rk-robot-dispense-2023-pdf.md",
+      "title": "RK robot dispense 2023",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Quantitation Reports/RK robot dispense 2023.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-seq-imput-template-pdf",
+      "sha16": "48d22af5f461e3e1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-seq-imput-template-pdf.md",
+      "title": "seq imput template",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/seq imput template.pdf",
+      "confidence": "low"
+    }
+  ]
+}

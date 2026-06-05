@@ -1,0 +1,271 @@
+{
+  "assignment": "science-mixed-high-wave17",
+  "wiki_dir": "concepts",
+  "wave": "wave17",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf",
+      "sha16": "0148b12403956890",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf.md",
+      "title": "Abrogating Cbl-b in effector CD8",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Abrogating Cbl-b in effector CD8.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf",
+      "sha16": "166f9272ca1a1e17",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf.md",
+      "title": "IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interferon--and-cancer-mechanisms-of-action-and-new-perspectives-of-clinical-use-pdf",
+      "sha16": "427038591c610e1b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interferon--and-cancer-mechanisms-of-action-and-new-perspectives-of-clinical-use-pdf.md",
+      "title": "Interferon-\u03b1 and cancer Mechanisms of action and new perspectives of clinical use",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Interferon-\u03b1 and cancer Mechanisms of action and new perspectives of clinical use.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interferon-a-and-cancer-mechanisms-of-action-and-new-pdf",
+      "sha16": "b414f543b9954c7c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-interferon-a-and-cancer-mechanisms-of-action-and-new-pdf.md",
+      "title": "Interferon a and cancer Mechanisms of action and new",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Interferon a and cancer Mechanisms of action and new.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-pkc--modulates-the-strength-of-t-cell-responses-by-targeting-cbl-b-for-ubiquitination-and-degradation-pdf",
+      "sha16": "3daf004b9bd8d8d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-pkc--modulates-the-strength-of-t-cell-responses-by-targeting-cbl-b-for-ubiquitination-and-degradation-pdf.md",
+      "title": "PKC-\u03b8 Modulates the Strength of T Cell Responses by Targeting Cbl-b for Ubiquitination and Degradation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/PKC-\u03b8 Modulates the Strength of T Cell Responses by Targeting Cbl-b for Ubiquitination and Degradation.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-tyrosine-phosphorylation-and-complex-formation-of-cbl-b-upon-t-cell-pdf",
+      "sha16": "8475259a6b2fb67b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-tyrosine-phosphorylation-and-complex-formation-of-cbl-b-upon-t-cell-pdf.md",
+      "title": "Tyrosine phosphorylation and complex formation of Cbl-b upon T cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Tyrosine phosphorylation and complex formation of Cbl-b upon T cell.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-cblb-aacr-2021-v4-003-pptx",
+      "sha16": "cf99479ba31cf940",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-cblb-aacr-2021-v4-003-pptx.md",
+      "title": "CBLB AACR 2021 v4 (003)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/CBLB AACR 2021 v4 (003).pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf",
+      "sha16": "0148b12403956890",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-abrogating-cbl-b-in-effector-cd8-pdf.md",
+      "title": "Abrogating Cbl-b in effector CD8",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/Abrogating Cbl-b in effector CD8.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf",
+      "sha16": "166f9272ca1a1e17",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-ifn--related-mrna-profile-predicts-clinical-response-to-pd-1-pdf.md",
+      "title": "IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/IFN-\u03b3\u2013related mRNA profile predicts clinical response to PD-1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interferon--and-cancer-mechanisms-of-action-and-new-perspectives-of-clinical-use-pdf",
+      "sha16": "427038591c610e1b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interferon--and-cancer-mechanisms-of-action-and-new-perspectives-of-clinical-use-pdf.md",
+      "title": "Interferon-\u03b1 and cancer Mechanisms of action and new perspectives of clinical use",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/Interferon-\u03b1 and cancer Mechanisms of action and new perspectives of clinical use.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interferon-a-and-cancer-mechanisms-of-action-and-new-pdf",
+      "sha16": "b414f543b9954c7c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-interferon-a-and-cancer-mechanisms-of-action-and-new-pdf.md",
+      "title": "Interferon a and cancer Mechanisms of action and new",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/Interferon a and cancer Mechanisms of action and new.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-pkc--modulates-the-strength-of-t-cell-responses-by-targeting-cbl-b-for-ubiquitination-and-degradation-pdf",
+      "sha16": "3daf004b9bd8d8d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-pkc--modulates-the-strength-of-t-cell-responses-by-targeting-cbl-b-for-ubiquitination-and-degradation-pdf.md",
+      "title": "PKC-\u03b8 Modulates the Strength of T Cell Responses by Targeting Cbl-b for Ubiquitination and Degradation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/PKC-\u03b8 Modulates the Strength of T Cell Responses by Targeting Cbl-b for Ubiquitination and Degradation.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-tyrosine-phosphorylation-and-complex-formation-of-cbl-b-upon-t-cell-pdf",
+      "sha16": "8475259a6b2fb67b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-tyrosine-phosphorylation-and-complex-formation-of-cbl-b-upon-t-cell-pdf.md",
+      "title": "Tyrosine phosphorylation and complex formation of Cbl-b upon T cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/Tyrosine phosphorylation and complex formation of Cbl-b upon T cell.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-loss-of-ifn--pathway-genes-in-tumor-cells-as-a-mechanism-of-resistance-to-anti-ctla-4-therapy-pdf",
+      "sha16": "db313c9fcb0091ea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-loss-of-ifn--pathway-genes-in-tumor-cells-as-a-mechanism-of-resistance-to-anti-ctla-4-therapy-pdf.md",
+      "title": "Loss of IFN-\u03b3 Pathway Genes in Tumor Cells as a Mechanism of Resistance to Anti-CTLA-4 Therapy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/Loss of IFN-\u03b3 Pathway Genes in Tumor Cells as a Mechanism of Resistance to Anti-CTLA-4 Therapy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-cblb-deficient-t-cells-are-less-susceptible-to-pd-l1-mediated-pdf",
+      "sha16": "5c7c98642c3f69b5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-cblb-deficient-t-cells-are-less-susceptible-to-pd-l1-mediated-pdf.md",
+      "title": "Cblb-deficient T cells are less susceptible to PD-L1-mediated",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Cblb-deficient T cells are less susceptible to PD-L1-mediated.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-role-of-the-e3-ligase-cbl-b-in-mouse-dc-pdf",
+      "sha16": "1d09e7b030b46439",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-role-of-the-e3-ligase-cbl-b-in-mouse-dc-pdf.md",
+      "title": "Role of the E3 Ligase Cbl-B in mouse DC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Cbl/Role of the E3 Ligase Cbl-B in mouse DC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-spontaneous-tumor-rejection-by-cbl-b-defi-cient-paper-pdf",
+      "sha16": "7e30200ba6c97fd5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-spontaneous-tumor-rejection-by-cbl-b-defi-cient-paper-pdf.md",
+      "title": "Spontaneous tumor rejection by cbl-b\u2013defi cient Paper",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Cbl/Spontaneous tumor rejection by cbl-b\u2013defi cient Paper.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-purification-of-nx-2127-impurities-sfc-docx",
+      "sha16": "80bed1d9fdc05de6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-purification-of-nx-2127-impurities-sfc-docx.md",
+      "title": "Purification of NX-2127 Impurities + SFC",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/Purification of NX-2127 Impurities + SFC.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk1-purity-pdf",
+      "sha16": "53183714d71769e8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk1-purity-pdf.md",
+      "title": "STG1_PK1_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK1_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk2-purity-pdf",
+      "sha16": "4e2005b7d2234539",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk2-purity-pdf.md",
+      "title": "STG1_PK2_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK2_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk3-purity-pdf",
+      "sha16": "8f42506a9986bdea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk3-purity-pdf.md",
+      "title": "STG1_PK3_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK3_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk1-purity-pdf",
+      "sha16": "3a05ce0b77038da9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk1-purity-pdf.md",
+      "title": "STG1_PK1_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK1_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk2-purity-pdf",
+      "sha16": "c3714e847e50cc2e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk2-purity-pdf.md",
+      "title": "STG1_PK2_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK2_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk3-purity-pdf",
+      "sha16": "1739899e862b3ca7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk3-purity-pdf.md",
+      "title": "STG1_PK3_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK3_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk4-purity-pdf",
+      "sha16": "2a4dabdbdb84a375",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-set1-stg1-pk4-purity-pdf.md",
+      "title": "STG1_PK4_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/SET1/STG1_PK4_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk2-post-sfc-purity-pdf",
+      "sha16": "90ba5539fb9d1394",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk2-post-sfc-purity-pdf.md",
+      "title": "STG2_PK2_POST SFC_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/STG2_PK2_POST SFC_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk4-post-prep-purity-pdf",
+      "sha16": "60a6a1244f3ec6e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-2-stg2-pk4-post-prep-purity-pdf.md",
+      "title": "STG2_PK4_POST PREP_Purity",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 2/STG2_PK4_POST PREP_Purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-isolation-of-impurities-in-nx-2127-by-high-pressure-and-supercritical-3c82d8b09b",
+      "sha16": "d26644d853e86bd3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-isolation-of-impurities-in-nx-2127-by-high-pressure-and-supercritical-3c82d8b09b.md",
+      "title": "Isolation of Impurities in NX-2127 by High Pressure and Supercritical Fluid Liquid Chromatography",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/Isolation of Impurities in NX-2127 by High Pressure and Supercritical Fluid Liquid Chromatography.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-nx-2127-reports-purification-of-nx-2127-impurities-sfc---draft-2-docx",
+      "sha16": "49dc6e1090035ea0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-nx-2127-reports-purification-of-nx-2127-impurities-sfc---draft-2-docx.md",
+      "title": "Purification of NX-2127 Impurities + SFC - Draft 2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/NX-2127 Reports/Purification of NX-2127 Impurities + SFC - Draft 2.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-nx-2127-reports-purification-of-nx-2127-impurities-sfc---draft-3-docx",
+      "sha16": "1abb95e27c46a8c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-nx-2127-reports-purification-of-nx-2127-impurities-sfc---draft-3-docx.md",
+      "title": "Purification of NX-2127 Impurities + SFC - Draft 3",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/NX-2127 Reports/Purification of NX-2127 Impurities + SFC - Draft 3.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-nx-2127-reports-purification-of-nx-2127-impurities-sfc---draft-4-docx",
+      "sha16": "4d8594abffe6d77d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-nx-2127-reports-purification-of-nx-2127-impurities-sfc---draft-4-docx.md",
+      "title": "Purification of NX-2127 Impurities + SFC - Draft 4",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/NX-2127 Reports/Purification of NX-2127 Impurities + SFC - Draft 4.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-nx-2127-reports-purification-of-nx-2127-impurities-sfc---draft-5-docx",
+      "sha16": "f1f10f30e43fafba",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-nx-2127-reports-purification-of-nx-2127-impurities-sfc---draft-5-docx.md",
+      "title": "Purification of NX-2127 Impurities + SFC - Draft 5",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/NX-2127 Reports/Purification of NX-2127 Impurities + SFC - Draft 5.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-new-folder-instrument-sn-8800---purification-lcms-pdf",
+      "sha16": "d9a1b335492740eb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-new-folder-instrument-sn-8800---purification-lcms-pdf.md",
+      "title": "8800 - Purification LCMS",
+      "source_id": "Analytical Chemistry/New folder/Instrument SN/8800 - Purification LCMS.pdf",
+      "confidence": "high"
+    }
+  ]
+}

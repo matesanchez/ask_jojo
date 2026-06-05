@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-low-batch5-wave24",
+  "wiki_dir": "references",
+  "wave": "wave24",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-results-le-623fd668b7",
+      "sha16": "52ebcd504afa128b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-results-le-623fd668b7.md",
+      "title": "Leighton_Jose_12202019141649",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Robertson Microlit/Results/Leighton_Jose_12202019141649.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-20190636-pdf",
+      "sha16": "b53ab05804901031",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-20190636-pdf.md",
+      "title": "20190636",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/20190636.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-20190637-pdf",
+      "sha16": "a2ad91501cff4c53",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-20190637-pdf.md",
+      "title": "20190637",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/20190637.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-leighton-jose-1014201910250-pdf",
+      "sha16": "baea977025323b7e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-007-aa-leighton-jose-1014201910250-pdf.md",
+      "title": "Leighton_Jose_1014201910250",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-007-AA/Leighton_Jose_1014201910250.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-results-leighton-jose-221-5aaa4d605c",
+      "sha16": "e606a9182c013539",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-results-leighton-jose-221-5aaa4d605c.md",
+      "title": "Leighton_Jose_22120208238",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-008-AA/RML Results/Leighton_Jose_22120208238.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-results-skm-c45820022108500-pdf",
+      "sha16": "af18a1b289700df4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392936-008-aa-rml-results-skm-c45820022108500-pdf.md",
+      "title": "SKM_C45820022108500",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392936-008-AA/RML Results/SKM_C45820022108500.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-leighton-jose-7142020131011-pdf",
+      "sha16": "484aba731ed5418f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-0255-aa-013-leighton-jose-7142020131011-pdf.md",
+      "title": "Leighton_Jose_7142020131011",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-0255-AA-013/Leighton_Jose_7142020131011.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-data-20200318-pdf",
+      "sha16": "ae1cbcd1ec5a471c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-data-20200318-pdf.md",
+      "title": "20200318",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/RML Data/20200318.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-data-20200319-pdf",
+      "sha16": "028f61728aa6d932",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-data-20200319-pdf.md",
+      "title": "20200319",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/RML Data/20200319.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-data-leighton-jose-720202073723-pdf",
+      "sha16": "c1120773aa4277e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nx-1607-006-aa-rml-data-leighton-jose-720202073723-pdf.md",
+      "title": "Leighton_Jose_720202073723",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NX-1607-006-AA/RML Data/Leighton_Jose_720202073723.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-robertson-microlit-forms-rml-gc-form-2017-pdf",
+      "sha16": "68fd4159b527a904",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-robertson-microlit-forms-rml-gc-form-2017-pdf.md",
+      "title": "RML GC Form 2017",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/Robertson Microlit Forms/RML GC Form 2017.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-robertson-microlit-forms-rml-general-analysis-re-03a94b4121",
+      "sha16": "524be631375ee686",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-robertson-microlit-forms-rml-general-analysis-re-03a94b4121.md",
+      "title": "RML General Analysis Request Form 2017",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/Robertson Microlit Forms/RML General Analysis Request Form 2017.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-robertson-microlit-forms-rml-thermal-form-2017-pdf",
+      "sha16": "0c05554ded77108e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-robertson-microlit-forms-rml-thermal-form-2017-pdf.md",
+      "title": "RML Thermal Form 2017",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/Robertson Microlit Forms/RML Thermal Form 2017.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-robertson-microlit-forms-sample-requirements-rev-6-17-pdf",
+      "sha16": "019a3c360e5bd25e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-robertson-microlit-forms-sample-requirements-rev-6-17-pdf.md",
+      "title": "Sample Requirements (Rev. 6.17)",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/Robertson Microlit Forms/Sample Requirements (Rev. 6.17).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-hardcopy-128-pdf",
+      "sha16": "1407bd6fd07266d1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-hardcopy-128-pdf.md",
+      "title": "Hardcopy_128",
+      "source_id": "Analytical Chemistry/Jose L - public/Hardcopy_128.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-hardcopy-129-pdf",
+      "sha16": "7ccc1c55c80bbd06",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-hardcopy-129-pdf.md",
+      "title": "Hardcopy_129",
+      "source_id": "Analytical Chemistry/Jose L - public/Hardcopy_129.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-hardcopy-170-pdf",
+      "sha16": "028f02c28951ce30",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-hardcopy-170-pdf.md",
+      "title": "Hardcopy_170",
+      "source_id": "Analytical Chemistry/Jose L - public/Hardcopy_170.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-hardcopy-171-pdf",
+      "sha16": "1c251650cbe7d3fc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-hardcopy-171-pdf.md",
+      "title": "Hardcopy_171",
+      "source_id": "Analytical Chemistry/Jose L - public/Hardcopy_171.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-hs-sel-nur-m-1-1-developed-method-pdf",
+      "sha16": "0fad1ff58591d13b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-hs-sel-nur-m-1-1-developed-method-pdf.md",
+      "title": "HS-SEL-NUR-M-1-1_Developed Method",
+      "source_id": "Analytical Chemistry/Jose L - public/HS-SEL-NUR-M-1-1_Developed Method.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-agilent-quotes-jeavirca-2834972-18-24-04jleighton-4-10-2019-pdf",
+      "sha16": "cd63a70a8eff21ea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-agilent-quotes-jeavirca-2834972-18-24-04jleighton-4-10-2019-pdf.md",
+      "title": "jeavirca_2834972_18_24_04JLeighton 4.10.2019",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Agilent Quotes/jeavirca_2834972_18_24_04JLeighton 4.10.2019.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-07-quantifizierung-mit-nmr-till-kuehn-pdf",
+      "sha16": "91c2add910bb538b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-07-quantifizierung-mit-nmr-till-kuehn-pdf.md",
+      "title": "07.Quantifizierung_mit_NMR_Till_Kuehn",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Bruker NMR/07.Quantifizierung_mit_NMR_Till_Kuehn.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-bruker-nmr-cheat-sheet-pdf",
+      "sha16": "89bb183099580992",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-bruker-nmr-cheat-sheet-pdf.md",
+      "title": "Bruker NMR Cheat Sheet",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Bruker NMR/Bruker NMR Cheat Sheet.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-measuring-protein-concentrations-by-nmr-spectroscopy-pdf",
+      "sha16": "c11d4248925c4e9c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-measuring-protein-concentrations-by-nmr-spectroscopy-pdf.md",
+      "title": "Measuring Protein Concentrations by NMR Spectroscopy",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Bruker NMR/Measuring Protein Concentrations by NMR Spectroscopy.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-mnova-for-qnmr-pdf",
+      "sha16": "5c0baab83e33e649",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-mnova-for-qnmr-pdf.md",
+      "title": "Mnova-for-qNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Bruker NMR/Mnova-for-qNMR.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-mnova-nmr-training-for-chemists-on-1d-and-2d-nmr-version-8-0-pdf",
+      "sha16": "30e73274477e2de7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-mnova-nmr-training-for-chemists-on-1d-and-2d-nmr-version-8-0-pdf.md",
+      "title": "Mnova_NMR_Training_for_chemists_on_1D_and_2D_NMR-Version_8.0",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Bruker NMR/Mnova_NMR_Training_for_chemists_on_1D_and_2D_NMR-Version_8.0.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-nmr-chemical-shifts-of-trace-impurities-pdf",
+      "sha16": "39576dade76c4943",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-nmr-chemical-shifts-of-trace-impurities-pdf.md",
+      "title": "NMR Chemical Shifts of Trace Impurities",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Bruker NMR/NMR Chemical Shifts of Trace Impurities.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-qnmr-brochure-rjo-pdf",
+      "sha16": "3bc788879900b6a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-bruker-nmr-qnmr-brochure-rjo-pdf.md",
+      "title": "qnmr-brochure-rjo",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Bruker NMR/qnmr-brochure-rjo.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkaa003-bumping-pdf",
+      "sha16": "d3cf80401800c414",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkaa003-bumping-pdf.md",
+      "title": "MKAA003_Bumping",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Genevac/MKAA003_Bumping.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkaa018-high-boiling-point-solvents-pdf",
+      "sha16": "b0a79e5c9b3f495d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkaa018-high-boiling-point-solvents-pdf.md",
+      "title": "MKAA018_High boiling Point Solvents",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Genevac/MKAA018_High boiling Point Solvents.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkaa019-the-challenge-of-mixed-solvents-pdf",
+      "sha16": "5433ac0e1bc5c66a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkaa019-the-challenge-of-mixed-solvents-pdf.md",
+      "title": "MKAA019_The challenge of mixed solvents",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Genevac/MKAA019_The challenge of mixed solvents.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkap035-medchemevaporatordevelopment-gsk-pdf",
+      "sha16": "0c885e83c057eff2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-genevac-mkap035-medchemevaporatordevelopment-gsk-pdf.md",
+      "title": "MKAP035_MedChemEvaporatorDevelopment_GSK",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Genevac/MKAP035_MedChemEvaporatorDevelopment_GSK.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-knauer-blueshadow-40p-user-manual-en-pdf",
+      "sha16": "8fcbd620fa807a33",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-knauer-blueshadow-40p-user-manual-en-pdf.md",
+      "title": "Knauer_blueshadow_40p_user-manual_en",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Knauer_blueshadow_40p_user-manual_en.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-knauer-dosing-pumps-catalog-pdf",
+      "sha16": "437df2a4e6d327c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-knauer-dosing-pumps-catalog-pdf.md",
+      "title": "Knauer_Dosing Pumps_Catalog",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Knauer_Dosing Pumps_Catalog.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-an-introduction-to-statistical-learning-pdf",
+      "sha16": "d67e5099b0d956f8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-an-introduction-to-statistical-learning-pdf.md",
+      "title": "An Introduction to Statistical Learning",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Books/An Introduction to Statistical Learning.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-medicinal-chemistry-pdf",
+      "sha16": "81966d8e227fb679",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-medicinal-chemistry-pdf.md",
+      "title": "Medicinal Chemistry",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Books/Medicinal Chemistry.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-name-reactions-5thed-li-pdf",
+      "sha16": "38e12db593e98a46",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-name-reactions-5thed-li-pdf.md",
+      "title": "Name_Reactions_5thed_Li",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Books/Name_Reactions_5thed_Li.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-preclinical-devolapment-handbook-pdf",
+      "sha16": "8648195cabf62f09",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-books-preclinical-devolapment-handbook-pdf.md",
+      "title": "Preclinical Devolapment Handbook",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Books/Preclinical Devolapment Handbook.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-chromacademy-fundamental-lc-ms-mass-analysers-pdf",
+      "sha16": "be21363f24a69050",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-chromacademy-fundamental-lc-ms-mass-analysers-pdf.md",
+      "title": "Fundamental_LC-MS_Mass_Analysers",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Chromacademy/Fundamental_LC-MS_Mass_Analysers.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-high-throughput-computer-assisted-specific-metid-48faaa687b",
+      "sha16": "ac2250f57ab55669",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-high-throughput-computer-assisted-specific-metid-48faaa687b.md",
+      "title": "High-throughput, computer assisted, specific MetID. A revolution for drug discovery",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/High-throughput, computer assisted, specific MetID. A revolution for drug discovery.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-mass-spectra-of-c-amino--and-c-azido-1-2-4-triazoles-pdf",
+      "sha16": "40d8321b682aa0df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-mass-spectra-of-c-amino--and-c-azido-1-2-4-triazoles-pdf.md",
+      "title": "Mass Spectra of C-Amino- and C-Azido-1,2,4-triazoles",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Mass Spectra of C-Amino- and C-Azido-1,2,4-triazoles.pdf",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,43 +1,65 @@
-JoJo Bot — Deployment Layout
-=============================
+JoJo Bot - Desktop App
+======================
 
-To run JoJo Bot, place the JojoBot/ folder, ask_jojo_wiki/, and
-ask_jojo_raw/ side-by-side in the same parent directory:
+WHAT THIS IS
+------------
+JoJo Bot is a self-contained desktop application. Everything it needs -
+the Python runtime, the web UI, and the knowledge base - is bundled inside
+the JojoBot\ folder. No Python, Node, browser, or internet connection is
+required to run it.
 
-    MyFolder\
-    ├── JojoBot\          ← the folder you unzip
-    │   ├── JojoBot.exe
-    │   └── _internal\    ← do not delete or move
-    ├── ask_jojo_wiki\    ← wiki content directory
-    └── ask_jojo_raw\     ← raw source documents (private; do not share)
+FOLDER LAYOUT (do not rearrange)
+--------------------------------
+The knowledge base lives INSIDE the JojoBot\ folder, next to the .exe:
 
-Then double-click JojoBot.exe inside the JojoBot\ folder.
+    JojoBot\
+        JojoBot.exe        <- double-click this to launch
+        _internal\         <- Python runtime + Qt libraries (do not move/delete)
+        wiki\              <- the compiled knowledge base (Q&A memory)
+        raw\               <- source documents (private; omitted in -SkipRaw builds)
+        README.txt         <- this file
 
-A console window will appear while JoJo Bot loads (keep it open — closing it
-stops the app).  Your default browser will open automatically to
-http://127.0.0.1:8766 once the server is ready.
+Keep wiki\ and raw\ inside the JojoBot\ folder. If you move JojoBot.exe,
+move the whole folder.
 
-To stop JoJo Bot: press Ctrl+C in the console window, or close it.
+HOW TO RUN
+----------
+Double-click JojoBot.exe. After a few seconds JoJo Bot opens in its own
+application window (a native desktop window - there is NO separate browser
+and NO console window). Use the tabs across the top: Chat, Wiki, Raw, Graph,
+Ops, Settings.
 
-Clicking JojoBot.exe a second time while it is already running will just
-open a new browser tab — it will NOT start a second server.
+To stop JoJo Bot: close the window.
 
+FIRST RUN
+---------
+Antivirus software sometimes inspects a newly built .exe on first launch,
+which can delay startup by 10-30 seconds. If the window does not appear,
+wait a moment before retrying. To answer questions, open the Settings tab
+and paste an Anthropic API key (Chat works without one in retrieval-only
+mode; live answer synthesis needs the key).
 
-Troubleshooting
+WHERE ARE THE LOGS
+------------------
+%LOCALAPPDATA%\JojoBot\launcher.log
+Open this file if the app fails to start; it records startup and any errors.
+
+TROUBLESHOOTING
 ---------------
+"Wiki tab shows 0 pages"
+    The wiki\ folder must sit inside the JojoBot\ folder, next to JojoBot.exe.
 
-"Wiki shows 0 pages"
-  → The ask_jojo_wiki\ folder must be a sibling of JojoBot\ (see layout above).
-    If you moved the JojoBot\ folder, also move ask_jojo_wiki\ next to it.
+"Raw tab is empty"
+    The raw\ folder must sit inside the JojoBot\ folder. Builds made with
+    -SkipRaw intentionally omit it; Chat and Wiki still work.
 
-"Raw tab shows manifest empty"
-  → The ask_jojo_raw\ folder must be a sibling of JojoBot\ (see layout above).
-    If you moved the JojoBot\ folder, also move ask_jojo_raw\ next to it.
+"The window never appears"
+    Check %LOCALAPPDATA%\JojoBot\launcher.log. The launcher picks a free
+    local port automatically (it prefers 8766), so a busy port is not fatal.
+    Add an antivirus exception for JojoBot.exe if it is being blocked.
 
-"Port 8766 already in use" error
-  → Another process is using that port.  Close the existing JoJo Bot window
-    (or the other process) and try again.
-
-"Server did not respond in 30s"
-  → Check the console window for error messages.  Antivirus software sometimes
-    blocks new executables on first launch — add an exception for JojoBot.exe.
+TO SHARE
+--------
+Zip the entire JojoBot\ folder and send it. The recipient unzips it and
+double-clicks JojoBot.exe. Note: builds that include raw\ contain private
+source documents - use a -SkipRaw build for wider distribution.

@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-low-A-wave25",
+  "wiki_dir": "references",
+  "wave": "wave25",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-mass-spectrometric-methodologies-for-investigatin-39403dc6aa",
+      "sha16": "579855df4023df6f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-mass-spectrometric-methodologies-for-investigatin-39403dc6aa.md",
+      "title": "Mass Spectrometric Methodologies for Investigating the Metabolic",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Mass Spectrometric Methodologies for Investigating the Metabolic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-metabolism-biotransformation-ebook-pdf",
+      "sha16": "6f8bda1f3b4b4343",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-metabolism-biotransformation-ebook-pdf.md",
+      "title": "Metabolism-Biotransformation-eBook",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Metabolism-Biotransformation-eBook.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-preclinical-experimental-models-of-drug-metabolis-587668a6d3",
+      "sha16": "a125a8c9281fc2d2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-preclinical-experimental-models-of-drug-metabolis-587668a6d3.md",
+      "title": "Preclinical experimental models of drug metabolism and disposition in drug discovery and development",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Preclinical experimental models of drug metabolism and disposition in drug discovery and development.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-quantifying-molecular-partition-into-model-system-48b35b1b83",
+      "sha16": "a0799f69f6013331",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-quantifying-molecular-partition-into-model-system-48b35b1b83.md",
+      "title": "Quantifying molecular partition into model systems of biomembranes an emphasis on optical spectroscopic methods",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Quantifying molecular partition into model systems of biomembranes an emphasis on optical spectroscopic methods.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-quickstartguide-018-corning-gentest-abc-transport-065832bdad",
+      "sha16": "18cb31694587a7b4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-quickstartguide-018-corning-gentest-abc-transport-065832bdad.md",
+      "title": "quickstartguide_018_Corning_Gentest_ABC_Transporter_Membrane",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/quickstartguide_018_Corning_Gentest_ABC_Transporter_Membrane.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-strategic-approach-for-drug-metabolism-studies-pdf",
+      "sha16": "1998aaabbab97366",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-ms-metabolism-and-pk-strategic-approach-for-drug-metabolism-studies-pdf.md",
+      "title": "Strategic approach for drug metabolism studies",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/MS Metabolism and PK/Strategic approach for drug metabolism studies.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-a-mass-spectrometery-primer-for-mass-spectrometry-imaging-pdf",
+      "sha16": "746a75fc19395855",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-a-mass-spectrometery-primer-for-mass-spectrometry-imaging-pdf.md",
+      "title": "A mass spectrometery primer for mass spectrometry imaging",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/A mass spectrometery primer for mass spectrometry imaging.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-a-new-ht-method-utilizing-porous-silica-based-nano-compos-fee13d7444",
+      "sha16": "1721bb4c04c0b37e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-a-new-ht-method-utilizing-porous-silica-based-nano-compos-fee13d7444.md",
+      "title": "A new HT method utilizing porous silica based nano composites for the determination of partition coefficient for drug candidates",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/A new HT method utilizing porous silica based nano composites for the determination of partition coefficient for drug candidates.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-a-novel-green-synthesis-of-thalidomide-and-analogs-pdf",
+      "sha16": "0055871c88aaa3f4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-a-novel-green-synthesis-of-thalidomide-and-analogs-pdf.md",
+      "title": "A Novel Green Synthesis of Thalidomide and Analogs",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/A Novel Green Synthesis of Thalidomide and Analogs.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-chemrevlett-columnselecv-pdf",
+      "sha16": "8ff41db2942ea262",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-chemrevlett-columnselecv-pdf.md",
+      "title": "ChemRevLett_ColumnSelecv",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/ChemRevLett_ColumnSelecv.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-chen2008-article-anoveldesignofartificialmembra-pdf",
+      "sha16": "2b083bbc9ed2f53c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-chen2008-article-anoveldesignofartificialmembra-pdf.md",
+      "title": "Chen2008_Article_ANovelDesignOfArtificialMembra",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Chen2008_Article_ANovelDesignOfArtificialMembra.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-chiral-ionic-liquids-a-new-renewal-for-the-chemistry-of-c-13acca4ee6",
+      "sha16": "7adf8c871862382b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-chiral-ionic-liquids-a-new-renewal-for-the-chemistry-of-c-13acca4ee6.md",
+      "title": "Chiral ionic liquids a new renewal for the chemistry of chiral solvents",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Chiral ionic liquids a new renewal for the chemistry of chiral solvents.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-chiral-reagents-for-the-determination-of-enantiomeric-exc-fb51807d44",
+      "sha16": "da0fcfd3208e9368",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-chiral-reagents-for-the-determination-of-enantiomeric-exc-fb51807d44.md",
+      "title": "Chiral Reagents for the Determination of Enantiomeric Excess and Absolute Configuration Using NMR Spectroscopy",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Chiral Reagents for the Determination of Enantiomeric Excess and Absolute Configuration Using NMR Spectroscopy.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-deoxyfluorination-with-sulfonyl-fluorides-navigating-reac-5c0efdb0c8",
+      "sha16": "5f811250c6ebea6d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-deoxyfluorination-with-sulfonyl-fluorides-navigating-reac-5c0efdb0c8.md",
+      "title": "Deoxyfluorination with sulfonyl fluorides Navigating reaction space with machine learning",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Deoxyfluorination with sulfonyl fluorides Navigating reaction space with machine learning.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-intestinal-drug-transporters-an-overview-pdf",
+      "sha16": "68c242bd3fb999b6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-intestinal-drug-transporters-an-overview-pdf.md",
+      "title": "Intestinal drug transporters an overview",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Intestinal drug transporters an overview.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-intestinal-permeability-regulation-by-tight-junction-impl-611dcc5f9e",
+      "sha16": "dc631fab853afe60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-intestinal-permeability-regulation-by-tight-junction-impl-611dcc5f9e.md",
+      "title": "Intestinal Permeability Regulation by Tight Junction Implication on Inflammatory Bowel Diseases",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Intestinal Permeability Regulation by Tight Junction Implication on Inflammatory Bowel Diseases.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-investigation-and-mathematical-description-of-the-real-dr-c7cf63f5cb",
+      "sha16": "fa6ef31aeaf4fbcf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-investigation-and-mathematical-description-of-the-real-dr-c7cf63f5cb.md",
+      "title": "Investigation and Mathematical Description of the Real Driving Force",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Investigation and Mathematical Description of the Real Driving Force.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-mini-gut-a-promising-model-for-drug-development-pdf",
+      "sha16": "c57b54322d603e55",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-mini-gut-a-promising-model-for-drug-development-pdf.md",
+      "title": "Mini gut a promising model for drug development",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Mini gut a promising model for drug development.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-resolutionof-1-2-diamine-cyclohexane-pdf",
+      "sha16": "8e4fee81b7eed1fc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-resolutionof-1-2-diamine-cyclohexane-pdf.md",
+      "title": "Resolutionof 1 2 diamine cyclohexane",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Resolutionof 1 2 diamine cyclohexane.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-significance-analysis-and-multiple-pharmacophore-models-f-63dbc9f848",
+      "sha16": "a804abb6cb352dd5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-significance-analysis-and-multiple-pharmacophore-models-f-63dbc9f848.md",
+      "title": "Significance Analysis and Multiple Pharmacophore Models for Differentiating p-glycoprotein substratres",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Significance Analysis and Multiple Pharmacophore Models for Differentiating p-glycoprotein substratres.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-spectrophotometric-pka-determination-of-ionizable-pharmac-edb1b16d50",
+      "sha16": "29b99b8bcd5dd0ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-spectrophotometric-pka-determination-of-ionizable-pharmac-edb1b16d50.md",
+      "title": "Spectrophotometric pKa determination of ionizable pharmaceuticals",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Spectrophotometric pKa determination of ionizable pharmaceuticals.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-therapy-for-glioblastoma-is-it-working-pdf",
+      "sha16": "e697c1e50ad4808c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-therapy-for-glioblastoma-is-it-working-pdf.md",
+      "title": "Therapy for Glioblastoma is it working",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/Therapy for Glioblastoma is it working.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-us4931498-pdf",
+      "sha16": "c7aeb37b31f679e0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-other-papers-us4931498-pdf.md",
+      "title": "US4931498",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Other Papers/US4931498.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-3d-primary-human-hepatocytes-spheroids-demonstra-52f23cc71c",
+      "sha16": "1beea3a44f6ad71c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-3d-primary-human-hepatocytes-spheroids-demonstra-52f23cc71c.md",
+      "title": "3D Primary Human Hepatocytes Spheroids Demonstrate INcreased Sensitivity to Drug Induced Liver Injury in Comparison to 2D PHH Monolayer culture",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/3D Primary Human Hepatocytes Spheroids Demonstrate INcreased Sensitivity to Drug Induced Liver Injury in Comparison to 2D PHH Monolayer culture.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-a-review-of-waters-hybrid-particle-technology-pa-7a5e86f521",
+      "sha16": "d763e269733850ad",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-a-review-of-waters-hybrid-particle-technology-pa-7a5e86f521.md",
+      "title": "A review of Waters Hybrid Particle Technology_Part 2_BEH",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/A review of Waters Hybrid Particle Technology_Part 2_BEH.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-a-review-of-waters-hybrid-particle-technology-pa-8c1f88a4ff",
+      "sha16": "289de8a0eff72edf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-a-review-of-waters-hybrid-particle-technology-pa-8c1f88a4ff.md",
+      "title": "A review of Waters Hybrid Particle Technology_Part 3_CSH",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/A review of Waters Hybrid Particle Technology_Part 3_CSH.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-agilent-sfc-primer-pdf",
+      "sha16": "86731c94c2c7096d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-agilent-sfc-primer-pdf.md",
+      "title": "Agilent SFC Primer",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Agilent SFC Primer.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-chiral-psp-brochure-final-nov-12-2012-pdf",
+      "sha16": "0c6c0a8cb81cc08b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-chiral-psp-brochure-final-nov-12-2012-pdf.md",
+      "title": "Chiral_PSP_Brochure-Final-Nov-12-2012",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Chiral_PSP_Brochure-Final-Nov-12-2012.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-corning-permeable-supports-selection-guide-pdf",
+      "sha16": "c0389fbb610d487e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-corning-permeable-supports-selection-guide-pdf.md",
+      "title": "Corning Permeable Supports Selection Guide",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Corning Permeable Supports Selection Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-dissolution-media-simulating-fasted-and-fed-states-pdf",
+      "sha16": "47cc28d291e3f0a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-dissolution-media-simulating-fasted-and-fed-states-pdf.md",
+      "title": "Dissolution Media Simulating Fasted and Fed States",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Dissolution Media Simulating Fasted and Fed States.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-pl-hco3-for-tfa-removal-pdf",
+      "sha16": "d3f0839fd0021dba",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-pl-hco3-for-tfa-removal-pdf.md",
+      "title": "PL-HCO3 for TFA removal",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/PL-HCO3 for TFA removal.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-waters-ms-primer-pdf",
+      "sha16": "97d51faef4dc6ca3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-primers-and-brochures-waters-ms-primer-pdf.md",
+      "title": "Waters MS Primer",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Primers and Brochures/Waters MS Primer.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-prep-columns-tips-a-cc6da1e0bc",
+      "sha16": "d92466783d846dd3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-prep-columns-tips-a-cc6da1e0bc.md",
+      "title": "Prep Columns Tips and Tricks_final_LSS",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Seminars and Presentations/Agilent Prep LC seminar/Prep Columns Tips and Tricks_final_LSS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-prep-overview-final-ls-pdf",
+      "sha16": "73ba87275af7e7f2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-prep-overview-final-ls-pdf.md",
+      "title": "Prep overview_Final_LS",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Seminars and Presentations/Agilent Prep LC seminar/Prep overview_Final_LS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-scaleup-final-gb-pdf",
+      "sha16": "b8d97e25c2e6378f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-scaleup-final-gb-pdf.md",
+      "title": "Scaleup_final_GB",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Seminars and Presentations/Agilent Prep LC seminar/Scaleup_final_GB.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-walk-up-work-flow-bg-pdf",
+      "sha16": "388fb615cf9562aa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-agilent-prep-lc-seminar-walk-up-work-flow-bg-pdf.md",
+      "title": "walk up work flow bg",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Seminars and Presentations/Agilent Prep LC seminar/walk up work flow bg.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-oxetane-presentation-pdf",
+      "sha16": "fa2edddc5c5d399e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-seminars-and-presentations-oxetane-presentation-pdf.md",
+      "title": "Oxetane Presentation",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Seminars and Presentations/Oxetane Presentation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-2211068215619124-pdf",
+      "sha16": "06323ed9d3f7eb1a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-2211068215619124-pdf.md",
+      "title": "2211068215619124",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/2211068215619124.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-429-full-pdf",
+      "sha16": "03945fcfe18b43c3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-429-full-pdf.md",
+      "title": "429.full",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/429.full.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-49-full-pdf",
+      "sha16": "f397d187e0754747",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-49-full-pdf.md",
+      "title": "49.full",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/49.full.pdf",
+      "confidence": "low"
+    }
+  ]
+}

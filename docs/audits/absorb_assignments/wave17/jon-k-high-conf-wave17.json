@@ -1,0 +1,327 @@
+{
+  "assignment": "jon-k-high-conf-wave17",
+  "wiki_dir": "references",
+  "wave": "wave17",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-pdf",
+      "sha16": "acf3dd2ce565193b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-005-aa-updated-template-jk-pdf.md",
+      "title": "Certificate_of_Testing_NRX-0473911-005-AA_updated template_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/Certificate_of_Testing_NRX-0473911-005-AA_updated template_JK.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-008-aa-updated-template-jk-docx",
+      "sha16": "cafead87c58efbb5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-008-aa-updated-template-jk-docx.md",
+      "title": "Certificate_of_Testing_NRX-0473911-008-AA_updated template_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/Certificate_of_Testing_NRX-0473911-008-AA_updated template_JK.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-012-aa-docx",
+      "sha16": "39551b58b1ae0241",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0473911-012-aa-docx.md",
+      "title": "Certificate_of_Testing_NRX-0473911-012-AA",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/Certificate_of_Testing_NRX-0473911-012-AA.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0481511-004-aa-docx",
+      "sha16": "4c558c11ffb5636a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx-0481511-004-aa-docx.md",
+      "title": "Certificate_of_Testing_NRX-0481511-004-AA",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/Certificate_of_Testing_NRX-0481511-004-AA.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx0477062-003-aa-updated-template-jk-pdf",
+      "sha16": "23db768c27f05d87",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-certificate-of-testing-nrx0477062-003-aa-updated-template-jk-pdf.md",
+      "title": "Certificate_of_Testing_NRX0477062-003-AA_updated template_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/Certificate_of_Testing_NRX0477062-003-AA_updated template_JK.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-jk-docx",
+      "sha16": "4b1de86e10443d14",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-jk-docx.md",
+      "title": "CoT_NRX-0468599-004-AQ_updated template_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/CoT_NRX-0468599-004-AQ_updated template_JK.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-jk-pdf",
+      "sha16": "b7bed915a2dfd6f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-jk-pdf.md",
+      "title": "CoT_NRX-0468599-004-AQ_updated template_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/CoT_NRX-0468599-004-AQ_updated template_JK.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-with-ic-2-jk-docx",
+      "sha16": "3ee63045dbf9f96d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-with-ic-2-jk-docx.md",
+      "title": "CoT_NRX-0468599-004-AQ_updated template with IC 2_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/CoT_NRX-0468599-004-AQ_updated template with IC 2_JK.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-with-ic-jk-docx",
+      "sha16": "3ee63045dbf9f96d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-with-ic-jk-docx.md",
+      "title": "CoT_NRX-0468599-004-AQ_updated template with IC_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/CoT_NRX-0468599-004-AQ_updated template with IC_JK.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-with-ic-jk-pdf",
+      "sha16": "32fb8ad644f1a4fe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0468599-004-aq-updated-template-with-ic-jk-pdf.md",
+      "title": "CoT_NRX-0468599-004-AQ_updated template with IC_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/CoT_NRX-0468599-004-AQ_updated template with IC_JK.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0473910-002-aa-jk-docx",
+      "sha16": "c7eee09ee0fc1042",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0473910-002-aa-jk-docx.md",
+      "title": "CoT_NRX-0473910-002-AA_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/CoT_NRX-0473910-002-AA_JK.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0473910-002-aa-jk-pdf",
+      "sha16": "1de1b05e7b69772a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-cot-nrx-0473910-002-aa-jk-pdf.md",
+      "title": "CoT_NRX-0473910-002-AA_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/CoT_NRX-0473910-002-AA_JK.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-eln-776-final-form-el-uv-purity-ms-tic-pdf",
+      "sha16": "4087a82a5f23bb3e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-eln-776-final-form-el-uv-purity-ms-tic-pdf.md",
+      "title": "ELN 776_Final Form EL UV purity MS TIC",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/ELN 776_Final Form EL UV purity MS TIC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0305-019-uv-purity-pdf",
+      "sha16": "fe971e138ec9f8f3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0305-019-uv-purity-pdf.md",
+      "title": "NRX-0305-019 UV purity",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0305-019 UV purity.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-007-aa-certificate-of-testing-v02-add-solvent-water-jk-docx",
+      "sha16": "6b5cbc5b3332347d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-007-aa-certificate-of-testing-v02-add-solvent-water-jk-docx.md",
+      "title": "NRX-0391607-007-AA_Certificate_of_Testing_v02__add_solvent_water_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0391607-007-AA_Certificate_of_Testing_v02__add_solvent_water_JK.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-007-aa-certificate-of-testing-v03-add-solvent-water-jk-docx",
+      "sha16": "55329e10dd4c72bd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-007-aa-certificate-of-testing-v03-add-solvent-water-jk-docx.md",
+      "title": "NRX-0391607-007-AA_Certificate_of_Testing_v03__add_solvent_water_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0391607-007-AA_Certificate_of_Testing_v03__add_solvent_water_JK.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-007-aa-certificate-of-testing-v03-add-solvent-water-jk-pdf",
+      "sha16": "cfd7de2298807fe0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-007-aa-certificate-of-testing-v03-add-solvent-water-jk-pdf.md",
+      "title": "NRX-0391607-007-AA_Certificate_of_Testing_v03__add_solvent_water_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0391607-007-AA_Certificate_of_Testing_v03__add_solvent_water_JK.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-009-bb-certificate-of-analysis-docx",
+      "sha16": "128b34a3e7e25cf9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-009-bb-certificate-of-analysis-docx.md",
+      "title": "NRX-0391607-009-BB_Certificate_of_Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0391607-009-BB_Certificate_of_Analysis.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-009-bb-certificate-of-testing-v2-docx",
+      "sha16": "6947571b0c6e86ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-009-bb-certificate-of-testing-v2-docx.md",
+      "title": "NRX-0391607-009-BB_Certificate_of_Testing (v2)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0391607-009-BB_Certificate_of_Testing (v2).docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-009-bb-certificate-of-testing-v2-pdf",
+      "sha16": "a60265f517c1021b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0391607-009-bb-certificate-of-testing-v2-pdf.md",
+      "title": "NRX-0391607-009-BB_Certificate_of_Testing (v2)",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0391607-009-BB_Certificate_of_Testing (v2).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397030-003-aa-nx-2127-s-r-certificate-of-testing-pdf",
+      "sha16": "0c9e0b8c461bfd4c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397030-003-aa-nx-2127-s-r-certificate-of-testing-pdf.md",
+      "title": "NRX-0397030-003-AA_ NX-2127 (S_R)_Certificate_of_Testing_",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0397030-003-AA_ NX-2127 (S_R)_Certificate_of_Testing_.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397030-nx-2127-s-r-cot-docx",
+      "sha16": "11eadfb513256e9a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397030-nx-2127-s-r-cot-docx.md",
+      "title": "NRX-0397030 NX-2127 (S,R)  CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0397030 NX-2127 (S,R)  CoT.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397030-nx-2127-s-r-cot-pdf",
+      "sha16": "b5a6e841db88622d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397030-nx-2127-s-r-cot-pdf.md",
+      "title": "NRX-0397030 NX-2127 (S,R)  CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0397030 NX-2127 (S,R)  CoT.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397031-003-aa-nx-2127-r-r-certificate-of-testing-pdf",
+      "sha16": "2644d4272baf4665",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397031-003-aa-nx-2127-r-r-certificate-of-testing-pdf.md",
+      "title": "NRX-0397031-003-AA_ NX-2127 (R_R)_Certificate_of_Testing_",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0397031-003-AA_ NX-2127 (R_R)_Certificate_of_Testing_.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397031-nx-2127-r-r-cot-docx",
+      "sha16": "ad9bbeac0f226585",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397031-nx-2127-r-r-cot-docx.md",
+      "title": "NRX-0397031 NX-2127 (R,R)  CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0397031 NX-2127 (R,R)  CoT.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397031-nx-2127-r-r-cot-pdf",
+      "sha16": "79f49d2a691eae88",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0397031-nx-2127-r-r-cot-pdf.md",
+      "title": "NRX-0397031 NX-2127 (R,R)  CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0397031 NX-2127 (R,R)  CoT.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0419595-s-s--nx-2127-cot-docx",
+      "sha16": "ed2596ffbf4d4691",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0419595-s-s--nx-2127-cot-docx.md",
+      "title": "NRX-0419595 (S,S)-NX-2127 CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0419595 (S,S)-NX-2127 CoT.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0419595-s-s--nx-2127-cot-pdf",
+      "sha16": "deca0f090ef6168b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0419595-s-s--nx-2127-cot-pdf.md",
+      "title": "NRX-0419595 (S,S)-NX-2127 CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0419595 (S,S)-NX-2127 CoT.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0419596-r-s--nx-2127-cot-docx",
+      "sha16": "7f702fa2137ade83",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0419596-r-s--nx-2127-cot-docx.md",
+      "title": "NRX-0419596 (R,S)-NX-2127 CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0419596 (R,S)-NX-2127 CoT.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0419596-r-s--nx-2127-cot-pdf",
+      "sha16": "91c919350895cef0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0419596-r-s--nx-2127-cot-pdf.md",
+      "title": "NRX-0419596 (R,S)-NX-2127 CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0419596 (R,S)-NX-2127 CoT.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v1-docx",
+      "sha16": "f9eb75abe648b9ec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v1-docx.md",
+      "title": "NRX-0434706-001-AA Certificate_of_Testing_V1",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0434706-001-AA Certificate_of_Testing_V1.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v1-pdf",
+      "sha16": "a7bfb937fef038c5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v1-pdf.md",
+      "title": "NRX-0434706-001-AA Certificate_of_Testing_V1",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0434706-001-AA Certificate_of_Testing_V1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v1-signedbc-pdf",
+      "sha16": "dcf87655bf05a3c0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v1-signedbc-pdf.md",
+      "title": "NRX-0434706-001-AA Certificate_of_Testing_V1_signedBC",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0434706-001-AA Certificate_of_Testing_V1_signedBC.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v2-docx",
+      "sha16": "1860542ba589cf4b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v2-docx.md",
+      "title": "NRX-0434706-001-AA Certificate_of_Testing_V2",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0434706-001-AA Certificate_of_Testing_V2.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v2-pdf",
+      "sha16": "953ee6f7e76d6347",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0434706-001-aa-certificate-of-testing-v2-pdf.md",
+      "title": "NRX-0434706-001-AA Certificate_of_Testing_V2",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0434706-001-AA Certificate_of_Testing_V2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-043911-003-aa-cot-uv-pdf",
+      "sha16": "1332b7ae8783602a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-043911-003-aa-cot-uv-pdf.md",
+      "title": "NRX-043911-003-AA CoT UV",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-043911-003-AA CoT UV.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0440305-010-aq-cot-docx",
+      "sha16": "5190a7fa63ca7b5c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0440305-010-aq-cot-docx.md",
+      "title": "NRX-0440305-010-AQ CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0440305-010-AQ CoT.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0464972-005-certificate-of-testing-docx",
+      "sha16": "2392f71cd90903d6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0464972-005-certificate-of-testing-docx.md",
+      "title": "NRX-0464972-005 Certificate_of_Testing",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0464972-005 Certificate_of_Testing.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0464972-006-aq-uv-profile-pdf",
+      "sha16": "debcb2b9aa0d2a41",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0464972-006-aq-uv-profile-pdf.md",
+      "title": "NRX-0464972-006-AQ UV profile",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0464972-006-AQ UV profile.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0464972-006-cn-palladium-pdf",
+      "sha16": "b88379d279391950",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-nrx-0464972-006-cn-palladium-pdf.md",
+      "title": "NRX-0464972-006-CN palladium",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/NRX-0464972-006-CN palladium.pdf",
+      "confidence": "high"
+    }
+  ]
+}

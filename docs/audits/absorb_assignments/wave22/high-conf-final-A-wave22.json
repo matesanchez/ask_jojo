@@ -1,0 +1,327 @@
+{
+  "assignment": "high-conf-final-A-wave22",
+  "wiki_dir": "methods",
+  "wave": "wave22",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-1-2-pdf",
+      "sha16": "5bbc82b273d9df19",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-1-2-pdf.md",
+      "title": "NRX-0399964_DFA#1-2",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#1-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-1-3-pdf",
+      "sha16": "149ccd4935c0c52b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-1-3-pdf.md",
+      "title": "NRX-0399964_DFA#1-3",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#1-3.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-2-1-pdf",
+      "sha16": "cb71ba4ed4bf8fa8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-2-1-pdf.md",
+      "title": "NRX-0399964_DFA#2-1",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#2-1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-2-2-pdf",
+      "sha16": "1f9d44a5b64d9ab2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-2-2-pdf.md",
+      "title": "NRX-0399964_DFA#2-2",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#2-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-2-3-pdf",
+      "sha16": "937daaa119241ac9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-2-3-pdf.md",
+      "title": "NRX-0399964_DFA#2-3",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#2-3.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-3-1-pdf",
+      "sha16": "6179041aaca0bb93",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-3-1-pdf.md",
+      "title": "NRX-0399964_DFA#3-1",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#3-1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-3-2-pdf",
+      "sha16": "d322eba8cc5f761d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-3-2-pdf.md",
+      "title": "NRX-0399964_DFA#3-2",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#3-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-3-3-pdf",
+      "sha16": "4b70592285f7afb1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-3-3-pdf.md",
+      "title": "NRX-0399964_DFA#3-3",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#3-3.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-4-1-pdf",
+      "sha16": "316f4e8a0766ff60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-4-1-pdf.md",
+      "title": "NRX-0399964_DFA#4-1",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#4-1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-4-2-pdf",
+      "sha16": "78d6e22418ee0fea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-4-2-pdf.md",
+      "title": "NRX-0399964_DFA#4-2",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#4-2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-4-3-pdf",
+      "sha16": "eb18d7f71c0cff8c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-nrx-0399964-nv497-dfa-nrx-0399964-dfa-4-3-pdf.md",
+      "title": "NRX-0399964_DFA#4-3",
+      "source_id": "Analytical Chemistry/Bob C - Public/NRX-0399964_NV497_DFA/NRX-0399964_DFA#4-3.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cot-nrx-0465304-002-aa-cot-v2-docx",
+      "sha16": "4439cdbedcc77cce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cot-nrx-0465304-002-aa-cot-v2-docx.md",
+      "title": "NRX-0465304-002-AA CoT V2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoT/NRX-0465304-002-AA CoT V2.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cro-data-nrx-0410479-lots-pd-results-pdf",
+      "sha16": "92ad63e867de09c4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cro-data-nrx-0410479-lots-pd-results-pdf.md",
+      "title": "NRX-0410479 lots Pd results",
+      "source_id": "Analytical Chemistry/Jon K - Public/CRO data/NRX-0410479 lots Pd results.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-current-files-for-jon-qc-ar-003093-wk13-nr4a1-ksol-pbs-cr-002043-pdf",
+      "sha16": "55872bd69226526e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-current-files-for-jon-qc-ar-003093-wk13-nr4a1-ksol-pbs-cr-002043-pdf.md",
+      "title": "AR-003093 WK13 NR4A1 KSOL PBS  _ CR-002043_",
+      "source_id": "Analytical Chemistry/Jon K - Public/Current Files For Jon QC/AR-003093 WK13 NR4A1 KSOL PBS  _ CR-002043_.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-20220729-tfa-and-formate-analysis-8-compounds-gradient-pdf",
+      "sha16": "40e63138cff01a70",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-20220729-tfa-and-formate-analysis-8-compounds-gradient-pdf.md",
+      "title": "20220729 TFA and Formate analysis 8 compounds gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/20220729 TFA and Formate analysis 8 compounds gradient.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-20220729-tfa-and-formate-analysis-8-compounds-isocratic-pdf",
+      "sha16": "bd1b0f6291bbcecf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-20220729-tfa-and-formate-analysis-8-compounds-isocratic-pdf.md",
+      "title": "20220729 TFA and Formate analysis 8 compounds isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/20220729 TFA and Formate analysis 8 compounds isocratic.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-20220729-tfa-and-formate-analysis-8-compounds-pdf",
+      "sha16": "73f3706db22d7f15",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-20220729-tfa-and-formate-analysis-8-compounds-pdf.md",
+      "title": "20220729 TFA and Formate analysis 8 compounds",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/20220729 TFA and Formate analysis 8 compounds.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-fa-analysis-nrx0401352-008-20220621-fa-quant-gradient-pdf",
+      "sha16": "d23bb56baf89ddfb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-fa-analysis-nrx0401352-008-20220621-fa-quant-gradient-pdf.md",
+      "title": "NRX0401352 008 20220621 FA quant gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/FA Analysis/NRX0401352 008 20220621 FA quant gradient.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-030-aq-hcl-quantitation-pdf",
+      "sha16": "7aeb33c39b836708",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-030-aq-hcl-quantitation-pdf.md",
+      "title": "NRX 0410497-030-AQ  HCl quantitation",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0410497-030-AQ  HCl quantitation.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-033-aq-hcl-quantitation-pdf",
+      "sha16": "f0dd43da66046055",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-033-aq-hcl-quantitation-pdf.md",
+      "title": "NRX 0410497-033-AQ  HCl quantitation",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0410497-033-AQ  HCl quantitation.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-gradient-method-final-pdf",
+      "sha16": "150c6bcc3aa93c57",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-gradient-method-final-pdf.md",
+      "title": "NRX 0410497 HCl quantitation gradient method_FINAL",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0410497 HCl quantitation gradient method_FINAL.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-gradient-method-pdf",
+      "sha16": "3651630103ff705a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-gradient-method-pdf.md",
+      "title": "NRX 0410497 HCl quantitation gradient method",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0410497 HCl quantitation gradient method.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-gradient-method-v2-pdf",
+      "sha16": "1f9b4fbd29d6eb7c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-gradient-method-v2-pdf.md",
+      "title": "NRX 0410497 HCl quantitation gradient method v2",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0410497 HCl quantitation gradient method v2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-isocratic-method-final-pdf",
+      "sha16": "59b7cdb68642092c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-isocratic-method-final-pdf.md",
+      "title": "NRX 0410497 HCl quantitation isocratic method_FINAL",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0410497 HCl quantitation isocratic method_FINAL.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-isocratic-method-pdf",
+      "sha16": "c6c137cf2f9dd803",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-isocratic-method-pdf.md",
+      "title": "NRX 0410497 HCl quantitation isocratic method",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0410497 HCl quantitation isocratic method.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-isocratic-method-v2-pdf",
+      "sha16": "0faea4b98192903b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0410497-hcl-quantitation-isocratic-method-v2-pdf.md",
+      "title": "NRX 0410497 HCl quantitation isocratic method v2",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0410497 HCl quantitation isocratic method v2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-041156-hcl-quantitation-gradient-method-pdf",
+      "sha16": "e64488b4b2cc115b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-041156-hcl-quantitation-gradient-method-pdf.md",
+      "title": "NRX 041156 HCl quantitation gradient method",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 041156 HCl quantitation gradient method.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-041156-hcl-quantitation-isocratic-pdf",
+      "sha16": "3f8b66905ead9515",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-041156-hcl-quantitation-isocratic-pdf.md",
+      "title": "NRX 041156 HCl quantitation isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 041156 HCl quantitation isocratic.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0828-13-aq-hcl-quantitation-pdf",
+      "sha16": "76ebc3e9fdc75c38",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-nrx-0828-13-aq-hcl-quantitation-pdf.md",
+      "title": "NRX 0828_13_AQ HCl quantitation",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/NRX 0828_13_AQ HCl quantitation.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220621-tfa-quant-gradient-nrx0401352-009-pdf",
+      "sha16": "d955aa7356355704",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220621-tfa-quant-gradient-nrx0401352-009-pdf.md",
+      "title": "20220621 tfa quant gradient NRX0401352 009",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220621 tfa quant gradient NRX0401352 009.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220621-tfa-quant-isocratic-nrx0401352-009-pdf",
+      "sha16": "6bf42fa0c722f93c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220621-tfa-quant-isocratic-nrx0401352-009-pdf.md",
+      "title": "20220621 tfa quant isocratic NRX0401352 009",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220621 tfa quant isocratic NRX0401352 009.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220715-tfa-gradient-quant-john-buell-4-compounds-pdf",
+      "sha16": "e36d5709d1c7dcf1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220715-tfa-gradient-quant-john-buell-4-compounds-pdf.md",
+      "title": "20220715 TFA gradient quant John Buell 4 compounds",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220715 TFA gradient quant John Buell 4 compounds.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220715-tfa-isocratic-quant-john-buell-4-compounds-pdf",
+      "sha16": "7cbbf62a95bf54d7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220715-tfa-isocratic-quant-john-buell-4-compounds-pdf.md",
+      "title": "20220715 TFA isocratic quant John Buell 4 compounds",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220715 TFA isocratic quant John Buell 4 compounds.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220817-nrx-0414258-nrx-0414258-tfa-gradient-pdf",
+      "sha16": "97bd79f7bd8c0dda",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220817-nrx-0414258-nrx-0414258-tfa-gradient-pdf.md",
+      "title": "20220817 NRX-0414258 NRX-0414258 TFA gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220817 NRX-0414258 NRX-0414258 TFA gradient.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220817-nrx-0414258-nrx-0414258-tfa-isocratic-pdf",
+      "sha16": "8d967e257c6bc5e0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220817-nrx-0414258-nrx-0414258-tfa-isocratic-pdf.md",
+      "title": "20220817 NRX-0414258 NRX-0414258 TFA isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220817 NRX-0414258 NRX-0414258 TFA isocratic.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220830-js-7-compounds-gradient-pdf",
+      "sha16": "21ed9e38d943e519",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220830-js-7-compounds-gradient-pdf.md",
+      "title": "20220830 JS 7 compounds gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220830 JS 7 compounds gradient.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220830-js-7-compounds-isocratic-pdf",
+      "sha16": "575254669115c20f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220830-js-7-compounds-isocratic-pdf.md",
+      "title": "20220830 JS 7 compounds isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220830 JS 7 compounds isocratic.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230512-nrx-0417489-004-aa-rush-gradient-pdf",
+      "sha16": "bca140cfacf61e63",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230512-nrx-0417489-004-aa-rush-gradient-pdf.md",
+      "title": "20230512 NRX-0417489-004-AA rush gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230512 NRX-0417489-004-AA rush gradient.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230512-nrx-0417489-004-aa-rush-isocratic-pdf",
+      "sha16": "b76e1098fef340b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230512-nrx-0417489-004-aa-rush-isocratic-pdf.md",
+      "title": "20230512 NRX-0417489-004-AA rush isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230512 NRX-0417489-004-AA rush isocratic.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0409940-002-cn-tfa-quant-gradient-pdf",
+      "sha16": "1496732ba38dfe31",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0409940-002-cn-tfa-quant-gradient-pdf.md",
+      "title": "NRX-0409940-002-CN TFA quant gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/NRX-0409940-002-CN TFA quant gradient.pdf",
+      "confidence": "high"
+    }
+  ]
+}

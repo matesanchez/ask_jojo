@@ -1,0 +1,327 @@
+{
+  "assignment": "misc-B-wave26",
+  "wiki_dir": "references",
+  "wave": "wave26",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-adjuvants-for-cancer-vaccines-pdf",
+      "sha16": "0997264829182726",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-adjuvants-for-cancer-vaccines-pdf.md",
+      "title": "Adjuvants for cancer vaccines",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Vaccine Paper/Adjuvants for cancer vaccines.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-challenges-towards-the-realization-of-cancer-vaccines-pdf",
+      "sha16": "801730fb9fbb826e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-challenges-towards-the-realization-of-cancer-vaccines-pdf.md",
+      "title": "Challenges towards the realization of cancer vaccines",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Vaccine Paper/Challenges towards the realization of cancer vaccines.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-turning-the-corner-to-theraputic-cancer-vaccines-pdf",
+      "sha16": "bc2942da3d2c602d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-turning-the-corner-to-theraputic-cancer-vaccines-pdf.md",
+      "title": "Turning the corner to theraputic cancer vaccines",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Vaccine Paper/Turning the corner to theraputic cancer vaccines.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-early-precursor-t-cells-establish-and-propagate-pdf",
+      "sha16": "90a3d70e37091efe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-early-precursor-t-cells-establish-and-propagate-pdf.md",
+      "title": "Early precursor T cells establish and propagate",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Early precursor T cells establish and propagate.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-lymph-protects-metastasizing-melanoma-pdf",
+      "sha16": "acc45846041f2c99",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-lymph-protects-metastasizing-melanoma-pdf.md",
+      "title": "Lymph protects metastasizing melanoma",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Lymph protects metastasizing melanoma.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-mhcflurry-2-0-antigen-processing-prediction-pdf",
+      "sha16": "9275c0eb238f1b50",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-mhcflurry-2-0-antigen-processing-prediction-pdf.md",
+      "title": "MHCFlurry 2.0 Antigen processing prediction",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/MHCFlurry 2.0 Antigen processing prediction.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-power-of-trust-pdf",
+      "sha16": "7b46a7950b3a676c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-power-of-trust-pdf.md",
+      "title": "Power of Trust",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Power of Trust.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-sex-differences-in-immune-responses-that-underlie-covid19-pdf",
+      "sha16": "97fbfcdab830ecd9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-sex-differences-in-immune-responses-that-underlie-covid19-pdf.md",
+      "title": "Sex differences in immune responses that underlie COVID19",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Sex differences in immune responses that underlie COVID19.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-t-cell-cytolytic-capacity-is-independent-of-initial-stimulation-pdf",
+      "sha16": "704beeb2b1fd5ca6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-t-cell-cytolytic-capacity-is-independent-of-initial-stimulation-pdf.md",
+      "title": "T cell cytolytic capacity is independent of initial stimulation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/T cell cytolytic capacity is independent of initial stimulation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-the-comparison-between-im-and-sc-routes-pdf",
+      "sha16": "a77922eb9ceb15d3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-the-comparison-between-im-and-sc-routes-pdf.md",
+      "title": "The comparison between IM and SC routes",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/The comparison between IM and SC routes.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-the-role-of-interleukin-6-during-viral-infections-pdf",
+      "sha16": "7c988d05cab6d7f7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-the-role-of-interleukin-6-during-viral-infections-pdf.md",
+      "title": "The Role of Interleukin 6 During Viral Infections",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/The Role of Interleukin 6 During Viral Infections.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-unexpected-role-of-interferon--in-regulating-neuronal-pdf",
+      "sha16": "d8b623b6ca3624c4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-unexpected-role-of-interferon--in-regulating-neuronal-pdf.md",
+      "title": "Unexpected role of interferon-\u03b3 in regulating neuronal",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Unexpected role of interferon-\u03b3 in regulating neuronal.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-impact-of-anatomic-site-on-antigenpresenting-cells-in-cancer-pdf",
+      "sha16": "c65bcfda8f204d61",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-impact-of-anatomic-site-on-antigenpresenting-cells-in-cancer-pdf.md",
+      "title": "Impact of anatomic site on antigenpresenting cells in cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Impact of anatomic site on antigenpresenting cells in cancer.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-intravenous-nanoparticle-vaccination-generates-pdf",
+      "sha16": "1db37d43f2dbf1f1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-intravenous-nanoparticle-vaccination-generates-pdf.md",
+      "title": "Intravenous nanoparticle vaccination generates",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Intravenous nanoparticle vaccination generates.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-jose-gomez-romo-offer-of-employment-2-2020-pdf",
+      "sha16": "b617275234db62f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-jose-gomez-romo-offer-of-employment-2-2020-pdf.md",
+      "title": "Jose Gomez Romo Offer of Employment 2-2020",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Jose Gomez Romo Offer of Employment 2-2020.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-mind-your-media-pdf",
+      "sha16": "22f155ab45b86c3f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-mind-your-media-pdf.md",
+      "title": "Mind your media",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Mind your media.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-nurix-safety-refresher-training-2020----quiz-pdf",
+      "sha16": "4d5d14e509c334a1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-nurix-safety-refresher-training-2020----quiz-pdf.md",
+      "title": "Nurix Safety Refresher Training 2020 -- Quiz",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Nurix Safety Refresher Training 2020 -- Quiz.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rethinking-peripheral-t-cell-pdf",
+      "sha16": "331a6528842f8b02",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rethinking-peripheral-t-cell-pdf.md",
+      "title": "Rethinking peripheral T cell",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Rethinking peripheral T cell.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rishabh-1-pdf",
+      "sha16": "a86ec38aebda92e0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rishabh-1-pdf.md",
+      "title": "Rishabh_1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Rishabh_1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rishabh-2-pdf",
+      "sha16": "a98e5d39def5c436",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rishabh-2-pdf.md",
+      "title": "Rishabh 2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Rishabh 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rishabh-3-pdf",
+      "sha16": "547a7b4afe1603f5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rishabh-3-pdf.md",
+      "title": "Rishabh_3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Rishabh_3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rishabh-4-pdf",
+      "sha16": "78b3035912694c50",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-rishabh-4-pdf.md",
+      "title": "Rishabh_4",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Rishabh_4.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-sd-101-clinical-paper-pdf",
+      "sha16": "602142f9553a7dbd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-sd-101-clinical-paper-pdf.md",
+      "title": "SD-101 CLINICAL paper",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/SD-101 CLINICAL paper.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-teleomeres-and-t-cells-intercellular-telomere-transfer-extends-t-cell-lifespan-full-pdf",
+      "sha16": "b460da451b52c8f0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-teleomeres-and-t-cells-intercellular-telomere-transfer-extends-t-cell-lifespan-full-pdf.md",
+      "title": "Teleomeres and T cells...Intercellular telomere transfer extends T cell lifespan .full",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Teleomeres and T cells...Intercellular telomere transfer extends T cell lifespan .full.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-trem2-pdf",
+      "sha16": "04c8882f1311d9d4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-trem2-pdf.md",
+      "title": "Trem2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Trem2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-two-parallel-worlds-of-memory-t-cells-pdf",
+      "sha16": "bf83f3ec3dc5f44f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-two-parallel-worlds-of-memory-t-cells-pdf.md",
+      "title": "Two parallel worlds of memory T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Two parallel worlds of memory T cells.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-type-i-interferons-drive-the-maturation-of-gitrl-pdf",
+      "sha16": "fa3ff5bec5e896af",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-type-i-interferons-drive-the-maturation-of-gitrl-pdf.md",
+      "title": "Type I interferons drive the maturation of GITRL",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Type I interferons drive the maturation of GITRL.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-uncoupling-interferon-signaling-and-antigen-pdf",
+      "sha16": "303198f134ed5b9c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-uncoupling-interferon-signaling-and-antigen-pdf.md",
+      "title": "Uncoupling interferon signaling and antigen",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Uncoupling interferon signaling and antigen.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-why-and-how-vaccines-work-pdf",
+      "sha16": "32b8b227dadea842",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-why-and-how-vaccines-work-pdf.md",
+      "title": "Why and How Vaccines Work",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Why and How Vaccines Work.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-diverse-functional-autoantibodies-in-covid19-pdf",
+      "sha16": "4713826568859f7b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-diverse-functional-autoantibodies-in-covid19-pdf.md",
+      "title": "Diverse functional autoantibodies in COVID19",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Diverse functional autoantibodies in COVID19.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-editorial-the-human-microbiome-and-cancer-pdf",
+      "sha16": "bd8baa4bba724807",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-editorial-the-human-microbiome-and-cancer-pdf.md",
+      "title": "Editorial The Human Microbiome and Cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Editorial The Human Microbiome and Cancer.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-flt3-paper-pdf",
+      "sha16": "db11275d506f6935",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-flt3-paper-pdf.md",
+      "title": "flt3 paper",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/flt3 paper.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-fms-like-tyrosine-kinase-3-flt3-is-a-type-iii-receptor-tyrosine-kinase-that-plays-an-pdf",
+      "sha16": "8f69c712feb1e495",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-fms-like-tyrosine-kinase-3-flt3-is-a-type-iii-receptor-tyrosine-kinase-that-plays-an-pdf.md",
+      "title": "FMS-like tyrosine kinase 3 (FLT3) is a type III receptor tyrosine kinase that plays an",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/FMS-like tyrosine kinase 3 (FLT3) is a type III receptor tyrosine kinase that plays an.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-han-sciadv-2021--weighting-tct-repertoires-as-a-classifier-in-nsclc--tir-index-pdf",
+      "sha16": "706894d134cdbae6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-han-sciadv-2021--weighting-tct-repertoires-as-a-classifier-in-nsclc--tir-index-pdf.md",
+      "title": "Han-SciAdv-2021- Weighting TCT repertoires as a classifier in NSCLC- TIR index",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Han-SciAdv-2021- Weighting TCT repertoires as a classifier in NSCLC- TIR index.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-hydroxychloroquine-mediated-inhibition-of-pdf",
+      "sha16": "8662cf9305d5ba49",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-hydroxychloroquine-mediated-inhibition-of-pdf.md",
+      "title": "Hydroxychloroquine-mediated inhibition of",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Hydroxychloroquine-mediated inhibition of.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-lymphocyte-circadian-clocks-control-lymph-node-pdf",
+      "sha16": "a6a03c423a86b082",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-lymphocyte-circadian-clocks-control-lymph-node-pdf.md",
+      "title": "Lymphocyte Circadian Clocks Control Lymph Node",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Lymphocyte Circadian Clocks Control Lymph Node.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-metabolic-reprogramming-of-terminally-exhausted-pdf",
+      "sha16": "13ced34c7615579b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-metabolic-reprogramming-of-terminally-exhausted-pdf.md",
+      "title": "Metabolic reprogramming of terminally exhausted",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Metabolic reprogramming of terminally exhausted.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-nektar-persistence-of-adoptively-transferred-t-cells-pdf",
+      "sha16": "496386ba8225640c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-nektar-persistence-of-adoptively-transferred-t-cells-pdf.md",
+      "title": "NEKTAR_Persistence of adoptively transferred T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/NEKTAR_Persistence of adoptively transferred T cells.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-partek-quote-pi-10444-2021-pdf",
+      "sha16": "402c4290f8275bea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-partek-quote-pi-10444-2021-pdf.md",
+      "title": "Partek Quote #  PI-10444_2021",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Partek Quote #  PI-10444_2021.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-pfizer-and-moderna-comparison-to-variants-pdf",
+      "sha16": "21cf618c65a31d25",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-pfizer-and-moderna-comparison-to-variants-pdf.md",
+      "title": "Pfizer and moderna comparison to variants",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Pfizer and moderna comparison to variants.pdf",
+      "confidence": "low"
+    }
+  ]
+}

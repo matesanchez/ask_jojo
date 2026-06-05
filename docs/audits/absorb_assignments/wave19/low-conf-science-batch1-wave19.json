@@ -1,0 +1,63 @@
+{
+  "assignment": "low-conf-science-batch1-wave19",
+  "wiki_dir": "references",
+  "wave": "wave19",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-cancer-immune-evasion-through-loss-of-mhc-class-i-antigen-presentation-pdf",
+      "sha16": "f96a57b0e499a2cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-lsd1-literature-cancer-immune-evasion-through-loss-of-mhc-class-i-antigen-presentation-pdf.md",
+      "title": "Cancer Immune Evasion Through Loss of MHC Class I Antigen Presentation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/LSD1 Literature/Cancer Immune Evasion Through Loss of MHC Class I Antigen Presentation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-cancer-immune-evasion-through-loss-of-mhc-class-i-antigen-presentation-pdf",
+      "sha16": "f96a57b0e499a2cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-cancer-immune-evasion-through-loss-of-mhc-class-i-antigen-presentation-pdf.md",
+      "title": "Cancer Immune Evasion Through Loss of MHC Class I Antigen Presentation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/Cancer Immune Evasion Through Loss of MHC Class I Antigen Presentation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-lsd1-literature-cancer-immune-evasion-through-loss-of-mhc-class-i-antigen-presentation-pdf",
+      "sha16": "f96a57b0e499a2cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-lsd1-literature-cancer-immune-evasion-through-loss-of-mhc-class-i-antigen-presentation-pdf.md",
+      "title": "Cancer Immune Evasion Through Loss of MHC Class I Antigen Presentation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/LSD1 Literature/Cancer Immune Evasion Through Loss of MHC Class I Antigen Presentation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-nk-cells-il-21-in-adcc-pdf",
+      "sha16": "60418e3f81ac69e2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-nk-cells-il-21-in-adcc-pdf.md",
+      "title": "il-21 in ADCC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/NK Cells/il-21 in ADCC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-rest-car-t-cells-epigenetics-mackall-2021-pdf",
+      "sha16": "b7d0903eb77c6889",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-rest-car-t-cells-epigenetics-mackall-2021-pdf.md",
+      "title": "Rest.CAR T cells.epigenetics.Mackall.2021",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Rest.CAR T cells.epigenetics.Mackall.2021.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-the-nk-cell-granule-protein-nkg7-regulates-pdf",
+      "sha16": "934d3af62ad83cfc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-the-nk-cell-granule-protein-nkg7-regulates-pdf.md",
+      "title": "The NK cell granule protein NKG7 regulates",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/The NK cell granule protein NKG7 regulates.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-nk-cells-il-21-in-adcc-pdf",
+      "sha16": "60418e3f81ac69e2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-nk-cells-il-21-in-adcc-pdf.md",
+      "title": "il-21 in ADCC",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/NK Cells/il-21 in ADCC.pdf",
+      "confidence": "low"
+    }
+  ]
+}

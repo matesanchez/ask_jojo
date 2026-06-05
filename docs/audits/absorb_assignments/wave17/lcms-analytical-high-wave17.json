@@ -1,0 +1,327 @@
+{
+  "assignment": "lcms-analytical-high-wave17",
+  "wiki_dir": "methods",
+  "wave": "wave17",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-new-folder-instrument-sn-8800---purification-lcms-pdf",
+      "sha16": "d9a1b335492740eb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-new-folder-instrument-sn-8800---purification-lcms-pdf.md",
+      "title": "8800 - Purification LCMS",
+      "source_id": "Analytical Chemistry/New folder/Instrument SN/8800 - Purification LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-5-lcms-pdf",
+      "sha16": "e9a34c5535536a34",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-5-lcms-pdf.md",
+      "title": "JLB-207-404-5_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-5_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-6-lcms-pdf",
+      "sha16": "87b1be170ff5ced5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-6-lcms-pdf.md",
+      "title": "JLB-207-404-6_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-6_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-7-lcms-pdf",
+      "sha16": "4fe777c99ec9aba8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-7-lcms-pdf.md",
+      "title": "JLB-207-404-7_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-7_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-8-lcms-pdf",
+      "sha16": "7f70563d1b8b48a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-8-lcms-pdf.md",
+      "title": "JLB-207-404-8_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-8_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-9-lcms-pdf",
+      "sha16": "bd89e2cd1724f8de",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-404-9-lcms-pdf.md",
+      "title": "JLB-207-404-9_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-404-9_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-1-lcms-pdf",
+      "sha16": "f905380302867f2d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-1-lcms-pdf.md",
+      "title": "JLB-207-405-1_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-1_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-10-lcms-pdf",
+      "sha16": "cdf58e4613f00ab6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-10-lcms-pdf.md",
+      "title": "JLB-207-405-10_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-10_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-11-lcms-pdf",
+      "sha16": "69b3b75d0ea2aaf9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-11-lcms-pdf.md",
+      "title": "JLB-207-405-11_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-11_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-12-lcms-pdf",
+      "sha16": "349fb429322afc56",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-12-lcms-pdf.md",
+      "title": "JLB-207-405-12_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-12_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-13-lcms-pdf",
+      "sha16": "e6cac16d76216fc4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-13-lcms-pdf.md",
+      "title": "JLB-207-405-13_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-13_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-14-lcms-pdf",
+      "sha16": "d183c168d20c712b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-14-lcms-pdf.md",
+      "title": "JLB-207-405-14_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-14_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-2-lcms-pdf",
+      "sha16": "495528c2fca002ed",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-2-lcms-pdf.md",
+      "title": "JLB-207-405-2_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-2_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-3-lcms-pdf",
+      "sha16": "d79eb016a1542a8f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-3-lcms-pdf.md",
+      "title": "JLB-207-405-3_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-3_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-4-lcms-pdf",
+      "sha16": "13adc09ae5fcf209",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-4-lcms-pdf.md",
+      "title": "JLB-207-405-4_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-4_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-5-lcms-pdf",
+      "sha16": "77aa7db463eacc02",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-5-lcms-pdf.md",
+      "title": "JLB-207-405-5_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-5_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-6-lcms-pdf",
+      "sha16": "a7aa9f8afdac90e7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-6-lcms-pdf.md",
+      "title": "JLB-207-405-6_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-6_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-7-lcms-pdf",
+      "sha16": "d76cd8f53bd814a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-7-lcms-pdf.md",
+      "title": "JLB-207-405-7_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-7_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-8-lcms-pdf",
+      "sha16": "122ba35056e98799",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-8-lcms-pdf.md",
+      "title": "JLB-207-405-8_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-8_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-9-lcms-pdf",
+      "sha16": "d5bad10bc43e2d88",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-data-archive-112222-jeanette-miniplate-crudeqcreports-jlb-207-405-9-lcms-pdf.md",
+      "title": "JLB-207-405-9_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Data Archive/112222_Jeanette_MiniPlate_CrudeQCReports/JLB-207-405-9_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1407-lcms-pdf",
+      "sha16": "a64dd46218cdac5d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1407-lcms-pdf.md",
+      "title": "ELN-207-1407_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1407_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1408-lcms-pdf",
+      "sha16": "e4907988aa4b939e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1408-lcms-pdf.md",
+      "title": "ELN-207-1408_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1408_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1409-lcms-pdf",
+      "sha16": "f6e31ed83d2dd17b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1409-lcms-pdf.md",
+      "title": "ELN-207-1409_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1409_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1410-lcms-pdf",
+      "sha16": "d889db67a19805af",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1410-lcms-pdf.md",
+      "title": "ELN-207-1410_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1410_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1411-lcms-pdf",
+      "sha16": "ad9f718b97b44371",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1411-lcms-pdf.md",
+      "title": "ELN-207-1411_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1411_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1412-lcms-20250124093522811-pdf",
+      "sha16": "eeca4db017299ab7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1412-lcms-20250124093522811-pdf.md",
+      "title": "ELN-207-1412_LCMS_20250124093522811",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1412_LCMS_20250124093522811.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1413-lcms-pdf",
+      "sha16": "a0ffd46e752619d2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1413-lcms-pdf.md",
+      "title": "ELN-207-1413_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1413_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1414-lcms-20250124093539165-pdf",
+      "sha16": "7c13e6a73052a03b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1414-lcms-20250124093539165-pdf.md",
+      "title": "ELN-207-1414_LCMS_20250124093539165",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1414_LCMS_20250124093539165.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1415-lcms-20250124093521838-pdf",
+      "sha16": "b0fa8108eb1065ac",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1415-lcms-20250124093521838-pdf.md",
+      "title": "ELN-207-1415_LCMS_20250124093521838",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1415_LCMS_20250124093521838.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1416-lcms-pdf",
+      "sha16": "920b48cca5c3bf37",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1416-lcms-pdf.md",
+      "title": "ELN-207-1416_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1416_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1417-lcms-pdf",
+      "sha16": "cf334da6d7f2ecc9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1417-lcms-pdf.md",
+      "title": "ELN-207-1417_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1417_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1418-lcms-20250124093522545-pdf",
+      "sha16": "0dc1344dc381ce2e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1418-lcms-20250124093522545-pdf.md",
+      "title": "ELN-207-1418_LCMS_20250124093522545",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1418_LCMS_20250124093522545.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1419-lcms-20250124093520891-pdf",
+      "sha16": "1c64798ba08f37ac",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1419-lcms-20250124093520891-pdf.md",
+      "title": "ELN-207-1419_LCMS_20250124093520891",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1419_LCMS_20250124093520891.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1420-lcms-pdf",
+      "sha16": "b3726800219e2d49",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1420-lcms-pdf.md",
+      "title": "ELN-207-1420_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1420_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1421-lcms-pdf",
+      "sha16": "18183bd1dcd221b5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1421-lcms-pdf.md",
+      "title": "ELN-207-1421_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1421_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1422-lcms-pdf",
+      "sha16": "d3b90676865c6ff4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1422-lcms-pdf.md",
+      "title": "ELN-207-1422_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1422_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1423-lcms-pdf",
+      "sha16": "8b42d8c52a7a6abd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1423-lcms-pdf.md",
+      "title": "ELN-207-1423_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1423_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1424-lcms-pdf",
+      "sha16": "8029fb4c123ba96c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1424-lcms-pdf.md",
+      "title": "ELN-207-1424_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1424_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1425-lcms-pdf",
+      "sha16": "da949f22657d4857",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1425-lcms-pdf.md",
+      "title": "ELN-207-1425_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1425_LCMS.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1426-lcms-pdf",
+      "sha16": "4b0ac4b1ebf32e83",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-jeanette-crude-012425-eln-207-1426-lcms-pdf.md",
+      "title": "ELN-207-1426_LCMS",
+      "source_id": "Analytical Chemistry/Robert K - Public/Jeanette_Crude_012425/ELN-207-1426_LCMS.pdf",
+      "confidence": "high"
+    }
+  ]
+}

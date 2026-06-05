@@ -1,0 +1,327 @@
+{
+  "assignment": "jon-k-B-wave27",
+  "wiki_dir": "references",
+  "wave": "wave27",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-20250428-nurix-bm-iam-04-25-25-gl-v2-pdf",
+      "sha16": "46adfde091ed6282",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-20250428-nurix-bm-iam-04-25-25-gl-v2-pdf.md",
+      "title": "20250428 Nurix BM IAM 04_25_25 GL_V2",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/20250428 Nurix BM IAM 04_25_25 GL_V2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-220524-nurx-pka-30ul-quote-pdf",
+      "sha16": "09c6c6bedd562ff3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-220524-nurx-pka-30ul-quote-pdf.md",
+      "title": "220524-NURX_pKa 30ul quote",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/220524-NURX_pKa 30ul quote.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-3911-011-rml-palladium-analysis-request-r2-4972-3911-copy-pdf",
+      "sha16": "473091630092e4c5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-3911-011-rml-palladium-analysis-request-r2-4972-3911-copy-pdf.md",
+      "title": "3911-011 RML palladium Analysis Request R2 4972_3911 copy",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/3911-011 RML palladium Analysis Request R2 4972_3911 copy.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-c44h48clfn10o4s-rml-residual-solvent-analysis-general-analy-0c9f98caa6",
+      "sha16": "6e3214c4fe92f3c5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-c44h48clfn10o4s-rml-residual-solvent-analysis-general-analy-0c9f98caa6.md",
+      "title": "C44H48ClFN10O4S RML residual solvent analysis General Analysis Request R2 4972_3911",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/C44H48ClFN10O4S RML residual solvent analysis General Analysis Request R2 4972_3911.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00450095-vh2-dad-cad-nurix-therapeutics-pdf",
+      "sha16": "44ccbaee284dce62",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00450095-vh2-dad-cad-nurix-therapeutics-pdf.md",
+      "title": "CPQ-00450095-VH2 DAD CAD-Nurix Therapeutics",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/CPQ-00450095-VH2 DAD CAD-Nurix Therapeutics.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00450097-vf2-dad-cad-nurix-therapeutics-pdf",
+      "sha16": "3bc6258372a91b3c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00450097-vf2-dad-cad-nurix-therapeutics-pdf.md",
+      "title": "CPQ-00450097-VF2 DAD CAD-Nurix Therapeutics",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/CPQ-00450097-VF2 DAD CAD-Nurix Therapeutics.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00450099-fortis-plus-nurix-therapeutics-pdf",
+      "sha16": "d4bcbd34de86d0c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00450099-fortis-plus-nurix-therapeutics-pdf.md",
+      "title": "CPQ-00450099-Fortis Plus-Nurix Therapeutics",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/CPQ-00450099-Fortis Plus-Nurix Therapeutics.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00450103-quantis-plus--nurix-therapeutics-pdf",
+      "sha16": "cfc5527b45eba9ac",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00450103-quantis-plus--nurix-therapeutics-pdf.md",
+      "title": "CPQ-00450103-Quantis Plus- Nurix Therapeutics",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/CPQ-00450103-Quantis Plus- Nurix Therapeutics.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00698788-tsq-quantisplus-draft-pdf",
+      "sha16": "1086489cdd054230",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00698788-tsq-quantisplus-draft-pdf.md",
+      "title": "CPQ-00698788_TSQ_quantisplus_draft",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/CPQ-00698788_TSQ_quantisplus_draft.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00714280-tsq-fortisplus-draft-pdf",
+      "sha16": "74a6dc9325470d5e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00714280-tsq-fortisplus-draft-pdf.md",
+      "title": "CPQ-00714280_TSQ_Fortisplus_draft",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/CPQ-00714280_TSQ_Fortisplus_draft.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00714280-tsq-fortisplus-draft-pdf-nurix-fortis-quote-pdf",
+      "sha16": "b406bbade993eef0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cpq-00714280-tsq-fortisplus-draft-pdf-nurix-fortis-quote-pdf.md",
+      "title": "CPQ-00714280_TSQ_Fortisplus_draft.pdf_NURIX_FORTIS_QUOTE",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/CPQ-00714280_TSQ_Fortisplus_draft.pdf_NURIX_FORTIS_QUOTE.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cyprotech-pka-nurix-therapeutics-inc-work-order-05182022-pdf",
+      "sha16": "8c6d1e791ca4718a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-cyprotech-pka-nurix-therapeutics-inc-work-order-05182022-pdf.md",
+      "title": "Cyprotech pKa Nurix Therapeutics Inc. Work Order 05182022",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Cyprotech pKa Nurix Therapeutics Inc. Work Order 05182022.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-gcms-r1-pdf",
+      "sha16": "4088bb2ea3163277",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-gcms-r1-pdf.md",
+      "title": "GCMS R1",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/GCMS R1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-horizon-quote-for-pump-that-goes-with-the-refurbished-cad-pdf",
+      "sha16": "b2b66251625c5246",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-horizon-quote-for-pump-that-goes-with-the-refurbished-cad-pdf.md",
+      "title": "Horizon quote for pump that goes with the refurbished CAD",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Horizon quote for pump that goes with the refurbished CAD.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-ic-free-part-order-confirmation-pdf",
+      "sha16": "5f9291b2582d6f89",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-ic-free-part-order-confirmation-pdf.md",
+      "title": "IC free part order confirmation",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/IC free part order confirmation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-ic-msa-cation-kit-pdf",
+      "sha16": "9b937ae85d2f9cf6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-ic-msa-cation-kit-pdf.md",
+      "title": "IC MSA cation kit",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/IC MSA cation kit.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote4704-pdf",
+      "sha16": "331279cf9631cd8d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote4704-pdf.md",
+      "title": "Jon Keller_Nurix Therapeutics Inc._Quote4704",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Jon Keller_Nurix Therapeutics Inc._Quote4704.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote4705-pdf",
+      "sha16": "ebe6038d44ca6684",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote4705-pdf.md",
+      "title": "Jon Keller_Nurix Therapeutics Inc._Quote4705",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Jon Keller_Nurix Therapeutics Inc._Quote4705.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote4706-pdf",
+      "sha16": "593fde9a93c366d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote4706-pdf.md",
+      "title": "Jon Keller_Nurix Therapeutics Inc._Quote4706",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Jon Keller_Nurix Therapeutics Inc._Quote4706.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote4958-elemental-only-pdf",
+      "sha16": "12d190ec72837412",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote4958-elemental-only-pdf.md",
+      "title": "Jon Keller_Nurix Therapeutics Inc._Quote4958 elemental only",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Jon Keller_Nurix Therapeutics Inc._Quote4958 elemental only.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote5046-pdf",
+      "sha16": "80490b9b9016789b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-jon-keller-nurix-therapeutics-inc-quote5046-pdf.md",
+      "title": "Jon Keller_Nurix Therapeutics Inc._Quote5046",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Jon Keller_Nurix Therapeutics Inc._Quote5046.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-labx-used-horizon-system-without-cad-pdf",
+      "sha16": "723c8610cba80460",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-labx-used-horizon-system-without-cad-pdf.md",
+      "title": "labx used horizon system without CAD",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/labx used horizon system without CAD.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-nurix---jonathan-keller---4610082---uibii-g1390b-pdf",
+      "sha16": "992ce8005601552b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-nurix---jonathan-keller---4610082---uibii-g1390b-pdf.md",
+      "title": "Nurix - Jonathan Keller - 4610082 - UIBII G1390B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Nurix - Jonathan Keller - 4610082 - UIBII G1390B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-ph-meter-quote-price-pdf",
+      "sha16": "a46f6a4c57148cc4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-ph-meter-quote-price-pdf.md",
+      "title": "ph meter quote price",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/ph meter quote price.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-qu081622-1660646817-keller-thermo-cad-binary-pump-pdf",
+      "sha16": "bbea299d229f8689",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-qu081622-1660646817-keller-thermo-cad-binary-pump-pdf.md",
+      "title": "QU081622-1660646817 Keller Thermo CAD Binary Pump",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/QU081622-1660646817 Keller Thermo CAD Binary Pump.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rmi-sow-pdf",
+      "sha16": "9539f19e15f43456",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rmi-sow-pdf.md",
+      "title": "RMI SOW",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RMI SOW.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-general-analysis-request-r2-4972-3911-pdf",
+      "sha16": "26189f166d027746",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-general-analysis-request-r2-4972-3911-pdf.md",
+      "title": "RML General Analysis Request R2 4972_3911",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML General Analysis Request R2 4972_3911.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-general-analysis-request-r2-pdf",
+      "sha16": "f66a4c06082fbe44",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-general-analysis-request-r2-pdf.md",
+      "title": "RML General Analysis Request R2",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML General Analysis Request R2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-10-1547-3-11-4mg-keller-pdf",
+      "sha16": "3d7bb6d0f3938a4d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-10-1547-3-11-4mg-keller-pdf.md",
+      "title": "RML  Palladium ICP-MS Analysis Request 10-1547-3 11.4mg_Keller",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML  Palladium ICP-MS Analysis Request 10-1547-3 11.4mg_Keller.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-10-1565-2-17-6mg-keller-pdf",
+      "sha16": "80b1a809bf252a1c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-10-1565-2-17-6mg-keller-pdf.md",
+      "title": "RML  Palladium ICP-MS Analysis Request 10-1565-2 17.6mg_Keller",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML  Palladium ICP-MS Analysis Request 10-1565-2 17.6mg_Keller.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-20240915-keller-pdf",
+      "sha16": "88f04fa7bd6cef79",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-20240915-keller-pdf.md",
+      "title": "RML  Palladium ICP-MS Analysis Request 20240915_Keller",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML  Palladium ICP-MS Analysis Request 20240915_Keller.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-eln-10-1564-2-8-1mg-keller-pdf",
+      "sha16": "6eb76daa3fb67121",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-eln-10-1564-2-8-1mg-keller-pdf.md",
+      "title": "RML  Palladium ICP-MS Analysis Request ELN-10-1564-2_8.1mg_Keller",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML  Palladium ICP-MS Analysis Request ELN-10-1564-2_8.1mg_Keller.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-nrx-0464972-006-cn-10-12cbfaa37b",
+      "sha16": "07ef4c221b4ac2f0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-nrx-0464972-006-cn-10-12cbfaa37b.md",
+      "title": "RML  Palladium ICP-MS Analysis Request NRX 0464972-006-CN_10-1590-3 20240915_Keller",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML  Palladium ICP-MS Analysis Request NRX 0464972-006-CN_10-1590-3 20240915_Keller.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-sel-nur-int-n-78-3-pdf",
+      "sha16": "b7caebde58188a3c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request-sel-nur-int-n-78-3-pdf.md",
+      "title": "RML  Palladium ICP-MS Analysis Request SEL-NUR-Int N-78-3",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML  Palladium ICP-MS Analysis Request SEL-NUR-Int N-78-3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request126-1815-keller-pdf",
+      "sha16": "93369e1bd7c56187",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-palladium-icp-ms-analysis-request126-1815-keller-pdf.md",
+      "title": "RML  Palladium ICP-MS Analysis Request126-1815_Keller",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML  Palladium ICP-MS Analysis Request126-1815_Keller.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-residual-solvent-analysis-general-analysis-request-r2-4-4c9228d19d",
+      "sha16": "3aee3a7fdba20d64",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-rml-residual-solvent-analysis-general-analysis-request-r2-4-4c9228d19d.md",
+      "title": "RML residual solvent analysis General Analysis Request R2 4972_3911",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/RML residual solvent analysis General Analysis Request R2 4972_3911.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-robertson-microlit-master-sow-apr-2022-6701-220420-1604-pdf",
+      "sha16": "be075effddd1d5ef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-robertson-microlit-master-sow-apr-2022-6701-220420-1604-pdf.md",
+      "title": "Robertson Microlit_Master SOW_(Apr 2022)_6701_220420_1604",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/Robertson Microlit_Master SOW_(Apr 2022)_6701_220420_1604.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-shipping-request-form-1607-pdf",
+      "sha16": "14ed074cd4540818",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-shipping-request-form-1607-pdf.md",
+      "title": "shipping request form 1607",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/shipping request form 1607.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-shipping-request-form-20220525-pdf",
+      "sha16": "54a6781074171e17",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-shipping-request-form-20220525-pdf.md",
+      "title": "shipping request form 20220525",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/shipping request form 20220525.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-shipping-request-form-20240911-stat6-aurora-jk-pdf",
+      "sha16": "2ce897cb8b1422b3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-quotes-shipping-request-form-20240911-stat6-aurora-jk-pdf.md",
+      "title": "shipping request form 20240911 STAT6 AURORA_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Quotes/shipping request form 20240911 STAT6 AURORA_JK.pdf",
+      "confidence": "low"
+    }
+  ]
+}

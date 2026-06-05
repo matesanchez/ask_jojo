@@ -1,0 +1,327 @@
+{
+  "assignment": "jon-k-B-wave28",
+  "wiki_dir": "references",
+  "wave": "wave28",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-026-750-g-ml-pdf",
+      "sha16": "c8a6be6190b16ad5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-026-750-g-ml-pdf.md",
+      "title": "0479 026 750\u00b5g_ml",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 026 750\u00b5g_ml.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-027-500-g-ml-replicate-1-pdf",
+      "sha16": "b08ccaa4f1c05c9a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-027-500-g-ml-replicate-1-pdf.md",
+      "title": "0479 027 500\u00b5g_ml replicate 1",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 027 500\u00b5g_ml replicate 1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-027-500-g-ml-replicate-2-pdf",
+      "sha16": "c31bd792d0a2e026",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-027-500-g-ml-replicate-2-pdf.md",
+      "title": "0479 027 500\u00b5g_ml replicate 2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 027 500\u00b5g_ml replicate 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-027-750-g-ml-pdf",
+      "sha16": "f2875fbb9ea823be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-027-750-g-ml-pdf.md",
+      "title": "0479 027 750\u00b5g_ml",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 027 750\u00b5g_ml.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-028-500-g-ml-replicate-1-pdf",
+      "sha16": "d6107b641e24dff5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-028-500-g-ml-replicate-1-pdf.md",
+      "title": "0479 028 500\u00b5g_ml replicate 1",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 028 500\u00b5g_ml replicate 1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-028-500-g-ml-replicate-2-pdf",
+      "sha16": "91f4a6d13f546f17",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-028-500-g-ml-replicate-2-pdf.md",
+      "title": "0479 028 500\u00b5g_ml replicate 2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 028 500\u00b5g_ml replicate 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-028-750-g-ml-pdf",
+      "sha16": "d621acf6e34471fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-028-750-g-ml-pdf.md",
+      "title": "0479 028 750\u00b5g_ml",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 028 750\u00b5g_ml.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-029-500-g-ml-replicate-1-pdf",
+      "sha16": "29697de02339d446",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-029-500-g-ml-replicate-1-pdf.md",
+      "title": "0479 029 500\u00b5g_ml replicate 1",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 029 500\u00b5g_ml replicate 1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-029-500-g-ml-replicate-2-pdf",
+      "sha16": "1a4a3eb45f7c94d6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-029-500-g-ml-replicate-2-pdf.md",
+      "title": "0479 029 500\u00b5g_ml replicate 2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 029 500\u00b5g_ml replicate 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-029-750-g-ml-pdf",
+      "sha16": "fa43164f1c694c88",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-0479-029-750-g-ml-pdf.md",
+      "title": "0479 029 750\u00b5g_ml",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/0479 029 750\u00b5g_ml.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-385-3-long-5-20-ms-pdf",
+      "sha16": "3d14c30bd9fca768",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-5948-26-27-28-29-385-3-long-5-20-ms-pdf.md",
+      "title": "385-3 long 5-20% MS",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/5948 26 27 28 29/385-3 long 5-20% MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-barbara-stat-6-multiple-masses-pdf",
+      "sha16": "ec7e80e7883b5adc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-barbara-stat-6-multiple-masses-pdf.md",
+      "title": "Barbara STAT 6 multiple masses",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/Barbara STAT 6 multiple masses.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-cad-ctm-nrx-46-48-51-concentrations-pdf",
+      "sha16": "0a496d23710e5cb1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-cad-ctm-nrx-46-48-51-concentrations-pdf.md",
+      "title": "CAD CTM NRX 46 48 51 concentrations",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/CAD CTM NRX 46 48 51 concentrations.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-nrx-0408508-006-pdf",
+      "sha16": "7c6a48c1e60e6193",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-nrx-0408508-006-pdf.md",
+      "title": "NRX 0408508 006",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/NRX 0408508 006.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-nrx-041156-ms-2nd-peak-identification-pdf",
+      "sha16": "6a5e6b6e0764913d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-impurity-analysis-reports-nrx-041156-ms-2nd-peak-identification-pdf.md",
+      "title": "NRX 041156 MS 2nd peak identification",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/Impurity Analysis Reports/NRX 041156 MS 2nd peak identification.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-isoquant-pdf",
+      "sha16": "bbcabc57e192ad60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-isoquant-pdf.md",
+      "title": "isoquant",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/isoquant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ksol-arm-request-id-ar-000734-pdf",
+      "sha16": "316c91a83abef3de",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ksol-arm-request-id-ar-000734-pdf.md",
+      "title": "ARM Request Id AR-000734",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/ksol/ARM Request Id AR-000734.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-library-plate-screen-ap000025-ap000033-pdf",
+      "sha16": "a5e0178f75811ef6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-library-plate-screen-ap000025-ap000033-pdf.md",
+      "title": "AP000025 AP000033",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/library plate screen/AP000025 AP000033.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-library-plate-screen-ap000027-cpmgt-bio-pdf",
+      "sha16": "ceb3dc63fbd6dd9a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-library-plate-screen-ap000027-cpmgt-bio-pdf.md",
+      "title": "AP000027 cpmgt bio",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/library plate screen/AP000027 cpmgt bio.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-library-plate-screen-ap000034-ap000035-pdf",
+      "sha16": "169517210813a870",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-library-plate-screen-ap000034-ap000035-pdf.md",
+      "title": "AP000034 AP000035",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/library plate screen/AP000034 AP000035.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-mass-confirmation-20230614-lg-mass-confirmation-pdf",
+      "sha16": "79c3d97214d4fb68",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-mass-confirmation-20230614-lg-mass-confirmation-pdf.md",
+      "title": "20230614  LG mass confirmation",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/mass confirmation/20230614  LG mass confirmation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-mass-confirmation-20230828-lg-mass-confirmation-pdf",
+      "sha16": "fc99896a27c7f2bd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-mass-confirmation-20230828-lg-mass-confirmation-pdf.md",
+      "title": "20230828 LG mass confirmation",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/mass confirmation/20230828 LG mass confirmation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-mass-confirmation-20231114-lg-mass-confirmation-all-injections-ms-tic-pdf",
+      "sha16": "d7609209a72e8dfa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-mass-confirmation-20231114-lg-mass-confirmation-all-injections-ms-tic-pdf.md",
+      "title": "20231114 LG mass confirmation  All Injections MS TIC",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/mass confirmation/20231114 LG mass confirmation  All Injections MS TIC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a1-pdf",
+      "sha16": "b33ab6d0ced3e7bc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a1-pdf.md",
+      "title": "SPE plate_A1",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a10-pdf",
+      "sha16": "719114c426b85119",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a10-pdf.md",
+      "title": "SPE plate_A10",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A10.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a11-pdf",
+      "sha16": "55044a2da0757fe9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a11-pdf.md",
+      "title": "SPE plate_A11",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A11.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a12-pdf",
+      "sha16": "c0494cf5afdc98dc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a12-pdf.md",
+      "title": "SPE plate_A12",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A12.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a2-pdf",
+      "sha16": "89d2efb8b915e603",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a2-pdf.md",
+      "title": "SPE plate_A2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a3-pdf",
+      "sha16": "399fb61bcbdc88ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a3-pdf.md",
+      "title": "SPE plate_A3",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a4-pdf",
+      "sha16": "f2931fc357d04fe1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a4-pdf.md",
+      "title": "SPE plate_A4",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A4.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a5-pdf",
+      "sha16": "76e02900aca5e76a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a5-pdf.md",
+      "title": "SPE plate_A5",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A5.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a6-pdf",
+      "sha16": "aed362290bce1f55",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a6-pdf.md",
+      "title": "SPE plate_A6",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A6.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a7-pdf",
+      "sha16": "0ca2be4d8d4332e8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a7-pdf.md",
+      "title": "SPE plate_A7",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A7.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a8-pdf",
+      "sha16": "0cadd7a6d29cc853",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a8-pdf.md",
+      "title": "SPE plate_A8",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A8.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a9-pdf",
+      "sha16": "e008c4aab6b2758d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-a9-pdf.md",
+      "title": "SPE plate_A9",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_A9.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b1-pdf",
+      "sha16": "386cd7a5503c767d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b1-pdf.md",
+      "title": "SPE plate_B1",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_B1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b10-pdf",
+      "sha16": "d8ccd8cde644f4b4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b10-pdf.md",
+      "title": "SPE plate_B10",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_B10.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b11-pdf",
+      "sha16": "549034ab30e06003",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b11-pdf.md",
+      "title": "SPE plate_B11",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_B11.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b12-pdf",
+      "sha16": "d8aa7fe308d98ca6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b12-pdf.md",
+      "title": "SPE plate_B12",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_B12.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b2-pdf",
+      "sha16": "3e4ca9ffce284361",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-ms-tic-for-each-solid-phase-well-spe-plate-b2-pdf.md",
+      "title": "SPE plate_B2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/MS TIC for each solid phase well/SPE plate_B2.pdf",
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "assignment": "high-conf-final-B-wave22",
+  "wiki_dir": "methods",
+  "wave": "wave22",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0409940-002-cn-tfa-quant-isocratic-pdf",
+      "sha16": "8b4b6b77fc07fbbf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0409940-002-cn-tfa-quant-isocratic-pdf.md",
+      "title": "NRX-0409940-002-CN TFA quant isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/NRX-0409940-002-CN TFA quant isocratic.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0410831-001-cn-tfa-quant-gradient-pdf",
+      "sha16": "8fa2ff478d36faa8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0410831-001-cn-tfa-quant-gradient-pdf.md",
+      "title": "NRX-0410831-001-CN TFA quant gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/NRX-0410831-001-CN TFA quant gradient.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0410831-001-cn-tfa-quant-isocratic-pdf",
+      "sha16": "5e5c15a72df9e714",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0410831-001-cn-tfa-quant-isocratic-pdf.md",
+      "title": "NRX-0410831-001-CN TFA quant isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/NRX-0410831-001-CN TFA quant isocratic.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0417489-004-aa-pptx",
+      "sha16": "a514ae80ddb7eb52",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-0417489-004-aa-pptx.md",
+      "title": "NRX-0417489-004-AA",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/NRX-0417489-004-AA.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-041789-004-aa-tfa-ic-analysis-pdf",
+      "sha16": "5fca46bb449bf50a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-nrx-041789-004-aa-tfa-ic-analysis-pdf.md",
+      "title": "NRX-041789-004-AA TFA IC analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/NRX-041789-004-AA TFA IC analysis.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-tfa-results-nrx-0401352-pdf",
+      "sha16": "2bfcbeccd512d9e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-tfa-results-nrx-0401352-pdf.md",
+      "title": "TFA results NRX-0401352",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/TFA results NRX-0401352.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-report-20221108-nrx410479-almac-0012-0015-isocratic-pdf",
+      "sha16": "5889d177126a298b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-report-20221108-nrx410479-almac-0012-0015-isocratic-pdf.md",
+      "title": "20221108 NRX410479 ALMAC 0012 0015 isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/ic report/20221108 NRX410479 ALMAC 0012 0015 isocratic.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-report-20221108-nrx410479-almac-0012-0015-pdf",
+      "sha16": "5a064cafdcec06a2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-report-20221108-nrx410479-almac-0012-0015-pdf.md",
+      "title": "20221108 NRX410479 ALMAC 0012 0015",
+      "source_id": "Analytical Chemistry/Jon K - Public/ic report/20221108 NRX410479 ALMAC 0012 0015.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-chs-help-firewall-settings-pdf",
+      "sha16": "0aad3192f981a23a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-chs-help-firewall-settings-pdf.md",
+      "title": "firewall_settings",
+      "source_id": "Analytical Chemistry/Jon K - Public/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/SitePrep/CHS/Help/firewall_settings.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-chs-help-ossettings-pdf",
+      "sha16": "6b5a759049a59ce8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-chs-help-ossettings-pdf.md",
+      "title": "ossettings",
+      "source_id": "Analytical Chemistry/Jon K - Public/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/SitePrep/CHS/Help/ossettings.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-enu-help-firewall-settings-pdf",
+      "sha16": "0aad3192f981a23a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-enu-help-firewall-settings-pdf.md",
+      "title": "firewall_settings",
+      "source_id": "Analytical Chemistry/Jon K - Public/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/SitePrep/ENU/Help/firewall_settings.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-enu-help-ossettings-pdf",
+      "sha16": "afbbbaefe2835b02",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-enu-help-ossettings-pdf.md",
+      "title": "ossettings",
+      "source_id": "Analytical Chemistry/Jon K - Public/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/SitePrep/ENU/Help/ossettings.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-jpn-help-firewall-settings-pdf",
+      "sha16": "0aad3192f981a23a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-jpn-help-firewall-settings-pdf.md",
+      "title": "firewall_settings",
+      "source_id": "Analytical Chemistry/Jon K - Public/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/SitePrep/JPN/Help/firewall_settings.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-jpn-help-ossettings-pdf",
+      "sha16": "6b5a759049a59ce8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-m8490-10006-openlab-cds-2-6-download-setup-tools-siteprep-jpn-help-ossettings-pdf.md",
+      "title": "ossettings",
+      "source_id": "Analytical Chemistry/Jon K - Public/M8490-10006-OpenLab-CDS-2.6-download/Setup/Tools/SitePrep/JPN/Help/ossettings.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-masshunter-working-no-lic-copy-quant-10-2-additional-schema-quantitationdataset-10-1-docx",
+      "sha16": "993b5685b342dbfe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-masshunter-working-no-lic-copy-quant-10-2-additional-schema-quantitationdataset-10-1-docx.md",
+      "title": "QuantitationDataSet_10_1",
+      "source_id": "Analytical Chemistry/Jon K - Public/MassHunter WORKING no lic copy/Quant 10.2/Additional/Schema/QuantitationDataSet_10_1.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-masshunter-working-no-lic-copy-quant-10-2-additional-schema-quantitationdataset-10-1-pdf",
+      "sha16": "032e288ff614638b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-masshunter-working-no-lic-copy-quant-10-2-additional-schema-quantitationdataset-10-1-pdf.md",
+      "title": "QuantitationDataSet_10_1",
+      "source_id": "Analytical Chemistry/Jon K - Public/MassHunter WORKING no lic copy/Quant 10.2/Additional/Schema/QuantitationDataSet_10_1.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-nrx-0498399-022-pdf",
+      "sha16": "7d60b6761a96a0b1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-nrx-0498399-022-pdf.md",
+      "title": "NRX-0498399 022",
+      "source_id": "Analytical Chemistry/Jon K - Public/NRX-0498399 022.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-pka-determination-and-quantitation-naimee-mehta-pdf",
+      "sha16": "33b142351d2ba923",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-pka-determination-and-quantitation-naimee-mehta-pdf.md",
+      "title": "pKa determination and quantitation Naimee Mehta",
+      "source_id": "Analytical Chemistry/Jon K - Public/pKa determination and quantitation Naimee Mehta.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-cad-quantitation-analysis-pptx",
+      "sha16": "618114b82b9ec277",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-cad-quantitation-analysis-pptx.md",
+      "title": "20230411 CAD Quantitation Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/powerpoints/20230411 CAD Quantitation Analysis.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-charged-aerosol-detection-library-plate-screen-pptx",
+      "sha16": "058c0858db8aca9d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-charged-aerosol-detection-library-plate-screen-pptx.md",
+      "title": "20230411 Charged Aerosol Detection Library Plate Screen",
+      "source_id": "Analytical Chemistry/Jon K - Public/powerpoints/20230411 Charged Aerosol Detection Library Plate Screen.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-impurity-analysis-pptx",
+      "sha16": "baeb2cf706fff33a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-powerpoints-20230411-impurity-analysis-pptx.md",
+      "title": "20230411 Impurity Analysis",
+      "source_id": "Analytical Chemistry/Jon K - Public/powerpoints/20230411 Impurity Analysis.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reports-72-hour-cyclodextrin-stability-pdf",
+      "sha16": "73e4af9edf26b38d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reports-72-hour-cyclodextrin-stability-pdf.md",
+      "title": "72 hour cyclodextrin stability",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reports/72 hour cyclodextrin stability.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-protocol-presentation-pptx",
+      "sha16": "5e550f9fb6872772",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-trinity-h---public-plasma-stability-protocol-presentation-pptx.md",
+      "title": "Plasma Stability Protocol Presentation",
+      "source_id": "Analytical Chemistry/Trinity H - Public/Plasma Stability Protocol Presentation.pptx",
+      "confidence": "high"
+    }
+  ]
+}

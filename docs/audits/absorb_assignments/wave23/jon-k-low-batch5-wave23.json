@@ -1,0 +1,327 @@
+{
+  "assignment": "jon-k-low-batch5-wave23",
+  "wiki_dir": "references",
+  "wave": "wave23",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20250115-joel-10-1616-cot-pdf",
+      "sha16": "b392866427d16cc8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-20250115-joel-10-1616-cot-pdf.md",
+      "title": "20250115 Joel 10-1616 CoT",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/20250115 Joel 10-1616 CoT.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-2603-pk1-pdf",
+      "sha16": "4e043f96300b9939",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-2603-pk1-pdf.md",
+      "title": "2603 pk1",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/2603 pk1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-2604-pk2-pdf",
+      "sha16": "a050ac5942665bee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-2604-pk2-pdf.md",
+      "title": "2604 pk2",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/2604 pk2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-2606-pdf",
+      "sha16": "e67d043d0ffb081b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-2606-pdf.md",
+      "title": "2606",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/2606.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-3911-005-palladium-results-pdf",
+      "sha16": "bd91e17962c0e48f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-3911-005-palladium-results-pdf.md",
+      "title": "3911-005 palladium results",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/3911-005 palladium results.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-60-1363-pdf",
+      "sha16": "1fec2d39566e79bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-60-1363-pdf.md",
+      "title": "60-1363",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/60-1363.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-8599-011-uv254-ms-chromatogram-pdf",
+      "sha16": "4c31a43b02fdbe7d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-8599-011-uv254-ms-chromatogram-pdf.md",
+      "title": "8599-011 UV254 MS chromatogram",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/8599-011 UV254 MS chromatogram.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-eln-10-1597-pdf",
+      "sha16": "44dcc7050a0d146c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-eln-10-1597-pdf.md",
+      "title": "ELN-10-1597",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/ELN-10-1597.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-eln-10-1599-pdf",
+      "sha16": "cca74d3bf286aa84",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-eln-10-1599-pdf.md",
+      "title": "ELN-10-1599",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/ELN-10-1599.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-gp-13-1898-19f-nmr-pdf",
+      "sha16": "c3045b550b48d1df",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-gp-13-1898-19f-nmr-pdf.md",
+      "title": "GP-13-1898-19F NMR",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/GP-13-1898-19F NMR.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-gp-13-1898-1h-nmr-pdf",
+      "sha16": "11dc12f99490ec8d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-gp-13-1898-1h-nmr-pdf.md",
+      "title": "GP-13-1898-1H NMR",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/GP-13-1898-1H NMR.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-shipping-request-form-20240911-stat6-aurora-jk-pdf",
+      "sha16": "2baa19a5c4958196",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-shipping-request-form-20240911-stat6-aurora-jk-pdf.md",
+      "title": "shipping request form 20240911 STAT6 AURORA_JK",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/shipping request form 20240911 STAT6 AURORA_JK.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-stat6-3911-10-1590-3-pdf",
+      "sha16": "fda97c856ccd7102",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-cot-stat6-3911-10-1590-3-pdf.md",
+      "title": "STAT6 3911 10-1590-3",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/CoT/STAT6 3911 10-1590-3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0001-d2b-pdf",
+      "sha16": "001423e4b0c6fe16",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0001-d2b-pdf.md",
+      "title": "ELN-119-1965-0001 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0001 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0002-d2b-pdf",
+      "sha16": "53e36c92cc0183f8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0002-d2b-pdf.md",
+      "title": "ELN-119-1965-0002 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0002 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0003-d2b-pdf",
+      "sha16": "1bbe0f6ede403a6a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0003-d2b-pdf.md",
+      "title": "ELN-119-1965-0003 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0003 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0004-d2b-pdf",
+      "sha16": "c688e38f63c254a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0004-d2b-pdf.md",
+      "title": "ELN-119-1965-0004 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0004 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0005-d2b-pdf",
+      "sha16": "756db7b127e010da",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0005-d2b-pdf.md",
+      "title": "ELN-119-1965-0005 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0005 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0006-d2b-pdf",
+      "sha16": "4357f8213b2b989b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0006-d2b-pdf.md",
+      "title": "ELN-119-1965-0006 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0006 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0007-d2b-pdf",
+      "sha16": "0d6dd022cae6d098",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0007-d2b-pdf.md",
+      "title": "ELN-119-1965-0007 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0007 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0008-d2b-pdf",
+      "sha16": "b10c02e331bde9cd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0008-d2b-pdf.md",
+      "title": "ELN-119-1965-0008 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0008 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0009-d2b-pdf",
+      "sha16": "ad3294749b64278e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0009-d2b-pdf.md",
+      "title": "ELN-119-1965-0009 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0009 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0010-d2b-pdf",
+      "sha16": "67f6b189a3c17114",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0010-d2b-pdf.md",
+      "title": "ELN-119-1965-0010 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0010 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0011-d2b-pdf",
+      "sha16": "e1f478db1dd37608",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0011-d2b-pdf.md",
+      "title": "ELN-119-1965-0011 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0011 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0012-d2b-pdf",
+      "sha16": "099ff5dea3d76fb8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0012-d2b-pdf.md",
+      "title": "ELN-119-1965-0012 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0012 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0013-d2b-pdf",
+      "sha16": "bf425467e64f23fc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0013-d2b-pdf.md",
+      "title": "ELN-119-1965-0013 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0013 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0014-d2b-pdf",
+      "sha16": "2fef6e6595ab7804",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0014-d2b-pdf.md",
+      "title": "ELN-119-1965-0014 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0014 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0015-d2b-pdf",
+      "sha16": "7c8ced46575a7c07",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0015-d2b-pdf.md",
+      "title": "ELN-119-1965-0015 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0015 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0016-d2b-pdf",
+      "sha16": "3d66483dbc44d51e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0016-d2b-pdf.md",
+      "title": "ELN-119-1965-0016 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0016 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0017-d2b-pdf",
+      "sha16": "b4b7002e44f7721a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0017-d2b-pdf.md",
+      "title": "ELN-119-1965-0017 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0017 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0018-d2b-pdf",
+      "sha16": "9bc5e2f31c34ef2c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0018-d2b-pdf.md",
+      "title": "ELN-119-1965-0018 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0018 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0019-d2b-pdf",
+      "sha16": "6c5edbc57003b13f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0019-d2b-pdf.md",
+      "title": "ELN-119-1965-0019 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0019 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0020-d2b-pdf",
+      "sha16": "0dd279822f01d454",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0020-d2b-pdf.md",
+      "title": "ELN-119-1965-0020 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0020 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0021-d2b-pdf",
+      "sha16": "751d3ace915441e1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0021-d2b-pdf.md",
+      "title": "ELN-119-1965-0021 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0021 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0022-d2b-pdf",
+      "sha16": "aa8d0595fdb749e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0022-d2b-pdf.md",
+      "title": "ELN-119-1965-0022 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0022 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0023-d2b-pdf",
+      "sha16": "6ec61133fa7ff695",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0023-d2b-pdf.md",
+      "title": "ELN-119-1965-0023 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0023 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0024-d2b-pdf",
+      "sha16": "3399d63985d2b54d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0024-d2b-pdf.md",
+      "title": "ELN-119-1965-0024 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0024 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0025-d2b-pdf",
+      "sha16": "983e9c04e2068514",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0025-d2b-pdf.md",
+      "title": "ELN-119-1965-0025 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0025 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0026-d2b-pdf",
+      "sha16": "8f21195bcdb55c29",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0026-d2b-pdf.md",
+      "title": "ELN-119-1965-0026 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0026 D2B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0027-d2b-pdf",
+      "sha16": "eac8056b25650d42",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-d2b-20241015-eln-119-1965-0027-d2b-pdf.md",
+      "title": "ELN-119-1965-0027 D2B",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/d2b 20241015/ELN-119-1965-0027 D2B.pdf",
+      "confidence": "low"
+    }
+  ]
+}

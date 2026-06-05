@@ -1,0 +1,327 @@
+{
+  "assignment": "natalie-d-low-batch3-wave23",
+  "wiki_dir": "references",
+  "wave": "wave23",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-quickstartguide-018-corning-gentest-abc-transporter-membrane-pdf",
+      "sha16": "18cb31694587a7b4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-quickstartguide-018-corning-gentest-abc-transporter-membrane-pdf.md",
+      "title": "quickstartguide_018_Corning_Gentest_ABC_Transporter_Membrane",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/quickstartguide_018_Corning_Gentest_ABC_Transporter_Membrane.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-strategic-approach-for-drug-metabolism-studies-pdf",
+      "sha16": "1998aaabbab97366",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-metabolism-and-pk-strategic-approach-for-drug-metabolism-studies-pdf.md",
+      "title": "Strategic approach for drug metabolism studies",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Metabolism and PK/Strategic approach for drug metabolism studies.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-an-intestine-on-a-chip-model-of-plug-andplay-modularity-to-study-inflammatory-c295710385",
+      "sha16": "ff583201afc11d5c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-an-intestine-on-a-chip-model-of-plug-andplay-modularity-to-study-inflammatory-c295710385.md",
+      "title": "An Intestine-on-a-Chip Model of Plug-andPlay Modularity to Study Inflammatory - June 2020",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Mimetas/An Intestine-on-a-Chip Model of Plug-andPlay Modularity to Study Inflammatory - June 2020.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-april-8-2021---nurix-therapeutics--jl-pdf",
+      "sha16": "cc81e2ded13b4d01",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-april-8-2021---nurix-therapeutics--jl-pdf.md",
+      "title": "April 8 2021 - Nurix Therapeutics -JL",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Mimetas/April 8 2021 - Nurix Therapeutics -JL.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-development-of-a-gut-on-a-chip-model-for-high---november-2019-pdf",
+      "sha16": "6821e4363b558157",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-development-of-a-gut-on-a-chip-model-for-high---november-2019-pdf.md",
+      "title": "Development of a Gut-on-a-Chip Model for High - November 2019",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Mimetas/Development of a Gut-on-a-Chip Model for High - November 2019.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-direct-on-chip-differentiation-of-intestinal-tubules-from-induced-pluripotent-st-1ca596db1f",
+      "sha16": "b4b6bc122abe236c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-mimetas-direct-on-chip-differentiation-of-intestinal-tubules-from-induced-pluripotent-st-1ca596db1f.md",
+      "title": "Direct On-Chip Differentiation of Intestinal Tubules from Induced Pluripotent Stem Cells",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/Mimetas/Direct On-Chip Differentiation of Intestinal Tubules from Induced Pluripotent Stem Cells.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-organoplate--caco-2-in-a-nutshell-pdf",
+      "sha16": "2fca0ec40f082fa5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-organoplate--caco-2-in-a-nutshell-pdf.md",
+      "title": "OrganoPlate- Caco-2 in a nutshell",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/OrganoPlate- Caco-2 in a nutshell.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-pampa-new-pampa-model-proposed-on-the-basis-of-a-synthetic-phospholipid-membrane-pdf",
+      "sha16": "dc82cee1a2f10758",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-pampa-new-pampa-model-proposed-on-the-basis-of-a-synthetic-phospholipid-membrane-pdf.md",
+      "title": "New PAMPA Model Proposed on the Basis of a Synthetic Phospholipid Membrane",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/PAMPA/New PAMPA Model Proposed on the Basis of a Synthetic Phospholipid Membrane.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-literature-pampa-novel-design-of-artificial-membrane-for-improving-pampa-model-pdf",
+      "sha16": "680abb22814809e4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-literature-pampa-novel-design-of-artificial-membrane-for-improving-pampa-model-pdf.md",
+      "title": "Novel_Design_of_Artificial_Membrane_for_Improving__PAMPA_Model",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Literature/PAMPA/Novel_Design_of_Artificial_Membrane_for_Improving__PAMPA_Model.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-performance-planning-performance-planning-form-2021-natalie-duong-eoy-pdf",
+      "sha16": "7e9490ab7647d69a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-performance-planning-performance-planning-form-2021-natalie-duong-eoy-pdf.md",
+      "title": "Performance Planning Form 2021_Natalie Duong_ EOY",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Performance Planning/Performance Planning Form 2021_Natalie Duong_ EOY.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-performance-planning-performance-planning-form-2021-natalie-duong-pdf",
+      "sha16": "c78b8cb1b6c5ef12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-performance-planning-performance-planning-form-2021-natalie-duong-pdf.md",
+      "title": "Performance Planning Form 2021_Natalie Duong",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Performance Planning/Performance Planning Form 2021_Natalie Duong.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-dmso-blank-pdf",
+      "sha16": "00b0dd002790c42f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-dmso-blank-pdf.md",
+      "title": "DMSO Blank",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/DMSO Blank.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-dmso-blank2-pdf",
+      "sha16": "ba06c36424252cfa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-dmso-blank2-pdf.md",
+      "title": "DMSO Blank2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/DMSO Blank2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-519-ms-pdf",
+      "sha16": "ec4bc2931885f59c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-519-ms-pdf.md",
+      "title": "ELN-15-519_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-15-519_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-545-pdf",
+      "sha16": "af0f9dc1f26a3f95",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-545-pdf.md",
+      "title": "ELN-15-545",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-15-545.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-547-pdf",
+      "sha16": "7ad92c3c3d759920",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-547-pdf.md",
+      "title": "ELN-15-547",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-15-547.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-548-pdf",
+      "sha16": "7689cffd7690df1b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-15-548-pdf.md",
+      "title": "ELN-15-548",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-15-548.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-1-ms-pdf",
+      "sha16": "b804a50703b9171a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-1-ms-pdf.md",
+      "title": "ELN-5-759-1_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-759-1_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-2-ms-pdf",
+      "sha16": "dee1324e51a4e1a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-2-ms-pdf.md",
+      "title": "ELN-5-759-2_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-759-2_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-3-ms-pdf",
+      "sha16": "81a2198fbd0ff870",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-759-3-ms-pdf.md",
+      "title": "ELN-5-759-3_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-759-3_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-1-ms-pdf",
+      "sha16": "8c0ddb180a4277f5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-1-ms-pdf.md",
+      "title": "ELN-5-761-1_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-761-1_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-2-ms-pdf",
+      "sha16": "cd950a02bccc0dc1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-2-ms-pdf.md",
+      "title": "ELN-5-761-2_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-761-2_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-3-ms-pdf",
+      "sha16": "f068354dca4d8a55",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-761-3-ms-pdf.md",
+      "title": "ELN-5-761-3_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-761-3_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-774-2-ms-pdf",
+      "sha16": "e7a7e27877dc5823",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-774-2-ms-pdf.md",
+      "title": "ELN-5-774-2_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-774-2_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-774-2-pdf",
+      "sha16": "3e1f7e18bfd150c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-774-2-pdf.md",
+      "title": "ELN-5-774-2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-774-2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-851-1-pdf",
+      "sha16": "7e6558df4775fdab",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-851-1-pdf.md",
+      "title": "ELN-5-851-1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-851-1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-851-2-pdf",
+      "sha16": "196ee3c82088a241",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-851-2-pdf.md",
+      "title": "ELN-5-851-2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-851-2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-851-3-pdf",
+      "sha16": "da7129606a3935a0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-5-851-3-pdf.md",
+      "title": "ELN-5-851-3",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-5-851-3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-6-531-ms-pdf",
+      "sha16": "1df673144e8aad10",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-6-531-ms-pdf.md",
+      "title": "ELN-6-531_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-6-531_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-1-ms-pdf",
+      "sha16": "f4e4a2d2b272db4b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-1-ms-pdf.md",
+      "title": "ELN-63-322-1_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-322-1_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-2-ms-pdf",
+      "sha16": "d82627afe9de2022",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-2-ms-pdf.md",
+      "title": "ELN-63-322-2_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-322-2_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-3-ms-pdf",
+      "sha16": "7a7ee3c260338788",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-3-ms-pdf.md",
+      "title": "ELN-63-322-3_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-322-3_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-4-ms-pdf",
+      "sha16": "af6192fa9709f51b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-4-ms-pdf.md",
+      "title": "ELN-63-322-4_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-322-4_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-5-ms-pdf",
+      "sha16": "e090a83cb2d42738",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-5-ms-pdf.md",
+      "title": "ELN-63-322-5_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-322-5_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-6-ms-pdf",
+      "sha16": "1ce5806cbf94adb0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-6-ms-pdf.md",
+      "title": "ELN-63-322-6_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-322-6_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-7-ms-pdf",
+      "sha16": "a3818e99b35672b4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-322-7-ms-pdf.md",
+      "title": "ELN-63-322-7_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-322-7_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-1-ms-pdf",
+      "sha16": "4a937468544949ff",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-1-ms-pdf.md",
+      "title": "ELN-63-323-1_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-323-1_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-2-ms-pdf",
+      "sha16": "56ab8848281528ed",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-2-ms-pdf.md",
+      "title": "ELN-63-323-2_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-323-2_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-3-ms-pdf",
+      "sha16": "72a03e75ac9fe76b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-3-ms-pdf.md",
+      "title": "ELN-63-323-3_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-323-3_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-4-ms-pdf",
+      "sha16": "9ade6c1573d6418c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-4-ms-pdf.md",
+      "title": "ELN-63-323-4_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-323-4_MS.pdf",
+      "confidence": "low"
+    }
+  ]
+}

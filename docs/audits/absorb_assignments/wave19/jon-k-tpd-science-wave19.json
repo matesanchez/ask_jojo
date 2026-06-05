@@ -1,0 +1,55 @@
+{
+  "assignment": "jon-k-tpd-science-wave19",
+  "wiki_dir": "references",
+  "wave": "wave19",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-targeted-protein-degradation--from-chemical-biolo-24b669c0fb",
+      "sha16": "0cf885832b5cac4c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-targeted-protein-degradation--from-chemical-biolo-24b669c0fb.md",
+      "title": "Targeted-Protein-Degradation--from-Chemical-Biology-to_2017_Cell-Chemical-Bi",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Targeted-Protein-Degradation--from-Chemical-Biology-to_2017_Cell-Chemical-Bi.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-targeted-protein-degradation-in-vivo-with-proteol-6a8512e7b7",
+      "sha16": "941f40b04f02848a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-targeted-protein-degradation-in-vivo-with-proteol-6a8512e7b7.md",
+      "title": "Targeted-protein-degradation-in-vivo-with-Proteolysis-_2019_Drug-Discovery-T",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/Targeted-protein-degradation-in-vivo-with-Proteolysis-_2019_Drug-Discovery-T.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-the-advantages-of-targeted-protein-degradation-ov-63cd377219",
+      "sha16": "167b217b8cd5f0cc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-20250929-pc-backup-pc-organization-reading-material-the-advantages-of-targeted-protein-degradation-ov-63cd377219.md",
+      "title": "The-Advantages-of-Targeted-Protein-Degradation-Over-Inhi_2018_Cell-Chemical-",
+      "source_id": "Analytical Chemistry/Jon K - Public/20250929 PC backup/PC Organization/Reading Material/The-Advantages-of-Targeted-Protein-Degradation-Over-Inhi_2018_Cell-Chemical-.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-targeted-protein-degradation--from-chemical-biology-to-2017-cell-chemical-bi-pdf",
+      "sha16": "0cf885832b5cac4c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-targeted-protein-degradation--from-chemical-biology-to-2017-cell-chemical-bi-pdf.md",
+      "title": "Targeted-Protein-Degradation--from-Chemical-Biology-to_2017_Cell-Chemical-Bi",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Targeted-Protein-Degradation--from-Chemical-Biology-to_2017_Cell-Chemical-Bi.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-targeted-protein-degradation-in-vivo-with-proteolysis--2019-drug-discovery-t-pdf",
+      "sha16": "941f40b04f02848a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-targeted-protein-degradation-in-vivo-with-proteolysis--2019-drug-discovery-t-pdf.md",
+      "title": "Targeted-protein-degradation-in-vivo-with-Proteolysis-_2019_Drug-Discovery-T",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/Targeted-protein-degradation-in-vivo-with-Proteolysis-_2019_Drug-Discovery-T.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-the-advantages-of-targeted-protein-degradation-over-inhi-2018-cell-chemical--pdf",
+      "sha16": "167b217b8cd5f0cc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-the-advantages-of-targeted-protein-degradation-over-inhi-2018-cell-chemical--pdf.md",
+      "title": "The-Advantages-of-Targeted-Protein-Degradation-Over-Inhi_2018_Cell-Chemical-",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/The-Advantages-of-Targeted-Protein-Degradation-Over-Inhi_2018_Cell-Chemical-.pdf",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-wave27",
+  "wiki_dir": "references",
+  "wave": "wave27",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-acquity-pda-detector-manual-pdf",
+      "sha16": "b29101d5ffe02424",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-acquity-pda-detector-manual-pdf.md",
+      "title": "Waters_Acquity_PDA_Detector_Manual",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters_Acquity_PDA_Detector_Manual.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-analytical-sfc-manual-pdf",
+      "sha16": "5bc8219c16bf10ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-analytical-sfc-manual-pdf.md",
+      "title": "Waters_Analytical_SFC_Manual",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters_Analytical_SFC_Manual.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-dye-quality-control-reference-material-kit-pdf",
+      "sha16": "9f49787204ed5c00",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-dye-quality-control-reference-material-kit-pdf.md",
+      "title": "Waters Dye Quality Control Reference Material Kit",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Dye Quality Control Reference Material Kit.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-cortecs-brochure-pdf",
+      "sha16": "66c6ba774ad8439f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-cortecs-brochure-pdf.md",
+      "title": "CORTECS_brochure",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/CORTECS_brochure.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-csh-colum-white-paper-pdf",
+      "sha16": "6bcda806c5129c60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-csh-colum-white-paper-pdf.md",
+      "title": "CSH Colum White Paper",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/CSH Colum White Paper.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-beh-columns-pdf",
+      "sha16": "aac994ad651aad5d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-beh-columns-pdf.md",
+      "title": "Waters_BEH_columns",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/Waters_BEH_columns.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-cortecs-columns-pdf",
+      "sha16": "7f17b25428551830",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-cortecs-columns-pdf.md",
+      "title": "Waters_Cortecs_columns",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/Waters_Cortecs_columns.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-csh-columns-pdf",
+      "sha16": "d1be656bd50d58b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-csh-columns-pdf.md",
+      "title": "Waters_CSH_columns",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/Waters_CSH_columns.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-openlynx-pdf",
+      "sha16": "cd505ac3545ce355",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-guides-waters-openlynx-pdf.md",
+      "title": "Waters_OpenLynx",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters Guides/Waters_OpenLynx.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-sqd2ms-manual-pdf",
+      "sha16": "d8395d42696867f0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-sqd2ms-manual-pdf.md",
+      "title": "Waters SQD2MS Manual",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters SQD2MS Manual.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-258-pdf",
+      "sha16": "a35349f5eb488b28",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-258-pdf.md",
+      "title": "Hardcopy_258",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/Hardcopy_258.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-259-pdf",
+      "sha16": "b9023325e825a364",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-259-pdf.md",
+      "title": "Hardcopy_259",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/Hardcopy_259.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-260-pdf",
+      "sha16": "dedd904a985df5de",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-260-pdf.md",
+      "title": "Hardcopy_260",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/Hardcopy_260.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-261-pdf",
+      "sha16": "527f6af6c4c3c490",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-261-pdf.md",
+      "title": "Hardcopy_261",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/Hardcopy_261.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-262-pdf",
+      "sha16": "3b5422d361690e87",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-262-pdf.md",
+      "title": "Hardcopy_262",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/Hardcopy_262.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-263-pdf",
+      "sha16": "d6c15001623dec60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-263-pdf.md",
+      "title": "Hardcopy_263",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/Hardcopy_263.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-264-pdf",
+      "sha16": "ab23022cf7bc357e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-development-hardcopy-264-pdf.md",
+      "title": "Hardcopy_264",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/Development/Hardcopy_264.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-std-curves-pdf",
+      "sha16": "fa5b416adbb35299",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-std-curves-pdf.md",
+      "title": "JL180712_GlutathioneFD_Std Curves",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2018/July 2018/JL180712_GlutathioneFD_Std Curves.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-0-pdf",
+      "sha16": "33bf881369ef52cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-0-pdf.md",
+      "title": "JL180712_GlutathioneFD_t=0",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2018/July 2018/JL180712_GlutathioneFD_t=0.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-24-hr-pdf",
+      "sha16": "8ae74e9ce00a9c71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-24-hr-pdf.md",
+      "title": "JL180712_GlutathioneFD_t=24 hr",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2018/July 2018/JL180712_GlutathioneFD_t=24 hr.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-4-hr-pdf",
+      "sha16": "d9b3d660b6d49f86",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-4-hr-pdf.md",
+      "title": "JL180712_GlutathioneFD_t=4 hr",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2018/July 2018/JL180712_GlutathioneFD_t=4 hr.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-48-hr-pdf",
+      "sha16": "4a5fc80650a98bda",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-48-hr-pdf.md",
+      "title": "JL180712_GlutathioneFD_t=48 hr",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2018/July 2018/JL180712_GlutathioneFD_t=48 hr.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-8-hr-pdf",
+      "sha16": "683f3b66bc1c1e71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-forced-deg-2018-july-2018-jl180712-glutathionefd-t-8-hr-pdf.md",
+      "title": "JL180712_GlutathioneFD_t=8 hr",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Forced_Deg/2018/July 2018/JL180712_GlutathioneFD_t=8 hr.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-jw-eln-60-250-hardcopy-88-pdf",
+      "sha16": "f3c36d58d5daac56",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-jw-eln-60-250-hardcopy-88-pdf.md",
+      "title": "Hardcopy_88",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Purity/JW-ELN-60-250/Hardcopy_88.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-jw-eln-60-250-hardcopy-89-pdf",
+      "sha16": "375396fd46cbb2fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-jw-eln-60-250-hardcopy-89-pdf.md",
+      "title": "Hardcopy_89",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Purity/JW-ELN-60-250/Hardcopy_89.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0390255-aa-004-comparison-data-beh-c18-data-pdf",
+      "sha16": "9b1e5b8cf9cee2eb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0390255-aa-004-comparison-data-beh-c18-data-pdf.md",
+      "title": "BEH_C18_Data",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Purity/NRX-0390255-AA-004/Comparison Data/BEH_C18_Data.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0390255-aa-004-comparison-data-beh-phenyl-data-pdf",
+      "sha16": "6eddaa28074d73c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0390255-aa-004-comparison-data-beh-phenyl-data-pdf.md",
+      "title": "BEH_Phenyl_Data",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Purity/NRX-0390255-AA-004/Comparison Data/BEH_Phenyl_Data.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0390255-aa-004-comparison-data-csh-c18-data-pdf",
+      "sha16": "f49087b73870147f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-medchem-purity-nrx-0390255-aa-004-comparison-data-csh-c18-data-pdf.md",
+      "title": "CSH_C18_Data",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/MedChem_Purity/NRX-0390255-AA-004/Comparison Data/CSH_C18_Data.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-rml-quotes-jose-leighton-quote1882-pdf",
+      "sha16": "6b9551788c0adbe8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-rml-quotes-jose-leighton-quote1882-pdf.md",
+      "title": "Jose Leighton_Quote1882",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/RML Quotes/Jose Leighton_Quote1882.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-medchem-support-rml-quotes-jose-leighton-quote1883-pdf",
+      "sha16": "d1ab1b8a799922f4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-medchem-support-rml-quotes-jose-leighton-quote1883-pdf.md",
+      "title": "Jose Leighton_Quote1883",
+      "source_id": "Analytical Chemistry/Jose L - public/MedChem Support/RML Quotes/Jose Leighton_Quote1883.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-acs-analchem-5b01181-pdf",
+      "sha16": "f051100dc602671c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-acs-analchem-5b01181-pdf.md",
+      "title": "acs.analchem.5b01181",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/acs.analchem.5b01181.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-antipyrene-qnmr-set01-pdf",
+      "sha16": "83f1e2ec17a32711",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-antipyrene-qnmr-set01-pdf.md",
+      "title": "Antipyrene_qNMR_Set01",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/Antipyrene_qNMR_Set01.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-cmcq-pdf",
+      "sha16": "54581c5fdde1b9c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-cmcq-pdf.md",
+      "title": "cmcq",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/cmcq.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-ed200433z-pdf",
+      "sha16": "bacab5e51deb94aa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-ed200433z-pdf.md",
+      "title": "ed200433z",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/ed200433z.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-ed200433z-si-001-pdf",
+      "sha16": "fe1788ce9b735f41",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-ed200433z-si-001-pdf.md",
+      "title": "ed200433z_si_001",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/ed200433z_si_001.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-ed200433z-si-003-pdf",
+      "sha16": "6e0f44079af10255",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-ed200433z-si-003-pdf.md",
+      "title": "ed200433z_si_003",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/ed200433z_si_003.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-lecture13-2016-pre-pdf",
+      "sha16": "8e6b48abeba9980d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-lecture13-2016-pre-pdf.md",
+      "title": "Lecture13-2016-PRE",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/Lecture13-2016-PRE.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-metabolomics-by-nmr-1-s2-0-s0003267017304567-main-pdf",
+      "sha16": "5b0641a9eb58f0c6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-metabolomics-by-nmr-1-s2-0-s0003267017304567-main-pdf.md",
+      "title": "1-s2.0-S0003267017304567-main",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/Metabolomics by NMR/1-s2.0-S0003267017304567-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-metabolomics-by-nmr-1-s2-0-s0003267017306037-main-pdf",
+      "sha16": "36536570ebc28383",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-metabolomics-by-nmr-1-s2-0-s0003267017306037-main-pdf.md",
+      "title": "1-s2.0-S0003267017306037-main",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/Metabolomics by NMR/1-s2.0-S0003267017306037-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-metabolomics-by-nmr-1-s2-0-s0958166916301768-main-pdf",
+      "sha16": "155d26404bef8d18",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-nmr-projects-qnmr-metabolomics-by-nmr-1-s2-0-s0958166916301768-main-pdf.md",
+      "title": "1-s2.0-S0958166916301768-main",
+      "source_id": "Analytical Chemistry/Jose L - public/NMR Projects/QNMR/Metabolomics by NMR/1-s2.0-S0958166916301768-main.pdf",
+      "confidence": "low"
+    }
+  ]
+}

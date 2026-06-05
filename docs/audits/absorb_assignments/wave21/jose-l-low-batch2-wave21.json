@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-low-batch2-wave21",
+  "wiki_dir": "references",
+  "wave": "wave21",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample1-pdf",
+      "sha16": "4877bd194bf2f7d0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample1-pdf.md",
+      "title": "Gemini_C18_Sample1",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Gemini_C18_Sample1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample2-pdf",
+      "sha16": "0b892eb2f088e5e7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample2-pdf.md",
+      "title": "Gemini_C18_Sample2",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Gemini_C18_Sample2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample3-pdf",
+      "sha16": "b27eef8a8483c703",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample3-pdf.md",
+      "title": "Gemini_C18_Sample3",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Gemini_C18_Sample3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample4-pdf",
+      "sha16": "a19a13201a233b19",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample4-pdf.md",
+      "title": "Gemini_C18_Sample4",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Gemini_C18_Sample4.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample5-pdf",
+      "sha16": "c66c9cb9ec7c0e0e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample5-pdf.md",
+      "title": "Gemini_C18_Sample5",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Gemini_C18_Sample5.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample6-pdf",
+      "sha16": "11c5be259d88b369",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample6-pdf.md",
+      "title": "Gemini_C18_Sample6",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Gemini_C18_Sample6.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample7-pdf",
+      "sha16": "fd9e7dfcdf568405",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-gemini-c18-sample7-pdf.md",
+      "title": "Gemini_C18_Sample7",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Gemini_C18_Sample7.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample1-pdf",
+      "sha16": "990508fe06bf4cea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample1-pdf.md",
+      "title": "OmegaC18_Sample1",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/OmegaC18_Sample1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample2-pdf",
+      "sha16": "5c357995687d2f1b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample2-pdf.md",
+      "title": "OmegaC18_Sample2",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/OmegaC18_Sample2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample3-pdf",
+      "sha16": "0ad11eed7eb77afa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample3-pdf.md",
+      "title": "OmegaC18_Sample3",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/OmegaC18_Sample3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample4-pdf",
+      "sha16": "c07f3bab5d781df4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample4-pdf.md",
+      "title": "OmegaC18_Sample4",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/OmegaC18_Sample4.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample5-pdf",
+      "sha16": "fd0994d584b5f9b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample5-pdf.md",
+      "title": "OmegaC18_Sample5",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/OmegaC18_Sample5.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample6-pdf",
+      "sha16": "4a95ee909d27d697",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample6-pdf.md",
+      "title": "OmegaC18_Sample6",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/OmegaC18_Sample6.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample7-pdf",
+      "sha16": "cab809369bb46a01",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-omegac18-sample7-pdf.md",
+      "title": "OmegaC18_Sample7",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/OmegaC18_Sample7.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample1-cshc18-pdf",
+      "sha16": "7ee6de9c85e93583",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample1-cshc18-pdf.md",
+      "title": "Sample1_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Sample1_CSHC18.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample2-cshc18-pdf",
+      "sha16": "49b01d4ce754b0bf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample2-cshc18-pdf.md",
+      "title": "Sample2_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Sample2_CSHC18.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample3-cshc18-pdf",
+      "sha16": "dfd3e639753c400e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample3-cshc18-pdf.md",
+      "title": "Sample3_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Sample3_CSHC18.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample4-cshc18-pdf",
+      "sha16": "abc0e2625c9fd713",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample4-cshc18-pdf.md",
+      "title": "Sample4_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Sample4_CSHC18.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample5-cshc18-pdf",
+      "sha16": "9b03e2571329e8f4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample5-cshc18-pdf.md",
+      "title": "Sample5_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Sample5_CSHC18.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample6-cshc18-pdf",
+      "sha16": "ed62b35eae42c65a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample6-cshc18-pdf.md",
+      "title": "Sample6_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Sample6_CSHC18.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample7-cshc18-pdf",
+      "sha16": "5b6266ac5b355f72",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-prep-optimization-sample7-cshc18-pdf.md",
+      "title": "Sample7_CSHC18",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/Prep Optimization/Sample7_CSHC18.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-qnmr-antipyrene-qnmr-set01-pdf",
+      "sha16": "83f1e2ec17a32711",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-qnmr-antipyrene-qnmr-set01-pdf.md",
+      "title": "Antipyrene_qNMR_Set01",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/QNMR/Antipyrene_qNMR_Set01.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-qnmr-cmcq-pdf",
+      "sha16": "54581c5fdde1b9c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-qnmr-cmcq-pdf.md",
+      "title": "cmcq",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/QNMR/cmcq.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-qnmr-mnova-for-qnmr-pdf",
+      "sha16": "5c0baab83e33e649",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-qnmr-mnova-for-qnmr-pdf.md",
+      "title": "Mnova-for-qNMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/QNMR/Mnova-for-qNMR.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-qnmr-qnmr-brochure-rjo-pdf",
+      "sha16": "3bc788879900b6a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-qnmr-qnmr-brochure-rjo-pdf.md",
+      "title": "qnmr-brochure-rjo",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/QNMR/qnmr-brochure-rjo.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-chirobiotic-handbook-pdf",
+      "sha16": "66c1d8ddedcbe1ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-chirobiotic-handbook-pdf.md",
+      "title": "chirobiotic_handbook",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/RP Chiral Separations/chirobiotic_handbook.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-skript-astro-pdf",
+      "sha16": "12ceedbd5d4b78f9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-skript-astro-pdf.md",
+      "title": "skript_astro",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/RP Chiral Separations/skript_astro.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-t408131-pdf",
+      "sha16": "9f5f19ff9481fe40",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-t408131-pdf.md",
+      "title": "t408131",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/RP Chiral Separations/t408131.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-t409107-pdf",
+      "sha16": "a877f563e169f55e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-t409107-pdf.md",
+      "title": "T409107",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/RP Chiral Separations/T409107.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-t410091-pdf",
+      "sha16": "12681d2890fece99",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-rp-chiral-separations-t410091-pdf.md",
+      "title": "t410091",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/RP Chiral Separations/t410091.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-automation-manuals-labwaredefinition-testguide-pdf",
+      "sha16": "3baa8e4ba56bfa00",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-automation-manuals-labwaredefinition-testguide-pdf.md",
+      "title": "labwareDefinition_testGuide",
+      "source_id": "Analytical Chemistry/Jose L - public/Automation/Manuals/labwareDefinition_testGuide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-automation-manuals-opentronspythonapiv1-pdf",
+      "sha16": "e08d9da82e10887f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-automation-manuals-opentronspythonapiv1-pdf.md",
+      "title": "OpentronsPythonAPIV1",
+      "source_id": "Analytical Chemistry/Jose L - public/Automation/Manuals/OpentronsPythonAPIV1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-as-2017-current-pharmaceutical-design2-1-pdf",
+      "sha16": "4fd4876bd239f2a0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-as-2017-current-pharmaceutical-design2-1-pdf.md",
+      "title": "AS_2017_Current_Pharmaceutical_Design2 (1)",
+      "source_id": "Analytical Chemistry/Jose L - public/Davis-Plate/Davis/AS_2017_Current_Pharmaceutical_Design2 (1).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-caco-correlation-paper-pdf",
+      "sha16": "e1246cea2f756431",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-davis-plate-davis-summer-caco-correlation-paper-pdf.md",
+      "title": "Caco correlation paper",
+      "source_id": "Analytical Chemistry/Jose L - public/Davis-Plate/Davis Summer/Caco correlation paper.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399618-003-cn-hardcopy-486-pdf",
+      "sha16": "58fed8a58910a1a2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399618-003-cn-hardcopy-486-pdf.md",
+      "title": "Hardcopy_486",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0399618-003-CN/Hardcopy_486.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399618-003-cn-hardcopy-487-pdf",
+      "sha16": "c452381c6752d5cf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399618-003-cn-hardcopy-487-pdf.md",
+      "title": "Hardcopy_487",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0399618-003-CN/Hardcopy_487.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-004-cn-hardcopy-490-pdf",
+      "sha16": "178142b82503f77c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-004-cn-hardcopy-490-pdf.md",
+      "title": "Hardcopy_490",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0399964-004-CN/Hardcopy_490.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-004-cn-hardcopy-491-pdf",
+      "sha16": "d99057f5902da319",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-004-cn-hardcopy-491-pdf.md",
+      "title": "Hardcopy_491",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0399964-004-CN/Hardcopy_491.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-005-aa-20210573-pdf",
+      "sha16": "a5e9e96579047065",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0399964-005-aa-20210573-pdf.md",
+      "title": "20210573",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0399964-005-AA/20210573.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0400223-003-cn-hardcopy-488-pdf",
+      "sha16": "4b5ad973428b63d5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0400223-003-cn-hardcopy-488-pdf.md",
+      "title": "Hardcopy_488",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0400223-003-CN/Hardcopy_488.pdf",
+      "confidence": "low"
+    }
+  ]
+}

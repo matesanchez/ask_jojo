@@ -1,0 +1,327 @@
+{
+  "assignment": "natalie-d-misc-low-wave20",
+  "wiki_dir": "references",
+  "wave": "wave20",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-armen-shamirian-nrx-0401157-lot-ew15806-271-p1-hold-110c-2-pdf",
+      "sha16": "ecc00bcd3fa099fb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-armen-shamirian-nrx-0401157-lot-ew15806-271-p1-hold-110c-2-pdf.md",
+      "title": "NRX-0401157_lot EW15806-271-P1_Hold_110C_2",
+      "source_id": "Analytical Chemistry/Armen Shamirian/NRX-0401157_lot EW15806-271-P1_Hold_110C_2.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-armen-shamirian-nrx-0401157-lot-ew15806-271-p1-hold-110c-pdf",
+      "sha16": "d91fee51b359efb8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-armen-shamirian-nrx-0401157-lot-ew15806-271-p1-hold-110c-pdf.md",
+      "title": "NRX-0401157_lot EW15806-271-P1_Hold_110C",
+      "source_id": "Analytical Chemistry/Armen Shamirian/NRX-0401157_lot EW15806-271-P1_Hold_110C.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-armen-shamirian-nrx-0401157-lot-ew15806-271-p1-hold-50c-pdf",
+      "sha16": "fcce26a6d2a886b2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-armen-shamirian-nrx-0401157-lot-ew15806-271-p1-hold-50c-pdf.md",
+      "title": "NRX-0401157_lot EW15806-271-P1_hold 50C",
+      "source_id": "Analytical Chemistry/Armen Shamirian/NRX-0401157_lot EW15806-271-P1_hold 50C.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-compound-management-requests-for-ksol-and-logd-pptx",
+      "sha16": "d9dae285d55564ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-compound-management-requests-for-ksol-and-logd-pptx.md",
+      "title": "Compound Management Requests for KSOL and LogD",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/Compound Management Requests for KSOL and LogD.pptx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-dfa---dose-formulation-analysis-dfa-procedure-docx",
+      "sha16": "a1c1329da78f0dbb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-dfa---dose-formulation-analysis-dfa-procedure-docx.md",
+      "title": "DFA Procedure",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/DFA - Dose Formulation Analysis/DFA Procedure.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-ksol-based-protocol-pdf",
+      "sha16": "e3231c7a99869bd0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-ksol-based-protocol-pdf.md",
+      "title": "KSOL Based Protocol",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/KSOL Based Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-thursday-30mar2023-ksol-control-uv-study-docx",
+      "sha16": "e6aa6b31bd0740f9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-thursday-30mar2023-ksol-control-uv-study-docx.md",
+      "title": "Thursday 30MAR2023 Ksol control UV Study",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/Thursday 30MAR2023 Ksol control UV Study.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-vanquish-system-pn-64690-cad-method-transfer-guidelines-corona-veo-pittcon2016-pn64690-en-pdf",
+      "sha16": "3c17d7698376146b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-vanquish-system-pn-64690-cad-method-transfer-guidelines-corona-veo-pittcon2016-pn64690-en-pdf.md",
+      "title": "PN-64690-CAD-Method-Transfer-Guidelines-Corona-Veo-Pittcon2016-PN64690-EN",
+      "source_id": "Analytical Chemistry/Breanna C/Vanquish System/PN-64690-CAD-Method-Transfer-Guidelines-Corona-Veo-Pittcon2016-PN64690-EN.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-pos-and-menus-2020-crl-in-vitro-assay-menu-pdf",
+      "sha16": "bd01b9eb26706bee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-pos-and-menus-2020-crl-in-vitro-assay-menu-pdf.md",
+      "title": "2020 CRL in vitro assay menu",
+      "source_id": "Analytical Chemistry/Charles River/POs and Menus/2020 CRL in vitro assay menu.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-charles-river-pos-and-menus-2021-crl-in-vitro-assay-menu-pdf",
+      "sha16": "103c5979ebfa31b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-charles-river-pos-and-menus-2021-crl-in-vitro-assay-menu-pdf.md",
+      "title": "2021 CRL in vitro assay menu",
+      "source_id": "Analytical Chemistry/Charles River/POs and Menus/2021 CRL in vitro assay menu.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-sophia-h---public-summer-2023-spe-protocols-docx",
+      "sha16": "5db130114ff13d0a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-sophia-h---public-summer-2023-spe-protocols-docx.md",
+      "title": "SPE Protocols",
+      "source_id": "Analytical Chemistry/Sophia H - Public/Summer 2023/SPE Protocols.docx",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-performance-planning-performance-planning-form-2021-natalie-duongs-docx",
+      "sha16": "9ce0e700071e09ca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-performance-planning-performance-planning-form-2021-natalie-duongs-docx.md",
+      "title": "Performance Planning Form 2021_Natalie Duongs",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Performance Planning/Performance Planning Form 2021_Natalie Duongs.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references---warfarin-and-atenolol-pdf",
+      "sha16": "bcf1c15115cceb21",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references---warfarin-and-atenolol-pdf.md",
+      "title": "LOGD References - Warfarin and Atenolol",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/LOGD References - Warfarin and Atenolol.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references2---tolbutamide-propranolol-amiodarone-atenolol-pdf",
+      "sha16": "079c861635fa9269",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references2---tolbutamide-propranolol-amiodarone-atenolol-pdf.md",
+      "title": "LOGD References2 - Tolbutamide Propranolol Amiodarone Atenolol",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/LOGD References2 - Tolbutamide Propranolol Amiodarone Atenolol.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references3---labetelol-pdf",
+      "sha16": "25e5c038cbac810a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references3---labetelol-pdf.md",
+      "title": "LOGD References3 - Labetelol",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/LOGD References3 - Labetelol.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references4---imipriamine-pdf",
+      "sha16": "8a763d542581153b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references4---imipriamine-pdf.md",
+      "title": "LOGD References4 - Imipriamine",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/LOGD References4 - Imipriamine.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references5-pdf",
+      "sha16": "b27323dcf012275c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references5-pdf.md",
+      "title": "LOGD References5",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/LOGD References5.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references6-pdf",
+      "sha16": "80022db150d63b41",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references6-pdf.md",
+      "title": "LOGD References6",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/LOGD References6.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references7-pdf",
+      "sha16": "0951b8200ad682fc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references7-pdf.md",
+      "title": "LOGD References7",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/LOGD References7.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references8---imipramine-labetelol-propranolol-atenolol-pdf",
+      "sha16": "6388b20500056f25",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-logd-references8---imipramine-labetelol-propranolol-atenolol-pdf.md",
+      "title": "LOGD References8 - Imipramine Labetelol propranolol atenolol",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/LOGD References8 - Imipramine Labetelol propranolol atenolol.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-logd-waters-instrument-pdf",
+      "sha16": "7014e0cb33509684",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-logd-waters-instrument-pdf.md",
+      "title": "Waters instrument",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/LogD/Waters instrument.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-assays-thermodynamic-solubility-possible-tsol-ideas-1-s2-0-s1740674918300027-mainext-1-pdf",
+      "sha16": "eda8ac08b3d67181",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-assays-thermodynamic-solubility-possible-tsol-ideas-1-s2-0-s1740674918300027-mainext-1-pdf.md",
+      "title": "Possible TSOL Ideas 1-s2.0-S1740674918300027-mainext (1)",
+      "source_id": "Analytical Chemistry/Breanna C/Assays/Thermodynamic Solubility/Possible TSOL Ideas 1-s2.0-S1740674918300027-mainext (1).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-au-204-ic-cations-ammonium-water-au72033-en-pdf",
+      "sha16": "88509fcb72fa7634",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-au-204-ic-cations-ammonium-water-au72033-en-pdf.md",
+      "title": "AU-204-IC-Cations-Ammonium-Water-AU72033-EN",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/AU-204-IC-Cations-Ammonium-Water-AU72033-EN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-charged-aerosol-detection---factors-affecting-uniform-analyte-response-pdf",
+      "sha16": "34a5978b05596c47",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-charged-aerosol-detection---factors-affecting-uniform-analyte-response-pdf.md",
+      "title": "Charged aerosol detection - factors affecting uniform analyte response",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/Charged aerosol detection - factors affecting uniform analyte response.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-logp-2017-pdf",
+      "sha16": "3bfb57e473ac5607",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-documents-of-interest-jk-logp-2017-pdf.md",
+      "title": "logP_2017",
+      "source_id": "Analytical Chemistry/Breanna C/Documents of interest_JK/logP_2017.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-spectramax-340-plate-reader-spectramax-340-pc-user-manual---340-pc-pdf",
+      "sha16": "8066f4e910fa06bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-spectramax-340-plate-reader-spectramax-340-pc-user-manual---340-pc-pdf.md",
+      "title": "SpectraMax 340 PC User Manual - 340 PC",
+      "source_id": "Analytical Chemistry/Breanna C/Spectramax 340 Plate Reader/SpectraMax 340 PC User Manual - 340 PC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-spectramax-340-plate-reader-spectramax-340pc384-versamax-microplate-spectrophotometers-pdf",
+      "sha16": "b5ff07f36d0c7931",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-spectramax-340-plate-reader-spectramax-340pc384-versamax-microplate-spectrophotometers-pdf.md",
+      "title": "spectramax-340pc384-versamax-microplate-spectrophotometers",
+      "source_id": "Analytical Chemistry/Breanna C/Spectramax 340 Plate Reader/spectramax-340pc384-versamax-microplate-spectrophotometers.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-breanna-c-vanquish-system-purging-the-flex-system-pdf",
+      "sha16": "399861b3b1bc6a49",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-breanna-c-vanquish-system-purging-the-flex-system-pdf.md",
+      "title": "Purging the Flex System",
+      "source_id": "Analytical Chemistry/Breanna C/Vanquish System/Purging the Flex System.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2592-sfc-comparison-eln-400-2592-pdf",
+      "sha16": "c3fbcef77bec0a4b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2592-sfc-comparison-eln-400-2592-pdf.md",
+      "title": "SFC_Comparison_ELN-400-2592",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-400-2592/SFC_Comparison_ELN-400-2592.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2592-sfc-report-eln-400-2592-ibn-pdf",
+      "sha16": "e1e7c6174f3f1648",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2592-sfc-report-eln-400-2592-ibn-pdf.md",
+      "title": "SFC_Report_ELN-400-2592_IBN",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-400-2592/SFC_Report_ELN-400-2592_IBN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2592-sfc-report-eln-400-2592-stg2-ibn-pdf",
+      "sha16": "870042ec829956c3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2592-sfc-report-eln-400-2592-stg2-ibn-pdf.md",
+      "title": "SFC_Report_ELN-400-2592_STG2_IBN",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-400-2592/SFC_Report_ELN-400-2592_STG2_IBN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2592-sfc-report-eln-400-2592-stg3-pdf",
+      "sha16": "0348a8ac1fd29bd9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2592-sfc-report-eln-400-2592-stg3-pdf.md",
+      "title": "SFC_Report_ELN-400-2592_STG3",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-400-2592/SFC_Report_ELN-400-2592_STG3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2597-sfc-comparison-eln-400-2597-pdf",
+      "sha16": "fc2b957adfbd0104",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2597-sfc-comparison-eln-400-2597-pdf.md",
+      "title": "SFC_Comparison_ELN-400-2597",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-400-2597/SFC_Comparison_ELN-400-2597.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2597-sfc-report-eln-400-2597-stg2-pdf",
+      "sha16": "cb689b741c657b89",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-400-2597-sfc-report-eln-400-2597-stg2-pdf.md",
+      "title": "SFC_Report_ELN-400-2597_STG2",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-400-2597/SFC_Report_ELN-400-2597_STG2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1902-sfc-comparison-eln-408-1902-pdf",
+      "sha16": "33cf8810c06d3dc9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1902-sfc-comparison-eln-408-1902-pdf.md",
+      "title": "SFC_Comparison_ELN-408-1902",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-408-1902/SFC_Comparison_ELN-408-1902.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1902-sfc-report-eln-408-1902-pdf",
+      "sha16": "fa9183df49f55ba6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1902-sfc-report-eln-408-1902-pdf.md",
+      "title": "SFC_Report_ELN-408-1902",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-408-1902/SFC_Report_ELN-408-1902.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1903-sfc-report-eln-408-1903-pk1-pdf",
+      "sha16": "213851165613af63",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1903-sfc-report-eln-408-1903-pk1-pdf.md",
+      "title": "SFC_Report_ELN-408-1903_PK1",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-408-1903/SFC_Report_ELN-408-1903_PK1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1904-sfc-comparison-eln-408-1904-pdf",
+      "sha16": "8c13e7471e09fe4d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1904-sfc-comparison-eln-408-1904-pdf.md",
+      "title": "SFC_Comparison_ELN-408-1904",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-408-1904/SFC_Comparison_ELN-408-1904.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1904-sfc-report-eln-408-1904-pdf",
+      "sha16": "be0239f0792fe980",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-analytical-sfc-eln-408-1904-sfc-report-eln-408-1904-pdf.md",
+      "title": "SFC_Report_ELN-408-1904",
+      "source_id": "Analytical Chemistry/Brent - Public/Analytical SFC/ELN-408-1904/SFC_Report_ELN-408-1904.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-brent---public-bike-parts--brands-cycle-and-fitness-pdf",
+      "sha16": "8aa0473505222905",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-brent---public-bike-parts--brands-cycle-and-fitness-pdf.md",
+      "title": "Bike Parts- Brands Cycle and Fitness",
+      "source_id": "Analytical Chemistry/Brent - Public/Bike Parts- Brands Cycle and Fitness.pdf",
+      "confidence": "low"
+    }
+  ]
+}

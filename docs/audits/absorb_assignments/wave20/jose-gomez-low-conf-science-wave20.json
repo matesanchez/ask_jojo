@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-gomez-low-conf-science-wave20",
+  "wiki_dir": "references",
+  "wave": "wave20",
+  "entries": [
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-patterns-of-resistance-differ-in-patients-with-acute-myeloid-leukemia-treated-with-type-i-versus-type-ii-flt3-inhibitors-pdf",
+      "sha16": "d4e09443f69c0ef0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-patterns-of-resistance-differ-in-patients-with-acute-myeloid-leukemia-treated-with-type-i-versus-type-ii-flt3-inhibitors-pdf.md",
+      "title": "Patterns of Resistance Differ in Patients with Acute Myeloid Leukemia Treated with Type I versus Type II FLT3 Inhibitors",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Patterns of Resistance Differ in Patients with Acute Myeloid Leukemia Treated with Type I versus Type II FLT3 Inhibitors.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-pharmacological-impact-of-flt3-mutations-on-receptor-activity-and-pdf",
+      "sha16": "1c7c555470a2e898",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-pharmacological-impact-of-flt3-mutations-on-receptor-activity-and-pdf.md",
+      "title": "Pharmacological impact of FLT3 mutations on receptor activity and",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Pharmacological impact of FLT3 mutations on receptor activity and.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-prior-covid-19-infection-and-antibody-response-to-single-versus-double-dose-mrna-pdf",
+      "sha16": "0c02a5d086d9347c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-prior-covid-19-infection-and-antibody-response-to-single-versus-double-dose-mrna-pdf.md",
+      "title": "Prior COVID-19 Infection and Antibody Response to Single Versus Double Dose mRNA",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Prior COVID-19 Infection and Antibody Response to Single Versus Double Dose mRNA.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-strategies-targeting-flt3-beyond-the-kinase-inhibitors-pdf",
+      "sha16": "96902ab821e6f471",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-strategies-targeting-flt3-beyond-the-kinase-inhibitors-pdf.md",
+      "title": "Strategies targeting FLT3 beyond the kinase inhibitors",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Strategies targeting FLT3 beyond the kinase inhibitors.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-radiation-paper-for-cbl-pdf",
+      "sha16": "a540b809c9fae302",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-radiation-paper-for-cbl-pdf.md",
+      "title": "Radiation paper for Cbl",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Radiation paper for Cbl.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-t-cell-stemness-and-dysfunction-in-tumors-are-triggered-by-a-common-mechanism-pdf",
+      "sha16": "1ad9e85f0349dca9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-t-cell-stemness-and-dysfunction-in-tumors-are-triggered-by-a-common-mechanism-pdf.md",
+      "title": "T cell stemness and dysfunction in tumors are triggered by a common mechanism",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/T cell stemness and dysfunction in tumors are triggered by a common mechanism.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-vaccination-with-cd47-deficient-tumor-cells-elicits-pdf",
+      "sha16": "d38cc123f5c0baf2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-vaccination-with-cd47-deficient-tumor-cells-elicits-pdf.md",
+      "title": "Vaccination with CD47 deficient tumor cells elicits",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Vaccination with CD47 deficient tumor cells elicits.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-adoptive-cell-transfer-kinetics-of-in-vivo-transferred-cells-to-mice-pdf",
+      "sha16": "d352b0a7cb7efd40",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-adoptive-cell-transfer-kinetics-of-in-vivo-transferred-cells-to-mice-pdf.md",
+      "title": "Kinetics of in vivo transferred cells to mice",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Adoptive cell transfer/Kinetics of in vivo transferred cells to mice.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-b-cell-mechanisms-that-determine-plasma-pdf",
+      "sha16": "e931624040ba9e83",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-b-cell-mechanisms-that-determine-plasma-pdf.md",
+      "title": "Mechanisms that determine plasma",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/B cell/Mechanisms that determine plasma.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-cbl-and-b-cells-antibodies-pdf",
+      "sha16": "a441bc19d74d80fc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-cbl-and-b-cells-antibodies-pdf.md",
+      "title": "CBl and B cells antibodies",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Cbl/CBl and B cells antibodies.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-cbl-directly-on-the-cd28-pdf",
+      "sha16": "408e5cfd971edaf8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-cbl-directly-on-the-cd28-pdf.md",
+      "title": "cbl directly on the cd28",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Cbl/cbl directly on the cd28.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-cbl-ubiquitin-ligases-control-b-cell-exit-from-the-germinal-center-reaction-pdf",
+      "sha16": "87dc024a1a100afa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-cbl-cbl-ubiquitin-ligases-control-b-cell-exit-from-the-germinal-center-reaction-pdf.md",
+      "title": "Cbl Ubiquitin Ligases Control B cell exit from the Germinal center reaction",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Cbl/Cbl Ubiquitin Ligases Control B cell exit from the Germinal center reaction.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-cold-tumors-a-therapeutiuc-challenge-for-immunotherapy-pdf",
+      "sha16": "eba29d10e5534f6d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-cold-tumors-a-therapeutiuc-challenge-for-immunotherapy-pdf.md",
+      "title": "Cold tumors A therapeutiuc challenge for Immunotherapy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Emilie Paper/Cold tumors A therapeutiuc challenge for Immunotherapy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-10-ah1-immunogen-pdf",
+      "sha16": "77b4fba3123270b5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-10-ah1-immunogen-pdf.md",
+      "title": "PAPER 10 ah1 IMMUNOGEN",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Emilie Paper/PAPER 10 ah1 IMMUNOGEN.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-7-eradication-of-spontaneous-malignancy-by-local-immunotherapy-pdf",
+      "sha16": "9b1318d815d28fdb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-emilie-paper-paper-7-eradication-of-spontaneous-malignancy-by-local-immunotherapy-pdf.md",
+      "title": "Paper 7 Eradication of spontaneous malignancy by local immunotherapy",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Emilie Paper/Paper 7 Eradication of spontaneous malignancy by local immunotherapy.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-ova-ova-expression-2-pdf",
+      "sha16": "82e84e341f994753",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-ova-ova-expression-2-pdf.md",
+      "title": "Ova expression (2)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/OVA/Ova expression (2).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-ova-ova-expression-3-pdf",
+      "sha16": "8e1c3404112d96c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-ova-ova-expression-3-pdf.md",
+      "title": "Ova expression (3)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/OVA/Ova expression (3).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-ova-ova-expression-project-1-pdf",
+      "sha16": "68a6949511e36176",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-ova-ova-expression-project-1-pdf.md",
+      "title": "OVA expression project (1)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/OVA/OVA expression project (1).pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-defining-memory-cd8-t-cells-pdf",
+      "sha16": "7095e9be4d029fdf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-defining-memory-cd8-t-cells-pdf.md",
+      "title": "Defining Memory CD8 T cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Stemness CD8+/Defining Memory CD8 T cells.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-role-of-pi3k-akt-signaling-in-memory-cd8-t-cells-differentiation-pdf",
+      "sha16": "86a4834d5dc153a8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-stemness-cd8-role-of-pi3k-akt-signaling-in-memory-cd8-t-cells-differentiation-pdf.md",
+      "title": "Role of PI3K Akt signaling in memory CD8 T cells differentiation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Stemness CD8+/Role of PI3K Akt signaling in memory CD8 T cells differentiation.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-t-cell-activation-ctla-4-blockade-boosts-the-pdf",
+      "sha16": "3bf7e9faef5c4426",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-t-cell-activation-ctla-4-blockade-boosts-the-pdf.md",
+      "title": "CTLA-4 blockade boosts the",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/T Cell Activation/CTLA-4 blockade boosts the.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-models-monoclonal-antibody-responses-after-recombinant-pdf",
+      "sha16": "34f48cdb2a19d8ea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-models-monoclonal-antibody-responses-after-recombinant-pdf.md",
+      "title": "Monoclonal Antibody Responses after recombinant",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Vaccine Models/Monoclonal Antibody Responses after recombinant.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-overexpressed-self-tumor-antigens-pdf",
+      "sha16": "8fe33907e5c8267c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-overexpressed-self-tumor-antigens-pdf.md",
+      "title": "Overexpressed self tumor antigens",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Vaccine Paper/Overexpressed self tumor antigens.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-pros-and-cons-of-tumor-vaccines-pdf",
+      "sha16": "deb6bb71dc548eed",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-science-literature-vaccine-paper-pros-and-cons-of-tumor-vaccines-pdf.md",
+      "title": "PROS AND CONS of tumor vaccines",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Vaccine Paper/PROS AND CONS of tumor vaccines.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-graduate-medical-school-folder-of-vaccine-knowledge-a-single-dose-of-neoadjuvant-pd-1-blockade-predicts-clinical-outcomes-in-resectable-melanoma-pdf",
+      "sha16": "6cc0c6079c3c154d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-graduate-medical-school-folder-of-vaccine-knowledge-a-single-dose-of-neoadjuvant-pd-1-blockade-predicts-clinical-outcomes-in-resectable-melanoma-pdf.md",
+      "title": "A single dose of neoadjuvant pd-1 blockade predicts clinical outcomes in resectable melanoma",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Graduate_Medical school/Folder of vaccine knowledge/A single dose of neoadjuvant pd-1 blockade predicts clinical outcomes in resectable melanoma.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-graduate-medical-school-folder-of-vaccine-knowledge-endogenous-t-cells-prevent-tumor-immune-escpae-following-adoptive-t-cell-therapy-pdf",
+      "sha16": "dbaa0cbffd627038",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-graduate-medical-school-folder-of-vaccine-knowledge-endogenous-t-cells-prevent-tumor-immune-escpae-following-adoptive-t-cell-therapy-pdf.md",
+      "title": "Endogenous T cells prevent tumor immune escpae following adoptive T cell therapy.",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Graduate_Medical school/Folder of vaccine knowledge/Endogenous T cells prevent tumor immune escpae following adoptive T cell therapy..pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cblb-resistant-and-cbl-resistant-docx",
+      "sha16": "6e1ee104b0bd50dd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-desktop-05may23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cblb-resistant-and-cbl-resistant-docx.md",
+      "title": "Cblb Resistant and CBL resistant ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Desktop 05MAY23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/Cblb Resistant and CBL resistant .docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cblb-resistant-and-cbl-resistant-docx",
+      "sha16": "6e1ee104b0bd50dd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cblb-resistant-and-cbl-resistant-docx.md",
+      "title": "Cblb Resistant and CBL resistant ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/Cblb Resistant and CBL resistant .docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cblb-resistant-and-cbl-resistant-docx",
+      "sha16": "6e1ee104b0bd50dd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-desktop-22mar23-desktop-13jan23-18nov22-desktop-05sep22-desktop-25may22-papers-cblb-resistant-and-cbl-resistant-docx.md",
+      "title": "Cblb Resistant and CBL resistant ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/Desktop 22MAR23/DESKTOP 13JAN23/18NOV22/Desktop 05SEP22/Desktop 25MAY22/Papers/Cblb Resistant and CBL resistant .docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-mek-inhibition-reprograms-cd8-t-lymphocytes-into-memory-stem-cells-with-potent-docx",
+      "sha16": "c12dc5762e0dd61b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-mek-inhibition-reprograms-cd8-t-lymphocytes-into-memory-stem-cells-with-potent-docx.md",
+      "title": "MEK inhibition reprograms CD8+ T lymphocytes into memory stem cells with potent",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/MEK inhibition reprograms CD8+ T lymphocytes into memory stem cells with potent.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-mek-inhibition-reprograms-cd8-t-lymphocytes-into-memory-stem-cells-with-potent-notes-docx",
+      "sha16": "fa8bd359c7e7baaa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-17feb21-desktop-mek-inhibition-reprograms-cd8-t-lymphocytes-into-memory-stem-cells-with-potent-notes-docx.md",
+      "title": "MEK inhibition reprograms CD8+ T lymphocytes into memory stem cells with potent (Notes)",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/17FEB21 Desktop/MEK inhibition reprograms CD8+ T lymphocytes into memory stem cells with potent (Notes).docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv330-4t1-tumor-model-docx",
+      "sha16": "47d90490422924fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv330-4t1-tumor-model-docx.md",
+      "title": "2020_Cbl_NV330_4T1 tumor model",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Miscellenous/2020_Cbl_NV330_4T1 tumor model.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv331-4t1-tumor-model-docx",
+      "sha16": "fc6f0fd85c3976ea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv331-4t1-tumor-model-docx.md",
+      "title": "2020_Cbl_NV331_4T1 tumor model",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Miscellenous/2020_Cbl_NV331_4T1 tumor model.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv336-eg7ova-rechallenge-docx",
+      "sha16": "59870cfe28486216",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv336-eg7ova-rechallenge-docx.md",
+      "title": "2020_Cbl_NV336_EG7OVA_Rechallenge",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Miscellenous/2020_Cbl_NV336_EG7OVA_Rechallenge.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-memory-memory-cd8-notes-docx",
+      "sha16": "6b0ce5098b711bb7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-desktop-10jul20-jose-gomez-stuff-science-literature-memory-memory-cd8-notes-docx.md",
+      "title": "Memory CD8+ Notes",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Desktop 10JUL20/Jose Gomez Stuff/Science Literature/Memory/Memory CD8+ Notes.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-knockout-of-cblb-greatly-enhances-anti-tumor-activity-of-car-t-cells-docx",
+      "sha16": "9e9588a1da3b972c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-knockout-of-cblb-greatly-enhances-anti-tumor-activity-of-car-t-cells-docx.md",
+      "title": "Knockout of CBLB Greatly Enhances Anti-Tumor Activity of CAR T Cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Knockout of CBLB Greatly Enhances Anti-Tumor Activity of CAR T Cells.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-viral-presistence-cd8-t-cells-wherry-ahmed-notes-docx",
+      "sha16": "64ddb39956d84cea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-desktop-19aug21-papers-desktop-24nov20-desktop-280820-viral-presistence-cd8-t-cells-wherry-ahmed-notes-docx.md",
+      "title": "Viral Presistence CD8 T cells _Wherry_Ahmed_Notes",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Desktop 19AUG21/Papers/Desktop 24NOV20/Desktop 280820/Viral Presistence CD8 T cells _Wherry_Ahmed_Notes.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv330-4t1-tumor-model-docx",
+      "sha16": "47d90490422924fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv330-4t1-tumor-model-docx.md",
+      "title": "2020_Cbl_NV330_4T1 tumor model",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Miscellenous/2020_Cbl_NV330_4T1 tumor model.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv331-4t1-tumor-model-docx",
+      "sha16": "fc6f0fd85c3976ea",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv331-4t1-tumor-model-docx.md",
+      "title": "2020_Cbl_NV331_4T1 tumor model",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Miscellenous/2020_Cbl_NV331_4T1 tumor model.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv336-eg7ova-rechallenge-docx",
+      "sha16": "59870cfe28486216",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-old-material-jose-gomez-stuff-desktop-stuff-08jul20-desktop-10jul20-jose-gomez-stuff-miscellenous-2020-cbl-nv336-eg7ova-rechallenge-docx.md",
+      "title": "2020_Cbl_NV336_EG7OVA_Rechallenge",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/OLD Material/Jose Gomez Stuff/Desktop Stuff 08JUL20/Desktop 10JUL20/Jose Gomez Stuff/Miscellenous/2020_Cbl_NV336_EG7OVA_Rechallenge.docx",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "assignment": "natalie-d-low-batch4-wave24",
+  "wiki_dir": "references",
+  "wave": "wave24",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-3march2021-impurity-pis796-3-lowce-pdf",
+      "sha16": "3158a6d7d29cf11a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-3march2021-impurity-pis796-3-lowce-pdf.md",
+      "title": "PIS796.3_lowCE",
+      "source_id": "Analytical Chemistry/Bob C - Public/3March2021_impurity/PIS796.3_lowCE.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-3march2021-impurity-pis796-3-lowce-zoom-pdf",
+      "sha16": "3e696b02fca8c997",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-3march2021-impurity-pis796-3-lowce-zoom-pdf.md",
+      "title": "PIS796.3_lowCE_zoom",
+      "source_id": "Analytical Chemistry/Bob C - Public/3March2021_impurity/PIS796.3_lowCE_zoom.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-717810umcentrifuged1of3-q1mi-pdf",
+      "sha16": "0ef6017c28160c6f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-717810umcentrifuged1of3-q1mi-pdf.md",
+      "title": "HiBitSol_717810uMcentrifuged1of3_Q1MI",
+      "source_id": "Analytical Chemistry/Bob C - Public/HiBit Solubility/HiBitSol_717810uMcentrifuged1of3_Q1MI.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-717810umcentrifuged2of3-q1mi-pdf",
+      "sha16": "a578d6dd1ff0af82",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-717810umcentrifuged2of3-q1mi-pdf.md",
+      "title": "HiBitSol_717810uMcentrifuged2of3_Q1MI",
+      "source_id": "Analytical Chemistry/Bob C - Public/HiBit Solubility/HiBitSol_717810uMcentrifuged2of3_Q1MI.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-717810umcentrifuged3of3-q1mi-pdf",
+      "sha16": "33c6f1041667620f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-717810umcentrifuged3of3-q1mi-pdf.md",
+      "title": "HiBitSol_717810uMcentrifuged3of3_Q1MI",
+      "source_id": "Analytical Chemistry/Bob C - Public/HiBit Solubility/HiBitSol_717810uMcentrifuged3of3_Q1MI.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-7178std10um-q1mi-pdf",
+      "sha16": "3683ef7c7cc9d400",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-7178std10um-q1mi-pdf.md",
+      "title": "HiBitSol_7178STD10uM_Q1MI",
+      "source_id": "Analytical Chemistry/Bob C - Public/HiBit Solubility/HiBitSol_7178STD10uM_Q1MI.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-blank-q1mi-pdf",
+      "sha16": "580a3293eb71d641",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-hibit-solubility-hibitsol-blank-q1mi-pdf.md",
+      "title": "HiBitSol_Blank_Q1MI",
+      "source_id": "Analytical Chemistry/Bob C - Public/HiBit Solubility/HiBitSol_Blank_Q1MI.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-bob-c---public-peaksrerun-overlay-pdf",
+      "sha16": "c5d15ba2be278808",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-bob-c---public-peaksrerun-overlay-pdf.md",
+      "title": "peaksRerun_overlay",
+      "source_id": "Analytical Chemistry/Bob C - Public/peaksRerun_overlay.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-5-ms-pdf",
+      "sha16": "b04cfa368524e19d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-323-5-ms-pdf.md",
+      "title": "ELN-63-323-5_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-323-5_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-348-md-pdf",
+      "sha16": "160fb8f59cbc9738",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-348-md-pdf.md",
+      "title": "ELN-63-348_MD",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-348_MD.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-361-zef-pdf",
+      "sha16": "e48671bed3eadd44",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-361-zef-pdf.md",
+      "title": "ELN-63-361_ZEF",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-361_ZEF.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-361-zef2-pdf",
+      "sha16": "7623bf76c7569db9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-63-361-zef2-pdf.md",
+      "title": "ELN-63-361_ZEF2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-63-361_ZEF2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-7-877-1097-pdf",
+      "sha16": "403318a804824f6d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-7-877-1097-pdf.md",
+      "title": "ELN-7-877_1097",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-7-877_1097.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-7-877-dan1-pdf",
+      "sha16": "85b1d8901d3370ef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-7-877-dan1-pdf.md",
+      "title": "ELN-7-877_DAN1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-7-877_DAN1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-7-877-dan2-pdf",
+      "sha16": "448331077bf2e9ab",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-eln-7-877-dan2-pdf.md",
+      "title": "ELN-7-877_DAN2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/ELN-7-877_DAN2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-hunters-pdf",
+      "sha16": "8fa797e1338c042e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-lcms-hunters-pdf.md",
+      "title": "HUNTERS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/LCMS/HUNTERS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-p4-ms-pdf",
+      "sha16": "4dd59c54db8a6b11",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-p4-ms-pdf.md",
+      "title": "2127_IMP_P4_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127_IMP_P4_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk1-ms-pdf",
+      "sha16": "6ac6b248d2138124",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk1-ms-pdf.md",
+      "title": "2127_IMP_PK1_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127_IMP_PK1_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk2-ms-pdf",
+      "sha16": "baa28087ff46f0c1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk2-ms-pdf.md",
+      "title": "2127_IMP_PK2_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127_IMP_PK2_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk4-ms-pdf",
+      "sha16": "5731513ca196ae87",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127-imp-pk4-ms-pdf.md",
+      "title": "2127_IMP_PK4_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127_IMP_PK4_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-288-pdf",
+      "sha16": "dfecbabed91b886c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-288-pdf.md",
+      "title": "Hardcopy_288",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127PK2/Hardcopy_288.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-289-pdf",
+      "sha16": "858bf1a4d90d8e0f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-289-pdf.md",
+      "title": "Hardcopy_289",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127PK2/Hardcopy_289.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-290-pdf",
+      "sha16": "f3d0d1f6f4e7d631",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-290-pdf.md",
+      "title": "Hardcopy_290",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127PK2/Hardcopy_290.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-291-pdf",
+      "sha16": "5edfbf67aa52892f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-291-pdf.md",
+      "title": "Hardcopy_291",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127PK2/Hardcopy_291.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-292-pdf",
+      "sha16": "31ca1ae5cd1f461e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-292-pdf.md",
+      "title": "Hardcopy_292",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127PK2/Hardcopy_292.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-293-pdf",
+      "sha16": "e73001c971d0b85c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-293-pdf.md",
+      "title": "Hardcopy_293",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127PK2/Hardcopy_293.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-294-pdf",
+      "sha16": "2c26b9ebb4d8cd38",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-2127pk2-hardcopy-294-pdf.md",
+      "title": "Hardcopy_294",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/2127PK2/Hardcopy_294.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-pre-start-main-ms-pdf",
+      "sha16": "b9b061007a1458ec",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-pre-start-main-ms-pdf.md",
+      "title": "PRE_START_MAIN_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/PRE-STG1/PRE_START_MAIN_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-pre-start-pk1-ms-pdf",
+      "sha16": "9286a4aad837717e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-pre-start-pk1-ms-pdf.md",
+      "title": "PRE_START_PK1_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/PRE-STG1/PRE_START_PK1_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-pre-start-pk2-ms-pdf",
+      "sha16": "cf5dd66a7afd8fa5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-pre-start-pk2-ms-pdf.md",
+      "title": "PRE_START_PK2_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/PRE-STG1/PRE_START_PK2_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-pre-start-pk4-ms-pdf",
+      "sha16": "fedb6bc833730aa9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-pre-start-pk4-ms-pdf.md",
+      "title": "PRE_START_PK4_MS",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/PRE-STG1/PRE_START_PK4_MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-start-2127-ms1-pdf",
+      "sha16": "2d5d0647401e6a09",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-pre-stg1-start-2127-ms1-pdf.md",
+      "title": "START_2127_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/PRE-STG1/START_2127_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk1-ms1-pdf",
+      "sha16": "2e1d755db8accbc8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk1-ms1-pdf.md",
+      "title": "STG1_PK1_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK1_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk1-ms2-pdf",
+      "sha16": "ff4a05036864e7a3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk1-ms2-pdf.md",
+      "title": "STG1_PK1_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK1_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk2-ms1-pdf",
+      "sha16": "06553b22da340410",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk2-ms1-pdf.md",
+      "title": "STG1_PK2_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK2_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk2-ms2-pdf",
+      "sha16": "d4bfca8c523d6448",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk2-ms2-pdf.md",
+      "title": "STG1_PK2_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK2_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk3-ms1-pdf",
+      "sha16": "0c9f6a939ae4de34",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk3-ms1-pdf.md",
+      "title": "STG1_PK3_MS1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK3_MS1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk3-ms2-pdf",
+      "sha16": "7d5cd84eee8fe963",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-210416-stg1-pk3-ms2-pdf.md",
+      "title": "STG1_PK3_MS2",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/210416/STG1_PK3_MS2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-main-pdf",
+      "sha16": "e1765c33a6f58e21",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-main-pdf.md",
+      "title": "2127 stage 1_MAIN",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/Agilent Chromatograms/2127 stage 1_MAIN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-pdf",
+      "sha16": "571dcefbefd6b6dd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-purification-nx-2127-project-2127-data-stg-1-agilent-chromatograms-2127-stage-1-pdf.md",
+      "title": "2127 stage 1",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Purification/NX-2127 Project/2127 DATA/STG 1/Agilent Chromatograms/2127 stage 1.pdf",
+      "confidence": "low"
+    }
+  ]
+}

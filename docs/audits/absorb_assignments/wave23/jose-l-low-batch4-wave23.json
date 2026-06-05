@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-low-batch4-wave23",
+  "wiki_dir": "references",
+  "wave": "wave23",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-20190192-pdf",
+      "sha16": "a9b9675c6fbc2667",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-20190192-pdf.md",
+      "title": "20190192",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-010-AA/Robertson Microlit/Results/20190192.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-20190193-pdf",
+      "sha16": "c3c6472416b0059d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-20190193-pdf.md",
+      "title": "20190193",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-010-AA/Robertson Microlit/Results/20190193.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-le-46ca103d87",
+      "sha16": "072c5774b0f907c6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-le-46ca103d87.md",
+      "title": "Leighton_Jose_3192019141134",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-010-AA/Robertson Microlit/Results/Leighton_Jose_3192019141134.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-pos-and-re-0fc391c8c2",
+      "sha16": "5f268b779ee6ced5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-pos-and-re-0fc391c8c2.md",
+      "title": "Jose Leighton_Quote1548",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-AA-008/Robertson Microlit/POs and Requests/Jose Leighton_Quote1548.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-pos-and-re-a535491220",
+      "sha16": "18d410e7e6fe24b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-pos-and-re-a535491220.md",
+      "title": "PO #16145-NRX Robertson Microlit Laboratories",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-AA-008/Robertson Microlit/POs and Requests/PO #16145-NRX Robertson Microlit Laboratories.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-20190071-pdf",
+      "sha16": "c95389f2cc396c24",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-20190071-pdf.md",
+      "title": "20190071",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-AA-008/Robertson Microlit/Results/20190071.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-20190072-pdf",
+      "sha16": "662dd5cb0a979085",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-20190072-pdf.md",
+      "title": "20190072",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-AA-008/Robertson Microlit/Results/20190072.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-20190073-pdf",
+      "sha16": "68c53177dc5f560e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-20190073-pdf.md",
+      "title": "20190073",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-AA-008/Robertson Microlit/Results/20190073.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-20190074-pdf",
+      "sha16": "139a11d615400c8f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-20190074-pdf.md",
+      "title": "20190074",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-AA-008/Robertson Microlit/Results/20190074.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-le-90cfe7afb0",
+      "sha16": "3f4ce725d957dbe3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-aa-008-robertson-microlit-results-le-90cfe7afb0.md",
+      "title": "Leighton_Jose_262019142850",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-AA-008/Robertson Microlit/Results/Leighton_Jose_262019142850.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-quotes-jos-8b05ec846d",
+      "sha16": "2739b5c9e468ae26",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-quotes-jos-8b05ec846d.md",
+      "title": "Jose Leighton_Quote1959",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255-014-AA/Robertson Microlit/Quotes/Jose Leighton_Quote1959.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-quotes-po-d2ba331083",
+      "sha16": "935aa84b48f41f02",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-quotes-po-d2ba331083.md",
+      "title": "PO #17795-NRX for Robertson Microlit Laboratories, Inc_",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255-014-AA/Robertson Microlit/Quotes/PO #17795-NRX for Robertson Microlit Laboratories, Inc_.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-20190351-pdf",
+      "sha16": "e1b61df78724c11b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-20190351-pdf.md",
+      "title": "20190351",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255-014-AA/Robertson Microlit/Results/20190351.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-20190352-pdf",
+      "sha16": "20bb8f811d5a98a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-20190352-pdf.md",
+      "title": "20190352",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255-014-AA/Robertson Microlit/Results/20190352.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-20190353-pdf",
+      "sha16": "eec2e103443dbfd9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-20190353-pdf.md",
+      "title": "20190353",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255-014-AA/Robertson Microlit/Results/20190353.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-20190354-pdf",
+      "sha16": "6c6e8ff2a847079b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-20190354-pdf.md",
+      "title": "20190354",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255-014-AA/Robertson Microlit/Results/20190354.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-le-fa2253cf97",
+      "sha16": "cd24153872fa5e12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-014-aa-robertson-microlit-results-le-fa2253cf97.md",
+      "title": "Leighton_Jose_61720198941",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255-014-AA/Robertson Microlit/Results/Leighton_Jose_61720198941.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-20190291-pdf",
+      "sha16": "78f57f4d1b592417",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-20190291-pdf.md",
+      "title": "20190291",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255_19-01307-2/RML Data/20190291.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-20190292-pdf",
+      "sha16": "1ace7885e5db7396",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-20190292-pdf.md",
+      "title": "20190292",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255_19-01307-2/RML Data/20190292.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-20190293-pdf",
+      "sha16": "f9ebf9684e39694d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-20190293-pdf.md",
+      "title": "20190293",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255_19-01307-2/RML Data/20190293.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-20190294-pdf",
+      "sha16": "9579eb179ed6afcf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-20190294-pdf.md",
+      "title": "20190294",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255_19-01307-2/RML Data/20190294.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-leighton-jose-51-486c13a5df",
+      "sha16": "35f58ce5afaff80c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-data-leighton-jose-51-486c13a5df.md",
+      "title": "Leighton_Jose_5172019122649",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255_19-01307-2/RML Data/Leighton_Jose_5172019122649.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-forms-jose-leighton-q-7c2976ce8a",
+      "sha16": "452aa526f4fa5e90",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-forms-jose-leighton-q-7c2976ce8a.md",
+      "title": "Jose Leighton_Quote1873",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255_19-01307-2/RML Forms/Jose Leighton_Quote1873.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-forms-po-17451-nrx-fo-afcfb6d695",
+      "sha16": "6c373028fa39e4d2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0390255-19-01307-2-rml-forms-po-17451-nrx-fo-afcfb6d695.md",
+      "title": "PO #17451-NRX for Robertson Microlit Laboratories, Inc_",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0390255_19-01307-2/RML Forms/PO #17451-NRX for Robertson Microlit Laboratories, Inc_.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391220-003-and-004-aa-jose-leighton-quote1677-pdf",
+      "sha16": "1bb7f76fa4f45b31",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391220-003-and-004-aa-jose-leighton-quote1677-pdf.md",
+      "title": "Jose Leighton_Quote1677",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391220-003 and 004 AA/Jose Leighton_Quote1677.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391220-003-and-004-aa-revised-po-16628-nrx-4b2345cab1",
+      "sha16": "47681f5edecd497d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391220-003-and-004-aa-revised-po-16628-nrx-4b2345cab1.md",
+      "title": "Revised PO #16628-NRX with Robertson Microlit",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391220-003 and 004 AA/Revised PO #16628-NRX with Robertson Microlit.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rml-results-20190387-pdf",
+      "sha16": "885aa2cfe88ba7e7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rml-results-20190387-pdf.md",
+      "title": "20190387",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-002-AA/RML/Results/20190387.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rml-results-leighton-jose-628-d88984643f",
+      "sha16": "61ab370a97bc8d6c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-002-aa-rml-results-leighton-jose-628-d88984643f.md",
+      "title": "Leighton_Jose_6282019133236",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-002-AA/RML/Results/Leighton_Jose_6282019133236.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-20190457-pdf",
+      "sha16": "5e3f596b4082df37",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-20190457-pdf.md",
+      "title": "20190457",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-003-AA/Robertson Microlit/Results/20190457.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-20190458-pdf",
+      "sha16": "ae5a8742518408e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-20190458-pdf.md",
+      "title": "20190458",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-003-AA/Robertson Microlit/Results/20190458.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-20190459-pdf",
+      "sha16": "7915083066bf38b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-20190459-pdf.md",
+      "title": "20190459",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-003-AA/Robertson Microlit/Results/20190459.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-20190460-pdf",
+      "sha16": "ea7ddb03580e7586",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-20190460-pdf.md",
+      "title": "20190460",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-003-AA/Robertson Microlit/Results/20190460.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-le-a7225d8bee",
+      "sha16": "23a5eaa6ea232b12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0391607-003-aa-robertson-microlit-results-le-a7225d8bee.md",
+      "title": "Leighton_Jose_882019142241",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0391607-003-AA/Robertson Microlit/Results/Leighton_Jose_882019142241.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-005-aa-robertson-microlit-results-20190461-pdf",
+      "sha16": "664976a8dff08114",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-005-aa-robertson-microlit-results-20190461-pdf.md",
+      "title": "20190461",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-005-AA/Robertson Microlit/Results/20190461.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-005-aa-robertson-microlit-results-20190463-pdf",
+      "sha16": "2f7f9892e3c7a77c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-005-aa-robertson-microlit-results-20190463-pdf.md",
+      "title": "20190463",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-005-AA/Robertson Microlit/Results/20190463.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-005-aa-robertson-microlit-results-le-d09ca97f1e",
+      "sha16": "56fabe404149c6be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-005-aa-robertson-microlit-results-le-d09ca97f1e.md",
+      "title": "Leighton_Jose_89201914461",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-005-AA/Robertson Microlit/Results/Leighton_Jose_89201914461.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-sqd-ms-pdf",
+      "sha16": "65d05328b0d4b520",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-nurix-sqd-ms-pdf.md",
+      "title": "SQD MS",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Nurix/SQD MS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-results-20190734-pdf",
+      "sha16": "cbde23155aa6404c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-results-20190734-pdf.md",
+      "title": "20190734",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Robertson Microlit/Results/20190734.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-results-20190738-pdf",
+      "sha16": "47f52231986fcea7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-results-20190738-pdf.md",
+      "title": "20190738",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Robertson Microlit/Results/20190738.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-results-20190738e-pdf",
+      "sha16": "7b1b805e2c62cb99",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0392127-018-aa-robertson-microlit-results-20190738e-pdf.md",
+      "title": "20190738E",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0392127-018-AA/Robertson Microlit/Results/20190738E.pdf",
+      "confidence": "low"
+    }
+  ]
+}

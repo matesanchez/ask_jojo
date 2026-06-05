@@ -1,0 +1,767 @@
+{
+  "assignment": "jon-k-final-wave29",
+  "wiki_dir": "references",
+  "wave": "wave29",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-sequence-data-20220813-blind-study-pre-finish-pdf",
+      "sha16": "c4293832ca896889",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-sequence-data-20220813-blind-study-pre-finish-pdf.md",
+      "title": "20220813 blind study pre finish",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/sequence data/20220813 blind study pre finish.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-sequence-data-20220822-commander-last-pdf",
+      "sha16": "4ddd5357240c5c5d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-sequence-data-20220822-commander-last-pdf.md",
+      "title": "20220822 commander last",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/sequence data/20220822 commander last.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cad-report-output-standard-universal-20220708-pdf",
+      "sha16": "27e2f7c8e9e38b56",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cad-report-output-standard-universal-20220708-pdf.md",
+      "title": "standard universal 20220708",
+      "source_id": "Analytical Chemistry/Jon K - Public/CAD Report Output/standard universal 20220708.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-coa-1607-rmi-solvent-ash-pdf",
+      "sha16": "6b7dc0964563d11e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-coa-1607-rmi-solvent-ash-pdf.md",
+      "title": "1607 rmi solvent ash",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoA/1607 rmi solvent ash.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-coa-1607-rmi-thermal-2-pdf",
+      "sha16": "cdc7353d0156d041",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-coa-1607-rmi-thermal-2-pdf.md",
+      "title": "1607 rmi thermal 2",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoA/1607 rmi thermal 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-coa-1607-rmi-thermal-pdf",
+      "sha16": "57528fe2ddf45cb1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-coa-1607-rmi-thermal-pdf.md",
+      "title": "1607 rmi thermal",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoA/1607 rmi thermal.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-coa-20220143-pdf",
+      "sha16": "d0a36c29a41634f2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-coa-20220143-pdf.md",
+      "title": "20220143",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoA/20220143.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-coa-20220144-pdf",
+      "sha16": "f50533657cc94845",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-coa-20220144-pdf.md",
+      "title": "20220144",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoA/20220144.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-coa-certificate-of-analysis-2127-21-aa-pdf",
+      "sha16": "6d1b505b038bb472",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-coa-certificate-of-analysis-2127-21-aa-pdf.md",
+      "title": "Certificate_of_Analysis_2127_21_AA",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoA/Certificate_of_Analysis_2127_21_AA.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-coa-certificate-of-testing-d3-5948-pdf",
+      "sha16": "3806ce329816481f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-coa-certificate-of-testing-d3-5948-pdf.md",
+      "title": "Certificate_of_Testing_D3_5948",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoA/Certificate_of_Testing_D3_5948.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-coa-keller-jon-48202214269-pdf",
+      "sha16": "aa1329b5d7a5669b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-coa-keller-jon-48202214269-pdf.md",
+      "title": "Keller_Jon_48202214269",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoA/Keller_Jon_48202214269.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cot-20230418-mpro-8505-009-pdf",
+      "sha16": "5a5f63a2b6a14687",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cot-20230418-mpro-8505-009-pdf.md",
+      "title": "20230418 mPRO 8505-009",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoT/20230418 mPRO 8505-009.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cot-20250630-2603-sfc-chiral-purified-tga-results-pdf",
+      "sha16": "7ad34dbfe07cdaf2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cot-20250630-2603-sfc-chiral-purified-tga-results-pdf.md",
+      "title": "20250630 2603 SFC chiral purified TGA results",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoT/20250630 2603 SFC chiral purified TGA results.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cot-20250630-2606-sfc-chiral-purified-tga-results-pdf",
+      "sha16": "ae17c089167533f5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cot-20250630-2606-sfc-chiral-purified-tga-results-pdf.md",
+      "title": "20250630 2606 SFC chiral purified TGA results",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoT/20250630 2606 SFC chiral purified TGA results.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cot-eln-10-1152-5-certificate-of-testing-pdf",
+      "sha16": "3858a7d660110a7c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cot-eln-10-1152-5-certificate-of-testing-pdf.md",
+      "title": "ELN-10-1152-5 Certificate_of_Testing",
+      "source_id": "Analytical Chemistry/Jon K - Public/CoT/ELN-10-1152-5 Certificate_of_Testing.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cro-data-20220143-pdf",
+      "sha16": "d0a36c29a41634f2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cro-data-20220143-pdf.md",
+      "title": "20220143",
+      "source_id": "Analytical Chemistry/Jon K - Public/CRO data/20220143.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-cro-data-20220144-pdf",
+      "sha16": "f50533657cc94845",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-cro-data-20220144-pdf.md",
+      "title": "20220144",
+      "source_id": "Analytical Chemistry/Jon K - Public/CRO data/20220144.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-dfa-20231114-cyno-dfa-5mgml-0-5mgml---copy-pdf",
+      "sha16": "c84890d2b1508d3f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-dfa-20231114-cyno-dfa-5mgml-0-5mgml---copy-pdf.md",
+      "title": "20231114 Cyno DFA 5mgml 0.5mgml - Copy",
+      "source_id": "Analytical Chemistry/Jon K - Public/DFA/20231114 Cyno DFA 5mgml 0.5mgml - Copy.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-dfa-20231114-cyno-dfa-5mgml-0-5mgml-pdf",
+      "sha16": "2f5ac6443cad4808",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-dfa-20231114-cyno-dfa-5mgml-0-5mgml-pdf.md",
+      "title": "20231114 Cyno DFA 5mgml 0.5mgml",
+      "source_id": "Analytical Chemistry/Jon K - Public/DFA/20231114 Cyno DFA 5mgml 0.5mgml.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-g3336-10010-mh-qual-da-sw-12-0-support-agilent-masshunter-workstation-warranty-pdf",
+      "sha16": "52730e624e98c23c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-g3336-10010-mh-qual-da-sw-12-0-support-agilent-masshunter-workstation-warranty-pdf.md",
+      "title": "Agilent MassHunter Workstation Warranty",
+      "source_id": "Analytical Chemistry/Jon K - Public/G3336-10010 MH Qual DA SW 12.0/Support/Agilent MassHunter Workstation Warranty.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-g3336-10010-mh-qual-da-sw-12-0-support-masshunter-qual-12-0-declaration-of-software-quality-pdf",
+      "sha16": "2dff3525f9f6ce1e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-g3336-10010-mh-qual-da-sw-12-0-support-masshunter-qual-12-0-declaration-of-software-quality-pdf.md",
+      "title": "MassHunter Qual 12.0 Declaration of Software Quality",
+      "source_id": "Analytical Chemistry/Jon K - Public/G3336-10010 MH Qual DA SW 12.0/Support/MassHunter Qual 12.0 Declaration of Software Quality.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-g3336-10010-mh-qual-da-sw-12-0-support-ssb-mhqual-12-0-srb-pdf",
+      "sha16": "12e68c77420c5d67",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-g3336-10010-mh-qual-da-sw-12-0-support-ssb-mhqual-12-0-srb-pdf.md",
+      "title": "MHQual_12.0_SRB",
+      "source_id": "Analytical Chemistry/Jon K - Public/G3336-10010 MH Qual DA SW 12.0/Support/SSB/MHQual_12.0_SRB.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-20230913-1123-hcl-quant-gradient-pdf",
+      "sha16": "e0fdedcd4be6efca",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-20230913-1123-hcl-quant-gradient-pdf.md",
+      "title": "20230913 1123 HCl quant gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/20230913 1123 HCl quant gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-20230913-1123-hcl-quant-isocratic-pdf",
+      "sha16": "ef0d93afa9bdedd3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-hcl-analysis-20230913-1123-hcl-quant-isocratic-pdf.md",
+      "title": "20230913 1123 HCl quant isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/HCl Analysis/20230913 1123 HCl quant isocratic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-ic-report-20220831-salt-eq-9-samples-tfa-js-pdf",
+      "sha16": "6bd0c8de7f9fd7a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-ic-report-20220831-salt-eq-9-samples-tfa-js-pdf.md",
+      "title": "20220831 salt EQ 9 samples TFA_JS",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/ic report/20220831 salt EQ 9 samples TFA_JS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tartaric-acid-20220929-1607-tartaric-acid-gradient-pdf",
+      "sha16": "f054c63ab851c44b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tartaric-acid-20220929-1607-tartaric-acid-gradient-pdf.md",
+      "title": "20220929 1607 tartaric acid gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/Tartaric Acid/20220929 1607 tartaric acid gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tartaric-acid-20220929-1607-tartaric-acid-isocratic-pdf",
+      "sha16": "679c54b8dc152bc2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tartaric-acid-20220929-1607-tartaric-acid-isocratic-pdf.md",
+      "title": "20220929 1607 tartaric acid isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/Tartaric Acid/20220929 1607 tartaric acid isocratic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220418-tfa-quantoriginal-46-48-51-pdf",
+      "sha16": "37b672307b5a74da",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220418-tfa-quantoriginal-46-48-51-pdf.md",
+      "title": "20220418 TFA quantoriginal 46 48 51",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220418 TFA quantoriginal 46 48 51.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220419-tfa-quant-new-column-iso-46-48-51-pdf",
+      "sha16": "2d116c7ab4c6e6bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220419-tfa-quant-new-column-iso-46-48-51-pdf.md",
+      "title": "20220419 TFA quant new column iso 46 48 51",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220419 TFA quant new column iso 46 48 51.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220613-tfa-quant-gradient-0401352-pdf",
+      "sha16": "05507b074406418c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220613-tfa-quant-gradient-0401352-pdf.md",
+      "title": "20220613 tfa quant gradient 0401352",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220613 tfa quant gradient 0401352.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220613-tfa-quant-isocratic-0401352-pdf",
+      "sha16": "0ec811690e31d64a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220613-tfa-quant-isocratic-0401352-pdf.md",
+      "title": "20220613 tfa quant isocratic 0401352",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220613 tfa quant isocratic 0401352.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220907-gradient-tfa-quant-pdf",
+      "sha16": "083aa1e26c35fe3a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220907-gradient-tfa-quant-pdf.md",
+      "title": "20220907 gradient TFA quant",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220907 gradient TFA quant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220907-isocratice-tfa-quant-pdf",
+      "sha16": "d01c722ceccca7e9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220907-isocratice-tfa-quant-pdf.md",
+      "title": "20220907 isocratice TFA quant",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220907 isocratice TFA quant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220913-tfa-js-and-el---gradient-pdf",
+      "sha16": "c6f2d063c7442259",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220913-tfa-js-and-el---gradient-pdf.md",
+      "title": "20220913 TFA JS and EL - gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220913 TFA JS and EL - gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220913-tfa-js-and-el---isocratic-pdf",
+      "sha16": "4a227b6ce4f36cd3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20220913-tfa-js-and-el---isocratic-pdf.md",
+      "title": "20220913 TFA JS and EL - isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20220913 TFA JS and EL - isocratic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20221115-stat6-25-6884-7351-pdf",
+      "sha16": "d59312ed6c0b3840",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20221115-stat6-25-6884-7351-pdf.md",
+      "title": "20221115 STAT6 25 6884 7351",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20221115 STAT6 25 6884 7351.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20221115-stat6-6884-7351-ic-gradient-pdf",
+      "sha16": "b14b942f75be0f31",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20221115-stat6-6884-7351-ic-gradient-pdf.md",
+      "title": "20221115 STAT6 6884 7351 IC gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20221115 STAT6 6884 7351 IC gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230207-stat6-isocratic-pdf",
+      "sha16": "81b223b7fb0d900a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230207-stat6-isocratic-pdf.md",
+      "title": "20230207 STAT6 isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230207 STAT6 isocratic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230207-stat6-tfa-eq-pdf",
+      "sha16": "aad7d66cf736791f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230207-stat6-tfa-eq-pdf.md",
+      "title": "20230207 STAT6 TFA EQ",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230207 STAT6 TFA EQ.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230321-stat6-tfa-for-j-gradient-pdf",
+      "sha16": "7b7b4a35cc6c64b7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230321-stat6-tfa-for-j-gradient-pdf.md",
+      "title": "20230321 STAT6 TFA for J gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230321 STAT6 TFA for J gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230321-stat6-tfa-for-j-isocratic-pdf",
+      "sha16": "ede193c498cae225",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230321-stat6-tfa-for-j-isocratic-pdf.md",
+      "title": "20230321 STAT6 TFA for J isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230321 STAT6 TFA for J isocratic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230329-stat6-tfa--iso-pdf",
+      "sha16": "1492efc1b88588a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230329-stat6-tfa--iso-pdf.md",
+      "title": "20230329 STAT6 TFA -iso",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230329 STAT6 TFA -iso.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230329-stat6-tfa-grad-pdf",
+      "sha16": "0e9a18f76aed1118",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230329-stat6-tfa-grad-pdf.md",
+      "title": "20230329 STAT6 TFA grad",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230329 STAT6 TFA grad.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230413-stat6-7351-007-gradient-pdf",
+      "sha16": "3e995c147dfc88da",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230413-stat6-7351-007-gradient-pdf.md",
+      "title": "20230413_STAT6_7351-007 gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230413_STAT6_7351-007 gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230413-stat6-7351-007-iso-pdf",
+      "sha16": "75cb78e310162aff",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230413-stat6-7351-007-iso-pdf.md",
+      "title": "20230413_STAT6_7351-007 ISO",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230413_STAT6_7351-007 ISO.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230428-wk17-stat6-hpk1-std-pbs-fa-fe-sgf-pdf",
+      "sha16": "61abd0b7b8da97be",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230428-wk17-stat6-hpk1-std-pbs-fa-fe-sgf-pdf.md",
+      "title": "20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230428 WK17 STAT6 HPK1 STD PBS FA FE SGF.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230508-stat6-tfa-3446-3521-gradient-pdf",
+      "sha16": "f8bd8a4f4501ca8c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230508-stat6-tfa-3446-3521-gradient-pdf.md",
+      "title": "20230508 STAT6 TFA 3446 3521 gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230508 STAT6 TFA 3446 3521 gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230508-stat6-tfa-3446-3521isocratic-pdf",
+      "sha16": "391011d5b597b284",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230508-stat6-tfa-3446-3521isocratic-pdf.md",
+      "title": "20230508 STAT6 TFA 3446 3521isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230508 STAT6 TFA 3446 3521isocratic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230609-stat6-hpk1-tfa-gradient-pdf",
+      "sha16": "8594c239a7b1982b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230609-stat6-hpk1-tfa-gradient-pdf.md",
+      "title": "20230609_STAT6_HPK1_TFA gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230609_STAT6_HPK1_TFA gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230609-stat6-hpk1-tfa-isocratic-pdf",
+      "sha16": "c524106dc1782fe8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230609-stat6-hpk1-tfa-isocratic-pdf.md",
+      "title": "20230609_STAT6_HPK1_TFA isocratic",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230609_STAT6_HPK1_TFA isocratic.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230829-stat6-tfa-gradient-pdf",
+      "sha16": "ea284485e5ccca89",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230829-stat6-tfa-gradient-pdf.md",
+      "title": "20230829 STAT6 TFA gradient",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230829 STAT6 TFA gradient.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230925-tfa-ic-grad-pdf",
+      "sha16": "c5ef61e167681831",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230925-tfa-ic-grad-pdf.md",
+      "title": "20230925 TFA IC Grad",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230925 TFA IC Grad.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230925-tfa-ic-iso-pdf",
+      "sha16": "727545923bf696c2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20230925-tfa-ic-iso-pdf.md",
+      "title": "20230925 TFA IC Iso",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20230925 TFA IC Iso.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20231001-smarca2-tfa-ion-quant-pdf",
+      "sha16": "685dd3231048dfd4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-ic-ion-analysis-reports-tfa-analysis-20231001-smarca2-tfa-ion-quant-pdf.md",
+      "title": "20231001 SMARCA2 TFA ion quant",
+      "source_id": "Analytical Chemistry/Jon K - Public/IC Ion Analysis Reports/TFA Analysis/20231001 SMARCA2 TFA ion quant.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-an-93-ic-trace-anions-concentrated-bases-lpn1886-en-pdf",
+      "sha16": "c145101d94b70394",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-an-93-ic-trace-anions-concentrated-bases-lpn1886-en-pdf.md",
+      "title": "AN-93-IC-Trace-Anions-Concentrated-Bases-LPN1886-EN",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/AN-93-IC-Trace-Anions-Concentrated-Bases-LPN1886-EN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-au-204-ic-cations-ammonium-water-au72033-en-pdf",
+      "sha16": "88509fcb72fa7634",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-au-204-ic-cations-ammonium-water-au72033-en-pdf.md",
+      "title": "AU-204-IC-Cations-Ammonium-Water-AU72033-EN",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/AU-204-IC-Cations-Ammonium-Water-AU72033-EN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-class-3-license-with-3d-new-20240515-6r9u-2-pdf",
+      "sha16": "02fb56c4c474db10",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-class-3-license-with-3d-new-20240515-6r9u-2-pdf.md",
+      "title": "class 3 license  with 3D new 20240515 6R9U-2",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/class 3 license  with 3D new 20240515 6R9U-2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-class-3-license-with-3d-new-20240515-eah8-n-pdf",
+      "sha16": "b44b58996abb6c2f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-class-3-license-with-3d-new-20240515-eah8-n-pdf.md",
+      "title": "class 3 license  with 3D new 20240515 EAH8-N",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/class 3 license  with 3D new 20240515 EAH8-N.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-flow-mixer-and-splitter-pdf",
+      "sha16": "c7589a9239f5871b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-flow-mixer-and-splitter-pdf.md",
+      "title": "flow mixer and splitter",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/flow mixer and splitter.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-jonathan-keller-1670-owen-are-overnight-parking-authorization-fo-b57b694eb1",
+      "sha16": "f065496487fccdb4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-jonathan-keller-1670-owen-are-overnight-parking-authorization-fo-b57b694eb1.md",
+      "title": "Jonathan_Keller_1670 Owen ARE Overnight Parking Authorization Form 12202023",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Jonathan_Keller_1670 Owen ARE Overnight Parking Authorization Form 12202023.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-man-065018-eluent-generator-cartridge-man065018-en-pdf",
+      "sha16": "a9aef11829299433",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-man-065018-eluent-generator-cartridge-man065018-en-pdf.md",
+      "title": "Man-065018-Eluent-Generator-Cartridge-MAN065018-EN",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Man-065018-Eluent-Generator-Cartridge-MAN065018-EN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-man-22153-97003-ic-integrion-man2215397003-en-pdf",
+      "sha16": "2129fcae4bee4f48",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-man-22153-97003-ic-integrion-man2215397003-en-pdf.md",
+      "title": "Man-22153-97003-IC-Integrion-Man2215397003-EN",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Man-22153-97003-IC-Integrion-Man2215397003-EN.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-contract-40367101-pdf",
+      "sha16": "d9d354535e90bb88",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-contract-40367101-pdf.md",
+      "title": "Contract 40367101",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Thermo UV CAD MS/Contract 40367101.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-em-ms-technical-specs-pdf",
+      "sha16": "e1685923c5f9f0cc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-em-ms-technical-specs-pdf.md",
+      "title": "EM MS technical specs",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Thermo UV CAD MS/EM MS technical specs.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-operating-manual-em-and-ec-pdf",
+      "sha16": "654d977b06f9ba33",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-operating-manual-em-and-ec-pdf.md",
+      "title": "operating manual EM and EC",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Thermo UV CAD MS/operating manual EM and EC.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-thermo-split-sampler-set-up-pdf",
+      "sha16": "6c28444e7cb6fbc6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-thermo-split-sampler-set-up-pdf.md",
+      "title": "Thermo split sampler set up",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Thermo UV CAD MS/Thermo split sampler set up.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-vanquish-pumpf-set-up-pdf",
+      "sha16": "f1f7e7ba365fdee7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-instrumentation-hardware-information-thermo-uv-cad-ms-vanquish-pumpf-set-up-pdf.md",
+      "title": "Vanquish-PumpF set up",
+      "source_id": "Analytical Chemistry/Jon K - Public/Instrumentation hardware information/Thermo UV CAD MS/Vanquish-PumpF set up.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-keller-jon-48202214269-pdf",
+      "sha16": "aa1329b5d7a5669b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-keller-jon-48202214269-pdf.md",
+      "title": "Keller_Jon_48202214269",
+      "source_id": "Analytical Chemistry/Jon K - Public/Keller_Jon_48202214269.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-logd-chromatographic-reults-20230501-logd-stat6-and-hpk1-20230512-stat6-12-hpk-4-logd7-4-pdf",
+      "sha16": "797ae368b6afca60",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-logd-chromatographic-reults-20230501-logd-stat6-and-hpk1-20230512-stat6-12-hpk-4-logd7-4-pdf.md",
+      "title": "20230512 STAT6 12 HPK 4 LogD7.4",
+      "source_id": "Analytical Chemistry/Jon K - Public/LogD chromatographic reults/20230501 logD stat6 and HPK1/20230512 STAT6 12 HPK 4 LogD7.4.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-masshunter-working-no-lic-copy-quant-10-2-additional-schema-librarydataset-10-0-pdf",
+      "sha16": "5a2eccba4a6b7c20",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-masshunter-working-no-lic-copy-quant-10-2-additional-schema-librarydataset-10-0-pdf.md",
+      "title": "LibraryDataSet_10_0",
+      "source_id": "Analytical Chemistry/Jon K - Public/MassHunter WORKING no lic copy/Quant 10.2/Additional/Schema/LibraryDataSet_10_0.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-masshunter-working-no-lic-copy-quant-10-2-additional-schema-unknownsanalysisdataset-10-1-pdf",
+      "sha16": "027fb2af08e8ec45",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-masshunter-working-no-lic-copy-quant-10-2-additional-schema-unknownsanalysisdataset-10-1-pdf.md",
+      "title": "UnknownsAnalysisDataSet_10_1",
+      "source_id": "Analytical Chemistry/Jon K - Public/MassHunter WORKING no lic copy/Quant 10.2/Additional/Schema/UnknownsAnalysisDataSet_10_1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s0021967311009678-main-pdf",
+      "sha16": "856437d61e5e2fad",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s0021967311009678-main-pdf.md",
+      "title": "1-s2.0-S0021967311009678-main",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/1-s2.0-S0021967311009678-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s0928098715002043-main-pdf",
+      "sha16": "010c827a7d5f799c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s0928098715002043-main-pdf.md",
+      "title": "1-s2.0-S0928098715002043-main",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/1-s2.0-S0928098715002043-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s0928098715300282-main-pdf",
+      "sha16": "3eac6dcee724f30f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s0928098715300282-main-pdf.md",
+      "title": "1-s2.0-S0928098715300282-main",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/1-s2.0-S0928098715300282-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s1359644610001923-main-pdf",
+      "sha16": "57479511b2823f76",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s1359644610001923-main-pdf.md",
+      "title": "1-s2.0-S1359644610001923-main",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/1-s2.0-S1359644610001923-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s1359644611001796-main-pdf",
+      "sha16": "8dbce8a4ba481e8c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-1-s2-0-s1359644611001796-main-pdf.md",
+      "title": "1-s2.0-S1359644611001796-main",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/1-s2.0-S1359644611001796-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-cerep-partition-coefficient-logd-pdf",
+      "sha16": "47f5a0245e06ce38",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-cerep-partition-coefficient-logd-pdf.md",
+      "title": "CEREP Partition coefficient-LogD",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/CEREP Partition coefficient-LogD.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-gruskae-08jchta-octanolinmobilephase-pdf",
+      "sha16": "2165714d4fc478a6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-gruskae-08jchta-octanolinmobilephase-pdf.md",
+      "title": "GruskaE_08JChtA_OctanolinMobilePhase",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/GruskaE_08JChtA_OctanolinMobilePhase.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-2005-yen-pdf",
+      "sha16": "21df5d3acd494214",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-2005-yen-pdf.md",
+      "title": "IAM_2005_Yen",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/IAM_2005_Yen.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-2015-bocian-pdf",
+      "sha16": "686630e335b3c458",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-2015-bocian-pdf.md",
+      "title": "IAM_2015_Bocian",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/IAM_2015_Bocian.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-bbb-grumetto2012-pdf",
+      "sha16": "4ed3efdacabab414",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-bbb-grumetto2012-pdf.md",
+      "title": "IAM_BBB_Grumetto2012",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/IAM_BBB_Grumetto2012.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-bbb-grumetto2014-pdf",
+      "sha16": "df86d438036a8f5b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-bbb-grumetto2014-pdf.md",
+      "title": "IAM_BBB_Grumetto2014",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/IAM_BBB_Grumetto2014.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-octanol-barbato2007-pdf",
+      "sha16": "cf9fb01cb2cdaaf6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-octanol-barbato2007-pdf.md",
+      "title": "IAM_octanol_Barbato2007",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/IAM_octanol_Barbato2007.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-salminen1997-pdf",
+      "sha16": "a12ef11cc1cf5cbe",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-iam-salminen1997-pdf.md",
+      "title": "IAM_Salminen1997",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/IAM_Salminen1997.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-liux-05jchta-evvectoctanolrp-pdf",
+      "sha16": "55cc3337e80279f9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-liux-05jchta-evvectoctanolrp-pdf.md",
+      "title": "LiuX_05JChtA_EvvectOctanolRP",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/LiuX_05JChtA_EvvectOctanolRP.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-logp-2017-pdf",
+      "sha16": "3bfb57e473ac5607",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-logp-2017-pdf.md",
+      "title": "logP_2017",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/logP_2017.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reading-material-lombardof-01jmedchem-logdcht-pdf",
+      "sha16": "d149755632459b03",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reading-material-lombardof-01jmedchem-logdcht-pdf.md",
+      "title": "LombardoF_01JMedChem_LogDCht",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reading Material/LombardoF_01JMedChem_LogDCht.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reports-0828-13-aq-quant-with-2127-pdf",
+      "sha16": "0c1c7c0eb3ced5c8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reports-0828-13-aq-quant-with-2127-pdf.md",
+      "title": "0828-13-AQ quant with 2127",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reports/0828-13-AQ quant with 2127.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-reports-rmi-elemental-anlysis-1352-007-008-pdf",
+      "sha16": "8f109e40f87e7207",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-reports-rmi-elemental-anlysis-1352-007-008-pdf.md",
+      "title": "RMI elemental anlysis 1352 007 008",
+      "source_id": "Analytical Chemistry/Jon K - Public/Reports/RMI elemental anlysis 1352 007 008.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-softmax-pro-user-guide-pdf",
+      "sha16": "4c494df68992ef8d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-softmax-pro-user-guide-pdf.md",
+      "title": "SoftMax_Pro_User_Guide",
+      "source_id": "Analytical Chemistry/Jon K - Public/SoftMax_Pro_User_Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-tsca-nurix-2022-09-09-pdf",
+      "sha16": "b04d174e8102dd57",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-tsca-nurix-2022-09-09-pdf.md",
+      "title": "TSCA_Nurix_2022-09-09",
+      "source_id": "Analytical Chemistry/Jon K - Public/TSCA_Nurix_2022-09-09.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-waters-driver-pack-2019-r1-installation-kit-esatin-1-30-1023-71500049404ra-pdf",
+      "sha16": "0946c9a3377e5c71",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-waters-driver-pack-2019-r1-installation-kit-esatin-1-30-1023-71500049404ra-pdf.md",
+      "title": "71500049404rA",
+      "source_id": "Analytical Chemistry/Jon K - Public/Waters Driver Pack 2019 R1/Installation kit/eSATIN 1.30.1023/71500049404rA.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-waters-driver-pack-2019-r1-other-documentation-waters-dp-2019-r1-icg-715006151ra-pdf",
+      "sha16": "a83ff91d9040c3a0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-waters-driver-pack-2019-r1-other-documentation-waters-dp-2019-r1-icg-715006151ra-pdf.md",
+      "title": "waters_dp_2019_r1_icg_715006151ra",
+      "source_id": "Analytical Chemistry/Jon K - Public/Waters Driver Pack 2019 R1/Other documentation/waters_dp_2019_r1_icg_715006151ra.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-waters-driver-pack-2019-r1-other-documentation-waters-driver-pack-2019-release-1-rn-716006125ra-pdf",
+      "sha16": "75b1dfc93a671a9d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-waters-driver-pack-2019-r1-other-documentation-waters-driver-pack-2019-release-1-rn-716006125ra-pdf.md",
+      "title": "waters_driver_pack_2019_release_1_rn_716006125ra",
+      "source_id": "Analytical Chemistry/Jon K - Public/Waters Driver Pack 2019 R1/Other documentation/waters_driver_pack_2019_release_1_rn_716006125ra.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jon-k---public-waters-driver-pack-2019-r1-other-documentation-waters-driver-pack-known-and-fixed---2018---2019-715005660rc-pdf",
+      "sha16": "2ad9a8b29cf46a13",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jon-k---public-waters-driver-pack-2019-r1-other-documentation-waters-driver-pack-known-and-fixed---2018---2019-715005660rc-pdf.md",
+      "title": "waters_driver_pack_known_and_fixed_-_2018_-_2019_715005660rc",
+      "source_id": "Analytical Chemistry/Jon K - Public/Waters Driver Pack 2019 R1/Other documentation/waters_driver_pack_known_and_fixed_-_2018_-_2019_715005660rc.pdf",
+      "confidence": "low"
+    }
+  ]
+}

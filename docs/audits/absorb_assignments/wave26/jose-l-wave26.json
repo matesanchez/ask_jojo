@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-wave26",
+  "wiki_dir": "references",
+  "wave": "wave26",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-acs-analchem-9b00142-pdf",
+      "sha16": "dfa2f523554b0517",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-acs-analchem-9b00142-pdf.md",
+      "title": "acs.analchem.9b00142",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/acs.analchem.9b00142.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-acs-jmedchem-5b01409-pdf",
+      "sha16": "1488f6c8360aa49f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-acs-jmedchem-5b01409-pdf.md",
+      "title": "acs.jmedchem.5b01409",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/acs.jmedchem.5b01409.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-acscombsci-5b00131-pdf",
+      "sha16": "44747be5993a8b11",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-acscombsci-5b00131-pdf.md",
+      "title": "acscombsci.5b00131",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/acscombsci.5b00131.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-acscombsci-8b00116-pdf",
+      "sha16": "f981a48160888c3d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-acscombsci-8b00116-pdf.md",
+      "title": "acscombsci.8b00116",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/acscombsci.8b00116.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-eaar6236-full-pdf",
+      "sha16": "d85190c087d8ff4c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-eaar6236-full-pdf.md",
+      "title": "eaar6236.full",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/eaar6236.full.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-nanomole-scale-high-throughput-chemistry-for-the-synthesis-o-f67abc91ad",
+      "sha16": "75a98d4329da3815",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-slas-2020-nanomole-scale-high-throughput-chemistry-for-the-synthesis-o-f67abc91ad.md",
+      "title": "Nanomole-scale high-throughput chemistry for the synthesis of complex molecules",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/SLAS 2020/Nanomole-scale high-throughput chemistry for the synthesis of complex molecules.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-solid-phase-extraction-literature-porapak-reaction-cartridges-pdf",
+      "sha16": "659a8ed1586159a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-solid-phase-extraction-literature-porapak-reaction-cartridges-pdf.md",
+      "title": "PoraPak Reaction Cartridges",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Solid Phase Extraction Literature/PoraPak Reaction Cartridges.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-solid-phase-extraction-literature-porapak-rxn-cartridges-brochure-pdf",
+      "sha16": "808a3612f1612bd8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-solid-phase-extraction-literature-porapak-rxn-cartridges-brochure-pdf.md",
+      "title": "PoraPak Rxn Cartridges Brochure",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Solid Phase Extraction Literature/PoraPak Rxn Cartridges Brochure.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-solid-phase-extraction-literature-poster-p-fluorous-phase-separation-pdf",
+      "sha16": "2ab0e9024978f3ae",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-solid-phase-extraction-literature-poster-p-fluorous-phase-separation-pdf.md",
+      "title": "poster-p-fluorous-phase-separation",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Solid Phase Extraction Literature/poster-p-fluorous-phase-separation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-useful-materials-april-8-2021---nurix-therapeutics--jl-pdf",
+      "sha16": "cc81e2ded13b4d01",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-literature-useful-materials-april-8-2021---nurix-therapeutics--jl-pdf.md",
+      "title": "April 8 2021 - Nurix Therapeutics -JL",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Literature/Useful Materials/April 8 2021 - Nurix Therapeutics -JL.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-porapak-reaction-cartridges-pdf",
+      "sha16": "659a8ed1586159a5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-porapak-reaction-cartridges-pdf.md",
+      "title": "PoraPak Reaction Cartridges",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/PoraPak Reaction Cartridges.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-porapak-rxn-cartridges-brochure-pdf",
+      "sha16": "808a3612f1612bd8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-porapak-rxn-cartridges-brochure-pdf.md",
+      "title": "PoraPak Rxn Cartridges Brochure",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/PoraPak Rxn Cartridges Brochure.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-pulse-manuals-im10003-pulse-instruction-manual-rev-b-pdf",
+      "sha16": "720811157a5f5cb3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-pulse-manuals-im10003-pulse-instruction-manual-rev-b-pdf.md",
+      "title": "IM10003 Pulse Instruction Manual Rev B",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Pulse Manuals/IM10003 Pulse Instruction Manual Rev B.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-21864234-pdf",
+      "sha16": "e0118a8e2d38e122",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-21864234-pdf.md",
+      "title": "21864234",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/21864234.PDF",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-21952980-jleighton-degasserpump-pdf",
+      "sha16": "f22fe99cafc6ed70",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-21952980-jleighton-degasserpump-pdf.md",
+      "title": "21952980_JLeighton_DegasserPump",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/21952980_JLeighton_DegasserPump.PDF",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-22032507-pdf",
+      "sha16": "75417487b1f31c0a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-22032507-pdf.md",
+      "title": "22032507",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/22032507.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-22104877-jleighton-empower3-pdf",
+      "sha16": "c65f6d1a8caaa008",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-22104877-jleighton-empower3-pdf.md",
+      "title": "22104877_JLeighton_Empower3",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/22104877_JLeighton_Empower3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-nurix-quote-53-pdf",
+      "sha16": "d55e6e5b6f613561",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-nurix-quote-53-pdf.md",
+      "title": "Nurix Quote 53",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/Nurix Quote 53.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-oa-0021959888-pdf",
+      "sha16": "49989ca2bbb79adf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-oa-0021959888-pdf.md",
+      "title": "OA_0021959888",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/OA_0021959888.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-print-data-pdf",
+      "sha16": "aa6bfbc5ab826935",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-print-data-pdf.md",
+      "title": "Print data",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/Print data.PDF",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quotation-q10-3352-pdf",
+      "sha16": "0aa019cf2ea58b3e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quotation-q10-3352-pdf.md",
+      "title": "Quotation_Q10.3352",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/Quotation_Q10.3352.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quote-0021865126-znam-pdf",
+      "sha16": "3c7ab1bf63176fc8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quote-0021865126-znam-pdf.md",
+      "title": "Quote_0021865126_ZNAM",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/Quote_0021865126_ZNAM.PDF",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quote-no-22187179-pdf",
+      "sha16": "d0b439d376ce037b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quote-no-22187179-pdf.md",
+      "title": "Quote No. 22187179",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/Quote No. 22187179.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quote-qu11579-nurix-therapeutics-inc-nimbus-lh-pdf",
+      "sha16": "b84db1529acd25e1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quote-qu11579-nurix-therapeutics-inc-nimbus-lh-pdf.md",
+      "title": "Quote # QU11579 Nurix Therapeutics Inc (Nimbus LH)",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/Quote # QU11579 Nurix Therapeutics Inc (Nimbus LH).pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quote31000---nurix---july-1-2019-pdf",
+      "sha16": "30b625e7b095f10e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2019-quote31000---nurix---july-1-2019-pdf.md",
+      "title": "Quote31000 - Nurix - July 1 2019",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2019/Quote31000 - Nurix - July 1 2019.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2020-22314454-jleighton-diaphragm-pump-pdf",
+      "sha16": "23a54056e3273639",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2020-22314454-jleighton-diaphragm-pump-pdf.md",
+      "title": "22314454_JLeighton_Diaphragm_Pump",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2020/22314454_JLeighton_Diaphragm_Pump.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2020-oa-0022226742-pdf",
+      "sha16": "3f1826a390134e59",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2020-oa-0022226742-pdf.md",
+      "title": "OA_0022226742",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2020/OA_0022226742.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2020-us926487---nurix-jose-l-luna-ps-c18-analytical-pdf",
+      "sha16": "984dcbc2c765512f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-quotes-2020-us926487---nurix-jose-l-luna-ps-c18-analytical-pdf.md",
+      "title": "US926487 - Nurix (Jose L.) Luna PS C18 Analytical",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Quotes/2020/US926487 - Nurix (Jose L.) Luna PS C18 Analytical.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-2767-sample-manager-instal-and-maintenance-guide-pdf",
+      "sha16": "e24576a21e296d53",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-2767-sample-manager-instal-and-maintenance-guide-pdf.md",
+      "title": "2767 Sample Manager Instal and Maintenance Guide",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/2767 Sample Manager Instal and Maintenance Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-a-to-d-convertor-paper-dec-1997-pdf",
+      "sha16": "9964b358173856a1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-a-to-d-convertor-paper-dec-1997-pdf.md",
+      "title": "A to D Convertor Paper Dec 1997",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/A to D Convertor Paper Dec 1997.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-h-class-qsm-overview-and-maintenance-pdf",
+      "sha16": "c7e82800e411da82",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-h-class-qsm-overview-and-maintenance-pdf.md",
+      "title": "acquity_h-class_qsm_overview_and_maintenance",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/acquity_h-class_qsm_overview_and_maintenance.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-h-class-sm-ftn-overview-and-maint-info-rc-pdf",
+      "sha16": "00221fa0ef1cebe0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-h-class-sm-ftn-overview-and-maint-info-rc-pdf.md",
+      "title": "acquity_h-class_sm-ftn_overview_and_maint_info_rc",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/acquity_h-class_sm-ftn_overview_and_maint_info_rc.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-i-class-system-operators-guide-pdf",
+      "sha16": "c14f621fae952040",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-acquity-i-class-system-operators-guide-pdf.md",
+      "title": "Acquity I Class System Operators Guide",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Acquity I Class System Operators Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-empower-3-installation-configuration-and-upgrade-guide-715006184ra-pdf",
+      "sha16": "b63962639cea655c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-empower-3-installation-configuration-and-upgrade-guide-715006184ra-pdf.md",
+      "title": "empower_3_installation_configuration_and_upgrade_guide_715006184ra",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/empower_3_installation_configuration_and_upgrade_guide_715006184ra.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-qda-pdf",
+      "sha16": "cec328714249508e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-qda-pdf.md",
+      "title": "QDa",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/QDa.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-sqd2-familiarization-guide-pdf",
+      "sha16": "fda8db68b52b10cc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-sqd2-familiarization-guide-pdf.md",
+      "title": "SQD2 Familiarization Guide",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/SQD2 Familiarization Guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-2489-uv-vis-detector-manual-pdf",
+      "sha16": "f0d10280f7d16352",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-2489-uv-vis-detector-manual-pdf.md",
+      "title": "Waters_2489_UV_Vis_Detector_Manual",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters_2489_UV_Vis_Detector_Manual.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-2545-quaternary-gradient-module-manual-pdf",
+      "sha16": "946f02ff7e983842",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-2545-quaternary-gradient-module-manual-pdf.md",
+      "title": "Waters_2545_Quaternary_Gradient_Module_Manual",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters_2545_Quaternary_Gradient_Module_Manual.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-2767-installation-and-maintenance-guide-pdf",
+      "sha16": "2baad82c816e3e4c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-2767-installation-and-maintenance-guide-pdf.md",
+      "title": "Waters_2767_Installation_and_maintenance_guide",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters_2767_Installation_and_maintenance_guide.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-515-pump-manual-pdf",
+      "sha16": "3c7f2bc3da984d00",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-instrument-and-lit-waters-manuals-waters-515-pump-manual-pdf.md",
+      "title": "Waters_515_Pump_Manual",
+      "source_id": "Analytical Chemistry/Jose L - public/Instrument and Lit/Waters Manuals/Waters_515_Pump_Manual.pdf",
+      "confidence": "low"
+    }
+  ]
+}

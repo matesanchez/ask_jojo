@@ -1,0 +1,31 @@
+{
+  "assignment": "science-medium-conf-wave19",
+  "wiki_dir": "concepts",
+  "wave": "wave19",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-cyp-time-dependent-inhibition-assay-protocol-pdf",
+      "sha16": "854637459a0ad4bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-quintara-2022-procedures-quintara-discovery-cyp-time-dependent-inhibition-assay-protocol-pdf.md",
+      "title": "Quintara Discovery CYP Time-Dependent Inhibition Assay Protocol",
+      "source_id": "Analytical Chemistry/Quintara/2022/Procedures/Quintara Discovery CYP Time-Dependent Inhibition Assay Protocol.pdf",
+      "confidence": "high"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-purification-process-docx",
+      "sha16": "5950709a7e9b1454",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-purification-process-docx.md",
+      "title": "Purification Process",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Guides and Training/Purifications/Purification Process.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-purification-schedule-sip-docx",
+      "sha16": "a1114c436a13a789",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-natalie-d-public-guides-and-training-purifications-purification-schedule-sip-docx.md",
+      "title": "Purification Schedule (SIP)",
+      "source_id": "Analytical Chemistry/Natalie D-Public/Guides and Training/Purifications/Purification Schedule (SIP).docx",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -414,3 +414,6 @@ Executed the wiki-coverage recovery (`GOAL_PROMPT_WIKI_RECOVERY.md`) as a deep f
 - 2026-06-03 wave26-28: +3 absorbed, +797 reclassified; 3 pages (hpk1-si-2020-lit, ot2-buffer-addition, knauer-80p-sensor). Remaining KP: 259.
 - 2026-06-03 wave29 (FINAL): +0 absorbed, +259 reclassified; 0 pages. **BACKLOG EXHAUSTED — 0 remaining KP entries.**
   Total run: 5636 KP entries processed across 29 waves. Wiki grew from 370 → 403 pages (403 committed). ~1,445 truly absorbed into pages, ~4,191 reclassified as individual_user_data/personal_confirmed. Session started 2026-06-03.
+
+## 2026-06-03 - FU-20 closure review
+Overnight run completed the backlog: knowledge_promote 100% processed (4,738 absorbed / 898 reclassified / 0 remaining); wiki at 404 pages. Independent Opus audit of waves 6-28 (n=28): 0 fabrications, 1 thin page. Fixed in review: 281 `sha256:`->`hash:` key renames; 69 broken source paths repointed via valid hashes (0 non-resolving remain, of 1,392). schema/orphan PASS; hash integrity 50/50. Outstanding: wiki .git index corrupt (repair on Windows + commit cleanup); coverage_check should ignore absorbed-via/reclassified entries (follow-up); run-log gap waves 16-28. Report: docs/reviews/2026-06-03-fu-20-closure-review.md.

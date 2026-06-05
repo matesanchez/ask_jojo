@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-low-batch1-wave20",
+  "wiki_dir": "references",
+  "wave": "wave20",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-iam-raw-data-chromatograms-and-data-processing-200310-iam-pdb-01-pdf",
+      "sha16": "d286e3c0a0cfc791",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-iam-raw-data-chromatograms-and-data-processing-200310-iam-pdb-01-pdf.md",
+      "title": "200310_IAM_PDB_01",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/IAM/Raw Data Chromatograms and Data Processing/200310_IAM_PDB_01.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-iam-raw-data-chromatograms-and-data-processing-200311-iam-pbs-pdf",
+      "sha16": "92a5566529919056",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-iam-raw-data-chromatograms-and-data-processing-200311-iam-pbs-pdf.md",
+      "title": "200311_IAM_PBS",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/IAM/Raw Data Chromatograms and Data Processing/200311_IAM_PBS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-iam-raw-data-chromatograms-and-data-processing-200313-iam-run-pbs-pdf",
+      "sha16": "1e625d710f77d0d6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-iam-raw-data-chromatograms-and-data-processing-200313-iam-run-pbs-pdf.md",
+      "title": "200313_IAM_Run_PBS",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/IAM/Raw Data Chromatograms and Data Processing/200313_IAM_Run_PBS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-april-8-2021---nurix-therapeutics--jl-pdf",
+      "sha16": "cc81e2ded13b4d01",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-april-8-2021---nurix-therapeutics--jl-pdf.md",
+      "title": "April 8 2021 - Nurix Therapeutics -JL",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/April 8 2021 - Nurix Therapeutics -JL.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-an-intestine-on-a-chip-model-of-plug-andplay-modularity-to-study-inflammatory-df5510d893",
+      "sha16": "ff583201afc11d5c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-an-intestine-on-a-chip-model-of-plug-andplay-modularity-to-study-inflammatory-df5510d893.md",
+      "title": "An Intestine-on-a-Chip Model of Plug-andPlay Modularity to Study Inflammatory - June 2020",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/Mimetas/An Intestine-on-a-Chip Model of Plug-andPlay Modularity to Study Inflammatory - June 2020.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-development-of-a-gut-on-a-chip-model-for-high---november-2019-pdf",
+      "sha16": "6821e4363b558157",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-development-of-a-gut-on-a-chip-model-for-high---november-2019-pdf.md",
+      "title": "Development of a Gut-on-a-Chip Model for High - November 2019",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/Mimetas/Development of a Gut-on-a-Chip Model for High - November 2019.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-direct-on-chip-differentiation-of-intestinal-tubules-from-induced-pluripotent-s-d5ead9d7ac",
+      "sha16": "b4b6bc122abe236c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-mimetas-mimetas-direct-on-chip-differentiation-of-intestinal-tubules-from-induced-pluripotent-s-d5ead9d7ac.md",
+      "title": "Direct On-Chip Differentiation of Intestinal Tubules from Induced Pluripotent Stem Cells",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Mimetas/Mimetas/Direct On-Chip Differentiation of Intestinal Tubules from Induced Pluripotent Stem Cells.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-literature-1-s2-0-s1359644620301197-main-pdf",
+      "sha16": "388f907289e8d1fa",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-literature-1-s2-0-s1359644620301197-main-pdf.md",
+      "title": "1-s2.0-S1359644620301197-main",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Plasma Metabolic Stability/Literature/1-s2.0-S1359644620301197-main.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-literature-bookshelf-nbk326710-pdf",
+      "sha16": "0b42b30204d926b7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-literature-bookshelf-nbk326710-pdf.md",
+      "title": "Bookshelf_NBK326710",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Plasma Metabolic Stability/Literature/Bookshelf_NBK326710.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-literature-doi-10-1016-j-ijpharm-2005-03-022-pdf",
+      "sha16": "804457e1486dcebc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-adme-plasma-metabolic-stability-literature-doi-10-1016-j-ijpharm-2005-03-022-pdf.md",
+      "title": "doi_10.1016_j.ijpharm.2005.03.022",
+      "source_id": "Analytical Chemistry/Jose L - public/ADME/Plasma Metabolic Stability/Literature/doi_10.1016_j.ijpharm.2005.03.022.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-200310-iam-pdb-01-pdf",
+      "sha16": "d286e3c0a0cfc791",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-200310-iam-pdb-01-pdf.md",
+      "title": "200310_IAM_PDB_01",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM 2020/200310_IAM_PDB_01.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-200311-iam-pbs-pdf",
+      "sha16": "92a5566529919056",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-200311-iam-pbs-pdf.md",
+      "title": "200311_IAM_PBS",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM 2020/200311_IAM_PBS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-200313-iam-run-pbs-pdf",
+      "sha16": "1e625d710f77d0d6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-200313-iam-run-pbs-pdf.md",
+      "title": "200313_IAM_Run_PBS",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM 2020/200313_IAM_Run_PBS.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-201120-iam-logd-nurix-pilot-pdf",
+      "sha16": "bc6d2901123f93bb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-201120-iam-logd-nurix-pilot-pdf.md",
+      "title": "201120_IAM_LogD_Nurix_Pilot",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM 2020/201120_IAM_LogD_Nurix_Pilot.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-201130-iam-logd-nurix-pilot-pdf",
+      "sha16": "8e69e8bdaeffe683",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-2020-201130-iam-logd-nurix-pilot-pdf.md",
+      "title": "201130_IAM_LogD_Nurix_Pilot",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM 2020/201130_IAM_LogD_Nurix_Pilot.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-1-pdf",
+      "sha16": "782a0be62cf1d1c2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-1-pdf.md",
+      "title": "170824_Sample 1",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-10-pdf",
+      "sha16": "d2786a7048514dda",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-10-pdf.md",
+      "title": "170824_Sample 10",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 10.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-11-pdf",
+      "sha16": "9edd9ff563baa295",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-11-pdf.md",
+      "title": "170824_Sample 11",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 11.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-12-pdf",
+      "sha16": "020d88de7fee5d30",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-12-pdf.md",
+      "title": "170824_Sample 12",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 12.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-13-pdf",
+      "sha16": "bcf13ea5807ff530",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-13-pdf.md",
+      "title": "170824_Sample 13",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 13.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-14-pdf",
+      "sha16": "b2ba5ffa46e15dd8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-14-pdf.md",
+      "title": "170824_Sample 14",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 14.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-15-pdf",
+      "sha16": "346289f5e541383b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-15-pdf.md",
+      "title": "170824_Sample 15",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 15.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-16-pdf",
+      "sha16": "df450546eb251939",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-16-pdf.md",
+      "title": "170824_Sample 16",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 16.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-17-pdf",
+      "sha16": "444db539d451cc15",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-17-pdf.md",
+      "title": "170824_Sample 17",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 17.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-18-pdf",
+      "sha16": "8202e145362e79f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-18-pdf.md",
+      "title": "170824_Sample 18",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 18.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-19-pdf",
+      "sha16": "375eea19bf518387",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-19-pdf.md",
+      "title": "170824_Sample 19",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 19.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-2-pdf",
+      "sha16": "ad409d8704a26c4e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-2-pdf.md",
+      "title": "170824_Sample 2",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-20-pdf",
+      "sha16": "c8fb28ed4f55aeb2",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-20-pdf.md",
+      "title": "170824_Sample 20",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 20.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-22-pdf",
+      "sha16": "3d4d8882db555f41",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-22-pdf.md",
+      "title": "170824_Sample 22",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 22.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-23-pdf",
+      "sha16": "78863efea7edc814",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-23-pdf.md",
+      "title": "170824_Sample 23",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 23.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-24-pdf",
+      "sha16": "29feaaafa02718d7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-24-pdf.md",
+      "title": "170824_Sample 24",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 24.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-25-pdf",
+      "sha16": "e8c3cce2ff32ff9c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-25-pdf.md",
+      "title": "170824_Sample 25",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 25.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-26-pdf",
+      "sha16": "972f87a8d70accb8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-26-pdf.md",
+      "title": "170824_Sample 26",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 26.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-27-pdf",
+      "sha16": "ead457dad0ec8b42",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-27-pdf.md",
+      "title": "170824_Sample 27",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 27.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-28-pdf",
+      "sha16": "f670b6121c4620ef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-28-pdf.md",
+      "title": "170824_Sample 28",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 28.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-29-pdf",
+      "sha16": "f9200522fa32302c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-29-pdf.md",
+      "title": "170824_Sample 29",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 29.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-3-pdf",
+      "sha16": "edd4a0743751126b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-3-pdf.md",
+      "title": "170824_Sample 3",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-30-pdf",
+      "sha16": "adac78f5307048e6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-30-pdf.md",
+      "title": "170824_Sample 30",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 30.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-31-pdf",
+      "sha16": "9dcff6560ede2fab",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-31-pdf.md",
+      "title": "170824_Sample 31",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 31.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-32-pdf",
+      "sha16": "4fa3f3aabfc74d68",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-analytical-projects-iam-chromatography-iam-commercial-compounds-raw-data-170824-sample-32-pdf.md",
+      "title": "170824_Sample 32",
+      "source_id": "Analytical Chemistry/Jose L - public/Analytical Projects/IAM Chromatography/IAM_Commercial Compounds_Raw Data/170824_Sample 32.pdf",
+      "confidence": "low"
+    }
+  ]
+}

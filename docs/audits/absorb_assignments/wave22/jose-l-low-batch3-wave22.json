@@ -1,0 +1,327 @@
+{
+  "assignment": "jose-l-low-batch3-wave22",
+  "wiki_dir": "references",
+  "wave": "wave22",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0400223-003-cn-hardcopy-489-pdf",
+      "sha16": "00f84ca4b2538b34",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nrx-0400223-003-cn-hardcopy-489-pdf.md",
+      "title": "Hardcopy_489",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NRX-0400223-003-CN/Hardcopy_489.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-20200463-pdf",
+      "sha16": "f85c0da5c54c89e1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-20200463-pdf.md",
+      "title": "20200463",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255-013-AA/20200463.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-20200464-pdf",
+      "sha16": "86bac7218b091f5d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-20200464-pdf.md",
+      "title": "20200464",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255-013-AA/20200464.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-leighton-jose-7142020131011-pdf",
+      "sha16": "484aba731ed5418f",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-0255-nx-0255-013-aa-leighton-jose-7142020131011-pdf.md",
+      "title": "Leighton_Jose_7142020131011",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-0255/NX-0255-013-AA/Leighton_Jose_7142020131011.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-rml-forms-and-quotes-jose-leighton-nuri-309b47b0e1",
+      "sha16": "f7d51e49002258e5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-003-aa-rml-forms-and-quotes-jose-leighton-nuri-309b47b0e1.md",
+      "title": "Jose Leighton_Nurix Therapeutics Inc._Quote3462",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-003-AA/RML Forms and Quotes/Jose Leighton_Nurix Therapeutics Inc._Quote3462.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-20200493-pdf",
+      "sha16": "5b64a3246cfb6edd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-20200493-pdf.md",
+      "title": "20200493",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/17Nov2020/20200493.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-20200495-pdf",
+      "sha16": "5f2c9593b4c0e31a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-20200495-pdf.md",
+      "title": "20200495.",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/17Nov2020/20200495..pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-leighton-jose-10292020115027-pdf",
+      "sha16": "948cd47ed5ff30f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-007-aa-17nov2020-leighton-jose-10292020115027-pdf.md",
+      "title": "Leighton_Jose_10292020115027",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-007-AA/17Nov2020/Leighton_Jose_10292020115027.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-quotes-jose-leighton-nuri-5c50e40fa8",
+      "sha16": "69a0cfcd838b9191",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-quotes-jose-leighton-nuri-5c50e40fa8.md",
+      "title": "Jose Leighton_Nurix Therapeutics Inc._Quote3464",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-010-AA/RML Forms/RML Quotes/Jose Leighton_Nurix Therapeutics Inc._Quote3464.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-quotes-po-25347-nrx-for-r-e3ba3d2c4b",
+      "sha16": "96341199e8307065",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1607-nx-1607-010-aa-rml-forms-rml-quotes-po-25347-nrx-for-r-e3ba3d2c4b.md",
+      "title": "PO #25347-NRX for Robertson Microlit Laboratories, Inc_",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1607/NX-1607-010-AA/RML Forms/RML Quotes/PO #25347-NRX for Robertson Microlit Laboratories, Inc_.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-final-qc-hardcopy-636-pdf",
+      "sha16": "e60b053efebe55b7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-final-qc-hardcopy-636-pdf.md",
+      "title": "Hardcopy_636",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1650/008-AA/final QC/Hardcopy_636.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-final-qc-hardcopy-637-pdf",
+      "sha16": "9efe7c44b847d8a7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-final-qc-hardcopy-637-pdf.md",
+      "title": "Hardcopy_637",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1650/008-AA/final QC/Hardcopy_637.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-final-qc-hardcopy-638-pdf",
+      "sha16": "aecec74289662e11",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-1650-008-aa-final-qc-hardcopy-638-pdf.md",
+      "title": "Hardcopy_638",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-1650/008-AA/final QC/Hardcopy_638.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-20200463-pdf",
+      "sha16": "f85c0da5c54c89e1",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-20200463-pdf.md",
+      "title": "20200463",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-2127/NX-2127-019-AQ/20200463.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-20200464-pdf",
+      "sha16": "86bac7218b091f5d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-20200464-pdf.md",
+      "title": "20200464",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-2127/NX-2127-019-AQ/20200464.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-leighton-jose-101202012269-pdf",
+      "sha16": "1358ded41fa4e9b4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-2127-nx-2127-019-aq-leighton-jose-101202012269-pdf.md",
+      "title": "Leighton_Jose_101202012269",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-2127/NX-2127-019-AQ/Leighton_Jose_101202012269.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-20210572-pdf",
+      "sha16": "281e151746a38141",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-20210572-pdf.md",
+      "title": "20210572",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/AMES Study (007-AA)/20210572.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-duong-natalie-1129202113448-pdf",
+      "sha16": "c0baabe440ad9bf0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-duong-natalie-1129202113448-pdf.md",
+      "title": "Duong_Natalie_1129202113448",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/AMES Study (007-AA)/Duong_Natalie_1129202113448.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-duong-natalie-12202021103059-pdf",
+      "sha16": "68204a16c95cd4b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-ames-study-007-aa-duong-natalie-12202021103059-pdf.md",
+      "title": "Duong_Natalie_12202021103059",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/AMES Study (007-AA)/Duong_Natalie_12202021103059.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-20210572-pdf",
+      "sha16": "281e151746a38141",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-20210572-pdf.md",
+      "title": "20210572",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/20210572.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-4422-tox-nmr-pdf",
+      "sha16": "4e2ba91f3e2ca4e4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-4422-tox-nmr-pdf.md",
+      "title": "4422-tox-NMR",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/4422-tox-NMR.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-duong-natalie-1129202113448-pdf",
+      "sha16": "c0baabe440ad9bf0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-duong-natalie-1129202113448-pdf.md",
+      "title": "Duong_Natalie_1129202113448",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/Duong_Natalie_1129202113448.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-duong-natalie-12202021103059-pdf",
+      "sha16": "68204a16c95cd4b9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-4422-tox-lot-005-aa-duong-natalie-12202021103059-pdf.md",
+      "title": "Duong_Natalie_12202021103059",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-4422/Tox Lot (005-AA)/Duong_Natalie_12202021103059.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-chromatograms-hardcopy-482-pdf",
+      "sha16": "603e56d7181d4348",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-chromatograms-hardcopy-482-pdf.md",
+      "title": "Hardcopy_482",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/AMES IVMN Lot -013/Chromatograms/Hardcopy_482.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-chromatograms-hardcopy-483-pdf",
+      "sha16": "9ced03b7e7806556",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-chromatograms-hardcopy-483-pdf.md",
+      "title": "Hardcopy_483",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/AMES IVMN Lot -013/Chromatograms/Hardcopy_483.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-chromatograms-hardcopy-484-pdf",
+      "sha16": "27510ff35ca0388c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-chromatograms-hardcopy-484-pdf.md",
+      "title": "Hardcopy_484",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/AMES IVMN Lot -013/Chromatograms/Hardcopy_484.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-chromatograms-hardcopy-485-pdf",
+      "sha16": "180223ced4923068",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-chromatograms-hardcopy-485-pdf.md",
+      "title": "Hardcopy_485",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/AMES IVMN Lot -013/Chromatograms/Hardcopy_485.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-rml-results-20210307-pdf",
+      "sha16": "756da1d22a11bb34",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-rml-results-20210307-pdf.md",
+      "title": "20210307",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/AMES IVMN Lot -013/RML Results/20210307.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-rml-results-20210308-pdf",
+      "sha16": "f30d010bf12906c5",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-rml-results-20210308-pdf.md",
+      "title": "20210308",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/AMES IVMN Lot -013/RML Results/20210308.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-rml-results-20210308e-pdf",
+      "sha16": "3ebf8d86de4ea3ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-rml-results-20210308e-pdf.md",
+      "title": "20210308E",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/AMES IVMN Lot -013/RML Results/20210308E.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-rml-results-leighton-jose-6282021144450-pdf",
+      "sha16": "96ad6641cc28a13e",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-ames-ivmn-lot--013-rml-results-leighton-jose-6282021144450-pdf.md",
+      "title": "Leighton_Jose_6282021144450",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/AMES IVMN Lot -013/RML Results/Leighton_Jose_6282021144450.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nrx-0395948-003-aa-20200460-pdf",
+      "sha16": "66ca87c3229efe87",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nrx-0395948-003-aa-20200460-pdf.md",
+      "title": "20200460",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/NRX-0395948-003-AA/20200460.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nrx-0395948-003-aa-20200461-pdf",
+      "sha16": "c23ece717b30cc89",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nrx-0395948-003-aa-20200461-pdf.md",
+      "title": "20200461",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/NRX-0395948-003-AA/20200461.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nrx-0395948-003-aa-leighton-jose-101202012269-pdf",
+      "sha16": "1358ded41fa4e9b4",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nrx-0395948-003-aa-leighton-jose-101202012269-pdf.md",
+      "title": "Leighton_Jose_101202012269",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/NRX-0395948-003-AA/Leighton_Jose_101202012269.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-20200492-pdf",
+      "sha16": "d280bb4bdb092b2d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-20200492-pdf.md",
+      "title": "20200492",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/NX-5948-009-AA/20200492.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-20200494-pdf",
+      "sha16": "1bfc347e193587ce",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-20200494-pdf.md",
+      "title": "20200494",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/NX-5948-009-AA/20200494.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-leighton-jose-10292020115027-pdf",
+      "sha16": "948cd47ed5ff30f6",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-characterizations-nx-5948-nx-5948-009-aa-leighton-jose-10292020115027-pdf.md",
+      "title": "Leighton_Jose_10292020115027",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/Characterizations/NX-5948/NX-5948-009-AA/Leighton_Jose_10292020115027.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-pos-and-re-3f38cf686e",
+      "sha16": "e089b9e4b7112a92",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-pos-and-re-3f38cf686e.md",
+      "title": "Jose Leighton_Quote1675",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-010-AA/Robertson Microlit/POs and Requests/Jose Leighton_Quote1675.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-20190190-pdf",
+      "sha16": "63f375e30cb4374b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-20190190-pdf.md",
+      "title": "20190190",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-010-AA/Robertson Microlit/Results/20190190.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-20190191-pdf",
+      "sha16": "03110c15d6f7c510",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-jose-l---public-development-support-medchem-lot-release-and-reports-nrx-0388766-010-aa-robertson-microlit-results-20190191-pdf.md",
+      "title": "20190191",
+      "source_id": "Analytical Chemistry/Jose L - public/Development Support/MedChem Lot Release and Reports/NRX-0388766-010-AA/Robertson Microlit/Results/20190191.pdf",
+      "confidence": "low"
+    }
+  ]
+}

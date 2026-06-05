@@ -1,0 +1,327 @@
+{
+  "assignment": "misc-low-wave24",
+  "wiki_dir": "references",
+  "wave": "wave24",
+  "entries": [
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-htd-binding-automation-docx",
+      "sha16": "05263b2c54a24511",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-315-automation-project-automation-protocols-htd-binding-automation-docx.md",
+      "title": "HTD Binding (Automation)",
+      "source_id": "Analytical Chemistry/Robert K - Public/315 Automation Project/Automation Protocols/HTD Binding (Automation).docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_analytical-chemistry-robert-k---public-research-hplc-standard-mix-docx",
+      "sha16": "4165a29af90631b3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_analytical-chemistry-robert-k---public-research-hplc-standard-mix-docx.md",
+      "title": "HPLC Standard Mix",
+      "source_id": "Analytical Chemistry/Robert K - Public/Research/HPLC Standard Mix.docx",
+      "confidence": "medium"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-therapeutic-potential-of-toll-like-pdf",
+      "sha16": "ae7e87cab86a816d",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-therapeutic-potential-of-toll-like-pdf.md",
+      "title": "Therapeutic potential of Toll-like",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Therapeutic potential of Toll-like.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-toll-like-receptor-9-tlr9-agonists-in-the-treatment-of-cancer-pdf",
+      "sha16": "9d6894e297287a41",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-toll-like-receptor-9-tlr9-agonists-in-the-treatment-of-cancer-pdf.md",
+      "title": "Toll-like receptor 9 (TLR9) agonists in the treatment of cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Toll-like receptor 9 (TLR9) agonists in the treatment of cancer.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-toll-like-receptor-control-of-the-adaptive-immune-responses-pdf",
+      "sha16": "614751404985070c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-toll-like-receptor-control-of-the-adaptive-immune-responses-pdf.md",
+      "title": "Toll-like receptor control of the adaptive immune responses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Toll-like receptor control of the adaptive immune responses.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-toll-like-receptors-and-control-of-immunity-pdf",
+      "sha16": "a162803bf2ca04e0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-toll-like-receptors-and-control-of-immunity-pdf.md",
+      "title": "Toll like receptors and control of immunity",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/Toll like receptors and control of immunity.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-unc93b1-mediates-differential-trafficking-of-endosomal-tlrs-pdf",
+      "sha16": "af731b618c2a1b69",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-desktop-13jan23-unc93b1-mediates-differential-trafficking-of-endosomal-tlrs-pdf.md",
+      "title": "UNC93B1 mediates differential trafficking of endosomal TLRs",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/DESKTOP 13JAN23/UNC93B1 mediates differential trafficking of endosomal TLRs.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-a-comprehensive-review-of-lysine-specific-pdf",
+      "sha16": "276716ff74dadcc3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-a-comprehensive-review-of-lysine-specific-pdf.md",
+      "title": "A comprehensive review of lysine-specific",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/A comprehensive review of lysine-specific.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-epigenetic-regulation-of-hematopoietic-differentiation-by-gfi-1-and-gfi-1b-is-mediated-by-the-cofactors-corest-and-lsd1-pdf",
+      "sha16": "038946687f329661",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-epigenetic-regulation-of-hematopoietic-differentiation-by-gfi-1-and-gfi-1b-is-mediated-by-the-cofactors-corest-and-lsd1-pdf.md",
+      "title": "Epigenetic regulation of hematopoietic differentiation by Gfi-1 and Gfi-1b is mediated by the cofactors CoREST and LSD1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/Epigenetic regulation of hematopoietic differentiation by Gfi-1 and Gfi-1b is mediated by the cofactors CoREST and LSD1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-histone-demethylase-lsd1-represses-pdf",
+      "sha16": "a4df0c589c7d6fbf",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-histone-demethylase-lsd1-represses-pdf.md",
+      "title": "Histone demethylase Lsd1 represses",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/Histone demethylase Lsd1 represses.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-inflammatory-reactions-and-severe-neutropenia-in-mice-pdf",
+      "sha16": "ffeac7653cc38062",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-inflammatory-reactions-and-severe-neutropenia-in-mice-pdf.md",
+      "title": "Inflammatory reactions and severe neutropenia in mice",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/Inflammatory reactions and severe neutropenia in mice.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-inhibition-of-histone-lysine-specific-demethylase-1-elicits-breast-pdf",
+      "sha16": "9029a0fd07babd52",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-inhibition-of-histone-lysine-specific-demethylase-1-elicits-breast-pdf.md",
+      "title": "Inhibition of histone lysine-specific demethylase 1 elicits breast",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/Inhibition of histone lysine-specific demethylase 1 elicits breast.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-local-and-systemic-tolerability-of-a-2-omethoxyethyl-antisense-oligonucleotide-targeting-pdf",
+      "sha16": "1669bee8ee6c21ee",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-local-and-systemic-tolerability-of-a-2-omethoxyethyl-antisense-oligonucleotide-targeting-pdf.md",
+      "title": "Local and systemic tolerability of a 2\u2032Omethoxyethyl antisense oligonucleotide targeting",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/Local and systemic tolerability of a 2\u2032Omethoxyethyl antisense oligonucleotide targeting.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-lsd1-is-a-subunit-of-the-nurd-complex-and-targets-the-metastasis-programs-in-breast-cancer-pdf",
+      "sha16": "e3ffc84eb9bca4d7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-lsd1-is-a-subunit-of-the-nurd-complex-and-targets-the-metastasis-programs-in-breast-cancer-pdf.md",
+      "title": "LSD1 is a subunit of the NuRD complex and targets the metastasis programs in breast cancer",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/LSD1 is a subunit of the NuRD complex and targets the metastasis programs in breast cancer.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-lysine-specific-demethylase-1-restricts-hematopoietic-progenitor-proliferation-and-is-essential-for-terminal-differentiation-pdf",
+      "sha16": "7bfccc3e45d14280",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-lysine-specific-demethylase-1-restricts-hematopoietic-progenitor-proliferation-and-is-essential-for-terminal-differentiation-pdf.md",
+      "title": "Lysine-specific demethylase 1 restricts hematopoietic progenitor proliferation and is essential for terminal differentiation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/Lysine-specific demethylase 1 restricts hematopoietic progenitor proliferation and is essential for terminal differentiation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-sp-2577-seclidemstat-for-the-treatment-of-pdf",
+      "sha16": "fcc847bace09bd5b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-sp-2577-seclidemstat-for-the-treatment-of-pdf.md",
+      "title": "SP-2577 (Seclidemstat) for the Treatment of ",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/SP-2577 (Seclidemstat) for the Treatment of .pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-the-zinc-finger-proto-oncogene-gfi-1b-is-essential-for-development-of-the-erythroid-and-megakaryocytic-lineages-pdf",
+      "sha16": "92f901811d502fef",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-lsd1-literature-the-zinc-finger-proto-oncogene-gfi-1b-is-essential-for-development-of-the-erythroid-and-megakaryocytic-lineages-pdf.md",
+      "title": "The zinc-finger proto-oncogene Gfi-1b is essential for development of the erythroid and megakaryocytic lineages.",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/LSD1 Literature/The zinc-finger proto-oncogene Gfi-1b is essential for development of the erythroid and megakaryocytic lineages..pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-modular-design-of-synthetic-receptors-for-programmed-gene-regulation-in-cell-therapies-pdf",
+      "sha16": "c048639ae9e38441",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-modular-design-of-synthetic-receptors-for-programmed-gene-regulation-in-cell-therapies-pdf.md",
+      "title": "Modular design of synthetic receptors for programmed gene regulation in cell therapies",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Modular design of synthetic receptors for programmed gene regulation in cell therapies.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-t-cell-receptor-tcr-signaling-in-health-and-disease-pdf",
+      "sha16": "b6367f90c51a7ade",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-t-cell-receptor-tcr-signaling-in-health-and-disease-pdf.md",
+      "title": "T cell receptor (TCR) signaling in health and disease",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/T cell receptor (TCR) signaling in health and disease.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-1098-taxes-pt1-pdf",
+      "sha16": "72458420dba76190",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-1098-taxes-pt1-pdf.md",
+      "title": "1098_Taxes_pt1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/1098_Taxes_pt1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-1098-taxes-pt2-pdf",
+      "sha16": "9dd4d91839b3431a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-1098-taxes-pt2-pdf.md",
+      "title": "1098_Taxes_pt2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/1098_Taxes_pt2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-11554-163440-0-2022-2023-02-17-01-27-35-505-pdf",
+      "sha16": "bc649db0cbc9933a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-11554-163440-0-2022-2023-02-17-01-27-35-505-pdf.md",
+      "title": "11554-163440-0-2022-2023-02-17-01-27-35-505",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/11554-163440-0-2022-2023-02-17-01-27-35-505.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-cd97-promotes-spleen-dendritic-cell-homeostasis-through-the-mechanosensing-of-red-blood-cells-pdf",
+      "sha16": "815065ef7653c6cb",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-cd97-promotes-spleen-dendritic-cell-homeostasis-through-the-mechanosensing-of-red-blood-cells-pdf.md",
+      "title": "CD97 promotes spleen dendritic cell homeostasis through the mechanosensing of red blood cells",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/CD97 promotes spleen dendritic cell homeostasis through the mechanosensing of red blood cells.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-dna-double-strand-breaks-as-drivers-of-neural-genomic-change-function-pdf",
+      "sha16": "826ae86d1c13a74c",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-dna-double-strand-breaks-as-drivers-of-neural-genomic-change-function-pdf.md",
+      "title": "DNA double-strand breaks as drivers of neural genomic change, function,",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/DNA double-strand breaks as drivers of neural genomic change, function,.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-gpr35-promotes-neutrophil-recruitment-in-response-pdf",
+      "sha16": "0d01b36a6361ea83",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-gpr35-promotes-neutrophil-recruitment-in-response-pdf.md",
+      "title": "GPR35 promotes neutrophil recruitment in response",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/GPR35 promotes neutrophil recruitment in response.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-interferon-gamma-constrains-type-2-lymphocyte-niche-boundaries-during-mixed-inflammation-pdf",
+      "sha16": "544198b776f397fd",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-interferon-gamma-constrains-type-2-lymphocyte-niche-boundaries-during-mixed-inflammation-pdf.md",
+      "title": "Interferon gamma constrains type 2 lymphocyte niche boundaries during mixed inflammation",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/Interferon gamma constrains type 2 lymphocyte niche boundaries during mixed inflammation.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-irs-form-1099-2022-pdf",
+      "sha16": "e55739cf5f50c691",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-irs-form-1099-2022-pdf.md",
+      "title": "IRS Form 1099_2022",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/IRS Form 1099_2022.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-lymphocyte-egress-from-thymus-pdf",
+      "sha16": "1b01ec0c45583e59",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-lymphocyte-egress-from-thymus-pdf.md",
+      "title": "Lymphocyte egress from thymus",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/Lymphocyte egress from thymus.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-partek-price-quote-draft-220526-0105-pdf",
+      "sha16": "b0d9561927805969",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-partek-price-quote-draft-220526-0105-pdf.md",
+      "title": "Partek Price Quote_draft_220526_0105",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/Partek Price Quote_draft_220526_0105.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-sphingosine-1-phosphate-pdf",
+      "sha16": "84d4969ea8c1e984",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-sphingosine-1-phosphate-pdf.md",
+      "title": "Sphingosine-1-Phosphate",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/Sphingosine-1-Phosphate.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-systemic-dysfunction-and-plasticity-of-the-immune-macroenvironment-in-cancer-models-pdf",
+      "sha16": "7ffd2907df5341a9",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-systemic-dysfunction-and-plasticity-of-the-immune-macroenvironment-in-cancer-models-pdf.md",
+      "title": "Systemic dysfunction and plasticity of the immune macroenvironment in cancer models",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/Systemic dysfunction and plasticity of the immune macroenvironment in cancer models.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-first-professor-1-pdf",
+      "sha16": "185e69ab8cca321b",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-first-professor-1-pdf.md",
+      "title": "UW First professor _1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/UW First professor _1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-first-professor-2-pdf",
+      "sha16": "6b9e08570d75ca12",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-first-professor-2-pdf.md",
+      "title": "UW First professor _2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/UW First professor _2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-first-professor-3-pdf",
+      "sha16": "b16ee682a5abba9a",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-first-professor-3-pdf.md",
+      "title": "UW First professor _3",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/UW First professor _3.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-second-professor-1-pdf",
+      "sha16": "113aa4f7ac9110c7",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-second-professor-1-pdf.md",
+      "title": "UW Second Professor_1",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/UW Second Professor_1.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-second-professor-2-pdf",
+      "sha16": "e685241d4856f1c3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-uw-folder-uw-second-professor-2-pdf.md",
+      "title": "UW Second Professor_2",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/UW folder/UW Second Professor_2.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-vav1-a-key-signal-transducer-downstream-of-the-tcr-pdf",
+      "sha16": "b6c4baa74f78c7cc",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-desktop-22mar23-vav1-a-key-signal-transducer-downstream-of-the-tcr-pdf.md",
+      "title": "Vav1 a key signal transducer downstream of the TCR",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Desktop 22MAR23/Vav1 a key signal transducer downstream of the TCR.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-mayan-exhibition-ofe-pdf",
+      "sha16": "8ed45ad4cda4f2b8",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-files-from-desktop-april24-23-mayan-exhibition-ofe-pdf.md",
+      "title": "Mayan Exhibition_Ofe",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Files from desktop April24,23/Mayan Exhibition_Ofe.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-2022-e-file-authorizations-taxes-pdf",
+      "sha16": "3262655430e25dd0",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-2022-e-file-authorizations-taxes-pdf.md",
+      "title": "2022 E-file Authorizations_TAXES",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/2022 E-file Authorizations_TAXES.pdf",
+      "confidence": "low"
+    },
+    {
+      "entry_id": "publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-a-comprehensive-review-of-lysine-specific-pdf",
+      "sha16": "276716ff74dadcc3",
+      "raw_path": "ask_jojo_raw/publicdrive/publicdrive_in-vivo-pharm-jose-gomez--public---historical-flow-computer-desktop-a-comprehensive-review-of-lysine-specific-pdf.md",
+      "title": "A comprehensive review of lysine-specific",
+      "source_id": "In Vivo Pharm/Jose Gomez -public - Historical/Flow computer Desktop/A comprehensive review of lysine-specific.pdf",
+      "confidence": "low"
+    }
+  ]
+}
